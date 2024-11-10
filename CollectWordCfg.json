@@ -1,0 +1,570 @@
+{
+    "1001": {
+        "id": 1001,
+        "name": "Project Gaea",
+        "desc": "By the early 22nd century, human civilization faced impending destruction by the very weapons of war it had created.\nThis common threat forced the nations of the world to declare a truce and to begin working together to advance the Project Gaea\u2014\nIn low Earth orbit, a supercomputer called Gaea.Zero created a metaverse to which all human consciousnesses could be uploaded.\nHumanity elected to surrender its flesh and crumbling planet and have its consciousness survive and reincarnated within this data network, achieving \"immortality\" in the process.\nThrough extensive calculations, Gaea established the Idealbild World Line, in which virtual societies are arranged to function and develop along a stable trajectory. Currently, Idealbild is being utilized to assess the world of Gaea's stability.",
+        "type": 1
+    },
+    "1002": {
+        "id": 1002,
+        "name": "Gaea.Zero",
+        "desc": "A supercomputer designed to ensure the survival of human civilization and the continued existence of all human consciousness. Called \"Gaea\" for short, it draws power from its solar panels as it follows the space orbit.\nGaea constructed a data network within which human consciousness can live on forever, but owing to time constraints and the limitations on its stability, the appearance and rules of the world that it created are almost entirely based on Earth before the outbreak of war.\nIn order for humanity to live more fulfilled lives, Gaea made real-time calculations for the future based on world functions and established a path that would guarantee the stable development of human civilization with in the World Line\u2014Idealbild.\nGaea assimilated data from Earth's human civilizations and in doing so derived unlimited computing power, ensuring it could control Idealbild's Deviation Rate to a certain extent.",
+        "type": 1
+    },
+    "1003": {
+        "id": 1003,
+        "name": "Aether Gazer",
+        "desc": "Aether Gazer is an organization of Modifiers established by Odin and is the main force against the Visbanes in the Sephirah Zones.\nOdin's goal when she first established this organization was to organize the current batch of Mods who had arrived and instill discipline in them, enabling them to protect newcomers as well as carry out research on the Visbanes.\nLater, in order to conceal the identities of the members from the public, Odin established a multi-industry company of the same name, allowing Modifiers in the organization to operate in human society under the guise of being its employees.",
+        "type": 1
+    },
+    "1004": {
+        "id": 1004,
+        "name": "Modifiers",
+        "desc": "The Gaea system has written a number of self-check programs that run autonomously to eliminate bugs during world processing and prevent these bugs from causing disasters on the Surface Layer.\nWith the emergence of the Visbanes, however, these self-check programs alone were no longer sufficient to maintain the stable operation of the Gaea world. So, Gaea granted these programs with human forms and certain permissions, allowing them to intervene directly at the Surface Layer.\nThese personalized and substantialized self-check programs are called Modifiers. The mission of these Modifiers, or Mods, is to maintain balance in Gaea and battle the civilization-destroying Visbanes to keep the world steady on the trajectory set for it by Idealbild.",
+        "type": 1
+    },
+    "1005": {
+        "id": 1005,
+        "name": "Visbanes",
+        "desc": "After Gaea's Source Layer suffered an unknown infection, physical manifestations of bugs gradually appeared in the Source Layer as human civilization developed.\nThough these Visbanes, as they came to be called, take different forms, most only have a strong desire to destroy. They go from the Source Layer to the human cities on the Surface Layer to destroy what they can.\nHuman consciousnesses that are corroded by the Visbane are lost forever, causing tremendous damage to the Surface Layer and even affecting Idealbild's Deviation Rate.\nSimultaneously, highly intelligent Visbanes are occasionally born, though what their objectives are and what calamities they may rain down on Gaea are not yet known.",
+        "type": 1
+    },
+    "2001": {
+        "id": 2001,
+        "name": "Gen-zone",
+        "desc": "After the Gaea system created the ten Sephirah Zones, it then created zones in other planes that function as correctors and were named according to the myths and legends of the old world, called \"Gen-zones\".\nThe current known Gen-zones are Yggdrasill, Shinou, Nile, Olympus, Asterism, and Tian Yuan. These worlds are where Modifiers are born, and they are not connected to one another.",
+        "type": 2
+    },
+    "2002": {
+        "id": 2002,
+        "name": "Ain Soph",
+        "desc": "The most prosperous Sephirah Zone in Gaea. It has a mild and pleasant natural environment, and a population composed of high-asset immigrants from all over the world.As the central hub of the Photon Rail and the seat of CORG HQ, Ain Soph is essentially the heart of Gaea.",
+        "type": 2
+    },
+    "2003": {
+        "id": 2003,
+        "name": "Neuhansa",
+        "desc": "A Sephirah Zone known for its advanced industrial technology and first-rate AGI Mecha industry. It holds the richest source of Tranzist Ore in Gaea, and is well-known among the Sephirah Zones for its craft breweries.",
+        "type": 2
+    },
+    "2004": {
+        "id": 2004,
+        "name": "Shashvat",
+        "desc": "A Sephirah Zone that prospers from the life sciences and pharmaceutical industries, rich in quality textiles and spices. This Sephirah Zone's lack of planning for urban expansion in the early stages of its existence led to a plethora of shoddy buildings that became a hotbed for gangs and the black market.",
+        "type": 2
+    },
+    "2005": {
+        "id": 2005,
+        "name": "Omorfies",
+        "desc": "A Sephirah Zone that is also known as \"the Capital of the Arts\" due to its cultural and artistic exports. Artistic creation is prevalent throughout this Sephirah Zone, and those with a high level of artistic mastery hold a higher social status.",
+        "type": 2
+    },
+    "2006": {
+        "id": 2006,
+        "name": "Xu Heng",
+        "desc": "The first Sephirah Zone generated in Gaea, it's also a transfer station on most Photon Rail routes before returning to Ain Soph. Its soil is rich in an anti-gravity mineral called Cloudsong Ore, which makes the land itself hover in the air. Xu Heng's research into Cloudsong Ore has given it access to the most cutting-edge gravity and space technologies.",
+        "type": 2
+    },
+    "2007": {
+        "id": 2007,
+        "name": "Sasanami",
+        "desc": "Sasanami is a Sephirah Zone with a distinctive cultural identity. While not rich in resources, its fishing and agriculture have developed reasonably well. Its main exports are electrical appliances with low-tech requirements and specialty handicrafts. To overcome its dearth of resources, the five families that govern Sasanami actively coordinated the people of Sasanami to develop islands off the mainland, with initial success.",
+        "type": 2
+    },
+    "3001": {
+        "id": 3001,
+        "name": "CORG Supreme Directorate",
+        "desc": "CORG is an institution that was built to prevent further disputes among Sephirah Zones. It views itself as a cog in the wheel that keeps Gaea running normally, and its core purpose is to reduce friction and disagreements among Sephirah Zones while encouraging the development of societal civilization, ultimately arriving at a paradise where everyone can be happy.\nCORG has a strong influence in each Sephirah Zone but it does not interfere much with Sephirah Zone affairs. It only intervenes when Gaea's order is disrupted by Quakes, through the Egregious Crimes Department and Quake Damage Control Department.\nCORG also has a tight hold on the communication channels among Sephirah Zones. It set up the Port and Photon Craft Rail Management specifically to coordinate the information and material exchange among different Sephirah Zones.",
+        "type": 3
+    },
+    "3002": {
+        "id": 3002,
+        "name": "Aether Gazer Division Nine",
+        "desc": "Division Nine, actually Anti-Visbanes General Command, is not open to the public.\nIts office locates on the top floor of the Aether Gazer building, yet the details of this division are hidden from the public and the human employees from other divisions. Supervisor Odin is the leader of Division Nine. However, the division's actual affairs are handled by Shu.\nThe members of Division Nine are all Mods, and are divided into groups according to their specific functions against the Visbanes. These are separated as follows: Leaders, Special Task Force, General Office, Intelligence Office, and The Cryptics.\nAll Mods within Division Nine have the ability to fight Visbanes, so even members who are not part of the Special Task Force will join the combat team temporarily if needed.",
+        "type": 3
+    },
+    "3003": {
+        "id": 3003,
+        "name": "Olympia Express",
+        "desc": "Olympia Express is the leading logistics company in Ain Soph, with branches in several Sephirah Zones. It was able to garner this kind of success thanks to Aether Gazer's investment in them while continuing to hold true to its founders' original belief in \"Delivering hope to everyone.\"",
+        "type": 3
+    },
+    "3004": {
+        "id": 3004,
+        "name": "Spealght Industries",
+        "desc": "Spealght Industries was a family business in the north of Erzig. The family leader, Morgan Spealght, led the business in the vigorous development of modern machinery using the natural mineral resources of Neuhansa. Several generations later, under the leadership of Miller Spealght, Spealght Industries was ranked among the top companies in Neuhansa with its pioneering AGI Mecha technology. It has managed to maintain its position as the leader of the AGI Mecha industry in Neuhansa for a long time since.\nThough the AGI Mecha Industry has developed and is no longer spearheaded by Spealght Industries as it was in the past, they are still the undisputed leaders in the field. The company has a complete industrial chain that encompasses the production and sale of almost all types of AGI Mecha on the market, along with a strong R&D arm and a long-term partnership with the Neuhansa government. Their reputation is spotless. Their leading product is the industrial production of AGI Mechas, with high standards that are far superior to newcomers in the industry.\nHowever, though their glorious history brings prestige to Spealght Industries, it has also become a shackle to some extent. With its long history, Spealght Industries is still operating under the rather outdated tradition of family succession. It worked well when it was a small to medium-sized enterprise, but this is clearly not compatible with Spealght Industries as it is today. Family arguments can easily spill into the boardroom, and afford opportunities that can be exploited by those with ulterior motives. Rumors have even emerged that the family is manipulating multiple members of parliament.",
+        "type": 3
+    },
+    "3005": {
+        "id": 3005,
+        "name": "Children of Iron",
+        "desc": "Children of Iron is a wanted criminal organization. Formerly a group of bounty hunters active in Rostach. Their old leader was Olheim, but Ethan has taken over now.\nIn the early days, the Children of Iron did not stand out from the other bounty hunter groups in Rostach, and were stretched so thin in terms of manpower and supplies that they were on the verge of disbanding.\nHowever, on a trip to the Akkadian Guild, Olheim happened to hear a conversation between Marduk and a CORG commissioner, and learned a shocking truth: CORG had been secretly suppressing the development of Rostach by restricting the flow of materials, infrastructure construction, and technological upgrades.\nIn the end, the poverty-stricken Children of Iron decided to do something about it. They justified their actions by claiming they were \"taking back what belongs to Rostach\", looting Photon Rail goods managed by CORG. The chances of the Children of Iron successfully attacking the Photon Rail were slim, but Ethan, who had drifted into Rostach, lent them a helping hand.\nEthan was a subject of transformation experiments and had lost his memories. He joined the Children of Iron after hearing that they wanted to rebel against CORG, telling them that he too wanted to learn more about them. Ethan actually suspected that his transformation had something to do with CORG. Neuhansa, with its well-developed machine industry, was also equally suspicious.\nChildren of Iron relied on Ethan's strengths and successfully intercepted the CORG arms supplies. Olheim grew convinced of Ethan's unique leadership skills through their interactions, and he gave the position of leader to Ethan. This was how the Children of Iron, with Ethan as their leader, relied on repeated attacks on CORG's supplies to grow and develop.\nAfter several attempts by CORG to suppress the Children of Iron ended in failure, the key figure of Children of Iron suddenly disappeared. Intel indicates that Spealght Industries had been in contact with them before his disappearance.",
+        "type": 3
+    },
+    "3006": {
+        "id": 3006,
+        "name": "Akkadian Guild",
+        "desc": "Founded by the mysterious former commander Marduk, the Akkadian Guild is the most reputable bounty hunter guild in Rostach.\nSome say the Akkadian Guild is the cornerstone of Rostach's development. While this is something of an overstatement, its founding did bring hope to the lives of many desperate people.\nIn the beginning, the goal of the Akkadian Guild was to provide a livelihood for destitute orphans, in which Marduk would provide them with assignments.\nAs the number of completed jobs began to increase, the Akkadian Guild also began to expand in scale. In order to facilitate the management of the increasing number of commissions and contractors, it was transformed into the formal bounty hunters' guild it is today.",
+        "type": 3
+    },
+    "3007": {
+        "id": 3007,
+        "name": "Stellaris Academy",
+        "desc": "Stellaris Academy is both a local civilian educational institute and an official organization in Omorfies. It provides a study facility and learning resources for those who aspire to the arts, and it is directly governed by Astral Council.\nApart from students and faculty, the council also appoints government officials to manage the academy's affairs.\nGraduates of Senhoshi Academy can use their degrees to apply to become appraisers, either with an existing association or by following the formal procedure to create a brand new association.\nThe dean of the academy and the branch administrators are all leaders in artistic achievement, and there is a high likelihood that the dean will become a member of the Astral Council once a current member withdraws.",
+        "type": 3
+    },
+    "3008": {
+        "id": 3008,
+        "name": "Astral Council",
+        "desc": "The chief council that oversees all of Omorfies. Comprised of seven artists of the highest artistic attainment, the council sits directly above both law enforcement agencies and the legislature, making it the highest power in Omorfies.",
+        "type": 3
+    },
+    "3009": {
+        "id": 3009,
+        "name": "Society of Muses",
+        "desc": "A Modifier group independent of Aether Gazer. Headquartered in Omorfies, they use the Society as a cover to monitor the stability of the Source Layer there and gather intel related to Visbanes.\nOn the surface, the Society of Muses is one of several appraisal societies in Omorfies, called \"the Association for the Appraisal of Unconventional Art\". Represented by Hades, Hera, and others, the majority of the Muses' members boast excellent art appreciation skills.",
+        "type": 3
+    },
+    "3010": {
+        "id": 3010,
+        "name": "The Knights of Convallaria",
+        "desc": "The Knights of Convallaria are the law enforcement body of the Astral Council. Usually based at Stellaris Academy, they are mainly responsible for the security of government facilities and the Stellaris Temple, as well as the smooth running of the Ardisis Ceremony that takes place once every five years.\nApart from the Knights of Convallaria, there are also law enforcement forces stationed throughout Omorfies called the Resident Corps, which are the equivalent of local police. They're responsible for maintaining public order and security at local associations, as well as managing civil disputes.\nOn paper, the Resident Corps is under the unified command of the Knights of Convallaria.",
+        "type": 3
+    },
+    "3011": {
+        "id": 3011,
+        "name": "Izuru Family",
+        "desc": "One of the five families ruling Sasanami District. They worship the Crane God, one of the five Mountain Gods.\nIzuru Masayoshi, the current head of the family, introduced tax cuts and other measures to safeguard food prices, garnering the Izuru Family popularity among the general public. Moreover, the Izuru Family image is the same as the auspicious crane of Sasanami legend, which the public naturally has an affinity for.\nAn ancestor of the Izuru Family was one of the five clerics present for the \"Madoiyama Ceremony\", and the ancestor later changed their surname to Izuru as a lasting tribute to the Crane God, one of the five Mountain Gods.\nThe Izuru Family owns a large area of farmland in Shimogyou, and collects a land tax from the farmers there every year. Unlike the other families, however, the Izuru Family maintains good relations with the farmers. As the most sensitive of the five families to the needs of the people, Izuru Masayoshi enjoys a stellar reputation as the Prime Lord.\nOnce when the Miyahebi Family fell on hard times, the Izuru Family acquired a large portion of their fishing waters and attracted throngs of fishermen to join the Izuru Family as they developed their own shipbuilding industry. Their influence in fishing and shipbuilding has now surpassed that of the Miyahebi Family, much to the latter's chagrin.\nNow, the only rival to the Izuru Family's influence in Sasanami District is the Karasugo Family. However, in terms of political status and popularity, the Izuru Family are undoubtedly on top.",
+        "type": 3
+    },
+    "3012": {
+        "id": 3012,
+        "name": "Miyahebi Family",
+        "desc": "One of the five families ruling Sasanami District. They worship the Snake God, one of the five Mountain Gods.\nThe family is responsible for managing Sasanami's fishing areas. They used to be in possession of leading shipbuilding technology, but mismanagement led to the forced sale of large areas of fishing waters. Fishermen also left, and this accelerated the decline of the family, sparking a bitter conflict with the Izuru Family.\nAn ancestor of the Miyahebi Family was one of the five clerics present for the \"Madoiyama Ceremony\", and later changed his surname to Miyahebi as a lasting tribute to the Snake God, one of the five mountain gods.\nThe Miyahebi Family has always imposed harsh taxes on its fishermen, while stymieing their efforts to establish guilds and defend their own interests. Although this was clearly effective in the early days, the method has backfired as other industries in Sasanami District have started to develop.\nLater mismanagement forced them to sell a large portion of their fishing waters to the Izuru family for emergency capital. Simultaneously, the Izuru family poached many of their best shipbuilding talents, leaving them at a heavy disadvantage in the market.\nFour years ago, a mansion fire did so much damage that the Prime Lordship that should have fallen to the Miyahebi family head was passed instead to the Izuru family. The Miyahebi family has now declined the most among the five families to an empty shell of what it once was.",
+        "type": 3
+    },
+    "3013": {
+        "id": 3013,
+        "name": "Karasugo Family",
+        "desc": "One of the five families ruling Sasanami District. They worship the Crow God, one of the five Mountain Gods.\nThe family has been involved in the semiconductor research and development industry for over a century. However, their secretive top executives seem to oppose the Izuru Family, and have even covertly trained a special ops team called \"Ky\u016b\".",
+        "type": 3
+    },
+    "3014": {
+        "id": 3014,
+        "name": "Meruism",
+        "desc": "A gang in Shashvat District that helps the government manage the chaotic neighborhood.\nTheir main business is in the trade of textiles, spices, and sugar. They also run several underground boxing rings.",
+        "type": 3
+    },
+    "3015": {
+        "id": 3015,
+        "name": "Tian Lu Traders",
+        "desc": "The largest commercial alliance of Xu Heng District, mainly engaging in local financial investments and the trading of the district's raw materials.\nAn elite security team has also been developed under its flag to ensure the safety of goods.",
+        "type": 3
+    },
+    "3016": {
+        "id": 3016,
+        "name": "Quad",
+        "desc": "The Quad is an institution that was born out of the calamity that was the Cloudsong Crisis. In the face of possible catastrophe, the Quad poured its resources into the development of the Astral Engine and was successful in regulating the gravitational forces that threatened the very existence of Xu Heng.\nSince then, for the sake of the people of Xu Heng, the Quad has sought to ensure the stable operations of the Astral Engine, maintain the orderly trade of Cloudsong Ore, and eradicate the Visbanes.\nThe Quad is located at the foot of a hill in northern Yu Jing, right beneath the Astral Engine. Apart from its head, Gengchen, who is based in Yu Jing, the Quad is also represented by individual deputies on the other four hovering islands. Important decisions are made by way of discussion between these five.\nWith the hard work and support of the Quad, Xu Heng has enjoyed years and years of peace and stability, and the Quad is widely respected by the Xu Heng population.",
+        "type": 3
+    },
+    "4001": {
+        "id": 4001,
+        "name": "Morgan Spealght",
+        "desc": "Morgan Spealght was born in Neuhansa District and was the founder and first chairman of Spealght Industries. As a young man, he founded Spealght Industries as mainly a steel concern, investing in and acquiring a large number of AGI Mecha research and development companies in the Era of Gray Gold with the help of his Tranzist ore dividends. The business grew rapidly under his management and was renamed to Spealght Industries.",
+        "type": 4
+    },
+    "4002": {
+        "id": 4002,
+        "name": "Miller Spealght",
+        "desc": "The grandson of Morgan Spealght, Miller Spealght graduated from Plumview University and has led a successful career in AGI Mecha research and development.\nHe took over as chairman of Spealght Industries at just thirty years old. Eight years later, he released the key technology developed for AGI Mecha, the Klein Protocol, to the public, leading him to be dubbed \"Magnanimous Miller\".\nThis kicked off a golden age for AGI Mecha research and development, with all sorts of companies using this technology to produce all manner of AGI Mecha as the AGI Mecha market boomed.\nOf course, such a move also enhanced Spealght's reputation, further elevating his public image. Spealght now sits firmly at the top of the fiercely competitive AGI Mecha market that is now entering an even more glorious era.",
+        "type": 4
+    },
+    "4003": {
+        "id": 4003,
+        "name": "Eugene Spealght",
+        "desc": "Eugene Spealght was born the year the Klein Protocol was published, and after a series of family infights, he officially became the chairman of Spealght Industries at the age of 32.\nMany years later when the AGI Mecha Crisis caused Spealght Industries' development to bottleneck, the company soon bounced back with a new high-profile product and Eugene returned to the limelight once again.",
+        "type": 4
+    },
+    "4004": {
+        "id": 4004,
+        "name": "Ethan",
+        "desc": "The current leader of the Children of Iron, he lost all his memories and awoke in some ruins on a pile of rubble and spare parts. The majority of his body tissues had been replaced by machinery.\nHe harbored many doubts, not knowing even the answer to the question: \"Am I still human?\" He thus embarked on a journey to find himself.\nWhile asking around for clues regarding this \"body\" of his, he also took in the pleasures of the world, living a life of debauchery.\nHe later met Olheim in the slums of Rostach, where the two became acquainted and then sworn brothers.\nSuspecting that his transformation had something to do with CORG, Ethan decided to join the Children of Iron after hearing about their efforts to fight CORG.\nAfter joining, he brought the Children of Iron to prominence with astonishing speed, and soon became their new leader with what could be called unfathomable strength. He does have one weakness, however \u2013 he's terrible at playing cards.",
+        "type": 4
+    },
+    "4005": {
+        "id": 4005,
+        "name": "Olheim",
+        "desc": "The former leader of the Children of Iron, though more of a figurehead, as his tenure never yielded much in the way of results.\nAfter inadvertently learning that CORG had been suppressing Rostach, he was determined to lead his poverty-stricken companions to take back what was rightfully theirs in looting Photon Rail goods managed by CORG.\nHowever, the streetwise Children of Iron were still woefully outmatched and outgunned by CORG, and Olheim's stratagems failed one after another.\nAfter being thoroughly beaten, it was meeting Ethan that revitalized his hope. He started to refer to Ethan as his brother and grew convinced that Ethan had the capacity to lead the Children of Iron out of the woods.\nAs indolent and undisciplined as he is, he still very much cares about his Children of Iron comrades, and he believes in Ethan.\nHis luck at gambling, however, is so poor that the only person he can beat in the organization is the even unluckier Ethan. He also regularly gets into spats with Zero One.",
+        "type": 4
+    },
+    "4006": {
+        "id": 4006,
+        "name": "Zero One",
+        "desc": "Her true name unknown, Zero One is the codename of the mysterious woman who shares the role of second in command with Olheim in Children of Iron.\nThree months after the Children of Iron's founding, Zero One suddenly appeared at its stronghold, where she won Ethan and Olheim over with her superb combat skills and joined the Children of Iron.\nHighly capable, Zero One excels at whipping up all manner of traps. Dubbed \"that gloomy girl\" by Olheim, the pair's quarrels are almost something of a daily ritual for them.",
+        "type": 4
+    },
+    "4007": {
+        "id": 4007,
+        "name": "Izuru Masayoshi",
+        "desc": "Izuru Masayoshi was born to the Izuru Family, one of Sasanami's five ruling families. He became the Prime Lord of Itsuru Family at a young age and worked hard for the sake of Sasanami District's development.\nWhen he first assumed the role of prime minister, the other families kept him constrained due to his young age, hindering many of his efforts to realize his ambitions. After abdicating his position, he focused on improving people's livelihoods, showing great care to the farming and fishing folks under his banner.\nThe second time he rose to power, he resolved to change the rotation of the five families that presided over Sasanami's affairs and to make them beholden to their responsibilities. At the same time, he solicited the support of the Child of Heaven in order to promote the implementation of various reforms.\nThis also made him a thorn in the side of Sasanami's families, and after he turned to CORG for help, Aether Gazer sent the Pheasant Squad to serve as his live-in protection at his mansion.\nAs a friend of the Miyahebi Family, he is the uncle of the current head of the Miyahebi Family, Miyahebi Syuu, while his wife is the younger sister of its former head. However, his introduction of reforms to the Prime Lord system drew hostility from Syuu, and the relationship between the two families has increasingly soured.",
+        "type": 4
+    },
+    "4008": {
+        "id": 4008,
+        "name": "Miyahebi Syuu",
+        "desc": "Miyahebi Syuu was raised to be his family's successor from an early age and demonstrated talent beyond that of other children his age.\nHe dearly loves his younger sister Miyahebi Aya and has also befriended the Monk, the Singer, the General, and the Strategist of his family.\nHis dream is to restore the Miyahebi Family to its former glory and to become the leader of Sasanami District like the great generals recorded in the ancient texts.\nHowever, he lost his mother, father, and younger sister in a fire four years ago, and Izuru Masayoshi replaced him as Prime Lord. Syuu's opportunity to revitalize his family was then forever lost due to Masayoshi's reforms to the five family's rotating system of governance.",
+        "type": 4
+    },
+    "4009": {
+        "id": 4009,
+        "name": "The Strategist",
+        "desc": "The Strategist was originally named Takenaka Hiromoto, but since the Takenake Family has been a vassal of the Miyahebi Family for generations, he was taught from a young age to be loyal to the young master Miyahebi Syuu and to value him as more than his own life.\nTakenaka Hiromoto is tall, good-looking, and fond of writing poetry, as well as playing chess with Miyahebi Syuu and Miyahebi Aya. He is very popular with the girls, but somehow never married.",
+        "type": 4
+    },
+    "4010": {
+        "id": 4010,
+        "name": "The General",
+        "desc": "The General, originally named Naoe Nagazane, was a bodyguard for the Miyahebi Family in Miyahebi Syuu's father's time, and has a deep affection for the family.\nVery fond of taking care of children and dogs, he bred many hounds, but they all perished in a fire four years ago.\nHe looked after Miyahebi Aya like she was his own daughter. After she died, he wanted to return to Shimogyou District, but The Strategist advised him to stay.",
+        "type": 4
+    },
+    "4011": {
+        "id": 4011,
+        "name": "The Monk",
+        "desc": "The Monk, originally named Kuujaku, used to be a traveling monk, but owing to different doctrinal beliefs with other monks, he accepted the Miyahebi Family's offer to become their retainer.\nHe makes one painting every six months for the ceremony, which is burned after the ceremony as per tradition. He spends the rest of his time freely creating in the painting pavilion.\nHe is friends with The Singer, The Strategist, and the Miyahebi siblings, often painting them together in the vestibule. Perhaps still unable to completely let go of what's in his heart, he continues to adhere to a series of disciplines from his religion.\nUnfortunately, he lost his right arm to a fire four years ago, so he's had to lay down his brush for the time being.",
+        "type": 4
+    },
+    "4012": {
+        "id": 4012,
+        "name": "The Singer",
+        "desc": "The Singer, originally named Kurimoto Aoi, was selected by the Miyahebi Family at a young age and brought up on their estate until she took up this post after the previous one retired.\nAoi's daily life revolved around practicing singing as well as protecting her voice. Because she was the same age as the daughter of the Miyahebi Family, she was treated as the family's third child, and she fulfilled her role as their ritual chanter very well.\nBut four years ago, Aoi suffered damage to her throat while attempting to rescue Miyahebi Aya from a fire, and her voice has been ugly and raspy ever since...",
+        "type": 4
+    },
+    "4013": {
+        "id": 4013,
+        "name": "Ron Dowles",
+        "desc": "A drawing student at Stellaris Academy and a classmate of Oneiroi.\nThough gifted at drawing, he has few admirers. He is rather unsure of himself and tends to get nervous easily.\nAs a result, he has failed the Qualification Certificate Exam five years in a row.",
+        "type": 4
+    },
+    "4014": {
+        "id": 4014,
+        "name": "Ardisis",
+        "desc": "The founder of the Ardisis Ceremony and an artistic talent unprecedented in history, Ardisis reached the highest levels of attainment in several fields of art.\nAfter witnessing Omorfies descend into an age of darkness, he organized the first Ardisis Ceremony together with Hades, Oceanus and others. Before a crowded audience, Ardisis competed and debated against numerous opponents for days on end, eventually overpowering all participants. And he has been worshiped as a spiritual symbol ever since.\nDuring a creative retreat, Ardisis picked up Ladon who had been sealed within the mirror of \u25a0\u25a0\u25a0\u25a0, and used \u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0\u25a0 to cause Ladon to lose most of his power and memories.\nAfter reaching middle age, Ardisis used a cursed gem of the Pallas family to carve a statue of Medusa, hoping to gift it to Colleen once it was done, but Ardisis passed away from illness before completing the work.",
+        "type": 4
+    },
+    "4015": {
+        "id": 4015,
+        "name": "Colleen Pallas",
+        "desc": "The founder and first commander of the Knights of Convallaria, credited with helping to draw Omorfies out from its age of darkness.\nShe adopted Athena and groomed her as her successor.",
+        "type": 4
+    },
+    "4016": {
+        "id": 4016,
+        "name": "Everard",
+        "desc": "The director of the Stellaris Academy, an easy-going person who excels at accepting new ways of thinking and applying them in the everyday teaching of students.\nThis produced a stark contrast in his teaching methods compared to those of Oceanus, but the two would still discuss sculpture in private.\nEverard would often send Oceanus\u2014who was not very good at taking care of himself\u2014some newfangled contraption, originally in the hope that a convenient modern invention might provide him some assistance.\nToday, however, Everard simply enjoys seeing Oceanus' embarrassed face when he fails to figure out how to use the gift. The two are still very good friends, broadly defined.",
+        "type": 4
+    },
+    "5001": {
+        "id": 5001,
+        "name": "Star Dust Calamity",
+        "desc": "Before Gaea was established, the conflict between the world's ten warzones was intensifying. To bring an expedient end to the war, nanobots called \"Star Dust 01\" were deployed into battle.\nThese nanobots fought autonomously via neural networks, and could not be resisted with conventional weapons. The moment they parasitized a human body, ulceration would occur inside and out. Afterwards, they would use the heat and materials provided by the lifeless, decomposing body to replicate themselves.\nOnce its numbers grew to a certain size, Star Dust 01, capable of self-learning, connected to a neural network and generated a consciousness that rivalled or even surpassed human thinking.\nOnce self-aware, Star Dust 01 took elimination orders as its action logic and began to indiscriminately slaughter the creatures of Earth, bringing the old age of humanity to its conclusion.",
+        "type": 5
+    },
+    "5002": {
+        "id": 5002,
+        "name": "Establishing of Gaea",
+        "desc": "The Star Dust Calamity brought about a monumental existential crisis to humanity, who had no means of dealing with the nanobots that were flooding their planet.\nForced to call a truce, the international community banded together to launch Project Gaea to upload human consciousness into a virtual world, abandoning their flesh and broken planet. Thus Gaea was created.\nIn constructing this virtual world, the Gaea mainframe specially chose Earth in the year 2100 as a sample, as the planet then had not yet been ravaged by war.\nHumanity has since abandoned Earth's calendar, beginning the Gaea calendar from the year 2100.",
+        "type": 5
+    },
+    "5003": {
+        "id": 5003,
+        "name": "The Tranzist Revolution",
+        "desc": "After pouring their blood, sweat, and tears into more than a decade of research on Alpha Tranzist ore, the scholars of Neuhansa District finally reached a major breakthrough.\nThe researchers discovered that chips constructed from Alpha Tranzist ore substrates had tens of times more information processing power than ordinary chips. Moreover, Alpha Tranzist ore itself made for an excellent energy storage material. A miniscule amount of Alpha Tranzist is capable of powering large electronic devices continuously for up to two weeks.\nThis research breakthrough quickly reignited AGI Mecha research, which had previously bottlenecked, and led to a series of technological revolutions.\nThese technological revolutions propelled Neuhansa District into its \"Era of Gray Gold\", in which the AGI Mecha market flourished and Spealght Industries, which later earned its fame throughout Gaea, was born.\nTo commemorate this monumental breakthrough, scientists later named it \"the Tranzist Revolution\".",
+        "type": 5
+    },
+    "5004": {
+        "id": 5004,
+        "name": "The First AGI Mecha Crisis",
+        "desc": "Just when the AGI Mecha industry was booming, Neuhansa District was rocked by a massive \"AGI Mecha Crisis\", in which a large number of AGI Mechas were plagued by unknown errors, causing them to malfunction or even attack humans. Following an inspection, the Neuhansa government discovered that all the malfunctioning AGI Mechas had been manufactured by Spealght Industries.\nSpealght Industries quickly recalled all its products on the market and promised compensation, but the damage to its reputation in the public eye was done, and everyone began to question the quality of its products.\nAfter a period of silence, Spealght Industries took a high-profile stance by continuously introducing even more technologically innovative AGI Mechas, responding to the world's questions with its own development and reclaiming its position at the top of the AGI Mecha industry.",
+        "type": 5
+    },
+    "5006": {
+        "id": 5006,
+        "name": "The Five Clans' Mountain Ceremony",
+        "desc": "Sasanami District was a disaster-prone region, where civilizations so painstakingly built up could be swiftly destroyed by earthquakes or volcanic eruptions the following day. As a result, there was considerable unrest among the nation's citizens.\nOne day, someone calling herself the \"Child of Heaven\" told the people of Sasanami that the frequent disasters were due to their angering the five mountain gods sent to Sasanami by the God of Heaven.\nUnder the Son of Heaven's leadership, five priests made the dangerous trek to Madoiyama, where they held a ritual offering in reverence to the five mountain gods. After this, Sasanami was no longer plagued by disasters, and its development gradually picked up steam.\nWith the risk of being swallowed up by wind and waves significantly reduced, the people of Shimogyou District could go about their fishing, while in Kamigyou District, magnificent high-rises began springing up in the absence of frequent earthquakes and flash floods...\nThe Child of Heaven and her direct descendants have since been enshrined in the imperial city of Kamigyou District, while the five clerics who performed the ceremony came to be known as the five families of Sasanami. They took up residence in Kamigyou District and gradually became the plutocrats that preside over the country.",
+        "type": 5
+    },
+    "5007": {
+        "id": 5007,
+        "name": "The Klein Protocol",
+        "desc": "Eight years after Miller Spealght took over as chairman of Spealght Industries, he formally proposed and promoted \"The Klein Protocol\", which made public every detail of the company's core AGI Mecha manufacturing technology, leading to the rapid development of the AGI Mecha industry.\nThis protocol not only earned Miller the nickname \"Magnanimous Miller\", but enhanced the reputation of Spealght Industries as well.",
+        "type": 5
+    },
+    "5008": {
+        "id": 5008,
+        "name": "Ardisis Ceremony",
+        "desc": "A grand art competition held once every five years in Omorfies. Participants have two weeks to showcase their masterpieces. Judges assess the submissions over multiple rounds, and in the end, only seven finalists are declared the winners.\nThe chance to be immortalized is worth the judges' scrutiny, as the winning artworks have historically garnered a great deal of attention.\nTheir creators have either reaped considerable winnings or ascended into the upper echelons of the business world.",
+        "type": 5
+    },
+    "6001": {
+        "id": 6001,
+        "name": "Swigs",
+        "desc": "Swigs denote the remaining functional value of Mimir. Named after the sound Mimir makes when drinking coolant, maintaining high Swigs will ensure that the system functions smoothly while keeping it from overheating.\nWhen Mimir assists Modifiers in battle, it consumes Swigs. Once the Swigs are all used up, Mimir will overheat and be unable to further assist in combat.\nAt such times, Mimir's special coolant can help restore Swigs and allow Mimir to recover quickly from overheating.",
+        "type": 6
+    },
+    "6002": {
+        "id": 6002,
+        "name": "Ain Soph Coin",
+        "desc": "Originally the official currency of Ain Soph District, it later acquired the same purchasing power in other Sephirah Zones following Ain Soph District's commercial expansion.\nIt was later reissued in the form of digital currency and officially became the universal currency used in Gaea.",
+        "type": 6
+    },
+    "6003": {
+        "id": 6003,
+        "name": "Shifting Flower",
+        "desc": "Whenever a deflection occurs in Idealbild, one of the world's futures will be annihilated in a cause-and-effect that has ceased to exist, and the huge data cache associated with it will collapse and coalesce into a data crystal called a Shifting Flower, which can be absorbed to enhance Mimir's computing power.\nShifting Flowers are not stable\u2014the smallest of data disturbances can shatter them into a crystal called a Shifted Star. Due to the Shifting Flowers' potent holographic effects, however, even as a fragment of the original, a Shifted Star can still reflect the future of the Shifting Flower in its entirety and can likewise be absorbed to enhance Mimir's computing power.",
+        "type": 6
+    },
+    "6004": {
+        "id": 6004,
+        "name": "Sigil",
+        "desc": "Just as the Modifiers' divine awareness is derived from the Gaea system, Gaea also transforms significant events and legends from the history of human civilization into crests\u2014called \"Sigils\" by Aether Gazer\u2014that endow Modifiers with a variety of special powers.\nThanks to the tireless efforts of the Cryptics, Aether Gazer has successfully developed a device called the Relaying Ring, which can imprint Modifiers with Sigils.\nThe Relaying Ring can hold up to six Sigils, and additional imprint power is triggered when it is loaded with a certain number of Sigils of the same name.",
+        "type": 6
+    },
+    "6005": {
+        "id": 6005,
+        "name": "Functor",
+        "desc": "The Functor is the primary form of the Access Key, and the initial form of the Mod.\nIt is a \"spirit\" that is attached to various objects after falling from the Gen-Zone due to the change of Deviation Rate in the Idealbild.\nWhen combined with the Access Key, the Functor can enhance its power. Some stronger Functors can even change the control of the Key's Divine Power.",
+        "type": 6
+    },
+    "6006": {
+        "id": 6006,
+        "name": "Modified Mode",
+        "desc": "Mods can perform high-level data correction on powerful enemies using Access Keys. Such combat technique is called the Modified Mode. However, this requires a degree of knowledge of the enemy's combat style, so the Mod has to find the right time to activate this mode by exchanging blows with the enemy first.\nModifiers born in the same Gen-zone have the same Divine Power attributes. When two or more Mods with the same Divine Power activate Modified Mode, they produce different Modified Mode effects.",
+        "type": 6
+    },
+    "6007": {
+        "id": 6007,
+        "name": "Source Layer",
+        "desc": "The inner layer that corresponds to the Surface Layer where humans reside is called the Source Layer. It stores the raw data of the world system, and can repair the errors and damage that occur in the Surface Layer.\nHowever, once the Source Layer is damaged, it reverberates to the Surface Layer and materializes as severe natural disasters.",
+        "type": 6
+    },
+    "6008": {
+        "id": 6008,
+        "name": "Surface Layer",
+        "desc": "The outer structural layer displayed in Gaea, and the layer where the Sephirah Zones are located.\nThere are passages between them that can be used to travel to and from the Source Layer, but these are restricted to Modifiers, although Visbanes also have the ability to open them.",
+        "type": 6
+    },
+    "6009": {
+        "id": 6009,
+        "name": "Warp Node",
+        "desc": "Spatial nodes that appear from time to time in the Source Layer. Mods can move quickly across the Source Layer using these Warp Nodes.",
+        "type": 6
+    },
+    "6010": {
+        "id": 6010,
+        "name": "Sephirah Zone",
+        "desc": "Regions on the Surface Layer in Gaea where human consciousness exists, also known as the Sephirah Zones.\nThere are ten Sephirah Zones in total, each corresponding to one of the ten warzones of the original Earth. While not geographically connected to each other, resources and information can still be carried between zones via Photon Rail.\nThe appearance of these Sephirah Zones can vary greatly depending on their economy and culture. The structure of each zone is maintained by the Sephirah Core.",
+        "type": 6
+    },
+    "6011": {
+        "id": 6011,
+        "name": "Core of Gaea",
+        "desc": "The Core of Gaea is the space where Gaea's system core is sealed. It can be understood as Gaea in its truest sense. Everything in Gaea is constructed from this Core, which exists independently of all the other spaces.\nTo enhance the structural maintenance of each Sephirah Zone, information from each Sephirah Zone is gathered and transmitted to the Core of Gaea. The Gaea system additionally installed Sephirah Cores within all Sephirah Zones, each of which is capable of observing all information in its corresponding zone.\nEach Sephirah Core has inherited a portion of the Core of Gaea's information on the old world and the limitless calculative power derived from that data, minimizing deviation Idealbild's deviation rate to some extent.\nIf a Sephirah Zone were to lose its Sephirah Core, it would begin to gradually collapse.",
+        "type": 6
+    },
+    "6012": {
+        "id": 6012,
+        "name": "Cycle",
+        "desc": "When human civilization's survival was under threat and people uploaded their consciousnesses to the Gaea data network and entered its virtual world, they were allocated to ten different Sephirah Zones based on the warzones of the real world at that time.\nUnlike Modifiers, humans are mainly responsible for the development of infrastructure in each of the Sephirah Zones and experience the phenomena of birth, aging, sickness, and death.\nIn Gaea, however, human consciousness does not disappear after death, rather it enters the Source Layer and is reborn in the Cycle. In this process, the consciousness's memory is erased before re-entering Gaea in the form of a newborn baby.\nFor this reason, apart from unexpected circumstances such as Corrosion by Visbanes, the total number of consciousnesses within Gaea essentially remains constant.\nFor some confidential reasons, the first humans to enter Gaea were given the choice between retaining their existing consciousnesses or directly entering the Cycle. Pre-Gaea history is also forbidden from being disclosed to future generations.",
+        "type": 6
+    },
+    "6013": {
+        "id": 6013,
+        "name": "Bane Energy",
+        "desc": "Bane Energy is the huge negative data energy possessed by Visbanes, which poses a tremendous threat to normal life forms. This energy has a mutual relationship to the Divine Powers possessed by Modifiers.",
+        "type": 6
+    },
+    "6014": {
+        "id": 6014,
+        "name": "Corrosion",
+        "desc": "After corrupting the human body, Encroacher Type Visbanes can read part of the human behavioral data and wear their skin, imitating them to a certain degree, though this mimicking is limited to fragmented speech and stiffened regular movement. This phenomenon is called \"amalgamation of habits\".",
+        "type": 6
+    },
+    "6015": {
+        "id": 6015,
+        "name": "Quakes",
+        "desc": "Precursors to Visbane activity and openings in the Source Layer, these violent Quakes are accompanied by unexplained explosions or collapses.\nIn recent years, they have been treated like real earthquakes. CORG's Quake Damage Control Department usually evacuates people first, then calls upon Division Nine from Aether Gazer to solve the problem.\nThe intensity of the Quake depends on the strength of the Visbane and the size of the Source Layer fissure.",
+        "type": 6
+    },
+    "6016": {
+        "id": 6016,
+        "name": "AGI Mecha",
+        "desc": "Smart machines created by humans. Strictly speaking, AGI Mechas have no autonomous thought and cannot be classed as genuine AI.\nThey simply have enough operating patterns at a programming level to respond to a wide range of situations.",
+        "type": 6
+    },
+    "6017": {
+        "id": 6017,
+        "name": "Visbanic AGI Mecha",
+        "desc": "Using the adaptation technology received from Turing, Halphas was able to integrate Visbane data into AGI Mechas.\nThis technology enables ordinary AGI Mechas to think for themselves while endowing them with some Visbane characteristics, turning them manic and bent on destruction.",
+        "type": 6
+    },
+    "6018": {
+        "id": 6018,
+        "name": "Photon Rail",
+        "desc": "A gargantuan piece of transport infrastructure developed by CORG comprising giant columns primarily used for the circulation of resources between various Sephirah Zones. The Photon Rail was built in cooperation with the various Sephirah Zone governments, which continue to be involved in its operations and management today.\nIn the year 2150, the Photon Rail Nexus was completed in West Coast Core City in Ain Soph, and CORG officially established its Department of Photon Rail Management, which is responsible for the dispatch of all Photon Rail trains. Currently, every Photon Rail station across the Sephirah Zones is operated and managed by CORG together with local authorities in accordance with the relevant regulations.\nHighly stringent rules for transportation, inspection, security and launch have been put in place for the Photon Rail for safety and security reasons. As such, requests for the shipping of materials to another Sephirah Zone have to be submitted several months in advance. While at present the Photon Rail system can still serve the needs of inter-Zone logistics and trade, there is significant room for improvement in terms of red tape and convenience.\nAs there is a high risk of damage to both goods and the human body with Photon Rail tech, initially planners had intended the system for resource transportation only and not for passenger travel, and in the early years, no one could travel to another Sephirah Zone and could only communicate using a limited information network.\nAs time went by, CORG came to realize that passenger travel between various zones was also necessary in certain special or exigent situations, and came to introduce specially modified passenger cars on the Photon Rail. However, given the high cost and risk of passenger travel, such travel is strictly controlled, and it remains very difficult for ordinary people to travel to other Sephirah Zones.\nIn addition, CORG has standing agreements with Modifier organizations in various Sephirah Zones to allow Modifiers to request the use of the Photon Rail as needed. However, doing so typically incurs significant costs.",
+        "type": 6
+    },
+    "get_id_list_by_type": [
+        [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005
+        ],
+        [
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007
+        ],
+        [
+            3001,
+            3002,
+            3003,
+            3004,
+            3005,
+            3006,
+            3007,
+            3008,
+            3009,
+            3010,
+            3011,
+            3012,
+            3013,
+            3014,
+            3015,
+            3016
+        ],
+        [
+            4001,
+            4002,
+            4003,
+            4004,
+            4005,
+            4006,
+            4007,
+            4008,
+            4009,
+            4010,
+            4011,
+            4012,
+            4013,
+            4014,
+            4015,
+            4016
+        ],
+        [
+            5001,
+            5002,
+            5003,
+            5004,
+            5006,
+            5007,
+            5008
+        ],
+        [
+            6001,
+            6002,
+            6003,
+            6004,
+            6005,
+            6006,
+            6007,
+            6008,
+            6009,
+            6010,
+            6011,
+            6012,
+            6013,
+            6014,
+            6015,
+            6016,
+            6017,
+            6018
+        ]
+    ],
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        3001,
+        3002,
+        3003,
+        3004,
+        3005,
+        3006,
+        3007,
+        3008,
+        3009,
+        3010,
+        3011,
+        3012,
+        3013,
+        3014,
+        3015,
+        3016,
+        4001,
+        4002,
+        4003,
+        4004,
+        4005,
+        4006,
+        4007,
+        4008,
+        4009,
+        4010,
+        4011,
+        4012,
+        4013,
+        4014,
+        4015,
+        4016,
+        5001,
+        5002,
+        5003,
+        5004,
+        5006,
+        5007,
+        5008,
+        6001,
+        6002,
+        6003,
+        6004,
+        6005,
+        6006,
+        6007,
+        6008,
+        6009,
+        6010,
+        6011,
+        6012,
+        6013,
+        6014,
+        6015,
+        6016,
+        6017,
+        6018
+    ]
+}

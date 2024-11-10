@@ -1,0 +1,1076 @@
+{
+    "1001": {
+        "cost": 3,
+        "name": "Intensive Training",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's Max HP by <color=#FF9500>5%</color>.",
+        "classify": 1,
+        "id": 1001,
+        "icon": "terminal_26",
+        "effect_id": 1001,
+        "pre_id_list": [
+            0,
+            1002,
+            1003
+        ]
+    },
+    "1002": {
+        "cost": 3,
+        "name": "All-Out",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's ATK by <color=#FF9500>3%</color>.",
+        "classify": 1,
+        "id": 1002,
+        "icon": "terminal_24",
+        "effect_id": 1002,
+        "pre_id_list": [
+            1001,
+            1004,
+            1018
+        ]
+    },
+    "1003": {
+        "cost": 3,
+        "name": "Defense Training",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's DEF by <color=#FF9500>5%</color>.",
+        "classify": 1,
+        "id": 1003,
+        "icon": "terminal_25",
+        "effect_id": 1003,
+        "pre_id_list": [
+            1001,
+            1007,
+            1018,
+            9002
+        ]
+    },
+    "1004": {
+        "cost": 3,
+        "name": "Extreme Modification",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's Mod Index Multiplier by <color=#FF9500>30%</color>.",
+        "classify": 1,
+        "id": 1004,
+        "icon": "terminal_10",
+        "effect_id": 1004,
+        "pre_id_list": [
+            1002,
+            1005,
+            1008,
+            1101,
+            9001
+        ]
+    },
+    "1005": {
+        "cost": 3,
+        "name": "Defense Training",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's DEF by <color=#FF9500>5%</color>.",
+        "classify": 1,
+        "id": 1005,
+        "icon": "terminal_25",
+        "effect_id": 1005,
+        "pre_id_list": [
+            1004,
+            1101,
+            1006
+        ]
+    },
+    "1006": {
+        "cost": 3,
+        "name": "Swift Momentum",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's Dodge Energy recovery speed by <color=#FF9500>10%</color>.",
+        "classify": 1,
+        "id": 1006,
+        "icon": "terminal_35",
+        "effect_id": 1006,
+        "pre_id_list": [
+            1005,
+            1010,
+            1018
+        ]
+    },
+    "1007": {
+        "cost": 3,
+        "name": "Survival Instinct",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's DEF by <color=#FF9500>2%</color> (Max 20%) for each enemy present.",
+        "classify": 1,
+        "id": 1007,
+        "icon": "terminal_25",
+        "effect_id": 1007,
+        "pre_id_list": [
+            1003,
+            1102,
+            1010
+        ]
+    },
+    "1008": {
+        "cost": 3,
+        "name": "Fight or Flight",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's ATK by <color=#FF9500>1%</color> (Max 10%) for each enemy present.",
+        "classify": 1,
+        "id": 1008,
+        "icon": "terminal_24",
+        "effect_id": 1008,
+        "pre_id_list": [
+            1004,
+            1009,
+            1015
+        ]
+    },
+    "1009": {
+        "cost": 3,
+        "name": "Focus in Combat",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's Crit Rate by <color=#FF9500>5%</color>.",
+        "classify": 1,
+        "id": 1009,
+        "icon": "terminal_24",
+        "effect_id": 1009,
+        "pre_id_list": [
+            1008,
+            1016
+        ]
+    },
+    "1010": {
+        "cost": 3,
+        "name": "Intensive Training",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's Max HP by <color=#FF9500>5%</color>.",
+        "classify": 1,
+        "id": 1010,
+        "icon": "terminal_26",
+        "effect_id": 1010,
+        "pre_id_list": [
+            1006,
+            1007,
+            1013,
+            1015,
+            1101
+        ]
+    },
+    "1011": {
+        "cost": 3,
+        "name": "Confrontation Tactics",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases DMG dealt by <color=#FF9500>40%</color> (only this time) when Mod attacks an enemy with full HP.",
+        "classify": 1,
+        "id": 1011,
+        "icon": "terminal_24",
+        "effect_id": 1011,
+        "pre_id_list": [
+            1012,
+            1013,
+            1102
+        ]
+    },
+    "1012": {
+        "cost": 3,
+        "name": "Power Up",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases DMG dealt by <color=#FF9500>15%</color> when in Modified Mode.",
+        "classify": 1,
+        "id": 1012,
+        "icon": "terminal_10",
+        "effect_id": 1012,
+        "pre_id_list": [
+            1011,
+            1017
+        ]
+    },
+    "1013": {
+        "cost": 3,
+        "name": "All-Out",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's ATK by <color=#FF9500>3%</color>.",
+        "classify": 1,
+        "id": 1013,
+        "icon": "terminal_24",
+        "effect_id": 1013,
+        "pre_id_list": [
+            1010,
+            1011,
+            1017
+        ]
+    },
+    "1014": {
+        "cost": 3,
+        "name": "Potential Unleashed",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's Crit DMG by <color=#FF9500>20%</color>.",
+        "classify": 1,
+        "id": 1014,
+        "icon": "terminal_24",
+        "effect_id": 1014,
+        "pre_id_list": [
+            1015,
+            1017,
+            1016,
+            1103
+        ]
+    },
+    "1015": {
+        "cost": 3,
+        "name": "Back Attack",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's DMG by <color=#FF9500>10%</color> when attacking enemies from behind.",
+        "classify": 1,
+        "id": 1015,
+        "icon": "terminal_24",
+        "effect_id": 1015,
+        "pre_id_list": [
+            1008,
+            1010,
+            1014
+        ]
+    },
+    "1016": {
+        "cost": 3,
+        "name": "Assault Action",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases DMG by <color=#FF9500>10%</color> when current HP is above <color=#FF9500>80%</color>.",
+        "classify": 1,
+        "id": 1016,
+        "icon": "terminal_24",
+        "effect_id": 1016,
+        "pre_id_list": [
+            1009,
+            1014,
+            1103
+        ]
+    },
+    "1017": {
+        "cost": 3,
+        "name": "Defense Action",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Takes <color=#FF9500>10%</color> less DMG when current HP is below <color=#FF9500>40%</color>.",
+        "classify": 1,
+        "id": 1017,
+        "icon": "terminal_25",
+        "effect_id": 1017,
+        "pre_id_list": [
+            1012,
+            1013,
+            1014,
+            1103
+        ]
+    },
+    "1018": {
+        "cost": 3,
+        "name": "Dexterity",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's Max Dodge Energy by <color=#FF9500>40%</color>.",
+        "classify": 1,
+        "id": 1018,
+        "icon": "terminal_35",
+        "effect_id": 1018,
+        "pre_id_list": [
+            1002,
+            1006,
+            1003
+        ]
+    },
+    "1101": {
+        "cost": 9,
+        "name": "Wiggle Room",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "Gain an extra <color=#FF9500>1</color> Revival Point at the start of each battle.",
+        "classify": 1,
+        "id": 1101,
+        "icon": "terminal_101",
+        "effect_id": 1101,
+        "pre_id_list": [
+            1004,
+            1005,
+            1010
+        ]
+    },
+    "1102": {
+        "cost": 9,
+        "name": "Enhanced Constitution",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "Increases Mod's reserved HP upon revival by <color=#FF9500>30%</color>.",
+        "classify": 1,
+        "id": 1102,
+        "icon": "terminal_102",
+        "effect_id": 1102,
+        "pre_id_list": [
+            1007,
+            1011
+        ]
+    },
+    "1103": {
+        "cost": 9,
+        "name": "Situation Analysis",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "Increases Mod's ATK by <color=#FF9500>1%</color> (Max 10%) upon defeating each enemy.",
+        "classify": 1,
+        "id": 1103,
+        "icon": "terminal_103",
+        "effect_id": 1103,
+        "pre_id_list": [
+            1014,
+            1016,
+            1017
+        ]
+    },
+    "9001": {
+        "cost": 9,
+        "name": "Network Node",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "Increases Mod's Max HP by <color=#FF9500>0.4%</color>, ATK by <color=#FF9500>0.4%</color>, and DEF by <color=#FF9500>0.4%</color> for each Memory Treasure owned by the Mod.",
+        "classify": 1,
+        "id": 9001,
+        "icon": "terminal_30",
+        "effect_id": 9001,
+        "pre_id_list": [
+            1004,
+            3010
+        ]
+    },
+    "2001": {
+        "cost": 3,
+        "name": "Additional Savings",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Gain an extra <color=#FF9500>100</color> Treasure Coins at the start of each battle.",
+        "classify": 2,
+        "id": 2001,
+        "icon": "terminal_29",
+        "effect_id": 2001,
+        "pre_id_list": [
+            0,
+            2002,
+            2003,
+            2004
+        ]
+    },
+    "2002": {
+        "cost": 3,
+        "name": "Uncertainty",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases the chance of a Time Rift appearing by <color=#FF9500>10%</color>.",
+        "classify": 2,
+        "id": 2002,
+        "icon": "terminal_28",
+        "effect_id": 2002,
+        "pre_id_list": [
+            2001,
+            2005
+        ]
+    },
+    "2003": {
+        "cost": 3,
+        "name": "Medical Support",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Restores <color=#FF9500>3%</color> of Mods' HP at the end of each stage.",
+        "classify": 2,
+        "id": 2003,
+        "icon": "terminal_34",
+        "effect_id": 2003,
+        "pre_id_list": [
+            2001,
+            2006
+        ]
+    },
+    "2004": {
+        "cost": 3,
+        "name": "Trade Off",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Gain an extra <color=#FF9500>80</color> Treasure Coins when selecting the Abandon option.",
+        "classify": 2,
+        "id": 2004,
+        "icon": "terminal_28",
+        "effect_id": 2004,
+        "pre_id_list": [
+            2001,
+            2009,
+            2016,
+            9002
+        ]
+    },
+    "2005": {
+        "cost": 3,
+        "name": "Budget Conscious",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Gain an extra <color=#FF9500>20</color> Treasure Coins at the end of each stage.",
+        "classify": 2,
+        "id": 2005,
+        "icon": "terminal_29",
+        "effect_id": 2005,
+        "pre_id_list": [
+            2002,
+            9003,
+            2007,
+            2006
+        ]
+    },
+    "2006": {
+        "cost": 3,
+        "name": "Logistic Flow",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Dimensional Shop refreshes by <color=#FF9500>3</color> times.",
+        "classify": 2,
+        "id": 2006,
+        "icon": "terminal_29",
+        "effect_id": 2006,
+        "pre_id_list": [
+            2003,
+            2005,
+            2101
+        ]
+    },
+    "2007": {
+        "cost": 3,
+        "name": "Unknown Possibilities",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases the attribute boost effects of \"BunBun Typewriter\" to <color=#FF9500>10%</color>.",
+        "classify": 2,
+        "id": 2007,
+        "icon": "terminal_28",
+        "effect_id": 2007,
+        "pre_id_list": [
+            2005,
+            2008
+        ]
+    },
+    "2008": {
+        "cost": 3,
+        "name": "Immediate Support",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Reduces the number of stages required to revive teammates by <color=#FF9500>1</color>.",
+        "classify": 2,
+        "id": 2008,
+        "icon": "terminal_34",
+        "effect_id": 2008,
+        "pre_id_list": [
+            2007,
+            2012,
+            2101
+        ]
+    },
+    "2009": {
+        "cost": 3,
+        "name": "VIP Discount",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "The first item in the Dimensional Shop is <color=#FF9500>50%</color> cheaper.",
+        "classify": 2,
+        "id": 2009,
+        "icon": "terminal_29",
+        "effect_id": 2009,
+        "pre_id_list": [
+            2004,
+            2010
+        ]
+    },
+    "2010": {
+        "cost": 3,
+        "name": "Gift of Gab",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Grants <color=#FF9500>1</color> extra free refresh at the Dimensional Shop.",
+        "classify": 2,
+        "id": 2010,
+        "icon": "terminal_29",
+        "effect_id": 2010,
+        "pre_id_list": [
+            2009,
+            2101,
+            2011
+        ]
+    },
+    "2011": {
+        "cost": 3,
+        "name": "Medical Support",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Restores <color=#FF9500>3%</color> of Mods' HP at the end of each stage.",
+        "classify": 2,
+        "id": 2011,
+        "icon": "terminal_34",
+        "effect_id": 2011,
+        "pre_id_list": [
+            2010,
+            2012,
+            2103,
+            2013
+        ]
+    },
+    "2012": {
+        "cost": 3,
+        "name": "Adaptive Strategy",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Grants immunity to the first DMG dealt by a boss.",
+        "classify": 2,
+        "id": 2012,
+        "icon": "terminal_28",
+        "effect_id": 2012,
+        "pre_id_list": [
+            2008,
+            2011,
+            2103
+        ]
+    },
+    "2013": {
+        "cost": 3,
+        "name": "Immediate Support",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Reduces the number of stages required to revive teammates by <color=#FF9500>1</color>.",
+        "classify": 2,
+        "id": 2013,
+        "icon": "terminal_34",
+        "effect_id": 2013,
+        "pre_id_list": [
+            2017,
+            2102,
+            2015,
+            2011,
+            2014
+        ]
+    },
+    "2014": {
+        "cost": 3,
+        "name": "High Mobility",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases Mod's movement speed by <color=#FF9500>15%</color>.",
+        "classify": 2,
+        "id": 2014,
+        "icon": "terminal_27",
+        "effect_id": 2014,
+        "pre_id_list": [
+            2013,
+            2103
+        ]
+    },
+    "2015": {
+        "cost": 3,
+        "name": "Merchant Skills",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Gain an extra <color=#FF9500>100</color> Treasure Coins after each Coin Stage.",
+        "classify": 2,
+        "id": 2015,
+        "icon": "terminal_29",
+        "effect_id": 2015,
+        "pre_id_list": [
+            2016,
+            2013
+        ]
+    },
+    "2016": {
+        "cost": 3,
+        "name": "Thorough Cooperation",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Grants <color=#FF9500>1</color> extra item option at the Dimensional Shop.",
+        "classify": 2,
+        "id": 2016,
+        "icon": "terminal_29",
+        "effect_id": 2016,
+        "pre_id_list": [
+            2004,
+            2015,
+            2102,
+            2017
+        ]
+    },
+    "2017": {
+        "cost": 3,
+        "name": "Budget Conscious",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Gain an extra <color=#FF9500>10</color> Treasure Coins at the end of each stage.",
+        "classify": 2,
+        "id": 2017,
+        "icon": "terminal_29",
+        "effect_id": 2017,
+        "pre_id_list": [
+            2016,
+            2013
+        ]
+    },
+    "2101": {
+        "cost": 9,
+        "name": "Another Chance",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "Dimensional Shop offers 1 free HP recovery.",
+        "classify": 2,
+        "id": 2101,
+        "icon": "terminal_104",
+        "effect_id": 2101,
+        "pre_id_list": [
+            2006,
+            2008,
+            2010
+        ]
+    },
+    "2102": {
+        "cost": 9,
+        "name": "Recuperation",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "Grants <color=#FF9500>1</color> extra Revival Point upon defeating a boss.",
+        "classify": 2,
+        "id": 2102,
+        "icon": "terminal_105",
+        "effect_id": 2102,
+        "pre_id_list": [
+            2016,
+            2013
+        ]
+    },
+    "2103": {
+        "cost": 9,
+        "name": "Extra Gains",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "Increases the Treasure Coins owned by <color=#FF9500>10%</color> after defeating a boss.",
+        "classify": 2,
+        "id": 2103,
+        "icon": "terminal_106",
+        "effect_id": 2103,
+        "pre_id_list": [
+            2011,
+            2012,
+            2014
+        ]
+    },
+    "9002": {
+        "cost": 9,
+        "name": "Network Node",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "Increases one random attribute of the Mod at the end of each stage.",
+        "classify": 2,
+        "id": 9002,
+        "icon": "terminal_31",
+        "effect_id": 9002,
+        "pre_id_list": [
+            1003,
+            2004
+        ]
+    },
+    "3001": {
+        "cost": 3,
+        "name": "Resource Dispatch",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Carry 1 more Beacon.",
+        "classify": 3,
+        "id": 3001,
+        "icon": "terminal_36",
+        "effect_id": 3001,
+        "pre_id_list": [
+            0,
+            3002,
+            3009
+        ]
+    },
+    "3002": {
+        "cost": 3,
+        "name": "Battle Sweep",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases the level of <color=#FF9500>1</color> Memory Treasure randomly after defeating a boss.",
+        "classify": 3,
+        "id": 3002,
+        "icon": "terminal_33",
+        "effect_id": 3002,
+        "pre_id_list": [
+            3001,
+            3003
+        ]
+    },
+    "3003": {
+        "cost": 3,
+        "name": "Destiny's Guidance",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Grants <color=#FF9500>1</color> extra chance to reset the Memory Treasure reward in each round.",
+        "classify": 3,
+        "id": 3003,
+        "icon": "terminal_37",
+        "effect_id": 3003,
+        "pre_id_list": [
+            3002,
+            3102,
+            3004
+        ]
+    },
+    "3004": {
+        "cost": 3,
+        "name": "Lucky Streak",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Grants a <color=#FF9500>10%</color> chance to upgrade a newly gained Memory Treasure by 1 level.",
+        "classify": 3,
+        "id": 3004,
+        "icon": "terminal_33",
+        "effect_id": 3004,
+        "pre_id_list": [
+            3003,
+            3005,
+            9003
+        ]
+    },
+    "3005": {
+        "cost": 3,
+        "name": "Resource Dispatch",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Carry 1 more Beacon.",
+        "classify": 3,
+        "id": 3005,
+        "icon": "terminal_36",
+        "effect_id": 3005,
+        "pre_id_list": [
+            3006,
+            3004,
+            3102
+        ]
+    },
+    "3006": {
+        "cost": 3,
+        "name": "Destiny's Guidance",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Grants <color=#FF9500>1</color> extra chance to reset the Memory Treasure reward in each round.",
+        "classify": 3,
+        "id": 3006,
+        "icon": "terminal_37",
+        "effect_id": 3006,
+        "pre_id_list": [
+            3103,
+            3007,
+            3005
+        ]
+    },
+    "3007": {
+        "cost": 3,
+        "name": "Uncertainty",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases the chance of a Time Rift appearing by <color=#FF9500>10%</color>.",
+        "classify": 3,
+        "id": 3007,
+        "icon": "terminal_33",
+        "effect_id": 3007,
+        "pre_id_list": [
+            3006,
+            3008
+        ]
+    },
+    "3008": {
+        "cost": 3,
+        "name": "Great Connoisseur",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases upgradeable Memory Treasure's level limit by <color=#FF9500>1</color>.",
+        "classify": 3,
+        "id": 3008,
+        "icon": "terminal_37",
+        "effect_id": 3008,
+        "pre_id_list": [
+            3007,
+            3102,
+            3001
+        ]
+    },
+    "3009": {
+        "cost": 3,
+        "name": "Outstanding Strategist",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases the chance of an Elite Stage appearing by <color=#FF9500>10%</color>.",
+        "classify": 3,
+        "id": 3009,
+        "icon": "terminal_33",
+        "effect_id": 3009,
+        "pre_id_list": [
+            3012,
+            3010,
+            3001
+        ]
+    },
+    "3010": {
+        "cost": 3,
+        "name": "Lucky Streak",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Grants a <color=#FF9500>10%</color> chance to upgrade a newly gained Memory Treasure by 1 level.",
+        "classify": 3,
+        "id": 3010,
+        "icon": "terminal_33",
+        "effect_id": 3010,
+        "pre_id_list": [
+            3009,
+            3011,
+            9001
+        ]
+    },
+    "3011": {
+        "cost": 3,
+        "name": "Resource Dispatch",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Carry 1 more Beacon.",
+        "classify": 3,
+        "id": 3011,
+        "icon": "terminal_36",
+        "effect_id": 3011,
+        "pre_id_list": [
+            3010,
+            3012,
+            3101,
+            3014,
+            3016
+        ]
+    },
+    "3012": {
+        "cost": 3,
+        "name": "Destiny's Guidance",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Grants <color=#FF9500>1</color> extra chance to reset the Memory Treasure reward in each round.",
+        "classify": 3,
+        "id": 3012,
+        "icon": "terminal_37",
+        "effect_id": 3012,
+        "pre_id_list": [
+            3009,
+            3013,
+            3101,
+            3011
+        ]
+    },
+    "3013": {
+        "cost": 3,
+        "name": "Great Connoisseur",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases upgradeable Memory Treasure's level limit by <color=#FF9500>1</color>.",
+        "classify": 3,
+        "id": 3013,
+        "icon": "terminal_37",
+        "effect_id": 3013,
+        "pre_id_list": [
+            3012,
+            3101,
+            3014
+        ]
+    },
+    "3014": {
+        "cost": 3,
+        "name": "Outstanding Strategist",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Increases the chance of an Elite Stage appearing by <color=#FF9500>10%</color>.",
+        "classify": 3,
+        "id": 3014,
+        "icon": "terminal_33",
+        "effect_id": 3014,
+        "pre_id_list": [
+            3015,
+            3011,
+            3101,
+            3013
+        ]
+    },
+    "3015": {
+        "cost": 3,
+        "name": "Destiny's Guidance",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Grants <color=#FF9500>1</color> extra chance to reset the Memory Treasure reward in each round.",
+        "classify": 3,
+        "id": 3015,
+        "icon": "terminal_37",
+        "effect_id": 3015,
+        "pre_id_list": [
+            3014,
+            3103
+        ]
+    },
+    "3016": {
+        "cost": 3,
+        "name": "Destiny's Guidance",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "Grants <color=#FF9500>1</color> extra chance to reset the Memory Treasure reward in each round.",
+        "classify": 3,
+        "id": 3016,
+        "icon": "terminal_37",
+        "effect_id": 3016,
+        "pre_id_list": [
+            3011,
+            3103
+        ]
+    },
+    "3101": {
+        "cost": 9,
+        "name": "Pre-Battle Preparations",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "Replaces the reward from the first stage with an Exclusive Memory Treasure.",
+        "classify": 3,
+        "id": 3101,
+        "icon": "terminal_107",
+        "effect_id": 3101,
+        "pre_id_list": [
+            3011,
+            3012,
+            3013,
+            3014
+        ]
+    },
+    "3102": {
+        "cost": 9,
+        "name": "Guaranteed Gift",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "Chooses <color=#FF9500>1</color> extra Memory Treasure reward upon defeating a boss.",
+        "classify": 3,
+        "id": 3102,
+        "icon": "terminal_108",
+        "effect_id": 3102,
+        "pre_id_list": [
+            3003,
+            3008,
+            3005
+        ]
+    },
+    "3103": {
+        "cost": 9,
+        "name": "Pioneering Spirit",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "Allows selection of \"Cosmic Mysteries\" Memory Treasures in the game.",
+        "classify": 3,
+        "id": 3103,
+        "icon": "terminal_109",
+        "effect_id": 3103,
+        "pre_id_list": [
+            3016,
+            3015,
+            3006
+        ]
+    },
+    "9003": {
+        "cost": 9,
+        "name": "Network Node",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "Upgrade a random Memory Treasure after every <color=#FF9500>6</color> stages.",
+        "classify": 3,
+        "id": 9003,
+        "icon": "terminal_32",
+        "effect_id": 9003,
+        "pre_id_list": [
+            2005,
+            3004
+        ]
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016,
+        1017,
+        1018,
+        1101,
+        1102,
+        1103,
+        9001,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2101,
+        2102,
+        2103,
+        9002,
+        3001,
+        3002,
+        3003,
+        3004,
+        3005,
+        3006,
+        3007,
+        3008,
+        3009,
+        3010,
+        3011,
+        3012,
+        3013,
+        3014,
+        3015,
+        3016,
+        3101,
+        3102,
+        3103,
+        9003
+    ]
+}

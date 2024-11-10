@@ -1,0 +1,479 @@
+{
+    "5060201": {
+        "monster_level": 80,
+        "name": "Shinou Training",
+        "ai_level": 3,
+        "id": 5060201,
+        "map": "5060201",
+        "tips": "Shinou Mods deal additional DMG for each attack, which further increases with every 9 waves of enemies cleared. This additional DMG effect can trigger once every 0.5 seconds.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1100,
+            2650
+        ],
+        "affix_type_in_map": [
+            9056,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5060202": {
+        "monster_level": 80,
+        "name": "Yggdrasill Training",
+        "ai_level": 3,
+        "id": 5060202,
+        "map": "5060204",
+        "tips": "Increases Yggdrasill Mods' Crit Rate and Crit DMG. Crit Rate and Crit DMG further increase with every 9 waves of enemies cleared.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1100,
+            2650
+        ],
+        "affix_type_in_map": [
+            9059,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5060203": {
+        "monster_level": 80,
+        "name": "Nile Training",
+        "ai_level": 3,
+        "id": 5060203,
+        "map": "5060203",
+        "tips": "Nile Mods get additional Ultimate Skill Charge with each wave of enemies cleared, and their Ultimate Skill DMG increases with every 5 waves of enemies cleared.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1100,
+            2500
+        ],
+        "affix_type_in_map": [
+            9058,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5060204": {
+        "monster_level": 80,
+        "name": "Olympus Training",
+        "ai_level": 3,
+        "id": 5060204,
+        "map": "5060202",
+        "tips": "Increases Olympus Mods' Skill DMG. Skill DMG further increases with every 5 waves of enemies cleared. ",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1100,
+            2650
+        ],
+        "affix_type_in_map": [
+            9057,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5060205": {
+        "monster_level": 80,
+        "name": "Asterism Training",
+        "ai_level": 3,
+        "id": 5060205,
+        "map": "5060205",
+        "tips": "All skill cooldowns are reset for Asterism Mods whenever they clear a wave of enemies. ",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1100,
+            2800
+        ],
+        "affix_type_in_map": [
+            9060,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5060206": {
+        "monster_level": 80,
+        "name": "Rage Training",
+        "ai_level": 3,
+        "id": 5060206,
+        "map": "5060206",
+        "tips": "Rage Mods gain Rage faster and their Crit DMG increases. Their Rage gain rate further increases with every 9 waves of enemies cleared.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1100,
+            2500
+        ],
+        "affix_type_in_map": [
+            9061,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5060207": {
+        "monster_level": 80,
+        "name": "Divine Grace Training",
+        "ai_level": 3,
+        "id": 5060207,
+        "map": "5060207",
+        "tips": "Divine Grace Mods gain Divine Grace faster and their Skill DMG increases. Their Divine Grace gain rate further increases with every 9 waves of enemies cleared.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1100,
+            2500
+        ],
+        "affix_type_in_map": [
+            9062,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5060208": {
+        "monster_level": 80,
+        "name": "Energy Training",
+        "ai_level": 3,
+        "id": 5060208,
+        "map": "5060208",
+        "tips": "Energy Mods gain Energy faster and their skill cooldowns are shortened. Their Energy gain rate further increases with every 9 waves of enemies cleared.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1100,
+            2500
+        ],
+        "affix_type_in_map": [
+            9063,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5060209": {
+        "monster_level": 80,
+        "name": "Trace Training",
+        "ai_level": 3,
+        "id": 5060209,
+        "map": "5060209",
+        "tips": "Trace Mods have a chance of acquiring 1 additional Trace when obtaining Traces and their Crit Rate increases when they spend Traces. Their chance of acquiring additional Traces further increases with every 9 waves of enemies cleared.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1100,
+            2500
+        ],
+        "affix_type_in_map": [
+            9064,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5110601": {
+        "monster_level": 80,
+        "name": "Dewdrop Courtyard",
+        "ai_level": 3,
+        "id": 5110601,
+        "map": "5110601",
+        "tips": "Shinou Mods deal additional DMG for each attack, which further increases with every 9 waves of enemies cleared. This additional DMG effect can trigger once every 0.5 seconds.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1000,
+            5200
+        ],
+        "affix_type_in_map": [
+            9056,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5110602": {
+        "monster_level": 80,
+        "name": "Moongleam Hall",
+        "ai_level": 3,
+        "id": 5110602,
+        "map": "5110602",
+        "tips": "Increases Olympus Mods' Skill DMG. Skill DMG further increases with every 5 waves of enemies cleared. ",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1000,
+            5200
+        ],
+        "affix_type_in_map": [
+            9057,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5110603": {
+        "monster_level": 80,
+        "name": "Desert Wasteland",
+        "ai_level": 3,
+        "id": 5110603,
+        "map": "5110603",
+        "tips": "Nile Mods get additional Ultimate Skill Charge with each wave of enemies cleared, and their Ultimate Skill DMG increases with every 5 waves of enemies cleared.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1000,
+            5200
+        ],
+        "affix_type_in_map": [
+            9058,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5110604": {
+        "monster_level": 80,
+        "name": "Ancient Forest",
+        "ai_level": 3,
+        "id": 5110604,
+        "map": "5110604",
+        "tips": "Increases Yggdrasill Mods' Crit Rate and Crit DMG. Crit Rate and Crit DMG further increase with every 9 waves of enemies cleared.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1000,
+            5200
+        ],
+        "affix_type_in_map": [
+            9059,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5110605": {
+        "monster_level": 80,
+        "name": "Stellaris Pavilion",
+        "ai_level": 3,
+        "id": 5110605,
+        "map": "5110605",
+        "tips": "All skill cooldowns are reset for Asterism Mods whenever they clear a wave of enemies. ",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1000,
+            5200
+        ],
+        "affix_type_in_map": [
+            9060,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5110606": {
+        "monster_level": 80,
+        "name": "Workshop in the Woods",
+        "ai_level": 3,
+        "id": 5110606,
+        "map": "5110606",
+        "tips": "Increases the DMG dealt by Tian Yuan Mods by 35%.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1000,
+            5200
+        ],
+        "affix_type_in_map": [
+            9757,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5110607": {
+        "monster_level": 80,
+        "name": "Ain Soph",
+        "ai_level": 3,
+        "id": 5110607,
+        "map": "5110607",
+        "tips": "Rage Mods gain Rage faster and their Crit DMG increases. Their Rage gain rate further increases with every 9 waves of enemies cleared.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1000,
+            5200
+        ],
+        "affix_type_in_map": [
+            9061,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5110608": {
+        "monster_level": 80,
+        "name": "Spealght",
+        "ai_level": 3,
+        "id": 5110608,
+        "map": "5110608",
+        "tips": "Divine Grace Mods gain Divine Grace faster and their Skill DMG increases. Their Divine Grace gain rate further increases with every 9 waves of enemies cleared.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1000,
+            5200
+        ],
+        "affix_type_in_map": [
+            9062,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5110609": {
+        "monster_level": 80,
+        "name": "Miyahebi Courtyard",
+        "ai_level": 3,
+        "id": 5110609,
+        "map": "5110609",
+        "tips": "Energy Mods gain Energy faster and their skill cooldowns are shortened. Their Energy gain rate further increases with every 9 waves of enemies cleared.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1000,
+            5200
+        ],
+        "affix_type_in_map": [
+            9063,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "5110610": {
+        "monster_level": 80,
+        "name": "Ceremony Stage",
+        "ai_level": 3,
+        "id": 5110610,
+        "map": "5110610",
+        "tips": "Trace Mods have a chance of acquiring 1 additional Trace when obtaining Traces and their Crit Rate increases when they spend Traces. Their chance of acquiring additional Traces further increases with every 9 waves of enemies cleared.",
+        "need_default_team": 1,
+        "background_1": "",
+        "attribute_factor": [
+            800,
+            1000,
+            5200
+        ],
+        "affix_type_in_map": [
+            9064,
+            1,
+            3
+        ],
+        "team_type": [
+            301,
+            0
+        ]
+    },
+    "all": [
+        5060201,
+        5060202,
+        5060203,
+        5060204,
+        5060205,
+        5060206,
+        5060207,
+        5060208,
+        5060209,
+        5110601,
+        5110602,
+        5110603,
+        5110604,
+        5110605,
+        5110606,
+        5110607,
+        5110608,
+        5110609,
+        5110610
+    ]
+}

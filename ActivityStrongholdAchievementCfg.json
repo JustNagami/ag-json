@@ -1,0 +1,479 @@
+{
+    "1": {
+        "name": "Battle Complete",
+        "priority": 9,
+        "level": -1,
+        "type": -1,
+        "id": 1,
+        "exp_reward": "",
+        "desc": "Complete 1 wave. "
+    },
+    "2": {
+        "name": "Battle Complete",
+        "priority": 9,
+        "level": -1,
+        "type": 1,
+        "id": 2,
+        "exp_reward": "",
+        "desc": "Complete 1 wave. "
+    },
+    "3": {
+        "name": "Battle Complete",
+        "priority": 9,
+        "level": -1,
+        "type": -1,
+        "id": 3,
+        "exp_reward": "",
+        "desc": "Complete 1 wave. "
+    },
+    "4": {
+        "name": "Wave Complete 4",
+        "priority": 9,
+        "level": -1,
+        "type": -1,
+        "id": 4,
+        "exp_reward": "",
+        "desc": "Complete 1 wave. "
+    },
+    "5": {
+        "name": "Wave Complete 5",
+        "priority": 9,
+        "level": -1,
+        "type": -1,
+        "id": 5,
+        "exp_reward": "",
+        "desc": "Complete 1 wave. "
+    },
+    "6": {
+        "name": "Wave Complete 6",
+        "priority": 9,
+        "level": -1,
+        "type": -1,
+        "id": 6,
+        "exp_reward": "",
+        "desc": "Complete 1 wave. "
+    },
+    "7": {
+        "name": "Wave Complete 7",
+        "priority": 9,
+        "level": -1,
+        "type": -1,
+        "id": 7,
+        "exp_reward": "",
+        "desc": "Complete 1 wave. "
+    },
+    "8": {
+        "name": "Easy Peasy",
+        "priority": 7,
+        "level": -1,
+        "type": -1,
+        "id": 8,
+        "exp_reward": "",
+        "desc": "There are two grades of time spent: X<Y. Complete 1 wave with time spent less than X."
+    },
+    "9": {
+        "name": "Evenly Matched ",
+        "priority": 7,
+        "level": -1,
+        "type": -1,
+        "id": 9,
+        "exp_reward": "",
+        "desc": "X< Time spent to complete 1 wave <Y."
+    },
+    "10": {
+        "name": "Hard Victory ",
+        "priority": 7,
+        "level": -1,
+        "type": -1,
+        "id": 10,
+        "exp_reward": "",
+        "desc": "Complete 1 wave in time >Y."
+    },
+    "11": {
+        "name": "Soul Hunter \u2160",
+        "priority": 3,
+        "level": 1,
+        "type": 1,
+        "id": 11,
+        "desc": "Deals a total of 15,000,000 DMG to normal enemies.",
+        "exp_reward": [
+            [
+                54026,
+                5
+            ]
+        ]
+    },
+    "12": {
+        "name": "Soul Hunter \u2161",
+        "priority": 2,
+        "level": 2,
+        "type": 1,
+        "id": 12,
+        "desc": "Deals a total of 20,000,000 DMG to normal enemies.",
+        "exp_reward": [
+            [
+                54026,
+                10
+            ]
+        ]
+    },
+    "13": {
+        "name": "Soul Hunter \u2162",
+        "priority": 1,
+        "level": 3,
+        "type": 1,
+        "id": 13,
+        "desc": "Deals a total of 25,000,000 DMG to normal enemies.",
+        "exp_reward": [
+            [
+                54026,
+                15
+            ]
+        ]
+    },
+    "14": {
+        "name": "Guardian \u2160",
+        "priority": 3,
+        "level": 1,
+        "type": 2,
+        "id": 14,
+        "desc": "Deals a total of 15,000,000 DMG to security forces. ",
+        "exp_reward": [
+            [
+                54026,
+                5
+            ]
+        ]
+    },
+    "15": {
+        "name": "Guardian \u2161",
+        "priority": 2,
+        "level": 2,
+        "type": 2,
+        "id": 15,
+        "desc": "Deals a total of 20,000,000 DMG to security forces.",
+        "exp_reward": [
+            [
+                54026,
+                10
+            ]
+        ]
+    },
+    "16": {
+        "name": "Guardian \u2162",
+        "priority": 1,
+        "level": 3,
+        "type": 2,
+        "id": 16,
+        "desc": "Deals a total of 25,000,000 DMG to security forces.",
+        "exp_reward": [
+            [
+                54026,
+                15
+            ]
+        ]
+    },
+    "17": {
+        "name": "Ruthless \u2160",
+        "priority": 3,
+        "level": 1,
+        "type": 3,
+        "id": 17,
+        "desc": "Deals a total of 4,000,000 DMG to elite enemies.",
+        "exp_reward": [
+            [
+                54026,
+                5
+            ]
+        ]
+    },
+    "18": {
+        "name": "Ruthless \u2161 ",
+        "priority": 2,
+        "level": 2,
+        "type": 3,
+        "id": 18,
+        "desc": "Deals a total of 8,000,000 DMG to elite enemies.",
+        "exp_reward": [
+            [
+                54026,
+                10
+            ]
+        ]
+    },
+    "19": {
+        "name": "Ruthless \u2162 ",
+        "priority": 1,
+        "level": 3,
+        "type": 3,
+        "id": 19,
+        "desc": "Deals a total of 12,000,000 DMG to elite enemies.",
+        "exp_reward": [
+            [
+                54026,
+                15
+            ]
+        ]
+    },
+    "20": {
+        "name": "Biting Frost",
+        "priority": 2,
+        "level": 1,
+        "type": 0,
+        "id": 20,
+        "desc": "Inflict Freeze on enemies 10 times.",
+        "exp_reward": [
+            [
+                54027,
+                20
+            ]
+        ]
+    },
+    "21": {
+        "name": "Dizzy Spell",
+        "priority": 2,
+        "level": 1,
+        "type": 0,
+        "id": 21,
+        "desc": "Inflict Stun on enemies 10 times.",
+        "exp_reward": [
+            [
+                54027,
+                20
+            ]
+        ]
+    },
+    "22": {
+        "name": "No Way Out",
+        "priority": 2,
+        "level": 1,
+        "type": 0,
+        "id": 22,
+        "desc": "Inflict Shackle on enemies 10 times.",
+        "exp_reward": [
+            [
+                54027,
+                20
+            ]
+        ]
+    },
+    "23": {
+        "name": "Scorching Hot",
+        "priority": 2,
+        "level": 1,
+        "type": 0,
+        "id": 23,
+        "desc": "Inflict Scorch on enemies 10 times.",
+        "exp_reward": [
+            [
+                54027,
+                20
+            ]
+        ]
+    },
+    "24": {
+        "name": "Lasting Wound ",
+        "priority": 2,
+        "level": 1,
+        "type": 0,
+        "id": 24,
+        "desc": "Inflict Trauma on enemies 10 times.",
+        "exp_reward": [
+            [
+                54027,
+                20
+            ]
+        ]
+    },
+    "25": {
+        "name": "Boost Collector \u2160",
+        "priority": 3,
+        "level": 1,
+        "type": 4,
+        "id": 25,
+        "desc": "Have 3 boosts during battle.",
+        "exp_reward": [
+            [
+                54028,
+                10
+            ]
+        ]
+    },
+    "26": {
+        "name": "Boost Collector \u2161",
+        "priority": 2,
+        "level": 2,
+        "type": 4,
+        "id": 26,
+        "desc": "Have 5 boosts during battle.",
+        "exp_reward": [
+            [
+                54028,
+                20
+            ]
+        ]
+    },
+    "27": {
+        "name": "Boost Collector \u2161I",
+        "priority": 1,
+        "level": 3,
+        "type": 4,
+        "id": 27,
+        "desc": "Have 7 boosts during battle.",
+        "exp_reward": [
+            [
+                54028,
+                30
+            ]
+        ]
+    },
+    "28": {
+        "name": "What a Price",
+        "priority": 3,
+        "level": 1,
+        "type": 0,
+        "id": 28,
+        "desc": "Have the boost \"Offering Agreement\" during battle. ",
+        "exp_reward": [
+            [
+                54028,
+                20
+            ]
+        ]
+    },
+    "29": {
+        "name": "Soul Code Reconstruction",
+        "priority": 3,
+        "level": 1,
+        "type": 0,
+        "id": 29,
+        "desc": "Have the boost \"Stolen Soul Code\" during battle.",
+        "exp_reward": [
+            [
+                54028,
+                20
+            ]
+        ]
+    },
+    "30": {
+        "name": "Time Freezer",
+        "priority": 3,
+        "level": 1,
+        "type": 0,
+        "id": 30,
+        "desc": "Have the boost \"Corroded Chains\" during battle.",
+        "exp_reward": [
+            [
+                54028,
+                20
+            ]
+        ]
+    },
+    "31": {
+        "name": "Favor of Luck",
+        "priority": 3,
+        "level": 1,
+        "type": 0,
+        "id": 31,
+        "desc": "Have the boost \"Feather of Luck\" during battle.",
+        "exp_reward": [
+            [
+                54028,
+                20
+            ]
+        ]
+    },
+    "32": {
+        "name": "Ultimate Skill Trigger \u2160",
+        "priority": 3,
+        "level": 1,
+        "type": 5,
+        "id": 32,
+        "desc": "Trigger Ultimate Skill Boost for a total of 10s in battle.",
+        "exp_reward": [
+            [
+                54027,
+                20
+            ]
+        ]
+    },
+    "33": {
+        "name": "Ultimate Skill Trigger \u2160I",
+        "priority": 2,
+        "level": 2,
+        "type": 5,
+        "id": 33,
+        "desc": "Trigger Ultimate Skill Boost for a total of 15s in battle. ",
+        "exp_reward": [
+            [
+                54027,
+                30
+            ]
+        ]
+    },
+    "34": {
+        "name": "Ultimate Skill Trigger \u2160II",
+        "priority": 1,
+        "level": 3,
+        "type": 5,
+        "id": 34,
+        "desc": "Trigger Ultimate Skill Boost for a total of 20s in battle.",
+        "exp_reward": [
+            [
+                54027,
+                40
+            ]
+        ]
+    },
+    "35": {
+        "name": "Back to the Wall",
+        "priority": 3,
+        "level": 1,
+        "type": 0,
+        "id": 35,
+        "desc": "Only 1 tower remains undefeated in battle.",
+        "exp_reward": [
+            [
+                54028,
+                20
+            ]
+        ]
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+    ]
+}

@@ -1,0 +1,150 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Prologue",
+        "difficulty": 1,
+        "chapter_client_list": [
+            10100
+        ]
+    },
+    "2": {
+        "id": 2,
+        "name": "Chapter 1-5",
+        "difficulty": 1,
+        "chapter_client_list": [
+            10101,
+            10102,
+            10103,
+            10104,
+            10105
+        ]
+    },
+    "3": {
+        "id": 3,
+        "name": "Chapter 6-9",
+        "difficulty": 1,
+        "chapter_client_list": [
+            10106,
+            10107,
+            10108,
+            10109
+        ]
+    },
+    "4": {
+        "id": 4,
+        "name": "Chapter 10-11",
+        "difficulty": 1,
+        "chapter_client_list": [
+            10110,
+            10111
+        ]
+    },
+    "5": {
+        "id": 5,
+        "name": "Chapter 12",
+        "difficulty": 1,
+        "chapter_client_list": [
+            10112
+        ]
+    },
+    "6": {
+        "id": 6,
+        "name": "Chapter 13-15",
+        "difficulty": 1,
+        "chapter_client_list": [
+            10113,
+            11113,
+            10114,
+            10115
+        ]
+    },
+    "7": {
+        "id": 7,
+        "name": "Chapters 16-17",
+        "difficulty": 1,
+        "chapter_client_list": [
+            10116,
+            10117
+        ]
+    },
+    "8": {
+        "id": 8,
+        "name": "Chapter 18",
+        "difficulty": 1,
+        "chapter_client_list": [
+            10118
+        ]
+    },
+    "9": {
+        "id": 9,
+        "name": "Chapter 19",
+        "difficulty": 1,
+        "chapter_client_list": [
+            10119
+        ]
+    },
+    "1001": {
+        "id": 1001,
+        "name": "Chapter 1-5",
+        "difficulty": 2,
+        "chapter_client_list": [
+            10201,
+            10202,
+            10203,
+            10204,
+            10205
+        ]
+    },
+    "1002": {
+        "id": 1002,
+        "name": "Chapter 6-9",
+        "difficulty": 2,
+        "chapter_client_list": [
+            10206,
+            10207,
+            10208,
+            10209
+        ]
+    },
+    "1003": {
+        "id": 1003,
+        "name": "Chapter 10-11",
+        "difficulty": 2,
+        "chapter_client_list": [
+            10210,
+            10211
+        ]
+    },
+    "get_id_list_by_difficulty": [
+        [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+        ],
+        [
+            1001,
+            1002,
+            1003
+        ]
+    ],
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        1001,
+        1002,
+        1003
+    ]
+}

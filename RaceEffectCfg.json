@@ -1,0 +1,58 @@
+{
+    "1": {
+        "battle_desc": "All team members' Mod Index Multiplier +40%.",
+        "name": "Olympus",
+        "icon2": "com_white_icon_group_1_c",
+        "id": 1,
+        "icon": "icon_group_1_c",
+        "desc": "Modified Mode +2s."
+    },
+    "2": {
+        "battle_desc": "All team members' Crit DMG +15%.",
+        "name": "Nile",
+        "icon2": "com_white_icon_group_2_c",
+        "id": 2,
+        "icon": "icon_group_2_c",
+        "desc": "All team members' Crit Rate in Modified Mode +30%."
+    },
+    "3": {
+        "battle_desc": "All team members' DMG +5% for every 1 enemy on the field.",
+        "name": "Shinou",
+        "icon2": "com_white_icon_group_3_c",
+        "id": 3,
+        "icon": "icon_group_3_c",
+        "desc": "Deals DMG to enemies on field equal to 8% of the total DMG dealt in current Modified Mode when the Mod exits Modified Mode."
+    },
+    "4": {
+        "battle_desc": "Restores all team members' Combat Resources to full when they enter the battle.",
+        "name": "Yggdrasill",
+        "icon2": "com_white_icon_group_4_c",
+        "id": 4,
+        "icon": "icon_group_4_c",
+        "desc": "Restores all team members' Combat Resources to full when entering Modified Mode. Combat Resources charge rate +100% during Modified Mode."
+    },
+    "5": {
+        "battle_desc": "Inflicts DMG that ignores DEF equal to 25% of ATK upon each hit by any member of the team.",
+        "name": "Asterism",
+        "icon2": "com_white_icon_group_5_c",
+        "id": 5,
+        "icon": "icon_group_5_c",
+        "desc": "Enemies in Modified Mode take 25% more DMG."
+    },
+    "9": {
+        "battle_desc": "All team members' Rating gain rate +20%. Duration of \u03a9 Modifying Level +5s. When Modifying Level is B/A/S/\u03a9, all team members' ATK +10%/15%/20%/25%.",
+        "name": "Tian Yuan",
+        "icon2": "com_white_icon_group_9_c",
+        "id": 9,
+        "icon": "icon_group_9_c",
+        "desc": "Modifying Level is always full at Level \u03a9 in Modified Mode."
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        9
+    ]
+}

@@ -1,0 +1,3902 @@
+{
+    "11001": {
+        "remarks": "Beacon 3",
+        "action": 1,
+        "id": 11001,
+        "moment": 1,
+        "params": [
+            14,
+            1000
+        ]
+    },
+    "11002": {
+        "remarks": "Beacon 6",
+        "action": 1,
+        "id": 11002,
+        "moment": 1,
+        "params": [
+            8,
+            3
+        ]
+    },
+    "11003": {
+        "remarks": "Beacon 7",
+        "action": 1,
+        "id": 11003,
+        "moment": 1,
+        "params": [
+            10,
+            2
+        ]
+    },
+    "11004": {
+        "remarks": "Beacon 8",
+        "action": 1,
+        "id": 11004,
+        "moment": 1,
+        "params": [
+            7,
+            1
+        ]
+    },
+    "11005": {
+        "remarks": "Beacon 9",
+        "action": 1,
+        "id": 11005,
+        "moment": 1,
+        "params": [
+            15,
+            1
+        ]
+    },
+    "11006": {
+        "remarks": "Beacon 11",
+        "action": 1,
+        "id": 11006,
+        "moment": 1,
+        "params": [
+            16,
+            2
+        ]
+    },
+    "11007": {
+        "remarks": "Beacon 13",
+        "action": 1,
+        "id": 11007,
+        "moment": 1,
+        "params": [
+            17,
+            500
+        ]
+    },
+    "11008": {
+        "remarks": "Opportunity - Restore less HP after battle",
+        "action": 1,
+        "id": 11008,
+        "moment": 1,
+        "params": [
+            18,
+            -100
+        ]
+    },
+    "11009": {
+        "remarks": "Opportunity - Treasure Coins obtained greatly increased after battle",
+        "action": 1,
+        "id": 11009,
+        "moment": 1,
+        "params": [
+            19,
+            20
+        ]
+    },
+    "11010": {
+        "remarks": "Opportunity - Treasure Coins obtained slightly increased after battle",
+        "action": 1,
+        "id": 11010,
+        "moment": 1,
+        "params": [
+            19,
+            10
+        ]
+    },
+    "11011": {
+        "remarks": "Opportunity - HP recovery slightly increased after battle",
+        "action": 1,
+        "id": 11011,
+        "moment": 1,
+        "params": [
+            18,
+            50
+        ]
+    },
+    "11012": {
+        "remarks": "Opportunity - HP recovery greatly increased after battle",
+        "action": 1,
+        "id": 11012,
+        "moment": 1,
+        "params": [
+            18,
+            100
+        ]
+    },
+    "11013": {
+        "remarks": "Grants a discount for the first item in the shop",
+        "action": 1,
+        "id": 11013,
+        "moment": 1,
+        "params": [
+            11,
+            150
+        ]
+    },
+    "11014": {
+        "remarks": "Terminal: Unlocks shop refresh",
+        "action": 1,
+        "id": 11014,
+        "moment": 1,
+        "params": [
+            9,
+            3
+        ]
+    },
+    "11015": {
+        "remarks": "Terminal: Shop can be refreshed 99 times",
+        "action": 1,
+        "id": 11015,
+        "moment": 1,
+        "params": [
+            9,
+            96
+        ]
+    },
+    "11016": {
+        "remarks": "Terminal: First shop refresh is free",
+        "action": 1,
+        "id": 11016,
+        "moment": 1,
+        "params": [
+            10,
+            1
+        ]
+    },
+    "11017": {
+        "remarks": "Terminal: First shop item discount 1",
+        "action": 1,
+        "id": 11017,
+        "moment": 1,
+        "params": [
+            11,
+            150
+        ]
+    },
+    "11018": {
+        "remarks": "Terminal: First shop item discount 2",
+        "action": 1,
+        "id": 11018,
+        "moment": 1,
+        "params": [
+            11,
+            300
+        ]
+    },
+    "11019": {
+        "remarks": "Terminal: First shop item discount 3",
+        "action": 1,
+        "id": 11019,
+        "moment": 1,
+        "params": [
+            11,
+            500
+        ]
+    },
+    "11020": {
+        "remarks": "Terminal: Restore HP after each battle 1",
+        "action": 1,
+        "id": 11020,
+        "moment": 1,
+        "params": [
+            18,
+            50
+        ]
+    },
+    "11021": {
+        "remarks": "Terminal: Restore HP after each battle 2",
+        "action": 1,
+        "id": 11021,
+        "moment": 1,
+        "params": [
+            18,
+            100
+        ]
+    },
+    "11022": {
+        "remarks": "Terminal: Restore HP after each battle 3",
+        "action": 1,
+        "id": 11022,
+        "moment": 1,
+        "params": [
+            18,
+            150
+        ]
+    },
+    "11023": {
+        "remarks": "Terminal: Restore HP after each battle 4",
+        "action": 1,
+        "id": 11023,
+        "moment": 1,
+        "params": [
+            18,
+            200
+        ]
+    },
+    "11024": {
+        "remarks": "Terminal: Gain extra Treasure Coins from each stage 1",
+        "action": 1,
+        "id": 11024,
+        "moment": 1,
+        "params": [
+            19,
+            5
+        ]
+    },
+    "11025": {
+        "remarks": "Terminal: Gain extra Treasure Coins from each stage 2",
+        "action": 1,
+        "id": 11025,
+        "moment": 1,
+        "params": [
+            19,
+            10
+        ]
+    },
+    "11026": {
+        "remarks": "Terminal: Gain extra Treasure Coins from each stage 3",
+        "action": 1,
+        "id": 11026,
+        "moment": 1,
+        "params": [
+            19,
+            15
+        ]
+    },
+    "11027": {
+        "remarks": "Terminal: Functor Lv.1",
+        "action": 1,
+        "id": 11027,
+        "moment": 1,
+        "params": [
+            1,
+            1
+        ]
+    },
+    "11028": {
+        "remarks": "Terminal: Functor Lv.2",
+        "action": 1,
+        "id": 11028,
+        "moment": 1,
+        "params": [
+            1,
+            2
+        ]
+    },
+    "11029": {
+        "remarks": "Terminal: Aether Code Equip Limit 1",
+        "action": 1,
+        "id": 11029,
+        "moment": 1,
+        "params": [
+            3,
+            1
+        ]
+    },
+    "11030": {
+        "remarks": "Terminal: Aether Code Equip Limit 2",
+        "action": 1,
+        "id": 11030,
+        "moment": 1,
+        "params": [
+            3,
+            2
+        ]
+    },
+    "11031": {
+        "remarks": "Terminal: Aether Code Equip Limit 3",
+        "action": 1,
+        "id": 11031,
+        "moment": 1,
+        "params": [
+            3,
+            3
+        ]
+    },
+    "11032": {
+        "remarks": "Terminal: Sigil Equip Limit 1",
+        "action": 1,
+        "id": 11032,
+        "moment": 1,
+        "params": [
+            2,
+            1
+        ]
+    },
+    "11033": {
+        "remarks": "Terminal: Sigil Equip Limit 2",
+        "action": 1,
+        "id": 11033,
+        "moment": 1,
+        "params": [
+            2,
+            2
+        ]
+    },
+    "11034": {
+        "remarks": "Beacon 10",
+        "action": 3,
+        "id": 11034,
+        "moment": 1,
+        "params": [
+            1000
+        ]
+    },
+    "12001": {
+        "remarks": "Opportunity: Lose a small amount of HP",
+        "action": 2,
+        "id": 12001,
+        "moment": 1,
+        "params": [
+            -200
+        ]
+    },
+    "12002": {
+        "remarks": "Opportunity: Lose half of the HP",
+        "action": 2,
+        "id": 12002,
+        "moment": 1,
+        "params": [
+            -500
+        ]
+    },
+    "12003": {
+        "remarks": "Opportunity: Restore HP",
+        "action": 2,
+        "id": 12003,
+        "moment": 1,
+        "params": [
+            400
+        ]
+    },
+    "12004": {
+        "remarks": "Restore HP after Boss battle",
+        "action": 2,
+        "id": 12004,
+        "moment": 1,
+        "params": [
+            1000
+        ]
+    },
+    "12005": {
+        "remarks": "Guaranteed shop sale: HP Recovery",
+        "action": 2,
+        "id": 12005,
+        "moment": 1,
+        "params": [
+            500
+        ]
+    },
+    "12006": {
+        "remarks": "Guaranteed shop sale: HP Recovery",
+        "action": 2,
+        "id": 12006,
+        "moment": 1,
+        "params": [
+            300
+        ]
+    },
+    "16001": {
+        "remarks": "Opportunity: Lose Sigils",
+        "action": 6,
+        "id": 16001,
+        "moment": 1,
+        "params": [
+            1
+        ]
+    },
+    "17001": {
+        "remarks": "Opportunity: Lose a small amount of Coins",
+        "action": 7,
+        "id": 17001,
+        "moment": 1,
+        "params": [
+            [
+                26,
+                -45
+            ]
+        ]
+    },
+    "17002": {
+        "remarks": "Opportunity: Lose a medium amount of Coins",
+        "action": 7,
+        "id": 17002,
+        "moment": 1,
+        "params": [
+            [
+                26,
+                -90
+            ]
+        ]
+    },
+    "17003": {
+        "remarks": "Opportunity: Lose all Coins",
+        "action": 7,
+        "id": 17003,
+        "moment": 1,
+        "params": [
+            [
+                26,
+                -999999
+            ]
+        ]
+    },
+    "17018": {
+        "remarks": "Terminal: Gain a certain amount of Treasure Coins at the start of the stage 1",
+        "action": 7,
+        "id": 17018,
+        "moment": 1,
+        "params": [
+            [
+                26,
+                150
+            ]
+        ]
+    },
+    "17019": {
+        "remarks": "Terminal: Gain a certain amount of Treasure Coins at the start of the stage 2",
+        "action": 7,
+        "id": 17019,
+        "moment": 1,
+        "params": [
+            [
+                26,
+                200
+            ]
+        ]
+    },
+    "18001": {
+        "remarks": "Beacon 10",
+        "action": 8,
+        "id": 18001,
+        "moment": 1,
+        "params": []
+    },
+    "19001": {
+        "remarks": "Opportunity: Lose Memory Treasures",
+        "action": 9,
+        "id": 19001,
+        "moment": 1,
+        "params": [
+            1
+        ]
+    },
+    "44001": {
+        "remarks": "Beacon 1",
+        "action": 4,
+        "id": 44001,
+        "moment": 4,
+        "params": [
+            801,
+            1,
+            3
+        ]
+    },
+    "44002": {
+        "remarks": "Beacon 2",
+        "action": 4,
+        "id": 44002,
+        "moment": 4,
+        "params": [
+            802,
+            1,
+            3
+        ]
+    },
+    "44003": {
+        "remarks": "Beacon 4",
+        "action": 4,
+        "id": 44003,
+        "moment": 4,
+        "params": [
+            803,
+            1,
+            3
+        ]
+    },
+    "44004": {
+        "remarks": "Beacon 5",
+        "action": 4,
+        "id": 44004,
+        "moment": 4,
+        "params": [
+            804,
+            1,
+            3
+        ]
+    },
+    "44005": {
+        "remarks": "Beacon 5",
+        "action": 4,
+        "id": 44005,
+        "moment": 4,
+        "params": [
+            804,
+            1,
+            0
+        ]
+    },
+    "44006": {
+        "remarks": "Beacon 10",
+        "action": 4,
+        "id": 44006,
+        "moment": 4,
+        "params": [
+            805,
+            1,
+            3
+        ]
+    },
+    "44007": {
+        "remarks": "Beacon 12",
+        "action": 4,
+        "id": 44007,
+        "moment": 4,
+        "params": [
+            806,
+            1,
+            3
+        ]
+    },
+    "44008": {
+        "remarks": "Victory Omamori",
+        "action": 4,
+        "id": 44008,
+        "moment": 4,
+        "params": [
+            501,
+            1,
+            3
+        ]
+    },
+    "44009": {
+        "remarks": "Adventure Pointer",
+        "action": 4,
+        "id": 44009,
+        "moment": 4,
+        "params": [
+            502,
+            1,
+            3
+        ]
+    },
+    "44010": {
+        "remarks": "Mimir Hair Clip",
+        "action": 4,
+        "id": 44010,
+        "moment": 4,
+        "params": [
+            503,
+            1,
+            3
+        ]
+    },
+    "44011": {
+        "remarks": "Battle Boost Device",
+        "action": 4,
+        "id": 44011,
+        "moment": 4,
+        "params": [
+            504,
+            1,
+            3
+        ]
+    },
+    "44012": {
+        "remarks": "Emergency Rations",
+        "action": 4,
+        "id": 44012,
+        "moment": 4,
+        "params": [
+            505,
+            1,
+            3
+        ]
+    },
+    "44013": {
+        "remarks": "Outdoors Whistle",
+        "action": 4,
+        "id": 44013,
+        "moment": 4,
+        "params": [
+            506,
+            1,
+            3
+        ]
+    },
+    "44014": {
+        "remarks": "Crystal Ball",
+        "action": 4,
+        "id": 44014,
+        "moment": 4,
+        "params": [
+            507,
+            1,
+            3
+        ]
+    },
+    "44015": {
+        "remarks": "Baguette",
+        "action": 4,
+        "id": 44015,
+        "moment": 4,
+        "params": [
+            508,
+            1,
+            3
+        ]
+    },
+    "44016": {
+        "remarks": "Kitty Bell",
+        "action": 4,
+        "id": 44016,
+        "moment": 4,
+        "params": [
+            509,
+            1,
+            3
+        ]
+    },
+    "44017": {
+        "remarks": "Jet-Powered Skateboard",
+        "action": 4,
+        "id": 44017,
+        "moment": 4,
+        "params": [
+            510,
+            1,
+            3
+        ]
+    },
+    "44018": {
+        "remarks": "Solar Charger",
+        "action": 4,
+        "id": 44018,
+        "moment": 4,
+        "params": [
+            511,
+            1,
+            3
+        ]
+    },
+    "44019": {
+        "remarks": "Unfading Memory",
+        "action": 4,
+        "id": 44019,
+        "moment": 4,
+        "params": [
+            512,
+            1,
+            3
+        ]
+    },
+    "44020": {
+        "remarks": "Paper Cranes",
+        "action": 4,
+        "id": 44020,
+        "moment": 4,
+        "params": [
+            513,
+            1,
+            3
+        ]
+    },
+    "44021": {
+        "remarks": "Vintage Handheld Console",
+        "action": 4,
+        "id": 44021,
+        "moment": 4,
+        "params": [
+            514,
+            1,
+            3
+        ]
+    },
+    "44022": {
+        "remarks": "Rare Collectible Card",
+        "action": 4,
+        "id": 44022,
+        "moment": 4,
+        "params": [
+            515,
+            1,
+            3
+        ]
+    },
+    "44023": {
+        "remarks": "Inflatable Hammer",
+        "action": 4,
+        "id": 44023,
+        "moment": 4,
+        "params": [
+            516,
+            1,
+            3
+        ]
+    },
+    "44024": {
+        "remarks": "High-Power Binoculars",
+        "action": 4,
+        "id": 44024,
+        "moment": 4,
+        "params": [
+            517,
+            1,
+            3
+        ]
+    },
+    "44025": {
+        "remarks": "Black Knight Chess Piece",
+        "action": 4,
+        "id": 44025,
+        "moment": 4,
+        "params": [
+            518,
+            1,
+            3
+        ]
+    },
+    "44026": {
+        "remarks": "Training Sword",
+        "action": 4,
+        "id": 44026,
+        "moment": 4,
+        "params": [
+            519,
+            1,
+            3
+        ]
+    },
+    "44027": {
+        "remarks": "Glow Stick",
+        "action": 4,
+        "id": 44027,
+        "moment": 4,
+        "params": [
+            520,
+            1,
+            3
+        ]
+    },
+    "44028": {
+        "remarks": "Notebook",
+        "action": 4,
+        "id": 44028,
+        "moment": 4,
+        "params": [
+            521,
+            1,
+            3
+        ]
+    },
+    "44029": {
+        "remarks": "Outdoors First Aid Kit",
+        "action": 4,
+        "id": 44029,
+        "moment": 4,
+        "params": [
+            522,
+            1,
+            3
+        ]
+    },
+    "44030": {
+        "remarks": "Dried Fish",
+        "action": 4,
+        "id": 44030,
+        "moment": 4,
+        "params": [
+            523,
+            1,
+            3
+        ]
+    },
+    "44031": {
+        "remarks": "Vinyl Record",
+        "action": 4,
+        "id": 44031,
+        "moment": 4,
+        "params": [
+            524,
+            1,
+            3
+        ]
+    },
+    "44032": {
+        "remarks": "High-Concealment Tool Kit",
+        "action": 4,
+        "id": 44032,
+        "moment": 4,
+        "params": [
+            525,
+            1,
+            3
+        ]
+    },
+    "44033": {
+        "remarks": "Unnamed Scabbard",
+        "action": 4,
+        "id": 44033,
+        "moment": 4,
+        "params": [
+            526,
+            1,
+            3
+        ]
+    },
+    "44034": {
+        "remarks": "Unnamed Holy Sword",
+        "action": 4,
+        "id": 44034,
+        "moment": 4,
+        "params": [
+            527,
+            1,
+            3
+        ]
+    },
+    "44035": {
+        "remarks": "Black Coffee",
+        "action": 4,
+        "id": 44035,
+        "moment": 4,
+        "params": [
+            528,
+            1,
+            3
+        ]
+    },
+    "44036": {
+        "remarks": "Canned Ume",
+        "action": 4,
+        "id": 44036,
+        "moment": 4,
+        "params": [
+            529,
+            1,
+            3
+        ]
+    },
+    "44037": {
+        "remarks": "Rainbow Lollipop",
+        "action": 4,
+        "id": 44037,
+        "moment": 4,
+        "params": [
+            530,
+            1,
+            3
+        ]
+    },
+    "44038": {
+        "remarks": "Delicious Barbecue",
+        "action": 4,
+        "id": 44038,
+        "moment": 4,
+        "params": [
+            531,
+            1,
+            3
+        ]
+    },
+    "44039": {
+        "remarks": "Eco-Friendly Carton",
+        "action": 4,
+        "id": 44039,
+        "moment": 4,
+        "params": [
+            532,
+            1,
+            3
+        ]
+    },
+    "44040": {
+        "remarks": "Thermal Gun",
+        "action": 4,
+        "id": 44040,
+        "moment": 4,
+        "params": [
+            533,
+            1,
+            3
+        ]
+    },
+    "44041": {
+        "remarks": "Limited-Edition Model",
+        "action": 4,
+        "id": 44041,
+        "moment": 4,
+        "params": [
+            534,
+            1,
+            3
+        ]
+    },
+    "44042": {
+        "remarks": "Disposable Protective Gear",
+        "action": 4,
+        "id": 44042,
+        "moment": 4,
+        "params": [
+            535,
+            1,
+            3
+        ]
+    },
+    "44043": {
+        "remarks": "Odd Design Blueprint",
+        "action": 4,
+        "id": 44043,
+        "moment": 4,
+        "params": [
+            536,
+            1,
+            3
+        ]
+    },
+    "44044": {
+        "remarks": "Hand-Crank Flashlight",
+        "action": 4,
+        "id": 44044,
+        "moment": 4,
+        "params": [
+            537,
+            1,
+            3
+        ]
+    },
+    "44045": {
+        "remarks": "Blueberry Cake",
+        "action": 4,
+        "id": 44045,
+        "moment": 4,
+        "params": [
+            538,
+            1,
+            3
+        ]
+    },
+    "44046": {
+        "remarks": "Directional Loudspeaker",
+        "action": 4,
+        "id": 44046,
+        "moment": 4,
+        "params": [
+            539,
+            1,
+            3
+        ]
+    },
+    "44047": {
+        "remarks": "Four-Leaf Clover Bookmark",
+        "action": 4,
+        "id": 44047,
+        "moment": 4,
+        "params": [
+            540,
+            1,
+            3
+        ]
+    },
+    "44048": {
+        "remarks": "Drinking Water",
+        "action": 4,
+        "id": 44048,
+        "moment": 4,
+        "params": [
+            541,
+            1,
+            3
+        ]
+    },
+    "44049": {
+        "remarks": "Noise-Canceling Earphones",
+        "action": 4,
+        "id": 44049,
+        "moment": 4,
+        "params": [
+            542,
+            1,
+            3
+        ]
+    },
+    "44050": {
+        "remarks": "Plush Nightcap",
+        "action": 4,
+        "id": 44050,
+        "moment": 4,
+        "params": [
+            543,
+            1,
+            3
+        ]
+    },
+    "44051": {
+        "remarks": "White Bear Plush",
+        "action": 4,
+        "id": 44051,
+        "moment": 4,
+        "params": [
+            544,
+            1,
+            3
+        ]
+    },
+    "44052": {
+        "remarks": "Old Pocket Watch",
+        "action": 4,
+        "id": 44052,
+        "moment": 4,
+        "params": [
+            545,
+            1,
+            3
+        ]
+    },
+    "44053": {
+        "remarks": "Instant Camera",
+        "action": 4,
+        "id": 44053,
+        "moment": 4,
+        "params": [
+            546,
+            1,
+            3
+        ]
+    },
+    "44054": {
+        "remarks": "All-Terrain Tactical Boots",
+        "action": 4,
+        "id": 44054,
+        "moment": 4,
+        "params": [
+            547,
+            1,
+            3
+        ]
+    },
+    "44055": {
+        "remarks": "Star Coin",
+        "action": 4,
+        "id": 44055,
+        "moment": 4,
+        "params": [
+            548,
+            1,
+            3
+        ]
+    },
+    "44056": {
+        "remarks": "Boxing Gloves",
+        "action": 4,
+        "id": 44056,
+        "moment": 4,
+        "params": [
+            549,
+            1,
+            3
+        ]
+    },
+    "44057": {
+        "remarks": "Crowbar",
+        "action": 4,
+        "id": 44057,
+        "moment": 4,
+        "params": [
+            550,
+            1,
+            3
+        ]
+    },
+    "44058": {
+        "remarks": "Jack-in-the-box",
+        "action": 4,
+        "id": 44058,
+        "moment": 4,
+        "params": [
+            551,
+            1,
+            3
+        ]
+    },
+    "44059": {
+        "remarks": "Frostwolf Pendant",
+        "action": 4,
+        "id": 44059,
+        "moment": 4,
+        "params": [
+            552,
+            1,
+            3
+        ]
+    },
+    "44060": {
+        "remarks": "Ember Bullets",
+        "action": 4,
+        "id": 44060,
+        "moment": 4,
+        "params": [
+            553,
+            1,
+            3
+        ]
+    },
+    "44061": {
+        "remarks": "Scanning Device",
+        "action": 4,
+        "id": 44061,
+        "moment": 4,
+        "params": [
+            554,
+            1,
+            3
+        ]
+    },
+    "44062": {
+        "remarks": "Power Saw",
+        "action": 4,
+        "id": 44062,
+        "moment": 4,
+        "params": [
+            555,
+            1,
+            3
+        ]
+    },
+    "44063": {
+        "remarks": "Bagged Jelly",
+        "action": 4,
+        "id": 44063,
+        "moment": 4,
+        "params": [
+            556,
+            1,
+            3
+        ]
+    },
+    "44064": {
+        "remarks": "Magnetic Gun",
+        "action": 4,
+        "id": 44064,
+        "moment": 4,
+        "params": [
+            557,
+            1,
+            3
+        ]
+    },
+    "44065": {
+        "remarks": "Feather Brooch",
+        "action": 4,
+        "id": 44065,
+        "moment": 4,
+        "params": [
+            558,
+            1,
+            3
+        ]
+    },
+    "44066": {
+        "remarks": "Rusty Broken Sword",
+        "action": 4,
+        "id": 44066,
+        "moment": 4,
+        "params": [
+            559,
+            1,
+            3
+        ]
+    },
+    "44067": {
+        "remarks": "Butterfly Specimen",
+        "action": 4,
+        "id": 44067,
+        "moment": 4,
+        "params": [
+            560,
+            1,
+            3
+        ]
+    },
+    "44068": {
+        "remarks": "Fidget Spinner",
+        "action": 4,
+        "id": 44068,
+        "moment": 4,
+        "params": [
+            561,
+            1,
+            3
+        ]
+    },
+    "44069": {
+        "remarks": "Dumbbells",
+        "action": 4,
+        "id": 44069,
+        "moment": 4,
+        "params": [
+            562,
+            1,
+            3
+        ]
+    },
+    "44070": {
+        "remarks": "Hip Flask",
+        "action": 4,
+        "id": 44070,
+        "moment": 4,
+        "params": [
+            563,
+            1,
+            3
+        ]
+    },
+    "44071": {
+        "remarks": "Dreamcatcher",
+        "action": 4,
+        "id": 44071,
+        "moment": 4,
+        "params": [
+            564,
+            1,
+            3
+        ]
+    },
+    "44072": {
+        "remarks": "Mini Lottery Machine",
+        "action": 4,
+        "id": 44072,
+        "moment": 4,
+        "params": [
+            565,
+            1,
+            3
+        ]
+    },
+    "44073": {
+        "remarks": "Medical Spray",
+        "action": 4,
+        "id": 44073,
+        "moment": 4,
+        "params": [
+            566,
+            1,
+            3
+        ]
+    },
+    "44074": {
+        "remarks": "Tuning Fork",
+        "action": 4,
+        "id": 44074,
+        "moment": 4,
+        "params": [
+            567,
+            1,
+            3
+        ]
+    },
+    "44075": {
+        "remarks": "Tuning Wrench",
+        "action": 4,
+        "id": 44075,
+        "moment": 4,
+        "params": [
+            568,
+            1,
+            3
+        ]
+    },
+    "44076": {
+        "remarks": "Wide-Area Loudspeaker",
+        "action": 4,
+        "id": 44076,
+        "moment": 4,
+        "params": [
+            569,
+            1,
+            3
+        ]
+    },
+    "44077": {
+        "remarks": "Slingshot",
+        "action": 4,
+        "id": 44077,
+        "moment": 4,
+        "params": [
+            570,
+            1,
+            3
+        ]
+    },
+    "44078": {
+        "remarks": "Multi-Tool Pocketknife",
+        "action": 4,
+        "id": 44078,
+        "moment": 4,
+        "params": [
+            571,
+            1,
+            3
+        ]
+    },
+    "44079": {
+        "remarks": "Monkey Wrench",
+        "action": 4,
+        "id": 44079,
+        "moment": 4,
+        "params": [
+            572,
+            1,
+            3
+        ]
+    },
+    "44080": {
+        "remarks": "Nunchaku",
+        "action": 4,
+        "id": 44080,
+        "moment": 4,
+        "params": [
+            573,
+            1,
+            3
+        ]
+    },
+    "44081": {
+        "remarks": "Great Big Horn",
+        "action": 4,
+        "id": 44081,
+        "moment": 4,
+        "params": [
+            574,
+            1,
+            3
+        ]
+    },
+    "44082": {
+        "remarks": "Perfect Flow Water Gun",
+        "action": 4,
+        "id": 44082,
+        "moment": 4,
+        "params": [
+            575,
+            1,
+            3
+        ]
+    },
+    "44083": {
+        "remarks": "Colorless Ink",
+        "action": 4,
+        "id": 44083,
+        "moment": 4,
+        "params": [
+            576,
+            1,
+            3
+        ]
+    },
+    "44084": {
+        "remarks": "Soft Drink",
+        "action": 4,
+        "id": 44084,
+        "moment": 4,
+        "params": [
+            577,
+            1,
+            3
+        ]
+    },
+    "44085": {
+        "remarks": "Handheld Lantern",
+        "action": 4,
+        "id": 44085,
+        "moment": 4,
+        "params": [
+            578,
+            1,
+            3
+        ]
+    },
+    "44086": {
+        "remarks": "Pretty Parasol",
+        "action": 4,
+        "id": 44086,
+        "moment": 4,
+        "params": [
+            579,
+            1,
+            3
+        ]
+    },
+    "44087": {
+        "remarks": "Kokeshi",
+        "action": 4,
+        "id": 44087,
+        "moment": 4,
+        "params": [
+            580,
+            1,
+            3
+        ]
+    },
+    "44088": {
+        "remarks": "Red String Bracelet",
+        "action": 4,
+        "id": 44088,
+        "moment": 4,
+        "params": [
+            581,
+            1,
+            3
+        ]
+    },
+    "44089": {
+        "remarks": "Pogo Stick",
+        "action": 4,
+        "id": 44089,
+        "moment": 4,
+        "params": [
+            582,
+            1,
+            3
+        ]
+    },
+    "44090": {
+        "remarks": "Paper Cup Hailer",
+        "action": 4,
+        "id": 44090,
+        "moment": 4,
+        "params": [
+            583,
+            1,
+            3
+        ]
+    },
+    "44091": {
+        "remarks": "Game Dice",
+        "action": 4,
+        "id": 44091,
+        "moment": 4,
+        "params": [
+            584,
+            1,
+            3
+        ]
+    },
+    "44092": {
+        "remarks": "Shuriken",
+        "action": 4,
+        "id": 44092,
+        "moment": 4,
+        "params": [
+            585,
+            1,
+            3
+        ]
+    },
+    "44093": {
+        "remarks": "Colored Matryoshka Doll",
+        "action": 4,
+        "id": 44093,
+        "moment": 4,
+        "params": [
+            586,
+            1,
+            3
+        ]
+    },
+    "44094": {
+        "remarks": "Electric Chewing Gum",
+        "action": 4,
+        "id": 44094,
+        "moment": 4,
+        "params": [
+            587,
+            1,
+            3
+        ]
+    },
+    "44095": {
+        "remarks": "Tobacco Pipe",
+        "action": 4,
+        "id": 44095,
+        "moment": 4,
+        "params": [
+            588,
+            1,
+            3
+        ]
+    },
+    "44096": {
+        "remarks": "Electric Guitar",
+        "action": 4,
+        "id": 44096,
+        "moment": 4,
+        "params": [
+            589,
+            1,
+            3
+        ]
+    },
+    "44097": {
+        "remarks": "Toy Pirate Flag",
+        "action": 4,
+        "id": 44097,
+        "moment": 4,
+        "params": [
+            590,
+            1,
+            3
+        ]
+    },
+    "44098": {
+        "remarks": "Toy Pirate Hat",
+        "action": 4,
+        "id": 44098,
+        "moment": 4,
+        "params": [
+            591,
+            1,
+            3
+        ]
+    },
+    "44099": {
+        "remarks": "Bendy Spoon",
+        "action": 4,
+        "id": 44099,
+        "moment": 4,
+        "params": [
+            592,
+            1,
+            3
+        ]
+    },
+    "44100": {
+        "remarks": "Tactical Goggles",
+        "action": 4,
+        "id": 44100,
+        "moment": 4,
+        "params": [
+            593,
+            1,
+            3
+        ]
+    },
+    "44101": {
+        "remarks": "Frying Pan",
+        "action": 4,
+        "id": 44101,
+        "moment": 4,
+        "params": [
+            594,
+            1,
+            3
+        ]
+    },
+    "44102": {
+        "remarks": "Elven Amulet",
+        "action": 4,
+        "id": 44102,
+        "moment": 4,
+        "params": [
+            595,
+            1,
+            3
+        ]
+    },
+    "44103": {
+        "remarks": "Wishing Bottle",
+        "action": 4,
+        "id": 44103,
+        "moment": 4,
+        "params": [
+            596,
+            1,
+            3
+        ]
+    },
+    "44104": {
+        "remarks": "Champion Belt",
+        "action": 4,
+        "id": 44104,
+        "moment": 4,
+        "params": [
+            597,
+            1,
+            3
+        ]
+    },
+    "44105": {
+        "remarks": "Foldable Gun",
+        "action": 4,
+        "id": 44105,
+        "moment": 4,
+        "params": [
+            598,
+            1,
+            3
+        ]
+    },
+    "44106": {
+        "remarks": "Nautilus Ornament",
+        "action": 4,
+        "id": 44106,
+        "moment": 4,
+        "params": [
+            599,
+            1,
+            3
+        ]
+    },
+    "44107": {
+        "remarks": "Bubble Gun",
+        "action": 4,
+        "id": 44107,
+        "moment": 4,
+        "params": [
+            600,
+            1,
+            3
+        ]
+    },
+    "45001": {
+        "remarks": "Terminal: HP Bonus 1",
+        "action": 5,
+        "id": 45001,
+        "moment": 4,
+        "params": [
+            [
+                31,
+                50
+            ]
+        ]
+    },
+    "45002": {
+        "remarks": "Terminal: HP Bonus 2",
+        "action": 5,
+        "id": 45002,
+        "moment": 4,
+        "params": [
+            [
+                31,
+                100
+            ]
+        ]
+    },
+    "45003": {
+        "remarks": "Terminal: HP Bonus 3",
+        "action": 5,
+        "id": 45003,
+        "moment": 4,
+        "params": [
+            [
+                31,
+                150
+            ]
+        ]
+    },
+    "45004": {
+        "remarks": "Terminal: DEF Bonus 1",
+        "action": 5,
+        "id": 45004,
+        "moment": 4,
+        "params": [
+            [
+                21,
+                50
+            ]
+        ]
+    },
+    "45005": {
+        "remarks": "Terminal: DEF Bonus 2",
+        "action": 5,
+        "id": 45005,
+        "moment": 4,
+        "params": [
+            [
+                21,
+                100
+            ]
+        ]
+    },
+    "45006": {
+        "remarks": "Terminal: DEF Bonus 3",
+        "action": 5,
+        "id": 45006,
+        "moment": 4,
+        "params": [
+            [
+                21,
+                150
+            ]
+        ]
+    },
+    "45007": {
+        "remarks": "Terminal: Healing Rate Boost 1",
+        "action": 5,
+        "id": 45007,
+        "moment": 4,
+        "params": [
+            [
+                42,
+                200
+            ]
+        ]
+    },
+    "45008": {
+        "remarks": "Terminal: Healing Rate Boost 2",
+        "action": 5,
+        "id": 45008,
+        "moment": 4,
+        "params": [
+            [
+                42,
+                300
+            ]
+        ]
+    },
+    "45009": {
+        "remarks": "Terminal: ATK Bonus 1",
+        "action": 5,
+        "id": 45009,
+        "moment": 4,
+        "params": [
+            [
+                11,
+                30
+            ]
+        ]
+    },
+    "45010": {
+        "remarks": "Terminal: ATK Bonus 2",
+        "action": 5,
+        "id": 45010,
+        "moment": 4,
+        "params": [
+            [
+                11,
+                60
+            ]
+        ]
+    },
+    "45011": {
+        "remarks": "Terminal: ATK Bonus 3",
+        "action": 5,
+        "id": 45011,
+        "moment": 4,
+        "params": [
+            [
+                11,
+                90
+            ]
+        ]
+    },
+    "45012": {
+        "remarks": "Terminal: ATK Bonus 4",
+        "action": 5,
+        "id": 45012,
+        "moment": 4,
+        "params": [
+            [
+                11,
+                120
+            ]
+        ]
+    },
+    "45013": {
+        "remarks": "Terminal: ATK Bonus 5",
+        "action": 5,
+        "id": 45013,
+        "moment": 4,
+        "params": [
+            [
+                11,
+                150
+            ]
+        ]
+    },
+    "45014": {
+        "remarks": "Terminal: Crit Rate Boost 1",
+        "action": 5,
+        "id": 45014,
+        "moment": 4,
+        "params": [
+            [
+                81,
+                50
+            ]
+        ]
+    },
+    "45015": {
+        "remarks": "Terminal: Crit Rate Boost 2",
+        "action": 5,
+        "id": 45015,
+        "moment": 4,
+        "params": [
+            [
+                81,
+                100
+            ]
+        ]
+    },
+    "45016": {
+        "remarks": "Terminal: Crit Rate Boost 3",
+        "action": 5,
+        "id": 45016,
+        "moment": 4,
+        "params": [
+            [
+                81,
+                150
+            ]
+        ]
+    },
+    "45017": {
+        "remarks": "Terminal: Crit DMG Boost 1",
+        "action": 5,
+        "id": 45017,
+        "moment": 4,
+        "params": [
+            [
+                82,
+                100
+            ]
+        ]
+    },
+    "45018": {
+        "remarks": "Terminal: Crit DMG Boost 2",
+        "action": 5,
+        "id": 45018,
+        "moment": 4,
+        "params": [
+            [
+                82,
+                200
+            ]
+        ]
+    },
+    "45019": {
+        "remarks": "Terminal: Crit DMG Boost 3",
+        "action": 5,
+        "id": 45019,
+        "moment": 4,
+        "params": [
+            [
+                82,
+                300
+            ]
+        ]
+    },
+    "45020": {
+        "remarks": "Terminal: Max Stamina Boost 1",
+        "action": 5,
+        "id": 45020,
+        "moment": 4,
+        "params": [
+            [
+                1004,
+                100
+            ]
+        ]
+    },
+    "45021": {
+        "remarks": "Terminal: Max Stamina Boost 2",
+        "action": 5,
+        "id": 45021,
+        "moment": 4,
+        "params": [
+            [
+                1004,
+                200
+            ]
+        ]
+    },
+    "45022": {
+        "remarks": "Terminal: Max Stamina Boost 3",
+        "action": 5,
+        "id": 45022,
+        "moment": 4,
+        "params": [
+            [
+                1004,
+                300
+            ]
+        ]
+    },
+    "45023": {
+        "remarks": "Terminal: Stamina Recovery Speed Boost",
+        "action": 5,
+        "id": 45023,
+        "moment": 4,
+        "params": [
+            [
+                1003,
+                100
+            ]
+        ]
+    },
+    "45024": {
+        "remarks": "Terminal: Mod Index Multiplier Boost 1",
+        "action": 5,
+        "id": 45024,
+        "moment": 4,
+        "params": [
+            [
+                1105,
+                100
+            ]
+        ]
+    },
+    "45025": {
+        "remarks": "Terminal: Mod Index Multiplier Boost 2",
+        "action": 5,
+        "id": 45025,
+        "moment": 4,
+        "params": [
+            [
+                1105,
+                200
+            ]
+        ]
+    },
+    "45026": {
+        "remarks": "Terminal: Modified Mode DMG Boost 1",
+        "action": 5,
+        "id": 45026,
+        "moment": 4,
+        "params": [
+            [
+                421,
+                100
+            ]
+        ]
+    },
+    "45027": {
+        "remarks": "Terminal: Modified Mode DMG Boost 2",
+        "action": 5,
+        "id": 45027,
+        "moment": 4,
+        "params": [
+            [
+                421,
+                150
+            ]
+        ]
+    },
+    "45028": {
+        "remarks": "Terminal: Humanoid DMG RES 1",
+        "action": 5,
+        "id": 45028,
+        "moment": 4,
+        "params": [
+            [
+                211,
+                50
+            ]
+        ]
+    },
+    "45029": {
+        "remarks": "Terminal: Humanoid DMG RES 2",
+        "action": 5,
+        "id": 45029,
+        "moment": 4,
+        "params": [
+            [
+                211,
+                100
+            ]
+        ]
+    },
+    "45030": {
+        "remarks": "Terminal: Humanoid DMG RES 3",
+        "action": 5,
+        "id": 45030,
+        "moment": 4,
+        "params": [
+            [
+                211,
+                150
+            ]
+        ]
+    },
+    "45031": {
+        "remarks": "Terminal: AGI Mecha DMG RES 1",
+        "action": 5,
+        "id": 45031,
+        "moment": 4,
+        "params": [
+            [
+                212,
+                50
+            ]
+        ]
+    },
+    "45032": {
+        "remarks": "Terminal: AGI Mecha DMG RES 2",
+        "action": 5,
+        "id": 45032,
+        "moment": 4,
+        "params": [
+            [
+                212,
+                100
+            ]
+        ]
+    },
+    "45033": {
+        "remarks": "Terminal: AGI Mecha DMG RES 3",
+        "action": 5,
+        "id": 45033,
+        "moment": 4,
+        "params": [
+            [
+                212,
+                150
+            ]
+        ]
+    },
+    "45034": {
+        "remarks": "Terminal: Visbane DMG RES 1",
+        "action": 5,
+        "id": 45034,
+        "moment": 4,
+        "params": [
+            [
+                213,
+                50
+            ]
+        ]
+    },
+    "45035": {
+        "remarks": "Terminal: Visbane DMG RES 2",
+        "action": 5,
+        "id": 45035,
+        "moment": 4,
+        "params": [
+            [
+                213,
+                100
+            ]
+        ]
+    },
+    "45036": {
+        "remarks": "Terminal: Visbane DMG RES 3",
+        "action": 5,
+        "id": 45036,
+        "moment": 4,
+        "params": [
+            [
+                213,
+                150
+            ]
+        ]
+    },
+    "610001": {
+        "remarks": "Dimensional Variable Event - Gain 2 clues",
+        "action": 10,
+        "id": 610001,
+        "moment": 6,
+        "params": [
+            [
+                3,
+                2
+            ]
+        ]
+    },
+    "610002": {
+        "remarks": "Dimensional Variable Event - Gain 3 clues",
+        "action": 10,
+        "id": 610002,
+        "moment": 6,
+        "params": [
+            [
+                3,
+                3
+            ]
+        ]
+    },
+    "900001": {
+        "remarks": "Opportunity: Lose a small amount of Coins",
+        "action": 7,
+        "id": 900001,
+        "moment": 1,
+        "params": [
+            [
+                26,
+                -100
+            ]
+        ]
+    },
+    "900002": {
+        "remarks": "Opportunity: Lose a medium amount of Coins",
+        "action": 7,
+        "id": 900002,
+        "moment": 1,
+        "params": [
+            [
+                26,
+                -200
+            ]
+        ]
+    },
+    "900003": {
+        "remarks": "Opportunity: Lose all Coins",
+        "action": 7,
+        "id": 900003,
+        "moment": 1,
+        "params": [
+            [
+                26,
+                -999999
+            ]
+        ]
+    },
+    "211001": {
+        "remarks": "Opportunity: Lose a tiny amount of Coins",
+        "action": 7,
+        "id": 211001,
+        "moment": 1,
+        "params": [
+            [
+                26,
+                -50
+            ]
+        ]
+    },
+    "211002": {
+        "remarks": "Opportunity: Lose a small amount of Coins",
+        "action": 7,
+        "id": 211002,
+        "moment": 1,
+        "params": [
+            [
+                26,
+                -100
+            ]
+        ]
+    },
+    "211003": {
+        "remarks": "Opportunity: Lose a medium amount of Coins",
+        "action": 7,
+        "id": 211003,
+        "moment": 1,
+        "params": [
+            [
+                26,
+                -200
+            ]
+        ]
+    },
+    "211004": {
+        "remarks": "Opportunity: Lose a large amount of Coins",
+        "action": 7,
+        "id": 211004,
+        "moment": 1,
+        "params": [
+            [
+                26,
+                -400
+            ]
+        ]
+    },
+    "211009": {
+        "remarks": "Opportunity: Lose all Coins",
+        "action": 7,
+        "id": 211009,
+        "moment": 1,
+        "params": [
+            [
+                26,
+                -999999
+            ]
+        ]
+    },
+    "211011": {
+        "remarks": "Opportunity: Lose a tiny amount of HP",
+        "action": 2,
+        "id": 211011,
+        "moment": 1,
+        "params": [
+            -100
+        ]
+    },
+    "211012": {
+        "remarks": "Opportunity: Lose a small amount of HP",
+        "action": 2,
+        "id": 211012,
+        "moment": 1,
+        "params": [
+            -200
+        ]
+    },
+    "211013": {
+        "remarks": "Opportunity: Lose half of the HP",
+        "action": 2,
+        "id": 211013,
+        "moment": 1,
+        "params": [
+            -500
+        ]
+    },
+    "211021": {
+        "remarks": "Reduce a small amount of Max HP",
+        "action": 5,
+        "id": 211021,
+        "moment": 4,
+        "params": [
+            [
+                31,
+                -150
+            ]
+        ]
+    },
+    "211022": {
+        "remarks": "Reduce a large amount of Max HP",
+        "action": 5,
+        "id": 211022,
+        "moment": 4,
+        "params": [
+            [
+                31,
+                -300
+            ]
+        ]
+    },
+    "211031": {
+        "remarks": "Opportunity - Restore less HP after battle",
+        "action": 1,
+        "id": 211031,
+        "moment": 1,
+        "params": [
+            18,
+            -100
+        ]
+    },
+    "211041": {
+        "remarks": "Opportunity: Lose Sigils",
+        "action": 6,
+        "id": 211041,
+        "moment": 1,
+        "params": [
+            1
+        ]
+    },
+    "211042": {
+        "remarks": "Opportunity: Lose all Aether Codes",
+        "action": 11,
+        "id": 211042,
+        "moment": 1,
+        "params": [
+            9
+        ]
+    },
+    "211043": {
+        "remarks": "Opportunity: Lose Memory Treasures",
+        "action": 9,
+        "id": 211043,
+        "moment": 1,
+        "params": [
+            1
+        ]
+    },
+    "211044": {
+        "remarks": "Opportunity: Lose Normal Memory Treasures",
+        "action": 12,
+        "id": 211044,
+        "moment": 1,
+        "params": [
+            1,
+            1
+        ]
+    },
+    "212001": {
+        "remarks": "Opportunity - Treasure Coins obtained greatly increased after battle",
+        "action": 1,
+        "id": 212001,
+        "moment": 1,
+        "params": [
+            19,
+            20
+        ]
+    },
+    "212002": {
+        "remarks": "Opportunity - Treasure Coins obtained slightly increased after battle",
+        "action": 1,
+        "id": 212002,
+        "moment": 1,
+        "params": [
+            19,
+            10
+        ]
+    },
+    "212003": {
+        "remarks": "Opportunity - HP recovery slightly increased after battle",
+        "action": 1,
+        "id": 212003,
+        "moment": 1,
+        "params": [
+            18,
+            50
+        ]
+    },
+    "212004": {
+        "remarks": "Opportunity - HP recovery greatly increased after battle",
+        "action": 1,
+        "id": 212004,
+        "moment": 1,
+        "params": [
+            18,
+            100
+        ]
+    },
+    "212005": {
+        "remarks": "Opportunity: Restore full HP",
+        "action": 2,
+        "id": 212005,
+        "moment": 1,
+        "params": [
+            1000
+        ]
+    },
+    "212011": {
+        "remarks": "Restore HP after Boss battle",
+        "action": 2,
+        "id": 212011,
+        "moment": 1,
+        "params": [
+            1000
+        ]
+    },
+    "212012": {
+        "remarks": "Terminal: Functor Lv.2",
+        "action": 1,
+        "id": 212012,
+        "moment": 1,
+        "params": [
+            1,
+            2
+        ]
+    },
+    "244101": {
+        "remarks": "Sin & Beauty",
+        "action": 4,
+        "id": 244101,
+        "moment": 4,
+        "params": [
+            9001,
+            1,
+            3
+        ]
+    },
+    "244102": {
+        "remarks": "Era's Light",
+        "action": 4,
+        "id": 244102,
+        "moment": 4,
+        "params": [
+            9002,
+            1,
+            3
+        ]
+    },
+    "244103": {
+        "remarks": "Frenzy",
+        "action": 4,
+        "id": 244103,
+        "moment": 4,
+        "params": [
+            9003,
+            1,
+            3
+        ]
+    },
+    "244104": {
+        "remarks": "Undertow",
+        "action": 4,
+        "id": 244104,
+        "moment": 4,
+        "params": [
+            9004,
+            1,
+            3
+        ]
+    },
+    "244105": {
+        "remarks": "Longing",
+        "action": 4,
+        "id": 244105,
+        "moment": 4,
+        "params": [
+            9005,
+            1,
+            3
+        ]
+    },
+    "244106": {
+        "remarks": "To a Friend",
+        "action": 4,
+        "id": 244106,
+        "moment": 4,
+        "params": [
+            9006,
+            1,
+            3
+        ]
+    },
+    "244107": {
+        "remarks": "Wolf Mother's Embrace",
+        "action": 4,
+        "id": 244107,
+        "moment": 4,
+        "params": [
+            9007,
+            1,
+            3
+        ]
+    },
+    "244108": {
+        "remarks": "Sea Currents",
+        "action": 4,
+        "id": 244108,
+        "moment": 4,
+        "params": [
+            9008,
+            1,
+            3
+        ]
+    },
+    "244109": {
+        "remarks": "Copycat",
+        "action": 4,
+        "id": 244109,
+        "moment": 4,
+        "params": [
+            9009,
+            1,
+            3
+        ]
+    },
+    "244110": {
+        "remarks": "Dark Days",
+        "action": 4,
+        "id": 244110,
+        "moment": 4,
+        "params": [
+            9010,
+            1,
+            3
+        ]
+    },
+    "244111": {
+        "remarks": "Opportunity: Restores 5% HP upon kills",
+        "action": 4,
+        "id": 244111,
+        "moment": 4,
+        "params": [
+            9011,
+            1,
+            3
+        ]
+    },
+    "244112": {
+        "remarks": "Opportunity: Mod carries Slow Indicia for 5 battles",
+        "action": 4,
+        "id": 244112,
+        "moment": 4,
+        "params": [
+            9012,
+            1,
+            3
+        ]
+    },
+    "244113": {
+        "remarks": "Opportunity: Enemies carry Tinder Indicia for 5 battles",
+        "action": 4,
+        "id": 244113,
+        "moment": 4,
+        "params": [
+            9013,
+            1,
+            3
+        ]
+    },
+    "244114": {
+        "remarks": "Opportunity: Enemies carry Canopy Indicia for 5 battles",
+        "action": 4,
+        "id": 244114,
+        "moment": 4,
+        "params": [
+            9014,
+            1,
+            3
+        ]
+    },
+    "244115": {
+        "remarks": "Opportunity: Enemies carry Maim Indicia Lv. 3 for 5 battles",
+        "action": 4,
+        "id": 244115,
+        "moment": 4,
+        "params": [
+            9015,
+            1,
+            3
+        ]
+    },
+    "244116": {
+        "remarks": "Opportunity: Mod carries Fuel Burn Indicia for 5 battles",
+        "action": 4,
+        "id": 244116,
+        "moment": 4,
+        "params": [
+            9016,
+            1,
+            3
+        ]
+    },
+    "244117": {
+        "remarks": "Opportunity: Mod cannot trigger Extremity Dodge for 5 battles",
+        "action": 4,
+        "id": 244117,
+        "moment": 4,
+        "params": [
+            9017,
+            1,
+            3
+        ]
+    },
+    "244118": {
+        "remarks": "Opportunity: Mod starts with full Ultimate Skill charge for 5 battles",
+        "action": 4,
+        "id": 244118,
+        "moment": 4,
+        "params": [
+            9018,
+            1,
+            3
+        ]
+    },
+    "244119": {
+        "remarks": "Opportunity: Mod starts with full Combat Resources for 5 battles",
+        "action": 4,
+        "id": 244119,
+        "moment": 4,
+        "params": [
+            9019,
+            1,
+            3
+        ]
+    },
+    "244120": {
+        "remarks": "Opportunity: Mod's movement speed +100% for 5 battles",
+        "action": 4,
+        "id": 244120,
+        "moment": 4,
+        "params": [
+            9020,
+            1,
+            3
+        ]
+    },
+    "244121": {
+        "remarks": "Opportunity: Mod's Dodge Energy charge speed +100% for 5 battles",
+        "action": 4,
+        "id": 244121,
+        "moment": 4,
+        "params": [
+            9021,
+            1,
+            3
+        ]
+    },
+    "245001": {
+        "remarks": "Minor HP Bonus",
+        "action": 5,
+        "id": 245001,
+        "moment": 4,
+        "params": [
+            [
+                31,
+                150
+            ]
+        ]
+    },
+    "245002": {
+        "remarks": "Major HP Bonus",
+        "action": 5,
+        "id": 245002,
+        "moment": 4,
+        "params": [
+            [
+                31,
+                300
+            ]
+        ]
+    },
+    "245003": {
+        "remarks": "DEF Bonus 3",
+        "action": 5,
+        "id": 245003,
+        "moment": 4,
+        "params": [
+            [
+                21,
+                150
+            ]
+        ]
+    },
+    "245004": {
+        "remarks": "ATK Bonus 5",
+        "action": 5,
+        "id": 245004,
+        "moment": 4,
+        "params": [
+            [
+                11,
+                150
+            ]
+        ]
+    },
+    "245005": {
+        "remarks": "Max Stamina Boost 3",
+        "action": 5,
+        "id": 245005,
+        "moment": 4,
+        "params": [
+            [
+                1004,
+                300
+            ]
+        ]
+    },
+    "245006": {
+        "remarks": "Stamina Recovery Speed Boost",
+        "action": 5,
+        "id": 245006,
+        "moment": 4,
+        "params": [
+            [
+                1003,
+                100
+            ]
+        ]
+    },
+    "246001": {
+        "remarks": "Guaranteed shop sale: ATK Up",
+        "action": 5,
+        "id": 246001,
+        "moment": 4,
+        "params": [
+            [
+                11,
+                50
+            ]
+        ]
+    },
+    "246002": {
+        "remarks": "Guaranteed shop sale: DEF Up",
+        "action": 5,
+        "id": 246002,
+        "moment": 4,
+        "params": [
+            [
+                21,
+                50
+            ]
+        ]
+    },
+    "246003": {
+        "remarks": "Guaranteed shop sale: Max HP Up",
+        "action": 5,
+        "id": 246003,
+        "moment": 4,
+        "params": [
+            [
+                31,
+                30
+            ]
+        ]
+    },
+    "246004": {
+        "remarks": "Guaranteed shop sale: Crit Rate",
+        "action": 5,
+        "id": 246004,
+        "moment": 4,
+        "params": [
+            [
+                81,
+                100
+            ]
+        ]
+    },
+    "246005": {
+        "remarks": "Guaranteed shop sale: Crit DMG",
+        "action": 5,
+        "id": 246005,
+        "moment": 4,
+        "params": [
+            [
+                82,
+                200
+            ]
+        ]
+    },
+    "246006": {
+        "remarks": "Guaranteed shop sale: HP Recovery",
+        "action": 2,
+        "id": 246006,
+        "moment": 1,
+        "params": [
+            500
+        ]
+    },
+    "246007": {
+        "remarks": "Grants 5 extra items at the shop",
+        "action": 1,
+        "id": 246007,
+        "moment": 1,
+        "params": [
+            8,
+            5
+        ]
+    },
+    "246008": {
+        "remarks": "Grants 5 free refreshes at the shop",
+        "action": 1,
+        "id": 246008,
+        "moment": 1,
+        "params": [
+            10,
+            5
+        ]
+    },
+    "246009": {
+        "remarks": "Grants a 50% off for the first item in the shop",
+        "action": 1,
+        "id": 246009,
+        "moment": 1,
+        "params": [
+            11,
+            500
+        ]
+    },
+    "344101": {
+        "remarks": "Overloaded Forcefield",
+        "action": 4,
+        "id": 344101,
+        "moment": 4,
+        "params": [
+            9114,
+            1,
+            3
+        ]
+    },
+    "344102": {
+        "remarks": "Credentials",
+        "action": 4,
+        "id": 344102,
+        "moment": 4,
+        "params": [
+            9115,
+            1,
+            3
+        ]
+    },
+    "344103": {
+        "remarks": "True Tactics",
+        "action": 4,
+        "id": 344103,
+        "moment": 4,
+        "params": [
+            9116,
+            1,
+            3
+        ]
+    },
+    "344104": {
+        "remarks": "Unknown Energy Source",
+        "action": 4,
+        "id": 344104,
+        "moment": 4,
+        "params": [
+            9117,
+            1,
+            3
+        ]
+    },
+    "344105": {
+        "remarks": "Big Entrance",
+        "action": 4,
+        "id": 344105,
+        "moment": 4,
+        "params": [
+            9118,
+            1,
+            3
+        ]
+    },
+    "344106": {
+        "remarks": "Anti-Gravitator",
+        "action": 4,
+        "id": 344106,
+        "moment": 4,
+        "params": [
+            9119,
+            1,
+            3
+        ]
+    },
+    "344107": {
+        "remarks": "Pigtails",
+        "action": 4,
+        "id": 344107,
+        "moment": 4,
+        "params": [
+            9120,
+            1,
+            3
+        ]
+    },
+    "344108": {
+        "remarks": "Distant Sound",
+        "action": 4,
+        "id": 344108,
+        "moment": 4,
+        "params": [
+            9121,
+            1,
+            3
+        ]
+    },
+    "344109": {
+        "remarks": "Thunder Squad Badge",
+        "action": 4,
+        "id": 344109,
+        "moment": 4,
+        "params": [
+            9122,
+            1,
+            3
+        ]
+    },
+    "344110": {
+        "remarks": "Night Flight Neon",
+        "action": 4,
+        "id": 344110,
+        "moment": 4,
+        "params": [
+            9123,
+            1,
+            3
+        ]
+    },
+    "344111": {
+        "remarks": "Two-Scoop Ice Cream",
+        "action": 4,
+        "id": 344111,
+        "moment": 4,
+        "params": [
+            9124,
+            1,
+            3
+        ]
+    },
+    "344112": {
+        "remarks": "Chocolate Banana Boat",
+        "action": 4,
+        "id": 344112,
+        "moment": 4,
+        "params": [
+            9125,
+            1,
+            3
+        ]
+    },
+    "344113": {
+        "remarks": "Growth Potion",
+        "action": 4,
+        "id": 344113,
+        "moment": 4,
+        "params": [
+            9126,
+            1,
+            3
+        ]
+    },
+    "344114": {
+        "remarks": "Opportunity: Mod carries Slow Indicia for 5 battles",
+        "action": 4,
+        "id": 344114,
+        "moment": 4,
+        "params": [
+            9127,
+            1,
+            3
+        ]
+    },
+    "344115": {
+        "remarks": "Opportunity: Enemies carry Tinder Indicia for 5 battles",
+        "action": 4,
+        "id": 344115,
+        "moment": 4,
+        "params": [
+            9128,
+            1,
+            3
+        ]
+    },
+    "344116": {
+        "remarks": "Opportunity: Enemies carry Canopy Indicia for 5 battles",
+        "action": 4,
+        "id": 344116,
+        "moment": 4,
+        "params": [
+            9129,
+            1,
+            3
+        ]
+    },
+    "344117": {
+        "remarks": "Opportunity: Enemies carry Maim Indicia Lv. 3 for 5 battles",
+        "action": 4,
+        "id": 344117,
+        "moment": 4,
+        "params": [
+            9130,
+            1,
+            3
+        ]
+    },
+    "344118": {
+        "remarks": "Opportunity: Mod carries Fuel Burn Indicia for 5 battles",
+        "action": 4,
+        "id": 344118,
+        "moment": 4,
+        "params": [
+            9131,
+            1,
+            3
+        ]
+    },
+    "344119": {
+        "remarks": "Opportunity: Mod cannot trigger Extremity Dodge for 5 battles",
+        "action": 4,
+        "id": 344119,
+        "moment": 4,
+        "params": [
+            9132,
+            1,
+            3
+        ]
+    },
+    "344120": {
+        "remarks": "Opportunity: Mod starts with full Ultimate Skill charge for 5 battles",
+        "action": 4,
+        "id": 344120,
+        "moment": 4,
+        "params": [
+            9133,
+            1,
+            3
+        ]
+    },
+    "344121": {
+        "remarks": "Opportunity: Mod starts with full Combat Resources for 5 battles",
+        "action": 4,
+        "id": 344121,
+        "moment": 4,
+        "params": [
+            9134,
+            1,
+            3
+        ]
+    },
+    "344122": {
+        "remarks": "Opportunity: Mod's movement speed +100% for 5 battles",
+        "action": 4,
+        "id": 344122,
+        "moment": 4,
+        "params": [
+            9135,
+            1,
+            3
+        ]
+    },
+    "344123": {
+        "remarks": "Opportunity: Mod's Dodge Energy charge speed +100% for 5 battles",
+        "action": 4,
+        "id": 344123,
+        "moment": 4,
+        "params": [
+            9136,
+            1,
+            3
+        ]
+    },
+    "344124": {
+        "remarks": "Opportunity: Mod carries Slow Indicia for 5 battles - Removes corresponding Treasure after 5 rounds",
+        "action": 13,
+        "id": 344124,
+        "moment": 7,
+        "params": [
+            353014
+        ]
+    },
+    "344125": {
+        "remarks": "Opportunity: Enemies carry Tinder Indicia for 5 battles - Removes corresponding Treasure after 5 rounds",
+        "action": 13,
+        "id": 344125,
+        "moment": 7,
+        "params": [
+            353015
+        ]
+    },
+    "344126": {
+        "remarks": "Opportunity: Enemies carry Canopy Indicia for 5 battles - Removes corresponding Treasure after 5 rounds",
+        "action": 13,
+        "id": 344126,
+        "moment": 7,
+        "params": [
+            353016
+        ]
+    },
+    "344127": {
+        "remarks": "Opportunity: Enemies carry Maim Indicia Lv.3 for 5 battles - Removes corresponding Treasure after 5 rounds",
+        "action": 13,
+        "id": 344127,
+        "moment": 7,
+        "params": [
+            353017
+        ]
+    },
+    "344128": {
+        "remarks": "Opportunity: Mod carries Fuel Burn Indicia for 5 battles - Removes corresponding Treasure after 5 rounds",
+        "action": 13,
+        "id": 344128,
+        "moment": 7,
+        "params": [
+            353018
+        ]
+    },
+    "344129": {
+        "remarks": "Opportunity: Mod cannot trigger Extremity Dodge for 5 battles - Removes corresponding Treasure after 5 rounds",
+        "action": 13,
+        "id": 344129,
+        "moment": 7,
+        "params": [
+            353019
+        ]
+    },
+    "344130": {
+        "remarks": "Opportunity: Mod starts with full Ultimate Skill charge for 5 battles - Removes corresponding Treasure after 5 rounds",
+        "action": 13,
+        "id": 344130,
+        "moment": 7,
+        "params": [
+            353020
+        ]
+    },
+    "344131": {
+        "remarks": "Opportunity: Mod starts with full Combat Resources for 5 battles - Removes corresponding Treasure after 5 rounds",
+        "action": 13,
+        "id": 344131,
+        "moment": 7,
+        "params": [
+            353021
+        ]
+    },
+    "344132": {
+        "remarks": "Opportunity: Mod's movement speed +100% for 5 battles - Removes corresponding Treasure after 5 rounds",
+        "action": 13,
+        "id": 344132,
+        "moment": 7,
+        "params": [
+            353022
+        ]
+    },
+    "344133": {
+        "remarks": "Opportunity: Mod's Dodge Energy charge speed +100% for 5 battles - Removes corresponding Treasure after 5 rounds",
+        "action": 13,
+        "id": 344133,
+        "moment": 7,
+        "params": [
+            353023
+        ]
+    },
+    "511001": {
+        "remarks": "Deals more DMG to elite Bosses",
+        "action": 5,
+        "id": 511001,
+        "moment": 4,
+        "params": [
+            [
+                222,
+                1000
+            ]
+        ]
+    },
+    "544101": {
+        "remarks": "Clues of the Cinders",
+        "action": 4,
+        "id": 544101,
+        "moment": 4,
+        "params": [
+            9161,
+            1,
+            3
+        ]
+    },
+    "544102": {
+        "remarks": "Trace of Bane Energy",
+        "action": 4,
+        "id": 544102,
+        "moment": 4,
+        "params": [
+            9162,
+            1,
+            3
+        ]
+    },
+    "544103": {
+        "remarks": "The Right Conditions",
+        "action": 4,
+        "id": 544103,
+        "moment": 4,
+        "params": [
+            9163,
+            1,
+            3
+        ]
+    },
+    "544104": {
+        "remarks": "Construction Agreement",
+        "action": 4,
+        "id": 544104,
+        "moment": 4,
+        "params": [
+            9164,
+            1,
+            3
+        ]
+    },
+    "544105": {
+        "remarks": "Zhu's Engineering Draft",
+        "action": 4,
+        "id": 544105,
+        "moment": 4,
+        "params": [
+            9165,
+            1,
+            3
+        ]
+    },
+    "544106": {
+        "remarks": "Engineering Part",
+        "action": 4,
+        "id": 544106,
+        "moment": 4,
+        "params": [
+            9166,
+            1,
+            3
+        ]
+    },
+    "544107": {
+        "remarks": "Bouquet Before the Tomb",
+        "action": 4,
+        "id": 544107,
+        "moment": 4,
+        "params": [
+            9167,
+            1,
+            3
+        ]
+    },
+    "544108": {
+        "remarks": "Strange Story of the Forest",
+        "action": 4,
+        "id": 544108,
+        "moment": 4,
+        "params": [
+            9168,
+            1,
+            3
+        ]
+    },
+    "544109": {
+        "remarks": "Reading is Fundamental",
+        "action": 4,
+        "id": 544109,
+        "moment": 4,
+        "params": [
+            9169,
+            1,
+            3
+        ]
+    },
+    "544110": {
+        "remarks": "Superstition Not Allowed",
+        "action": 4,
+        "id": 544110,
+        "moment": 4,
+        "params": [
+            9170,
+            1,
+            3
+        ]
+    },
+    "544114": {
+        "remarks": "Opportunity: Mod carries Slow Indicia for 5 battles",
+        "action": 4,
+        "id": 544114,
+        "moment": 4,
+        "params": [
+            9127,
+            1,
+            3
+        ]
+    },
+    "544115": {
+        "remarks": "Opportunity: Enemies carry Tinder Indicia for 5 battles",
+        "action": 4,
+        "id": 544115,
+        "moment": 4,
+        "params": [
+            9128,
+            1,
+            3
+        ]
+    },
+    "544116": {
+        "remarks": "Opportunity: Enemies carry Canopy Indicia for 5 battles",
+        "action": 4,
+        "id": 544116,
+        "moment": 4,
+        "params": [
+            9129,
+            1,
+            3
+        ]
+    },
+    "544117": {
+        "remarks": "Opportunity: Enemies carry Maim Indicia Lv. 3 for 5 battles",
+        "action": 4,
+        "id": 544117,
+        "moment": 4,
+        "params": [
+            9130,
+            1,
+            3
+        ]
+    },
+    "544118": {
+        "remarks": "Opportunity: Mod carries Fuel Burn Indicia for 5 battles",
+        "action": 4,
+        "id": 544118,
+        "moment": 4,
+        "params": [
+            9131,
+            1,
+            3
+        ]
+    },
+    "544119": {
+        "remarks": "Opportunity: Mod cannot trigger Extremity Dodge for 5 battles",
+        "action": 4,
+        "id": 544119,
+        "moment": 4,
+        "params": [
+            9132,
+            1,
+            3
+        ]
+    },
+    "544120": {
+        "remarks": "Opportunity: Mod starts with full Ultimate Skill charge for 5 battles",
+        "action": 4,
+        "id": 544120,
+        "moment": 4,
+        "params": [
+            9133,
+            1,
+            3
+        ]
+    },
+    "544121": {
+        "remarks": "Opportunity: Mod starts with full Combat Resources for 5 battles",
+        "action": 4,
+        "id": 544121,
+        "moment": 4,
+        "params": [
+            9134,
+            1,
+            3
+        ]
+    },
+    "544122": {
+        "remarks": "Opportunity: Mod's movement speed +100% for 5 battles",
+        "action": 4,
+        "id": 544122,
+        "moment": 4,
+        "params": [
+            9135,
+            1,
+            3
+        ]
+    },
+    "544123": {
+        "remarks": "Opportunity: Mod's Dodge Energy charge speed +100% for 5 battles",
+        "action": 4,
+        "id": 544123,
+        "moment": 4,
+        "params": [
+            9136,
+            1,
+            3
+        ]
+    },
+    "644101": {
+        "remarks": "Gold Lacquer Folding Fan",
+        "action": 4,
+        "id": 644101,
+        "moment": 4,
+        "params": [
+            9179,
+            1,
+            3
+        ]
+    },
+    "644102": {
+        "remarks": "Ry\u016bteki ",
+        "action": 4,
+        "id": 644102,
+        "moment": 4,
+        "params": [
+            9180,
+            1,
+            3
+        ]
+    },
+    "644103": {
+        "remarks": "Fatherly Elder Brother ",
+        "action": 4,
+        "id": 644103,
+        "moment": 4,
+        "params": [
+            9181,
+            1,
+            3
+        ]
+    },
+    "644104": {
+        "remarks": "Moth of Vengeance ",
+        "action": 4,
+        "id": 644104,
+        "moment": 4,
+        "params": [
+            9182,
+            1,
+            3
+        ]
+    },
+    "644105": {
+        "remarks": "Late Sakura",
+        "action": 4,
+        "id": 644105,
+        "moment": 4,
+        "params": [
+            9183,
+            1,
+            3
+        ]
+    },
+    "644106": {
+        "remarks": "The Hanged Girl ",
+        "action": 4,
+        "id": 644106,
+        "moment": 4,
+        "params": [
+            9184,
+            1,
+            3
+        ]
+    },
+    "644107": {
+        "remarks": "I Miss You, Mom ",
+        "action": 4,
+        "id": 644107,
+        "moment": 4,
+        "params": [
+            9185,
+            1,
+            3
+        ]
+    },
+    "644108": {
+        "remarks": "The Mirror ",
+        "action": 4,
+        "id": 644108,
+        "moment": 4,
+        "params": [
+            9186,
+            1,
+            3
+        ]
+    },
+    "644109": {
+        "remarks": "Prayer Lantern",
+        "action": 4,
+        "id": 644109,
+        "moment": 4,
+        "params": [
+            9187,
+            1,
+            3
+        ]
+    },
+    "644110": {
+        "remarks": "Old Gift Box",
+        "action": 4,
+        "id": 644110,
+        "moment": 4,
+        "params": [
+            9188,
+            1,
+            3
+        ]
+    },
+    "644114": {
+        "remarks": "Opportunity: Mod carries Slow Indicia for 5 battles",
+        "action": 4,
+        "id": 644114,
+        "moment": 4,
+        "params": [
+            9127,
+            1,
+            3
+        ]
+    },
+    "644115": {
+        "remarks": "Opportunity: Enemies carry Tinder Indicia for 5 battles",
+        "action": 4,
+        "id": 644115,
+        "moment": 4,
+        "params": [
+            9128,
+            1,
+            3
+        ]
+    },
+    "644116": {
+        "remarks": "Opportunity: Enemies carry Canopy Indicia for 5 battles",
+        "action": 4,
+        "id": 644116,
+        "moment": 4,
+        "params": [
+            9129,
+            1,
+            3
+        ]
+    },
+    "644117": {
+        "remarks": "Opportunity: Enemies carry Maim Indicia Lv. 3 for 5 battles",
+        "action": 4,
+        "id": 644117,
+        "moment": 4,
+        "params": [
+            9130,
+            1,
+            3
+        ]
+    },
+    "644118": {
+        "remarks": "Opportunity: Mod carries Fuel Burn Indicia for 5 battles",
+        "action": 4,
+        "id": 644118,
+        "moment": 4,
+        "params": [
+            9131,
+            1,
+            3
+        ]
+    },
+    "644119": {
+        "remarks": "Opportunity: Mod cannot trigger Extremity Dodge for 5 battles",
+        "action": 4,
+        "id": 644119,
+        "moment": 4,
+        "params": [
+            9132,
+            1,
+            3
+        ]
+    },
+    "644120": {
+        "remarks": "Opportunity: Mod starts with full Ultimate Skill charge for 5 battles",
+        "action": 4,
+        "id": 644120,
+        "moment": 4,
+        "params": [
+            9133,
+            1,
+            3
+        ]
+    },
+    "644121": {
+        "remarks": "Opportunity: Mod starts with full Combat Resources for 5 battles",
+        "action": 4,
+        "id": 644121,
+        "moment": 4,
+        "params": [
+            9019,
+            1,
+            3
+        ]
+    },
+    "644122": {
+        "remarks": "Opportunity: Mod's movement speed +100% for 5 battles",
+        "action": 4,
+        "id": 644122,
+        "moment": 4,
+        "params": [
+            9135,
+            1,
+            3
+        ]
+    },
+    "644123": {
+        "remarks": "Opportunity: Mod's Dodge Energy charge speed +100% for 5 battles",
+        "action": 4,
+        "id": 644123,
+        "moment": 4,
+        "params": [
+            9136,
+            1,
+            3
+        ]
+    },
+    "all": [
+        11001,
+        11002,
+        11003,
+        11004,
+        11005,
+        11006,
+        11007,
+        11008,
+        11009,
+        11010,
+        11011,
+        11012,
+        11013,
+        11014,
+        11015,
+        11016,
+        11017,
+        11018,
+        11019,
+        11020,
+        11021,
+        11022,
+        11023,
+        11024,
+        11025,
+        11026,
+        11027,
+        11028,
+        11029,
+        11030,
+        11031,
+        11032,
+        11033,
+        11034,
+        12001,
+        12002,
+        12003,
+        12004,
+        12005,
+        12006,
+        16001,
+        17001,
+        17002,
+        17003,
+        17018,
+        17019,
+        18001,
+        19001,
+        44001,
+        44002,
+        44003,
+        44004,
+        44005,
+        44006,
+        44007,
+        44008,
+        44009,
+        44010,
+        44011,
+        44012,
+        44013,
+        44014,
+        44015,
+        44016,
+        44017,
+        44018,
+        44019,
+        44020,
+        44021,
+        44022,
+        44023,
+        44024,
+        44025,
+        44026,
+        44027,
+        44028,
+        44029,
+        44030,
+        44031,
+        44032,
+        44033,
+        44034,
+        44035,
+        44036,
+        44037,
+        44038,
+        44039,
+        44040,
+        44041,
+        44042,
+        44043,
+        44044,
+        44045,
+        44046,
+        44047,
+        44048,
+        44049,
+        44050,
+        44051,
+        44052,
+        44053,
+        44054,
+        44055,
+        44056,
+        44057,
+        44058,
+        44059,
+        44060,
+        44061,
+        44062,
+        44063,
+        44064,
+        44065,
+        44066,
+        44067,
+        44068,
+        44069,
+        44070,
+        44071,
+        44072,
+        44073,
+        44074,
+        44075,
+        44076,
+        44077,
+        44078,
+        44079,
+        44080,
+        44081,
+        44082,
+        44083,
+        44084,
+        44085,
+        44086,
+        44087,
+        44088,
+        44089,
+        44090,
+        44091,
+        44092,
+        44093,
+        44094,
+        44095,
+        44096,
+        44097,
+        44098,
+        44099,
+        44100,
+        44101,
+        44102,
+        44103,
+        44104,
+        44105,
+        44106,
+        44107,
+        45001,
+        45002,
+        45003,
+        45004,
+        45005,
+        45006,
+        45007,
+        45008,
+        45009,
+        45010,
+        45011,
+        45012,
+        45013,
+        45014,
+        45015,
+        45016,
+        45017,
+        45018,
+        45019,
+        45020,
+        45021,
+        45022,
+        45023,
+        45024,
+        45025,
+        45026,
+        45027,
+        45028,
+        45029,
+        45030,
+        45031,
+        45032,
+        45033,
+        45034,
+        45035,
+        45036,
+        610001,
+        610002,
+        900001,
+        900002,
+        900003,
+        211001,
+        211002,
+        211003,
+        211004,
+        211009,
+        211011,
+        211012,
+        211013,
+        211021,
+        211022,
+        211031,
+        211041,
+        211042,
+        211043,
+        211044,
+        212001,
+        212002,
+        212003,
+        212004,
+        212005,
+        212011,
+        212012,
+        244101,
+        244102,
+        244103,
+        244104,
+        244105,
+        244106,
+        244107,
+        244108,
+        244109,
+        244110,
+        244111,
+        244112,
+        244113,
+        244114,
+        244115,
+        244116,
+        244117,
+        244118,
+        244119,
+        244120,
+        244121,
+        245001,
+        245002,
+        245003,
+        245004,
+        245005,
+        245006,
+        246001,
+        246002,
+        246003,
+        246004,
+        246005,
+        246006,
+        246007,
+        246008,
+        246009,
+        344101,
+        344102,
+        344103,
+        344104,
+        344105,
+        344106,
+        344107,
+        344108,
+        344109,
+        344110,
+        344111,
+        344112,
+        344113,
+        344114,
+        344115,
+        344116,
+        344117,
+        344118,
+        344119,
+        344120,
+        344121,
+        344122,
+        344123,
+        344124,
+        344125,
+        344126,
+        344127,
+        344128,
+        344129,
+        344130,
+        344131,
+        344132,
+        344133,
+        511001,
+        544101,
+        544102,
+        544103,
+        544104,
+        544105,
+        544106,
+        544107,
+        544108,
+        544109,
+        544110,
+        544114,
+        544115,
+        544116,
+        544117,
+        544118,
+        544119,
+        544120,
+        544121,
+        544122,
+        544123,
+        644101,
+        644102,
+        644103,
+        644104,
+        644105,
+        644106,
+        644107,
+        644108,
+        644109,
+        644110,
+        644114,
+        644115,
+        644116,
+        644117,
+        644118,
+        644119,
+        644120,
+        644121,
+        644122,
+        644123
+    ]
+}

@@ -1,0 +1,769 @@
+{
+    "101": {
+        "question_desc": "Do you prefer sunny or rainy days?",
+        "activity": 101,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Sunny days",
+            "Rainy days"
+        ],
+        "hero_comment": [
+            "Sunny days! Hmm? You think the same way? That's great! We can go out together and enjoy the sunshine!",
+            "Rainy days are also nice. Listening to the sound of raindrops outside the window is soothing and helps me sleep, though I still prefer sunny days!"
+        ]
+    },
+    "102": {
+        "question_desc": "Do you prefer cats or dogs?",
+        "activity": 102,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Cats",
+            "Dogs"
+        ],
+        "hero_comment": [
+            "Cats are super adorable! I'd love to raise cats with you. Oh! Going on missions with Lord Mimir is sort of raising a cat, right?",
+            "You prefer dogs, don\u2019t you? Well, there's an incredibly cute dog at the grocery store downstairs. You've gotta take me to have a look!"
+        ]
+    },
+    "103": {
+        "question_desc": "Who's better at making plans?",
+        "activity": 103,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Verthandi",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "Oh, you're too modest! You're definitely the most reliable person to me. I really trust you!",
+            "You're definitely the most reliable person to me, I really trust you!"
+        ]
+    },
+    "104": {
+        "question_desc": "Who likes cooking more? ",
+        "activity": 104,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Verthandi",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "I'm very confident in my grilling skills. You've gotta try my hand-grilled skewers. Hey... How about going to my place now?!",
+            "Wow, that's great... I didn't expect to see this side from the workaholic Admin...I'd love to taste your cooking!"
+        ]
+    },
+    "105": {
+        "question_desc": "Do you prefer juice or dairy-based drinks?",
+        "activity": 105,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Juice",
+            "Dairy-based drinks"
+        ],
+        "hero_comment": [
+            "Oh? You like them too! That's great! I stocked up a whole bunch last holiday. I'll send you some. Daily juice supplies really fill people with vitality!",
+            "You like those sorts of drinks? Noted! The next time I have a big beverage purchase, I'll buy some!"
+        ]
+    },
+    "201": {
+        "question_desc": "Do you prefer hiking or rock climbing?",
+        "activity": 201,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Hiking",
+            "Rock climbing"
+        ],
+        "hero_comment": [
+            "Hiking is so relaxing. You think so too, don't you, Admin? When could we go on a hike together?",
+            "Oh, you like rock climbing, huh? It's quite an extreme activity!"
+        ]
+    },
+    "202": {
+        "question_desc": "Do you prefer documentaries or sci-fi movies?",
+        "activity": 202,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Documentaries",
+            "Sci-fi movies "
+        ],
+        "hero_comment": [
+            "I enjoy watching documentaries at home on weekends. We can watch together when you're free if you like.",
+            "Oh? I haven't watched many sci-fi movies, maybe you can recommend some to me?"
+        ]
+    },
+    "203": {
+        "question_desc": "Who's got better sense of direction?",
+        "activity": 203,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Poseidon",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "Admin... Do you remember the last time I got lost?",
+            "I always feel like I\u2019m in safe hands when I\u2019m out with you."
+        ]
+    },
+    "204": {
+        "question_desc": "Do you prefer summer or winter?",
+        "activity": 204,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Summer",
+            "Winter"
+        ],
+        "hero_comment": [
+            "The sea is the most beautiful during the summer. Stars wane and sink into the ocean at night and shimmer on the surface as dawn breaks... I really hope we can see it together.",
+            "Winter is also great, it's the perfect season for soaking in hot springs."
+        ]
+    },
+    "205": {
+        "question_desc": "Who's a better listener?",
+        "activity": 205,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Poseidon",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "Well then, has anything been troubling you lately, Admin? You can talk to me about it.",
+            "Oh? You want me to talk more about myself?"
+        ]
+    },
+    "301": {
+        "question_desc": "Do you prefer staying at home or going outside on days off?",
+        "activity": 301,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Staying at home",
+            "Going outside"
+        ],
+        "hero_comment": [
+            "On days off? I like playing chess at home. Taking a break from work to clear my mind really helps with dealing with the next challenge. I'm glad you feel the same way.",
+            "You like using your free time to broaden your horizons? That's a great idea. I'll bear that in mind."
+        ]
+    },
+    "302": {
+        "question_desc": "Do you enjoy cooking in your free time?",
+        "activity": 302,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Yes",
+            "No"
+        ],
+        "hero_comment": [
+            "...You can cook? It seems like you understand life better.",
+            "Efficiently managing your fragmented time is an essential part of advancing co-ordination progress. We are indeed the same sort of people."
+        ]
+    },
+    "303": {
+        "question_desc": "Do you prefer warm or cool colors?",
+        "activity": 303,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Warm colors",
+            "Cool colors"
+        ],
+        "hero_comment": [
+            "You prefer warm colors? It seems... I've discovered a new side of you.",
+            "Cool colors bring clarity of mind. I'm glad you agree with it."
+        ]
+    },
+    "304": {
+        "question_desc": "Do you prefer crowded or quiet places?",
+        "activity": 304,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Crowded places",
+            "Quiet places"
+        ],
+        "hero_comment": [
+            "...You prefer bustling places? Any recommendations for fun places to go?",
+            "Quiet places let you calm down and experience your true self. I love that feeling. How about you? Do you have similar experiences?\""
+        ]
+    },
+    "305": {
+        "question_desc": "Who's more empathetic?",
+        "activity": 305,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Tyr",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "Is that what you think? ...Or maybe we should say that you usually read my mind first.",
+            "You can always sense when others have difficulty. That's one of the reasons I admire you."
+        ]
+    },
+    "401": {
+        "question_desc": "Do you prefer sunrise or sunset?",
+        "activity": 401,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Sunrise",
+            "Sunset"
+        ],
+        "hero_comment": [
+            "I see. You prefer sunrise, don't you?",
+            "Sunset is beautiful! You think the same, little lamb? Very well."
+        ]
+    },
+    "402": {
+        "question_desc": "Who's better at processing complicated information?",
+        "activity": 402,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Hades",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "Oh, being counted on by little lamb is great.",
+            "Apart from Mintha and Leuce, no one else is more suitable to be my assistant than you."
+        ]
+    },
+    "403": {
+        "question_desc": "Do you prefer spring or autumn?",
+        "activity": 403,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Spring",
+            "Autumn"
+        ],
+        "hero_comment": [
+            "You prefer spring, little lamb? That's adorable.",
+            "Autumn's a season of change. I really like it."
+        ]
+    },
+    "404": {
+        "question_desc": "Do you prefer pop music or classical music?",
+        "activity": 404,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Classical music",
+            "Pop music"
+        ],
+        "hero_comment": [
+            "Who can resist the refined pleasure of classical music? I'm satisfied that you are keeping up with me, little lamb.",
+            "So you like that sort of music, little lamb? How novel."
+        ]
+    },
+    "405": {
+        "question_desc": "Do you prefer sweet or sour?",
+        "activity": 405,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Sweet",
+            "Sour"
+        ],
+        "hero_comment": [
+            "You're not saying that just to please me, are you, little lamb?",
+            "Your taste is as unique as you are, little lamb. I'm getting more and more curious about you.\""
+        ]
+    },
+    "501": {
+        "question_desc": "Do you prefer feather or buckwheat pillows?",
+        "activity": 501,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Feather pillows",
+            "Buckwheat pillows"
+        ],
+        "hero_comment": [
+            "I like soft ones... You do too, Admin! I'm happy.",
+            "So you like... this? What kind of dreams do you have when you sleep on it?"
+        ]
+    },
+    "502": {
+        "question_desc": "Who can handle spicy food better?",
+        "activity": 502,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Oneiroi",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "Me? Spicy food? Ah... no, please...",
+            "Spicy food made me cry... but You didn't. You're tough!"
+        ]
+    },
+    "503": {
+        "question_desc": "Are you a morning or an evening person?",
+        "activity": 503,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Morning",
+            "Evening"
+        ],
+        "hero_comment": [
+            "Morning... it's bright... I can't sleep well...",
+            "Sleepy... I like the evening... cuddling up... Yawn... no light..."
+        ]
+    },
+    "504": {
+        "question_desc": "Do you prefer fruit candy or dark chocolate?",
+        "activity": 504,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Fruit candy",
+            "Dark chocolate"
+        ],
+        "hero_comment": [
+            "Sweet... I like it... You like it too... Let me give you some...",
+            "Bitter..."
+        ]
+    },
+    "505": {
+        "question_desc": " Who's more socially adept?",
+        "activity": 505,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "Oneiroi",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "Hmm... Huh? Are you... talking about me?",
+            "Admin... always has great fun... with everyone... I always fall asleep..."
+        ]
+    },
+    "2125211": {
+        "question_desc": "What's your favorite book?",
+        "activity": 2125211,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910804011
+        ]
+    },
+    "2125212": {
+        "question_desc": "What memory left the deepest impression on you?",
+        "activity": 2125212,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910804021
+        ]
+    },
+    "2125213": {
+        "question_desc": "Where would you like to go on vacation?",
+        "activity": 2125213,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910804031
+        ]
+    },
+    "2125214": {
+        "question_desc": "What's your plan for tomorrow?",
+        "activity": 2125214,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "To eat some barbecue.",
+            "To handle some reports."
+        ],
+        "stroy_id_list": [
+            910804051,
+            910804041
+        ]
+    },
+    "2125215": {
+        "question_desc": "Do you prefer sunny or rainy days?",
+        "activity": 2125215,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "Rainy days?",
+            "Sunny days?"
+        ],
+        "stroy_id_list": [
+            910804061,
+            910804071
+        ]
+    },
+    "2125216": {
+        "question_desc": "How do you think I'm doing in terms of combat?",
+        "activity": 2125216,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "So-so.",
+            "You're doing the best you can."
+        ],
+        "stroy_id_list": [
+            910804091,
+            910804081
+        ]
+    },
+    "2125221": {
+        "question_desc": "Do you have any hobbies outside of doing research?",
+        "activity": 2125221,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910801011
+        ]
+    },
+    "2125222": {
+        "question_desc": "Can I visit your lab?",
+        "activity": 2125222,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910801021
+        ]
+    },
+    "2125223": {
+        "question_desc": "How's your health at the moment?",
+        "activity": 2125223,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910801031
+        ]
+    },
+    "2125224": {
+        "question_desc": "What's it like living as a human among Modifiers?",
+        "activity": 2125224,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "I feel inferior.",
+            "It's just like living anywhere else."
+        ],
+        "stroy_id_list": [
+            910801051,
+            910801041
+        ]
+    },
+    "2125225": {
+        "question_desc": "What do you think of me?",
+        "activity": 2125225,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "Just as Zhiming.",
+            "..."
+        ],
+        "stroy_id_list": [
+            910801061,
+            910801071
+        ]
+    },
+    "2125226": {
+        "question_desc": "What kind of gift would you like?",
+        "activity": 2125226,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "A thoughtful gift",
+            "I don't need anything"
+        ],
+        "stroy_id_list": [
+            910801081,
+            910801091
+        ]
+    },
+    "2125231": {
+        "question_desc": "Who's stronger, you or the hero of the Prime Codex?",
+        "activity": 2125231,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910802011
+        ]
+    },
+    "2125232": {
+        "question_desc": "Do you like to play video games?",
+        "activity": 2125232,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910802021
+        ]
+    },
+    "2125233": {
+        "question_desc": "Did you have fun training in Ruomu Palace?",
+        "activity": 2125233,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910802031
+        ]
+    },
+    "2125234": {
+        "question_desc": "Do you want to learn the Astral Arcanum?",
+        "activity": 2125234,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "Yes",
+            "No"
+        ],
+        "stroy_id_list": [
+            910802041,
+            910802051
+        ]
+    },
+    "2125235": {
+        "question_desc": "Would you like to try my cooking?",
+        "activity": 2125235,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "I'm good, thanks...",
+            "Of course I would!"
+        ],
+        "stroy_id_list": [
+            910802071,
+            910802061
+        ]
+    },
+    "2125236": {
+        "question_desc": "What do you think of the Prime Codex?",
+        "activity": 2125236,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "It's a pretty good shoujo manga.",
+            "It's an ancient and sacred text!"
+        ],
+        "stroy_id_list": [
+            910802091,
+            910802081
+        ]
+    },
+    "2125241": {
+        "question_desc": "What do you usually do in the Imago Room?",
+        "activity": 2125241,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910803011
+        ]
+    },
+    "2125242": {
+        "question_desc": "What's your aspiration in life?",
+        "activity": 2125242,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910803021
+        ]
+    },
+    "2125243": {
+        "question_desc": "Has your opinion of me changed?",
+        "activity": 2125243,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910803031
+        ]
+    },
+    "2125244": {
+        "question_desc": "Why are humans so bored that they'll fight over what's better, savory or sweet foods? So... I ask you, which do you like better, potato chips or cream puffs?",
+        "activity": 2125244,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "Potato chips.",
+            "Cream puffs."
+        ],
+        "stroy_id_list": [
+            910803041,
+            910803051
+        ]
+    },
+    "2125245": {
+        "question_desc": "Hey, what style do you think suits me better?",
+        "activity": 2125245,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "Plain casual wear.",
+            "Beautiful dresses."
+        ],
+        "stroy_id_list": [
+            910803071,
+            910803061
+        ]
+    },
+    "2125246": {
+        "question_desc": "What kind of stories do you prefer?",
+        "activity": 2125246,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "Nice, heartwarming stories.",
+            "Stories of intrigue and conflict."
+        ],
+        "stroy_id_list": [
+            910803081,
+            910803091
+        ]
+    },
+    "2125251": {
+        "question_desc": "What do you do when you're not at the Quad?",
+        "activity": 2125251,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910805011
+        ]
+    },
+    "2125252": {
+        "question_desc": "If I gave you a steamer of soup dumplings covered in cilantro, would you eat them?",
+        "activity": 2125252,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910805021
+        ]
+    },
+    "2125253": {
+        "question_desc": "Do you like being around children?",
+        "activity": 2125253,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910805031
+        ]
+    },
+    "2125254": {
+        "question_desc": "Do you still keep your guard up around me?",
+        "activity": 2125254,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "Maybe a little bit.",
+            "..."
+        ],
+        "stroy_id_list": [
+            910805041,
+            910805051
+        ]
+    },
+    "2125255": {
+        "question_desc": "What do you think of my conduct?",
+        "activity": 2125255,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "It's fine?",
+            "Perfect beyond compare!"
+        ],
+        "stroy_id_list": [
+            910805061,
+            910805071
+        ]
+    },
+    "2125256": {
+        "question_desc": "If we had the chance, would you go back to Xu Heng's Old Town with me?",
+        "activity": 2125256,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "I don't see why not?",
+            "Yes."
+        ],
+        "stroy_id_list": [
+            910805091,
+            910805081
+        ]
+    },
+    "all": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        201,
+        202,
+        203,
+        204,
+        205,
+        301,
+        302,
+        303,
+        304,
+        305,
+        401,
+        402,
+        403,
+        404,
+        405,
+        501,
+        502,
+        503,
+        504,
+        505,
+        2125211,
+        2125212,
+        2125213,
+        2125214,
+        2125215,
+        2125216,
+        2125221,
+        2125222,
+        2125223,
+        2125224,
+        2125225,
+        2125226,
+        2125231,
+        2125232,
+        2125233,
+        2125234,
+        2125235,
+        2125236,
+        2125241,
+        2125242,
+        2125243,
+        2125244,
+        2125245,
+        2125246,
+        2125251,
+        2125252,
+        2125253,
+        2125254,
+        2125255,
+        2125256
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "9601": {
+        "npc_work": 1,
+        "style": "female",
+        "model": "9507_tpose",
+        "speed": 2.5,
+        "id": 9601,
+        "npc_desc": "An intern staff member from the General Office's logistics team. Not yet proficient but already capable of handling simple tasks. ",
+        "npc_name": "Chef Intern",
+        "skill_list": [
+            2001
+        ]
+    },
+    "9602": {
+        "npc_work": 2,
+        "style": "female",
+        "model": "9506_tpose",
+        "speed": 2.5,
+        "id": 9602,
+        "npc_desc": "An intern staff member from the General Office's logistics team. Not yet proficient but already capable of handling simple tasks. ",
+        "npc_name": "Attendant Intern",
+        "skill_list": [
+            2002
+        ]
+    },
+    "9603": {
+        "npc_work": 3,
+        "style": "female",
+        "model": "9603_tpose",
+        "speed": 2.5,
+        "id": 9603,
+        "npc_desc": "An AI accountant developed with authorization from the General Office's finance team. Subject to dispatching and monitoring by the Mimir system, it is still in the R&D stage, but its efficiency is acceptable.",
+        "npc_name": "General-purpose Mimir",
+        "skill_list": [
+            2003
+        ]
+    },
+    "all": [
+        9601,
+        9602,
+        9603
+    ]
+}

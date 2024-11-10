@@ -1,0 +1,238 @@
+{
+    "1001": {
+        "description": "For every <color=#FF9500>40</color> squares moved, gain <color=#FF9500>1</color> die. Squares to go: <color=#FF9500>%s</color>.",
+        "name": "Precision Tool",
+        "type": 1001,
+        "updateround": 40,
+        "remainround": -1,
+        "id": 1001,
+        "icon": "buff_1",
+        "param": [
+            2
+        ],
+        "des_params": [
+            1
+        ]
+    },
+    "1002": {
+        "description": "Visual range <color=#FF9500>+3</color>.",
+        "name": "Darkness Adaptation",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1002,
+        "icon": "buff_2",
+        "param": [
+            3,
+            3
+        ]
+    },
+    "1003": {
+        "description": "Gain the ability to close the <color=#FF9500>Recycling Pipeline</color>.",
+        "name": "On Firm Ground",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1003,
+        "icon": "buff_3",
+        "param": [
+            5,
+            1
+        ]
+    },
+    "1004": {
+        "description": "Gain the ability to destroy <color=#FF9500>Sturdy Boxes</color>.",
+        "name": "Clear the Way",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1004,
+        "icon": "buff_4",
+        "param": [
+            4,
+            1
+        ]
+    },
+    "1005": {
+        "description": "Gain the ability to adjust the <color=#FF9500>Thruster</color>.",
+        "name": "Elastic Potential Energy",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1005,
+        "icon": "buff_5",
+        "param": [
+            7,
+            1
+        ]
+    },
+    "1006": {
+        "description": "Gain the ability to operate the <color=#FF9500>Elevator</color>.",
+        "name": "Elevation Fluctuation",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1006,
+        "icon": "buff_6",
+        "param": [
+            6,
+            1
+        ]
+    },
+    "1007": {
+        "description": "Gain the ability to operate the <color=#FF9500>Main Console</color>.",
+        "name": "Negative Vector",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1007,
+        "icon": "buff_12",
+        "param": [
+            16,
+            1
+        ]
+    },
+    "1008": {
+        "description": "Gain the ability to temporarily close the <color=#FF9500>Recycling Pipeline</color>.",
+        "name": "Unstable Balance",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1008,
+        "icon": "buff_13",
+        "param": [
+            17,
+            1
+        ]
+    },
+    "1009": {
+        "description": "Visual range <color=#FF9500>+2</color>.",
+        "name": "Darkness Adaptation",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1009,
+        "icon": "buff_2",
+        "param": [
+            3,
+            2
+        ]
+    },
+    "2001": {
+        "description": "Visual range <color=#FF9500>+3</color> for <color=#FF9500>%s</color> turn(s).",
+        "name": "Sensory Aid",
+        "type": 1000,
+        "updateround": -1,
+        "remainround": 30,
+        "id": 2001,
+        "icon": "buff_7",
+        "param": [
+            3,
+            3
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2002": {
+        "description": "AP <color=#FF9500>cost doubled</color> for <color=#FF9500>%s</color> turn(s).",
+        "name": "Action Freeze",
+        "type": 1000,
+        "updateround": -1,
+        "remainround": 10,
+        "id": 2002,
+        "icon": "buff_8",
+        "param": [
+            8,
+            1000
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2003": {
+        "description": "After <color=#FF9500>%s</color> turn(s), return to your starting position.",
+        "name": "Precise Intuition",
+        "type": 1001,
+        "updateround": 30,
+        "remainround": 30,
+        "id": 2003,
+        "icon": "buff_9",
+        "param": [
+            6
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2004": {
+        "description": "After <color=#FF9500>%s</color> turn(s), lose <color=#FF9500>2</color> dice.",
+        "name": "Damage Hazard",
+        "type": 1001,
+        "updateround": 20,
+        "remainround": 20,
+        "id": 2004,
+        "icon": "buff_10",
+        "param": [
+            7
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2005": {
+        "description": "After <color=#FF9500>%s</color> turn(s), obtain <color=#FF9500>2</color> dice.",
+        "name": "Belated Gift",
+        "type": 1001,
+        "updateround": 20,
+        "remainround": 20,
+        "id": 2005,
+        "icon": "buff_11",
+        "param": [
+            8
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2006": {
+        "description": "After <color=#FF9500>%s</color> turn(s), return to your starting position.",
+        "name": "Precise Intuition",
+        "type": 1001,
+        "updateround": 30,
+        "remainround": 30,
+        "id": 2006,
+        "icon": "buff_9",
+        "param": [
+            11
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+    ]
+}

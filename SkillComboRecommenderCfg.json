@@ -1,0 +1,1384 @@
+{
+    "101101": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 101101,
+        "desc": "Try to use the evolved Skill 1 to obtain as many Traces as possible, and use Skill 3 and Ultimate Skill to restore HP when needed."
+    },
+    "101102": {
+        "name": "Combo Tips",
+        "id": 101102,
+        "desc": "",
+        "list_icon": [
+            1011201,
+            1011101,
+            1011201
+        ],
+        "list_name": [
+            "Skill 1",
+            "Normal Attack",
+            "Enhance"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow"
+        ]
+    },
+    "101501": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 101501,
+        "desc": "Try to cast Skill 3 in Zero Time or Modified Mode."
+    },
+    "101901": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 101901,
+        "desc": "The more Traces expended with Skill 3, the greater the DMG dealt."
+    },
+    "102701": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 102701,
+        "desc": "Skill 2 charges up more quickly if its locked target is in Freeze."
+    },
+    "102702": {
+        "name": "Combo Tips",
+        "id": 102702,
+        "desc": "",
+        "list_icon": [
+            1027203,
+            1027202,
+            1027202
+        ],
+        "list_name": [
+            "Freeze",
+            "Skill 2",
+            "Fully Charged"
+        ],
+        "combine_char": [
+            "plus",
+            "equal"
+        ]
+    },
+    "103601": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 103601,
+        "desc": "Stay far away from the target to increase the damage output and chances of surviving."
+    },
+    "103602": {
+        "name": "Combo Tips",
+        "id": 103602,
+        "desc": "",
+        "list_icon": [
+            1036209,
+            1036202,
+            1036203
+        ],
+        "list_name": [
+            "Enhanced Passive",
+            "Skill 2",
+            "Skill 3"
+        ],
+        "combine_char": [
+            "arrow",
+            "\u6216"
+        ]
+    },
+    "103701": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 103701,
+        "desc": "Stay far away from the target to increase the damage output and chances of surviving."
+    },
+    "103702": {
+        "name": "Combo Tips",
+        "id": 103702,
+        "desc": "",
+        "list_icon": [
+            1037209,
+            1037202,
+            1037203
+        ],
+        "list_name": [
+            "Enhanced Passive",
+            "Skill 2",
+            "Skill 3"
+        ],
+        "combine_char": [
+            "arrow",
+            "\u6216"
+        ]
+    },
+    "103801": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 103801,
+        "desc": "Cast the Ultimate Skill along with AOE skills to deal more damage."
+    },
+    "103901": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 103901,
+        "desc": "Skill 1 is effective in a smaller area, so make sure to use it when teammates are nearby."
+    },
+    "104801": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 104801,
+        "desc": "Skill 2 costs the most Energy. Skill 3 can also be cast to use up any excess Energy."
+    },
+    "105001": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 105001,
+        "desc": "The first hit made with Skill 3 can be combo'd into an evolved follow-up attack of Skill 3 within the next 3 seconds. Try to unleash the third stage of Skill 3 during this time."
+    },
+    "105002": {
+        "name": "Combo Tips",
+        "id": 105002,
+        "desc": "",
+        "list_icon": [
+            1050203,
+            1050203,
+            1050203
+        ],
+        "list_name": [
+            "Skill 3",
+            "Enhance 1",
+            "Enhance 2"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow"
+        ]
+    },
+    "105501": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 105501,
+        "desc": "So-ei Strike and Frostbreaker weaken monsters in different ways. Use them alternately during attacks to maximize the benefits."
+    },
+    "105601": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 105601,
+        "desc": "The last attack of a normal attack can be used to string skills together and ensure passive buffs remain in effect."
+    },
+    "105602": {
+        "name": "Combo Tips",
+        "id": 105602,
+        "desc": "",
+        "list_icon": [
+            1056101,
+            1056201,
+            1056101,
+            1056202,
+            1056203
+        ],
+        "list_name": [
+            "Normal Attack",
+            "Skill 1",
+            "Normal Attack",
+            "Skill 2",
+            "Skill 3"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "105801": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 105801,
+        "desc": "Specific skills will be refreshed whenever Kagutsuchi is entering and exiting Wildfire."
+    },
+    "105802": {
+        "name": "Combo Tips",
+        "id": 105802,
+        "desc": "",
+        "list_icon": [
+            1058202,
+            1058201,
+            1058203,
+            1058101
+        ],
+        "list_name": [
+            "Skill 2",
+            "Skill 1",
+            "Skill 3",
+            "Normal Attack"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "105803": {
+        "name": "Combo Tips",
+        "id": 105803,
+        "desc": "",
+        "list_icon": [
+            1058202,
+            1058201,
+            1058211,
+            1058221
+        ],
+        "list_name": [
+            "Wildfire 2",
+            "Wildfire 1",
+            "Secret Sword 1",
+            "Secret Sword 2"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "\u6216"
+        ]
+    },
+    "105901": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 105901,
+        "desc": "When able, cast other skills during the finishing move of aerial movement."
+    },
+    "105902": {
+        "name": "Combo Tips",
+        "id": 105902,
+        "desc": "",
+        "list_icon": [
+            1059201,
+            1059202,
+            1059203,
+            1059201,
+            1059202,
+            1059203
+        ],
+        "list_name": [
+            "Skill 1",
+            "Following Skill",
+            "Following Skill",
+            "Skill 1",
+            "Following Skill",
+            "Following Skill"
+        ],
+        "combine_char": [
+            "\u6216",
+            "\u6216",
+            "arrow",
+            "\u6216",
+            "\u6216"
+        ]
+    },
+    "106001": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 106001,
+        "desc": "Launch a Normal Attack just before getting hit for a quick counterattack\u2014if it is successfully triggered, you'll also recover Rage more quickly. The fourth strike of the Normal Attack consists of multiple attacks, so if you pause slightly between each, you'll get even more Rage."
+    },
+    "106601": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 106601,
+        "desc": "Change Divination's effect flexibly as needed."
+    },
+    "106602": {
+        "name": "Combo Tips",
+        "id": 106602,
+        "desc": "",
+        "list_icon": [
+            1066201,
+            1066203,
+            1066202,
+            1066209,
+            1066203
+        ],
+        "list_name": [
+            "Divination: Death",
+            "Skill 3",
+            "Skill 2",
+            "Ultimate Skill",
+            "Skill 3"
+        ],
+        "combine_char": [
+            "arrow",
+            "\u6216",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "108001": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 108001,
+        "desc": "Use Skill 3 as often as you can to defeat the enemy, then use Skill 2 to expend Rage once it gets full."
+    },
+    "108002": {
+        "name": "Combo Tips",
+        "id": 108002,
+        "desc": "",
+        "list_icon": [
+            1080209,
+            1080203
+        ],
+        "list_name": [
+            "Inflict Vulnerable",
+            "Defeat"
+        ],
+        "combine_char": [
+            "arrow"
+        ]
+    },
+    "108401": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 108401,
+        "desc": "To use the evolved Skill 3, first use Skill 2 to add a Rune Mark to the enemy and then use the evolved Skill 1 to attack the marked target."
+    },
+    "108402": {
+        "name": "Combo Tips",
+        "id": 108402,
+        "desc": "",
+        "list_icon": [
+            1084201,
+            1084203,
+            1084201,
+            1084202,
+            1084201,
+            1084203
+        ],
+        "list_name": [
+            "Skill 1",
+            "Skill 3",
+            "Skill 1",
+            "Skill 2",
+            "Enhance",
+            "Enhance"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "arrow",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "109301": {
+        "name": "Combo Tips 1",
+        "id": 109301,
+        "desc": "",
+        "list_icon": [
+            1093202,
+            1093202,
+            1093236
+        ],
+        "list_name": [
+            "Earth's Hold",
+            "Earth's Hold",
+            "Continuous Damage"
+        ],
+        "combine_char": [
+            "plus",
+            "equal"
+        ]
+    },
+    "109302": {
+        "name": "Combo Tips 2",
+        "id": 109302,
+        "desc": "",
+        "list_icon": [
+            1093202,
+            1093201,
+            1093233
+        ],
+        "list_name": [
+            "Earth's Hold",
+            "Heaven's Hold",
+            "Small Range"
+        ],
+        "combine_char": [
+            "plus",
+            "equal"
+        ]
+    },
+    "109303": {
+        "name": "Combo Tips 3",
+        "id": 109303,
+        "desc": "",
+        "list_icon": [
+            1093201,
+            1093201,
+            1093231
+        ],
+        "list_name": [
+            "Heaven's Hold",
+            "Heaven's Hold",
+            "Big Range"
+        ],
+        "combine_char": [
+            "plus",
+            "equal"
+        ]
+    },
+    "109401": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 109401,
+        "desc": "Before casting Skill 3, store as much Divine Grace as you can and stay away from enemies."
+    },
+    "104201": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 104201,
+        "desc": "Remember to keep Divine Grace in the right range to get Chthonic Marks."
+    },
+    "109901": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 109901,
+        "desc": "Use Divine Grace as soon as possible once it's full."
+    },
+    "109902": {
+        "name": "Combo Tips",
+        "id": 109902,
+        "desc": "",
+        "list_icon": [
+            1099101,
+            1099201,
+            1099234
+        ],
+        "list_name": [
+            "Accumulating Divine Grace",
+            "Accumulating Divine Grace",
+            "Charge Skills"
+        ],
+        "combine_char": [
+            "plus",
+            "equal"
+        ]
+    },
+    "114801": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 114801,
+        "desc": "Use Skill 3 frequently to prevent Traces from building up. You can switch targets while casting Skill 3."
+    },
+    "114802": {
+        "name": "Combo Tips",
+        "id": 114802,
+        "desc": "",
+        "list_icon": [
+            1148209,
+            1148203
+        ],
+        "list_name": [
+            "Obtaining Traces",
+            "Spend"
+        ],
+        "combine_char": [
+            "arrow"
+        ]
+    },
+    "118401": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 118401,
+        "desc": "Casting Skill 3 will deplete your Divine Grace but also adds to your Shield."
+    },
+    "119901": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 119901,
+        "desc": "If the first and second attacks of Skill 3 hit an enemy with Seal of Thunder, the next move of the skill will be triggered."
+    },
+    "119902": {
+        "name": "Combo Tips",
+        "id": 119902,
+        "desc": "",
+        "list_icon": [
+            1199201,
+            1199202,
+            1199203,
+            1199203
+        ],
+        "list_name": [
+            "Inflict Mark",
+            "Inflict Mark",
+            "Spend Marks",
+            "Next Move"
+        ],
+        "combine_char": [
+            "\u6216",
+            "plus",
+            "equal"
+        ]
+    },
+    "109601": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 109601,
+        "desc": "When you're struggling to survive, use Sprint to avoid enemy attacks and wait for an opening to cast Skill 2 for massive damage."
+    },
+    "109602": {
+        "name": "Combo Tips",
+        "id": 109602,
+        "desc": "",
+        "list_icon": [
+            1096201,
+            1096202,
+            1096202,
+            1096203,
+            1096101
+        ],
+        "list_name": [
+            "Inflict Mark",
+            "Move",
+            "Flying Kick",
+            "Skill 3",
+            "Normal Attack"
+        ],
+        "combine_char": [
+            "arrow",
+            "\u6216",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "113901": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 113901,
+        "desc": "Watch when you use Skill 1 and Skill 2 so that you can best combo with Skill 3."
+    },
+    "113902": {
+        "name": "Combo Tips",
+        "id": 113902,
+        "desc": "",
+        "list_icon": [
+            1139201,
+            1139203,
+            1139203,
+            1139203
+        ],
+        "list_name": [
+            "Skill 1",
+            "Snowy",
+            "Snowy",
+            "On the Edge"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "113903": {
+        "name": "Combo Tips",
+        "id": 113903,
+        "desc": "",
+        "list_icon": [
+            1139202,
+            1139203,
+            1139203,
+            1139203
+        ],
+        "list_name": [
+            "Skill 2",
+            "Icy",
+            "Icy",
+            "On the Edge"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "109701": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 109701,
+        "desc": "Assist teammates and provide effective support by taking advantage of positional warfare as much as possible."
+    },
+    "109702": {
+        "name": "Combo Tips",
+        "id": 109702,
+        "desc": "",
+        "list_icon": [
+            1097202,
+            1097201,
+            1097203
+        ],
+        "list_name": [
+            "Skill 2",
+            "Skill 1",
+            "Skill 3 Charge"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow"
+        ]
+    },
+    "102601": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 102601,
+        "desc": "Grab the chance to charge attacks and deal max damage."
+    },
+    "102602": {
+        "name": "Combo Tips",
+        "id": 102602,
+        "desc": "",
+        "list_icon": [
+            1026203,
+            1026101,
+            1026201,
+            1026202
+        ],
+        "list_name": [
+            "Skill 3",
+            "Normal Attack Charge",
+            "Skill 1",
+            "Skill 2"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "\u6216"
+        ]
+    },
+    "113801": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 113801,
+        "desc": "Skill 1 has a long warm-up move when cast, so choose the moment wisely."
+    },
+    "111101": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 111101,
+        "desc": "Familiarize yourself with the duration of your Ultimate Skill to deal maximum damage at the right time."
+    },
+    "111102": {
+        "name": "",
+        "id": 111102,
+        "desc": "",
+        "list_icon": [
+            1111101,
+            1111201,
+            1111211,
+            1111101,
+            1111202,
+            1111203
+        ],
+        "list_name": [
+            "Normal Attack",
+            "Skill 1",
+            "Extra Skill 1",
+            "Normal Attack",
+            "Skill 2",
+            "Skill 3"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "arrow",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "101301": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 101301,
+        "desc": "Try to maintain buffs that keep enemies' Fire Resistance low."
+    },
+    "101302": {
+        "name": "",
+        "id": 101302,
+        "desc": "",
+        "list_icon": [
+            1013201,
+            1013101,
+            1013101
+        ],
+        "list_name": [
+            "Cast Skills",
+            "Hold to decrease Resistance",
+            "Hold Normal Attack"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow"
+        ]
+    },
+    "103201": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 103201,
+        "desc": "The more pieces expended to use Skill 3, the more damage you will deal. However, to defeat weaker enemies more quickly, just use the shorter version of Skill 3 over and over again instead."
+    },
+    "103202": {
+        "name": "Combo Tips",
+        "id": 103202,
+        "desc": "",
+        "list_icon": [
+            1032201,
+            1032202,
+            1032221
+        ],
+        "list_name": [
+            "Switch Pieces",
+            "Place Pieces",
+            "Move Pieces"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow"
+        ]
+    },
+    "103501": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 103501,
+        "desc": "When Skill 3 grabs an enemy, it interrupts their attack and keeps them under control to deal large amounts of damage."
+    },
+    "103502": {
+        "name": "Combo Tips",
+        "id": 103502,
+        "desc": "",
+        "list_icon": [
+            1035201,
+            1035101,
+            1035203,
+            1035202
+        ],
+        "list_name": [
+            "Move Close",
+            "Normal Attack Charge",
+            "Knock Down",
+            "Deal Max Damage"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "103301": {
+        "name": "Combo Tips",
+        "id": 103301,
+        "desc": "",
+        "list_icon": [
+            1033203,
+            1033202
+        ],
+        "list_name": [
+            "Skill 3",
+            "Skill 2"
+        ],
+        "combine_char": [
+            "arrow"
+        ]
+    },
+    "112701": {
+        "name": "Combo Tips",
+        "id": 112701,
+        "desc": "",
+        "list_icon": [
+            1127202,
+            1127201,
+            1127101,
+            1127204
+        ],
+        "list_name": [
+            "Skill 2",
+            "Skill 1",
+            "Normal Attack Recharge",
+            "Heal"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "108101": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 108101,
+        "desc": "If you are struggling against an enemy, try to use hit and run tactic using Skill 3, or Block to trigger a Charged Attack and turn your defense into an offense."
+    },
+    "108102": {
+        "name": "Combo Tips",
+        "id": 108102,
+        "desc": "",
+        "list_icon": [
+            1081202,
+            1081201,
+            1081101,
+            1081101,
+            1081203
+        ],
+        "list_name": [
+            "Skill 1",
+            "Skill 2",
+            "Normal Attack",
+            "Charged Attack",
+            "Skill 3"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "\u6216",
+            "arrow"
+        ]
+    },
+    "111901": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 111901,
+        "desc": "You can switch your stance and thus trigger a flash counterattack anytime while using Skill 2 or Skill 3, which gives you the flexibility to deal with whatever situation that comes your way."
+    },
+    "111902": {
+        "name": "Combo Tips",
+        "id": 111902,
+        "desc": "",
+        "list_icon": [
+            1119202,
+            1119221,
+            1119203,
+            1119201,
+            1119204
+        ],
+        "list_name": [
+            "Skill 2",
+            "Skill 2 Follow-up",
+            "Skill 3",
+            "Skill 1 Switch",
+            "Flash Counterattack"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "106801": {
+        "name": "Tips",
+        "id": 106801,
+        "desc": "The effect of Skill 2 changes depending on Skill 1. Use Skill 2 to hit the enemy first to get additional effects.",
+        "list_icon": [
+            1068202,
+            1068201
+        ],
+        "list_name": [
+            "Skill 2",
+            "Skill 1"
+        ],
+        "combine_char": [
+            "arrow"
+        ]
+    },
+    "104101": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 104101,
+        "desc": "Take some time to familiarize yourself with Athena's attacks, as triggering her combo bonuses can be quite rewarding."
+    },
+    "104901": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 104901,
+        "desc": "Ice Mirrors generated by normal attacks or skills can be dodged to trigger Zero Time, or be parried by Skill 3 to unleash a powerful blow. Take advantage of this mechanic to gain the upper hand in battle."
+    },
+    "106701": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 106701,
+        "desc": "When using Skill 3, make sure that there are as many Phantoms around you as possible."
+    },
+    "101601": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 101601,
+        "desc": "You can also Dodge while using the Chainsaw Mode in Skill 1 or Skill 3, and cast a powerful Spinning Slash."
+    },
+    "105201": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 105201,
+        "desc": "Reloads when the last strike of the normal attack concludes, and then gains Firepower. When reloading, you can also tap the Normal Attack button to interrupt the reloading process and launch the next normal attack."
+    },
+    "101701": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 101701,
+        "desc": "Use Skill 3 and the final strike of Normal Attack to go into Enhanced state where you can use the enhanced versions of Skill 1 and Skill 2."
+    },
+    "101702": {
+        "name": "Combo Tips",
+        "id": 101702,
+        "desc": "",
+        "list_icon": [
+            1017203,
+            1017201,
+            1017203,
+            1017202
+        ],
+        "list_name": [
+            "Skill 3",
+            "Skill 1",
+            "Skill 3",
+            "Skill 2"
+        ],
+        "combine_char": [
+            "arrow",
+            "\u6216",
+            "arrow"
+        ]
+    },
+    "102401": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 102401,
+        "desc": "Make full use of the ranged firing capabilities of Skill 1 and the dash in Skill 2 to engage the enemy from various distances. Use Jackal Spirit at the same time to deal even more damage to the enemy."
+    },
+    "102801": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 102801,
+        "desc": "When launching a follow-up attack, the character will enter blue state and become Invincible for a short period of time. Launching follow-up attacks at a proper time can effectively enhance the character's ability to survive."
+    },
+    "113201": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 113201,
+        "desc": "Burning Sword stance is good for dealing with groups of enemies. When in Blazing Armor stance, try to use Skill 2 to keep the sword spinning at the enemy's location, and summon it back at the right time to unleash a powerful blow!"
+    },
+    "107001": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 107001,
+        "desc": "Cast Skill 3 to switch attacks for different buffs."
+    },
+    "107501": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 107501,
+        "desc": "Some of the moves can be followed up with the fourth strike of the normal attack in advance, which you can make use of to avoid the enemy's attack and then launch a counterattack with the fifth strike."
+    },
+    "107101": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 107101,
+        "desc": "Cast Skill 1 in the Move stance to approach or dodge enemy attacks without interrupting the current skill."
+    },
+    "107102": {
+        "name": "Combo Tips",
+        "id": 107102,
+        "desc": "",
+        "list_icon": [
+            1071212,
+            1071211,
+            1071211
+        ],
+        "list_name": [
+            "Skill 2: Thunder",
+            "Skill 1: Thunder (Interrupt)",
+            "Skill 1: Thunder"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow"
+        ]
+    },
+    "107103": {
+        "name": "Combo Tips",
+        "id": 107103,
+        "desc": "",
+        "list_icon": [
+            1071233,
+            1071211,
+            1071211,
+            1071211
+        ],
+        "list_name": [
+            "Skill 3: Thunder",
+            "Skill 1: Thunder (Interrupt)",
+            "Skill 1: Thunder (Interrupt)",
+            "Skill 1: Thunder"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "107104": {
+        "name": "Advanced Combo",
+        "id": 107104,
+        "desc": "",
+        "list_icon": [
+            1071233,
+            1071211,
+            1071101,
+            1071211,
+            1071211,
+            1071211
+        ],
+        "list_name": [
+            "Skill 3: Thunder",
+            "Skill 1: Thunder (Interrupt)",
+            "Normal Attack 1st Strike",
+            "Skill 1: Thunder",
+            "Skill 1: Thunder (Interrupt)",
+            "Skill 1: Thunder"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "arrow",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "107401": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 107401,
+        "desc": "There is no time limit for casting the Enhanced Skills and Derivative Skills after Dodging. When Divine Grace is sufficient, you can trigger the Dodge effect first, and then wait for the best moment to cast these skills. The Ascendancy state does not affect the CD of a skill that is already in CD, so try use a derivative skill with no CD to trigger the Ascendancy state."
+    },
+    "107201": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 107201,
+        "desc": "When the Mod is in the air after casting Normal Attack, Skill 1 or Skill 2, use Skill 3 to accumulate Fortune, and you'll gain greater bonus effect when you cast Skill 3 afterwards."
+    },
+    "107601": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 107601,
+        "desc": "Use Dodge to interrupt the Skill 1 action when necessary."
+    },
+    "115801": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 115801,
+        "desc": "Triggering Dodge frequently can boost Heartsear's level faster."
+    },
+    "106101": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 106101,
+        "desc": "Launch Normal Attacks and Skills to get Marks, which allow you to cast Calculations with different effects and, later on, Calculation: Hyperorder to cause massive amounts of damage."
+    },
+    "115001": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 115001,
+        "desc": "Wait until you have a large amount of Ominous Blossom points before you cast Kata 9: Fallen Sakura to deal the highest damage possible."
+    },
+    "119701": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 119701,
+        "desc": "Try to use the Ultimate Skill when Energy level is high."
+    },
+    "128401": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 128401,
+        "desc": "There is a short period of invincibility after a block, counterattack, or attack with Slash of Glare. Make full use of this to maximize your chances of survival."
+    },
+    "608701": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 608701,
+        "desc": "Keep an eye on the amount of water present. When the water level is too low, you won't be able to launch Normal Attacks, Skill Attacks, or Counters."
+    },
+    "608801": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 608801,
+        "desc": "Keep an eye on the amount of water present. When the water level is too low, you won't be able to launch Normal Attacks, Skill Attacks, or Counters."
+    },
+    "608901": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 608901,
+        "desc": "Keep an eye on the amount of water present. When the water level is too low, you won't be able to launch Normal Attacks, Skill Attacks, or Counters."
+    },
+    "609001": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 609001,
+        "desc": "Keep an eye on the amount of water present. When the water level is too low, you won't be able to launch Normal Attacks, Skill Attacks, or Counters."
+    },
+    "904901": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 904901,
+        "desc": "Once you've rolled a snowball big enough, it will become quite difficult for your character to turn, so be careful not to bump into any walls. Use Skill 1 and Skill 2 at the right time to release a great amount of big snowballs against the enemy. When you turn into a Big Snowman, you can use the normal attack to choose the location and direction in which to fire snowballs. Firing snowballs multiple times will accumulate Divine Grace to unleash a powerful Avalanche skill."
+    },
+    "905501": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 905501,
+        "desc": "Once you've rolled a snowball big enough, it will become quite difficult for your character to turn, so be careful not to bump into any walls. Use Skill 1 and Skill 2 at the right time to release a great amount of big snowballs against the enemy. When you turn into a Big Snowman, you can use the normal attack to choose the location and direction in which to fire snowballs. Firing snowballs multiple times will accumulate Divine Grace to unleash a powerful Avalanche skill."
+    },
+    "906001": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 906001,
+        "desc": "Once you've rolled a snowball big enough, it will become quite difficult for your character to turn, so be careful not to bump into any walls. Use Skill 1 and Skill 2 at the right time to release a great amount of big snowballs against the enemy. When you turn into a Big Snowman, you can use the normal attack to choose the location and direction in which to fire snowballs. Firing snowballs multiple times will accumulate Divine Grace to unleash a powerful Avalanche skill."
+    },
+    "906101": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 906101,
+        "desc": "Once you've rolled a snowball big enough, it will become quite difficult for your character to turn, so be careful not to bump into any walls. Use Skill 1 and Skill 2 at the right time to release a great amount of big snowballs against the enemy. When you turn into a Big Snowman, you can use the normal attack to choose the location and direction in which to fire snowballs. Firing snowballs multiple times will accumulate Divine Grace to unleash a powerful Avalanche skill."
+    },
+    "109501": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 109501,
+        "desc": "When there are fewer enemies on the field, try to use Featherblade and the Skill 3 that expends Featherblade marks. When there are more enemies around, use Silverthread and the Skill 3 that expends Silverthread marks more instead. Skill use does not interrupt normal attacks. Where conditions permit, you can alternate skills with normal attack strikes."
+    },
+    "all": [
+        101101,
+        101102,
+        101501,
+        101901,
+        102701,
+        102702,
+        103601,
+        103602,
+        103701,
+        103702,
+        103801,
+        103901,
+        104801,
+        105001,
+        105002,
+        105501,
+        105601,
+        105602,
+        105801,
+        105802,
+        105803,
+        105901,
+        105902,
+        106001,
+        106601,
+        106602,
+        108001,
+        108002,
+        108401,
+        108402,
+        109301,
+        109302,
+        109303,
+        109401,
+        104201,
+        109901,
+        109902,
+        114801,
+        114802,
+        118401,
+        119901,
+        119902,
+        109601,
+        109602,
+        113901,
+        113902,
+        113903,
+        109701,
+        109702,
+        102601,
+        102602,
+        113801,
+        111101,
+        111102,
+        101301,
+        101302,
+        103201,
+        103202,
+        103501,
+        103502,
+        103301,
+        112701,
+        108101,
+        108102,
+        111901,
+        111902,
+        106801,
+        104101,
+        104901,
+        106701,
+        101601,
+        105201,
+        101701,
+        101702,
+        102401,
+        102801,
+        113201,
+        107001,
+        107501,
+        107101,
+        107102,
+        107103,
+        107104,
+        107401,
+        107201,
+        107601,
+        115801,
+        106101,
+        115001,
+        119701,
+        128401,
+        608701,
+        608801,
+        608901,
+        609001,
+        904901,
+        905501,
+        906001,
+        906101,
+        109501
+    ]
+}

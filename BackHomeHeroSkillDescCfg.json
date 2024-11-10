@@ -1,0 +1,67 @@
+{
+    "1": {
+        "neg_desc": "- %s%%",
+        "pos_desc": "+ %s%%",
+        "skill_id": 1,
+        "desc": "%s dish selling speed"
+    },
+    "2": {
+        "neg_desc": "- %s%%",
+        "pos_desc": "+ %s%%",
+        "skill_id": 2,
+        "desc": "%s dish earnings"
+    },
+    "3": {
+        "neg_desc": "+ %s%%",
+        "pos_desc": "- %s%%",
+        "skill_id": 3,
+        "desc": "This Mod's stamina cost"
+    },
+    "4": {
+        "neg_desc": "- %s",
+        "pos_desc": "+ %s",
+        "skill_id": 4,
+        "desc": "Popularity"
+    },
+    "5": {
+        "neg_desc": "- %s%%",
+        "pos_desc": "+ %s%%",
+        "skill_id": 5,
+        "desc": "This Mod's stamina recovery"
+    },
+    "6": {
+        "neg_desc": "- %s%%",
+        "pos_desc": "+ %s%%",
+        "skill_id": 6,
+        "desc": "All Mods' stamina recovery"
+    },
+    "8": {
+        "neg_desc": "- %s%%",
+        "pos_desc": "+ %s%%",
+        "skill_id": 8,
+        "desc": "Great Success rate"
+    },
+    "9": {
+        "neg_desc": "- %s%%",
+        "pos_desc": "+ %s%%",
+        "skill_id": 9,
+        "desc": "Job earnings"
+    },
+    "10": {
+        "neg_desc": "+ %s%%",
+        "pos_desc": "- %s%%",
+        "skill_id": 10,
+        "desc": "Stamina required by Jobs"
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+    ]
+}

@@ -1,0 +1,1388 @@
+{
+    "10011": {
+        "description": "The Cryptics' entry-level training ground that can simulate <color=#FFAC4F>day-to-day battle situations</color> during comprehensive battle training.\n\nDeploy a <color=#FFAC4F>regular Modifier squad</color> in the Basic Tutorials to familiarize yourself with Crisis Calculation.\n\n- Enemy type: <color=#CD6269>AGI Mechas</color>.",
+        "wave_id": 10011,
+        "point": 16,
+        "map_id": 5170501,
+        "wave_name": "1 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_000",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_001",
+                16
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10001
+        ]
+    },
+    "10012": {
+        "description": "The Cryptics' advanced training ground that can simulate <color=#FFAC4F>more complex battle situations</color> for a training environment that is even truer to real-life battle situations.\n\nDeploy an <color=#FFAC4F>Elite Modifier squad</color> in the Basic Tutorials to once again familiarize yourself with Crisis Calculation.\n\n- Enemy type: <color=#CD6269>AGI Mechas</color>.\n- <color=#CD6269>Friendly human units</color> will also take part in the battle.",
+        "wave_id": 10012,
+        "point": 20,
+        "map_id": 5170502,
+        "wave_name": "1 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_000",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_001",
+                20
+            ]
+        ],
+        "recommend_team": [
+            10002
+        ]
+    },
+    "10013": {
+        "description": "The Cryptics' entry-level training ground that can simulate <color=#FFAC4F>day-to-day battle situations</color> during comprehensive battle training.\n\nDeploy a <color=#FFAC4F>regular Modifier squad</color> in the lock-on tutorial to learn about how the lock-on function changes in Crisis Calculation.\n\n- Enemy type: <color=#CD6269>AGI Mechas</color> and <color=#CD6269>Visbanes</color>.\n",
+        "wave_id": 10013,
+        "point": 35,
+        "map_id": 5170503,
+        "wave_name": "2 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_000",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_003",
+                15
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10003
+        ]
+    },
+    "10014": {
+        "description": "The Cryptics' advanced training ground that can simulate <color=#FFAC4F>more complex battle situations</color> for a training environment that is even truer to real-life battle situations.\n\nDeploy an <color=#FFAC4F>Elite Modifier squad</color> in the lock-on tutorial to once again learn about how the lock-on function changes in Crisis Calculation.\n\n- Enemy type: <color=#CD6269>AGI Mechas</color> and <color=#CD6269>Visbanes</color>.",
+        "wave_id": 10014,
+        "point": 30,
+        "map_id": 5170504,
+        "wave_name": "2 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_000",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_001",
+                30
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10004
+        ]
+    },
+    "10015": {
+        "description": "The Cryptics' entry-level training ground that can simulate <color=#FFAC4F>day-to-day battle situations</color> during comprehensive battle training.\n\nDeploy a <color=#FFAC4F>regular Modifier squad</color> in the training to familiarize yourself with the use of tactical skills in Crisis Calculation.\n\n- Enemy type: <color=#CD6269>AGI Mechas</color>.",
+        "wave_id": 10015,
+        "point": 30,
+        "map_id": 5170505,
+        "wave_name": "3 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_000",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_001",
+                30
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_004",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10005
+        ]
+    },
+    "10016": {
+        "description": "The Cryptics' advanced training ground that can simulate <color=#FFAC4F>more complex battle situations</color> for a training environment that is even truer to real-life battle situations.\n\nDeploy an <color=#FFAC4F>Elite Modifier squad</color> in the training to once again familiarize yourself with the use of tactical skills in Crisis Calculation.\n\n- Enemy type: <color=#CD6269>AGI Mechas</color>.",
+        "wave_id": 10016,
+        "point": 30,
+        "map_id": 5170506,
+        "wave_name": "3 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_000",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_001",
+                30
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10006
+        ]
+    },
+    "10017": {
+        "description": "The Cryptics' advanced training ground that can simulate <color=#FFAC4F>more complex battle situations</color> for a training environment that is even truer to real-life battle situations.\n\nCurrently simulating <color=#FFAC4F>enemies of average combat power</color>. Deploy a team to complete the training and make use of tactical skills to eliminate the enemy within the given time.\n\n- Enemy type: <color=#CD6269>AGI Mechas</color>.\n- <color=#CD6269>Friendly human units</color> will also take part in the battle.",
+        "wave_id": 10017,
+        "point": 31,
+        "map_id": 5170507,
+        "wave_name": "3 \u2013 3",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_000",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_005",
+                31
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10007
+        ]
+    },
+    "10018": {
+        "description": "The Cryptics' advanced training ground that can simulate <color=#FFAC4F>more complex battle situations</color> for a training environment that is even truer to real-life battle situations.\n\nDeploy a squad to complete a real-life combat exercise against AGI Mechas of <color=#FFAC4F>slightly higher combat power</color>.\n\n- Enemy type: <color=#CD6269>AGI Mechas</color>.",
+        "wave_id": 10018,
+        "point": 20,
+        "map_id": 5170508,
+        "wave_name": "4 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_000",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_005",
+                20
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10009
+        ]
+    },
+    "10019": {
+        "description": "The Cryptics' advanced training ground that can simulate <color=#FFAC4F>more complex battle situations</color> for a training environment that is even truer to real-life battle situations.\n\nDeploy a squad to complete a real-life combat exercise against Visbanes of <color=#FFAC4F>average combat power</color>.\n\nEnemy type: <color=#CD6269>Visbanes</color>.\n- All enemies <color=#CD6269>take 80% less Wind DMG</color>.\n\n",
+        "wave_id": 10019,
+        "point": 40,
+        "map_id": 5170509,
+        "wave_name": "4 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_000",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_005",
+                40
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10008
+        ]
+    },
+    "10020": {
+        "description": "The Cryptics' advanced training ground that can simulate <color=#FFAC4F>more complex battle situations</color> for a training environment that is even truer to real-life battle situations.\n\nDeploy a squad to complete phase one of the pre-battle drills. This is a protection mission against Visbanes of <color=#FFAC4F>moderate combat power</color>.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.\n",
+        "wave_id": 10020,
+        "point": 55,
+        "map_id": 5170510,
+        "wave_name": "5 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_006",
+                40
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10010
+        ]
+    },
+    "10021": {
+        "description": "The Cryptics' advanced training ground that can simulate <color=#FFAC4F>more complex battle situations</color> for a training environment that is even truer to real-life battle situations.\n\nDeploy a squad to complete phase two of the pre-battle drills. This is an enemy eradication mission against Visbanes of <color=#FFAC4F>comparatively low combat power</color>.\n\n- Enemy type: <color=#CD6269>Visbanes</color> spread <color=#D0A3E2>over a wider area</color>.\n",
+        "wave_id": 10021,
+        "point": 40,
+        "map_id": 5170511,
+        "wave_name": "5 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_007",
+                40
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10011
+        ]
+    },
+    "10022": {
+        "description": "The Cryptics' advanced training ground that can simulate <color=#FFAC4F>more complex battle situations</color> for a training environment that is even truer to real-life battle situations.\n\nDeploy a squad to complete the final phase of pre-battle drills. This is an assault mission against AGI Mechas. Enemy Visbanes of <color=#FFAC4F>comparatively high combat power</color> will appear to disrupt your battle actions.\n\n- Enemy type: <color=#CD6269>Visbanes</color> and<color=#CD6269>AGI Mechas</color>.\n",
+        "wave_id": 10022,
+        "point": 40,
+        "map_id": 5170512,
+        "wave_name": "5 \u2013 3",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_008",
+                30
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10012
+        ]
+    },
+    "10023": {
+        "description": "The primary objective of the engineering team is to build a communications line tower in Ain Soph's Source Layer.\n\nThere have been Visbanes wandering about the Source Layer, however, and the advance team has made little headway as a result.\n\nDeploy a squad to eliminate the Visbanes and clear the way. As the enemy comprises Visbanes of <color=#FFAC4F>comparatively low combat power</color>, you may deploy a <color=#FFAC4F>regular Modifier squad</color> to battle in this case.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.",
+        "wave_id": 10023,
+        "point": 35,
+        "map_id": 5170513,
+        "wave_name": "1 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_009",
+                35
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10013
+        ]
+    },
+    "10024": {
+        "description": "The main engineering team has had to stop its advance to deal with a Visbane attack.\n\nDeploy a squad to protect the main engineering team so that they may resume their advance. As the enemy comprises Visbanes of <color=#FFAC4F>comparatively low combat power</color>, you may deploy a <color=#FFAC4F>regular Modifier squad</color> to battle in this case.\n\nDuring this operation, transport AGI Mechas will be stopping nearby. <color=#C5F448>Try to ensure the safety of these AGI Mechas as much as possible during the battle</color> as well so that the convoy can remain adequately armed and protected.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.",
+        "wave_id": 10024,
+        "point": 56,
+        "map_id": 5170514,
+        "wave_name": "1 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_010",
+                36
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_011",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_012",
+                20
+            ]
+        ],
+        "recommend_team": [
+            10014
+        ]
+    },
+    "10025": {
+        "description": "The engineering team's rear team is preparing to send a team of transport AGI Mechas off for a while to build a communications line tower. There is intel that several large Visbanes are approaching the works zone.\n\nDeploy a squad to protect the tower against Visbanes of <color=#FFAC4F>moderate combat power</color>.\n\nDuring this operation, transport AGI Mechas will be stopping nearby. <color=#C5F448>Try to ensure the safety of these AGI Mechas as much as possible during the battle</color> as well so that the convoy can remain adequately armed and protected.\n\n- Enemy type: <color=#CD6269>Elite Visbanes</color>.",
+        "wave_id": 10025,
+        "point": 120,
+        "map_id": 5170515,
+        "wave_name": "1 \u2013 3",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_013",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_014",
+                100
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_012",
+                20
+            ]
+        ],
+        "recommend_team": [
+            10015
+        ]
+    },
+    "10026": {
+        "description": "As the engineering team's rear team was returning, the transport AGI Mechas were ambushed by a small group of elite Visbanes on their flank.\n\nDeploy a squad to protect the AGI Mechas. As the enemy Visbanes are of <color=#FFAC4F>fairly high combat power</color>, you will need to deploy an <color=#FFAC4F>Elite Modifier squad</color> to battle in this case.\n\n<color=#C5F448>All usable combat AGI Mechas from the convoy will join in the operation</color>. Try to ensure that they take as little damage as possible during the battle.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.\n- <color=#CD6269>Friendly AGI Mechas</color> will also take part in the battle.",
+        "wave_id": 10026,
+        "point": 90,
+        "map_id": 5170516,
+        "wave_name": "1 \u2013 4",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_015",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_016",
+                60
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_017",
+                30
+            ]
+        ],
+        "recommend_team": [
+            10016
+        ]
+    },
+    "10027": {
+        "description": "A defensive error has led to the engineering advance team to be surrounded by elite Visbanes, and they have put up a defense at Camp M-05.\n\nDeploy a squad to aid in their defense. Intel has confirmed the presence of several large Visbanes of <color=#FFAC4F>fairly high combat power</color>.\n\nThe engineering advance team's AGI Mechas will also take part in this operation. <color=#C5F448>Try to ensure that they take as little damage as possible during the battle</color>.\n\n- Enemy type: <color=#CD6269>Elite and smaller Visbanes</color>.\n- <color=#CD6269>Friendly AGI Mechas</color> will also take part in the battle.",
+        "wave_id": 10027,
+        "point": 140,
+        "map_id": 5170517,
+        "wave_name": "2 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_011",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_018",
+                80
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_017",
+                30
+            ]
+        ],
+        "recommend_team": [
+            10017
+        ]
+    },
+    "10028": {
+        "description": "The main and rear engineering teams are stepping up their efforts to break through the encirclement. However, they are being harassed non-stop by a small number of Visbanes.\n\nDeploy a squad to eliminate these Visbanes of <color=#FFAC4F>average combat power</color> as soon as possible so that the engineers may advance.\n\nDuring the operation, transport AGI Mechas will be stopping nearby. <color=#C5F448>Try to ensure that they take as little damage as possible during the battle</color> so that the engineers can remain adequately armed and protected.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.",
+        "wave_id": 10028,
+        "point": 50,
+        "map_id": 5170518,
+        "wave_name": "2 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_019",
+                30
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_012",
+                20
+            ]
+        ],
+        "recommend_team": [
+            10018
+        ]
+    },
+    "10029": {
+        "description": "A large number of elite Visbanes continue to gather in the area. Command has determined that the engineering team must continue to hold on to Camp M-05.\n\nDeploy a squad to assist in the defense against Visbanes of <color=#FFAC4F>fairly high combat power</color>.\n\n<color=#C5F448>All usable AGI Mechas belonging to the engineering team will be taking part in this operation</color> as well.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.\n- <color=#CD6269>Friendly AGI Mechas</color> will also take part in the battle.",
+        "wave_id": 10029,
+        "point": 50,
+        "map_id": 5170519,
+        "wave_name": "2 \u2013 3",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_010",
+                50
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_020",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10019
+        ]
+    },
+    "10030": {
+        "description": "The number of Visbanes has increased dramatically, and they have the logistics squad of the second group of reinforcements surrounded.\n\nDeploy a team to help the trapped logistics personnel. As the enemy is of <color=#FFAC4F>fairly high combat power</color>, you will need to deploy an <color=#FFAC4F>Elite Modifier squad</color>.\n\nWe will have human agents from the logistics squad working with us in this battle. <color=#C5F448>Try to keep them safe as much as possible during combat</color> to ensure that the logistics squad can remain adequately armed and protected.\n\n- Enemy type: <color=#CD6269>Elite and smaller Visbanes</color>.\n- <color=#CD6269>Friendly human units</color> will also be taking part in this battle.",
+        "wave_id": 10030,
+        "point": 150,
+        "map_id": 5170520,
+        "wave_name": "3 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_021",
+                60
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_022",
+                60
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_023",
+                30
+            ]
+        ],
+        "recommend_team": [
+            10020
+        ]
+    },
+    "10031": {
+        "description": "The first group of reinforcements has, following reconnaissance, confirmed that the <color=#C5F448>Visbanes are streaming forth from several Tower Visbanes</color> located in an Abnormal Zone to the left of Camp M-05.\n\nDeploy a squad to exterminate these Tower Visbanes. Intel indicates that these Tower Visbanes are protected by only a sprinkling of other Visbanes of <color=#FFAC4F>low combat power</color>.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.",
+        "wave_id": 10031,
+        "point": 100,
+        "map_id": 5170521,
+        "wave_name": "3 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_024",
+                60
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_025",
+                30
+            ]
+        ],
+        "recommend_team": [
+            10021
+        ]
+    },
+    "10032": {
+        "description": "The second group of reinforcements has, following reconnaissance, confirmed that there are also several Tower Visbanes in another Abnormal Zone that are <color=#C5F448>sending Visbanes non-stop towards Camp M-05</color>.\n\nDeploy a squad to exterminate these Tower Visbanes. Like on the left side, the Tower Visbanes are protected by only a few other Visbanes, though these are of <color=#FFAC4F>moderate combat power</color>.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.",
+        "wave_id": 10032,
+        "point": 100,
+        "map_id": 5170522,
+        "wave_name": "3 \u2013 3",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_024",
+                60
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_025",
+                30
+            ]
+        ],
+        "recommend_team": [
+            10022
+        ]
+    },
+    "10033": {
+        "description": "The Tower Visbanes in both Abnormal Zones have been exterminated, and the two groups of reinforcements are working together with the engineering team to encircle and destroy the remaining enemies around the camp.\n\nDeploy a squad to join in the operation to mop up the <color=#C5F448>remaining Visbanes</color> of <color=#FFAC4F>fairly high combat power</color>.\n\n<color=#C5F448>All available human agents will also take part in this operation</color>, so try to ensure their safety as much as possible during battle.\n\n- Enemy type: <color=#CD6269>Elite and smaller Visbanes</color>.\n- <color=#CD6269>Friendly human units</color> will also be taking part in this battle.",
+        "wave_id": 10033,
+        "point": 80,
+        "map_id": 5170523,
+        "wave_name": "3 \u2013 4",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_026",
+                50
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_023",
+                30
+            ]
+        ],
+        "recommend_team": [
+            10023
+        ]
+    },
+    "10034": {
+        "description": "A quick-response troop is building a communications line tower at Camp M-05 to improve communication efficiency between various squads and teams. However, the troop is being harassed by a small number of Visbanes at the moment.\n\nDeploy a squad to protect the tower against <color=#FFAC4F>a smaller number</color> of Visbanes of <color=#FFAC4F>fairly low combat power</color>. Elite squads are not necessary for this operation.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.",
+        "wave_id": 10034,
+        "point": 50,
+        "map_id": 5170524,
+        "wave_name": "4 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_027",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_010",
+                50
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10024
+        ]
+    },
+    "10035": {
+        "description": "Wide-area recon performed around Camp M-05 has uncovered several spots where Visbanes have gathered. The engineering team will split up to attack these gathering points.\n\nDeploy a squad to assist in this operation against Visbanes of <color=#FFAC4F>moderate combat power</color>. <color=#C5F448>Try to complete the mission as quickly as possible to put yourself on a stronger footing in subsequent battles</color>.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.",
+        "wave_id": 10035,
+        "point": 60,
+        "map_id": 5170525,
+        "wave_name": "4 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_026",
+                30
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_028",
+                30
+            ]
+        ],
+        "recommend_team": [
+            10025
+        ]
+    },
+    "10036": {
+        "description": "Intel indicates that there is a Prototype Visbane at each gathering point that continuously guides the actions of other Visbanes at the gathering point by \"downloading\" behavioral cues to them.\n\nDeploy a squad to <color=#C5F448>destroy the Prototype Visbane</color>. The Visbanes at the target location are of <color=#FFAC4F>moderate combat power</color>. Once the target is eliminated, any Visbanes remaining will lose their ability to continue fighting.\n\n- Enemy type: <color=#CD6269>Visbanes</color> spread <color=#D0A3E2>over a wider area</color>.",
+        "wave_id": 10036,
+        "point": 40,
+        "map_id": 5170526,
+        "wave_name": "4 \u2013 3",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_029",
+                20
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10026
+        ]
+    },
+    "10037": {
+        "description": "The engineering team has arrived at the designated location in Shashvat's Source Layer and begun work on the communications link tower. However, the Visbanes in the area have also started to converge on the same spot.\n\nWhile the engineering team is able to block most of these enemies using available intel, a small number of elite enemies will inevitably penetrate the core zone.\n\nDeploy a squad to protect the communications link tower against Visbanes of <color=#FFAC4F>formidable combat power</color>.\n\nHuman agents and combat AGI Mechas from the engineering team will also be taking part in this operation. Try to keep them safe as much as possible during the battle.\n\n- Enemy type: <color=#CD6269>Elite Visbanes</color> that are <color=#D0A3E2>scattered</color>.\n- <color=#CD6269>Friendly human units and AGI Mechas</color> will also take part in the battle.\n",
+        "wave_id": 10037,
+        "point": 180,
+        "map_id": 5170527,
+        "wave_name": "4 \u2013 4",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_014",
+                100
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_013",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_006",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_017",
+                40
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_023",
+                40
+            ]
+        ],
+        "recommend_team": [
+            10027
+        ]
+    },
+    "10038": {
+        "description": "Several highly resistant Visbanes are wandering the streets of the 4th Area in Ain Soph. CORG is currently working to seal off the target areas.\n\nDeploy a squad to exterminate the Visbanes to prevent the chaos from spreading. The enemy is of <color=#FFAC4F>moderate combat power</color>, though highly resistant to regular <color=#CD6269>Physical</color> attacks.\n\n- Enemy type: <color=#CD6269>Visbanes</color> spread <color=#D0A3E2>over a wider area</color>.\n- All Visbanes are <color=#CD6269>immune to Physical attacks</color>.",
+        "wave_id": 10038,
+        "point": 35,
+        "map_id": 5170528,
+        "wave_name": "1 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_030",
+                15
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_031",
+                20
+            ]
+        ],
+        "recommend_team": [
+            10028
+        ]
+    },
+    "10039": {
+        "description": "Recon performed in the 4th Area reveals that there are dozens of scattered Visbanes that are making their way towards CORG's headquarters.\n\nDeploy a squad to exterminate these Visbanes. The enemy is of <color=#FFAC4F>moderate combat power</color>, though they become resistant to <color=#CD6269>ranged attacks</color> once a certain number of them gather, so take them down separately as soon as you can.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.\n- When there are more than 6 Visbanes on the battlefield, all Visbanes present become <color=#CD6269>immune to ranged attacks</color>.",
+        "wave_id": 10039,
+        "point": 50,
+        "map_id": 5170529,
+        "wave_name": "1 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_032",
+                30
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_033",
+                20
+            ]
+        ],
+        "recommend_team": [
+            10030
+        ]
+    },
+    "10040": {
+        "description": "According to intel, human soldiers corrupted by Bane Energy have appeared in the 4th Area. The corruption is still spreading, and civilians are being evacuated from the area.\n\nDeploy a squad to exterminate the Visbanes there. The corrupted humans, which you will also have to fight, are also resistant to <color=#CD6269>Physical attacks</color> and are of <color=#FFAC4F>moderate combat power</color> like the Visbanes.\n\n- Enemy type: <color=#CD6269>Visbanes</color> and <color=#CD6269>humans</color>.\n- Enemy humans are <color=#CD6269>immune to Physical attacks</color> after they enter the battle.",
+        "wave_id": 10040,
+        "point": 70,
+        "map_id": 5170530,
+        "wave_name": "1 \u2013 3",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_034",
+                40
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_035",
+                15
+            ]
+        ],
+        "recommend_team": [
+            10029
+        ]
+    },
+    "10041": {
+        "description": "Preliminary analysis suggests that the Visbanes and Bane corruption in the 4th Area have their origins in the Source Layer. However, a team sent to check out the identified location has encountered an attack from elite Visbanes.\n\nDeploy a squad to assist the recon team against Visbanes of <color=#FFAC4F>fairly high combat power</color>. An <color=#FFAC4F>Elite Modifier squad</color> is needed in this case.\n\n- Enemy type: <color=#CD6269>Elite and smaller Visbanes</color>.\n- Enemy Visbanes recover 5% HP when they <color=#CD6269>take Water DMG</color>.",
+        "wave_id": 10041,
+        "point": 50,
+        "map_id": 5170531,
+        "wave_name": "1 \u2013 4",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_036",
+                30
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_011",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10031
+        ]
+    },
+    "10042": {
+        "description": "Bane Energy levels are sky-high at Bane Energy Concentration Point B-03. Command has dispatched several teams to provide support to Main Camp I-00, and they are setting up the Divine Grace Cannon.\n\nDeploy a squad to exterminate the elite Visbanes to clear the way for the others. The enemy is of <color=#FFAC4F>fairly high combat power</color>.\n\n- Enemy type: <color=#CD6269>Elite and smaller Visbanes</color>.\n- All <color=#CD6269>elite Visbanes</color> will take only <color=#CD6269>Light DMG</color>.",
+        "wave_id": 10042,
+        "point": 90,
+        "map_id": 5170532,
+        "wave_name": "2 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_026",
+                50
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_037",
+                40
+            ]
+        ],
+        "recommend_team": [
+            10032
+        ]
+    },
+    "10043": {
+        "description": "The enemy has been cleared out of Main Camp I-00. In view of possible large-scale operations in the future, the local command will build communications line towers to increase the efficiency of combat communications.\n\nThe transport AGI Mechas that were building the tower was attacked by Visbanes and have become corrupted. The corrupted AGI Mechas are now engaging in sabotage.\n\nDeploy a squad to protect the communications link tower. The corrupted AGI Mechas will fight alongside the Visbanes. Overall, the enemy is of <color=#FFAC4F>fairly high combat power</color>.\n\nHuman agents who have reached the camp will also join this operation.\n\n- Enemy type: <color=#CD6269>Visbanes</color> and <color=#CD6269>AGI Mechas</color>.\n- <color=#CD6269>Friendly human units</color> will also take part in the battle.\n- All enemies are <color=#CD6269>immune to Ultimate Skill DMG</color>.",
+        "wave_id": 10043,
+        "point": 80,
+        "map_id": 5170533,
+        "wave_name": "2 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_006",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_038",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10033
+        ]
+    },
+    "10044": {
+        "description": "A report from a Surface Layer camp in the 4th Area claims that all Visbanes in the zone have retreated back to the Source Layer where they are now making a beeline for the main camp's communications link tower.\n\nDeploy a squad to protect the communications link tower to prevent communications from getting cut off. The enemy Visbanes are of <color=#FFAC4F>fairly high combat power</color>.\n\nThere are areas of high Divine Grace levels around the target area, which will greatly increase the rate at which friendly Mods recover Divine Grace.\n\nHuman agents from the main camp will also take part in the battle.\n\n- Enemy type: <color=#CD6269>Elite and smaller Visbanes</color>.\n- <color=#CD6269>Friendly human units</color> will also take part in the battle.\n- Friendly Mods recover an additional 2 <color=#CD6269>Divine Grace or Energy</color> every second. This effect is not affected by bonuses.",
+        "wave_id": 10044,
+        "point": 110,
+        "map_id": 5170534,
+        "wave_name": "2 \u2013 3",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_027",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_018",
+                40
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10034
+        ]
+    },
+    "10045": {
+        "description": "Bane Energy Concentration Point B-03 is being protected by three Bane Energy barriers, inside of which there are several Tower Visbanes. It is suspected that these Tower Visbanes are powering the barriers.\n\nAnalysis suggests that while these barriers can withstand attacks from most existing main weapons, they cannot prevent Modifiers from passing through.\n\nDeploy a squad to test these analysis conclusions and exterminate the Tower Visbanes. The enemy is of <color=#FFAC4F>fairly high combat power</color>.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.",
+        "wave_id": 10045,
+        "point": 100,
+        "map_id": 5170535,
+        "wave_name": "2 \u2013 4",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_024",
+                60
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10035
+        ]
+    },
+    "10046": {
+        "description": "The penetrate-and-attack strategy has proven effective as the Bane Energy barriers have weakened slightly following the extermination of the Tower Visbanes.\n\nDeploy a squad to protect the areas of high Divine Grace concentration to ensure the success of future operations. Overall, the enemy comprises a mix of Visbanes and humans of <color=#FFAC4F>fairly high combat power</color>.\n\n- Enemy type: <color=#CD6269>Visbanes</color> and <color=#CD6269>humans</color>.\n- Friendly Mods recover an additional 2 <color=#CD6269>Divine Grace or Energy</color> every second. This effect is not affected by bonuses.",
+        "wave_id": 10046,
+        "point": 95,
+        "map_id": 5170536,
+        "wave_name": "2 \u2013 5",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_039",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_010",
+                70
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10036
+        ]
+    },
+    "10047": {
+        "description": "A large number of elite Visbanes have begun to attack the front of the main camp to disrupt our combat deployment. It is surmised that there's a Cognizant Visbane commanding the Visbane attack at Bane Energy Concentration Point B-03.\n\nDeploy a squad to fight the intruders to take some heat off the defense. Corrupted humans will be fighting alongside the Visbanes, and you will need to deploy <color=#FFAC4F>Elite Modifiers</color> in this case.\n\n- Enemy type: <color=#CD6269>Humans</color>, <color=#CD6269>elite Visbanes</color>, and <color=#CD6269>smaller Visbanes</color>.\n- <color=#CD6269>Enemy humans</color> are <color=#CD6269>immune to Physical attacks</color> after they enter the battle.",
+        "wave_id": 10047,
+        "point": 90,
+        "map_id": 5170537,
+        "wave_name": "3 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_018",
+                50
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_040",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10037
+        ]
+    },
+    "10048": {
+        "description": "Some Visbanes have returned to the Surface Layer to launch attacks on several less robustly defended locations in the 4th Area.\n\nDeploy a squad to counter the Visbane attack so that CORG can focus on the main camp.\n\nExpect a smaller number of enemy Visbanes of <color=#FFAC4F>fairly low combat power</color> (it is suspected that they are on a recon mission). <color=#C5F448>A vigorous response will force the Visbanes to abandon their invasion for the time being</color>.\n\n- Enemy type: <color=#CD6269>Elite and smaller Visbanes</color> <color=#D0A3E2>scattered over the area</color>.\n- When there is at least one elite Visbane on the field, all Visbanes are <color=#CD6269>immune to melee attacks</color> and <color=#CD6269>Wind attacks</color>.\n",
+        "wave_id": 10048,
+        "point": 150,
+        "map_id": 5170538,
+        "wave_name": "3 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_041",
+                60
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_010",
+                90
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10038
+        ]
+    },
+    "10049": {
+        "description": "A small number of <color=#FFAC4F>unarmed</color> enemy AGI Mechas have been discovered behind Main Camp I-00.\n\nDeploy a squad to stop these AGI Mechas from crossing the defense line. The enemy AGI Mechas are of fairly low combat power but are still dangerous due to the high-explosive material they carry on them.\n\nHuman agents from the main camp will also be taking part in this operation.\n\n- Enemy type: <color=#CD6269>Visbanes</color> and <color=#CD6269>AGI Mechas</color>.\n- <color=#CD6269>Friendly human units</color> will also take part in the battle.\n- Enemy <color=#D0A3E2>AGI Mechas blow up when they are killed</color>. Hits on a friendly unit deal 40,000 Fire DMG. The use of <color=#FFAC4F>ranged Mods</color> is recommended here.",
+        "wave_id": 10049,
+        "point": 80,
+        "map_id": 5170539,
+        "wave_name": "3 \u2013 3",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_042",
+                45
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_043",
+                60
+            ]
+        ],
+        "recommend_team": [
+            10039
+        ]
+    },
+    "10050": {
+        "description": "Real-time surveillance indicates that the enemy has deployed Tower Visbanes near Main Camp I-00 in an attempt to draw Bane Energy here for a ranged bombardment on the camp.\n\nDeploy a squad to exterminate these Tower Visbanes for the safety of the main camp. The enemy Visbanes are of <color=#FFAC4F>fairly high combat power</color> and so you will need to deploy <color=#FFAC4F>Elite Modifiers</color> in this case.\n\nCORG will soon finish setting up its Divine Grace Cannon, which will provide a real shot in the arm once it comes online.\n\n- Enemy type: <color=#CD6269>Elite and smaller Visbanes</color>.\n- Tower Visbanes are <color=#CD6269>immune to non-Ultimate Skills delivering less than 8,000,000 DMG in a single hit</color>.\n- Once the Divine Grace Cannon comes online, you may use <color=#CD6269>Physical Ultimate Skill DMG</color> to guide the cannon strikes. Cannon hits on the enemy deal 20,000,000 DMG.",
+        "wave_id": 10050,
+        "point": 180,
+        "map_id": 5170540,
+        "wave_name": "3 \u2013 4",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_044",
+                20
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_045",
+                20
+            ]
+        ],
+        "recommend_team": [
+            10040
+        ]
+    },
+    "10051": {
+        "description": "The main camp is now in the final stage of preparation and will soon be ready for combat. The enemy is advancing to the front of the main camp to destroy the Divine Grace Cannon there.\n\nDeploy a squad to occupy the 2 areas of high Divine Grace concentration to keep the Divine Grace cannon powered. <color=#FFAC4F>Regular Modifiers</color> may be deployed in this case.\n\nDuring this operation, transport AGI Mechas will be performing works in the target area, so try to keep them safe as much as possible during the battle.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.\n- Once the Divine Grace Cannon comes online, you may use <color=#CD6269>Physical Ultimate Skill DMG</color> to guide the cannon strikes. Cannon hits on the enemy deal 20,000,000 DMG.\n- Friendly Modifiers recover an additional 5 <color=#CD6269>Divine Grace or Energy</color> every second. This effect is not affected by bonuses. Recovery effect disappears after the Divine Grace link is established.",
+        "wave_id": 10051,
+        "point": 100,
+        "map_id": 5170541,
+        "wave_name": "3 \u2013 5",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_046",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_026",
+                70
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_013",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_047",
+                30
+            ]
+        ],
+        "recommend_team": [
+            10041
+        ]
+    },
+    "10052": {
+        "description": "The assault on Bane Energy Concentration Point B-03 has begun, and the enemy Visbanes have retreated to B-03 to build a defense line there.\n\nDeploy a squad to exterminate the enemy and clear the way. The enemy comprises a mix of enemies of <color=#FFAC4F>fairly high combat power</color> overall. <color=#FFAC4F>Elite Modifiers</color> should be deployed in this case.\n\n- Enemy type: <color=#CD6269>Mix of enemy types</color>.\n- Use <color=#CD6269>Physical Ultimate Skill DMG</color> to guide the Divine Grace cannon strikes. Cannon hits on the enemy deal 20,000,000 DMG.",
+        "wave_id": 10052,
+        "point": 240,
+        "map_id": 5170542,
+        "wave_name": "4 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_001",
+                180
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_043",
+                60
+            ]
+        ],
+        "recommend_team": [
+            10042
+        ]
+    },
+    "10053": {
+        "description": "The Divine Grace Cannon is now charging in preparation for strikes on the Bane Energy core at Bane Energy Concentration Point B-03. We will use the penetrate-and-attack approach to take down the Bane Energy barriers.\n\nDeploy a squad to exterminate the Tower Visbanes and destroy the first barrier. The enemy Visbanes are of <color=#FFAC4F>fairly high combat power</color> and will require the deployment of <color=#FFAC4F>Elite Modifiers</color> in this case.\n\nExpect <color=#CD6269>Divine Grace and Energy</color> suppression during this operation.\n\n- Enemy type: <color=#CD6269>Elite and smaller Visbanes</color>.\n- Friendly Modifiers lose 3 <color=#CD6269>Divine Grace or Energy</color> every second. This effect is not affected by bonuses.\n- Enemy Visbanes are <color=#CD6269>immune to Fire, Light, and Shadow attacks</color>.",
+        "wave_id": 10053,
+        "point": 190,
+        "map_id": 5170543,
+        "wave_name": "4 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_024",
+                60
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10043
+        ]
+    },
+    "10054": {
+        "description": "The first barrier has been destroyed and CORG soldiers will take care of the remaining Visbanes there as you push on towards the second barrier.\n\nDeploy a squad to exterminate the Tower Visbanes and destroy the second barrier. The enemy comprises corrupted humans and Visbanes, and you will need to deploy <color=#FFAC4F>Elite Modifiers</color> in this case.\n\n<color=#CD6269>Traces</color> will be suppressed during this operation.\n\n- Enemy type: <color=#CD6269>Visbanes</color> and <color=#CD6269>humans</color>.\n- Friendly Modifiers lose 1 <color=#CD6269>Trace</color> every 3s. This effect is not affected by bonuses.\n- Enemies take 5% less Total DMG for 1s when they take a hit from a <color=#CD6269>Wind</color> or <color=#CD6269>Thunder</color> attack. Effect can refresh and stack with no limits.",
+        "wave_id": 10054,
+        "point": 110,
+        "map_id": 5170544,
+        "wave_name": "4 \u2013 3",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_024",
+                60
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10044
+        ]
+    },
+    "10055": {
+        "description": "The second barrier has been destroyed and Aether Gazer's Grade C Modifiers will take care of the remaining Visbanes as you push on towards the last barrier.\n\nDeploy a squad to exterminate the Tower Visbanes and destroy the third barrier. You will be fighting a mix of enemy types with <color=#FFAC4F>fairly high combat power</color> overall, and will need to deploy <color=#FFAC4F>Elite Modifiers</color> in this case.\n\n<color=#CD6269>Rage</color> will be suppressed in this operation.\n\n- Enemy type: <color=#CD6269>A mix of enemy types</color> spread <color=#D0A3E2>over a wider area</color>.\n- Friendly Modifiers lose half their current <color=#CD6269>Rage</color> every 10s. This effect is not affected by bonuses.\n- Enemies recover 5% HP when they take <color=#D0A3E2>Fire DMG</color>.",
+        "wave_id": 10055,
+        "point": 230,
+        "map_id": 5170545,
+        "wave_name": "4 \u2013 4",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_024",
+                180
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10045
+        ]
+    },
+    "10056": {
+        "description": "The third barrier has been destroyed and the Bane Energy core is now exposed. The Divine Grace Cannon is also now fully charged and ready for action.\n\nThe remaining Visbanes are now roaming the area. It is surmised that the Cognizant Visbane commanding them at Bane Energy Concentration Point B-03 has already left.\n\nDeploy a squad to completely destroy all the Tower Visbanes left as well as the core zone. The enemies are elite Visbanes of <color=#FFAC4F>fairly high combat power</color>, and you will need to deploy <color=#FFAC4F>Elite Modifiers</color> in this case.\n\n- Enemy type: <color=#FFAC4F>Elite and smaller Visbanes</color>.\n- Tower Visbanes are immune to hits that deal less than 90,000,000 DMG in a single instance.\n- Use <color=#CD6269>Light Ultimate Skill DMG</color> to guide the Divine Grace cannon strikes. Cannon hits on the enemy deal 800,000,000 DMG.",
+        "wave_id": 10056,
+        "point": 330,
+        "map_id": 5170546,
+        "wave_name": "4 \u2013 5",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_024",
+                280
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10046
+        ]
+    },
+    "10057": {
+        "description": "While passing through the slums on their way to the base, our personnel were besieged by a mixed force of Visbanes and AGI Mechas and are currently unable to move forward.\n\nDeploy a squad to counter the enemy attack. The enemy Visbanes are of <color=#FFAC4F>fairly high combat power</color>.\n\n- Enemy type: <color=#CD6269>Visbanes</color> and <color=#CD6269>AGI Mechas</color>.\n- All enemies are <color=#CD6269>immune to DMG from ranged Mods</color>, though this effect disappears with the impact of <color=#D0A3E2>Zero Time</color>.\n",
+        "wave_id": 10057,
+        "point": 80,
+        "map_id": 5170547,
+        "wave_name": "1 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_016",
+                80
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_011",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10047
+        ]
+    },
+    "10058": {
+        "description": "There are more Visbanes than expected in this area and our people are unable to extricate themselves. An special team has been dispatched from Ain Soph to assist them.\n\nDeploy a squad to counter the enemy attack before the help arrives. The enemy Visbanes are of <color=#FFAC4F>fairly high combat power</color>.\n\n- Enemy type: <color=#CD6269>Elite and smaller Visbanes</color>.\n- All Elite Visbanes are <color=#CD6269>immune to Melee Fire DMG from Modifiers</color>, and can only be <color=#D0A3E2>shackled</color> up to 3 times.",
+        "wave_id": 10058,
+        "point": 70,
+        "map_id": 5170548,
+        "wave_name": "1 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_016",
+                70
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_011",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10048
+        ]
+    },
+    "10059": {
+        "description": "Intel indicates that a large number of Visbanes have appeared near the target base and are now converging on it. Some of these Visbanes will soon be arriving at our position.\n\nDeploy a squad to counter the enemy attack while waiting for the help to arrive. The enemy comprises a mix of enemy types with <color=#FFAC4F>fairly high combat power</color>.\n\n- Enemy type: <color=#CD6269>A mix of enemy types</color>.\n- Elite enemies who have been <color=#D0A3E2>frozen</color> 2 times in total immediately die upon taking <color=#CD6269>Physical Ultimate Skill DMG</color>.",
+        "wave_id": 10059,
+        "point": 80,
+        "map_id": 5170549,
+        "wave_name": "1 \u2013 3",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_048",
+                40
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_011",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10049
+        ]
+    },
+    "10060": {
+        "description": "Analysis suggests that the Visbanes are moving on a more-or-less fixed path and we will need to turn on an abandoned link tower in the slums to draw the attention of nearby enemies.\n\nDeploy a squad to defend this tower while waiting for the transport AGI Mechas to arrive. The enemy comprises a mix of enemy types with <color=#FFAC4F>fairly high combat power</color>.\n\nThe transport AGI Mechas are also able to perform repair and maintenance work, so ensure that these AGI Mechas can arrive in a timely manner to get the tower up and running.\n\n- Enemy types: <color=#CD6269>A mix of enemy types</color>.\n- <color=#CD6269>Friendly human units</color> will join in the battle along the way.\n- Enemy elites take 98% less <color=#CD6269>Light and Physical DMG</color>.\n",
+        "wave_id": 10060,
+        "point": 200,
+        "map_id": 5170550,
+        "wave_name": "2 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_016",
+                170
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_049",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_012",
+                30
+            ]
+        ],
+        "recommend_team": [
+            10050
+        ]
+    },
+    "10061": {
+        "description": "We have just received a mission from command: a small group of Visbanes have deviated from their regular route and entered another area.\n\nDeploy a squad to clear out all enemies from the target area. The enemy Visbanes are of <color=#FFAC4F>fairly high combat power</color>. As not much is known about the area, apply caution when selecting your squad lineup.\n\nExpect certain advantageous conditions of unknown rationale during the this operation.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.\n- All <color=#CD6269>elite enemies</color> take 95% less Total DMG, and those who have taken <color=#CD6269>Light Ultimate Skill DMG</color> while in <color=#D0A3E2>Modified Mode</color> immediately die once they have been hit while in <color=#D0A3E2>Zero Time</color>.",
+        "wave_id": 10061,
+        "point": 160,
+        "map_id": 5170551,
+        "wave_name": "2 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_050",
+                100
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_043",
+                60
+            ]
+        ],
+        "recommend_team": [
+            10051
+        ]
+    },
+    "10062": {
+        "description": "The temporary defense lines have been established, and CORG's soldiers and the reinforcements from Aether Gazer have been deployed and are now fighting the Surface Layer Visbanes.\n\nDeploy a squad to exterminate the enemies surrounding the friendlies. The enemies surrounding the friendly units are of <color=#FFAC4F>moderate combat power</color> overall.\n\nCORG will be sending human soldiers to assist us in the battle.\n\n- Enemy types: <color=#CD6269>A mix of enemy types</color>.\n- <color=#CD6269>Friendly human units</color> will take part in the battle.\n- All enemies start taking 70% <color=#CD6269>more Physical DMG</color> once they have been hit with <color=#CD6269>Physical DMG</color> 50 times.",
+        "wave_id": 10062,
+        "point": 90,
+        "map_id": 5170552,
+        "wave_name": "2 \u2013 3",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_010",
+                90
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_011",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10052
+        ]
+    },
+    "10063": {
+        "description": "Before heading to the target facility, we need to go to the Source Layer and enable link tower monitoring to ensure that the main attack force can fully eradicate all the Visbanes in Neuhansa.\n\nDeploy a squad to protect the communications link tower and prevent the Visbanes in the target area from escaping. The enemy Visbanes are of <color=#FFAC4F>moderate combat power</color>.\n\nCORG's human agents will be taking part in this operation while Aether Gazer's Grade C Modifiers will also be assisting us on the Surface Layer during battle.\n\n- Enemy type: <color=#CD6269>Visbanes</color>.\n- <color=#CD6269>Friendly human units</color> will take part in the battle.\n- All enemies take 80% less Total DMG.\n- All enemies take 550% more <color=#CD6269>Physical DMG</color> in the 0.8s after they take a <color=#CD6269>Water DMG</color> hit.\n- All enemies take 550% more <color=#CD6269>Water DMG</color> in the 0.8s after they take a <color=#CD6269>Physical DMG</color> hit.\n",
+        "wave_id": 10063,
+        "point": 120,
+        "map_id": 5170553,
+        "wave_name": "3 \u2013 1",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_013",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_051",
+                40
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_001",
+                90
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10053
+        ]
+    },
+    "10064": {
+        "description": "Our personnel have successfully sealed off the target area in the Source Layer, and a team on the Surface Layer has taken the manufacturing facility. They will now work with us in our advance and provide us with long-range firepower support.\n\nDeploy a squad to assist in mopping up the remaining enemy. The enemy Visbanes are of <color=#FFAC4F>fairly weak combat power</color>. Do note that <color=#C5F448>minimizing damage taken by friendly units in this battle will be useful in subsequent battles</color>.\n\nThere will be a small number of enemy AGI Mecha with high RES in the battle.\n\n- Enemy type: <color=#CD6269>Visbanes</color> and <color=#CD6269>AGI Mechas</color>.\n- Enemy AGI Mechas take 40% less Total DMG, though this effect disappears after they have been <color=#D0A3E2>shackled</color>.",
+        "wave_id": 10064,
+        "point": 130,
+        "map_id": 5170554,
+        "wave_name": "3 \u2013 2",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_009",
+                90
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_052",
+                40
+            ]
+        ],
+        "recommend_team": [
+            10054
+        ]
+    },
+    "10065": {
+        "description": "The enemy is gathering all of its remaining strength to conduct an attack on two fronts, and Visbanes are rapidly pushing from behind at the defense line while several <color=#FFAC4F>extremely powerful</color> elite AGI Mechas are coming from the opposite direction.\n\nDeploy a squad to stop these elite AGI Mechas, which are protected by a shield system. <color=#D0A3E2>We currently do not have any effective means to deal damage to the targets and the only thing we can do is contain their actions</color>.\n\n- Enemy type: <color=#CD6269>Elite and smaller AGI Mechas</color>.\n- Enemy AGI Mechas are <color=#D0A3E2>immune to damage</color> and deal 10% less Total DMG for every 80 times they take a <color=#CD6269>Water DMG</color> hit. Effect can stack without limit.\n- Every 5 enemy AGI Mechas destroyed<color=#D0A3E2> restores a certain amount of HP to all friendly units</color>.",
+        "wave_id": 10065,
+        "point": 100,
+        "map_id": 5170555,
+        "wave_name": "3 \u2013 3",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_053",
+                0
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_043",
+                60
+            ]
+        ],
+        "recommend_team": [
+            10055
+        ]
+    },
+    "10066": {
+        "description": "Aether Gazer's Modifiers have managed to stop the Visbane offense by themselves, and all Visbanes on the Surface Layer have been eliminated.\n\nAt the same time, the Cryptics from Aether Gazer have also identified a weakness in the elite AGI Mechas' shield system: the shield can be whittled down to zero with Light attacks.\n\nDeploy a squad to eliminate the elite AGI Mechas and destroy the target facility. Corrupted humans will also fight alongside the AGI Mechas during the battle, and overall, the enemy is of <color=#FFAC4F>extremely high combat power</color>, so proceed with caution.\n\n- Enemy type: <color=#CD6269>Humans</color>, <color=#CD6269>elite AGI Mechas</color>, and <color=#CD6269>smaller AGI Mechas</color>.\n- Enemy elite AGI Mechas are immune to damage although this effect disappears after they have been hit 90 times by <color=#CD6269>Light attacks</color>.\n- All friendly units <color=#C5F448>recover a certain amount of HP</color> every 10s.",
+        "wave_id": 10066,
+        "point": 120,
+        "map_id": 5170556,
+        "wave_name": "3 \u2013 4",
+        "task_list": [
+            [
+                "ACTIVITY_REFORGE_TASKDESC_001",
+                120
+            ],
+            [
+                "ACTIVITY_REFORGE_TASKDESC_002",
+                0
+            ]
+        ],
+        "recommend_team": [
+            10056
+        ]
+    },
+    "all": [
+        10011,
+        10012,
+        10013,
+        10014,
+        10015,
+        10016,
+        10017,
+        10018,
+        10019,
+        10020,
+        10021,
+        10022,
+        10023,
+        10024,
+        10025,
+        10026,
+        10027,
+        10028,
+        10029,
+        10030,
+        10031,
+        10032,
+        10033,
+        10034,
+        10035,
+        10036,
+        10037,
+        10038,
+        10039,
+        10040,
+        10041,
+        10042,
+        10043,
+        10044,
+        10045,
+        10046,
+        10047,
+        10048,
+        10049,
+        10050,
+        10051,
+        10052,
+        10053,
+        10054,
+        10055,
+        10056,
+        10057,
+        10058,
+        10059,
+        10060,
+        10061,
+        10062,
+        10063,
+        10064,
+        10065,
+        10066
+    ]
+}

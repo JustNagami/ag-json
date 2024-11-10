@@ -1,0 +1,438 @@
+{
+    "1": {
+        "id": 1,
+        "title": "Quakes",
+        "tips": "A sign of Visbane activity and breaches in the Source Layer.\nCharacterized by: Violent shaking, building collapses, and explosions, etc., in the Surface Layer. The intensity of the Quake depends on the strength of the Visbane and the size of the Source Layer fissure.\nThe CORG Supreme Directorate's researchers are now able to predict the occurrence of most Quakes with high accuracy.",
+        "loading_picture": "loading_3"
+    },
+    "2": {
+        "id": 2,
+        "title": "Visbane",
+        "tips": "Monsters arising from the Source Layer, with an indiscriminate urge to attack any form of civilization.\nWhat causes Visbanes to appear is unknown. In recent years certain types able to create Source Layer fissures have appeared, causing Quakes in the process.",
+        "loading_picture": "loading_8"
+    },
+    "3": {
+        "id": 3,
+        "title": "Control Resistance",
+        "tips": "Overlapping control effects will cause some enemies to become resistant to control. This makes it vital that Control-type characters cast their control skills at the right cast.",
+        "loading_picture": ""
+    },
+    "4": {
+        "id": 4,
+        "title": "Break-fall",
+        "tips": "When repeatedly attacked or knocked down by an enemy, use Dodge at the right time to Break-fall and counterattack.",
+        "loading_picture": ""
+    },
+    "5": {
+        "id": 5,
+        "title": "Dodge Skills",
+        "tips": "Use Dodge at the right time to trigger the Modifier's Dodge skill. The effects of those skills vary across Modifiers.",
+        "loading_picture": ""
+    },
+    "6": {
+        "id": 6,
+        "title": "Aether Gazer",
+        "tips": "A Modifier fighting group set up by Odin to combat the Visbanes. Also an integrated investment company built with their allies.\nThe members of the group are currently part of Aether Gazer Inc., and most have dual identities. Some Mods operate in human society under the guise of company employees.",
+        "loading_picture": "loading_13"
+    },
+    "7": {
+        "id": 7,
+        "title": "Zero Time ",
+        "tips": "A great advantage on the battlefield, thanks to the Mimir system. Zero Time is triggered during battles via skills and allows Modifiers to avoid damage from enemies, also slowing their movement.",
+        "loading_picture": ""
+    },
+    "8": {
+        "id": 8,
+        "title": "Ultimate Skill",
+        "tips": "A powerful skill that releases all of a Modifier's power. Bonds between certain Modifiers allow for even more awesome Ultimate Skillchains.",
+        "loading_picture": ""
+    },
+    "9": {
+        "id": 9,
+        "title": "Society of Muses",
+        "tips": "On the surface, it operates as the \"Association for the Appraisal of Unconventional Art\" in Omorfies.\nIt is primarily responsible for the appraisal and certification of non-conventional art forms not recognized by other artist guilds or societies and issuing \"Avant-Garde Art Creation Qualification Certificate.\"\nIn reality, it is a Modifier base of operations set up by Hades which has partnered Aether Gazer for a number of years.",
+        "loading_picture": "loading_35"
+    },
+    "10": {
+        "id": 10,
+        "title": "Hearth of Danu",
+        "tips": "A rather ordinary machine workshop located in Ain Soph's West Coast Core City that accepts commissions for the forging and modification of certain special equipment.\nNuadha, the owner of the Hearth of Danu, works closely with Aether Gazer.",
+        "loading_picture": "loading_11"
+    },
+    "11": {
+        "id": 11,
+        "title": "Olympia Express",
+        "tips": "A leading logistics company in Ain Soph that primarily engages in its so-called \"Winged Boots\" delivery services.\nIt now has branches in several Sephirah Zones thanks to funding from Aether Gazer Inc. as well as the hard work of its various employees.\n\"Delivering hope to everyone\" is the company's motto by its founder Iris.",
+        "loading_picture": "loading_14"
+    },
+    "12": {
+        "id": 12,
+        "title": "Spealght Industries",
+        "tips": "Spealght Industries is the top AGI Mecha manufacturing facility in Neuhansa District.\nFormerly a family-run company in Neuhansa, it has ridden the wave of the \"Era of Gray Gold\" to develop its own brand of modern machinery.",
+        "loading_picture": "loading_15"
+    },
+    "13": {
+        "id": 13,
+        "title": "Energy",
+        "tips": "A Combat Resource that replenishes over time and allows Energy-type Modifiers to cast skills.",
+        "loading_picture": ""
+    },
+    "14": {
+        "id": 14,
+        "title": "Rage",
+        "tips": "A Combat Resource that builds up when normal attacks hit and allows Rage-type Modifiers to cast their skills.",
+        "loading_picture": ""
+    },
+    "15": {
+        "id": 15,
+        "title": "Traces",
+        "tips": "A Combat Resource that builds up when certain skills hit and allows Trace-type Modifiers to use some of their skills.",
+        "loading_picture": ""
+    },
+    "16": {
+        "id": 16,
+        "title": "Divine Grace",
+        "tips": "A special Combat Resources possessed by some Modifiers. Each gains and uses it differently.",
+        "loading_picture": ""
+    },
+    "17": {
+        "id": 17,
+        "title": "Modifier Gen-zones",
+        "tips": "The Gaea system created ten Sephirah Zones and also created other Gen-zones that function as correctors, based on the myths and legends of the old world.\nKnown zones are Yggdrasill, Shinou, Nile, Olympus, Asterism, and Tian Yuan. Modifiers refer to these as \"rooms.\"\nThose rooms nurture Modifiers and give them power and names. Thus, Modifiers from the same room will have similar powers.",
+        "loading_picture": ""
+    },
+    "18": {
+        "id": 18,
+        "title": "Gen-zones Bonuses",
+        "tips": "The team may obtain additional Gen-zone effects during Modified Mode when there are two Modifiers of the same Gen-zone on the battlefield.\nWhen there are three Modifiers of the same Gen-zone on the field, they will receive bonus buffs during the combat.",
+        "loading_picture": ""
+    },
+    "19": {
+        "id": 19,
+        "title": "Sigil Skills",
+        "tips": "Initial Sigil Skills for a certain Sigil in a certain position are fixed, and not even the Cryptics can change them.\nHowever, additional Sigil Skills can be added to Sigils via Enchant.",
+        "loading_picture": ""
+    },
+    "20": {
+        "id": 20,
+        "title": "Gen-zones Sigils",
+        "tips": " Some 5-Star Sigils are imbued with powers associated with a certain Gen-zone. When used by a Modifier from that Gen-zone, extra abilities are granted.\nReconstructors can be used to change a Sigil's faction bonus, or to randomly add a faction bonus to a Sigil which does not have one.",
+        "loading_picture": ""
+    },
+    "21": {
+        "id": 21,
+        "title": "Control Effects",
+        "tips": "Freeze and Petrify last half as long on targets with Unyielding or Super Armor.\nOther Control effects do not work on units with Super Armor, but are fully effective on units with Unyielding.",
+        "loading_picture": ""
+    },
+    "22": {
+        "id": 22,
+        "title": "Shield",
+        "tips": "Units with Shield can protect themselves from damage, and also gain Super Armor while the Shield is active.",
+        "loading_picture": ""
+    },
+    "23": {
+        "id": 23,
+        "title": "Interruption Refund",
+        "tips": "If a Modifier's skill process is interrupted, either by an attack or the Modifier themself, cooldown and consumption are restored.\nGood use of interruptions can avoid taking too much damage while unleashing a skill.",
+        "loading_picture": ""
+    },
+    "24": {
+        "id": 24,
+        "title": "Indicia",
+        "tips": "Pay attention to the Indicia effects of specific enemies\u2014it'll be a huge help in defeating them.",
+        "loading_picture": ""
+    },
+    "25": {
+        "id": 25,
+        "title": "Super Armor and Unyielding",
+        "tips": "Units with Unyielding will not have actions interrupted by taking attacks. Super Armor makes units immune or less susceptible to Control effects.",
+        "loading_picture": ""
+    },
+    "26": {
+        "id": 26,
+        "title": "Tutorials",
+        "tips": "From rookie to fully qualified expert\u2014completing tutorial stages will help you breeze through future battles.",
+        "loading_picture": ""
+    },
+    "27": {
+        "id": 27,
+        "title": "Dimensional Variable",
+        "tips": "The multiple dimensions are virtual predictive simulations that were developed by Ookuninushi to measure the rate of Gaea's causality changes. But after undergoing many experiments, it was unable to accurately predict \"human choice\", and thus its current incarnation is currently just used as a tactical training ground.",
+        "loading_picture": ""
+    },
+    "28": {
+        "id": 28,
+        "title": "Functors",
+        "tips": "Functors are those qualified to use specific Access Keys, and the previous form of Modifiers. They are \"spirits\" that are attached to various objects due to the change in the Idealbild when falling from the Gen-zones.\nWhen combined, these Functors can enhance the power of those Access Keys. Some stronger Functors can even change the control of the Keys' Divine Power.",
+        "loading_picture": ""
+    },
+    "29": {
+        "id": 29,
+        "title": "Functor Awaken",
+        "tips": "Evocate the true name of an Unawakened Functor to evocate it and acquire its power.",
+        "loading_picture": ""
+    },
+    "30": {
+        "id": 30,
+        "title": "Source Layer",
+        "tips": "In the world of Gaea, this is the inner layer, as opposed to the Surface Layer where humans reside. It stores the raw data of the world system, and can repair the errors and damage that occur on the Surface Layer.\nAny damage to the Source Layer manifests as catastrophic events on the Surface Layer.",
+        "loading_picture": "loading_2"
+    },
+    "31": {
+        "id": 31,
+        "title": "Sephirah Zone",
+        "tips": "In the world of Gaea, this is the Surface Layer where humans reside, as opposed to the Source Layer where data stores. Also known as the ten Sephirah Zones. They correspond to the ten major war zones of the old world.\nEach Sephirah Zone is located on a different plane, and are connected by Photon Rail that transports basic resources.",
+        "loading_picture": "loading_24"
+    },
+    "32": {
+        "id": 32,
+        "title": "Omorfies",
+        "tips": "A Sephirah Zone that is also known as \"the Capital of the Arts\" due to its cultural and artistic exports. Artistic creation is prevalent throughout this Sephirah Zone, and those with a high level of artistic mastery hold a higher social status.",
+        "loading_picture": "loading_34"
+    },
+    "33": {
+        "id": 33,
+        "title": "Stellaris Academy",
+        "tips": "Originally simply the most advanced academic institution for artists in Omorfies. However, as the key members of the Astral Council often spent time here working on their art and official duties, it also later became home to the government's offices.\nThis is where the Ardisis Ceremony is held, and where the Knights of Convallaria are based.",
+        "loading_picture": "loading_32"
+    },
+    "34": {
+        "id": 34,
+        "title": "AGI Mecha",
+        "tips": "A tool created by mankind. Most AGI Mechas are not capable of independent thought and are only able to execute the tasks they have been set.\nHowever, a small number of these machines have developed near-human consciousness due to Bane Energy corruption.",
+        "loading_picture": "loading_16"
+    },
+    "35": {
+        "id": 35,
+        "title": "Ain Soph",
+        "tips": "The most prosperous Sephirah Zone in Gaea. It has a mild and pleasant natural environment, and a population composed of high-asset immigrants from all over the world.\nAs the central hub of the Photon Rail and the seat of CORG Supreme Directorate, Ain Soph is essentially the heart of Gaea.",
+        "loading_picture": "loading_19"
+    },
+    "36": {
+        "id": 36,
+        "title": "Modifiers",
+        "tips": "The self-check programs that Gaea generated to eliminate errors during world processing.\nWith the emergence of the most severe error, the Visbanes, the self-check programs substantialized into human forms to intervene in both the Source and Surface Layer. These personalized and substantialized self-check programs are called Modifiers.",
+        "loading_picture": "loading_17"
+    },
+    "37": {
+        "id": 37,
+        "title": "Gaea",
+        "tips": "A digital network and world built by Gaea.Zero, the giant supercomputer orbiting in space, to ensure the continued existence of human civilization and consciousness.\nIt contains the uploaded consciousnesses of the survivors from the old world.",
+        "loading_picture": "loading_18"
+    },
+    "38": {
+        "id": 38,
+        "title": "Access Keys",
+        "tips": "All Modifiers have an Access Key granting system permissions and containing their Aether Codes.\nAccess Keys can be created by the world system alongside the Modifier, while other types can be obtained later, if destiny so wills.",
+        "loading_picture": "loading_12"
+    },
+    "39": {
+        "id": 39,
+        "title": "Reboots and Cycles",
+        "tips": "When a deviation from Idealbild exceeds a set interval and the destruction of humanity and human civilization cannot be stopped, Gaea will perform a forced reboot.\nUpon the reboot, the Source Layer and Surface Layer are returned to their initial state, as are all human data entities.",
+        "loading_picture": "loading_23"
+    },
+    "40": {
+        "id": 40,
+        "title": "Modifier Arrival",
+        "tips": "Some Modifiers awaken in the form of a human infant, with a similar lack of knowledge. Any Access Key they possess will be inactive.\nWhen they awaken, Modifiers are infused with power and an understanding of their mission, and their bodies stop growing.",
+        "loading_picture": "loading_4"
+    },
+    "41": {
+        "id": 41,
+        "title": "Idealbild ",
+        "tips": "To ensure that mankind can have a more stable existence in the world of Gaea, the supercomputer performed real-time calculations for the future based on world functions and identified a path that would guarantee the stable development of human civilization. This path is Idealbild.\nHowever, given that this is always a certain dissyncronicity between humans and the system, a certain degree of deviation from Idealbild is permitted. As long as the deviation remains within certain boundaries, it can be corrected by Gaea to a certain extent.",
+        "loading_picture": "loading_25"
+    },
+    "42": {
+        "id": 42,
+        "title": "The Knights of Convallaria",
+        "tips": "The law enforcement arm of the Astral Council. Usually based at Stellaris Academy, they are mainly responsible for the security of government facilities and the Stellaris Temple, as well as the smooth running of the Ardisis Ceremony that takes place once every five years.\nApart from the Knights of Convallaria, all around Omorfies law enforcement duties are also performed by the Knights of the Lighthouse, who work to maintain the security of various art societies at the local level.",
+        "loading_picture": "loading_26"
+    },
+    "43": {
+        "id": 43,
+        "title": "CORG Supreme Directorate",
+        "tips": "The highest administration body in Gaea, created to prevent the other Sephirah Zones from fighting between one another. It can be considered human civilization's leader in Gaea.\nTheir core purpose is to reduce the friction and disputes between the different zones, and to encourage the development of society and civilization while doing all they can to preserve the stability of the Idealbild.",
+        "loading_picture": "loading_36"
+    },
+    "44": {
+        "id": 44,
+        "title": "Akkadian Guild",
+        "tips": "The most reputable bounty hunter guild in Rostach.\nSome say the Akkadian Guild is the cornerstone of Rostach's development. While this is something of an overstatement, its founding did bring hope to the lives of many desperate people.\nIn the beginning, the goal of the Akkadian Guild was to provide a livelihood for destitute orphans, providing them with simple assignments.\nAs the number of completed jobs began to increase, in order to facilitate the management of the increasing number of commissions and contractors, it was transformed into the formal bounty hunters' guild it is today.",
+        "loading_picture": "loading_37"
+    },
+    "45": {
+        "id": 45,
+        "title": "Tian Lu Traders",
+        "tips": "The largest commercial alliance of Xu Heng District, mainly engaging in local financial investments and the trading of the district's raw materials.\nAn elite security team has also been developed under its flag to ensure the safety of goods.",
+        "loading_picture": "loading_38"
+    },
+    "46": {
+        "id": 46,
+        "title": "Quad",
+        "tips": "A local governing body established by Gengchen in Xu Heng in the aftermath of the Cloudsong Crisis, it helps the government maintain stable growth.\nThe five isles send representatives to participate in policy discussions, and take turns to maintain the stability of Xu Heng's foreign trade, internal security, and the Astral Engine system from Yu Jing.",
+        "loading_picture": "loading_39"
+    },
+    "47": {
+        "id": 47,
+        "title": "Xu Heng",
+        "tips": "The first Sephirah Zone generated in Gaea, it's also a transfer station on most Photon Rail routes before returning to Ain Soph. Its soil is rich in an anti-gravity mineral called Cloudsong Ore, which makes the land itself hover in the air. Xu Heng's research into Cloudsong Ore has given it access to the most cutting-edge gravity and space technologies in all of Gaea.",
+        "loading_picture": "loading_40"
+    },
+    "48": {
+        "id": 48,
+        "title": "Photon Rail",
+        "tips": "An inter-regional transportation system built under CORG's leadership, currently with 23 known routes. Predominantly used for the transportation of goods, it can also be used to carry people under exceptional circumstances.\nAll photon rails are managed by CORG. Although the current network is sufficient for moving and trading goods between regions, it's still quite a complicated process.",
+        "loading_picture": "loading_1"
+    },
+    "49": {
+        "id": 49,
+        "title": "Sasanami",
+        "tips": "Sasanami is a Sephirah Zone with a distinctive cultural identity. While not rich in resources, its fishing and agriculture have developed reasonably well. To overcome its dearth of resources, the five families that govern Sasanami actively coordinated the people of Sasanami to develop islands off the mainland, with initial success.",
+        "loading_picture": "loading_41"
+    },
+    "50": {
+        "id": 50,
+        "title": "Sasanami - Shimogyou District",
+        "tips": "Outside of central Sasanami is the urban sprawl of Shimogyou District, which comprises of second- and third-tier cities and satellite towns.\nThe cities of Shimogyou all grew independently, meaning some are more developed than others and the rich-poor divide can be quite stark. Cheap entertainment is how most of its residents like to spend their time, and the chaos of consumerism and hedonism is visible on every street corner.",
+        "loading_picture": "loading_42"
+    },
+    "51": {
+        "id": 51,
+        "title": "Shimogyou District - Transport Hub",
+        "tips": "Outside of central Sasanami is the urban sprawl of Shimogyou District, which comprises of second- and third-tier cities and satellite towns.\nThe cities of Shimogyou all grew independently, meaning some are more developed than others and the rich-poor divide can be quite stark. Cheap entertainment is how most of its residents like to spend their time, and the chaos of consumerism and hedonism is visible on every street corner.",
+        "loading_picture": "loading_43"
+    },
+    "52": {
+        "id": 52,
+        "title": "Shimogyou District - Street",
+        "tips": "Outside of central Sasanami is the urban sprawl of Shimogyou District, which comprises of second- and third-tier cities and satellite towns.\nThe cities of Shimogyou all grew independently, meaning some are more developed than others and the rich-poor divide can be quite stark. Cheap entertainment is how most of its residents like to spend their time, and the chaos of consumerism and hedonism is visible on every street corner.",
+        "loading_picture": "loading_44"
+    },
+    "53": {
+        "id": 53,
+        "title": "Sasanami - Karasugo Mansion",
+        "tips": "The Karasugo Family are one of the oldest clans in Shimogyou. Even though they own many new buildings in the Kamigyou District, they still prefer to operate out of the old family mansion in Shimogyou.",
+        "loading_picture": "loading_45"
+    },
+    "54": {
+        "id": 54,
+        "title": "Sasanami - Madoiyama Festival",
+        "tips": "The Madoiyama festival has been running for nearly one hundred years, and is one of the biggest events in the Sasanami calendar. Celebrating the legend of the Child of Heaven sealing away the five mountain gods in Madoiyama, it draws in crowds of thousands of people each year.",
+        "loading_picture": "loading_46"
+    },
+    "55": {
+        "id": 55,
+        "title": "Shashvat",
+        "tips": "A Sephirah Zone with highly advanced life sciences and pharmacology industries, bisected by a magnificent river that the locals call the Holy River.\nThe wealthy and elderly of Shashvat place great importance on literature, meditation, and other mind-expanding hobbies, whereas the lower-class youths are more interested in physical prowess. As a result, combat sports are hugely popular here.",
+        "loading_picture": "loading_47"
+    },
+    "56": {
+        "id": 56,
+        "title": "Meruism",
+        "tips": "A Modifier organization founded by Brahm\u0101 that outwardly purports to tackle gang activity, but secretly maintains the stability of the Shashvat Source Layer and protects its people from Visbane attacks.\nIt is predominantly active in the chaotic slums of Gharpur in Jivitabad, where it runs orphanages and provides financial support to those in need, in an attempt to maintain some semblance of law and order.",
+        "loading_picture": "loading_48"
+    },
+    "57": {
+        "id": 57,
+        "title": "Gharpur",
+        "tips": "The rapid urbanization of Shashvat has also led to the creation of vast, lawless swathes of the city, of which Gharpur is by far the most notorious. So often is it simply referred to as \"the Slums\" by those lucky enough to live outside it, that most people have forgotten its real name.\nGangs have carved out control of Gharpur between them, each one running their turf in their own way and trying to obstruct the others, forming a complex and dangerous hierarchy of power. Everything drops off the radar once it crosses into Gharpur, making it the perfect base for all manner of clandestine activity.",
+        "loading_picture": "loading_49"
+    },
+    "58": {
+        "id": 58,
+        "title": "Vimoksha Pharma",
+        "tips": "A pharmaceutical conglomerate that researches, manufactures, and sells its medicines on the outskirts of the slums. Its integrated operations have allowed it to snatch up a hefty share of the market in Shashvat.\nSheltered behind unscalable walls in a smart tech industrial park hidden within the slums, the company carries out its work in secret and most of what happens there is never made public.",
+        "loading_picture": "loading_50"
+    },
+    "59": {
+        "id": 59,
+        "title": "Reiten Palace",
+        "tips": "Residence of the Sasanami Child of Heaven, located in the Kamigyou District and commonly referred to as the \"Imperial City.\" Formerly an ancient temple used for the Yamanokami Festival, it has since been renovated and modernized while trying to retain its original appearance as much as possible.\nReiten Palace was once a holy place and symbol of Sasanami, but as local belief in the mountain god waned, it fell into disuse and stood empty in the city.",
+        "loading_picture": "loading_51"
+    },
+    "60": {
+        "id": 60,
+        "title": "Molander City",
+        "tips": "A seaside town in the southwest of Ain Soph, it was once a popular holiday destination. However, owing to economic changes and disruption, it's now a shadow of its former self.\nThe disaster of 2305 inflicted further pain on the town. The north was sealed off and its residents evacuated to the south, further hastening its demographic decline. Today, Molander is a ghost town.",
+        "loading_picture": "loading_52"
+    },
+    "61": {
+        "id": 61,
+        "title": "Hyperspace Experiment",
+        "tips": "A large-scale observational experiment led by CORG's R&D, officially titled the \"Off-axis Branching Space Algorithm Experiment.\" The experiment seeks to use data from Gaea's \"Axis World\" to restore the past local space-time in an artificial space-time \"hyperspace.\"\nGiven the extremely limited span of time and space in the Hyperspace, and the exorbitant construction and maintenance costs, this experiment is currently only used to restore key points in history where the truth of what actually happened has been obscured by time.",
+        "loading_picture": "loading_53"
+    },
+    "62": {
+        "id": 62,
+        "title": "Saint Sophia Medical Center",
+        "tips": "An enormous one-stop healthcare facility in Molander's Sudburg. Despite its sprawling size and cutting-edge equipment, it is hidden away in a nameless neighborhood and is usually deserted.\nThe center has never openly accepted patients, and was closed down and put up for sale only a few years after it was built. What it does and who it serves remain a mystery to this day.",
+        "loading_picture": "loading_54"
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+    ]
+}

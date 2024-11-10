@@ -1,0 +1,53 @@
+{
+    "1010001": {
+        "id": 1010001,
+        "title": "",
+        "tips": "",
+        "loading_picture": "loading_30"
+    },
+    "1010002": {
+        "id": 1010002,
+        "title": "Source Layer",
+        "tips": "In the world of Gaea, this is the inner layer, as opposed to the Surface Layer where humans reside. It stores the raw data of the world system, and can repair the errors and damage that occur on the Surface Layer.\nAny damage to the Source Layer manifests as catastrophic events on the Surface Layer.",
+        "loading_picture": "loading_2"
+    },
+    "1010003": {
+        "id": 1010003,
+        "title": "Access Keys",
+        "tips": "All Modifiers have an Access Key granting system permissions and containing their Aether Codes.\nAccess Keys can be created by the world system alongside the Modifier, while other types can be obtained later, if destiny so wills.",
+        "loading_picture": "loading_12"
+    },
+    "1010004": {
+        "id": 1010004,
+        "title": "Modifiers",
+        "tips": "The self-check programs that Gaea generated to eliminate errors during world processing.\nWith the emergence of the most severe error, the Visbanes, the self-check programs substantialized into human forms to intervene in both the Source and Surface Layer. These personalized and substantialized self-check programs are called Modifiers.",
+        "loading_picture": "loading_7"
+    },
+    "1010005": {
+        "id": 1010005,
+        "title": "Visbanes",
+        "tips": "Monsters arising from the Source Layer, with an indiscriminate urge to attack any form of civilization.\nWhat causes Visbanes to appear is unknown. In recent years certain types able to create Source Layer fissures have appeared, causing Quakes in the process.",
+        "loading_picture": "loading_8"
+    },
+    "1010006": {
+        "id": 1010006,
+        "title": "Modifier Arrival",
+        "tips": "Some Modifiers awaken in the form of a human infant, with a similar lack of knowledge. Any Access Key they possess will be inactive.\nWhen they awaken, Modifiers are infused with power and an understanding of their mission, and their bodies stop growing.",
+        "loading_picture": "loading_4"
+    },
+    "1010101": {
+        "id": 1010101,
+        "title": "",
+        "tips": "For the best gaming experience, Admins can choose their own graphics options via the Settings screen.",
+        "loading_picture": "loading_11"
+    },
+    "all": [
+        1010001,
+        1010002,
+        1010003,
+        1010004,
+        1010005,
+        1010006,
+        1010101
+    ]
+}

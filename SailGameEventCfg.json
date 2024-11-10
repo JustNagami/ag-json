@@ -1,0 +1,160 @@
+{
+    "111": {
+        "name": "Let's Spar",
+        "stage_id": 5110201,
+        "type": 1,
+        "picture": "1035",
+        "desc": "\"Wow! It's been a long time since I've met an adventurer as powerful as you. Come have a match-up with me!\"",
+        "activity_id": 182151,
+        "id": 111,
+        "weight": 20,
+        "tip": [
+            "Did a crocodile just come flying out from the sea?! It nearly gave me a heart attack!"
+        ]
+    },
+    "112": {
+        "name": "A Familiar Feeling",
+        "stage_id": 5110202,
+        "type": 1,
+        "picture": "1019",
+        "desc": "\"Where did this impetuous adventurer come from? Don't you know that it's dangerous to wander in uninhabited waters like this? Let me teach you some rules for survival here!\"",
+        "activity_id": 182151,
+        "id": 112,
+        "weight": 20,
+        "tip": [
+            "Such a serious and familiar tone..."
+        ]
+    },
+    "113": {
+        "name": "Tummy Growling",
+        "stage_id": 5110203,
+        "type": 1,
+        "picture": "1080",
+        "desc": "\"I'm so hungry... There's less and less food here. Would you help me hunt for some food?\"",
+        "activity_id": 182151,
+        "id": 113,
+        "weight": 20,
+        "tip": [
+            "Does hunger happen in the seas, too?"
+        ]
+    },
+    "114": {
+        "name": "Girl in Trouble",
+        "stage_id": 5110204,
+        "type": 1,
+        "picture": "1039",
+        "desc": "\"O mighty adventurer, my home has been intruded upon by bandits who have come out of nowhere. Would you help evict them from my home?\"",
+        "activity_id": 182151,
+        "id": 114,
+        "weight": 20,
+        "tip": [
+            "She finally know what it feels like to be saved by the hero!"
+        ]
+    },
+    "115": {
+        "name": "Where to Go",
+        "stage_id": 5110205,
+        "type": 1,
+        "picture": "1027",
+        "desc": "\"Why am I here? I don't know... Wow, a lot of bad guys suddenly appeared on the way home. Would you drive them away and take me home?\"",
+        "activity_id": 182151,
+        "id": 115,
+        "weight": 20,
+        "tip": [
+            "Hey... Don't stray too far from home now, good child."
+        ]
+    },
+    "121": {
+        "name": "Fishing Rod Test",
+        "stage_id": 0,
+        "type": 2,
+        "picture": "1026",
+        "desc": "\"The adventurer over there! Yes, you. Would you help me test this fishing rod? I need data from it to create an effective response strategy. You'll get a reward after the task is completed.\" ",
+        "activity_id": 182151,
+        "id": 121,
+        "weight": 35,
+        "tip": [
+            "A fish fishing... What a novel experience!"
+        ]
+    },
+    "131": {
+        "name": "Not a Simple Game",
+        "stage_id": 0,
+        "type": 3,
+        "picture": "1048",
+        "desc": "\"Hey, brave adventurer... Which pearl did you drop, the pink one, the white one, or the black one? Heh heh... How about playing a little game? I'll give it to you if you win.\"",
+        "activity_id": 182151,
+        "id": 131,
+        "weight": 30,
+        "tip": [
+            "Today is a lucky day.",
+            "Heh, today's been a really fruitful day!",
+            "Let's leave the bad luck behind here. That should ensure that the rest of the journey will be smooth!"
+        ]
+    },
+    "141": {
+        "name": "Maritime Trade",
+        "stage_id": 0,
+        "type": 4,
+        "picture": "1032",
+        "desc": "\"What I bring to you, and the value you can bring me, should satisfy both you and me.\"",
+        "activity_id": 182151,
+        "id": 141,
+        "weight": 18,
+        "tip": [
+            "So, was that a good deal or a bad one...?"
+        ]
+    },
+    "151": {
+        "name": "With All Sincerity",
+        "stage_id": 0,
+        "type": 5,
+        "picture": "1084",
+        "desc": "\"Are you the adventurer that my friends have been talking about? I thought I might meet you, which is why I've specially prepared a gift for you and have been carrying it on me.\"",
+        "activity_id": 182151,
+        "id": 151,
+        "weight": 28,
+        "tip": [
+            "Captain Skadi will place this gift in the center of the table, inside the captain's cabin!"
+        ]
+    },
+    "161": {
+        "name": "A Fabulous Encounter",
+        "stage_id": 0,
+        "type": 6,
+        "picture": "1111",
+        "desc": "\"Oh? Are you the adventurer they talk about? You don't look anything special... I am the Auau fish, the greatest in these uninhabited seas.\"",
+        "activity_id": 182151,
+        "id": 161,
+        "weight": 23,
+        "tip": [
+            "I keep feeling like something terrible would've happened if I hadn't answered properly just now..."
+        ]
+    },
+    "get_id_list_by_activity_id": {
+        "182151": [
+            111,
+            112,
+            113,
+            114,
+            115,
+            121,
+            131,
+            141,
+            151,
+            161
+        ]
+    },
+    "all": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        121,
+        131,
+        141,
+        151,
+        161
+    ]
+}

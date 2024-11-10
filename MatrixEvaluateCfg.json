@@ -1,0 +1,380 @@
+{
+    "103": {
+        "id": 103,
+        "class": 1,
+        "value": 7,
+        "title": "Methodical",
+        "condition": "Spend less than 50 minutes on this playthrough"
+    },
+    "104": {
+        "id": 104,
+        "class": 2,
+        "value": 105,
+        "title": "No Time To Stop",
+        "condition": "Spend less than 30 minutes on this playthrough"
+    },
+    "105": {
+        "id": 105,
+        "class": 2,
+        "value": 205,
+        "title": "Busy Mods",
+        "condition": "Spend less than 20 minutes on this playthrough"
+    },
+    "106": {
+        "id": 106,
+        "class": 3,
+        "value": 406,
+        "title": "Faster Than Hermes",
+        "condition": "Spend less than 15 minutes on this playthrough"
+    },
+    "101": {
+        "id": 101,
+        "class": 1,
+        "value": 1,
+        "title": "The End Is Just The Beginning",
+        "condition": "Clear Dimensional Variable playthrough"
+    },
+    "102": {
+        "id": 102,
+        "class": 1,
+        "value": 2,
+        "title": "Display Of Greatness",
+        "condition": "Clear Dimensional Variable playthrough on Hard"
+    },
+    "201": {
+        "id": 201,
+        "class": 1,
+        "value": 6,
+        "title": "It All Adds Up",
+        "condition": "Gain 3,000 Treasure Coins"
+    },
+    "202": {
+        "id": 202,
+        "class": 1,
+        "value": 8,
+        "title": "Well Off",
+        "condition": "Gain 4,000 Treasure Coins"
+    },
+    "203": {
+        "id": 203,
+        "class": 2,
+        "value": 104,
+        "title": "Tyr's One Minute Gain",
+        "condition": "Gain 5,000 Treasure Coins"
+    },
+    "204": {
+        "id": 204,
+        "class": 3,
+        "value": 204,
+        "title": "Super-Rich",
+        "condition": "Gain 6,000 Treasure Coins"
+    },
+    "303": {
+        "id": 303,
+        "class": 3,
+        "value": 405,
+        "title": "Obsessed",
+        "condition": "Haven't selected any Aether Code stage"
+    },
+    "403": {
+        "id": 403,
+        "class": 3,
+        "value": 404,
+        "title": "Unarmed",
+        "condition": "Haven't selected any Sigil stage"
+    },
+    "503": {
+        "id": 503,
+        "class": 3,
+        "value": 403,
+        "title": "One-Winged Angel",
+        "condition": "Haven't selected any Functor stage"
+    },
+    "603": {
+        "id": 603,
+        "class": 3,
+        "value": 402,
+        "title": "Money Isn't Everything",
+        "condition": "Haven't selected any Coin stage"
+    },
+    "703": {
+        "id": 703,
+        "class": 3,
+        "value": 401,
+        "title": "It's My Life",
+        "condition": "Haven't selected any Opportunity stage"
+    },
+    "301": {
+        "id": 301,
+        "class": 1,
+        "value": 106,
+        "title": "Minor Achievement",
+        "condition": "Select an Aether Code stage 5 times"
+    },
+    "302": {
+        "id": 302,
+        "class": 2,
+        "value": 301,
+        "title": "Descended From Heaven",
+        "condition": "Select an Aether Code stage 8 times"
+    },
+    "401": {
+        "id": 401,
+        "class": 1,
+        "value": 107,
+        "title": "Fish In Water",
+        "condition": "Select a Sigil stage 4 times"
+    },
+    "402": {
+        "id": 402,
+        "class": 2,
+        "value": 302,
+        "title": "Armed To The Teeth",
+        "condition": "Select a Sigil stage 7 times"
+    },
+    "501": {
+        "id": 501,
+        "class": 1,
+        "value": 108,
+        "title": "Bosom Buddies",
+        "condition": "Select a Normal Functor stage 4 times"
+    },
+    "502": {
+        "id": 502,
+        "class": 2,
+        "value": 303,
+        "title": "By My Side",
+        "condition": "Select an Elite Functor stage 2 times"
+    },
+    "601": {
+        "id": 601,
+        "class": 1,
+        "value": 109,
+        "title": "Gold Digger",
+        "condition": "Select a Coin stage 5 times"
+    },
+    "602": {
+        "id": 602,
+        "class": 2,
+        "value": 304,
+        "title": "One Piece",
+        "condition": "Select an Elite Coin stage 4 times"
+    },
+    "701": {
+        "id": 701,
+        "class": 1,
+        "value": 110,
+        "title": "Perfect Opportunity",
+        "condition": "Select an Opportunity stage 4 times"
+    },
+    "702": {
+        "id": 702,
+        "class": 2,
+        "value": 305,
+        "title": "World Line Observer",
+        "condition": "Select an Opportunity stage 7 times"
+    },
+    "801": {
+        "id": 801,
+        "class": 1,
+        "value": 5,
+        "title": "Steely Resolve",
+        "condition": "Heal the team a total of 50,000"
+    },
+    "802": {
+        "id": 802,
+        "class": 1,
+        "value": 103,
+        "title": "Rejuvenation",
+        "condition": "Heal the team a total of 100,000"
+    },
+    "803": {
+        "id": 803,
+        "class": 2,
+        "value": 203,
+        "title": "Superfoods",
+        "condition": "Heal the team a total of 300,000"
+    },
+    "804": {
+        "id": 804,
+        "class": 3,
+        "value": 306,
+        "title": "Immortal Heroes",
+        "condition": "Heal the team a total of 500,000"
+    },
+    "904": {
+        "id": 904,
+        "class": 3,
+        "value": 307,
+        "title": "No Sweat",
+        "condition": "DMG taken by team reaches 600,000"
+    },
+    "901": {
+        "id": 901,
+        "class": 1,
+        "value": 4,
+        "title": "Easy Peasy",
+        "condition": "DMG taken by team is less than 200,000"
+    },
+    "902": {
+        "id": 902,
+        "class": 2,
+        "value": 102,
+        "title": "Dancer On The Battlefield",
+        "condition": "DMG taken by team is less than 100,000"
+    },
+    "903": {
+        "id": 903,
+        "class": 3,
+        "value": 202,
+        "title": "You Are So Good",
+        "condition": "DMG taken by team is less than 50,000"
+    },
+    "805": {
+        "id": 805,
+        "class": 3,
+        "value": 407,
+        "title": "Forgotten Something?",
+        "condition": "Clear the playthrough without any healing to the team"
+    },
+    "1001": {
+        "id": 1001,
+        "class": 2,
+        "value": 111,
+        "title": "Penitent ",
+        "condition": "Clear the playthrough after losing 3 battles"
+    },
+    "1002": {
+        "id": 1002,
+        "class": 3,
+        "value": 206,
+        "title": "To Try Is To Die",
+        "condition": "Clear the playthrough after losing 10 battles"
+    },
+    "1003": {
+        "id": 1003,
+        "class": 3,
+        "value": 308,
+        "title": "In One Go",
+        "condition": "Clear the playthrough without losing any battle"
+    },
+    "1101": {
+        "id": 1101,
+        "class": 1,
+        "value": 3,
+        "title": "Greedy Guts",
+        "condition": "Clear the playthrough with 10 Memory Treasures"
+    },
+    "1102": {
+        "id": 1102,
+        "class": 2,
+        "value": 101,
+        "title": "My Precious",
+        "condition": "Clear the playthrough with 15 Memory Treasures"
+    },
+    "1103": {
+        "id": 1103,
+        "class": 3,
+        "value": 201,
+        "title": "I Want Them All",
+        "condition": "Clear the playthrough with 20 Memory Treasures"
+    },
+    "1201": {
+        "id": 1201,
+        "class": 3,
+        "value": 410,
+        "title": "Useless",
+        "condition": "Clear the playthrough without obtaining any Functor"
+    },
+    "1301": {
+        "id": 1301,
+        "class": 3,
+        "value": 412,
+        "title": "Defeated The Game Designers",
+        "condition": "Clear the playthrough without obtaining any Aether Code"
+    },
+    "1401": {
+        "id": 1401,
+        "class": 3,
+        "value": 411,
+        "title": "Godlike!",
+        "condition": "Clear the playthrough without obtaining any Sigil"
+    },
+    "1501": {
+        "id": 1501,
+        "class": 1,
+        "value": 9,
+        "title": "Weight Training",
+        "condition": "Clear the playthrough on Hard at Difficulty Rating 5"
+    },
+    "1502": {
+        "id": 1502,
+        "class": 2,
+        "value": 112,
+        "title": "Laugh In The Face Of Danger",
+        "condition": "Clear the playthrough on Hard at Difficulty Rating 10"
+    },
+    "1503": {
+        "id": 1503,
+        "class": 3,
+        "value": 408,
+        "title": "Fearless",
+        "condition": "Clear the playthrough on Hard at Difficulty Rating 15"
+    },
+    "1601": {
+        "id": 1601,
+        "class": 3,
+        "value": 409,
+        "title": "New Here?",
+        "condition": "Clear the playthrough without selecting any buffs on the Dimensional Terminal"
+    },
+    "all": [
+        103,
+        104,
+        105,
+        106,
+        101,
+        102,
+        201,
+        202,
+        203,
+        204,
+        303,
+        403,
+        503,
+        603,
+        703,
+        301,
+        302,
+        401,
+        402,
+        501,
+        502,
+        601,
+        602,
+        701,
+        702,
+        801,
+        802,
+        803,
+        804,
+        904,
+        901,
+        902,
+        903,
+        805,
+        1001,
+        1002,
+        1003,
+        1101,
+        1102,
+        1103,
+        1201,
+        1301,
+        1401,
+        1501,
+        1502,
+        1503,
+        1601
+    ]
+}

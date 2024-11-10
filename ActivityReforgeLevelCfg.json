@@ -1,0 +1,338 @@
+{
+    "1001": {
+        "description": "Through this training provided by the Cryptics, we will acquaint ourselves with the basic combat mechanics of Crisis Calculation.",
+        "name": "Crisis Rehearsal: Prologue - 1",
+        "level_id": 1001,
+        "reward_money": 100,
+        "wave_list": [
+            10011,
+            10012
+        ],
+        "team_list": [
+            10001,
+            10002
+        ],
+        "ban_skill_list": [
+            6001
+        ],
+        "free_skill_list": []
+    },
+    "1002": {
+        "description": "Through this training provided by the Cryptics, we will acquaint ourselves with the special effects of the Lock function in Crisis Calculation.",
+        "name": "Crisis Rehearsal: Prologue - 2",
+        "level_id": 1002,
+        "reward_money": 100,
+        "wave_list": [
+            10013,
+            10014
+        ],
+        "team_list": [
+            10003,
+            10004
+        ],
+        "ban_skill_list": [
+            6001
+        ],
+        "free_skill_list": []
+    },
+    "1003": {
+        "description": "Through this training provided by the Cryptics, we will acquaint ourselves with the use of tactical skills in Crisis Calculation.",
+        "name": "Crisis Rehearsal: Prologue - 3",
+        "level_id": 1003,
+        "reward_money": 100,
+        "wave_list": [
+            10015,
+            10016,
+            10017
+        ],
+        "team_list": [
+            10005,
+            10006,
+            10007
+        ],
+        "ban_skill_list": [
+            6001
+        ],
+        "free_skill_list": []
+    },
+    "1004": {
+        "description": "We will run a combat simulation against Visbanes of various characteristics.",
+        "name": "Crisis Rehearsal: Prologue - 4",
+        "level_id": 1004,
+        "reward_money": 100,
+        "wave_list": [
+            10018,
+            10019
+        ],
+        "team_list": [
+            10008,
+            10009
+        ],
+        "ban_skill_list": [
+            6001
+        ],
+        "free_skill_list": []
+    },
+    "1005": {
+        "description": "We will run a final rehearsal before actual combat begins to acquaint ourselves with the key operational points in different combat scenarios.",
+        "name": "Crisis Rehearsal: Prologue - 5",
+        "level_id": 1005,
+        "reward_money": 100,
+        "wave_list": [
+            10020,
+            10021,
+            10022
+        ],
+        "team_list": [
+            10010,
+            10011,
+            10012
+        ],
+        "ban_skill_list": [
+            6001
+        ],
+        "free_skill_list": []
+    },
+    "1006": {
+        "description": "Shashvat and Ain Soph have been attacked by Visbanes at the same time. CORG's engineers are heading to the Source Layer to establish a communications line between the two to facilitate the coordination of their defenses. Our task is to escort the engineering team to the Source Layer.",
+        "name": "Crisis Rehearsal: Chapter 1 - 1",
+        "level_id": 1006,
+        "reward_money": 150,
+        "wave_list": [
+            10023,
+            10024,
+            10025,
+            10026
+        ],
+        "team_list": [
+            10013,
+            10014,
+            10015,
+            10016
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1007": {
+        "description": "The CORG engineering team was ambushed by Visbanes on their way to Shashvat and are now trapped in Camp M-05. Reinforcements have been sent to assist them. Our task is to assist the engineering team in defending the camp until the reinforcements arrive.",
+        "name": "Crisis Rehearsal: Chapter 1 - 2",
+        "level_id": 1007,
+        "reward_money": 150,
+        "wave_list": [
+            10027,
+            10028,
+            10029
+        ],
+        "team_list": [
+            10017,
+            10018,
+            10019
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1008": {
+        "description": "The number of Visbanes around Camp M-05 has dramatically increased due to the effects of two space warps nearby. The reinforcements are unable to reach the engineering team as a result. Our task is to help the reinforcements remove the obstacles that lie between them and the camp.",
+        "name": "Crisis Rehearsal: Chapter 1 - 3",
+        "level_id": 1008,
+        "reward_money": 150,
+        "wave_list": [
+            10030,
+            10031,
+            10032,
+            10033
+        ],
+        "team_list": [
+            10020,
+            10021,
+            10022,
+            10023
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1009": {
+        "description": "CORG's quick-response troops have taken charge of Camp M-05 and its defense line. The CORG engineering team and its reinforcements will soon set off for Shashvat. We are to assist them as they continue working on the communications line.",
+        "name": "Crisis Rehearsal: Chapter 1 - 4",
+        "level_id": 1009,
+        "reward_money": 150,
+        "wave_list": [
+            10034,
+            10035,
+            10036,
+            10037
+        ],
+        "team_list": [
+            10024,
+            10025,
+            10026,
+            10027
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1010": {
+        "description": "The 4th Area in Ain Soph has been plagued by highly resistant Visbanes in small scale. Our task is to help CORG deploy defenses in the urban area and investigate the source of these incursions.",
+        "name": "Crisis Rehearsal: Chapter 2 - 1",
+        "level_id": 1010,
+        "reward_money": 450,
+        "wave_list": [
+            10038,
+            10039,
+            10040,
+            10041
+        ],
+        "team_list": [
+            10028,
+            10029,
+            10030,
+            10031
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1011": {
+        "description": "Sightings of highly resistant Visbanes have been reported at several locations within the urban area. CORG has homed in on an area of high Bane Energy concentration\u2014Bane Energy Concentration Point B-03\u2014in the Source Layer and is now preparing for an offensive operation with Main Camp I-00 as its base. Our mission is to provide assistance.",
+        "name": "Crisis Rehearsal: Chapter 2 - 2",
+        "level_id": 1011,
+        "reward_money": 450,
+        "wave_list": [
+            10042,
+            10043,
+            10044,
+            10045,
+            10046
+        ],
+        "team_list": [
+            10032,
+            10033,
+            10034,
+            10035,
+            10036
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1012": {
+        "description": "CORG's soldiers are ready to go. Assembly work on the Divine Grace Cannon at Main Camp I-00 is also about to be completed. The Cryptics have also calibrated DreamLink, which is now ready for use at any time. Our task is to defend the camp until the combat preparations are complete.",
+        "name": "Crisis Rehearsal: Chapter 2 - 3",
+        "level_id": 1012,
+        "reward_money": 450,
+        "wave_list": [
+            10047,
+            10048,
+            10049,
+            10050,
+            10051
+        ],
+        "team_list": [
+            10037,
+            10038,
+            10039,
+            10040,
+            10041
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": [
+            1005
+        ]
+    },
+    "1013": {
+        "description": "The Visbane attack has halted now that the Divine Grace Cannon is in use. Instead, the Visbanes have pulled back into a defensive position at Bane Energy Concentration Point B-03, under the cover of a Bane Energy barrier. The barrier is rapidly gaining strength. Our task is to take down the Bane Energy barrier and assist CORG in their assault.",
+        "name": "Crisis Rehearsal: Chapter 2 - 4",
+        "level_id": 1013,
+        "reward_money": 450,
+        "wave_list": [
+            10052,
+            10053,
+            10054,
+            10055,
+            10056
+        ],
+        "team_list": [
+            10042,
+            10043,
+            10044,
+            10045,
+            10046
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1014": {
+        "description": "Rostach's biggest AGI Mecha manufacturing facility has been penetrated by Visbanes, which annihilated the CORG patrol team there. We have been instructed to head to the target facility to conduct an investigation.",
+        "name": "Crisis Rehearsal: Chapter 3 - 1",
+        "level_id": 1014,
+        "reward_money": 1600,
+        "wave_list": [
+            10057,
+            10058,
+            10059
+        ],
+        "team_list": [
+            10047,
+            10048,
+            10049
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1015": {
+        "description": "Things have gone out of control at the target facility and a large number of Visbanes are now advancing towards various major cities in Neuhansa. Their intentions are unknown. CORG is now establishing temporary defense lines to deal with the enemy attack. Our task is to divert the attention of the Visbanes to give CORG more time to work on the defense lines.",
+        "name": "Crisis Rehearsal: Chapter 3 - 2",
+        "level_id": 1015,
+        "reward_money": 1600,
+        "wave_list": [
+            10060,
+            10061,
+            10062
+        ],
+        "team_list": [
+            10050,
+            10051,
+            10052
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1016": {
+        "description": "The temporary defense lines have effectively curbed the Visbane attack, and the main attack force has surrounded all affected areas in Neuhansa and the Visbanes. Our task is to destroy the target facility. Long-range firepower support has been made available for our use.",
+        "name": "Crisis Rehearsal: Chapter 3 - 3",
+        "level_id": 1016,
+        "reward_money": 1600,
+        "wave_list": [
+            10063,
+            10064,
+            10065,
+            10066
+        ],
+        "team_list": [
+            10053,
+            10054,
+            10055,
+            10056
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": [
+            1001
+        ]
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016
+    ]
+}

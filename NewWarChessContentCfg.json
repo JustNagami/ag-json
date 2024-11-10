@@ -1,0 +1,95 @@
+{
+    "10001": {
+        "id": 10001,
+        "name": "AGI Mecha Decryption",
+        "content": "The secretary AGI Mecha responsible for managing this area. It's currently powered down. <color=#FF9500>Connect all picture passwords</color> in one go to restart it.",
+        "icon": "40117"
+    },
+    "10002": {
+        "id": 10002,
+        "name": "Avoid the Roadblocks",
+        "content": "The secretary AGI Mecha responsible for managing this area. As it's running low on power, you'll need to plan your route using the <color=#FF9500>digital prompts on the ground</color>.",
+        "icon": "40117"
+    },
+    "10003": {
+        "id": 10003,
+        "name": "Scattered Equipment",
+        "content": "Vital equipment scattered all over the factory floor thanks to the AGI Mecha riot. Find them and use them to get the factory back up and running again, and it will also <color=#FF9500>increase your exploration progress</color>.",
+        "icon": "40108"
+    },
+    "10004": {
+        "id": 10004,
+        "name": "Emergency",
+        "content": "The factory has been prone to all kinds of emergency events since the AGI Mecha riot. Deal with the emergencies to get resources and <color=#FF9500>increase your exploration progress</color>.",
+        "icon": "40101"
+    },
+    "10005": {
+        "id": 10005,
+        "name": "Established Comms Station",
+        "content": "The backup team has made it to the Comms Station.\nYou can now <color=#FF9500>get supplies</color> here, <color=#FF9500>ask around</color> for information about the other stations\nor <color=#FF9500>teleport</color> to other Established Comms Stations using the recorded routes.",
+        "icon": "401021"
+    },
+    "10006": {
+        "id": 10006,
+        "name": "Non-established Comms Station",
+        "content": "Secure coordinates for establishing a Comms Station. You can establish a station here to advance your <color=#FF9500>main progress</color> in this exploration mission. You'll also obtain <color=#FF9500>new teammates</color> and <color=#FF9500>exploration items</color> that will help you explore the current area.",
+        "icon": "40102"
+    },
+    "10007": {
+        "id": 10007,
+        "name": "Master Console",
+        "content": "If you have the right access card, you can spend resources to activate the facility.\n\n<color=#FF9500>When activated: Tap it to reverse the status of all facilities within 1 tile.</color>",
+        "icon": "30212"
+    },
+    "10008": {
+        "id": 10008,
+        "name": "Elevators",
+        "content": "If you have the right access card, you can spend resources to activate the facility.\n\n<color=#FF9500>When activated: Enables teammates to move between high and low ground.</color>",
+        "icon": "30204"
+    },
+    "10009": {
+        "id": 10009,
+        "name": "Thruster",
+        "content": "If you have the right access card, you can spend resources to activate the facility.\n\n<color=#FF9500>When activated: Jumps teammates forward 2 tiles.</color>",
+        "icon": "30210"
+    },
+    "10010": {
+        "id": 10010,
+        "name": "Sturdy Boxes",
+        "content": "A shipping container made by Spealght. Requires an enormous amount of force to break.",
+        "icon": "30207"
+    },
+    "10011": {
+        "id": 10011,
+        "name": "Recycling Pipeline",
+        "content": "If you have the right access card, you can spend resources to activate the facility.\n\n<color=#FF9500>When activated: Closes the pipe so your teammates can pass through.</color>",
+        "icon": "30206"
+    },
+    "10012": {
+        "id": 10012,
+        "name": "Mimir Hint ",
+        "content": "If you find you can't move any further, <color=#FF9500>tap the Comms Station</color> to <color=#FF9500>teleport</color>.",
+        "icon": "40104"
+    },
+    "10013": {
+        "id": 10013,
+        "name": "Mimir Hint ",
+        "content": "If you're unsure what to do next, <color=#FF9500>tap the mission name for tips</color>.",
+        "icon": "40104"
+    },
+    "all": [
+        10001,
+        10002,
+        10003,
+        10004,
+        10005,
+        10006,
+        10007,
+        10008,
+        10009,
+        10010,
+        10011,
+        10012,
+        10013
+    ]
+}

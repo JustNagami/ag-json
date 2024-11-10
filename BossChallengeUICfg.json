@@ -1,0 +1,5005 @@
+{
+    "30083009": {
+        "main_name": "Zero One & Olheim",
+        "icon": "Bgbc30083009",
+        "ID": 30083009,
+        "descripe": "An undisciplined youth and an icy assassin that often rely on wholly unexpected methods of attack in combat. ",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            3008,
+            3009
+        ],
+        "model_pos": [
+            [
+                0.8,
+                -182.9,
+                -1
+            ],
+            [
+                -0.55,
+                -182.9,
+                -0.5
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                25,
+                0
+            ],
+            [
+                -2.09,
+                -25,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1.05,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            124,
+            3,
+            0
+        ]
+    },
+    "30123019": {
+        "main_name": "Metabane & Warbane",
+        "icon": "Bgbc30123019",
+        "ID": 30123019,
+        "descripe": "Polymerized-type Visbanes that appear simultaneously. Good at using clones to fight and are extremely dangerous. ",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            3012,
+            3019
+        ],
+        "model_pos": [
+            [
+                -0.78,
+                -184,
+                -1.56
+            ],
+            [
+                0.42,
+                -183.7,
+                -2.85
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                22.5,
+                0
+            ],
+            [
+                0,
+                -35.92,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            124,
+            3,
+            0
+        ]
+    },
+    "30213022": {
+        "main_name": "Purifier & Pilgrim",
+        "icon": "Bgbc30213022",
+        "ID": 30213022,
+        "descripe": "Special entities that appear during Quakes, they are remnants of the Soul Replenishment Plan. ",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            3021,
+            3022
+        ],
+        "model_pos": [
+            [
+                -1,
+                -184.5,
+                -4.6
+            ],
+            [
+                0.57,
+                -184.37,
+                -1.9
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                8.47,
+                0
+            ],
+            [
+                0,
+                -2.82,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            124,
+            3,
+            0
+        ]
+    },
+    "401001": {
+        "main_name": "Ethan",
+        "icon": "Bgbc4010",
+        "ID": 401001,
+        "descripe": "A man who lost all his memories and woke up in some ancient ruins, on a pile of rubble and spare parts. 80% of his body tissues have been changed into machinery.",
+        "weakness": "",
+        "boss_id_list": [
+            4010
+        ],
+        "appear_ani": [
+            "stand"
+        ],
+        "model_pos": [
+            [
+                0.23,
+                -182.84,
+                0.16
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            124,
+            3,
+            0
+        ]
+    },
+    "401201": {
+        "main_name": "Kusherfang",
+        "icon": "Bgbc4012",
+        "ID": 401201,
+        "descripe": "The original design of a human-shaped B-01 was abandoned. At last, Kusherfang was modified into the form of a centaur, equipped with a giant halberd.",
+        "weakness": "",
+        "boss_id_list": [
+            4012
+        ],
+        "appear_ani": [
+            "attack1"
+        ],
+        "model_pos": [
+            [
+                0.13,
+                -188.84,
+                -19
+            ]
+        ],
+        "model_rot": [
+            [
+                -6.45,
+                30,
+                -1.62
+            ]
+        ],
+        "model_scale": [
+            [
+                1.1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            124,
+            3,
+            0
+        ]
+    },
+    "401301": {
+        "main_name": "Halphas",
+        "icon": "Bgbc4013",
+        "ID": 401301,
+        "descripe": "Halphas is a Cognizant-type Visbane that appeared in the Source Layer of the Neuhansa District. It was heavily affected by the industrialization on the Surface Layer and has a massive mechanical body.",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            4013
+        ],
+        "model_pos": [
+            [
+                0.22,
+                -186.7,
+                -16
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                -35,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            124,
+            3,
+            0
+        ]
+    },
+    "401401": {
+        "main_name": "Orochi",
+        "icon": "Bgbc4014",
+        "ID": 401401,
+        "descripe": "Dressed in the splendid garments of a kabuki, her eyes show nothing but contempt for all things, and she is always accompanied by giant snakes.",
+        "weakness": "",
+        "boss_id_list": [
+            4014
+        ],
+        "appear_ani": [
+            "skill3"
+        ],
+        "model_pos": [
+            [
+                0,
+                -183.7,
+                -2.7
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                -3.68,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            124,
+            3,
+            0
+        ]
+    },
+    "401501": {
+        "main_name": "The Singer",
+        "icon": "Bgbc4015",
+        "ID": 401501,
+        "descripe": "Humanoid Visbane. Looks more like a mermaid and is often accompanied by a Visbanic whale.",
+        "weakness": "",
+        "boss_id_list": [
+            4015
+        ],
+        "appear_ani": [
+            "skill3_1"
+        ],
+        "model_pos": [
+            [
+                0,
+                -183.94,
+                -2.78
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                -1.77,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            124,
+            3,
+            0
+        ]
+    },
+    "401601": {
+        "model_rot": "",
+        "main_name": "Akika",
+        "icon": "Bgbc4016",
+        "model_scale": "",
+        "ID": 401601,
+        "model_rot_limit": "",
+        "custom_affix": "",
+        "descripe": "Reserved for Copy",
+        "appear_ani": "",
+        "weakness": "",
+        "model_pos": "",
+        "boss_id_list": [
+            4016
+        ]
+    },
+    "402001": {
+        "main_name": "Haagenti",
+        "icon": "Bgbc4020",
+        "ID": 402001,
+        "descripe": "A very rare Behemoth Type Visbane among all observed Visbanes, codenamed \"Haagenti\". The cause of its formation is unknown for the time being.\nIt is assumed that it's formed as a result of the massive engulfment of Source Layer material by the Visbane. It is quite large and possesses destructive power that exceeds that of ordinary Visbanes.",
+        "weakness": "",
+        "boss_id_list": [
+            4020
+        ],
+        "appear_ani": [
+            "rage"
+        ],
+        "model_pos": [
+            [
+                -0.1,
+                -185.67,
+                -10.458
+            ]
+        ],
+        "model_rot": [
+            [
+                -5.9,
+                -45,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            124,
+            3,
+            0
+        ]
+    },
+    "402101": {
+        "main_name": "Bifrons",
+        "icon": "Bgbc4021",
+        "ID": 402101,
+        "descripe": "A unique Behemoth Type Visbane resembling a cyclops. Both its hands seem to contain mountains of energy.",
+        "weakness": "",
+        "boss_id_list": [
+            4021
+        ],
+        "appear_ani": [
+            "skill6"
+        ],
+        "model_pos": [
+            [
+                0.3,
+                -187.5,
+                -13.95
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                40,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1.05,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            124,
+            3,
+            0
+        ]
+    },
+    "402801": {
+        "main_name": "Dark Metal",
+        "icon": "Bgbc4028",
+        "ID": 402801,
+        "descripe": "This type of military mecha utilizes the most advanced AI technology and a new-developed propulsion system, allowing it to cope with a wide variety of complex battlefield situations and providing extreme mobility.",
+        "weakness": "",
+        "boss_id_list": [
+            4028
+        ],
+        "appear_ani": [
+            "skill4_1"
+        ],
+        "model_pos": [
+            [
+                0.4,
+                -186.81,
+                -10.6
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                40,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9713,
+            1,
+            0
+        ]
+    },
+    "402902": {
+        "main_name": "Visbanic Dark Metal",
+        "icon": "Bgbc4029",
+        "ID": 402902,
+        "descripe": "A giant weapon that was corrupted by Bane Energy in the Quakes. It showed more of the characteristics of Visbane compared to machinery, and became incomparably berserk.\nAfter the drive energy was changed to Bane Energy, its combat ability was greatly improved, and ordinary attacks could not cause damage to it.",
+        "weakness": "",
+        "boss_id_list": [
+            4029
+        ],
+        "appear_ani": [
+            "skill6_4"
+        ],
+        "model_pos": [
+            [
+                0.4,
+                -186.81,
+                -10.6
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                40,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9713,
+            1,
+            0
+        ]
+    },
+    "403101": {
+        "main_name": "Uld",
+        "icon": "Bgbc4031",
+        "ID": 403101,
+        "descripe": "Conceived from the Paracaesar's Project Forgetower, it is an Artificial Modifier with the ability to control the \"past.\"\n\"None can escape the destiny that's been set for them. The time has come to meet the ending I've written for you.\"",
+        "weakness": "",
+        "boss_id_list": [
+            4031
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                0,
+                -184.54,
+                -6.3
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                22,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9715,
+            1,
+            0
+        ]
+    },
+    "402501": {
+        "main_name": "Ladon",
+        "icon": "Bgbc4025",
+        "ID": 402501,
+        "descripe": "A Visbane born in Omorfies, he has the appearance of a mythical dragon.\n\"Get ready to meet the mighty Ladon in his true form!\"",
+        "weakness": "",
+        "boss_id_list": [
+            4025
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                -0.56,
+                -187.76,
+                -20
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                15,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9717,
+            1,
+            0
+        ]
+    },
+    "40264027": {
+        "main_name": "Siren",
+        "icon": "Bgbc40264027",
+        "ID": 40264027,
+        "descripe": "A Behemoth-type Visbane that appears near the Peripheral Sea who can direct the ocean's currents and control storms. ",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            4026
+        ],
+        "model_pos": [
+            [
+                1.5,
+                -185.7,
+                -17.7
+            ],
+            [
+                1,
+                -185,
+                -8.65
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                53,
+                0
+            ],
+            [
+                0,
+                -20,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                0.3,
+                0.3,
+                0.3
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            124,
+            3,
+            0
+        ]
+    },
+    "40234024": {
+        "main_name": "Athena",
+        "icon": "Bgbc4023",
+        "ID": 40234024,
+        "descripe": "The current commander of the Knights of Convallaria, she is a person of moral integrity who upholds the chivalric values of justice and loyalty. She has made it her lifelong mission to safeguard artistic order in Omorfies.",
+        "weakness": "",
+        "boss_id_list": [
+            4023
+        ],
+        "appear_ani": [
+            "skill5"
+        ],
+        "model_pos": [
+            [
+                0,
+                -182.1,
+                2.2
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            124,
+            3,
+            0
+        ]
+    },
+    "403601": {
+        "main_name": "Gremory",
+        "icon": "Bgbc4036",
+        "ID": 403601,
+        "descripe": "A Cognizant Visbane born in Xu Heng's Source Layer that has concealed itself in society for a while. It has used its beauty and intelligence to move up and thrive in the business world.",
+        "weakness": "",
+        "boss_id_list": [
+            4036
+        ],
+        "appear_ani": [
+            "stand"
+        ],
+        "model_pos": [
+            [
+                0.23,
+                -183.2,
+                0.16
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                0.75,
+                0.75,
+                0.75
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            124,
+            3,
+            0
+        ]
+    },
+    "301601": {
+        "main_name": "Quakes Crisis",
+        "icon": "Bgbc20373016",
+        "ID": 301601,
+        "descripe": "Affected by the aftershock of the Quakes, the Source Layer channel cannot be closed within a short time.\nIn order to overcome the crisis, please defeat the small Visbane group as soon as possible. Search for and destroy the high-level Visbane that are in command.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#E9E346>Light</color>",
+        "boss_id_list": [
+            2037,
+            3016
+        ],
+        "model_pos": [
+            [
+                1.5,
+                -183.2,
+                -4
+            ],
+            [
+                0,
+                -183.3,
+                -8
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                20,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9718,
+            1,
+            0
+        ]
+    },
+    "301901": {
+        "main_name": "Source Layer Lair",
+        "icon": "Bgbc20263019",
+        "ID": 301901,
+        "descripe": "Chase the Visbanes into the Source Layer Lair to exterminate them and the battle will be extremely rough.\nBe careful with the large number of Encroacher Type Visbanes and look out for attacks by high-risk Polymerized Type.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#A835D4>Thunder</color>",
+        "boss_id_list": [
+            2026,
+            2027,
+            3019
+        ],
+        "model_pos": [
+            [
+                2,
+                -182.9,
+                -6
+            ],
+            [
+                -1.5,
+                -182.9,
+                -6
+            ],
+            [
+                0.5,
+                -183.5,
+                -4
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                30,
+                0
+            ],
+            [
+                0,
+                -30,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9716,
+            1,
+            0
+        ]
+    },
+    "300601": {
+        "main_name": "AGI Mecha Legion",
+        "icon": "Bgbc20213006",
+        "ID": 300601,
+        "descripe": "The factory has been infested by the Visbanes. Take control back from the Visbane-corrupted AGI Mechas.\nVisbane-corrupted AGI Mechas are highly autonomous and will continue to produce small AGI Mechas. Eliminate them as soon as possible.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#4EE4CE>Ice</color>",
+        "boss_id_list": [
+            2021,
+            2022,
+            3006
+        ],
+        "model_pos": [
+            [
+                -0.6,
+                -182.9,
+                -7
+            ],
+            [
+                2,
+                -182.9,
+                -7
+            ],
+            [
+                0.7,
+                -183.2,
+                -6
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                30
+            ],
+            [
+                0,
+                0,
+                -30
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9719,
+            1,
+            0
+        ]
+    },
+    "301001": {
+        "main_name": "Security Squad",
+        "icon": "Bgbc20203010",
+        "ID": 301001,
+        "descripe": "The security team stationed here has severely affected the completion of the mission. Disable its combat ability as soon as possible.\nTarget has team fighting ability. If you are sieged, you will be in danger.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#8E6DE7>Shadow</color>",
+        "boss_id_list": [
+            2020,
+            2030,
+            3010
+        ],
+        "model_pos": [
+            [
+                -1,
+                -183,
+                -5
+            ],
+            [
+                2,
+                -183,
+                -4
+            ],
+            [
+                0.7,
+                -183.2,
+                -7
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -75,
+                0
+            ],
+            [
+                0,
+                10,
+                0
+            ],
+            [
+                0,
+                -25,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9717,
+            1,
+            0
+        ]
+    },
+    "303501": {
+        "main_name": "The Knights of Convallaria - Enforcer",
+        "icon": "Bgbc20493035",
+        "ID": 303501,
+        "descripe": "Compete with members of The Knights of Convallaria to show \"friendship\".\nIn order to guard the art of Omorfies, it is sometimes unavoidable to draw the sword.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#88E682>Wind</color>",
+        "boss_id_list": [
+            2049,
+            2050,
+            3035
+        ],
+        "model_pos": [
+            [
+                -1,
+                -182.9,
+                -3
+            ],
+            [
+                1,
+                -182.9,
+                -3
+            ],
+            [
+                0,
+                -182.8,
+                -1
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -75,
+                0
+            ],
+            [
+                0,
+                30,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1.12,
+                1.12,
+                1.12
+            ],
+            [
+                1.2,
+                1.2,
+                1.2
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9714,
+            1,
+            0
+        ]
+    },
+    "302001": {
+        "main_name": "Temple Defender",
+        "icon": "Bgbc20403020",
+        "ID": 302001,
+        "descripe": "Simulate the environment of an invasion combat to evaluate the combat level of the customized AGI Mecha.\nAs a temple of art in Omorfies, those who have no reverence for art will be turned away.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#F3751A>Fire</color>",
+        "boss_id_list": [
+            2040,
+            2041,
+            3020
+        ],
+        "model_pos": [
+            [
+                -1.5,
+                -183.5,
+                -4
+            ],
+            [
+                2.5,
+                -183.5,
+                -5
+            ],
+            [
+                0.7,
+                -183.8,
+                -3.5
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -105,
+                0
+            ],
+            [
+                0,
+                60,
+                0
+            ],
+            [
+                0,
+                -25,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9715,
+            1,
+            0
+        ]
+    },
+    "302501": {
+        "main_name": "Ceremony Chaos",
+        "icon": "Bgbc20653025",
+        "ID": 302501,
+        "descripe": "A riot breaks out on the stage of the festival. Protect the public while eliminate the Visbanes.\nCrisis often lurks underneath the beautiful exterior. Perhaps a dance is the beginning of chaos.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#8E6DE7>Shadow</color>",
+        "boss_id_list": [
+            2065,
+            2066,
+            3025
+        ],
+        "model_pos": [
+            [
+                -0.8,
+                -182.9,
+                -2
+            ],
+            [
+                1.75,
+                -182.9,
+                -2
+            ],
+            [
+                0.7,
+                -183.5,
+                -6
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -30,
+                0
+            ],
+            [
+                0,
+                60,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9717,
+            1,
+            0
+        ]
+    },
+    "303301": {
+        "main_name": "Bounty Squad",
+        "icon": "Bgbc20733033",
+        "ID": 303301,
+        "descripe": "Fight against Bounty Hunter at the abandoned station. Pay attention to the terrain and the enemy's autonomous weapons.\nThere are many ways to solve problems, but in Rostach, the only way to survive is to survive.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#F3751A>Fire</color>",
+        "boss_id_list": [
+            2073,
+            2074,
+            3033
+        ],
+        "model_pos": [
+            [
+                -1,
+                -182.9,
+                -1.5
+            ],
+            [
+                2,
+                -182.9,
+                -2
+            ],
+            [
+                0.4,
+                -183.2,
+                -5
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -60,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9715,
+            1,
+            0
+        ]
+    },
+    "300701": {
+        "main_name": "Sasanami Blade",
+        "icon": "Bgbc20573007",
+        "ID": 300701,
+        "descripe": "Sasanami is in turbulence. The hidden Source Layer Rift is opened, indicating the wrath of the speechless one.\nWandering through the phantoms of war and unable to free itself, this body has been drenched with scarlet blood.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#A835D4>Thunder</color>",
+        "boss_id_list": [
+            2057,
+            2058,
+            3007
+        ],
+        "model_pos": [
+            [
+                -0.6,
+                -182.9,
+                -2
+            ],
+            [
+                1,
+                -182.9,
+                -2
+            ],
+            [
+                0.5,
+                -183.8,
+                -8
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ],
+            [
+                0,
+                45,
+                0
+            ],
+            [
+                0,
+                -30,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                0.9,
+                0.9,
+                0.9
+            ],
+            [
+                0.9,
+                0.9,
+                0.9
+            ],
+            [
+                1.1,
+                1.1,
+                1.1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9716,
+            1,
+            0
+        ]
+    },
+    "300401": {
+        "main_name": "Miyahebi Guard",
+        "icon": "Bgbc20323004",
+        "ID": 300401,
+        "descripe": "Even though already a half-human, half-bane monster, he is still sworn to guard all the secrets of the Miyahebi family.\nAnyone who trespasses will be beheaded.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#EC5858>Physical</color>",
+        "boss_id_list": [
+            2032,
+            2033,
+            3004
+        ],
+        "model_pos": [
+            [
+                -0.8,
+                -183.2,
+                -5.5
+            ],
+            [
+                2.1,
+                -183.2,
+                -5
+            ],
+            [
+                0.5,
+                -183.5,
+                -4
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -60,
+                0
+            ],
+            [
+                0,
+                90,
+                0
+            ],
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1.2,
+                1.2,
+                1.2
+            ],
+            [
+                1.2,
+                1.2,
+                1.2
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9713,
+            1,
+            0
+        ]
+    },
+    "300911": {
+        "main_name": "Children of Iron",
+        "icon": "Bgbc30083009",
+        "ID": 300911,
+        "descripe": "An undisciplined youth and an icy assassin that often rely on wholly unexpected methods of attack in combat.\n\"You'd better not hinder me.\"\n\"Excuse me? I should say that to you. We'll see!\"",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#00B7E4>Water</color>",
+        "boss_id_list": [
+            3008,
+            3009
+        ],
+        "model_pos": [
+            [
+                0.8,
+                -182.9,
+                -1
+            ],
+            [
+                -0.55,
+                -182.9,
+                -0.5
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                25,
+                0
+            ],
+            [
+                -2.09,
+                -25,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1.05,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9720,
+            1,
+            0
+        ]
+    },
+    "302211": {
+        "main_name": "Soul Evolution",
+        "icon": "Bgbc30213022",
+        "ID": 302211,
+        "descripe": "Special entities that appear during Quakes, they are remnants of the Soul Replenishment Plan.\nWith souls and memories being tainted, they can no longer be defined as \"human\" and are just empty shells.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#8E6DE7>Shadow</color>",
+        "boss_id_list": [
+            3021,
+            3022
+        ],
+        "model_pos": [
+            [
+                -1,
+                -184.5,
+                -4.6
+            ],
+            [
+                0.57,
+                -184.37,
+                -1.9
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                8.47,
+                0
+            ],
+            [
+                0,
+                -2.82,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9717,
+            1,
+            0
+        ]
+    },
+    "301411": {
+        "main_name": "Miyahebi Secret",
+        "icon": "Bgbc30143017",
+        "ID": 301411,
+        "descripe": "The traveling painter and loyal vassal have gone long time ago, and now all that remains are obnoxious monsters.\nAfter the fire, there will be nothing left but ashes.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#A835D4>Thunder</color>",
+        "boss_id_list": [
+            3014,
+            3017
+        ],
+        "model_pos": [
+            [
+                0.8,
+                -182.9,
+                -1
+            ],
+            [
+                -0.55,
+                -182.9,
+                -0.5
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                25,
+                0
+            ],
+            [
+                -2.09,
+                -25,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1.05,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9716,
+            1,
+            0
+        ]
+    },
+    "301311": {
+        "main_name": "Visbane Disaster",
+        "icon": "Bgbc30133012",
+        "ID": 301311,
+        "descripe": "Strong Bane Energy signals have been detected, presumed to be multiple special Visbane entities. Please be careful.\nTrouble always comes one after another.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#F3751A>Fire</color>",
+        "boss_id_list": [
+            3012,
+            3013
+        ],
+        "model_pos": [
+            [
+                -1.5,
+                -184.5,
+                -4.6
+            ],
+            [
+                1,
+                -184.37,
+                -8
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                40,
+                0
+            ],
+            [
+                0,
+                -2.82,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9715,
+            1,
+            0
+        ]
+    },
+    "401111": {
+        "main_name": "Ethan",
+        "icon": "Bgbc4010",
+        "ID": 401111,
+        "descripe": "A man who lost all his memories and woke up in some ancient ruins, on a pile of rubble and spare parts. 80% of his body tissues have been changed into machinery.\nAs the leader of Children of Iron, he acts very lazy and always makes others feel unpredictable.",
+        "weakness": "Attribute Weakness: <color=#88E682>Wind</color>",
+        "boss_id_list": [
+            4010
+        ],
+        "appear_ani": [
+            "stand"
+        ],
+        "model_pos": [
+            [
+                0.23,
+                -182.84,
+                0.16
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9714,
+            1,
+            0
+        ]
+    },
+    "401221": {
+        "main_name": "Kusherfang",
+        "icon": "Bgbc4012",
+        "ID": 401221,
+        "descripe": "A huge centaur-type AGI Mecha weapon, which was declared as an unsurpassed existence in \"individual combat\".\nFor the maker of Kusherfang, it was more like an unsurpassed work of art before it became a weapon of destruction.",
+        "weakness": "Attribute Weakness: <color=#4EE4CE>Ice</color>",
+        "boss_id_list": [
+            4012
+        ],
+        "appear_ani": [
+            "attack1"
+        ],
+        "model_pos": [
+            [
+                0,
+                -188.4,
+                -19.63
+            ]
+        ],
+        "model_rot": [
+            [
+                -6.45,
+                8,
+                -1.62
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9719,
+            1,
+            0
+        ]
+    },
+    "402901": {
+        "main_name": "Visbanic Dark Metal",
+        "icon": "Bgbc4029",
+        "ID": 402901,
+        "descripe": "A giant weapon that was corrupted by Bane Energy in the Quakes. It showed more of the characteristics of Visbane compared to machinery, and became incomparably berserk.\nAfter the drive energy was changed to Bane Energy, its combat ability was greatly improved, and ordinary attacks could not cause damage to it.",
+        "weakness": "Attribute Weakness: <color=#EC5858>Physical</color>",
+        "boss_id_list": [
+            4029
+        ],
+        "appear_ani": [
+            "skill6_4"
+        ],
+        "model_pos": [
+            [
+                -0.8,
+                -186,
+                -10
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -40,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9713,
+            1,
+            0
+        ]
+    },
+    "402021": {
+        "main_name": "Haagenti",
+        "icon": "Bgbc4020",
+        "ID": 402021,
+        "descripe": "A very rare Behemoth Type Visbane among all observed Visbanes, codenamed \"Haagenti\". The cause of its formation is unknown for the time being.\nIt is assumed that it's formed as a result of the massive engulfment of Source Layer material by the Visbane. It is quite large and possesses destructive power that exceeds that of ordinary Visbanes.",
+        "weakness": "Attribute Weakness: <color=#E9E346>Light</color>",
+        "boss_id_list": [
+            4020
+        ],
+        "appear_ani": [
+            "rage"
+        ],
+        "model_pos": [
+            [
+                0,
+                -185.5,
+                -12.5
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                40,
+                -5
+            ]
+        ],
+        "model_scale": [
+            [
+                1.2,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9718,
+            1,
+            0
+        ]
+    },
+    "402301": {
+        "main_name": "Athena",
+        "icon": "Bgbc4023",
+        "ID": 402301,
+        "descripe": "The current commander of the Knights of Convallaria, she has made it her lifelong mission to safeguard artistic order in Omorfies.\n\"The Knights of Convallaria, Athena. I am the blade that guards Omorfies.\"",
+        "weakness": "Attribute Weakness: <color=#00B7E4>Water</color>",
+        "boss_id_list": [
+            4023
+        ],
+        "appear_ani": [
+            "skill5"
+        ],
+        "model_pos": [
+            [
+                0,
+                -182.1,
+                2.2
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9720,
+            1,
+            0
+        ]
+    },
+    "17001": {
+        "main_name": "Siren",
+        "icon": "Bgbc40264027",
+        "ID": 17001,
+        "descripe": "A Behemoth-type Visbane that appears near the Peripheral Sea who can direct the ocean's currents and control storms. ",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#A835D4>Thunder</color>",
+        "boss_id_list": [
+            4026,
+            4027
+        ],
+        "model_pos": [
+            [
+                1.5,
+                -185.7,
+                -17.7
+            ],
+            [
+                1,
+                -185,
+                -8.65
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                53,
+                0
+            ],
+            [
+                0,
+                -20,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                0.3,
+                0.3,
+                0.3
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9716,
+            1,
+            0
+        ]
+    },
+    "17101": {
+        "main_name": "Ladon",
+        "icon": "Bgbc4025",
+        "ID": 17101,
+        "descripe": "A Visbane born in Omorfies, he has the appearance of a mythical dragon.\n\"Get ready to meet the mighty Ladon in his true form!\"",
+        "weakness": "Attribute Weakness: <color=#8E6DE7>Shadow</color>",
+        "boss_id_list": [
+            4025
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                1.5,
+                -187,
+                -20
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                15,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9717,
+            1,
+            0
+        ]
+    },
+    "17201": {
+        "main_name": "Uld",
+        "icon": "Bgbc4031",
+        "ID": 17201,
+        "descripe": "Conceived from the Paracaesar's Project Forgetower, it is an Artificial Modifier with the ability to control the \"past.\"\n\"None can escape the destiny that's been set for them. The time has come to meet the ending I've written for you.\"",
+        "weakness": "Attribute Weakness: <color=#F3751A>Fire</color>",
+        "boss_id_list": [
+            4031
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                1.5,
+                -185,
+                -10
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                10,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9715,
+            1,
+            0
+        ]
+    },
+    "17301": {
+        "main_name": "Mintha & Leuce",
+        "icon": "Bgbc30283029",
+        "ID": 17301,
+        "descripe": "Twin puppets that typically serve as maids at the Society of Muses where they take care of the members' day-to-day needs, though in combat they turn into fearsome weapons in the hands of Hades.\n\"It's time to clean up.\"",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#E9E346>Light</color>",
+        "boss_id_list": [
+            3028,
+            3029
+        ],
+        "model_pos": [
+            [
+                0.8,
+                -182.5,
+                3.5
+            ],
+            [
+                -0.15,
+                -182.5,
+                3.45
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                15,
+                0
+            ],
+            [
+                0,
+                -80,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9718,
+            1,
+            0
+        ]
+    },
+    "17401": {
+        "main_name": "Bifrons",
+        "icon": "Bgbc4021",
+        "ID": 17401,
+        "descripe": "A unique Behemoth Type Visbane resembling a cyclops. Both its hands seem to contain mountains of energy.",
+        "weakness": "Attribute Weakness: <color=#4EE4CE>Ice</color>",
+        "boss_id_list": [
+            4021
+        ],
+        "appear_ani": [
+            "skill6"
+        ],
+        "model_pos": [
+            [
+                0.45,
+                -186.7,
+                -15
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                25,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9719,
+            1,
+            0
+        ]
+    },
+    "17501": {
+        "main_name": "Orochi",
+        "icon": "Bgbc4014",
+        "ID": 17501,
+        "descripe": "Dressed in the splendid garments of a kabuki, her eyes show nothing but contempt for all things, and she is always accompanied by giant snakes.",
+        "weakness": "Attribute Weakness: <color=#EC5858>Physical</color>",
+        "boss_id_list": [
+            4014
+        ],
+        "appear_ani": [
+            "skill3"
+        ],
+        "model_pos": [
+            [
+                0.4,
+                -184,
+                -3.3
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9713,
+            1,
+            0
+        ]
+    },
+    "17601": {
+        "main_name": "The Singer",
+        "icon": "Bgbc4015",
+        "ID": 17601,
+        "descripe": "Humanoid Visbane. Looks more like a mermaid and is often accompanied by a Visbanic whale.",
+        "weakness": "Attribute Weakness: <color=#88E682>Wind</color>",
+        "boss_id_list": [
+            4015
+        ],
+        "appear_ani": [
+            "skill3_1"
+        ],
+        "model_pos": [
+            [
+                -0.1,
+                -183.7,
+                -0.6
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -10,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9714,
+            1,
+            0
+        ]
+    },
+    "17701": {
+        "main_name": "Halphas",
+        "icon": "Bgbc4013",
+        "ID": 17701,
+        "descripe": "A massive mechanoid Visbane. Its body is equipped with a terrifying quantity of weapons with heavy firepower, and can sweep the battlefield with explosions when it enters the fray.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#00B7E4>Water</color>",
+        "boss_id_list": [
+            4013
+        ],
+        "model_pos": [
+            [
+                0.9,
+                -187,
+                -19
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -10,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                0.95,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9720,
+            1,
+            0
+        ]
+    },
+    "17801": {
+        "main_name": "Warbane",
+        "icon": "Bgbc3019",
+        "ID": 17801,
+        "descripe": "An individual born from the aggregation of a certain number of corrupted species. It uses a large sword and shield to execute powerful offensive and defensive measures. Extra attention should be paid when fighting it due to its high risk level.",
+        "weakness": "Attribute Weakness: <color=#8E6DE7>Shadow</color>",
+        "boss_id_list": [
+            3019
+        ],
+        "appear_ani": [
+            "skill2_2"
+        ],
+        "model_pos": [
+            [
+                -0.3,
+                -183.6,
+                -1.5
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -60,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9717,
+            1,
+            0
+        ]
+    },
+    "17901": {
+        "main_name": "Purifier",
+        "icon": "Bgbc3021",
+        "ID": 17901,
+        "descripe": "A special Encroacher Type Visbane and a failed product of the Soul Replacement Plan, it was formed when its soul and memories were corrupted by Turing's Bane Energy.",
+        "weakness": "Attribute Weakness: <color=#4EE4CE>Ice</color>",
+        "boss_id_list": [
+            3021
+        ],
+        "appear_ani": [
+            "skill1"
+        ],
+        "model_pos": [
+            [
+                0.57,
+                -185.23,
+                -3.8
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                30,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9719,
+            1,
+            0
+        ]
+    },
+    "18001": {
+        "main_name": "Minotaur Statue",
+        "icon": "Bgbc3020",
+        "ID": 18001,
+        "descripe": "Don't be fooled by its hulking appearance\u2014its enhanced propulsion system makes it more agile than your average AGI Mecha.",
+        "weakness": "Attribute Weakness: <color=#F3751A>Fire</color>",
+        "boss_id_list": [
+            3020
+        ],
+        "appear_ani": [
+            "skill2"
+        ],
+        "model_pos": [
+            [
+                0.61,
+                -183.63,
+                -3.47
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -15,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1.1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9715,
+            1,
+            0
+        ]
+    },
+    "18101": {
+        "main_name": "Auto Armor",
+        "icon": "Bgbc3033",
+        "ID": 18101,
+        "descripe": "A bipedal combat vehicle with standard military armor. Capable of showering enemies with a hail of firepower.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#A835D4>Thunder</color>",
+        "boss_id_list": [
+            3033
+        ],
+        "model_pos": [
+            [
+                0.13,
+                -182.88,
+                -0.6
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                30,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9716,
+            1,
+            0
+        ]
+    },
+    "18201": {
+        "main_name": "Cerulean Plum",
+        "icon": "Bgbc3040",
+        "ID": 18201,
+        "descripe": "A specialized Polymerized Type variant that emerged in response to the environmental conditions created by Cloudsong Ore. It's adept at attacking using a combination of swordplay and Bane Energy.",
+        "weakness": "Attribute Weakness: <color=#88E682>Wind</color>",
+        "boss_id_list": [
+            3040
+        ],
+        "appear_ani": [
+            "skill3_2"
+        ],
+        "model_pos": [
+            [
+                0.33,
+                -184.31,
+                -2.36
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9714,
+            1,
+            0
+        ]
+    },
+    "18301": {
+        "main_name": "Firewalker",
+        "icon": "Bgbc3044",
+        "ID": 18301,
+        "descripe": "A former Akishika family subordinate bewitched into becoming the backbone of the zealots. Uses the Bane Energy in the flag during battle to launch magic attacks on the enemy.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#4EE4CE>Ice</color>",
+        "boss_id_list": [
+            3044
+        ],
+        "model_pos": [
+            [
+                0.23,
+                -184.02,
+                -3.77
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -15,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9719,
+            1,
+            0
+        ]
+    },
+    "33051": {
+        "main_name": "<color=#DC143C>Specialized</color> Visbanic Dark Metal",
+        "icon": "Bgbc4029",
+        "ID": 33051,
+        "descripe": "A huge weapon corroded by Bane Energy during a Quake. Now incredibly violent, it bears a greater resemblance to a Visbane than machinery.\nAfter its propulsion source was switched to Bane Energy, its combat abilities were also greatly increased, as ordinary attacks are unable to damage it.\n<color=#ffbb00>Oneiroi prepares special supplies for the Administrator in the dreamworld.</color>\n<color=#88E682>Teammates only take 25% DMG in this stage.</color>",
+        "weakness": "Attribute Weakness: <color=#F3751A>Fire</color>",
+        "boss_id_list": [
+            4029
+        ],
+        "appear_ani": [
+            "skill6_4"
+        ],
+        "model_pos": [
+            [
+                -0.8,
+                -186,
+                -10
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -40,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9715,
+            1,
+            0
+        ]
+    },
+    "33052": {
+        "main_name": "<color=#DC143C>Specialized</color> Dark Metal",
+        "icon": "Bgbc4028",
+        "ID": 33052,
+        "descripe": "This type of military AGI Mecha utilizes the most advanced AI technology and a new-developed propulsion system, allowing it to cope with a wide variety of complex battlefield situations and providing extreme mobility.\n<color=#ffbb00>Oneiroi prepares special supplies for the Administrator in the dreamworld.</color>\n<color=#88E682>Teammates only take 25% DMG in this stage.</color>",
+        "weakness": "Attribute Weakness: <color=#E9E346>Light</color>",
+        "boss_id_list": [
+            4028
+        ],
+        "appear_ani": [
+            "skill4_1"
+        ],
+        "model_pos": [
+            [
+                0.4,
+                -186.81,
+                -10.6
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                40,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9718,
+            1,
+            0
+        ]
+    },
+    "33053": {
+        "main_name": "<color=#DC143C>Specialized</color> Kusherfang",
+        "icon": "Bgbc4012",
+        "ID": 33053,
+        "descripe": "A huge centaur-type AGI Mecha weapon, which was declared as an unsurpassed existence in \"individual combat\".\nBefore Kusherfang became a weapon of mass destruction, its creator saw it more as an unparalleled work of art.\n<color=#ffbb00>Oneiroi prepares special supplies for the Administrator in the dreamworld.</color>\n<color=#88E682>Teammates only take 25% DMG in this stage.</color>",
+        "weakness": "Attribute Weakness: <color=#88E682>Wind</color>",
+        "boss_id_list": [
+            4012
+        ],
+        "appear_ani": [
+            "attack1"
+        ],
+        "model_pos": [
+            [
+                0,
+                -188.4,
+                -19.63
+            ]
+        ],
+        "model_rot": [
+            [
+                -6.45,
+                8,
+                -1.62
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9714,
+            1,
+            0
+        ]
+    },
+    "33054": {
+        "main_name": "<color=#DC143C>Specialized</color> Haagenti",
+        "icon": "Bgbc4020",
+        "ID": 33054,
+        "descripe": "A very rare Behemoth Type Visbane among all observed Visbanes, codenamed \"Haagenti\". The cause of its formation is unknown for the time being.\nIt is assumed that it's formed as a result of the massive engulfment of Source Layer material by the Visbane. It is quite large and possesses destructive power that exceeds that of ordinary Visbanes.\n<color=#ffbb00>Oneiroi prepares special supplies for the Administrator in the dreamworld.</color>\n<color=#88E682>Teammates only take 25% DMG in this stage.</color>",
+        "weakness": "Attribute Weakness: <color=#EC5858>Physical</color>",
+        "boss_id_list": [
+            4020
+        ],
+        "appear_ani": [
+            "rage"
+        ],
+        "model_pos": [
+            [
+                0,
+                -185.5,
+                -12.5
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                40,
+                -5
+            ]
+        ],
+        "model_scale": [
+            [
+                1.2,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9713,
+            1,
+            0
+        ]
+    },
+    "33055": {
+        "main_name": "<color=#DC143C>Specialized</color> Athena",
+        "icon": "Bgbc4023",
+        "ID": 33055,
+        "descripe": "A high-risk individual formed of combat data severely corroded by Bane Energy, it's suspected to assume the form of a Modifier. It must be handled with extreme caution.\n<color=#ffbb00>Oneiroi prepares special supplies for the Administrator in the dreamworld.</color>\n<color=#88E682>Teammates only take 25% DMG in this stage.</color>",
+        "weakness": "Attribute Weakness: <color=#00B7E4>Water</color>",
+        "boss_id_list": [
+            4023
+        ],
+        "appear_ani": [
+            "skill5"
+        ],
+        "model_pos": [
+            [
+                0,
+                -182.1,
+                2.2
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9720,
+            1,
+            0
+        ]
+    },
+    "33056": {
+        "main_name": "<color=#DC143C>Specialized</color> Kusherfang",
+        "icon": "Bgbc4012",
+        "ID": 33056,
+        "descripe": "A huge centaur-type AGI Mecha weapon, which was declared as an unsurpassed existence in \"individual combat\".\nBefore Kusherfang became a weapon of mass destruction, its creator saw it more as an unparalleled work of art.\n<color=#ffbb00>Oneiroi prepares special supplies for the Administrator in the dreamworld.</color>\n<color=#88E682>Teammates only take 25% DMG in this stage.</color>",
+        "weakness": "Attribute Weakness: <color=#88E682>Wind</color>",
+        "boss_id_list": [
+            4012
+        ],
+        "appear_ani": [
+            "attack1"
+        ],
+        "model_pos": [
+            [
+                0,
+                -188.4,
+                -19.63
+            ]
+        ],
+        "model_rot": [
+            [
+                -6.45,
+                8,
+                -1.62
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9714,
+            1,
+            0
+        ]
+    },
+    "33057": {
+        "main_name": "<color=#DC143C>Specialized</color> Uld",
+        "icon": "Bgbc4031",
+        "ID": 33057,
+        "descripe": "Conceived from the Paracaesar's Project Forgetower, it is an Artificial Modifier with the ability to control the \"past.\"\n\"None can escape the destiny that's been set for them. The time has come to meet the ending I've written for you.\"",
+        "weakness": "Attribute Weakness: <color=#A835D4>Thunder</color>",
+        "boss_id_list": [
+            4031
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                1.5,
+                -185,
+                -10
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                10,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9716,
+            1,
+            0
+        ]
+    },
+    "33058": {
+        "main_name": "<color=#DC143C>Specialized</color> Ethan",
+        "icon": "Bgbc4010",
+        "ID": 33058,
+        "descripe": "A man who lost all his memories and woke up in some ancient ruins, on a pile of rubble and spare parts. 80% of his body tissues have been changed into machinery.\nAs the leader of Children of Iron, he acts very lazy and always makes others feel unpredictable.",
+        "weakness": "Attribute Weakness: <color=#EC5858>Physical</color>",
+        "boss_id_list": [
+            4010
+        ],
+        "appear_ani": [
+            "stand"
+        ],
+        "model_pos": [
+            [
+                0.23,
+                -182.84,
+                0.16
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            9713,
+            1,
+            0
+        ]
+    },
+    "22201": {
+        "main_name": "<color=#DC143C>Specialized</color> Ethan",
+        "icon": "Bgbc4010",
+        "ID": 22201,
+        "descripe": "A man who lost all his memories and woke up in some ancient ruins, on a pile of rubble and spare parts. 80% of his body tissues have been changed into machinery.\nAs the leader of Children of Iron, he acts very lazy and always makes others feel unpredictable.",
+        "weakness": "Attribute Weakness: <color=#EC5858>Physical</color>",
+        "boss_id_list": [
+            4010
+        ],
+        "appear_ani": [
+            "stand"
+        ],
+        "model_pos": [
+            [
+                0.23,
+                -182.84,
+                0.16
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            411,
+            5,
+            0
+        ]
+    },
+    "22202": {
+        "main_name": "<color=#DC143C>Specialized</color> Haagenti",
+        "icon": "Bgbc4020",
+        "ID": 22202,
+        "descripe": "A very rare Behemoth Type Visbane among all observed Visbanes, codenamed \"Haagenti\". The cause of its formation is unknown for the time being.\nIt is assumed that it's formed as a result of the massive engulfment of Source Layer material by the Visbane. It is quite large and possesses destructive power that exceeds that of ordinary Visbanes.",
+        "weakness": "Attribute Weakness: <color=#4EE4CE>Ice</color>",
+        "boss_id_list": [
+            4020
+        ],
+        "appear_ani": [
+            "rage"
+        ],
+        "model_pos": [
+            [
+                0,
+                -185.5,
+                -12.5
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                40,
+                -5
+            ]
+        ],
+        "model_scale": [
+            [
+                1.2,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            414,
+            5,
+            0
+        ]
+    },
+    "22203": {
+        "main_name": "<color=#DC143C>Specialized</color> Bifrons",
+        "icon": "Bgbc4021",
+        "ID": 22203,
+        "descripe": "A unique Behemoth Type Visbane resembling a cyclops. Both its hands seem to contain mountains of energy.",
+        "weakness": "Attribute Weakness: <color=#F3751A>Fire</color>",
+        "boss_id_list": [
+            4021
+        ],
+        "appear_ani": [
+            "skill6"
+        ],
+        "model_pos": [
+            [
+                0.45,
+                -186.7,
+                -15
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                25,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            412,
+            5,
+            0
+        ]
+    },
+    "22204": {
+        "main_name": "<color=#DC143C>Specialized</color> Gremory",
+        "icon": "Bgbc4036",
+        "ID": 22204,
+        "descripe": "A Cognizant Visbane born in Xu Heng's Source Layer that has concealed itself in society for a while. It has used its beauty and intelligence to move up and thrive in the business world.",
+        "weakness": "Attribute Weakness: <color=#00B7E4>Water</color>",
+        "boss_id_list": [
+            4036
+        ],
+        "appear_ani": [
+            "stand"
+        ],
+        "model_pos": [
+            [
+                0.23,
+                -183.2,
+                0.16
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                0.75,
+                0.75,
+                0.75
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            413,
+            5,
+            0
+        ]
+    },
+    "22205": {
+        "main_name": "<color=#DC143C>Specialized</color> Uld",
+        "icon": "Bgbc4031",
+        "ID": 22205,
+        "descripe": "Conceived from the Paracaesar's Project Forgetower, it is an Artificial Modifier with the ability to control the \"past.\"\n\"None can escape the destiny that's been set for them. The time has come to meet the ending I've written for you.\"",
+        "weakness": "Attribute Weakness: <color=#8E6DE7>Shadow</color>",
+        "boss_id_list": [
+            4031
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                1.5,
+                -185,
+                -10
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                10,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            418,
+            5,
+            0
+        ]
+    },
+    "22206": {
+        "main_name": "<color=#DC143C>Specialized</color> Dark Metal",
+        "icon": "Bgbc4028",
+        "ID": 22206,
+        "descripe": "This type of military mecha utilizes the most advanced AI technology and a new-developed propulsion system, allowing it to cope with a wide variety of complex battlefield situations and providing extreme mobility.",
+        "weakness": "Attribute Weakness: <color=#E9E346>Light</color>",
+        "boss_id_list": [
+            4028
+        ],
+        "appear_ani": [
+            "skill4_1"
+        ],
+        "model_pos": [
+            [
+                0.4,
+                -186.81,
+                -10.6
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                40,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            417,
+            5,
+            0
+        ]
+    },
+    "22207": {
+        "main_name": "<color=#DC143C>Specialized</color> Visbanic Dark Metal",
+        "icon": "Bgbc4029",
+        "ID": 22207,
+        "descripe": "A giant weapon that was corrupted by Bane Energy in the Quakes. It showed more of the characteristics of Visbane compared to machinery, and became incomparably berserk.\nAfter the drive energy was changed to Bane Energy, its combat ability was greatly improved, and ordinary attacks could not cause damage to it.",
+        "weakness": "Attribute Weakness: <color=#A835D4>Thunder</color>",
+        "boss_id_list": [
+            4029
+        ],
+        "appear_ani": [
+            "skill6_4"
+        ],
+        "model_pos": [
+            [
+                -0.8,
+                -186,
+                -10
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -40,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            415,
+            5,
+            0
+        ]
+    },
+    "22208": {
+        "main_name": "<color=#DC143C>Specialized</color> Halphas",
+        "icon": "Bgbc4013",
+        "ID": 22208,
+        "descripe": "A massive mechanoid Visbane. Its body is equipped with a terrifying quantity of weapons with heavy firepower, and can sweep the battlefield with explosions when it enters the fray.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#88E682>Wind</color>",
+        "boss_id_list": [
+            4013
+        ],
+        "model_pos": [
+            [
+                0.9,
+                -187,
+                -19
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -10,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                0.95,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            416,
+            5,
+            0
+        ]
+    },
+    "22301": {
+        "main_name": "The Strategist",
+        "icon": "Bgbc3004",
+        "ID": 22301,
+        "descripe": "Even though already a half-human, half-bane monster, he is still sworn to guard all the secrets of the Miyahebi family.\nAnyone who trespasses will be beheaded.",
+        "appear_ani": "",
+        "weakness": "Attribute Weakness: <color=#8E6DE7>Shadow</color>",
+        "boss_id_list": [
+            3004
+        ],
+        "model_pos": [
+            [
+                0.5,
+                -183.5,
+                -4
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            418,
+            5,
+            0
+        ]
+    },
+    "22302": {
+        "main_name": "Olheim",
+        "icon": "Bgbc3008",
+        "ID": 22302,
+        "descripe": "An undisciplined youth that often relies on wholly unexpected methods of attack in combat.",
+        "weakness": "Attribute Weakness: <color=#E9E346>Light</color>",
+        "boss_id_list": [
+            3008
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                0.435,
+                -182.9,
+                -1
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1.05,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            417,
+            5,
+            0
+        ]
+    },
+    "22303": {
+        "main_name": "Blackquartz",
+        "icon": "Bgbc3013",
+        "ID": 22303,
+        "descripe": "Strong Bane Energy signal detected from what may be a special Visbane type. Proceed with caution.\nThe fun never stops.",
+        "weakness": "Attribute Weakness: <color=#A835D4>Thunder</color>",
+        "boss_id_list": [
+            3013
+        ],
+        "appear_ani": [
+            "attack1"
+        ],
+        "model_pos": [
+            [
+                0.89,
+                -184.6,
+                -8
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            415,
+            5,
+            0
+        ]
+    },
+    "22304": {
+        "main_name": "Warbane",
+        "icon": "Bgbc3019",
+        "ID": 22304,
+        "descripe": "An individual born from the aggregation of a certain number of corrupted species. It uses a large sword and shield to execute powerful offensive and defensive measures. Extra attention should be paid when fighting it due to its high risk level.",
+        "weakness": "Attribute Weakness: <color=#88E682>Wind</color>",
+        "boss_id_list": [
+            3019
+        ],
+        "appear_ani": [
+            "skill2_2"
+        ],
+        "model_pos": [
+            [
+                -0.3,
+                -183.6,
+                -1.5
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -60,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            416,
+            5,
+            0
+        ]
+    },
+    "22305": {
+        "main_name": "Metabane - Hysterism",
+        "icon": "Bgbc3023",
+        "ID": 22305,
+        "descripe": "A Polymerized Type variant enveloped in filth and decay, it releases an intense, foul form of Bane Energy that erodes its enemy's willpower.",
+        "weakness": "Attribute Weakness: <color=#EC5858>Physical</color>",
+        "boss_id_list": [
+            3023
+        ],
+        "appear_ani": [
+            "skill1"
+        ],
+        "model_pos": [
+            [
+                0.41,
+                -184,
+                -4
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            411,
+            5,
+            0
+        ]
+    },
+    "22306": {
+        "main_name": "Argo",
+        "icon": "Bgbc3035",
+        "ID": 22306,
+        "descripe": "Compete with members of The Knights of Convallaria to show \"friendship\".\nIn order to guard the art of Omorfies, it is sometimes unavoidable to draw the sword.",
+        "weakness": "Attribute Weakness: <color=#4EE4CE>Ice</color>",
+        "boss_id_list": [
+            3035
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                0,
+                -182.8,
+                -1
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            414,
+            5,
+            0
+        ]
+    },
+    "22307": {
+        "main_name": "Cerulean Plum",
+        "icon": "Bgbc3040",
+        "ID": 22307,
+        "descripe": "A specialized Polymerized Type variant that emerged in response to the environmental conditions created by Cloudsong Ore. It's adept at attacking using a combination of swordplay and Bane Energy.",
+        "weakness": "Attribute Weakness: <color=#F3751A>Fire</color>",
+        "boss_id_list": [
+            3040
+        ],
+        "appear_ani": [
+            "skill3_2"
+        ],
+        "model_pos": [
+            [
+                0.33,
+                -184.31,
+                -2.36
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            412,
+            5,
+            0
+        ]
+    },
+    "22308": {
+        "main_name": "Battlefield",
+        "icon": "Bgbc3005",
+        "ID": 22308,
+        "descripe": "This towering form features an anthropomorphic structure and is capable of impressive maneuverability.",
+        "weakness": "Attribute Weakness: <color=#00B7E4>Water</color>",
+        "boss_id_list": [
+            3005
+        ],
+        "appear_ani": [
+            "skill3"
+        ],
+        "model_pos": [
+            [
+                0.3,
+                -183.2,
+                -2
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            413,
+            5,
+            0
+        ]
+    },
+    "22309": {
+        "main_name": "Zero One",
+        "icon": "Bgbc3009",
+        "ID": 22309,
+        "descripe": "An icy assassin who excels at stealth-based combat.",
+        "weakness": "Attribute Weakness: <color=#8E6DE7>Shadow</color>",
+        "boss_id_list": [
+            3009
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                0.2,
+                -182.6,
+                1.5
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            418,
+            5,
+            0
+        ]
+    },
+    "22310": {
+        "main_name": "The Monk",
+        "icon": "Bgbc3014",
+        "ID": 22310,
+        "descripe": "A Visbane painter wearing a solemn look and brandishing a paintbrush in combat.",
+        "weakness": "Attribute Weakness: <color=#E9E346>Light</color>",
+        "boss_id_list": [
+            3014
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                0.5,
+                -183.8,
+                -4
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            417,
+            5,
+            0
+        ]
+    },
+    "22311": {
+        "main_name": "Minotaur Statue",
+        "icon": "Bgbc3020",
+        "ID": 22311,
+        "descripe": "Don't be fooled by its hulking appearance\u2014its enhanced propulsion system makes it more agile than your average AGI Mecha.",
+        "weakness": "Attribute Weakness: <color=#EC5858>Physical</color>",
+        "boss_id_list": [
+            3020
+        ],
+        "appear_ani": [
+            "skill2"
+        ],
+        "model_pos": [
+            [
+                0.61,
+                -183.63,
+                -3.47
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -15,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1.1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            411,
+            5,
+            0
+        ]
+    },
+    "22312": {
+        "main_name": "Smoldering Guardian",
+        "icon": "Bgbc3036",
+        "ID": 22312,
+        "descripe": "An AGI Mecha created by the previous master of Mount Jingdu. It silently protects the workshop from Visbane attacks.",
+        "weakness": "Attribute Weakness: <color=#4EE4CE>Ice</color>",
+        "boss_id_list": [
+            3036
+        ],
+        "appear_ani": [
+            "skill5"
+        ],
+        "model_pos": [
+            [
+                0.7,
+                -184,
+                -4
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                60,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            414,
+            5,
+            0
+        ]
+    },
+    "22313": {
+        "main_name": "Root of Suffering ",
+        "icon": "Bgbc3041",
+        "ID": 22313,
+        "descripe": "A special Heterization Visbane created by some unknown power, with a roughly humanoid body and oversized joints.Its wings are both highly damaging and highly toxic.",
+        "weakness": "Attribute Weakness: <color=#F3751A>Fire</color>",
+        "boss_id_list": [
+            3041
+        ],
+        "appear_ani": [
+            "attack1"
+        ],
+        "model_pos": [
+            [
+                0.7,
+                -183.2,
+                -6
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            412,
+            5,
+            0
+        ]
+    },
+    "22314": {
+        "main_name": "Constructs",
+        "icon": "Bgbc3006",
+        "ID": 22314,
+        "descripe": "The factory has been infested by the Visbanes. Take control back from the Visbane-corrupted AGI Mechas.",
+        "weakness": "Attribute Weakness: <color=#00B7E4>Water</color>",
+        "boss_id_list": [
+            3006
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                0.5,
+                -183,
+                -3
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            413,
+            5,
+            0
+        ]
+    },
+    "22315": {
+        "main_name": "Tall Wall",
+        "icon": "Bgbc3010",
+        "ID": 22315,
+        "descripe": "The security captain stationed here has caused the mission to be seriously impeded. He has to be knocked down as soon as possible to make him lose his combat effectiveness.",
+        "weakness": "Attribute Weakness: <color=#A835D4>Thunder</color>",
+        "boss_id_list": [
+            3010
+        ],
+        "appear_ani": [
+            "skill2"
+        ],
+        "model_pos": [
+            [
+                0.58,
+                -183.2,
+                -4
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            415,
+            5,
+            0
+        ]
+    },
+    "22316": {
+        "main_name": "Fist of Revenge",
+        "icon": "Bgbc3046",
+        "ID": 22316,
+        "descripe": "A fusion of machinery and biotechnology that Seema calls the \"Fist of Revenge.\"",
+        "weakness": "Attribute Weakness: <color=#88E682>Wind</color>",
+        "boss_id_list": [
+            3046
+        ],
+        "appear_ani": [
+            "skill4"
+        ],
+        "model_pos": [
+            [
+                0.26,
+                -182.4,
+                0
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": [],
+        "custom_affix": [
+            416,
+            5,
+            0
+        ]
+    },
+    "4010103": {
+        "main_name": "Ethan",
+        "icon": "",
+        "ID": 4010103,
+        "custom_affix": "",
+        "descripe": "",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            4010
+        ],
+        "model_pos": [
+            [
+                499.2,
+                27.74,
+                -2.12
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                3,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "4012103": {
+        "main_name": "Kusherfang",
+        "icon": "",
+        "ID": 4012103,
+        "custom_affix": "",
+        "descripe": "",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            4012
+        ],
+        "model_pos": [
+            [
+                499.13,
+                21.5,
+                -23.02
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                6.65,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "4013103": {
+        "main_name": "Halphas",
+        "icon": "",
+        "ID": 4013103,
+        "custom_affix": "",
+        "descripe": "",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            4013
+        ],
+        "model_pos": [
+            [
+                499.1,
+                21.9,
+                -23
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                10,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "4014103": {
+        "main_name": "Orochi",
+        "icon": "",
+        "ID": 4014103,
+        "custom_affix": "",
+        "descripe": "",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            4014
+        ],
+        "model_pos": [
+            [
+                499.2,
+                26.8,
+                -4.5
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "4015103": {
+        "main_name": "The Singer",
+        "icon": "",
+        "ID": 4015103,
+        "custom_affix": "",
+        "descripe": "",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            4015
+        ],
+        "model_pos": [
+            [
+                499.2,
+                26.27,
+                -3.94
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                3,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "4021103": {
+        "main_name": "Bifrons",
+        "icon": "",
+        "ID": 4021103,
+        "custom_affix": "",
+        "descripe": "",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            4021
+        ],
+        "model_pos": [
+            [
+                499.2,
+                22.4,
+                -18.9
+            ]
+        ],
+        "model_rot": [
+            [
+                -5.61,
+                0.89,
+                -1.62
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "4023103": {
+        "main_name": "Athena",
+        "icon": "",
+        "ID": 4023103,
+        "custom_affix": "",
+        "descripe": "",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            4023
+        ],
+        "model_pos": [
+            [
+                499.2,
+                28.37,
+                -1.2
+            ]
+        ],
+        "model_rot": [
+            [
+                -5.61,
+                0.89,
+                -1.62
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "2036201": {
+        "main_name": "Visbanic Canine",
+        "icon": "Bgbc20263019",
+        "ID": 2036201,
+        "custom_affix": "",
+        "descripe": "",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            2036
+        ],
+        "model_pos": [
+            [
+                -0.8,
+                -186,
+                -10
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "30043017": {
+        "main_name": "The Strategist & Squire",
+        "icon": "Bgbc20323004",
+        "ID": 30043017,
+        "custom_affix": "",
+        "descripe": "",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            3004,
+            3017
+        ],
+        "model_pos": [
+            [
+                0.8,
+                -182.9,
+                -1
+            ],
+            [
+                -0.55,
+                -182.9,
+                -0.5
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                25,
+                0
+            ],
+            [
+                -2.09,
+                -25,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1.05,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "300402": {
+        "main_name": "The Strategist",
+        "icon": "Bgbc20323004",
+        "ID": 300402,
+        "custom_affix": "",
+        "descripe": "",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            3004
+        ],
+        "model_pos": [
+            [
+                0.5,
+                -183.5,
+                -4
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "301701": {
+        "main_name": "Squire",
+        "icon": "Bgbc30143017",
+        "ID": 301701,
+        "custom_affix": "",
+        "descripe": "",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            3017
+        ],
+        "model_pos": [
+            [
+                0.5,
+                -183.5,
+                -4
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3090001": {
+        "main_name": "Ethan",
+        "icon": "Bgbc4010",
+        "ID": 3090001,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            4010
+        ],
+        "appear_ani": [
+            "stand"
+        ],
+        "model_pos": [
+            [
+                0.23,
+                -182.84,
+                0.16
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3090002": {
+        "main_name": "Kusherfang",
+        "icon": "Bgbc4012",
+        "ID": 3090002,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            4012
+        ],
+        "appear_ani": [
+            "attack1"
+        ],
+        "model_pos": [
+            [
+                0,
+                -188.4,
+                -19.63
+            ]
+        ],
+        "model_rot": [
+            [
+                -6.45,
+                8,
+                -1.62
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3090003": {
+        "main_name": "Haagenti",
+        "icon": "Bgbc4020",
+        "ID": 3090003,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            4020
+        ],
+        "appear_ani": [
+            "rage"
+        ],
+        "model_pos": [
+            [
+                0,
+                -185.5,
+                -12.5
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                40,
+                -5
+            ]
+        ],
+        "model_scale": [
+            [
+                1.2,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3090004": {
+        "main_name": "Bifrons",
+        "icon": "Bgbc4021",
+        "ID": 3090004,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            4021
+        ],
+        "appear_ani": [
+            "skill6"
+        ],
+        "model_pos": [
+            [
+                0.45,
+                -186.7,
+                -15
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                25,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3090005": {
+        "main_name": "Dark Metal",
+        "icon": "Bgbc4028",
+        "ID": 3090005,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            4028
+        ],
+        "appear_ani": [
+            "skill4_1"
+        ],
+        "model_pos": [
+            [
+                0.4,
+                -186.81,
+                -10.6
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                40,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3090006": {
+        "main_name": "Visbanic Dark Metal",
+        "icon": "Bgbc4029",
+        "ID": 3090006,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            4029
+        ],
+        "appear_ani": [
+            "skill6_4"
+        ],
+        "model_pos": [
+            [
+                -0.8,
+                -186,
+                -10
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -40,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1.1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3090007": {
+        "main_name": "Uld",
+        "icon": "Bgbc4031",
+        "ID": 3090007,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            4031
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                1.5,
+                -185,
+                -10
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                10,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3090008": {
+        "main_name": "Halphas",
+        "icon": "Bgbc4013",
+        "ID": 3090008,
+        "custom_affix": "",
+        "descripe": "",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            4013
+        ],
+        "model_pos": [
+            [
+                0.9,
+                -187,
+                -19
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -10,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                0.95,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3090009": {
+        "main_name": "Gremory",
+        "icon": "Bgbc4036",
+        "ID": 3090009,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            4036
+        ],
+        "appear_ani": [
+            "stand"
+        ],
+        "model_pos": [
+            [
+                0.23,
+                -183.2,
+                0.16
+            ]
+        ],
+        "model_rot": [
+            [
+                -2.09,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                0.75,
+                0.75,
+                0.75
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3091001": {
+        "main_name": "Olheim",
+        "icon": "Bgbc3008",
+        "ID": 3091001,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            3008
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                0.435,
+                -182.9,
+                -1
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1.05,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3091002": {
+        "main_name": "Warbane",
+        "icon": "Bgbc3019",
+        "ID": 3091002,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            3019
+        ],
+        "appear_ani": [
+            "skill2_2"
+        ],
+        "model_pos": [
+            [
+                -0.3,
+                -183.6,
+                -1.5
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -60,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3091003": {
+        "main_name": "Argo",
+        "icon": "Bgbc3035",
+        "ID": 3091003,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            3035
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                0,
+                -182.8,
+                -1
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3091004": {
+        "main_name": "Cerulean Plum",
+        "icon": "Bgbc3040",
+        "ID": 3091004,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            3040
+        ],
+        "appear_ani": [
+            "skill3_2"
+        ],
+        "model_pos": [
+            [
+                0.33,
+                -184.31,
+                -2.36
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3091005": {
+        "main_name": "Battlefield",
+        "icon": "Bgbc3005",
+        "ID": 3091005,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            3005
+        ],
+        "appear_ani": [
+            "skill3"
+        ],
+        "model_pos": [
+            [
+                0.3,
+                -183.2,
+                -2
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3091006": {
+        "main_name": "Minotaur Statue",
+        "icon": "Bgbc3020",
+        "ID": 3091006,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            3020
+        ],
+        "appear_ani": [
+            "skill2"
+        ],
+        "model_pos": [
+            [
+                0.61,
+                -183.63,
+                -3.47
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                -15,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1.1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3091007": {
+        "main_name": "Root of Suffering",
+        "icon": "Bgbc3041",
+        "ID": 3091007,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            3041
+        ],
+        "appear_ani": [
+            "attack1"
+        ],
+        "model_pos": [
+            [
+                0.7,
+                -183.2,
+                -6
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3091008": {
+        "main_name": "Constructs",
+        "icon": "Bgbc3006",
+        "ID": 3091008,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            3006
+        ],
+        "appear_ani": [
+            "appear_1"
+        ],
+        "model_pos": [
+            [
+                0.5,
+                -183,
+                -3
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3091009": {
+        "main_name": "Fist of Revenge",
+        "icon": "Bgbc3046",
+        "ID": 3091009,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            3046
+        ],
+        "appear_ani": [
+            "skill4"
+        ],
+        "model_pos": [
+            [
+                0.26,
+                -182.4,
+                0
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3091010": {
+        "main_name": "Smoldering Guardian",
+        "icon": "Bgbc3036",
+        "ID": 3091010,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            3036
+        ],
+        "appear_ani": [
+            "skill5"
+        ],
+        "model_pos": [
+            [
+                0.7,
+                -184,
+                -4
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                60,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3091011": {
+        "main_name": "Tall Wall",
+        "icon": "Bgbc3010",
+        "ID": 3091011,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            3010
+        ],
+        "appear_ani": [
+            "skill2"
+        ],
+        "model_pos": [
+            [
+                0.58,
+                -183.2,
+                -4
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3091012": {
+        "main_name": "Blackquartz",
+        "icon": "Bgbc3013",
+        "ID": 3091012,
+        "custom_affix": "",
+        "descripe": "",
+        "weakness": "",
+        "boss_id_list": [
+            3013
+        ],
+        "appear_ani": [
+            "attack1"
+        ],
+        "model_pos": [
+            [
+                0.89,
+                -184.6,
+                -8
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "3091013": {
+        "main_name": "The Strategist",
+        "icon": "Bgbc3004",
+        "ID": 3091013,
+        "custom_affix": "",
+        "descripe": "",
+        "appear_ani": "",
+        "weakness": "",
+        "boss_id_list": [
+            3004
+        ],
+        "model_pos": [
+            [
+                0.5,
+                -183.5,
+                -4
+            ]
+        ],
+        "model_rot": [
+            [
+                0,
+                0,
+                0
+            ]
+        ],
+        "model_scale": [
+            [
+                1,
+                1,
+                1
+            ]
+        ],
+        "model_rot_limit": []
+    },
+    "all": [
+        30083009,
+        30123019,
+        30213022,
+        401001,
+        401201,
+        401301,
+        401401,
+        401501,
+        401601,
+        402001,
+        402101,
+        402801,
+        402902,
+        403101,
+        402501,
+        40264027,
+        40234024,
+        403601,
+        301601,
+        301901,
+        300601,
+        301001,
+        303501,
+        302001,
+        302501,
+        303301,
+        300701,
+        300401,
+        300911,
+        302211,
+        301411,
+        301311,
+        401111,
+        401221,
+        402901,
+        402021,
+        402301,
+        17001,
+        17101,
+        17201,
+        17301,
+        17401,
+        17501,
+        17601,
+        17701,
+        17801,
+        17901,
+        18001,
+        18101,
+        18201,
+        18301,
+        33051,
+        33052,
+        33053,
+        33054,
+        33055,
+        33056,
+        33057,
+        33058,
+        22201,
+        22202,
+        22203,
+        22204,
+        22205,
+        22206,
+        22207,
+        22208,
+        22301,
+        22302,
+        22303,
+        22304,
+        22305,
+        22306,
+        22307,
+        22308,
+        22309,
+        22310,
+        22311,
+        22312,
+        22313,
+        22314,
+        22315,
+        22316,
+        4010103,
+        4012103,
+        4013103,
+        4014103,
+        4015103,
+        4021103,
+        4023103,
+        2036201,
+        30043017,
+        300402,
+        301701,
+        3090001,
+        3090002,
+        3090003,
+        3090004,
+        3090005,
+        3090006,
+        3090007,
+        3090008,
+        3090009,
+        3091001,
+        3091002,
+        3091003,
+        3091004,
+        3091005,
+        3091006,
+        3091007,
+        3091008,
+        3091009,
+        3091010,
+        3091011,
+        3091012,
+        3091013
+    ]
+}

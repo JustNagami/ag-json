@@ -1,0 +1,121 @@
+{
+    "1101": {
+        "name": "Box of Photo Paper",
+        "id": 1101,
+        "icon": "1101",
+        "desc": "A box of new photo paper taken out of the pocket. What kind of scenery will be captured on those pristine white sheets?\nCarrying this item improves <color=#56A6E9>Memories</color> and <color=#BDA849>Cognition</color> upon completing the trip.",
+        "unlock": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "1102": {
+        "name": "Umbrella",
+        "id": 1102,
+        "icon": "1102",
+        "desc": "Take this umbrella with you. The sunlight outdoors can be dazzling in summer.\nCarrying this item improves <color=#56A6E9>Memories</color> and <color=#BDA849>Cognition</color> upon completing the trip.",
+        "unlock": [
+            0,
+            0,
+            20,
+            0
+        ]
+    },
+    "1103": {
+        "name": "Tree Branch",
+        "id": 1103,
+        "icon": "1103",
+        "desc": "A tree branch brought back from who knows where. It's even been washed clean.\nCarrying this item improves <color=#56A6E9>Memories</color> and <color=#BDA849>Cognition</color> upon completing the trip.",
+        "unlock": [
+            0,
+            0,
+            30,
+            20
+        ]
+    },
+    "1201": {
+        "name": "Box of Photo Paper",
+        "id": 1201,
+        "icon": "1101",
+        "desc": "A box of new photo paper taken out of the pocket. What kind of scenery will be captured on those pristine white sheets?\nCarrying this item improves <color=#B27AE1>Curiosity</color> and <color=#BDA849>Cognition</color> upon completing the trip.",
+        "unlock": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "1202": {
+        "name": "Small Pendant",
+        "id": 1202,
+        "icon": "1202",
+        "desc": "A souvenir from the barbecue restaurant. Seems like it's being used as a talisman...\nCarrying this item improves <color=#B27AE1>Curiosity</color> and <color=#BDA849>Cognition</color> upon completing the trip.",
+        "unlock": [
+            0,
+            15,
+            0,
+            0
+        ]
+    },
+    "1203": {
+        "name": "Strange Scanner",
+        "id": 1203,
+        "icon": "1203",
+        "desc": "A scanner for something unknown. Even if it detects anything, there's no clue what it is!\nCarrying this item improves <color=#B27AE1>Curiosity</color> and <color=#BDA849>Cognition</color> upon completing the trip.",
+        "unlock": [
+            0,
+            50,
+            0,
+            0
+        ]
+    },
+    "1301": {
+        "name": "Box of Photo Paper",
+        "id": 1301,
+        "icon": "1101",
+        "desc": "A box of new photo paper taken out of the pocket. What kind of scenery will be captured on those pristine white sheets?\nCarrying this item improves <color=#E06781>Mood</color> and <color=#BDA849>Cognition</color> upon completing the trip.",
+        "unlock": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "1302": {
+        "name": "Token",
+        "id": 1302,
+        "icon": "1302",
+        "desc": "A shiny token picked up off the ground.\nCarrying this item improves <color=#E06781>Mood</color> and <color=#BDA849>Cognition</color> upon completing the trip.",
+        "unlock": [
+            20,
+            0,
+            0,
+            0
+        ]
+    },
+    "1303": {
+        "name": "Stuffed Toy",
+        "id": 1303,
+        "icon": "1303",
+        "desc": "A small squirrel stuffed toy that was miraculously grabbed from the claw machine.\nCarrying this item improves <color=#E06781>Mood</color> and <color=#BDA849>Cognition</color> upon completing the trip.",
+        "unlock": [
+            30,
+            0,
+            0,
+            20
+        ]
+    },
+    "all": [
+        1101,
+        1102,
+        1103,
+        1201,
+        1202,
+        1203,
+        1301,
+        1302,
+        1303
+    ]
+}

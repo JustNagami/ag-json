@@ -1,0 +1,165 @@
+{
+    "1": {
+        "name": "Survival Instinct ",
+        "id": 1,
+        "new_condition": 0,
+        "icon": "beacon_1",
+        "desc": "Immediately restores 20% of the Team Leader's max HP when they take lethal damage. This effect can be triggered only once per battle.",
+        "effect_id_list": [
+            44001
+        ],
+        "require_terminal_list": []
+    },
+    "2": {
+        "name": "Proof of Vengeance",
+        "id": 2,
+        "new_condition": 20303,
+        "icon": "beacon_2",
+        "desc": "Increases the Team Leader's DMG by 50% when an allied Mod is defeated. Stacks up to 2 times.",
+        "effect_id_list": [
+            44002
+        ],
+        "require_terminal_list": []
+    },
+    "3": {
+        "name": "Way to Wealth ",
+        "id": 3,
+        "new_condition": 0,
+        "icon": "beacon_3",
+        "desc": "Gain 100% more Treasure Coins when choosing the Abandon option. ",
+        "effect_id_list": [
+            11001
+        ],
+        "require_terminal_list": []
+    },
+    "4": {
+        "name": "Ironwill Hunter ",
+        "id": 4,
+        "new_condition": 0,
+        "icon": "beacon_4",
+        "desc": "Reduces the Mods' DEF by 10% and increases the Healing effects on Mods by 20%.",
+        "effect_id_list": [
+            44003
+        ],
+        "require_terminal_list": []
+    },
+    "5": {
+        "name": "Pitiless Scale ",
+        "id": 5,
+        "new_condition": 20401,
+        "icon": "beacon_5",
+        "desc": "Increases the ATK of both Mods and enemy units by 20%.",
+        "effect_id_list": [
+            44004,
+            44005
+        ],
+        "require_terminal_list": []
+    },
+    "6": {
+        "name": "Private Channels ",
+        "id": 6,
+        "new_condition": 20515,
+        "icon": "beacon_6",
+        "desc": "Adds 3 extra items to choose from in the Dimensional Shop. ",
+        "effect_id_list": [
+            11002
+        ],
+        "require_terminal_list": []
+    },
+    "7": {
+        "name": "Trading Strategy ",
+        "id": 7,
+        "new_condition": 20515,
+        "icon": "beacon_7",
+        "desc": "Items in the Dimensional Shop can be refreshed for free twice.",
+        "effect_id_list": [
+            11003
+        ],
+        "require_terminal_list": [
+            201
+        ]
+    },
+    "8": {
+        "name": "Mercenary's Wager ",
+        "id": 8,
+        "new_condition": 20520,
+        "icon": "beacon_8",
+        "desc": "Grants one extra stage option to select from on the first level. ",
+        "effect_id_list": [
+            11004
+        ],
+        "require_terminal_list": []
+    },
+    "9": {
+        "name": "Coordinated Combat ",
+        "id": 9,
+        "new_condition": 20540,
+        "icon": "beacon_9",
+        "desc": "Team Leader can be switched before battle.",
+        "effect_id_list": [
+            11005
+        ],
+        "require_terminal_list": []
+    },
+    "10": {
+        "name": "Lone Wolf ",
+        "id": 10,
+        "new_condition": 20403,
+        "icon": "beacon_10",
+        "desc": "Increases the Team Leader's ATK and original max HP by 100% when they are the only Mod in battle.",
+        "effect_id_list": [
+            11034,
+            18001,
+            44006
+        ],
+        "require_terminal_list": []
+    },
+    "11": {
+        "name": "Refurb Expert ",
+        "id": 11,
+        "new_condition": 0,
+        "icon": "beacon_11",
+        "desc": "When obtaining an upgradable Memory Treasure, upgrade it 2 times.",
+        "effect_id_list": [
+            11006
+        ],
+        "require_terminal_list": []
+    },
+    "12": {
+        "name": "Divine Synergy ",
+        "id": 12,
+        "new_condition": 20520,
+        "icon": "beacon_12",
+        "desc": "Triggering the maximum effect of the Gen-zone Bonus only requires 2 Mods of the same Gen-zone. ",
+        "effect_id_list": [
+            44007
+        ],
+        "require_terminal_list": []
+    },
+    "13": {
+        "name": "Bounty Hunter ",
+        "id": 13,
+        "new_condition": 20525,
+        "icon": "beacon_13",
+        "desc": "Gain 50% more Strategy Points from this Dimensional Variable. ",
+        "effect_id_list": [
+            11007
+        ],
+        "require_terminal_list": []
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+    ]
+}

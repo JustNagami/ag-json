@@ -1,0 +1,508 @@
+{
+    "5060401": {
+        "monster_level": 80,
+        "name": "Rage I",
+        "ai_level": 11,
+        "id": 5060401,
+        "map": "5060401",
+        "tips": "Bounty hunters must finish Path of Akkadian alone before they can join the Akkadian Guild\nOnly Rage Mods can enter this stage",
+        "need_default_team": 1,
+        "background_1": "G03a",
+        "position": "",
+        "attribute_factor": [
+            750,
+            1000,
+            2000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5060402": {
+        "monster_level": 80,
+        "name": "Rage II ",
+        "ai_level": 12,
+        "id": 5060402,
+        "map": "5060402",
+        "tips": "Bounty hunters must finish Path of Akkadian alone before they can join the Akkadian Guild\nOnly Rage Mods can enter this stage",
+        "need_default_team": 1,
+        "background_1": "G03a",
+        "position": "",
+        "attribute_factor": [
+            750,
+            1000,
+            2000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5060403": {
+        "monster_level": 80,
+        "name": "Energy I ",
+        "ai_level": 11,
+        "id": 5060403,
+        "map": "5060403",
+        "tips": "Bounty hunters must finish Path of Akkadian alone before they can join the Akkadian Guild\nOnly Energy Mods can enter this stage",
+        "need_default_team": 1,
+        "background_1": "G03a",
+        "position": "",
+        "attribute_factor": [
+            750,
+            1000,
+            2000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5060404": {
+        "monster_level": 80,
+        "name": "Energy II ",
+        "ai_level": 12,
+        "id": 5060404,
+        "map": "5060404",
+        "tips": "Bounty hunters must finish Path of Akkadian alone before they can join the Akkadian Guild\nOnly Energy Mods can enter this stage",
+        "need_default_team": 1,
+        "background_1": "G03a",
+        "position": "",
+        "attribute_factor": [
+            750,
+            1000,
+            2000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5060405": {
+        "monster_level": 80,
+        "name": "Trace I ",
+        "ai_level": 11,
+        "id": 5060405,
+        "map": "5060405",
+        "tips": "Bounty hunters must finish Path of Akkadian alone before they can join the Akkadian Guild\nOnly Trace Mods can enter this stage",
+        "need_default_team": 1,
+        "background_1": "G03a",
+        "position": "",
+        "attribute_factor": [
+            750,
+            1000,
+            2200
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5060406": {
+        "monster_level": 80,
+        "name": "Trace II ",
+        "ai_level": 12,
+        "id": 5060406,
+        "map": "5060406",
+        "tips": "Bounty hunters must finish Path of Akkadian alone before they can join the Akkadian Guild\nOnly Trace Mods can enter this stage",
+        "need_default_team": 1,
+        "background_1": "G03a",
+        "position": "",
+        "attribute_factor": [
+            750,
+            1000,
+            2200
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5060407": {
+        "monster_level": 80,
+        "name": "Divine Grace I ",
+        "ai_level": 11,
+        "id": 5060407,
+        "map": "5060407",
+        "tips": "Bounty hunters must finish Path of Akkadian alone before they can join the Akkadian Guild\nOnly Divine Grace Mods can enter this stage",
+        "need_default_team": 1,
+        "background_1": "G03a",
+        "position": "",
+        "attribute_factor": [
+            750,
+            1000,
+            2200
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5060408": {
+        "monster_level": 80,
+        "name": "Divine Grace II ",
+        "ai_level": 12,
+        "id": 5060408,
+        "map": "5060408",
+        "tips": "Bounty hunters must finish Path of Akkadian alone before they can join the Akkadian Guild\nOnly Divine Grace Mods can enter this stage",
+        "need_default_team": 1,
+        "background_1": "G03a",
+        "position": "",
+        "attribute_factor": [
+            750,
+            1000,
+            2200
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5080401": {
+        "monster_level": 80,
+        "name": "Coordinates: Shadow",
+        "ai_level": 11,
+        "id": 5080401,
+        "map": "5080401",
+        "tips": "Available to Shadow Mods only",
+        "need_default_team": 1,
+        "background_1": "F03a",
+        "position": "",
+        "attribute_factor": [
+            700,
+            1000,
+            2000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5080402": {
+        "monster_level": 80,
+        "name": "Coordinates: Wind",
+        "ai_level": 11,
+        "id": 5080402,
+        "map": "5080402",
+        "tips": "Available to Wind Mods only",
+        "need_default_team": 1,
+        "background_1": "E05",
+        "position": "",
+        "attribute_factor": [
+            700,
+            1000,
+            2000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5080403": {
+        "monster_level": 80,
+        "name": "Coordinates: Fire",
+        "ai_level": 11,
+        "id": 5080403,
+        "map": "5080403",
+        "tips": "Available to Fire Mods only",
+        "need_default_team": 1,
+        "background_1": "E05a",
+        "position": "",
+        "attribute_factor": [
+            700,
+            1000,
+            2000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5080404": {
+        "monster_level": 80,
+        "name": "Coordinates: Ice",
+        "ai_level": 11,
+        "id": 5080404,
+        "map": "5080404",
+        "tips": "Available to Ice Mods only",
+        "need_default_team": 1,
+        "background_1": "F03a",
+        "position": "",
+        "attribute_factor": [
+            700,
+            1000,
+            2000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5080405": {
+        "monster_level": 80,
+        "name": "Coordinates: Water",
+        "ai_level": 11,
+        "id": 5080405,
+        "map": "5080405",
+        "tips": "Available to Water Mods only",
+        "need_default_team": 1,
+        "background_1": "F03a",
+        "position": "",
+        "attribute_factor": [
+            700,
+            1000,
+            2000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5080406": {
+        "monster_level": 80,
+        "name": "Coordinates: Physical",
+        "ai_level": 11,
+        "id": 5080406,
+        "map": "5080406",
+        "tips": "Available to Physical Mods only",
+        "need_default_team": 1,
+        "background_1": "E05",
+        "position": "",
+        "attribute_factor": [
+            700,
+            1000,
+            2000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5080407": {
+        "monster_level": 80,
+        "name": "Coordinates: Light",
+        "ai_level": 11,
+        "id": 5080407,
+        "map": "5080407",
+        "tips": "Available to Light Mods only",
+        "need_default_team": 1,
+        "background_1": "E05a",
+        "position": "",
+        "attribute_factor": [
+            700,
+            1000,
+            2000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5080408": {
+        "monster_level": 80,
+        "name": "Coordinates: Thunder",
+        "ai_level": 11,
+        "id": 5080408,
+        "map": "5080408",
+        "tips": "Available to Thunder Mods only",
+        "need_default_team": 1,
+        "background_1": "F03a",
+        "position": "",
+        "attribute_factor": [
+            650,
+            1000,
+            2000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5140301": {
+        "monster_level": 80,
+        "name": "Physical",
+        "ai_level": 11,
+        "id": 5140301,
+        "map": "5140301",
+        "tips": "Available to Physical Mods only",
+        "need_default_team": 1,
+        "background_1": "L04",
+        "position": "",
+        "attribute_factor": [
+            400,
+            1000,
+            5000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5140302": {
+        "monster_level": 80,
+        "name": "Wind",
+        "ai_level": 11,
+        "id": 5140302,
+        "map": "5140302",
+        "tips": "Available to Wind Mods only",
+        "need_default_team": 1,
+        "background_1": "L04",
+        "position": "",
+        "attribute_factor": [
+            450,
+            1000,
+            5000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5140303": {
+        "monster_level": 80,
+        "name": "Fire",
+        "ai_level": 11,
+        "id": 5140303,
+        "map": "5140303",
+        "tips": "Available to Fire Mods only",
+        "need_default_team": 1,
+        "background_1": "L04",
+        "position": "",
+        "attribute_factor": [
+            450,
+            1000,
+            6000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5140304": {
+        "monster_level": 80,
+        "name": "Ice",
+        "ai_level": 11,
+        "id": 5140304,
+        "map": "5140304",
+        "tips": "Available to Ice Mods only",
+        "need_default_team": 1,
+        "background_1": "L04",
+        "position": "",
+        "attribute_factor": [
+            450,
+            1000,
+            7000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5140305": {
+        "monster_level": 80,
+        "name": "Water",
+        "ai_level": 11,
+        "id": 5140305,
+        "map": "5140305",
+        "tips": "Available to Water Mods only",
+        "need_default_team": 1,
+        "background_1": "L04",
+        "position": "",
+        "attribute_factor": [
+            450,
+            1000,
+            8000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5140306": {
+        "monster_level": 80,
+        "name": "Shadow",
+        "ai_level": 11,
+        "id": 5140306,
+        "map": "5140306",
+        "tips": "Available to Shadow Mods only",
+        "need_default_team": 1,
+        "background_1": "L04",
+        "position": "",
+        "attribute_factor": [
+            400,
+            1000,
+            5000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5140307": {
+        "monster_level": 80,
+        "name": "Light",
+        "ai_level": 11,
+        "id": 5140307,
+        "map": "5140307",
+        "tips": "Available to Light Mods only",
+        "need_default_team": 1,
+        "background_1": "L04",
+        "position": "",
+        "attribute_factor": [
+            400,
+            1000,
+            7000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "5140308": {
+        "monster_level": 80,
+        "name": "Thunder",
+        "ai_level": 11,
+        "id": 5140308,
+        "map": "5140308",
+        "tips": "Available to Thunder Mods only",
+        "need_default_team": 1,
+        "background_1": "L04",
+        "position": "",
+        "attribute_factor": [
+            350,
+            1000,
+            5000
+        ],
+        "team_type": [
+            203,
+            0
+        ]
+    },
+    "all": [
+        5060401,
+        5060402,
+        5060403,
+        5060404,
+        5060405,
+        5060406,
+        5060407,
+        5060408,
+        5080401,
+        5080402,
+        5080403,
+        5080404,
+        5080405,
+        5080406,
+        5080407,
+        5080408,
+        5140301,
+        5140302,
+        5140303,
+        5140304,
+        5140305,
+        5140306,
+        5140307,
+        5140308
+    ]
+}

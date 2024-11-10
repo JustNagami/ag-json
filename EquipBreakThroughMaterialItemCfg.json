@@ -1,0 +1,654 @@
+{
+    "101": {
+        "id": 101,
+        "name": "ATK Boost",
+        "item_type": 1,
+        "icon": "33",
+        "desc": "ATK +%s%%",
+        "params": [
+            357,
+            1,
+            3
+        ]
+    },
+    "102": {
+        "id": 102,
+        "name": "DEF Boost",
+        "item_type": 1,
+        "icon": "34",
+        "desc": "DEF +%s%%",
+        "params": [
+            358,
+            1,
+            3
+        ]
+    },
+    "103": {
+        "id": 103,
+        "name": "Crit Rate Boost",
+        "item_type": 1,
+        "icon": "31",
+        "desc": "Crit Rate +%s%%",
+        "params": [
+            359,
+            1,
+            3
+        ]
+    },
+    "104": {
+        "id": 104,
+        "name": "Crit DMG Boost",
+        "item_type": 1,
+        "icon": "32",
+        "desc": "Crit DMG +%s%%",
+        "params": [
+            360,
+            1,
+            3
+        ]
+    },
+    "1001": {
+        "id": 1001,
+        "name": "Time Backflow: Restore",
+        "item_type": 2,
+        "icon": "21",
+        "desc": "Restores Mods' Combat Resources (Rage, Energy, Traces, Divine Grace) to the maximum when they enter Modified Mode.",
+        "params": [
+            517,
+            1,
+            3
+        ]
+    },
+    "1002": {
+        "id": 1002,
+        "name": "Time Backflow: Reading",
+        "item_type": 2,
+        "icon": "21",
+        "desc": "Restores Mods' Combat Resources (Rage, Energy, Traces, Divine Grace) to the maximum after they exit Modified Mode.",
+        "params": [
+            518,
+            1,
+            3
+        ]
+    },
+    "1003": {
+        "id": 1003,
+        "name": "Momentum Shift: Combat Resources",
+        "item_type": 2,
+        "icon": "6",
+        "desc": "Mods gain Combat Resources based on the resources they use: 30 Divine Grace/Energy/Rage, or 1 Trace when they enter the battle.",
+        "params": [
+            501,
+            1,
+            3
+        ]
+    },
+    "1004": {
+        "id": 1004,
+        "name": "Momentum Shift: Ultimate Skill",
+        "item_type": 2,
+        "icon": "6",
+        "desc": "Increases Mods' Ultimate Skill charge speed by 100% for the first 10 seconds of the battle.",
+        "params": [
+            502,
+            1,
+            3
+        ]
+    },
+    "1005": {
+        "id": 1005,
+        "name": "Momentum Shift: Aether Code",
+        "item_type": 2,
+        "icon": "6",
+        "desc": "Modifying Level reaches S-Grade instantly after Mods gain Modifying Rating for the first time.",
+        "params": [
+            503,
+            1,
+            3
+        ]
+    },
+    "1006": {
+        "id": 1006,
+        "name": "Momentum Shift: Insulate",
+        "item_type": 2,
+        "icon": "6",
+        "desc": "Mods gain Super Armor for the first 15 seconds of the battle.",
+        "params": [
+            504,
+            1,
+            3
+        ]
+    },
+    "1007": {
+        "id": 1007,
+        "name": "Momentum Shift: Siphon",
+        "item_type": 2,
+        "icon": "6",
+        "desc": "Restores 5% of a Mod's max HP when they cast an Ultimate Skill.",
+        "params": [
+            529,
+            1,
+            3
+        ]
+    },
+    "2001": {
+        "id": 2001,
+        "name": "Dimensional Imprint: Olympus",
+        "item_type": 2,
+        "icon": "17",
+        "desc": "Increases Olympus Mods' DMG by 25%.",
+        "params": [
+            198,
+            1,
+            3
+        ]
+    },
+    "2002": {
+        "id": 2002,
+        "name": "Dimensional Imprint: Nile",
+        "item_type": 2,
+        "icon": "17",
+        "desc": "Increases Nile Mods' DMG by 25%.",
+        "params": [
+            199,
+            1,
+            3
+        ]
+    },
+    "2003": {
+        "id": 2003,
+        "name": "Dimensional Imprint: Shinou",
+        "item_type": 2,
+        "icon": "17",
+        "desc": "Increases Shinou Mods' DMG by 25%.",
+        "params": [
+            200,
+            1,
+            3
+        ]
+    },
+    "2004": {
+        "id": 2004,
+        "name": "Dimensional Imprint: Yggdrasill",
+        "item_type": 2,
+        "icon": "17",
+        "desc": "Increases Yggdrasill Mods' DMG by 25%.",
+        "params": [
+            201,
+            1,
+            3
+        ]
+    },
+    "2005": {
+        "id": 2005,
+        "name": "Dimensional Imprint: Asterism",
+        "item_type": 2,
+        "icon": "17",
+        "desc": "Increases Asterism Mods' DMG by 25%.",
+        "params": [
+            202,
+            1,
+            3
+        ]
+    },
+    "2006": {
+        "id": 2006,
+        "name": "Perfect Flow: Rage",
+        "item_type": 2,
+        "icon": "20",
+        "desc": "Increases Rage charge speed of Rage Mods by 100% for 10 seconds after they trigger Dodge effects.",
+        "params": [
+            506,
+            1,
+            3
+        ]
+    },
+    "2007": {
+        "id": 2007,
+        "name": "Perfect Flow: Recharge",
+        "item_type": 2,
+        "icon": "20",
+        "desc": "Energy Mods gain 50 Energy after they trigger Dodge effects.",
+        "params": [
+            507,
+            1,
+            3
+        ]
+    },
+    "2008": {
+        "id": 2008,
+        "name": "Perfect Flow: Return",
+        "item_type": 2,
+        "icon": "20",
+        "desc": "When a Trace Mod triggers the Dodge effect, they will regain all spent Traces the next time they cast a Trace Skill.",
+        "params": [
+            508,
+            1,
+            3
+        ]
+    },
+    "2009": {
+        "id": 2009,
+        "name": "Perfect Flow: Patch",
+        "item_type": 2,
+        "icon": "20",
+        "desc": "Divine Grace Mods gain 50 Divine Grace after they trigger Dodge effects.",
+        "params": [
+            509,
+            1,
+            3
+        ]
+    },
+    "2010": {
+        "id": 2010,
+        "name": "Perfect Flow: Fission",
+        "item_type": 2,
+        "icon": "20",
+        "desc": "Resets a Mod's Skill 3 cooldown after they trigger Dodge effects.",
+        "params": [
+            510,
+            1,
+            3
+        ]
+    },
+    "3004": {
+        "id": 3004,
+        "name": "Fusion Reaction",
+        "item_type": 2,
+        "icon": "9",
+        "desc": "Increases Mods' Ultimate Skill charge speed by 30%.",
+        "params": [
+            239,
+            1,
+            3
+        ]
+    },
+    "3005": {
+        "id": 3005,
+        "name": "Entropy Spread",
+        "item_type": 2,
+        "icon": "10",
+        "desc": "Increases Mods' Rage charge speed by 50%.",
+        "params": [
+            179,
+            1,
+            3
+        ]
+    },
+    "3006": {
+        "id": 3006,
+        "name": "Mass-Energy Swap",
+        "item_type": 2,
+        "icon": "11",
+        "desc": "Increases Mods' Energy charge speed by 50%.",
+        "params": [
+            180,
+            1,
+            3
+        ]
+    },
+    "3007": {
+        "id": 3007,
+        "name": "Aether Tide",
+        "item_type": 2,
+        "icon": "13",
+        "desc": "Increases Mods' Divine Grace charge speed by 50%.",
+        "params": [
+            181,
+            1,
+            3
+        ]
+    },
+    "3008": {
+        "id": 3008,
+        "name": "Super Algorithms ",
+        "item_type": 2,
+        "icon": "12",
+        "desc": "Mods have a 50% chance of getting an additional Trace when obtaining Traces.",
+        "params": [
+            182,
+            1,
+            3
+        ]
+    },
+    "3009": {
+        "id": 3009,
+        "name": "Spectral Scattering ",
+        "item_type": 2,
+        "icon": "16",
+        "desc": "Increases Healing effects Mods receive by 25%.",
+        "params": [
+            235,
+            2,
+            3
+        ]
+    },
+    "3010": {
+        "id": 3010,
+        "name": "Static Field ",
+        "item_type": 2,
+        "icon": "18",
+        "desc": "Mods spend 25% less Dodge Energy.",
+        "params": [
+            177,
+            1,
+            3
+        ]
+    },
+    "3011": {
+        "id": 3011,
+        "name": "Superconducting Resonance ",
+        "item_type": 2,
+        "icon": "19",
+        "desc": "Increases Mods' Dodge Energy charge speed by 50%.",
+        "params": [
+            547,
+            1,
+            3
+        ]
+    },
+    "3012": {
+        "id": 3012,
+        "name": "Rapid Supercomputing",
+        "item_type": 2,
+        "icon": "20",
+        "desc": "Restores 3% of every Mod's max HP after a Mod triggers Dodge effects.",
+        "params": [
+            512,
+            1,
+            3
+        ]
+    },
+    "3013": {
+        "id": 3013,
+        "name": "Instant Simulation",
+        "item_type": 2,
+        "icon": "21",
+        "desc": "Randomly resets one of the Mod's skill in cooldown after they cast an Ultimate Skill.",
+        "params": [
+            530,
+            1,
+            3
+        ]
+    },
+    "4001": {
+        "id": 4001,
+        "name": "Spiral Filter",
+        "item_type": 2,
+        "icon": "8",
+        "desc": "Increases Modifying Level charge speed by 30%.",
+        "params": [
+            230,
+            1,
+            3
+        ]
+    },
+    "4002": {
+        "id": 4002,
+        "name": "Wave Function Collapse ",
+        "item_type": 2,
+        "icon": "4",
+        "desc": "Increases Mods' Final DMG by 25%.",
+        "params": [
+            237,
+            2,
+            3
+        ]
+    },
+    "4003": {
+        "id": 4003,
+        "name": "Time Backflow: Update",
+        "item_type": 2,
+        "icon": "21",
+        "desc": "Restores Mods' Ultimate Skill charge to the maximum when they enter Modified Mode.",
+        "params": [
+            519,
+            1,
+            3
+        ]
+    },
+    "4004": {
+        "id": 4004,
+        "name": "Time Backflow: Reset",
+        "item_type": 2,
+        "icon": "21",
+        "desc": "Resets Mods' all skill and Ultimate Skill cooldowns when they enter Modified Mode.",
+        "params": [
+            520,
+            1,
+            3
+        ]
+    },
+    "4005": {
+        "id": 4005,
+        "name": "Time Backflow: Sync",
+        "item_type": 2,
+        "icon": "21",
+        "desc": "Resets Mods' all skill and Ultimate Skill cooldowns after they exit Modified Mode.",
+        "params": [
+            521,
+            1,
+            3
+        ]
+    },
+    "4006": {
+        "id": 4006,
+        "name": "Time Backflow: Recover",
+        "item_type": 2,
+        "icon": "21",
+        "desc": "Restores 10% of Mods max HP when they enter Modified Mode.",
+        "params": [
+            522,
+            1,
+            3
+        ]
+    },
+    "4007": {
+        "id": 4007,
+        "name": "Time Backflow: Release",
+        "item_type": 2,
+        "icon": "21",
+        "desc": "Restores Mods' HP by the percentage of the enemy's max HP lowered in Modified Mode after they exit Modified Mode.",
+        "params": [
+            523,
+            1,
+            3
+        ]
+    },
+    "4008": {
+        "id": 4008,
+        "name": "Time Backflow: Redrive",
+        "item_type": 2,
+        "icon": "21",
+        "desc": "Extends the duration of Modified Mode by 6 seconds.",
+        "params": [
+            524,
+            1,
+            3
+        ]
+    },
+    "4009": {
+        "id": 4009,
+        "name": "Time Backflow: Archive",
+        "item_type": 2,
+        "icon": "21",
+        "desc": "Deals DMG to an enemy equal to 20% of the DMG they take in Modified Mode after Mods exit Modified Mode.",
+        "params": [
+            525,
+            1,
+            3
+        ]
+    },
+    "4010": {
+        "id": 4010,
+        "name": "Perfect Flow: Leapfrog",
+        "item_type": 2,
+        "icon": "20",
+        "desc": "Modifying Level reaches \u03a9-Grade instantly after a Mod triggers Dodge effects.",
+        "params": [
+            515,
+            1,
+            3
+        ]
+    },
+    "4011": {
+        "id": 4011,
+        "name": "Perfect Flow: Ripple",
+        "item_type": 2,
+        "icon": "20",
+        "desc": "Increases the charge speed of a Mod's Charge skills by 40% till the end of battle after they trigger Dodge effects; stacks up to 3 times.",
+        "params": [
+            516,
+            1,
+            3
+        ]
+    },
+    "4012": {
+        "id": 4012,
+        "name": "Photic Leap: Power",
+        "item_type": 2,
+        "icon": "1",
+        "desc": "Reduces Rage Mods' Rage cost for skills by 30%.",
+        "params": [
+            535,
+            1,
+            3
+        ]
+    },
+    "4013": {
+        "id": 4013,
+        "name": "Photic Leap: Extreme Speed",
+        "item_type": 2,
+        "icon": "1",
+        "desc": "Rage Mods gain 3 Rage every second.",
+        "params": [
+            536,
+            1,
+            3
+        ]
+    },
+    "4014": {
+        "id": 4014,
+        "name": "Photic Leap: EM Storm",
+        "item_type": 2,
+        "icon": "1",
+        "desc": "Increases Energy charge speed of Energy Mods by 30%.",
+        "params": [
+            537,
+            1,
+            3
+        ]
+    },
+    "4015": {
+        "id": 4015,
+        "name": "Photic Leap: Erosion",
+        "item_type": 2,
+        "icon": "1",
+        "desc": "Reduces Energy Mods' Energy cost for skills by 30%.",
+        "params": [
+            538,
+            1,
+            3
+        ]
+    },
+    "4016": {
+        "id": 4016,
+        "name": "Photic Leap: Threshold",
+        "item_type": 2,
+        "icon": "1",
+        "desc": "Trace Mods gain 1 extra Trace when they trigger Interruption Refund; triggers only once every 7 seconds.",
+        "params": [
+            539,
+            1,
+            3
+        ]
+    },
+    "4017": {
+        "id": 4017,
+        "name": "Photic Leap: Bestow",
+        "item_type": 2,
+        "icon": "1",
+        "desc": "Trace Mods regain one of the Traces when they are consumed; triggers only once every 7 seconds.",
+        "params": [
+            540,
+            1,
+            3
+        ]
+    },
+    "4018": {
+        "id": 4018,
+        "name": "Photic Leap: Rolling Thunder",
+        "item_type": 2,
+        "icon": "1",
+        "desc": "Increases Divine Grace charge speed of Divine Grace Mods by 30%.",
+        "params": [
+            541,
+            1,
+            3
+        ]
+    },
+    "4019": {
+        "id": 4019,
+        "name": "Photic Leap: Inscription",
+        "item_type": 2,
+        "icon": "1",
+        "desc": "Restores HP equal to 30% of a Mod's ATK when their Divine Grace reaches the maximum, triggers only once every 6 seconds.",
+        "params": [
+            542,
+            1,
+            3
+        ]
+    },
+    "all": [
+        101,
+        102,
+        103,
+        104,
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        3004,
+        3005,
+        3006,
+        3007,
+        3008,
+        3009,
+        3010,
+        3011,
+        3012,
+        3013,
+        4001,
+        4002,
+        4003,
+        4004,
+        4005,
+        4006,
+        4007,
+        4008,
+        4009,
+        4010,
+        4011,
+        4012,
+        4013,
+        4014,
+        4015,
+        4016,
+        4017,
+        4018,
+        4019
+    ]
+}

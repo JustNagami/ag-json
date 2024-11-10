@@ -1,0 +1,321 @@
+{
+    "1001": {
+        "closetime": 5,
+        "priority": 1,
+        "talk_adapt": 1,
+        "talk_anchors": 1,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1001,
+        "talk_content": "Rookie, we have created this welcome ceremony just for you. Keep it up!",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "buttonNewbie_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010005
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010113
+            ]
+        ],
+        "talk_position": [
+            568,
+            -284
+        ]
+    },
+    "1003": {
+        "closetime": 5,
+        "priority": -1,
+        "talk_adapt": 2,
+        "talk_anchors": 3,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1003,
+        "talk_content": "Matrix guilds are available.",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "btnGuild_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "playerLevel",
+                30
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010613
+            ]
+        ],
+        "talk_position": [
+            -600,
+            240
+        ]
+    },
+    "1004": {
+        "closetime": 5,
+        "priority": -2,
+        "talk_adapt": 2,
+        "talk_anchors": 2,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1004,
+        "talk_content": "Admin, you may now access the Hot Events screen.",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "@@activityEntraceView_",
+            1
+        ],
+        "mask_component": [
+            "guideComponents",
+            "guide_activity"
+        ],
+        "opencondition": [
+            [
+                "playerLevel",
+                35
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010811
+            ]
+        ],
+        "talk_position": [
+            -760,
+            -330
+        ]
+    },
+    "1005": {
+        "closetime": 5,
+        "priority": -3,
+        "talk_adapt": 1,
+        "talk_anchors": 1,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1005,
+        "talk_content": "I believe you are now very familiar with your basic duties, Admin. So let's get to the study program now!",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "btn_newbie_task"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "playerLevel",
+                41
+            ]
+        ],
+        "skipcondition": [
+            [
+                "playerLevel",
+                45
+            ]
+        ],
+        "talk_position": [
+            568,
+            -267
+        ]
+    },
+    "1101": {
+        "closetime": 5,
+        "priority": 5,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1101,
+        "talk_content": "The Factor Collection game mode is now available for play, and you may now start to earn the resources needed for skill enhancement.",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010102
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1102": {
+        "closetime": 5,
+        "priority": 4,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1102,
+        "talk_content": "The Simulation Battle game mode is now available for play, and you may now start to earn the resources needed to level up your Modifiers.",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010108
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1103": {
+        "closetime": 5,
+        "priority": 3,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1103,
+        "talk_content": "The Depth Prospecting game mode is now available for play, and you may now start to earn the resources needed for Access Key enhancement.",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010113
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1104": {
+        "closetime": 5,
+        "priority": 2,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1104,
+        "talk_content": "The Lost Vestiges game mode is now available for play, and you may now start to earn the resources needed for Modifier LimitBreaks.",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010204
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1105": {
+        "closetime": 5,
+        "priority": 1,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1105,
+        "talk_content": "The Extreme Extraction and Coin Commission game modes are now available for play, and you may now start to earn all related resources.",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010211
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "get_id_list_by_name": {
+        "chapterMap": [
+            1101,
+            1102,
+            1103,
+            1104,
+            1105
+        ],
+        "home": [
+            1001,
+            1003,
+            1004,
+            1005
+        ]
+    },
+    "all": [
+        1001,
+        1003,
+        1004,
+        1005,
+        1101,
+        1102,
+        1103,
+        1104,
+        1105
+    ]
+}

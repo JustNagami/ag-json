@@ -1,0 +1,76 @@
+{
+    "1": {
+        "shadow": 1,
+        "name": "\u6781\u7b80",
+        "post_process": 1,
+        "vertical_sync": 1,
+        "frame": 0,
+        "anti_aliasing": 0,
+        "user_effect": 1,
+        "id": 1,
+        "teammate_effect": 1
+    },
+    "6": {
+        "shadow": 1,
+        "name": "\u7701\u7535",
+        "post_process": 1,
+        "vertical_sync": 1,
+        "frame": 0,
+        "anti_aliasing": 0,
+        "user_effect": 1,
+        "id": 6,
+        "teammate_effect": 1
+    },
+    "2": {
+        "shadow": 1,
+        "name": "\u6d41\u7545",
+        "post_process": 2,
+        "vertical_sync": 1,
+        "frame": 1,
+        "anti_aliasing": 1,
+        "user_effect": 2,
+        "id": 2,
+        "teammate_effect": 1
+    },
+    "3": {
+        "shadow": 2,
+        "name": "\u6e05\u6670",
+        "post_process": 2,
+        "vertical_sync": 1,
+        "frame": 1,
+        "anti_aliasing": 1,
+        "user_effect": 3,
+        "id": 3,
+        "teammate_effect": 2
+    },
+    "4": {
+        "shadow": 3,
+        "name": "\u9ad8\u6e05",
+        "post_process": 3,
+        "vertical_sync": 1,
+        "frame": 3,
+        "anti_aliasing": 1,
+        "user_effect": 4,
+        "id": 4,
+        "teammate_effect": 3
+    },
+    "5": {
+        "shadow": 3,
+        "name": "\u8d85\u6e05",
+        "post_process": 3,
+        "vertical_sync": 1,
+        "frame": 2,
+        "anti_aliasing": 1,
+        "user_effect": 4,
+        "id": 5,
+        "teammate_effect": 4
+    },
+    "all": [
+        1,
+        6,
+        2,
+        3,
+        4,
+        5
+    ]
+}

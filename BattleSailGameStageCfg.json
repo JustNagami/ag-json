@@ -1,0 +1,149 @@
+{
+    "5110201": {
+        "tips": "\"Wow! It's been a long time since I've met an adventurer as powerful as you. Come have a match-up with me!\"",
+        "name": "Let's Spar",
+        "ai_level": 0,
+        "map": "5110201",
+        "monster_level": 80,
+        "drop_lib_id": 12000001,
+        "id": 5110201,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1081,
+                108102
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    "5110202": {
+        "tips": "\"Where did this impetuous adventurer come from? Don't you know that it's dangerous to wander in uninhabited waters like this? Let me teach you some rules for survival here!\"",
+        "name": "A Familiar Feeling",
+        "ai_level": 0,
+        "map": "5110202",
+        "monster_level": 80,
+        "drop_lib_id": 12000002,
+        "id": 5110202,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1081,
+                108102
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    "5110203": {
+        "tips": "\"I'm so hungry... There's less and less food here. Would you help me hunt for some food?\"",
+        "name": "Tummy Growling",
+        "ai_level": 0,
+        "map": "5110203",
+        "monster_level": 80,
+        "drop_lib_id": 12000003,
+        "id": 5110203,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1081,
+                108102
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    "5110204": {
+        "tips": "\"O mighty adventurer, my home has been intruded upon by bandits who have come out of nowhere. Would you help evict them from my home?\"",
+        "name": "Girl in Trouble",
+        "ai_level": 0,
+        "map": "5110204",
+        "monster_level": 80,
+        "drop_lib_id": 12000004,
+        "id": 5110204,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1081,
+                108102
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    "5110205": {
+        "tips": "\"Why am I here? I don't know... Wow, a lot of bad guys suddenly appeared on the way home. Would you drive them away and take me home?\"",
+        "name": "Where to Go",
+        "ai_level": 0,
+        "map": "5110205",
+        "monster_level": 80,
+        "drop_lib_id": 12000005,
+        "id": 5110205,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1081,
+                108102
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    "all": [
+        5110201,
+        5110202,
+        5110203,
+        5110204,
+        5110205
+    ]
+}

@@ -1,0 +1,379 @@
+{
+    "0": {
+        "desc_battle": "",
+        "icon_battle": "0",
+        "name": "0",
+        "type": -1,
+        "dismantle_return": 0,
+        "upgrade_cost": 0,
+        "condition": 0,
+        "desc": "0",
+        "sub_type": 0,
+        "activity_id": 101591,
+        "mini_tip": "",
+        "id": 0,
+        "icon": "0",
+        "title": "Select Drone Type ",
+        "sub_array": [
+            1001,
+            1009
+        ]
+    },
+    "1001": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1001",
+        "name": "Control - A",
+        "type": 0,
+        "dismantle_return": 160,
+        "upgrade_cost": 160,
+        "condition": 0,
+        "desc": "<color=#FF9500>10</color>-meter firing range, deals <color=#FF9500>230%</color> single-target DMG every <color=#FF9500>3</color>s. Reduces the movement speed of enemies hit by <color=#FF9500>35%</color> for <color=#FF9500>2.5</color>s.",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "Branch ",
+        "id": 1001,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1001",
+        "title": "           Enhance the drone ",
+        "desc_battle": [
+            "Low DMG & Slow Debuff"
+        ],
+        "sub_array": [
+            1002
+        ]
+    },
+    "1002": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1002",
+        "name": "Control - A1",
+        "type": 0,
+        "dismantle_return": 250,
+        "upgrade_cost": 250,
+        "condition": 0,
+        "desc": "<color=#FF9500>12</color>-meter firing range, deals <color=#FF9500>350%</color> single-target DMG every <color=#FF9500>3</color>s. Reduces the movement speed of enemies hit by <color=#FF9500>35%</color> for <color=#FF9500>2.5</color>s.",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "Enhance ",
+        "id": 1002,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1002",
+        "title": "Select Drone Branch ",
+        "desc_battle": [
+            "Medium DMG & Slow Debuff"
+        ],
+        "sub_array": [
+            1003,
+            1004
+        ]
+    },
+    "1003": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1003",
+        "name": "Control - AoE",
+        "type": 0,
+        "dismantle_return": 300,
+        "upgrade_cost": 300,
+        "condition": 101601,
+        "desc": "<color=#FF9500>12</color>-meter firing range, deals <color=#FF9500>50%</color> AoE DMG every second. Reduces the movement speed of enemies within range by <color=#FF9500>35%</color> for <color=#FF9500>2.5</color>s.",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "Branch ",
+        "id": 1003,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1003",
+        "title": "Select the drone to be enhanced ",
+        "desc_battle": [
+            "AoE DMG & Slow Debuff"
+        ],
+        "sub_array": [
+            1005,
+            1006
+        ]
+    },
+    "1004": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1004",
+        "name": "Control - Frost",
+        "type": 0,
+        "dismantle_return": 300,
+        "upgrade_cost": 300,
+        "condition": 101602,
+        "desc": "<color=#FF9500>12</color>-meter firing range, launches a frost bomb every <color=#FF9500>8</color>s that deals <color=#FF9500>500%</color> AoE DMG to everything within a <color=#FF9500>4</color>-meter radius. Enemies hit are frozen for <color=#FF9500>3</color>s.",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "Branch ",
+        "id": 1004,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1004",
+        "title": "Select the drone to be enhanced ",
+        "desc_battle": [
+            "Frost bomb"
+        ],
+        "sub_array": [
+            1007,
+            1008
+        ]
+    },
+    "1005": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1005",
+        "name": "Control - Dissolution",
+        "type": 0,
+        "dismantle_return": 200,
+        "upgrade_cost": 200,
+        "condition": 101601,
+        "desc": "Maximum device level of <color=#FF9500>3</color>, deals more DMG the lower the enemy's HP gets. The enemy takes an additional <color=#FF9500>1%</color>, <color=#FF9500>2%</color>, or <color=#FF9500>3%</color> DMG respectively for every <color=#FF9500>1%</color> HP they lose.",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "Lv. {0}",
+        "id": 1005,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1005",
+        "title": "",
+        "desc_battle": [
+            "Deals more DMG with lower HP",
+            "Deals more DMG with lower HP",
+            "Deals more DMG with lower HP"
+        ],
+        "sub_array": []
+    },
+    "1006": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1006",
+        "name": "Control - Confusion",
+        "type": 0,
+        "dismantle_return": 300,
+        "upgrade_cost": 300,
+        "condition": 101601,
+        "desc": "Maximum device level of <color=#FF9500>2</color>. Confuses enemies within range every <color=#FF9500>25</color> and <color=#FF9500>15</color>s respectively for <color=#FF9500>5</color>s.",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "Lv. {0}",
+        "id": 1006,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1006",
+        "title": "",
+        "desc_battle": [
+            "Confuses the enemy every 25s",
+            "Confuses the enemy every 15s"
+        ],
+        "sub_array": []
+    },
+    "1007": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1007",
+        "name": "Control - Defrosting",
+        "type": 0,
+        "dismantle_return": 200,
+        "upgrade_cost": 200,
+        "condition": 101602,
+        "desc": "Maximum device level of <color=#FF9500>3</color>. The enemy takes an additional <color=#FF9500>300%</color>, <color=#FF9500>600%</color>, and <color=#FF9500>900%</color> DMG respectively when unfrozen.",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "Lv. {0}",
+        "id": 1007,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1007",
+        "title": "",
+        "desc_battle": [
+            "Enemy takes Medium DMG when unfrozen",
+            "Enemy takes High DMG when unfrozen",
+            "Enemy takes Highest DMG when unfrozen"
+        ],
+        "sub_array": []
+    },
+    "1008": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1008",
+        "name": "Control - Iciness",
+        "type": 0,
+        "dismantle_return": 300,
+        "upgrade_cost": 300,
+        "condition": 101602,
+        "desc": "Maximum device level of <color=#FF9500>2</color>. Expands the range of effect of frost bombs to <color=#FF9500>6</color> meters and <color=#FF9500>8</color> meters respectively.",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "Lv. {0}",
+        "id": 1008,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1008",
+        "title": "",
+        "desc_battle": [
+            "Slightly expands the AoE Freeze range",
+            "Greatly expands the AoE Freeze range"
+        ],
+        "sub_array": []
+    },
+    "1009": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1009",
+        "name": "Attack - B",
+        "type": 1,
+        "dismantle_return": 110,
+        "upgrade_cost": 110,
+        "condition": 0,
+        "desc": "<color=#FF9500>10</color>-meter firing range, deals <color=#FF9500>180%</color> single-target DMG every <color=#FF9500>1.5</color>s.",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "Branch ",
+        "id": 1009,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1009",
+        "title": "           Enhance the drone ",
+        "desc_battle": [
+            "Medium DMG"
+        ],
+        "sub_array": [
+            1010
+        ]
+    },
+    "1010": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1010",
+        "name": "Attack - B1",
+        "type": 1,
+        "dismantle_return": 160,
+        "upgrade_cost": 160,
+        "condition": 0,
+        "desc": "<color=#FF9500>12</color>-meter firing range, deals <color=#FF9500>250%</color> single-target DMG every <color=#FF9500>1.5</color>s.",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "Enhance ",
+        "id": 1010,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1010",
+        "title": "Select Drone Branch",
+        "desc_battle": [
+            "High DMG"
+        ],
+        "sub_array": [
+            1011,
+            1012
+        ]
+    },
+    "1011": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1011",
+        "name": "Attack - Flame",
+        "type": 1,
+        "dismantle_return": 230,
+        "upgrade_cost": 230,
+        "condition": 101601,
+        "desc": "<color=#FF9500>12</color>-meter firing range, launches a fire bomb every <color=#FF9500>6</color>s that deals <color=#FF9500>500%</color> AoE DMG to everything within a <color=#FF9500>5</color>-meter radius.",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "Branch ",
+        "id": 1011,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1011",
+        "title": "Select the drone to be enhanced",
+        "desc_battle": [
+            "Fire bomb"
+        ],
+        "sub_array": [
+            1013,
+            1014
+        ]
+    },
+    "1012": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1012",
+        "name": "Attack - Sniper",
+        "type": 1,
+        "dismantle_return": 275,
+        "upgrade_cost": 275,
+        "condition": 101602,
+        "desc": "<color=#FF9500>20</color>-meter firing range. Snipes an enemy every <color=#FF9500>8</color>s, dealing <color=#FF9500>2000%</color> single-target DMG with priority given to elite targets.",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "Branch ",
+        "id": 1012,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1012",
+        "title": "Select the drone to be enhanced",
+        "desc_battle": [
+            "Very High DMG & Super-long range & Long intervals"
+        ],
+        "sub_array": [
+            1015,
+            1016
+        ]
+    },
+    "1013": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1013",
+        "name": "Attack - Burning",
+        "type": 1,
+        "dismantle_return": 200,
+        "upgrade_cost": 200,
+        "condition": 101601,
+        "desc": "Maximum device level of <color=#FF9500>3</color>. When fire bombs hit the enemy, adds a Lv. <color=#FF9500>1</color>, <color=#FF9500>2</color>, and <color=#FF9500>3</color> Scorch respectively for <color=#FF9500>12</color>s.",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "Lv. {0}",
+        "id": 1013,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1013",
+        "title": "",
+        "desc_battle": [
+            "Inflicts Lv.1 Scorch upon hits",
+            "Inflicts Lv.2 Scorch upon hits",
+            "Inflicts Lv.3 Scorch upon hits"
+        ],
+        "sub_array": []
+    },
+    "1014": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1014",
+        "name": "Attack - Assault",
+        "type": 1,
+        "dismantle_return": 300,
+        "upgrade_cost": 300,
+        "condition": 101601,
+        "desc": "Maximum device level of <color=#FF9500>2</color>. Launches additional <color=#FF9500>1</color> and <color=#FF9500>2</color> fire bombs respectively.",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "Lv. {0}",
+        "id": 1014,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1014",
+        "title": "",
+        "desc_battle": [
+            "Launches 2 fire bombs",
+            "Launches 3 fire bombs"
+        ],
+        "sub_array": []
+    },
+    "1015": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1015",
+        "name": "Attack - Overload",
+        "type": 1,
+        "dismantle_return": 200,
+        "upgrade_cost": 200,
+        "condition": 101602,
+        "desc": "Maximum device level of <color=#FF9500>3</color>. Increases sniping speed, changing the interval between attacks to <color=#FF9500>7</color>, <color=#FF9500>6</color>, and <color=#FF9500>5</color>s respectively.",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "Lv. {0}",
+        "id": 1015,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1015",
+        "title": "",
+        "desc_battle": [
+            "Increases sniping speed",
+            "Increases sniping speed",
+            "Increases sniping speed"
+        ],
+        "sub_array": []
+    },
+    "1016": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1016",
+        "name": "Attack - Marking",
+        "type": 1,
+        "dismantle_return": 300,
+        "upgrade_cost": 300,
+        "condition": 101602,
+        "desc": "Maximum device level of <color=#FF9500>2</color>. Attacks mark the target, increasing the DMG it takes by <color=#FF9500>50%</color> and <color=#FF9500>100%</color> respectively for <color=#FF9500>3</color>s.",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "Lv. {0}",
+        "id": 1016,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1016",
+        "title": "",
+        "desc_battle": [
+            "Increases the target's DMG taken by 50%",
+            "Increases the target's DMG taken by 100%"
+        ],
+        "sub_array": []
+    },
+    "all": [
+        0,
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016
+    ]
+}

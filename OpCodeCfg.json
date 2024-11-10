@@ -1,0 +1,874 @@
+{
+    "1": {
+        "id": 1,
+        "name": "GM Operations"
+    },
+    "100": {
+        "id": 100,
+        "name": "Admin Log-in"
+    },
+    "101": {
+        "id": 101,
+        "name": "Mail Attachment"
+    },
+    "102": {
+        "id": 102,
+        "name": "Natural Swigs Recovery"
+    },
+    "103": {
+        "id": 103,
+        "name": "Change Username"
+    },
+    "105": {
+        "id": 105,
+        "name": "Reward Swigs Upon Admin Upgrade"
+    },
+    "106": {
+        "id": 106,
+        "name": "Use Items"
+    },
+    "107": {
+        "id": 107,
+        "name": "Fuse Warehouse Material"
+    },
+    "108": {
+        "id": 108,
+        "name": "Cost Swigs"
+    },
+    "109": {
+        "id": 109,
+        "name": "Dismantle Warehouse Material"
+    },
+    "110": {
+        "id": 110,
+        "name": "Meet the conditions to unlock a Special Title"
+    },
+    "200": {
+        "id": 200,
+        "name": "Purchasing Ain Soph Coin with Shifted Stars"
+    },
+    "201": {
+        "id": 201,
+        "name": "Redeeming Swigs with Shifted Stars"
+    },
+    "202": {
+        "id": 202,
+        "name": "Redeem Shifted Stars with Shifting Flowers"
+    },
+    "300": {
+        "id": 300,
+        "name": "Transcend Modifier"
+    },
+    "301": {
+        "id": 301,
+        "name": "Upgrade Modifier"
+    },
+    "302": {
+        "id": 302,
+        "name": "Obtain Modifier"
+    },
+    "303": {
+        "id": 303,
+        "name": "Unlock Modifier's Aether Code"
+    },
+    "304": {
+        "id": 304,
+        "name": "Upgrade Modifier Skill"
+    },
+    "305": {
+        "id": 305,
+        "name": "Intel Crest Exchange"
+    },
+    "306": {
+        "id": 306,
+        "name": "Modifier LimitBreak"
+    },
+    "307": {
+        "id": 307,
+        "name": "Unlock Modifier Outfit"
+    },
+    "308": {
+        "id": 308,
+        "name": "Upgrade Modifier exclusive skill talent point"
+    },
+    "309": {
+        "id": 309,
+        "name": "Dismantle exclusive material of Modifier Access Key Module"
+    },
+    "310": {
+        "id": 310,
+        "name": "Upgrade Modifier Access Key Module"
+    },
+    "311": {
+        "id": 311,
+        "name": "Modifier Skill Stat Enhancement"
+    },
+    "400": {
+        "id": 400,
+        "name": "Shop Purchase"
+    },
+    "401": {
+        "id": 401,
+        "name": "Shop Refresh"
+    },
+    "402": {
+        "id": 402,
+        "name": "Purchase Cost"
+    },
+    "403": {
+        "id": 403,
+        "name": "Shop Pack"
+    },
+    "500": {
+        "id": 500,
+        "name": "Combat Rewards"
+    },
+    "502": {
+        "id": 502,
+        "name": "Joint Training Refreshed"
+    },
+    "504": {
+        "id": 504,
+        "name": "Chapter Progress Rewards"
+    },
+    "505": {
+        "id": 505,
+        "name": "Recurring Dream Rewards"
+    },
+    "507": {
+        "id": 507,
+        "name": "Reset Treasure Coins in Dimensional Variable"
+    },
+    "600": {
+        "id": 600,
+        "name": "Scan"
+    },
+    "700": {
+        "id": 700,
+        "name": "Functor Transcend"
+    },
+    "701": {
+        "id": 701,
+        "name": "Access Key Enhanced"
+    },
+    "702": {
+        "id": 702,
+        "name": "Access Key LimitBreak"
+    },
+    "703": {
+        "id": 703,
+        "name": "Functor Awaken"
+    },
+    "704": {
+        "id": 704,
+        "name": "Lock Functor"
+    },
+    "705": {
+        "id": 705,
+        "name": "Dismantle Functor"
+    },
+    "800": {
+        "id": 800,
+        "name": "Sigil Enhancement"
+    },
+    "801": {
+        "id": 801,
+        "name": "Sigil LimitBreak"
+    },
+    "802": {
+        "id": 802,
+        "name": "Sigil Dismantle"
+    },
+    "803": {
+        "id": 803,
+        "name": "Sigil Enchant"
+    },
+    "804": {
+        "id": 804,
+        "name": "Sigil Reconstruct"
+    },
+    "805": {
+        "id": 805,
+        "name": "Sigil Warp"
+    },
+    "806": {
+        "id": 806,
+        "name": "Sigil Forge"
+    },
+    "900": {
+        "id": 900,
+        "name": "Claim Mission Reward"
+    },
+    "901": {
+        "id": 901,
+        "name": "Claim Mission Tier Rewards"
+    },
+    "1000": {
+        "id": 1000,
+        "name": "Event - Daily Sign-In"
+    },
+    "1001": {
+        "id": 1001,
+        "name": "Event - Limited Sign-In"
+    },
+    "1002": {
+        "id": 1002,
+        "name": "Memory Game Attempts Deduction Item"
+    },
+    "1003": {
+        "id": 1003,
+        "name": "Mid-autumn Mooncake Source - Make Mooncakes"
+    },
+    "1004": {
+        "id": 1004,
+        "name": "Mid-autumn Mooncake Source - Obtain from Jobs"
+    },
+    "1005": {
+        "id": 1005,
+        "name": "Mid-autumn Mooncake Collection"
+    },
+    "1006": {
+        "id": 1006,
+        "name": "Mid-autumn Visit Rewards"
+    },
+    "1007": {
+        "id": 1007,
+        "name": "Mid-autumn Party Start"
+    },
+    "1100": {
+        "id": 1100,
+        "name": "Create Guild"
+    },
+    "1102": {
+        "id": 1102,
+        "name": "Regular Matrix Supplies"
+    },
+    "1103": {
+        "id": 1103,
+        "name": "Change Guild Name"
+    },
+    "1200": {
+        "id": 1200,
+        "name": "Upgrade Dimensional Terminal"
+    },
+    "1201": {
+        "id": 1201,
+        "name": "Dimensional Variable Strategy Points Reward"
+    },
+    "1202": {
+        "id": 1202,
+        "name": "Dimensional Variable Item Purchase"
+    },
+    "1203": {
+        "id": 1203,
+        "name": "Dimensional Variable Combat Rewards"
+    },
+    "1204": {
+        "id": 1204,
+        "name": "Dimensional Variable Item Obtain"
+    },
+    "1300": {
+        "id": 1300,
+        "name": "Modifier Gift"
+    },
+    "1301": {
+        "id": 1301,
+        "name": "Read the Modifier Bio for the first time"
+    },
+    "1400": {
+        "id": 1400,
+        "name": "Causality Survey Rewards"
+    },
+    "1500": {
+        "id": 1500,
+        "name": "Achievement Rewards"
+    },
+    "1600": {
+        "id": 1600,
+        "name": "Gallery Intel Collection Rewards"
+    },
+    "1601": {
+        "id": 1601,
+        "name": "Gallery Illustration Rewards"
+    },
+    "1602": {
+        "id": 1602,
+        "name": "Gallery Gen-zone Collection Rewards"
+    },
+    "1700": {
+        "id": 1700,
+        "name": "Hazard Zone Cleaning Nightmare Core Collection Rewards"
+    },
+    "1701": {
+        "id": 1701,
+        "name": "Hazard Zone Cleaning Grudge Level Rewards"
+    },
+    "1800": {
+        "id": 1800,
+        "name": "Novice Sign-In"
+    },
+    "1801": {
+        "id": 1801,
+        "name": "Novice Level Rewards"
+    },
+    "1802": {
+        "id": 1802,
+        "name": "Novice Top-up Rewards"
+    },
+    "1803": {
+        "id": 1803,
+        "name": "Novice Course Completion Rewards"
+    },
+    "1900": {
+        "id": 1900,
+        "name": "Restaurant Auto Operation"
+    },
+    "1901": {
+        "id": 1901,
+        "name": "Restaurant Job Modifier"
+    },
+    "1902": {
+        "id": 1902,
+        "name": "Dorm Furniture Upgrade"
+    },
+    "1903": {
+        "id": 1903,
+        "name": "Restaurant Manual Operation"
+    },
+    "1904": {
+        "id": 1904,
+        "name": "Restaurant Level Up"
+    },
+    "1905": {
+        "id": 1905,
+        "name": "Unlock Dorm"
+    },
+    "1906": {
+        "id": 1906,
+        "name": "Room Level Up"
+    },
+    "1907": {
+        "id": 1907,
+        "name": "Dorm Mini-game Obtain Rewards"
+    },
+    "2000": {
+        "id": 2000,
+        "name": "Flip Unlimited Pool Rewards"
+    },
+    "2001": {
+        "id": 2001,
+        "name": "Reset Unlimited Pool Rewards"
+    },
+    "2100": {
+        "id": 2100,
+        "name": "Exchange Trust Gifts"
+    },
+    "2101": {
+        "id": 2101,
+        "name": "Trust Level Up Reward"
+    },
+    "2102": {
+        "id": 2102,
+        "name": "Give Trust Gifts"
+    },
+    "2103": {
+        "id": 2103,
+        "name": "Watch Trust Story Reward"
+    },
+    "3500": {
+        "id": 3500,
+        "name": "Matrix Crusade Node Occupation Earnings"
+    },
+    "3501": {
+        "id": 3501,
+        "name": "Matrix Crusade Joint Attack Rating"
+    },
+    "3502": {
+        "id": 3502,
+        "name": "Matrix Crusade Module Upgrade"
+    },
+    "3900": {
+        "id": 3900,
+        "name": "Skuld's Travel Mission Reward"
+    },
+    "4300": {
+        "id": 4300,
+        "name": "Cultivation Event Mission Reward"
+    },
+    "4301": {
+        "id": 4301,
+        "name": "Cultivation Event Daily Rating Reward"
+    },
+    "4401": {
+        "id": 4401,
+        "name": "Stamp Event Stamp Reward"
+    },
+    "4402": {
+        "id": 4402,
+        "name": "Stamp Event Stamp Cost"
+    },
+    "4500": {
+        "id": 4500,
+        "name": "Claim Tier Rewards in Abyss"
+    },
+    "4600": {
+        "id": 4600,
+        "name": "Redeem Swigs for Side Story Entry Tickets"
+    },
+    "4700": {
+        "id": 4700,
+        "name": "Daily Swigs Pack"
+    },
+    "4800": {
+        "id": 4800,
+        "name": "Redeem Jigsaw Pieces"
+    },
+    "4801": {
+        "id": 4801,
+        "name": "Auto Placement"
+    },
+    "4802": {
+        "id": 4802,
+        "name": "Hint"
+    },
+    "4805": {
+        "id": 4805,
+        "name": "Use Item"
+    },
+    "4900": {
+        "id": 4900,
+        "name": "Use the pouch to obtain a Modifier clue."
+    },
+    "7900": {
+        "id": 7900,
+        "name": "Returner Bonus"
+    },
+    "8000": {
+        "id": 8000,
+        "name": "Top up"
+    },
+    "8001": {
+        "id": 8001,
+        "name": "Total Top-up Rewards"
+    },
+    "8002": {
+        "id": 8002,
+        "name": "Rewards From C-Obs Purchases"
+    },
+    "8003": {
+        "id": 8003,
+        "name": "C-Obs Sign-In"
+    },
+    "8004": {
+        "id": 8004,
+        "name": "Purchase Cooperation Agreement"
+    },
+    "8005": {
+        "id": 8005,
+        "name": "Claim Cooperation Agreement Rewards"
+    },
+    "8006": {
+        "id": 8006,
+        "name": "Reset Cooperation Agreement Event"
+    },
+    "8007": {
+        "id": 8007,
+        "name": "Purchase Cooperation Agreement Level"
+    },
+    "9001": {
+        "id": 9001,
+        "name": "Platform Operations"
+    },
+    "9002": {
+        "id": 9002,
+        "name": "Survey Rewards"
+    },
+    "10001": {
+        "id": 10001,
+        "name": "Enable Regular Matrix Supplies in Guild"
+    },
+    "10002": {
+        "id": 10002,
+        "name": "Enable Aether Matrix Supplies in Guild"
+    },
+    "10003": {
+        "id": 10003,
+        "name": "Convert Surplus Guild EXP into Interlock Crystals"
+    },
+    "11000": {
+        "id": 11000,
+        "name": "Convert Expired Items into Ain Soph Coins"
+    },
+    "12000": {
+        "id": 12000,
+        "name": "Unlock Chip"
+    },
+    "20000": {
+        "id": 20000,
+        "name": "Obtained in stages (Main Story, Side Story and Events)"
+    },
+    "20001": {
+        "id": 20001,
+        "name": "Obtained in events - Combat Loot"
+    },
+    "20002": {
+        "id": 20002,
+        "name": "Obtained in events - Claim Mission Rewards"
+    },
+    "20003": {
+        "id": 20003,
+        "name": "Obtained in events - Claim Points Rewards"
+    },
+    "20004": {
+        "id": 20004,
+        "name": "Obtained in events - Event Rewards"
+    },
+    "20005": {
+        "id": 20005,
+        "name": "Obtained in events - Spend the corresponding event coins"
+    },
+    "21001": {
+        "id": 21001,
+        "name": "Dimensional Variable Strategy Level Rewards Claim and Use"
+    },
+    "21002": {
+        "id": 21002,
+        "name": "Dimensional Variable Strategy Level Reset and Use"
+    },
+    "21003": {
+        "id": 21003,
+        "name": "Obtained upon Clearing Dimensional Variable Stages"
+    },
+    "21004": {
+        "id": 21004,
+        "name": "Obtained upon Unlocking Dimensional Variable Initial Items"
+    },
+    "21005": {
+        "id": 21005,
+        "name": "Obtained upon Unlocking Dimensional Variable Items Reset"
+    },
+    "21006": {
+        "id": 21006,
+        "name": "Dimensional Variable Clear"
+    },
+    "21007": {
+        "id": 21007,
+        "name": "Unlock Dimensional Variable Modifiers"
+    },
+    "22001": {
+        "id": 22001,
+        "name": "Activate Swag Bag"
+    },
+    "22002": {
+        "id": 22002,
+        "name": "Claim Daily Sign-In Reward"
+    },
+    "22003": {
+        "id": 22003,
+        "name": "Claim Total Sign-In Reward"
+    },
+    "23001": {
+        "id": 23001,
+        "name": "Upgrade M.E.O.W skills in Exploration mode"
+    },
+    "23002": {
+        "id": 23002,
+        "name": "Exploration End Rewards"
+    },
+    "23003": {
+        "id": 23003,
+        "name": "Exploration End Rewards"
+    },
+    "23004": {
+        "id": 23004,
+        "name": "Unlock M.E.O.W in Exploration mode"
+    },
+    "24001": {
+        "id": 24001,
+        "name": "Outfit Gift"
+    },
+    "25001": {
+        "id": 25001,
+        "name": "Claim Joint Game Rewards"
+    },
+    "26001": {
+        "id": 26001,
+        "name": "Hades Swimsuit Outfit Extra Sign-in Cost"
+    },
+    "27001": {
+        "id": 27001,
+        "name": "Matrix Crusade Node Occupation Earnings"
+    },
+    "27002": {
+        "id": 27002,
+        "name": "Matrix Crusade Module Upgrade"
+    },
+    "27003": {
+        "id": 27003,
+        "name": "Matrix Crusade Joint Attack Rating"
+    },
+    "28001": {
+        "id": 28001,
+        "name": "Imago Nightmare Mission Rewards"
+    },
+    "28101": {
+        "id": 28101,
+        "name": "Kagutsuchi Event - Battle Mood Cost"
+    },
+    "28102": {
+        "id": 28102,
+        "name": "Kagutsuchi Event - Fishing Grants Mood"
+    },
+    "28103": {
+        "id": 28103,
+        "name": "Kagutsuchi Event - Card Games Grant Mood"
+    },
+    "28104": {
+        "id": 28104,
+        "name": "Kagutsuchi Event - Job Reward"
+    },
+    "28105": {
+        "id": 28105,
+        "name": "Kagutsuchi Event - Card Pool Draw Cost"
+    },
+    "28106": {
+        "id": 28106,
+        "name": "Kagutsuchi Event - Starting Mood"
+    },
+    "28107": {
+        "id": 28107,
+        "name": "Kagutsuchi Event - Card Collection Reward"
+    },
+    "28108": {
+        "id": 28108,
+        "name": "Kagutsuchi Event - Item Added to Card Pool"
+    },
+    "28109": {
+        "id": 28109,
+        "name": "Kagutsuchi Event - Battle Reward"
+    },
+    "28201": {
+        "id": 28201,
+        "name": "Operation: Snowball - Stage Item Cost"
+    },
+    "28202": {
+        "id": 28202,
+        "name": "Operation: Snowball - Grants Item Reward"
+    },
+    "29001": {
+        "id": 29001,
+        "name": "Factory Cleanup - Exploration Reward"
+    },
+    "28301": {
+        "id": 28301,
+        "name": "Wishes Extra Sign-in Cost"
+    },
+    "28302": {
+        "id": 28302,
+        "name": "Wishes Item Cost"
+    },
+    "28303": {
+        "id": 28303,
+        "name": "System Mail Reward Claim"
+    },
+    "28401": {
+        "id": 28401,
+        "name": "Valentines Event Repeat Challenge Cost"
+    },
+    "28501": {
+        "id": 28501,
+        "name": "Celebration Preparation - Cake Requirements"
+    },
+    "28502": {
+        "id": 28502,
+        "name": "Celebration Preparation - Cake Rewards"
+    },
+    "28503": {
+        "id": 28503,
+        "name": "Celebration Preparation - Battle Order Rewards"
+    },
+    "28504": {
+        "id": 28504,
+        "name": "Celebration Preparation - Box Puzzle Order Rewards"
+    },
+    "28601": {
+        "id": 28601,
+        "name": "Iterative Testing: Attribute Challenge Rewards"
+    },
+    "all": [
+        1,
+        100,
+        101,
+        102,
+        103,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        200,
+        201,
+        202,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        400,
+        401,
+        402,
+        403,
+        500,
+        502,
+        504,
+        505,
+        507,
+        600,
+        700,
+        701,
+        702,
+        703,
+        704,
+        705,
+        800,
+        801,
+        802,
+        803,
+        804,
+        805,
+        806,
+        900,
+        901,
+        1000,
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1100,
+        1102,
+        1103,
+        1200,
+        1201,
+        1202,
+        1203,
+        1204,
+        1300,
+        1301,
+        1400,
+        1500,
+        1600,
+        1601,
+        1602,
+        1700,
+        1701,
+        1800,
+        1801,
+        1802,
+        1803,
+        1900,
+        1901,
+        1902,
+        1903,
+        1904,
+        1905,
+        1906,
+        1907,
+        2000,
+        2001,
+        2100,
+        2101,
+        2102,
+        2103,
+        3500,
+        3501,
+        3502,
+        3900,
+        4300,
+        4301,
+        4401,
+        4402,
+        4500,
+        4600,
+        4700,
+        4800,
+        4801,
+        4802,
+        4805,
+        4900,
+        7900,
+        8000,
+        8001,
+        8002,
+        8003,
+        8004,
+        8005,
+        8006,
+        8007,
+        9001,
+        9002,
+        10001,
+        10002,
+        10003,
+        11000,
+        12000,
+        20000,
+        20001,
+        20002,
+        20003,
+        20004,
+        20005,
+        21001,
+        21002,
+        21003,
+        21004,
+        21005,
+        21006,
+        21007,
+        22001,
+        22002,
+        22003,
+        23001,
+        23002,
+        23003,
+        23004,
+        24001,
+        25001,
+        26001,
+        27001,
+        27002,
+        27003,
+        28001,
+        28101,
+        28102,
+        28103,
+        28104,
+        28105,
+        28106,
+        28107,
+        28108,
+        28109,
+        28201,
+        28202,
+        29001,
+        28301,
+        28302,
+        28303,
+        28401,
+        28501,
+        28502,
+        28503,
+        28504,
+        28601
+    ]
+}

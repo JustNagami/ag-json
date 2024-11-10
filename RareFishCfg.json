@@ -1,0 +1,361 @@
+{
+    "1": {
+        "icon": "1",
+        "name": "Express Fish",
+        "pic": "1",
+        "open_time": 432000,
+        "rare": 3,
+        "desc": "A fast-swimming fish with golden scales. So lively, it does not settle down placidly even after spending some time out of the water. ",
+        "talk": "\"Here's some love and hope straight from the bottom of the sea!\" ",
+        "id": 1,
+        "price": 600,
+        "size": [
+            164,
+            172
+        ]
+    },
+    "2": {
+        "icon": "2",
+        "name": "Osi Fish",
+        "pic": "2",
+        "open_time": 432000,
+        "rare": 3,
+        "desc": "A slender fish with green scales that looks rather meek at first glance. While it is very shy and tends to avoid the gaze of others, at times of need it bravely puts itself in front of the other fish.",
+        "talk": "\"I'm not letting you hurt my friends!\"",
+        "id": 2,
+        "price": 600,
+        "size": [
+            139,
+            147
+        ]
+    },
+    "3": {
+        "icon": "3",
+        "name": "Ver Fish",
+        "pic": "3",
+        "open_time": 432000,
+        "rare": 3,
+        "desc": "A highly peppy fish with red scales. Even the fact that it has been fished out of the water does not seem to set it back one bit.",
+        "talk": "\"Hello! Want to be my friend?\"",
+        "id": 3,
+        "price": 600,
+        "size": [
+            161,
+            169
+        ]
+    },
+    "4": {
+        "icon": "4",
+        "name": "Croco Fish",
+        "pic": "4",
+        "open_time": 432000,
+        "rare": 3,
+        "desc": "A fish with green scales that looks rather savage and with a rather stiff carapace on its head. It does not seem to be fully understanding its current situation, though...",
+        "talk": "\"Are you trying to snatch up my food?\"",
+        "id": 4,
+        "price": 600,
+        "size": [
+            172,
+            180
+        ]
+    },
+    "5": {
+        "icon": "5",
+        "name": "Levia Fish",
+        "pic": "5",
+        "open_time": 432000,
+        "rare": 3,
+        "desc": "An adorable and jovial fish with white scales. While it usually looks harmless to humans and animals, and a little confused even. But if there is Vivi Fish nearby, it will be very aggressive to other fish.",
+        "talk": "\"Oh dear, am I lost...?\"",
+        "id": 5,
+        "price": 600,
+        "size": [
+            143,
+            151
+        ]
+    },
+    "6": {
+        "icon": "6",
+        "name": "Vivi Fish",
+        "pic": "6",
+        "open_time": 432000,
+        "rare": 2,
+        "desc": "A rather taciturn fish with white scales that detests higher-temperature environments. Place it in ice water and it becomes more energetic.",
+        "talk": "\"...\"",
+        "id": 6,
+        "price": 300,
+        "size": [
+            158,
+            166
+        ]
+    },
+    "7": {
+        "icon": "7",
+        "name": "Nuadi Fish",
+        "pic": "7",
+        "open_time": 432000,
+        "rare": 2,
+        "desc": "A fish with black scales that is very interested in mechanical equipment. It appears that it allowed itself to be caught in order to further study the workings of the fishing rod...",
+        "talk": "\"Say, where did you get this rod made?\"",
+        "id": 7,
+        "price": 300,
+        "size": [
+            179,
+            187
+        ]
+    },
+    "8": {
+        "icon": "8",
+        "name": "Auau Fish",
+        "pic": "8",
+        "open_time": 432000,
+        "rare": 2,
+        "desc": "A fierce-looking fish with green scales and a mouth of sharp teeth. It is so grouchy and aften has a bad attitude to shut up those who catch it.",
+        "talk": "\"Shut up and watch me roll!\"",
+        "id": 8,
+        "price": 300,
+        "size": [
+            139,
+            147
+        ]
+    },
+    "9": {
+        "icon": "9",
+        "name": "Chairman Fish",
+        "pic": "9",
+        "open_time": 432000,
+        "rare": 2,
+        "desc": "A very valuable-looking fish with brown scales that remains rather cool and unfazed even after being fished out of the water. The odd thing is, while it is clearly a fish, it does not seem that good at swimming.",
+        "talk": "\"What would you like to touch base on?\"",
+        "id": 9,
+        "price": 300,
+        "size": [
+            178,
+            186
+        ]
+    },
+    "10": {
+        "icon": "10",
+        "name": "Lady Fish",
+        "pic": "10",
+        "open_time": 432000,
+        "rare": 2,
+        "desc": "A noble and elegant-looking fish with golden scales that remains dignified even when fished out of the water.",
+        "talk": "\"Watch your behavior, you uncouth angler!\"",
+        "id": 10,
+        "price": 300,
+        "size": [
+            161,
+            169
+        ]
+    },
+    "11": {
+        "icon": "11",
+        "name": "Hody Fish",
+        "pic": "11",
+        "open_time": 432000,
+        "rare": 2,
+        "desc": "A fish with purple scales that looks like the quiet and introverted type. For some reason, it thinks that it is \"not qualified to be caught.\"",
+        "talk": "\"Huh? Why me?\"",
+        "id": 11,
+        "price": 300,
+        "size": [
+            165,
+            173
+        ]
+    },
+    "12": {
+        "icon": "12",
+        "name": "Zenki Fish",
+        "pic": "12",
+        "open_time": 432000,
+        "rare": 2,
+        "desc": "An odd-looking fish with white scales. It appears that some kind of prank is underway and it being caught is but part of the prank.",
+        "talk": "\"Haha, gotcha!\"",
+        "id": 12,
+        "price": 300,
+        "size": [
+            140,
+            148
+        ]
+    },
+    "13": {
+        "icon": "13",
+        "name": "Shuu Fish",
+        "pic": "13",
+        "open_time": 432000,
+        "rare": 2,
+        "desc": "A very serious-looking fish with green scales that loves coffee beans. When this fish is around, the other fish simply fall into line and stop messing around.",
+        "talk": "\"We should make sure that this goes into the records.\"",
+        "id": 13,
+        "price": 300,
+        "size": [
+            163,
+            171
+        ]
+    },
+    "14": {
+        "icon": "14",
+        "name": "Popo Fish",
+        "pic": "14",
+        "open_time": 432000,
+        "rare": 1,
+        "desc": "A beautiful fish with white scales. It appears to be good at listening to others pour their hearts out and singing songs that heal the soul.",
+        "talk": "\"What do you want to tell me?\"",
+        "id": 14,
+        "price": 150,
+        "size": [
+            160,
+            168
+        ]
+    },
+    "15": {
+        "icon": "15",
+        "name": "Ryu Fish",
+        "pic": "15",
+        "open_time": 432000,
+        "rare": 1,
+        "desc": "A rather languid fish with black scales and sharp dorsal fins. For a fish that itself was hooked out of the water, it is abnormally interested in the act of fishing.",
+        "talk": "\"I'm getting a vacation, I guess.\"",
+        "id": 15,
+        "price": 150,
+        "size": [
+            151,
+            159
+        ]
+    },
+    "16": {
+        "icon": "0",
+        "name": "Artsy Fish",
+        "pic": "0",
+        "open_time": 0,
+        "rare": 0,
+        "desc": "An aloof and haughty fish with blue scales. It picks apart the angler's posture, evidently forgetting its own predicament.",
+        "talk": "\"The way you're flinging that rod isn't doing you any favors aesthetically.\"",
+        "id": 16,
+        "price": 0,
+        "size": []
+    },
+    "17": {
+        "icon": "0",
+        "name": "Tsu-Tsu Fish",
+        "pic": "0",
+        "open_time": 0,
+        "rare": 0,
+        "desc": "A sharp-finned fish with purple scales. It seems to see this confrontation with the hook as a training exercise, so it's unlikely it'll be caught the same way twice.",
+        "talk": "\"I clearly wasn't diligent enough with my training.\"",
+        "id": 17,
+        "price": 0,
+        "size": []
+    },
+    "18": {
+        "icon": "0",
+        "name": "Ninkyoumon Fish",
+        "pic": "0",
+        "open_time": 0,
+        "rare": 0,
+        "desc": "A white-scaled fish that hates the cold, yet is always surrounded by bits of ice. It's often found in schools of ordinary fish.",
+        "talk": "\"Brrr!! It's freezing...\"",
+        "id": 18,
+        "price": 0,
+        "size": []
+    },
+    "19": {
+        "icon": "0",
+        "name": "Asura Fish",
+        "pic": "0",
+        "open_time": 0,
+        "rare": 0,
+        "desc": "A feisty fish with black scales, it actively bites the hook as a challenge to the angler. It seems to see this as a way to get stronger.",
+        "talk": "\"You looking for a fight?!\"",
+        "id": 19,
+        "price": 0,
+        "size": []
+    },
+    "20": {
+        "icon": "0",
+        "name": "Gu-Gu Fish",
+        "pic": "0",
+        "open_time": 0,
+        "rare": 0,
+        "desc": "A short-tempered, rebellious fish with brown scales. Ready to square off against the angler, it doesn't stop fighting even when out of the water.",
+        "talk": "\"Hey! Let me go already!\"",
+        "id": 20,
+        "price": 0,
+        "size": []
+    },
+    "21": {
+        "icon": "0",
+        "name": "Wu-Wu Fish",
+        "pic": "0",
+        "open_time": 0,
+        "rare": 0,
+        "desc": "A simple, cute fish with gold scales. Tasked with clearing the waters of Yaoguai, its fateful battle with the \"Evil Pointy Hook Ghost\" ended when it was accidentally captured.",
+        "talk": "\"Waaah! I've been captured by a monster!\"",
+        "id": 21,
+        "price": 0,
+        "size": []
+    },
+    "22": {
+        "icon": "0",
+        "name": "Boss Fish",
+        "pic": "0",
+        "open_time": 0,
+        "rare": 0,
+        "desc": "A glittering fish covered in golden scales, there's a sly gleam in its eyes. It's more interested in gold coins than bait.",
+        "talk": "\"My appearance fee isn't cheap, you know!\"",
+        "id": 22,
+        "price": 0,
+        "size": []
+    },
+    "23": {
+        "icon": "0",
+        "name": "Mantou Fish",
+        "pic": "0",
+        "open_time": 0,
+        "rare": 0,
+        "desc": "A gentle, earnest fish with white scales, it always swims at the front of the school. Unlike the other fish, this one can only be caught with extra hot chili peppers as bait.",
+        "talk": "\"Work smart, not hard.\"",
+        "id": 23,
+        "price": 0,
+        "size": []
+    },
+    "24": {
+        "icon": "0",
+        "name": "Zhang-Zhang Fish",
+        "pic": "0",
+        "open_time": 0,
+        "rare": 0,
+        "desc": "A green-scaled fish swimming around in the water, it went for the bait on its own. Even though fish don't have eyelids, it looks like it's squinting to observe the angler.",
+        "talk": "\"It's called 'taking the bait willingly.'\"",
+        "id": 24,
+        "price": 0,
+        "size": []
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+    ]
+}

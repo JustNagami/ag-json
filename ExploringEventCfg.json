@@ -1,0 +1,338 @@
+{
+    "101": {
+        "event_type": 1,
+        "id": 101,
+        "description": "On a quiet road",
+        "reward": ""
+    },
+    "102": {
+        "event_type": 1,
+        "id": 102,
+        "description": "In the park",
+        "reward": ""
+    },
+    "103": {
+        "event_type": 1,
+        "id": 103,
+        "description": "Behind a brand new trash can",
+        "reward": ""
+    },
+    "104": {
+        "event_type": 1,
+        "id": 104,
+        "description": "At a tourist site",
+        "reward": ""
+    },
+    "105": {
+        "event_type": 1,
+        "id": 105,
+        "description": "In a barbecue joint",
+        "reward": ""
+    },
+    "106": {
+        "event_type": 1,
+        "id": 106,
+        "description": "In the wastelands",
+        "reward": ""
+    },
+    "107": {
+        "event_type": 1,
+        "id": 107,
+        "description": "At the entrance to the gaming parlor",
+        "reward": ""
+    },
+    "108": {
+        "event_type": 1,
+        "id": 108,
+        "description": "On a busy street",
+        "reward": ""
+    },
+    "109": {
+        "event_type": 1,
+        "id": 109,
+        "description": "On the banks of a nameless stream",
+        "reward": ""
+    },
+    "110": {
+        "event_type": 1,
+        "id": 110,
+        "description": "Having accidentally stumbled into a mysterious underground chamber",
+        "reward": ""
+    },
+    "201": {
+        "event_type": 2,
+        "id": 201,
+        "description": "Walking headlong into a child having a tantrum",
+        "reward": ""
+    },
+    "202": {
+        "event_type": 2,
+        "id": 202,
+        "description": "Listening to people talk about the weather",
+        "reward": ""
+    },
+    "203": {
+        "event_type": 2,
+        "id": 203,
+        "description": "Having accidentally fallen into a ditch",
+        "reward": ""
+    },
+    "204": {
+        "event_type": 2,
+        "id": 204,
+        "description": "Chatting for ages to a cheery passerby",
+        "reward": ""
+    },
+    "205": {
+        "event_type": 2,
+        "id": 205,
+        "description": "Being treated like a mascot",
+        "reward": ""
+    },
+    "206": {
+        "event_type": 2,
+        "id": 206,
+        "description": "Accidentally stepping on an egg",
+        "reward": ""
+    },
+    "207": {
+        "event_type": 2,
+        "id": 207,
+        "description": "Spent a long time watching ants",
+        "reward": ""
+    },
+    "208": {
+        "event_type": 2,
+        "id": 208,
+        "description": "Was persuaded to buy the latest fully automatic wheelchair",
+        "reward": ""
+    },
+    "209": {
+        "event_type": 2,
+        "id": 209,
+        "description": "Pick up a forgotten bunch of flowers",
+        "reward": ""
+    },
+    "210": {
+        "event_type": 2,
+        "id": 210,
+        "description": "Slept all day",
+        "reward": ""
+    },
+    "211": {
+        "event_type": 2,
+        "id": 211,
+        "description": "Slept all afternoon",
+        "reward": ""
+    },
+    "212": {
+        "event_type": 2,
+        "id": 212,
+        "description": "Slept for an hour before being woken by a passing kitty",
+        "reward": ""
+    },
+    "213": {
+        "event_type": 2,
+        "id": 213,
+        "description": "Hit in the face by a slice of Hawaiian pizza",
+        "reward": ""
+    },
+    "214": {
+        "event_type": 2,
+        "id": 214,
+        "description": "Listening to two people argue over whether a dish needs cilantro",
+        "reward": ""
+    },
+    "215": {
+        "event_type": 2,
+        "id": 215,
+        "description": "Worked an entire day for free like a Service AGI Mecha",
+        "reward": ""
+    },
+    "216": {
+        "event_type": 2,
+        "id": 216,
+        "description": "Saw a beautiful landscape",
+        "reward": ""
+    },
+    "217": {
+        "event_type": 2,
+        "id": 217,
+        "description": "Enjoyed a charity performance",
+        "reward": ""
+    },
+    "218": {
+        "event_type": 2,
+        "id": 218,
+        "description": "Knocked out by a ball sent flying at my head",
+        "reward": ""
+    },
+    "219": {
+        "event_type": 2,
+        "id": 219,
+        "description": "Picked up a pinecone",
+        "reward": ""
+    },
+    "220": {
+        "event_type": 2,
+        "id": 220,
+        "description": "My way was blocked by a long line of people waiting for something",
+        "reward": ""
+    },
+    "221": {
+        "event_type": 2,
+        "id": 221,
+        "description": "Trapped by a sudden downpour",
+        "reward": ""
+    },
+    "222": {
+        "event_type": 2,
+        "id": 222,
+        "description": "Nearly captured and disassembled by curious people",
+        "reward": ""
+    },
+    "223": {
+        "event_type": 2,
+        "id": 223,
+        "description": "Recorded in a sketch by a student",
+        "reward": ""
+    },
+    "224": {
+        "event_type": 2,
+        "id": 224,
+        "description": "Asked by a passerby to take a group photo",
+        "reward": ""
+    },
+    "301": {
+        "event_type": 3,
+        "id": 301,
+        "description": "Found and brought back some delicious food",
+        "reward": [
+            [
+                54,
+                50
+            ],
+            [
+                2,
+                100
+            ]
+        ]
+    },
+    "302": {
+        "event_type": 3,
+        "id": 302,
+        "description": "Found the purse that had been declared missing",
+        "reward": [
+            [
+                39,
+                80
+            ],
+            [
+                40802,
+                1
+            ]
+        ]
+    },
+    "303": {
+        "event_type": 3,
+        "id": 303,
+        "description": "Helped take down a criminal",
+        "reward": [
+            [
+                55,
+                10
+            ],
+            [
+                2,
+                200
+            ]
+        ]
+    },
+    "304": {
+        "event_type": 3,
+        "id": 304,
+        "description": "Picked up a cute toy",
+        "reward": [
+            [
+                39,
+                120
+            ],
+            [
+                40502,
+                1
+            ]
+        ]
+    },
+    "305": {
+        "event_type": 3,
+        "id": 305,
+        "description": "Found a box with a label reading \"I'm a Treasure Chest\"",
+        "reward": [
+            [
+                41701,
+                1
+            ],
+            [
+                40103,
+                1
+            ]
+        ]
+    },
+    "306": {
+        "event_type": 3,
+        "id": 306,
+        "description": "Escorted the lost child back home",
+        "reward": [
+            [
+                55,
+                20
+            ],
+            [
+                40102,
+                1
+            ]
+        ]
+    },
+    "all": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306
+    ]
+}

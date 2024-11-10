@@ -1,0 +1,130 @@
+{
+    "101": {
+        "type_icon": "icon_skineffect_home",
+        "tag_title": "Main Screen",
+        "type_desc": "Scene Effect",
+        "type": 1,
+        "id": 101,
+        "tag_desc": "New Scene"
+    },
+    "102": {
+        "type_icon": "icon_skineffect_home",
+        "tag_title": "Interaction",
+        "type_desc": "Scene Effect",
+        "type": 1,
+        "id": 102,
+        "tag_desc": "New Main Screen Interaction"
+    },
+    "201": {
+        "type_icon": "icon_skineffect_performance",
+        "tag_title": "Ultimate Skill",
+        "type_desc": "Performance Effect",
+        "type": 2,
+        "id": 201,
+        "tag_desc": "New Animation"
+    },
+    "202": {
+        "type_icon": "icon_skineffect_performance",
+        "tag_title": "Victory",
+        "type_desc": "Performance Effect",
+        "type": 2,
+        "id": 202,
+        "tag_desc": "New Performance"
+    },
+    "203": {
+        "type_icon": "icon_skineffect_performance",
+        "tag_title": "Combat Standby",
+        "type_desc": "Performance Effect",
+        "type": 2,
+        "id": 203,
+        "tag_desc": "New Performance"
+    },
+    "401": {
+        "type_icon": "icon_skineffect_key",
+        "tag_title": "Access Key",
+        "type_desc": "Access Key Effect",
+        "type": 4,
+        "id": 401,
+        "tag_desc": "New Appearance"
+    },
+    "402": {
+        "type_icon": "icon_skineffect_key",
+        "tag_title": "Access Key",
+        "type_desc": "Access Key Effect",
+        "type": 4,
+        "id": 402,
+        "tag_desc": "New Special Effects"
+    },
+    "501": {
+        "type_icon": "icon_skineffect_action",
+        "tag_title": "Interaction",
+        "type_desc": "Interaction",
+        "type": 5,
+        "id": 501,
+        "tag_desc": "New Main Screen Interaction"
+    },
+    "601": {
+        "type_icon": "icon_skineffect_lines",
+        "tag_title": "Interaction",
+        "type_desc": "Script Effect",
+        "type": 6,
+        "id": 601,
+        "tag_desc": "New Main Screen Lines"
+    },
+    "602": {
+        "type_icon": "icon_skineffect_lines",
+        "tag_title": "Combat Voice",
+        "type_desc": "Script Effect",
+        "type": 6,
+        "id": 602,
+        "tag_desc": "New Lines"
+    },
+    "701": {
+        "type_icon": "icon_skineffect_skill",
+        "tag_title": "Skill",
+        "type_desc": "Skill",
+        "type": 7,
+        "id": 701,
+        "tag_desc": "New Special Effects"
+    },
+    "702": {
+        "type_icon": "icon_skineffect_skill",
+        "tag_title": "Normal Attack",
+        "type_desc": "Skill",
+        "type": 7,
+        "id": 702,
+        "tag_desc": "New Special Effects"
+    },
+    "703": {
+        "type_icon": "icon_skineffect_skill",
+        "tag_title": "Ultimate Skill",
+        "type_desc": "Skill",
+        "type": 7,
+        "id": 703,
+        "tag_desc": "New Special Effects"
+    },
+    "704": {
+        "type_icon": "icon_skineffect_skill",
+        "tag_title": "Skillchain",
+        "type_desc": "Skill",
+        "type": 7,
+        "id": 704,
+        "tag_desc": "New Special Effects"
+    },
+    "all": [
+        101,
+        102,
+        201,
+        202,
+        203,
+        401,
+        402,
+        501,
+        601,
+        602,
+        701,
+        702,
+        703,
+        704
+    ]
+}

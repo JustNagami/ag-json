@@ -1,0 +1,544 @@
+{
+    "61091": {
+        "name": "Zone 1",
+        "stage_id": 5010601,
+        "activity_id": 61091,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Charge Skills charge faster.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max (single use).",
+            "Extra Effect 4: Increases Crit Rate."
+        ]
+    },
+    "61092": {
+        "name": "Zone 2",
+        "stage_id": 5010602,
+        "activity_id": 61092,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Restores Combat Resources to max (single use).",
+            "Extra Effect 2: Increases Crit Rate.",
+            "Extra Effect 3: Increases Ultimate Skill DMG.",
+            "Extra Effect 4: Increases Crit DMG."
+        ]
+    },
+    "61093": {
+        "name": "Zone 3",
+        "stage_id": 5010603,
+        "activity_id": 61093,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Increases Ultimate Skill charge speed.",
+            "Extra Effect 2: Increases Ultimate Skill DMG.",
+            "Extra Effect 3: Increases Skill DMG.",
+            "Extra Effect 4: Increases DMG dealt to elite Visbanes."
+        ]
+    },
+    "61094": {
+        "name": "Zone 4",
+        "stage_id": 5010604,
+        "activity_id": 61094,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Gains 1 extra Trace.",
+            "Extra Effect 2: Increases Normal Attack DMG.",
+            "Extra Effect 3: Increases Crit Rate.",
+            "Extra Effect 4: Increases Crit DMG."
+        ]
+    },
+    "61095": {
+        "name": "Zone 5",
+        "stage_id": 5010605,
+        "activity_id": 61095,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Reduces Rage cost.",
+            "Extra Effect 2: Restores Combat Resources to max (single use).",
+            "Extra Effect 3: Increases Normal Attack DMG.",
+            "Extra Effect 4: Increases Crit DMG."
+        ]
+    },
+    "61096": {
+        "name": "Zone 6",
+        "stage_id": 5010606,
+        "activity_id": 61096,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Reduces Energy cost.",
+            "Extra Effect 2: Restores Combat Resources to max (single use).",
+            "Extra Effect 3: Increases DMG dealt to normal Visbanes.",
+            "Extra Effect 4: Increases Ultimate Skill DMG."
+        ]
+    },
+    "61097": {
+        "name": "Zone 7",
+        "stage_id": 5010607,
+        "activity_id": 61097,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Increases Divine Grace charge speed.",
+            "Extra Effect 2: Increases Ultimate Skill charge speed.",
+            "Extra Effect 3: Increases Crit Rate.",
+            "Extra Effect 4: Increases Skill DMG."
+        ]
+    },
+    "81421": {
+        "name": "Design I ",
+        "stage_id": 5040301,
+        "activity_id": 81421,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Reduces Rage cost.",
+            "Extra Effect 2: Increases Ultimate Skill charge speed.",
+            "Extra Effect 3: Increases Ultimate Skill DMG.",
+            "Extra Effect 4: Increases Skill DMG."
+        ]
+    },
+    "81422": {
+        "name": "Design II ",
+        "stage_id": 5040302,
+        "activity_id": 81422,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Reduces Energy cost.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Increases Crit Rate.",
+            "Extra Effect 4: Increases Normal Attack DMG."
+        ]
+    },
+    "81423": {
+        "name": "Inspiration I ",
+        "stage_id": 5040303,
+        "activity_id": 81423,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Gains 1 extra Trace.",
+            "Extra Effect 2: Increases Ultimate Skill charge speed.",
+            "Extra Effect 3: Increases Ultimate Skill DMG.",
+            "Extra Effect 4: Increases Skill DMG."
+        ]
+    },
+    "81424": {
+        "name": "Inspiration II ",
+        "stage_id": 5040304,
+        "activity_id": 81424,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Charge Skills charge faster.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Increases Crit Rate.",
+            "Extra Effect 4: Increases Normal Attack DMG."
+        ]
+    },
+    "81425": {
+        "name": "Shape I ",
+        "stage_id": 5040305,
+        "activity_id": 81425,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Reduces Energy cost.",
+            "Extra Effect 2: Increases Ultimate Skill charge speed.",
+            "Extra Effect 3: Increases Ultimate Skill DMG.",
+            "Extra Effect 4: Increases Skill DMG."
+        ]
+    },
+    "81426": {
+        "name": "Shape II ",
+        "stage_id": 5040306,
+        "activity_id": 81426,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Reduces Rage cost.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Increases Crit Rate.",
+            "Extra Effect 4: Increases Normal Attack DMG."
+        ]
+    },
+    "81427": {
+        "name": "Sculpt I ",
+        "stage_id": 5040307,
+        "activity_id": 81427,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Gains 1 extra Trace.",
+            "Extra Effect 2: Increases Ultimate Skill charge speed.",
+            "Extra Effect 3: Increases Ultimate Skill DMG.",
+            "Extra Effect 4: Increases Skill DMG."
+        ]
+    },
+    "81428": {
+        "name": "Sculpt II ",
+        "stage_id": 5040308,
+        "activity_id": 81428,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Charge Skills charge faster.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Increases Crit Rate.",
+            "Extra Effect 4: Increases Normal Attack DMG."
+        ]
+    },
+    "131151": {
+        "name": "Edge I",
+        "stage_id": 5080301,
+        "activity_id": 131151,
+        "icon": "",
+        "buff_desc": [
+            "Gains buff for every 6 enemies defeated. CD: 18s.",
+            "Initial Effect: Resets and halves skill CD. Increases ATK. Gains 1 extra Trace. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Reduces Dodge cost.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "131152": {
+        "name": "Edge II",
+        "stage_id": 5080302,
+        "activity_id": 131152,
+        "icon": "",
+        "buff_desc": [
+            "Gains buff for every 8 enemies defeated. CD: 18s.",
+            "Initial Effect: Resets and halves skill CD. Increases ATK. Gains 1 extra Trace. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit DMG. Reduces Dodge cost.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "131153": {
+        "name": "Probe I",
+        "stage_id": 5080303,
+        "activity_id": 131153,
+        "icon": "",
+        "buff_desc": [
+            "Gains buff for every 6 enemies defeated. CD: 18s.",
+            "Initial Effect: Resets and halves skill CD. Increases ATK. Reduces Rage cost. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Increases DMG dealt to normal enemies.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "131154": {
+        "name": "Probe II",
+        "stage_id": 5080304,
+        "activity_id": 131154,
+        "icon": "",
+        "buff_desc": [
+            "Gains buff for every 8 enemies defeated. CD: 18s.",
+            "Initial Effect: Resets and halves skill CD. Increases ATK. Reduces Rage cost. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Increases Crit DMG. Increases DMG dealt to elite enemies.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "131155": {
+        "name": "Penetration I",
+        "stage_id": 5080305,
+        "activity_id": 131155,
+        "icon": "",
+        "buff_desc": [
+            "Gains buff for every 6 enemies defeated. CD: 18s.",
+            "Initial Effect: Resets and halves skill CD. Increases ATK. Increases Divine Grace charge speed. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Increases Normal Attack DMG.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "131156": {
+        "name": "Penetration II",
+        "stage_id": 5080306,
+        "activity_id": 131156,
+        "icon": "",
+        "buff_desc": [
+            "Gains buff for every 8 enemies defeated. CD: 18s.",
+            "Initial Effect: Resets and halves skill CD. Increases ATK. Increases Divine Grace charge speed. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Increases Normal Attack DMG. Increases Skill DMG.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "131157": {
+        "name": "Core I",
+        "stage_id": 5080307,
+        "activity_id": 131157,
+        "icon": "",
+        "buff_desc": [
+            "Gains buff for every 6 enemies defeated. CD: 18s.",
+            "Initial Effect: Resets and halves skill CD. Increases ATK. Reduces Energy cost. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit DMG. Increases Ultimate Skill charge speed.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "131158": {
+        "name": "Core II",
+        "stage_id": 5080308,
+        "activity_id": 131158,
+        "icon": "",
+        "buff_desc": [
+            "Gains buff for every 8 enemies defeated. CD: 18s.",
+            "Initial Effect: Resets and halves skill CD. Increases ATK. Reduces Energy cost. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit DMG. Increases Ultimate Skill charge speed. Increases Ultimate Skill DMG.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "1061091": {
+        "name": "Zone 1",
+        "stage_id": 5010601,
+        "activity_id": 1061091,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Charge Skills charge faster.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max (single use).",
+            "Extra Effect 4: Increases Crit Rate."
+        ]
+    },
+    "1061092": {
+        "name": "Zone 2",
+        "stage_id": 5010602,
+        "activity_id": 1061092,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Restores Combat Resources to max (single use).",
+            "Extra Effect 2: Increases Crit Rate.",
+            "Extra Effect 3: Increases Ultimate Skill DMG.",
+            "Extra Effect 4: Increases Crit DMG."
+        ]
+    },
+    "1061093": {
+        "name": "Zone 3",
+        "stage_id": 5010603,
+        "activity_id": 1061093,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Increases Ultimate Skill charge speed.",
+            "Extra Effect 2: Increases Ultimate Skill DMG.",
+            "Extra Effect 3: Increases Skill DMG.",
+            "Extra Effect 4: Increases DMG dealt to elite Visbanes."
+        ]
+    },
+    "1061094": {
+        "name": "Zone 4",
+        "stage_id": 5010604,
+        "activity_id": 1061094,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Gains 1 extra Trace.",
+            "Extra Effect 2: Increases Normal Attack DMG.",
+            "Extra Effect 3: Increases Crit Rate.",
+            "Extra Effect 4: Increases Crit DMG."
+        ]
+    },
+    "1061095": {
+        "name": "Zone 5",
+        "stage_id": 5010605,
+        "activity_id": 1061095,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Reduces Rage cost.",
+            "Extra Effect 2: Restores Combat Resources to max (single use).",
+            "Extra Effect 3: Increases Normal Attack DMG.",
+            "Extra Effect 4: Increases Crit DMG."
+        ]
+    },
+    "1061096": {
+        "name": "Zone 6",
+        "stage_id": 5010606,
+        "activity_id": 1061096,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Reduces Energy cost.",
+            "Extra Effect 2: Restores Combat Resources to max (single use).",
+            "Extra Effect 3: Increases DMG dealt to normal Visbanes.",
+            "Extra Effect 4: Increases Ultimate Skill DMG."
+        ]
+    },
+    "1061097": {
+        "name": "Zone 7",
+        "stage_id": 5010607,
+        "activity_id": 1061097,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and halves skill CD and Ultimate Skill CD. Increases ATK.",
+            "Extra Effect 1: Increases Divine Grace charge speed.",
+            "Extra Effect 2: Increases Ultimate Skill charge speed.",
+            "Extra Effect 3: Increases Crit Rate.",
+            "Extra Effect 4: Increases Skill DMG."
+        ]
+    },
+    "191151": {
+        "name": "Preparation \u2160 ",
+        "stage_id": 5120201,
+        "activity_id": 191151,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Gains more Traces. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Reduces Dodge cost.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "191152": {
+        "name": "Preparation \u2161 ",
+        "stage_id": 5120202,
+        "activity_id": 191152,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Gains more Traces. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit DMG. Reduces Dodge cost.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "191153": {
+        "name": "High Alert \u2160 ",
+        "stage_id": 5120203,
+        "activity_id": 191153,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Reduces Rage cost. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Increases DMG dealt to normal enemies.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "191154": {
+        "name": "High Alert \u2161 ",
+        "stage_id": 5120204,
+        "activity_id": 191154,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Reduces Rage cost. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Increases Crit DMG. Increases DMG dealt to elite enemies.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "191155": {
+        "name": "Bloody Battle \u2160 ",
+        "stage_id": 5120205,
+        "activity_id": 191155,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Increases Divine Grace charge speed. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Increases Normal Attack DMG.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "191156": {
+        "name": "Bloody Battle \u2161 ",
+        "stage_id": 5120206,
+        "activity_id": 191156,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Increases Divine Grace charge speed. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Increases Normal Attack DMG. Increases Skill DMG.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "191157": {
+        "name": "Deadly Hunt \u2160 ",
+        "stage_id": 5120207,
+        "activity_id": 191157,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Reduces Energy cost. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit DMG. Increases Ultimate Skill charge speed.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "191158": {
+        "name": "Deadly Hunt \u2161 ",
+        "stage_id": 5120208,
+        "activity_id": 191158,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Reduces Energy cost. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit DMG. Increases Ultimate Skill charge speed. Increases Ultimate Skill DMG.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "all": [
+        61091,
+        61092,
+        61093,
+        61094,
+        61095,
+        61096,
+        61097,
+        81421,
+        81422,
+        81423,
+        81424,
+        81425,
+        81426,
+        81427,
+        81428,
+        131151,
+        131152,
+        131153,
+        131154,
+        131155,
+        131156,
+        131157,
+        131158,
+        1061091,
+        1061092,
+        1061093,
+        1061094,
+        1061095,
+        1061096,
+        1061097,
+        191151,
+        191152,
+        191153,
+        191154,
+        191155,
+        191156,
+        191157,
+        191158
+    ]
+}

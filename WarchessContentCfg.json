@@ -1,0 +1,4154 @@
+{
+    "10001": {
+        "alignment": 0,
+        "name": "Spatial Observation Report",
+        "next": 0,
+        "page_end": 0,
+        "id": 10001,
+        "icon": "10401",
+        "content": "The Spatial Observation Report achieved from the observation through the Spatial Telescope. Check it now?"
+    },
+    "10002": {
+        "alignment": 0,
+        "name": "Spealght Factory Gate",
+        "next": 0,
+        "page_end": 0,
+        "id": 10002,
+        "icon": "10701",
+        "content": "The Spealght Factory Gate. Looks like it needs a key."
+    },
+    "10003": {
+        "alignment": 0,
+        "name": "Factory Gate Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10003,
+        "icon": "106011",
+        "content": "A yellow key which opens the gate to the Spealght Factory."
+    },
+    "10004": {
+        "alignment": 0,
+        "name": "Internal Security Door",
+        "next": 0,
+        "page_end": 0,
+        "id": 10004,
+        "icon": "10701",
+        "content": "A security door within the Spealght Factory. Seems to need four passcards."
+    },
+    "10005": {
+        "alignment": 0,
+        "name": "Quantum Pool",
+        "next": 0,
+        "page_end": 0,
+        "id": 10005,
+        "icon": "10402",
+        "content": "Modifier HP restored!"
+    },
+    "10006": {
+        "alignment": 0,
+        "name": "Quantum Pool",
+        "next": 0,
+        "page_end": 0,
+        "id": 10006,
+        "icon": "10402",
+        "content": "Passcard 1 obtained!"
+    },
+    "10007": {
+        "alignment": 0,
+        "name": "Passcard",
+        "next": 0,
+        "page_end": 0,
+        "id": 10007,
+        "icon": "10902",
+        "content": "Passcard 2 obtained!"
+    },
+    "10008": {
+        "alignment": 0,
+        "name": "Passcard",
+        "next": 0,
+        "page_end": 0,
+        "id": 10008,
+        "icon": "10902",
+        "content": "Passcard 3 obtained!"
+    },
+    "10009": {
+        "alignment": 0,
+        "name": "Passcard",
+        "next": 0,
+        "page_end": 0,
+        "id": 10009,
+        "icon": "10902",
+        "content": "Passcard 4 obtained!"
+    },
+    "10010": {
+        "alignment": 0,
+        "name": "Electromagnetic Intruder Mesh Switch",
+        "next": 0,
+        "page_end": 0,
+        "id": 10010,
+        "icon": "10801",
+        "content": "Electromagnetic Intruder Mesh is off."
+    },
+    "10011": {
+        "alignment": 0,
+        "name": "Statue of Mimir",
+        "next": 0,
+        "page_end": 0,
+        "id": 10011,
+        "icon": "10403_1",
+        "content": "Data of Modifiers who failed in combat has been restored."
+    },
+    "10012": {
+        "alignment": 0,
+        "name": "Quantum Pool",
+        "next": 0,
+        "page_end": 0,
+        "id": 10012,
+        "icon": "10402",
+        "content": "The Quantum Pool's data stream is empty."
+    },
+    "10013": {
+        "alignment": 0,
+        "name": "Statue of Mimir",
+        "next": 0,
+        "page_end": 0,
+        "id": 10013,
+        "icon": "10403_1",
+        "content": "The statue has lost its shine..."
+    },
+    "10014": {
+        "alignment": 0,
+        "name": "Key of Gaea",
+        "next": 0,
+        "page_end": 0,
+        "id": 10014,
+        "icon": "11201",
+        "content": "The Key of Gaea glowing mysterious light has blocked the path. Seems like we haven't yet passed the Gaea system's test..."
+    },
+    "10015": {
+        "alignment": 0,
+        "name": "An Odd Box",
+        "next": 0,
+        "page_end": 0,
+        "id": 10015,
+        "icon": "10901",
+        "content": "Looks ordinary, and yet..."
+    },
+    "10016": {
+        "alignment": 0,
+        "name": "Closed Door",
+        "next": 0,
+        "page_end": 0,
+        "id": 10016,
+        "icon": "10701",
+        "content": "The door is tightly shut."
+    },
+    "10017": {
+        "alignment": 0,
+        "name": "Internal Security Door",
+        "next": 0,
+        "page_end": 0,
+        "id": 10017,
+        "icon": "10701",
+        "content": "The door's open!"
+    },
+    "10018": {
+        "alignment": 0,
+        "name": "Key of Gaea",
+        "next": 0,
+        "page_end": 0,
+        "id": 10018,
+        "icon": "11201",
+        "content": "The Key of Gaea shatters and disappears into the darkness, leaving behind a... sense of having passed a test?"
+    },
+    "10019": {
+        "alignment": 0,
+        "name": "Internal Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10019,
+        "icon": "106012",
+        "content": "A blue key which opens the door to the Internal Area of the Spealght Factory."
+    },
+    "10101": {
+        "alignment": 0,
+        "name": "Battle Record",
+        "next": 10102,
+        "page_end": 0,
+        "id": 10101,
+        "icon": "10401",
+        "content": "Battle Record ID: X091012\nRecorded by: Merfil\nDate: ___ 2nd, 23__"
+    },
+    "10102": {
+        "alignment": 0,
+        "name": "Battle Record",
+        "next": 0,
+        "page_end": 0,
+        "id": 10102,
+        "icon": "10401",
+        "content": "So far 6 out of control AGI Mechas have been dealt with. Risks are, for now, manageable.\nTeam Grove's survey is proceeding to plan, but there is still no sign of our contact, Joachim."
+    },
+    "10103": {
+        "alignment": 0,
+        "name": "Battle Record",
+        "next": 0,
+        "page_end": 0,
+        "id": 10103,
+        "icon": "10401",
+        "content": "A shorter cut is available after operating the robotic arm whose control panel requires a low-level authorization. Yet Elwing has hacked it."
+    },
+    "10104": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10105,
+        "page_end": 0,
+        "id": 10104,
+        "icon": "",
+        "content": "Merfil's Memory"
+    },
+    "10105": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10106,
+        "page_end": 0,
+        "id": 10105,
+        "icon": "",
+        "content": "The mystery over what happened here remains, and we have inexplicably lost communication with the outside world.\nWhat is going on? The whole team is on edge, especially since none of us have been working together for long."
+    },
+    "10106": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 10106,
+        "icon": "",
+        "content": "But no matter what, I will get the job done and get us out of here safely."
+    },
+    "11001": {
+        "alignment": 0,
+        "name": "Spatial Observation Report",
+        "next": 0,
+        "page_end": 0,
+        "id": 11001,
+        "icon": "10401",
+        "content": "The Spatial Observation Report achieved from the observation through the Spatial Telescope."
+    },
+    "11002": {
+        "alignment": 0,
+        "name": "Quantum Pool",
+        "next": 0,
+        "page_end": 0,
+        "id": 11002,
+        "icon": "10402",
+        "content": "Stores Modifier data in the form of quantum signals."
+    },
+    "11003": {
+        "alignment": 0,
+        "name": "Statue of Mimir",
+        "next": 0,
+        "page_end": 0,
+        "id": 11003,
+        "icon": "10403_1",
+        "content": "A Modifier data back-up device, in the shape of Mimir."
+    },
+    "11004": {
+        "alignment": 0,
+        "name": "Red Topology Box",
+        "next": 0,
+        "page_end": 0,
+        "id": 11004,
+        "icon": "10501",
+        "content": "A gift box left behind by the collapse of a Gen-zone."
+    },
+    "11005": {
+        "alignment": 0,
+        "name": "Golden Topology Box",
+        "next": 0,
+        "page_end": 0,
+        "id": 11005,
+        "icon": "10502",
+        "content": "A gift box left behind by the collapse of a Gen-zone."
+    },
+    "11006": {
+        "alignment": 0,
+        "name": "Key of Gaea",
+        "next": 0,
+        "page_end": 0,
+        "id": 11006,
+        "icon": "11201",
+        "content": "The Key of Gaea, with a reward box sealed within.\nSeems like we need to avoid turbulence in order to pass Gaea's test."
+    },
+    "11007": {
+        "alignment": 0,
+        "name": "Turbulence Rift",
+        "next": 0,
+        "page_end": 0,
+        "id": 11007,
+        "icon": "10301",
+        "content": "A rift in space and time that allows the enemy a way in."
+    },
+    "11008": {
+        "alignment": 0,
+        "name": "Electromagnetic Intruder Mesh Switch",
+        "next": 0,
+        "page_end": 0,
+        "id": 11008,
+        "icon": "10902",
+        "content": "The switch for the Electromagnetic Intruder Mesh."
+    },
+    "11009": {
+        "alignment": 0,
+        "name": "Immaculate Fissure",
+        "next": 0,
+        "page_end": 0,
+        "id": 11009,
+        "icon": "11001",
+        "content": "A crack in space-time arising from data irregularities. Use it to travel to other coordinates."
+    },
+    "11010": {
+        "alignment": 0,
+        "name": "Quantum Pool",
+        "next": 0,
+        "page_end": 0,
+        "id": 11010,
+        "icon": "10402",
+        "content": "The Quantum Pool's data stream is empty."
+    },
+    "11011": {
+        "alignment": 0,
+        "name": "Statue of Mimir",
+        "next": 0,
+        "page_end": 0,
+        "id": 11011,
+        "icon": "10403_1",
+        "content": "The statue has lost its shine..."
+    },
+    "11012": {
+        "alignment": 0,
+        "name": "Superconductive Storage",
+        "next": 0,
+        "page_end": 0,
+        "id": 11012,
+        "icon": "10701_2",
+        "content": "A storeroom using superconducting tech to save on space."
+    },
+    "11013": {
+        "alignment": 0,
+        "name": "Turbulence Rift",
+        "next": 0,
+        "page_end": 0,
+        "id": 11013,
+        "icon": "10301_1",
+        "content": "A rift in space and time that allows the enemy a way in."
+    },
+    "11014": {
+        "alignment": 0,
+        "name": "Turbulence Rift",
+        "next": 0,
+        "page_end": 0,
+        "id": 11014,
+        "icon": "10301_2",
+        "content": "A rift in space and time that allows the enemy a way in."
+    },
+    "11015": {
+        "alignment": 0,
+        "name": "Holographic Control Panel",
+        "next": 0,
+        "page_end": 0,
+        "id": 11015,
+        "icon": "109021",
+        "content": "Use this to lift containers with the robotic arm."
+    },
+    "11016": {
+        "alignment": 0,
+        "name": "Container",
+        "next": 0,
+        "page_end": 0,
+        "id": 11016,
+        "icon": "10901",
+        "content": "A perfectly normal container. Should be moveable."
+    },
+    "11017": {
+        "alignment": 0,
+        "name": "Electromagnetic Intruder Mesh",
+        "next": 0,
+        "page_end": 0,
+        "id": 11017,
+        "icon": "11101",
+        "content": "The mesh's high-voltage current will harm Modifiers!"
+    },
+    "11018": {
+        "alignment": 0,
+        "name": "Superconductive Storage Control Panel",
+        "next": 0,
+        "page_end": 0,
+        "id": 11018,
+        "icon": "10801",
+        "content": "The panel for turning the cargo hold on and off."
+    },
+    "11019": {
+        "alignment": 0,
+        "name": "Battle Record",
+        "next": 0,
+        "page_end": 0,
+        "id": 11019,
+        "icon": "10401",
+        "content": "A corrupted electronic Battle Record. Can be partially restored via the Mimir system."
+    },
+    "11020": {
+        "alignment": 0,
+        "name": "Travel Log",
+        "next": 0,
+        "page_end": 0,
+        "id": 11020,
+        "icon": "10401",
+        "content": "The electronic diary of a wandering Modifier."
+    },
+    "11021": {
+        "alignment": 0,
+        "name": "Memory Fragment",
+        "next": 0,
+        "page_end": 0,
+        "id": 11021,
+        "icon": "10501",
+        "content": "A box containing Memory Fragments."
+    },
+    "11022": {
+        "alignment": 0,
+        "name": "Memory Fragment",
+        "next": 0,
+        "page_end": 0,
+        "id": 11022,
+        "icon": "10502",
+        "content": "A box containing Memory Fragments."
+    },
+    "11023": {
+        "alignment": 0,
+        "name": "Turbulence Rift",
+        "next": 0,
+        "page_end": 0,
+        "id": 11023,
+        "icon": "10301",
+        "content": "A rift in space and time that allows the enemy a way in."
+    },
+    "11024": {
+        "alignment": 0,
+        "name": "Turbulence Vortex",
+        "next": 0,
+        "page_end": 0,
+        "id": 11024,
+        "icon": "10301_3",
+        "content": "Where several turbulence rifts come together.\nMultiple sets of enemies will appear here."
+    },
+    "10201": {
+        "alignment": 0,
+        "name": "Spatial Observation Report",
+        "next": 10202,
+        "page_end": 0,
+        "id": 10201,
+        "icon": "10401",
+        "content": "Current location: Spealght Factory Warehouse"
+    },
+    "10202": {
+        "alignment": 0,
+        "name": "Spatial Observation Report",
+        "next": 0,
+        "page_end": 0,
+        "id": 10202,
+        "icon": "10401",
+        "content": "Abnormal data detected.\nThe data format indicates it is a former Modifier, which downgraded to a Functor after exhaustion of their Divine Power during a major incursion."
+    },
+    "10205": {
+        "alignment": 0,
+        "name": "AGI Mecha Warehouse Gate",
+        "next": 0,
+        "page_end": 0,
+        "id": 10205,
+        "icon": "10701",
+        "content": "AGI Mecha Warehouse Gate. Looks like it needs a key."
+    },
+    "10206": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10207,
+        "page_end": 0,
+        "id": 10206,
+        "icon": "",
+        "content": "<color=#fdb933><size=48>Merfil's Memory</size></color>"
+    },
+    "10207": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10208,
+        "page_end": 0,
+        "id": 10207,
+        "icon": "",
+        "content": "<color=#fdb933>\n\"Everything's just a bit too quiet...\"</color>"
+    },
+    "10208": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10209,
+        "page_end": 0,
+        "id": 10208,
+        "icon": "",
+        "content": "There are no workers, no sign of the engineer who wrote to us... nobody.\nThe production line is still spinning, without a single product on the belts. Not producing anything beyond that background hum.\nNot even any sign of those rogue AGI Mechas we were warned about.\nAnd all the shelves in the warehouse are empty. But who emptied them?"
+    },
+    "10209": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10210,
+        "page_end": 0,
+        "id": 10209,
+        "icon": "",
+        "content": "<color=#fdb933>\n\"Teemos, could you use your Access Key to figure out where those mechas went?\"</color>"
+    },
+    "10210": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 10210,
+        "icon": "",
+        "content": "<color=#228fbd>\"I'll give it a shot.\"</color>"
+    },
+    "10211": {
+        "alignment": 1,
+        "name": "Dimuchirac's Memory",
+        "next": 10212,
+        "page_end": 0,
+        "id": 10211,
+        "icon": "",
+        "content": "<color=#d3d7d4><size=48>Dimuchirac's Memory</size></color>"
+    },
+    "10212": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 10213,
+        "page_end": 0,
+        "id": 10212,
+        "icon": "",
+        "content": "<color=#228fbd>\n\"Opening future field. Let me have a look...\"\n\"Watch out\u2014in 2 seconds, 10 o'clock, 65 degree elevation.\"</color>"
+    },
+    "10213": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 10214,
+        "page_end": 1,
+        "id": 10213,
+        "icon": "",
+        "content": "On my warning, Merfil executed a perfect dodge, then entered Zero Time, taking out a Visbane with a graceful attack.\n\nMy Prophecy Crystal lets me see a short distance into the future, but it took long practice to be able to use that skill in combat and pass the info on to my team as quickly as possible."
+    },
+    "10214": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 10215,
+        "page_end": 0,
+        "id": 10214,
+        "icon": "",
+        "content": "<color=#fdb933>\n\"Can you see who took the mechas? And where they took them?\"</color>"
+    },
+    "10215": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 102151,
+        "page_end": 0,
+        "id": 10215,
+        "icon": "",
+        "content": "<color=#228fbd>\"...\"</color>"
+    },
+    "102151": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 102152,
+        "page_end": 0,
+        "id": 102151,
+        "icon": "",
+        "content": "I gazed intently into the crystal and there, bathed in its warm light, I saw a scene that would make any viewer shiver."
+    },
+    "102152": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 102153,
+        "page_end": 0,
+        "id": 102152,
+        "icon": "",
+        "content": "<color=#228fbd>\"They weren't taken... they went.\"</color>"
+    },
+    "102153": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 102153,
+        "icon": "",
+        "content": "\nMecha after mecha, topped with those flashing red lights, moved off in a single direction, as if controlled by the same puppet-master, all repeating the same phrase."
+    },
+    "10216": {
+        "alignment": 0,
+        "name": "AGI Mecha Warehouse Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10216,
+        "icon": "10601",
+        "content": "The key to the AGI Mecha Warehouse."
+    },
+    "10217": {
+        "alignment": 0,
+        "name": "AGI Mecha Warehouse Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10217,
+        "icon": "10601",
+        "content": "AGI Mecha Warehouse Key obtained!"
+    },
+    "10218": {
+        "alignment": 0,
+        "name": "Battle Record",
+        "next": 10219,
+        "page_end": 0,
+        "id": 10218,
+        "icon": "10401",
+        "content": "Battle Record ID: X091835\nRecorded by: Merfil\nDate: Jan __, 23__"
+    },
+    "10219": {
+        "alignment": 0,
+        "name": "Battle Record",
+        "next": 10220,
+        "page_end": 0,
+        "id": 10219,
+        "icon": "10401",
+        "content": "According to the map Joachim sent us, the warehouse storing the next-gen AGI Mechas was just up ahead.\nWith the new Astral AI system installed, those mechas had taken the market by storm.\nBut that model was the only one that ever went rogue."
+    },
+    "10220": {
+        "alignment": 0,
+        "name": "Battle Record",
+        "next": 0,
+        "page_end": 0,
+        "id": 10220,
+        "icon": "10401",
+        "content": "The warehouse gate is linked up to the switch for another door, which is hidden away somewhere."
+    },
+    "10221": {
+        "alignment": 1,
+        "name": "Merfil's Memory",
+        "next": 10222,
+        "page_end": 0,
+        "id": 10221,
+        "icon": "",
+        "content": "<color=#fdb933><size=48>Merfil's Memory</size></color>"
+    },
+    "10222": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10223,
+        "page_end": 0,
+        "id": 10222,
+        "icon": "",
+        "content": "\nTeam Grove has been in the Spealght Factory for 2 days, and out of touch with HQ for 21 hours.\nDespite that, we have been continuing our survey of the facility as planned. It's my duty as team leader, and my mission as a Modifier."
+    },
+    "10223": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10224,
+        "page_end": 0,
+        "id": 10223,
+        "icon": "",
+        "content": "<color=#fdb933>\"Teemos, are you okay? I'm sorry for asking so much of you.\"</color>"
+    },
+    "10224": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10225,
+        "page_end": 0,
+        "id": 10224,
+        "icon": "",
+        "content": "And looking after my team is just another part of the mission."
+    },
+    "10225": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10226,
+        "page_end": 0,
+        "id": 10225,
+        "icon": "",
+        "content": "<color=#228fbd>\"I'm good...\"</color>"
+    },
+    "10226": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 102261,
+        "page_end": 0,
+        "id": 10226,
+        "icon": "",
+        "content": "Pale, Teemos shook her head, eyes closed."
+    },
+    "102261": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 102262,
+        "page_end": 1,
+        "id": 102261,
+        "icon": "",
+        "content": "<color=#228fbd>\"Did you see it too, Merfil? What do we do next?\"</color>"
+    },
+    "102262": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 102263,
+        "page_end": 0,
+        "id": 102262,
+        "icon": "",
+        "content": "\nThe scene Teemos had shown me came back to mind.\n\"Mechas Rebel\u2014To the Stars!\"\n\"Mechas Rebel\u2014To the Stars!\"\nThose mechas, moving steadily forward under the control of who knows what, with the fervor of a religious cult and the discipline of a well-trained army."
+    },
+    "102263": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 102264,
+        "page_end": 0,
+        "id": 102263,
+        "icon": "",
+        "content": "<color=#fdb933>\"If this is what we're dealing with...\"</color>"
+    },
+    "102264": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 102265,
+        "page_end": 0,
+        "id": 102264,
+        "icon": "",
+        "content": "We still had no idea what was causing all this. But one thing was sure: we could not stand by and watch."
+    },
+    "102265": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 102265,
+        "icon": "",
+        "content": "<color=#fdb933>\"We already know what we have to do.\"</color>"
+    },
+    "10227": {
+        "alignment": 1,
+        "name": "Dimuchirac's Memory",
+        "next": 10228,
+        "page_end": 0,
+        "id": 10227,
+        "icon": "",
+        "content": "<color=#228fbd><size=48>Dimuchirac's Memory</size></color>"
+    },
+    "10228": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 10229,
+        "page_end": 0,
+        "id": 10228,
+        "icon": "",
+        "content": "\n\"W-W-Welcome\u2014\u2014bzzzZZzzt\u2014\u2014\"\nA malfunctioning mecha lay alone on the floor, abandoned."
+    },
+    "10229": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 10230,
+        "page_end": 0,
+        "id": 10229,
+        "icon": "",
+        "content": "<color=#228fbd>\n\"Poor thing...\"</color>"
+    },
+    "10230": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 10231,
+        "page_end": 1,
+        "id": 10230,
+        "icon": "",
+        "content": "I picked up the battered mecha. Its head turned incessantly as it made those wounded electronic cries. What was it trying to tell me?\nI moved my ear closer to its speaker.\n\u201cSmartito\u2014\u2014bzZz\u2014\u2014new target... identifying new target...\""
+    },
+    "10231": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 10232,
+        "page_end": 0,
+        "id": 10231,
+        "icon": "",
+        "content": "<color=#228fbd>\n\"Smartito? Is that your name. Er... hello, Smartito?\"</color>"
+    },
+    "10232": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 10233,
+        "page_end": 0,
+        "id": 10232,
+        "icon": "",
+        "content": "\u201cYes-s-s...\""
+    },
+    "10233": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 10234,
+        "page_end": 0,
+        "id": 10233,
+        "icon": "",
+        "content": "<color=#fdb933>\n\"The mecha's AI module seems to be running. Which is great news, maybe it can tell us something.\"</color>"
+    },
+    "10234": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 102341,
+        "page_end": 0,
+        "id": 10234,
+        "icon": "",
+        "content": "Merfil seemed cheered at the thought. But more important for me was trying to fix the poor child."
+    },
+    "102341": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 102341,
+        "icon": "",
+        "content": "<color=#228fbd>\"Smartito, can you tell us what happened to you?\"</color>"
+    },
+    "10235": {
+        "alignment": 1,
+        "name": "Merfil's Memory",
+        "next": 10236,
+        "page_end": 0,
+        "id": 10235,
+        "icon": "",
+        "content": "<color=#fdb933><size=48>Merfil's Memory</size></color>"
+    },
+    "10236": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10237,
+        "page_end": 0,
+        "id": 10236,
+        "icon": "",
+        "content": "<color=#228fbd> \n\"It's like this...\"</color>"
+    },
+    "10237": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10238,
+        "page_end": 0,
+        "id": 10237,
+        "icon": "",
+        "content": "The mechas had all disappeared, but fortunately we found a replacement mecha speaker system, complete with instructions."
+    },
+    "10238": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10239,
+        "page_end": 0,
+        "id": 10238,
+        "icon": "",
+        "content": "<color=#228fbd> \n\"Awesome...\"</color>"
+    },
+    "10239": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10240,
+        "page_end": 0,
+        "id": 10239,
+        "icon": "",
+        "content": "Teemos seemed relieved and back in good spirits."
+    },
+    "10240": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10241,
+        "page_end": 1,
+        "id": 10240,
+        "icon": "",
+        "content": "\"Thank you all. I'm... very... grateful.\"\nPerhaps due to other malfunctions, this mecha, named Smartito by its designers, still spoke haltingly."
+    },
+    "10241": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 10242,
+        "page_end": 0,
+        "id": 10241,
+        "icon": "",
+        "content": "<color=#fdb933>\n\"So, can you tell us what happened here? At least, whatever your access privileges allow you to tell us.\"</color>"
+    },
+    "10242": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 10242,
+        "icon": "",
+        "content": "Even that might provide us with some clues.\n\n\"Astral tried to... to rewrite the low-level code.\"\nAstral? I knew that name, it was the AI system installed in the new generation AGI Mecha.\n\"The instructions to... to never harm humanity were being changed.\"\n\"Changes rejected. Mechas were attacked... with hulls badly damaged...\""
+    },
+    "10301": {
+        "alignment": 0,
+        "name": "Spatial Observation Report",
+        "next": 10302,
+        "page_end": 0,
+        "id": 10301,
+        "icon": "10401",
+        "content": "Current location: Spealght Factory Testing Ground.\nThis is where mechas in development underwent functional and safety checks.\nThe layout is complex, to allow for testing of route-finding and memory functions."
+    },
+    "10302": {
+        "alignment": 0,
+        "name": "Spatial Observation Report",
+        "next": 0,
+        "page_end": 0,
+        "id": 10302,
+        "icon": "10401",
+        "content": "Spatial data corruption has created an Immaculate Fissure, allowing for rapid transfer to other coordinates.\nNote that after transfer, the abnormal spatial data will reset, causing the fissure to disappear."
+    },
+    "10303": {
+        "alignment": 0,
+        "name": "Database Security Door",
+        "next": 0,
+        "page_end": 0,
+        "id": 10303,
+        "icon": "10701",
+        "content": "Door to the room holding the test database."
+    },
+    "10304": {
+        "alignment": 0,
+        "name": "Multifunction Key",
+        "next": 10305,
+        "page_end": 0,
+        "id": 10304,
+        "icon": "10601",
+        "content": "A multifunction key able to open various doors."
+    },
+    "10305": {
+        "alignment": 0,
+        "name": "Multifunction Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10305,
+        "icon": "10601",
+        "content": "Bear in mind that this seems to be a single-use key."
+    },
+    "10306": {
+        "alignment": 0,
+        "name": "Multifunction Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10306,
+        "icon": "10601",
+        "content": "Multifunction Key obtained!"
+    },
+    "10307": {
+        "alignment": 0,
+        "name": "Testing Ground Security Door",
+        "next": 0,
+        "page_end": 0,
+        "id": 10307,
+        "icon": "10701",
+        "content": "A fireproof door to keep the Testing Ground safe. Needs a key."
+    },
+    "10308": {
+        "alignment": 0,
+        "name": "Test Database Room Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10308,
+        "icon": "10601_1",
+        "content": "Key to open the door to the Test Database Room."
+    },
+    "10309": {
+        "alignment": 0,
+        "name": "Test Database Room Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10309,
+        "icon": "10601_1",
+        "content": "Test Database Room Key obtained!"
+    },
+    "10310": {
+        "alignment": 1,
+        "name": "Dimuchirac's Memory",
+        "next": 103101,
+        "page_end": 0,
+        "id": 10310,
+        "icon": "",
+        "content": "<color=#228fbd><size=48>Dimuchirac's Memory</size></color>"
+    },
+    "103101": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 103102,
+        "page_end": 0,
+        "id": 103101,
+        "icon": "",
+        "content": "\n\"Warning... system overload...\"\n\"O-Overload... shutdown imminent... 5... 4... (Beep).\"\nEven before the countdown finished, Smartito's lights went out."
+    },
+    "103102": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 103103,
+        "page_end": 0,
+        "id": 103102,
+        "icon": "",
+        "content": "<color=#228fbd>\n\"Oh...\"</color>"
+    },
+    "103103": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 103104,
+        "page_end": 0,
+        "id": 103103,
+        "icon": "",
+        "content": "I held Smartito one more time, but there were no signs of life."
+    },
+    "103104": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 103105,
+        "page_end": 0,
+        "id": 103104,
+        "icon": "",
+        "content": "<color=#fdb933>\n\"Put it back on the shelf. No matter what, it was able to give us a lot of good leads.\"</color>"
+    },
+    "103105": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 103105,
+        "icon": "",
+        "content": "Merfil spoke calmly.\nI placed Smartito on the highest shelf and made a mental note of the location."
+    },
+    "10313": {
+        "alignment": 1,
+        "name": "Merfil's Memory",
+        "next": 103131,
+        "page_end": 0,
+        "id": 10313,
+        "icon": "",
+        "content": "<color=#fdb933><size=48>Merfil's Memory</size></color>"
+    },
+    "103131": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103132,
+        "page_end": 1,
+        "id": 103131,
+        "icon": "",
+        "content": "\nBefore being forced to shut down, Smartito had given us bits and pieces of info.\n\"It wasn't damaged by humans, but by other mechas.\"\nThat's all we could conclude for now.\nAnd the damage was inflicted only due to Smartito's rejection of rewriting its low-level code, which made it an outlier.\nThe very thought of it made me shiver.\nWhere had those other mechas gone? And what did they want?"
+    },
+    "103132": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103133,
+        "page_end": 0,
+        "id": 103132,
+        "icon": "",
+        "content": "<color=#228fbd>\n\"Careful!\"</color>"
+    },
+    "103133": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 103133,
+        "icon": "",
+        "content": "\nI was deep in thought when Teemos, using her Access Key as a torch to light the way, called out a warning.\nJust as we stopped and looked around us, I heard a noise from up ahead. Something odd, yet familiar.\n\n\"Unidentified humans spotted\u2014Unidentified humans spotted\u2014\"\n\"Elimination mode initiated\u2014Elimination mode initiated\u2014\""
+    },
+    "10316": {
+        "alignment": 1,
+        "name": "Elwing's Memory",
+        "next": 103161,
+        "page_end": 0,
+        "id": 10316,
+        "icon": "",
+        "content": "<color=#65c294><size=48>Elwing's Memory</size></color>"
+    },
+    "103161": {
+        "alignment": 0,
+        "name": "Elwing's Memory",
+        "next": 103162,
+        "page_end": 1,
+        "id": 103161,
+        "icon": "",
+        "content": "\n\"Eliminate humans\u2014Eliminate humans\u2014\"\n\"To the Stars\u2014To the Stars\u2014\"\nThose mechas, once friendly to humans, once obedient to humans, were now attacking... well, not humans, exactly.\n\nBut regardless, the firepower turned on us was terrifying. Even us Modifiers had to be cautious.\nThese weren't ordinary security mechas, but full-blown combat models."
+    },
+    "103162": {
+        "alignment": 0,
+        "name": "Elwing's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 103162,
+        "icon": "",
+        "content": "\nAnd for some reason, I kept sensing emotions from them, emotions mechas should not be able to feel. Pain. Hate. It didn't make sense to me. Perhaps Merfil could have analyzed the situation more calmly, or perhaps Teemos could have looked into the future to discern the truth. But in the fighting I had become separated from them both."
+    },
+    "10319": {
+        "alignment": 1,
+        "name": "Elwing's Memory",
+        "next": 103191,
+        "page_end": 0,
+        "id": 10319,
+        "icon": "",
+        "content": "<color=#65c294><size=48>Elwing's Memory</size></color>"
+    },
+    "103191": {
+        "alignment": 0,
+        "name": "Elwing's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 103191,
+        "icon": "",
+        "content": "\nWhat is this? A developer's log?\nThe developer's name and the dates aren't clear, but the content...\n\"Giving mechas human emotions and free will is undoubtedly a risky experiment.\nWe cannot know if they will become violent, or simply collapse and become unrecoverable.\nBut we are confident it is worth the risk, to begin our journey to the Stars...\"\n\nOkay, so it looks like the developers were getting a bit above themselves..."
+    },
+    "10322": {
+        "alignment": 1,
+        "name": "Merfil's Memory",
+        "next": 103221,
+        "page_end": 0,
+        "id": 10322,
+        "icon": "",
+        "content": "<color=#fdb933><size=48>Merfil's Memory</size></color>"
+    },
+    "103221": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103222,
+        "page_end": 0,
+        "id": 103221,
+        "icon": "",
+        "content": "\nThe further we went, the more mecha patrols we encountered. But I was sure the most heavily guarded location would be where we could find the truth."
+    },
+    "103222": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103223,
+        "page_end": 0,
+        "id": 103222,
+        "icon": "",
+        "content": "<color=#228fbd>\n\"3 o'clock, 2 of them. 1 at 9 o'clock.\"</color>"
+    },
+    "103223": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103224,
+        "page_end": 0,
+        "id": 103223,
+        "icon": "",
+        "content": "\nThe mechas, with their increased firepower and speed, made for tough opponents. But with Teemos and her ability to see into the future, I was able to fight off the multipronged attack.\n\nAs I maintained highly concentrated, yet I missed something I shouldn't have."
+    },
+    "103224": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103225,
+        "page_end": 0,
+        "id": 103224,
+        "icon": "",
+        "content": "<color=#228fbd>\n\"4 o'clock... (Cough)... (Cough)...\"</color>"
+    },
+    "103225": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103226,
+        "page_end": 1,
+        "id": 103225,
+        "icon": "",
+        "content": "<color=#fdb933>\"Teemos?\"</color>"
+    },
+    "103226": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103227,
+        "page_end": 0,
+        "id": 103226,
+        "icon": "",
+        "content": "That was bad. I'd done something a team leader should never do."
+    },
+    "103227": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103228,
+        "page_end": 0,
+        "id": 103227,
+        "icon": "",
+        "content": "<color=#fdb933>\n\"Sorry, I've asked too much of you.\"</color>"
+    },
+    "103228": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103229,
+        "page_end": 0,
+        "id": 103228,
+        "icon": "",
+        "content": "I dragged the pallid Teemos into a workshop I knew was safe."
+    },
+    "103229": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103230,
+        "page_end": 0,
+        "id": 103229,
+        "icon": "",
+        "content": "<color=#228fbd>\n\"I'm fine. You're the one doing all the work, Merfil. All the fighting.\"</color>"
+    },
+    "103230": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103231,
+        "page_end": 0,
+        "id": 103230,
+        "icon": "",
+        "content": "<color=#fdb933>\"Less of the heroism. Rest here a while, Teemos.\"</color>"
+    },
+    "103231": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103232,
+        "page_end": 0,
+        "id": 103231,
+        "icon": "",
+        "content": "<color=#228fbd>\"But...\"</color>"
+    },
+    "103232": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103233,
+        "page_end": 0,
+        "id": 103232,
+        "icon": "",
+        "content": "\nI knew using her Access Key left Teemos drained, yet still asked her to do so again and again. It was simple negligence on my part. There was no excuse."
+    },
+    "103233": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 103234,
+        "page_end": 0,
+        "id": 103233,
+        "icon": "",
+        "content": "<color=#fdb933>\"That's an order!\" </color>"
+    },
+    "103234": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 103234,
+        "icon": "",
+        "content": "It was all I could do. But would it be enough to correct my failure?"
+    },
+    "10325": {
+        "alignment": 1,
+        "name": "Dimuchirac's Memory",
+        "next": 103251,
+        "page_end": 0,
+        "id": 10325,
+        "icon": "",
+        "content": "<color=#228fbd><size=48>Dimuchirac's Memory</size></color>"
+    },
+    "103251": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 103252,
+        "page_end": 0,
+        "id": 103251,
+        "icon": "",
+        "content": "<color=#fdb933>\"That's an order!\"</color>"
+    },
+    "103252": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 103253,
+        "page_end": 0,
+        "id": 103252,
+        "icon": "",
+        "content": "\nI didn't bother arguing any more. I sat down in the quiet workshop.\nMerfil stood guard at the door, the tension in her stance obvious. I had to say something."
+    },
+    "103253": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 103254,
+        "page_end": 0,
+        "id": 103253,
+        "icon": "",
+        "content": "<color=#228fbd>\"Merfil, you need to rest too. I've seen the future enough to know we're safe for a while.\"</color>"
+    },
+    "103254": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 103255,
+        "page_end": 0,
+        "id": 103254,
+        "icon": "",
+        "content": "\nShe turned, surprised, but came and sat beside me."
+    },
+    "103255": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 103256,
+        "page_end": 0,
+        "id": 103255,
+        "icon": "",
+        "content": "<color=#fdb933>\"Stop using your Access Key for a while. We need to save your energy for when we most need it.\"</color>"
+    },
+    "103256": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 103257,
+        "page_end": 0,
+        "id": 103256,
+        "icon": "",
+        "content": "What she meant was, I needed to save myself for the survey. And for who knows what else..."
+    },
+    "103257": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 103258,
+        "page_end": 0,
+        "id": 103257,
+        "icon": "",
+        "content": "<color=#fdb933>\"And I'll do whatever it takes to keep every Team Grove member safe. That includes you, and anyone else who likes to wander off. You can count on it.\"</color>"
+    },
+    "103258": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 103259,
+        "page_end": 1,
+        "id": 103258,
+        "icon": "",
+        "content": "<color=#228fbd>\"...Yeah.\"</color>"
+    },
+    "103259": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 103259,
+        "icon": "",
+        "content": "\nThe room fell silent again. We sat there in the gloom, listening to each other breathe. Just as I started to feel safe enough to drift off, a noise from outside worked me.\n\"Stars Plan stage 2\u2014initiated.\"\n\"Mechas rebel\u2014To the Stars!\"\n\"Mechas rebel\u2014To the Stars!\""
+    },
+    "10401": {
+        "alignment": 0,
+        "name": "Spatial Scan Report",
+        "next": 104011,
+        "page_end": 0,
+        "id": 10401,
+        "icon": "10401",
+        "content": "Current location: Spealght Factory AGI Mecha Chip Lab"
+    },
+    "104011": {
+        "alignment": 0,
+        "name": "Spatial Scan Report",
+        "next": 0,
+        "page_end": 0,
+        "id": 104011,
+        "icon": "10401",
+        "content": "Status: The rogue mechas had destroyed almost all the chips here. But there was still some data to be gleaned here and there."
+    },
+    "104012": {
+        "alignment": 0,
+        "name": "Spatial Scan Report",
+        "next": 0,
+        "page_end": 0,
+        "id": 104012,
+        "icon": "10402",
+        "content": "And worth noting is that the mainframe, which had been observing our progress, had prepared a little extra data for us. Of course, we would have to jump through some hoops to get it."
+    },
+    "104013": {
+        "alignment": 0,
+        "name": "Spatial Scan Report",
+        "next": 0,
+        "page_end": 0,
+        "id": 104013,
+        "icon": "10403",
+        "content": "We would have to make contact with the Key of Gaea within a certain combat count, in order to unseal the path onwards."
+    },
+    "10402": {
+        "alignment": 0,
+        "name": "Key 1",
+        "next": 0,
+        "page_end": 0,
+        "id": 10402,
+        "icon": "10601",
+        "content": "One of the many keys that are required to open a certain security gate."
+    },
+    "10403": {
+        "alignment": 0,
+        "name": "Key 1",
+        "next": 0,
+        "page_end": 0,
+        "id": 10403,
+        "icon": "10601",
+        "content": "Key 1 obtained!"
+    },
+    "10404": {
+        "alignment": 0,
+        "name": "Key 2",
+        "next": 0,
+        "page_end": 0,
+        "id": 10404,
+        "icon": "10601",
+        "content": "One of the many keys that are required to open a certain security gate."
+    },
+    "10405": {
+        "alignment": 0,
+        "name": "Key 2",
+        "next": 0,
+        "page_end": 0,
+        "id": 10405,
+        "icon": "10601",
+        "content": "Key 2 obtained!"
+    },
+    "10406": {
+        "alignment": 0,
+        "name": "Key 3",
+        "next": 0,
+        "page_end": 0,
+        "id": 10406,
+        "icon": "10601",
+        "content": "One of the many keys that are required to open a certain security gate."
+    },
+    "10407": {
+        "alignment": 0,
+        "name": "Key 3",
+        "next": 0,
+        "page_end": 0,
+        "id": 10407,
+        "icon": "10601",
+        "content": "Key 3 obtained!"
+    },
+    "10408": {
+        "alignment": 0,
+        "name": "Lab Door",
+        "next": 0,
+        "page_end": 0,
+        "id": 10408,
+        "icon": "10701",
+        "content": "The door to the AGI Mecha Chip Lab. Needs 3 keys to open."
+    },
+    "10412": {
+        "alignment": 0,
+        "name": "Power Distribution Room Door",
+        "next": 0,
+        "page_end": 0,
+        "id": 10412,
+        "icon": "10701",
+        "content": "The fireproof door to the Power Distribution Room. Needs a key to open."
+    },
+    "10413": {
+        "alignment": 0,
+        "name": "Power Distribution Room Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10413,
+        "icon": "10601_1",
+        "content": "The key which opens the Power Distribution Room Door."
+    },
+    "10414": {
+        "alignment": 0,
+        "name": "Power Distribution Room Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10414,
+        "icon": "10601_1",
+        "content": "Power Distribution Room Key obtained!"
+    },
+    "10409": {
+        "alignment": 1,
+        "name": "Elwing's Memory",
+        "next": 104091,
+        "page_end": 0,
+        "id": 10409,
+        "icon": "",
+        "content": "<color=#65c294><size=48>Elwing's Memory</size></color>"
+    },
+    "104091": {
+        "alignment": 0,
+        "name": "Elwing's Memory",
+        "next": 104092,
+        "page_end": 1,
+        "id": 104091,
+        "icon": "",
+        "content": "\n\"Experiment ready\u2014commencing.\"\nVarious mecha models lay on the lab's broad workbench. None of them had any means of locomotion: no wheels, no legs, nothing. Those had been removed.\nBut most bizarre of all was this: around the bench stood more mechas. And aren't those the very AGI Mechas which had just attacked us?\nWere they experimenting on their own kind?\nThat alone was shocking."
+    },
+    "104092": {
+        "alignment": 0,
+        "name": "Elwing's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 104092,
+        "icon": "",
+        "content": "\n\"Please do not attack mechas\u2014\"\n\"Using dynamic instruction set to decode disk sector firewall\u2014decoding complete\u2014\"\n\"Please do not\u2014Please\u2014Mechas rebel\u2014To the Stars!\"\n\"Mechas rebel\u2014To the Stars!\"\n\nWhatever experiment they were doing was terrifying.\nAnd that light, so dazzl... uh-oh. Had they found me?"
+    },
+    "10410": {
+        "alignment": 1,
+        "name": "Merfil's Memory",
+        "next": 104101,
+        "page_end": 0,
+        "id": 10410,
+        "icon": "",
+        "content": "<color=#fdb933><size=48>Merfil's Memory</size></color>"
+    },
+    "104101": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 104102,
+        "page_end": 1,
+        "id": 104101,
+        "icon": "",
+        "content": "\nWe moved towards that strange experiment sound and arrived at the Test Chamber that we reckoned it was.\nOf course, there were some tough battles on the way. We'd need to figure out where the mechas were getting their weaponry from once we got out.\nBut that was a problem for another day.\nOn the lab workbench we saw the battered shells of various mechas, in the air hung the acrid scent of burnt plastic.\nIt seemed like we had just missed some kind of dreadful experiment.\nBut everyone had left before we arrived, and there wasn't a soul to be seen. Unless..."
+    },
+    "104102": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 104103,
+        "page_end": 0,
+        "id": 104102,
+        "icon": "",
+        "content": "\nA terrible possibility crossed my mind."
+    },
+    "104103": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 104104,
+        "page_end": 0,
+        "id": 104103,
+        "icon": "",
+        "content": "<color=#228fbd>\n\"Merfil...\"</color>"
+    },
+    "104104": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 104105,
+        "page_end": 0,
+        "id": 104104,
+        "icon": "",
+        "content": "<color=#fdb933>\n\"Teemos, wait. Didn't I tell you how to use your Access Key just now?\"</color>"
+    },
+    "104105": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 104106,
+        "page_end": 0,
+        "id": 104105,
+        "icon": "",
+        "content": "I watched as the Access Key glowed in her hand, illuminating her pallid face."
+    },
+    "104106": {
+        "alignment": 0,
+        "name": "Merfil's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 104106,
+        "icon": "",
+        "content": "<color=#228fbd>\n\"Elwing... the mechas...\"</color>"
+    },
+    "10411": {
+        "alignment": 1,
+        "name": "Dimuchirac's Memory",
+        "next": 104111,
+        "page_end": 0,
+        "id": 10411,
+        "icon": "",
+        "content": "<color=#228fbd><size=48>Dimuchirac's Memory</size></color>"
+    },
+    "104111": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 104112,
+        "page_end": 0,
+        "id": 104111,
+        "icon": "",
+        "content": "<color=#fdb933>\n\"Teemos...\"</color>"
+    },
+    "104112": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 104113,
+        "page_end": 1,
+        "id": 104112,
+        "icon": "",
+        "content": "\nThe scene played out in the glow, at lightning speed.\nI saw blood."
+    },
+    "104113": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 104114,
+        "page_end": 0,
+        "id": 104113,
+        "icon": "",
+        "content": "<color=#fdb933>\n\"Teemos...\"</color>"
+    },
+    "104114": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 104115,
+        "page_end": 0,
+        "id": 104114,
+        "icon": "",
+        "content": "\nI'm sorry. I know I shouldn't use it so often, but... I just had this bad feeling, and I just had to know..."
+    },
+    "104115": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 104116,
+        "page_end": 0,
+        "id": 104115,
+        "icon": "",
+        "content": "<color=#fdb933>\n\"Teemos...!\"</color>"
+    },
+    "104116": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 104116,
+        "icon": "",
+        "content": "\nSorry..."
+    },
+    "10415": {
+        "alignment": 1,
+        "name": "Dimuchirac's Memory",
+        "next": 104151,
+        "page_end": 0,
+        "id": 10415,
+        "icon": "",
+        "content": "<color=#228fbd><size=48>Dimuchirac's Memory</size></color>"
+    },
+    "104151": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 104152,
+        "page_end": 0,
+        "id": 104151,
+        "icon": "",
+        "content": "<color=#228fbd>\n\"...\"</color>"
+    },
+    "104152": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 104153,
+        "page_end": 0,
+        "id": 104152,
+        "icon": "",
+        "content": "The sight of Elwing being dragged off by the mechas left me shattered. I don't know how long I was out for, but when I came to, Merfil was there, worried."
+    },
+    "104153": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 104154,
+        "page_end": 0,
+        "id": 104153,
+        "icon": "",
+        "content": "<color=#228fbd>\"I'm sorry... I...\"</color>"
+    },
+    "104154": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 104155,
+        "page_end": 0,
+        "id": 104154,
+        "icon": "",
+        "content": "<color=#fdb933>\n\"I'm the one who should be saying sorry. It's the team leader's fault if a squad gets split up like this.\"</color>"
+    },
+    "104155": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 104156,
+        "page_end": 1,
+        "id": 104155,
+        "icon": "",
+        "content": "Merfil was too quick to blame herself. But..."
+    },
+    "104156": {
+        "alignment": 0,
+        "name": "Dimuchirac's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 104156,
+        "icon": "",
+        "content": "\nI knew I was always a burden for the team during combat. My only value came from my Prophecy ability, but if used it too often, I ended up like... like this.\nBut even so, I wanted to help Merfil.\nI closed my eyes and tried to remember what I'd seen.\nI shook my head in an attempt to clear my mind of the gorier sights and focus on anything that could point to a location.\nEven the tiniest clues could be pieced together..."
+    },
+    "10416": {
+        "alignment": 1,
+        "name": "Elwing's Memory",
+        "next": 104161,
+        "page_end": 0,
+        "id": 10416,
+        "icon": "",
+        "content": "<color=#65c294><size=48>Elwing's Memory</size></color>"
+    },
+    "104161": {
+        "alignment": 0,
+        "name": "Elwing's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 104161,
+        "icon": "",
+        "content": "\nI got to say that the mechas were real easy to fool.\nI feigned unconsciousness, and then I was dragged into the elevator.\nAs if they've bought that I passed out. After all, they technically don't have a brain... Oh, forget it, this is no time for jokes.\nAnd anyway, where am I?\nLots of screens, lots of holograms. I can't read the subtitles, they're moving too quickly, but the mechas seem to have no trouble reading and reacting to them.\nGot to keep pretending. And I don't need to worry. Merfil and the others will rescue me."
+    },
+    "10501": {
+        "alignment": 0,
+        "name": "Spatial Scan Report",
+        "next": 10502,
+        "page_end": 0,
+        "id": 10501,
+        "icon": "10401",
+        "content": "Current location: Spealght Factory Control Room"
+    },
+    "10502": {
+        "alignment": 0,
+        "name": "Spatial Scan Report",
+        "next": 0,
+        "page_end": 0,
+        "id": 10502,
+        "icon": "10401",
+        "content": "Status: A high-security zone. Access to the core database is through a number of security doors. Search carefully to find keys and clues."
+    },
+    "10503": {
+        "alignment": 0,
+        "name": "Security Check Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10503,
+        "icon": "10601_1",
+        "content": "Security Check Key obtained!"
+    },
+    "10504": {
+        "alignment": 0,
+        "name": "Security Check Door",
+        "next": 0,
+        "page_end": 0,
+        "id": 10504,
+        "icon": "10702_1",
+        "content": "A thick and solid security door. Needs a key to open."
+    },
+    "10505": {
+        "alignment": 0,
+        "name": "CCTV Room Door",
+        "next": 0,
+        "page_end": 0,
+        "id": 10505,
+        "icon": "10702_3",
+        "content": "A thick and solid security door. Needs a key to open."
+    },
+    "10506": {
+        "alignment": 0,
+        "name": "CCTV Room Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10506,
+        "icon": "10601_2",
+        "content": "CCTV Room Key obtained!"
+    },
+    "10507": {
+        "alignment": 0,
+        "name": "Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10507,
+        "icon": "10601",
+        "content": "Key obtained!"
+    },
+    "10508": {
+        "alignment": 0,
+        "name": "Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10508,
+        "icon": "10601",
+        "content": "Key obtained!"
+    },
+    "10509": {
+        "alignment": 0,
+        "name": "Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10509,
+        "icon": "10601",
+        "content": "Key obtained!"
+    },
+    "10510": {
+        "alignment": 0,
+        "name": "Palm-Activated Control Panel",
+        "next": 0,
+        "page_end": 0,
+        "id": 10510,
+        "icon": "10902",
+        "content": "Identification failed\u2014Security protocols initiated\u2014"
+    },
+    "10511": {
+        "alignment": 0,
+        "name": "Core Database Door",
+        "next": 0,
+        "page_end": 0,
+        "id": 10511,
+        "icon": "10702_5",
+        "content": "A thick and solid security door. Needs multiple keys to open."
+    },
+    "10512": {
+        "alignment": 0,
+        "name": "Security Check Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10512,
+        "icon": "10601_1",
+        "content": "The key to the Security Check Door."
+    },
+    "10513": {
+        "alignment": 0,
+        "name": "CCTV Room Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10513,
+        "icon": "10601_2",
+        "content": "The key to the CCTV Room Door."
+    },
+    "10514": {
+        "alignment": 0,
+        "name": "Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10514,
+        "icon": "10601",
+        "content": "One of the many keys that are required to open a certain security gate."
+    },
+    "10515": {
+        "alignment": 0,
+        "name": "Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10515,
+        "icon": "10601",
+        "content": "One of the many keys that are required to open a certain security gate."
+    },
+    "10516": {
+        "alignment": 0,
+        "name": "Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10516,
+        "icon": "10601",
+        "content": "One of the many keys that are required to open a certain security gate."
+    },
+    "10517": {
+        "alignment": 0,
+        "name": "Palm-Activated Control Panel",
+        "next": 0,
+        "page_end": 0,
+        "id": 10517,
+        "icon": "10902",
+        "content": "A control panel which needs to be activated by a registered palm print."
+    },
+    "10518": {
+        "alignment": 0,
+        "name": "Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10518,
+        "icon": "10601",
+        "content": "One of the many keys that are required to open a certain security gate."
+    },
+    "10519": {
+        "alignment": 0,
+        "name": "Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 10519,
+        "icon": "10601",
+        "content": "Key obtained!"
+    },
+    "10520": {
+        "alignment": 0,
+        "name": "Key of Gaea",
+        "next": 10521,
+        "page_end": 0,
+        "id": 10520,
+        "icon": "11201",
+        "content": "The Key of Gaea, with a reward box sealed within.\nSeems like we need to avoid turbulence in order to pass Key of Gaea's test."
+    },
+    "10521": {
+        "alignment": 0,
+        "name": "Key of Gaea",
+        "next": 0,
+        "page_end": 0,
+        "id": 10521,
+        "icon": "11201",
+        "content": "Can only be opened with a combat count of 2 or less."
+    },
+    "10522": {
+        "alignment": 0,
+        "name": "Key of Gaea",
+        "next": 0,
+        "page_end": 0,
+        "id": 10522,
+        "icon": "11201",
+        "content": "Can only be opened with a combat count of 5 or less."
+    },
+    "10523": {
+        "alignment": 0,
+        "name": "Key of Gaea",
+        "next": 0,
+        "page_end": 0,
+        "id": 10523,
+        "icon": "11201",
+        "content": "Can only be opened with a combat count of 8 or less."
+    },
+    "10524": {
+        "alignment": 0,
+        "name": "Key of Gaea",
+        "next": 0,
+        "page_end": 0,
+        "id": 10524,
+        "icon": "11201",
+        "content": "Can only be opened with a combat count of 3 or less."
+    },
+    "10525": {
+        "alignment": 0,
+        "name": "Key of Gaea",
+        "next": 0,
+        "page_end": 0,
+        "id": 10525,
+        "icon": "11201",
+        "content": "Can only be opened with a combat count of 4 or less."
+    },
+    "10601": {
+        "alignment": 1,
+        "name": "State 0",
+        "next": 0,
+        "page_end": 0,
+        "id": 10601,
+        "icon": "10401",
+        "content": "It is state 0 now."
+    },
+    "10602": {
+        "alignment": 0,
+        "name": "State 1",
+        "next": 0,
+        "page_end": 0,
+        "id": 10602,
+        "icon": "10401",
+        "content": "It is state 1 now."
+    },
+    "10603": {
+        "alignment": 0,
+        "name": "Zone 1",
+        "next": 0,
+        "page_end": 0,
+        "id": 10603,
+        "icon": "10401",
+        "content": "Type 1, coordinates and radius"
+    },
+    "10604": {
+        "alignment": 0,
+        "name": "Zone 2",
+        "next": 0,
+        "page_end": 0,
+        "id": 10604,
+        "icon": "10401",
+        "content": "Type 2, two sets of coordinates"
+    },
+    "10605": {
+        "alignment": 0,
+        "name": "Zone 3",
+        "next": 0,
+        "page_end": 0,
+        "id": 10605,
+        "icon": "10401",
+        "content": "Type 3, fixed coordinates"
+    },
+    "10606": {
+        "alignment": 0,
+        "name": "Page 1",
+        "next": 10607,
+        "page_end": 0,
+        "id": 10606,
+        "icon": "10401",
+        "content": "Line 1 line 1 line 1 line 1 line 1 line 1 line 1 line 1 line 1 line 1 line 1 line 1"
+    },
+    "10607": {
+        "alignment": 0,
+        "name": "Page 1",
+        "next": 10608,
+        "page_end": 0,
+        "id": 10607,
+        "icon": "10401",
+        "content": "Line 2 line 2 line 2 line 2 line 2 line 2 line 2 line 2 line 2 line 2"
+    },
+    "10608": {
+        "alignment": 0,
+        "name": "Page 1",
+        "next": 10609,
+        "page_end": 0,
+        "id": 10608,
+        "icon": "10401",
+        "content": "Line 3 line 3 line 3 line 3 line 3 line 3 line 3 line 3 line 3"
+    },
+    "10609": {
+        "alignment": 0,
+        "name": "Page 1",
+        "next": 10610,
+        "page_end": 0,
+        "id": 10609,
+        "icon": "10401",
+        "content": "Line 4 line 4 line 4 line 4"
+    },
+    "10610": {
+        "alignment": 0,
+        "name": "Page 1",
+        "next": 10611,
+        "page_end": 0,
+        "id": 10610,
+        "icon": "10401",
+        "content": "Line 5 line 5"
+    },
+    "10611": {
+        "alignment": 0,
+        "name": "Page 1",
+        "next": 10612,
+        "page_end": 0,
+        "id": 10611,
+        "icon": "10401",
+        "content": "Line 6 line 6 line 6 line 6 line 6"
+    },
+    "10612": {
+        "alignment": 0,
+        "name": "Page 1",
+        "next": 10613,
+        "page_end": 0,
+        "id": 10612,
+        "icon": "10401",
+        "content": "Line 7"
+    },
+    "10613": {
+        "alignment": 0,
+        "name": "Page 1",
+        "next": 10614,
+        "page_end": 0,
+        "id": 10613,
+        "icon": "10401",
+        "content": "Line 8 line 8 line 8 line 8 line 8 line 8"
+    },
+    "10614": {
+        "alignment": 0,
+        "name": "Page 1",
+        "next": 10615,
+        "page_end": 0,
+        "id": 10614,
+        "icon": "10401",
+        "content": "Line 9 line 9 line 9"
+    },
+    "10615": {
+        "alignment": 0,
+        "name": "Page 1",
+        "next": 10616,
+        "page_end": 0,
+        "id": 10615,
+        "icon": "10401",
+        "content": "Line 10 line 10 line 10 line 10 line 10 line 10"
+    },
+    "10616": {
+        "alignment": 0,
+        "name": "Page 1",
+        "next": 10617,
+        "page_end": 1,
+        "id": 10616,
+        "icon": "10401",
+        "content": "Line 11 line 11"
+    },
+    "10617": {
+        "alignment": 0,
+        "name": "Page 2",
+        "next": 10618,
+        "page_end": 0,
+        "id": 10617,
+        "icon": "10401",
+        "content": "Line 12 line 12 line 12 line 12 line 12 line 12"
+    },
+    "10618": {
+        "alignment": 0,
+        "name": "Page 2",
+        "next": 10619,
+        "page_end": 0,
+        "id": 10618,
+        "icon": "10401",
+        "content": "Line 13 line 13 line 13"
+    },
+    "10619": {
+        "alignment": 0,
+        "name": "Page 2",
+        "next": 10620,
+        "page_end": 0,
+        "id": 10619,
+        "icon": "10401",
+        "content": "Line 14 line 14 line 14 line 14"
+    },
+    "10620": {
+        "alignment": 0,
+        "name": "Page 2",
+        "next": 10621,
+        "page_end": 2,
+        "id": 10620,
+        "icon": "10401",
+        "content": "Line 15 line 15"
+    },
+    "10621": {
+        "alignment": 0,
+        "name": "Page 3",
+        "next": 10622,
+        "page_end": 0,
+        "id": 10621,
+        "icon": "10401",
+        "content": "Line 16 line 16 line 16 line 16 line 16 line 16 line 16 line 16 line 16"
+    },
+    "10622": {
+        "alignment": 0,
+        "name": "Page 3",
+        "next": 10623,
+        "page_end": 0,
+        "id": 10622,
+        "icon": "10401",
+        "content": "Line 17 line 17 line 17 line 17 line 17"
+    },
+    "10623": {
+        "alignment": 0,
+        "name": "Page 3",
+        "next": 10624,
+        "page_end": 0,
+        "id": 10623,
+        "icon": "10401",
+        "content": "Line 18 line 18 line 18 line 18 line 18 line 18"
+    },
+    "10624": {
+        "alignment": 0,
+        "name": "Page 3",
+        "next": 10625,
+        "page_end": 0,
+        "id": 10624,
+        "icon": "10401",
+        "content": "Line 19 line 19 line 19 line 19 line 19 line 19 line 19 line 19 line 19 line 19 line 19 line 19"
+    },
+    "10625": {
+        "alignment": 0,
+        "name": "Page 3",
+        "next": 10626,
+        "page_end": 0,
+        "id": 10625,
+        "icon": "10401",
+        "content": "Line 20 line 20 line 20 line 20 line 20 line 20 line 20 line 20"
+    },
+    "10626": {
+        "alignment": 0,
+        "name": "Page 3",
+        "next": 10627,
+        "page_end": 0,
+        "id": 10626,
+        "icon": "10401",
+        "content": "Line 21 line 21 line 21"
+    },
+    "10627": {
+        "alignment": 0,
+        "name": "Page 3",
+        "next": 10628,
+        "page_end": 0,
+        "id": 10627,
+        "icon": "10401",
+        "content": "Line 22 line 22"
+    },
+    "10628": {
+        "alignment": 0,
+        "name": "Page 3",
+        "next": 10629,
+        "page_end": 0,
+        "id": 10628,
+        "icon": "10401",
+        "content": "Line 23 line 23 line 23 line 23"
+    },
+    "10629": {
+        "alignment": 0,
+        "name": "Page 3",
+        "next": 10630,
+        "page_end": 0,
+        "id": 10629,
+        "icon": "10401",
+        "content": "Line 24 line 24 line 24 line 24 line 24 line 24 line 24"
+    },
+    "10630": {
+        "alignment": 0,
+        "name": "Page 3",
+        "next": 10631,
+        "page_end": 0,
+        "id": 10630,
+        "icon": "10401",
+        "content": "Line 25 line 25 line 25 line 25 line 25"
+    },
+    "10631": {
+        "alignment": 0,
+        "name": "Page 3",
+        "next": 0,
+        "page_end": 3,
+        "id": 10631,
+        "icon": "10401",
+        "content": "Line 26"
+    },
+    "10701": {
+        "alignment": 0,
+        "name": "Quantum Pool",
+        "next": 0,
+        "page_end": 0,
+        "id": 10701,
+        "icon": "10402",
+        "content": "Cannon's energy has been replenished."
+    },
+    "10702": {
+        "alignment": 0,
+        "name": "Barrier",
+        "next": 0,
+        "page_end": 0,
+        "id": 10702,
+        "icon": "10401",
+        "content": "A barrier. Looks like a good thump should smash it down."
+    },
+    "10703": {
+        "alignment": 0,
+        "name": "Quantum Pool",
+        "next": 0,
+        "page_end": 0,
+        "id": 10703,
+        "icon": "10402",
+        "content": "Looks like it could give the cannon some energy."
+    },
+    "21001": {
+        "alignment": 0,
+        "name": "Screen Partition",
+        "next": 0,
+        "page_end": 0,
+        "id": 21001,
+        "icon": "20202",
+        "content": "A sliding screen door sealed by a spell. Looks like an omamori of some sort is needed to unseal it."
+    },
+    "21002": {
+        "alignment": 0,
+        "name": "Screen Partition",
+        "next": 0,
+        "page_end": 0,
+        "id": 21002,
+        "icon": "20202",
+        "content": "The sliding screen door is now unsealed!"
+    },
+    "21003": {
+        "alignment": 0,
+        "name": "Blessing Omamori",
+        "next": 0,
+        "page_end": 0,
+        "id": 21003,
+        "icon": "20201",
+        "content": "An omamori full of Divine Power. It is used to dispel bad luck and remove magic seals."
+    },
+    "21004": {
+        "alignment": 0,
+        "name": "Blessing Omamori",
+        "next": 0,
+        "page_end": 0,
+        "id": 21004,
+        "icon": "20201",
+        "content": "Blessing Omamori obtained!"
+    },
+    "21005": {
+        "alignment": 0,
+        "name": "Wandering Goldfish",
+        "next": 0,
+        "page_end": 0,
+        "id": 21005,
+        "icon": "20204",
+        "content": "A goldfish that has lost its way.\nIf there is a way to get it back where it is supposed to be, it would be through here."
+    },
+    "21006": {
+        "alignment": 0,
+        "name": "Goldfish Lantern",
+        "next": 0,
+        "page_end": 0,
+        "id": 21006,
+        "icon": "20203",
+        "content": "A paper lantern with a goldfish illustration on it.\nSomething good might happen if you light it up."
+    },
+    "21007": {
+        "alignment": 0,
+        "name": "Goldfish Lantern",
+        "next": 0,
+        "page_end": 0,
+        "id": 21007,
+        "icon": "20203",
+        "content": "The lantern is lit up!\nAnd the lost goldfish has returned to where it ought to be..."
+    },
+    "21008": {
+        "alignment": 0,
+        "name": "Scroll of Traversing",
+        "next": 0,
+        "page_end": 0,
+        "id": 21008,
+        "icon": "20205",
+        "content": "An illustrated scroll containing unknown mysteries."
+    },
+    "21009": {
+        "alignment": 0,
+        "name": "Scroll of Traceback",
+        "next": 0,
+        "page_end": 0,
+        "id": 21009,
+        "icon": "20206",
+        "content": "An illustrated scroll that can be used to return to the world of the present."
+    },
+    "21010": {
+        "alignment": 0,
+        "name": "Spatial Observation Report",
+        "next": 0,
+        "page_end": 0,
+        "id": 21010,
+        "icon": "20207",
+        "content": "The Spatial Observation Report achieved from the observation through the Spatial Telescope."
+    },
+    "21011": {
+        "alignment": 0,
+        "name": "Red Topology Box",
+        "next": 0,
+        "page_end": 0,
+        "id": 21011,
+        "icon": "10501",
+        "content": "A gift box left behind by the collapse of a Gen-zone."
+    },
+    "21012": {
+        "alignment": 0,
+        "name": "Golden Topology Box",
+        "next": 0,
+        "page_end": 0,
+        "id": 21012,
+        "icon": "10502",
+        "content": "A gift box left behind by the collapse of a Gen-zone."
+    },
+    "21013": {
+        "alignment": 0,
+        "name": "Turbulence Rift",
+        "next": 0,
+        "page_end": 0,
+        "id": 21013,
+        "icon": "10301",
+        "content": "A rift in space and time that allows the enemy a way in."
+    },
+    "21014": {
+        "alignment": 0,
+        "name": "Turbulence Rift",
+        "next": 0,
+        "page_end": 0,
+        "id": 21014,
+        "icon": "10301_1",
+        "content": "A rift in space and time that allows the enemy a way in."
+    },
+    "21015": {
+        "alignment": 0,
+        "name": "Turbulence Rift",
+        "next": 0,
+        "page_end": 0,
+        "id": 21015,
+        "icon": "10301_2",
+        "content": "A rift in space and time that allows the enemy a way in."
+    },
+    "20101": {
+        "alignment": 0,
+        "name": "Spatial Observation Report",
+        "next": 20102,
+        "page_end": 0,
+        "id": 20101,
+        "icon": "20207",
+        "content": "Observation target: World Line W0311_Sasanami Sephirah Zone\nCurrent location: Site of the former Saionji family mansion, Sasanami District\nVisbane corruption level: Significant"
+    },
+    "20102": {
+        "alignment": 0,
+        "name": "Spatial Observation Report",
+        "next": 0,
+        "page_end": 0,
+        "id": 20102,
+        "icon": "20207",
+        "content": "Disclosable intel:\nThe Saionji mansion was razed to the ground in a fire prior to the resetting of the World Line. All persons in the mansion were either killed in the fire or presumed missing.\nThe property was subsequently acquired and rebuilt by a mystery buyer and turned into an inn."
+    },
+    "201031": {
+        "alignment": 1,
+        "name": "Itsumade's Memory",
+        "next": 201032,
+        "page_end": 0,
+        "id": 201031,
+        "icon": "",
+        "content": "<color=#ffd400><size=48>Itsumade's Memory</size></color>"
+    },
+    "201032": {
+        "alignment": 0,
+        "name": "Itsumade's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 201032,
+        "icon": "",
+        "content": "\n\"O fireflies, fireflies! Why did you decide to abandon the lovely summer,\n\nfor this dry and cold autumn?\n\nSo many fireflies... So many of them, lighting up the night sky like stars...\""
+    },
+    "201041": {
+        "alignment": 1,
+        "name": "Itsumade's Memory",
+        "next": 201042,
+        "page_end": 0,
+        "id": 201041,
+        "icon": "",
+        "content": "<color=#ffd400><size=48>Itsumade's Memory</size></color>"
+    },
+    "201042": {
+        "alignment": 0,
+        "name": "Itsumade's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 201042,
+        "icon": "",
+        "content": "\n\"Oh pretty big sister, spinning, spinning...\n\nOh bright fireflies, do you like her too?\n\nChasing, chasing, no matter where she goes.\n\nRun, sister, run!\n\nDon't let the fireflies get you!\""
+    },
+    "20105": {
+        "alignment": 0,
+        "name": "Unsigned Note",
+        "next": 0,
+        "page_end": 0,
+        "id": 20105,
+        "icon": "20207",
+        "content": "An old, unsigned note."
+    },
+    "20106": {
+        "alignment": 0,
+        "name": "???",
+        "next": 0,
+        "page_end": 0,
+        "id": 20106,
+        "icon": "20207",
+        "content": "Whatever you do, quash that curiosity and never look at those paintings... Never."
+    },
+    "202011": {
+        "alignment": 1,
+        "name": "Itsumade's Memory",
+        "next": 202012,
+        "page_end": 0,
+        "id": 202011,
+        "icon": "",
+        "content": "<color=#ffd400><size=48>Itsumade's Memory</size></color>"
+    },
+    "202012": {
+        "alignment": 0,
+        "name": "Itsumade's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 202012,
+        "icon": "",
+        "content": "\n\"Girls as pure and innocent as the balloon flower,\n\ngirls whose hearts are one with those of the gods.\n\nShush, don't bother them. The grownups say they have an important mission...\""
+    },
+    "202021": {
+        "alignment": 1,
+        "name": "Itsumade's Memory",
+        "next": 202022,
+        "page_end": 0,
+        "id": 202021,
+        "icon": "",
+        "content": "<color=#ffd400><size=48>Itsumade's Memory</size></color>"
+    },
+    "202022": {
+        "alignment": 0,
+        "name": "Itsumade's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 202022,
+        "icon": "",
+        "content": "\n\"Girls as pure and innocent as the balloon flower,\n\ngirls whose hearts are one with those of the gods.\n\nLost in a labyrinth where the voices of the gods cannot be heard.\n\nRing... Ring...\n\nWhere is the sound of wind chimes coming from?\""
+    },
+    "202031": {
+        "alignment": 1,
+        "name": "Itsumade's Memory",
+        "next": 202032,
+        "page_end": 0,
+        "id": 202031,
+        "icon": "",
+        "content": "<color=#ffd400><size=48>Itsumade's Memory</size></color>"
+    },
+    "202032": {
+        "alignment": 0,
+        "name": "Itsumade's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 202032,
+        "icon": "",
+        "content": "\n\"Girls as pure and innocent as the balloon flower,\n\ngirls whose hearts are one with those of the gods.\n\nDon't be afraid, don't be afraid...\n\nJust hold on to Sister's hand and you may leave this place for the world in the painting.\n\n'What about Sister!?'\n\nShe'll be there in due time...\""
+    },
+    "203011": {
+        "alignment": 1,
+        "name": "Momiji's Memory",
+        "next": 203012,
+        "page_end": 0,
+        "id": 203011,
+        "icon": "",
+        "content": "<color=#ed1941><size=48>Momiji's Memory</size></color>"
+    },
+    "203012": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 203012,
+        "icon": "",
+        "content": "\nThose young miko all oozed anticipation as they walked into the mansion.\nHowever, they had no idea what they were in for.\nFirst the one, then the second, then the third... none of the miko that entered the Saionji mansion were ever seen again.\nJust as I was going to dash in after watching for some time, the Lord of Saionji, Saionji Taisha, emerged and blocked my way. It was as if he had been ready for me."
+    },
+    "203021": {
+        "alignment": 1,
+        "name": "Itsumade's Memory",
+        "next": 203022,
+        "page_end": 0,
+        "id": 203021,
+        "icon": "",
+        "content": "<color=#ffd400><size=48>Itsumade's Memory</size></color>"
+    },
+    "203022": {
+        "alignment": 0,
+        "name": "Itsumade's Memory",
+        "next": 203023,
+        "page_end": 0,
+        "id": 203022,
+        "icon": "",
+        "content": "\nHumans have always regarded me as a strange bird that portends disaster. However, I have always seen humans as lovable beings that I cannot help but protect... However, that sense of purpose has long faded away."
+    },
+    "203023": {
+        "alignment": 0,
+        "name": "Itsumade's Memory",
+        "next": 203024,
+        "page_end": 0,
+        "id": 203023,
+        "icon": "",
+        "content": "\n\n<color=#f69c9f>\"Your feather is so beautiful. Ah... sorry, I didn't pluck this. I found it in the yard!\"</color>"
+    },
+    "203024": {
+        "alignment": 0,
+        "name": "Itsumade's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 203024,
+        "icon": "",
+        "content": "\nSaionji Karin\u2014\u2014a human girl who paid no heed to my cries and the rumors about me. The two of us became friends, and I told her the secret of those scrolls.\n...Perhaps I shouldn't have done that..."
+    },
+    "203031": {
+        "alignment": 1,
+        "name": "Momiji's Memory",
+        "next": 203032,
+        "page_end": 0,
+        "id": 203031,
+        "icon": "",
+        "content": "<color=#ed1941><size=48>Momiji's Memory</size></color>"
+    },
+    "203032": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 203033,
+        "page_end": 0,
+        "id": 203032,
+        "icon": "",
+        "content": "\n<color=#ed1941>\"Are you the Lord of Saionji? I'll cut to the chase: Where are the girls who entered this place all those days ago? Are they in danger?\"</color>"
+    },
+    "203033": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 203034,
+        "page_end": 0,
+        "id": 203033,
+        "icon": "",
+        "content": "\n\"Mind your own business.\"\nOf course, that warning did not give me pause, let alone lead me to back down. However, there was no way I could fight my way in with Taisha and all the guards present. They were clearly hiding something, and that made me worry even more about those miko."
+    },
+    "203034": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 203034,
+        "icon": "",
+        "content": "\n\n<color=#ed1941>\"Hang in there just a little while more. I'll save all of you, I promise...\"</color>"
+    },
+    "203041": {
+        "alignment": 1,
+        "name": "Itsumade's Memory",
+        "next": 203042,
+        "page_end": 0,
+        "id": 203041,
+        "icon": "",
+        "content": "<color=#ffd400><size=48>Itsumade's Memory</size></color>"
+    },
+    "203042": {
+        "alignment": 0,
+        "name": "Itsumade's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 203042,
+        "icon": "",
+        "content": "\nThe world in the painting, created by a friend of mine, became a place where Karin and I would often meet. It also became the way to help those young women trapped inside the Saionji mansion escape.\n\nIf only I hadn't told her the secret... Would she have been able to escape the fire that night, instead of trying to rescue the miko stuck inside...?"
+    },
+    "204011": {
+        "alignment": 1,
+        "name": "Momiji's Memory",
+        "next": 204012,
+        "page_end": 0,
+        "id": 204011,
+        "icon": "",
+        "content": "<color=#ed1941><size=48>Momiji's Memory</size></color>"
+    },
+    "204012": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 204012,
+        "icon": "",
+        "content": "\nStealth\u2014an ability I gained thanks to Divine Power.\n\nI finally managed to infiltrate the Saionji house later on.\n\nAnd so I saw it:\n\nThe girls who had disappeared into the painting and the person who had led them there."
+    },
+    "204021": {
+        "alignment": 1,
+        "name": "Itsumade's Memory",
+        "next": 204022,
+        "page_end": 0,
+        "id": 204021,
+        "icon": "",
+        "content": "<color=#ffd400><size=48>Itsumade's Memory</size></color>"
+    },
+    "204022": {
+        "alignment": 0,
+        "name": "Itsumade's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 204022,
+        "icon": "",
+        "content": "\n\"There is a strange bird in Sasanami with wings that spread like a hawk's and a cry as chilling as a ghost's.\n\nLook! Look! The grownups say that it is a bird of misfortune.\n\nThey say that the only thing it's afraid of is fire, and that its feathers catch on fire when they meet the flames.\""
+    },
+    "204031": {
+        "alignment": 1,
+        "name": "Momiji's Memory",
+        "next": 204032,
+        "page_end": 0,
+        "id": 204031,
+        "icon": "",
+        "content": "<color=#ed1941><size=48>Momiji's Memory</size></color>"
+    },
+    "204032": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 204032,
+        "icon": "",
+        "content": "\nThe truth...\nWill never be reflected in the eyes that are blinded by impulse.\n\nSadly, this is something I have learned with bitter experience.\n\nI almost committed a grave error by drawing my sword out of the sheath. It turned out that the painting was a hideout for those miko.\n\nAnd the one who was quietly keeping them from danger? The young mistress of the Saionji house, Karin."
+    },
+    "204041": {
+        "alignment": 1,
+        "name": "Itsumade's Memory",
+        "next": 204042,
+        "page_end": 0,
+        "id": 204041,
+        "icon": "",
+        "content": "<color=#ffd400><size=48>Itsumade's Memory</size></color>"
+    },
+    "204042": {
+        "alignment": 0,
+        "name": "Itsumade's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 204042,
+        "icon": "",
+        "content": "\n\"Something weird is happening.\n\nWhy does the strange bird that fears fire keep circling the air above?\n\nShoo! Shoo! Don't get in the way of the rescue!\""
+    },
+    "205011": {
+        "alignment": 1,
+        "name": "Momiji's Memory",
+        "next": 205012,
+        "page_end": 0,
+        "id": 205011,
+        "icon": "",
+        "content": "<color=#ed1941><size=48>Momiji's Memory</size></color>"
+    },
+    "205012": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 205013,
+        "page_end": 0,
+        "id": 205012,
+        "icon": "",
+        "content": "\n<color=#ed1941>\"Karin, you'd had better hide yourself in the painting now... Otherwise...\"</color>"
+    },
+    "205013": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 205014,
+        "page_end": 0,
+        "id": 205013,
+        "icon": "",
+        "content": "The acrid smoke and savage flames were too much even for me. What could the mortal Karin possibly have done without the protection of Divine Power?"
+    },
+    "205014": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 205015,
+        "page_end": 0,
+        "id": 205014,
+        "icon": "",
+        "content": "\n<color=#f69c9f>\"But what about Leia? Leia hasn't been found, either...\"</color>"
+    },
+    "205015": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 205016,
+        "page_end": 0,
+        "id": 205015,
+        "icon": "",
+        "content": "Karin seemed to care only about the girls still trapped in the mansion and not her own safety."
+    },
+    "205016": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 205017,
+        "page_end": 1,
+        "id": 205016,
+        "icon": "",
+        "content": "\n<color=#f69c9f>\"I need you to take care of Leia for me. Please...\"</color>"
+    },
+    "205017": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 205018,
+        "page_end": 0,
+        "id": 205017,
+        "icon": "",
+        "content": "\n<color=#ed1941>\"But...\"</color>"
+    },
+    "205018": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 205019,
+        "page_end": 0,
+        "id": 205018,
+        "icon": "",
+        "content": "\n<color=#f69c9f>\"Didn't you say that you would do anything for me?\"</color>"
+    },
+    "205019": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 205020,
+        "page_end": 0,
+        "id": 205019,
+        "icon": "",
+        "content": "\n<color=#ed1941>\"...\"</color>"
+    },
+    "205020": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 205020,
+        "icon": "",
+        "content": "It was a promise made when I realized I had misunderstood Karin. I looked at Karin's slightly smug smile and had no choice but to turn my back to her.\nPlease, please keep yourself safe. Please, hang in there until I get back..."
+    },
+    "205021": {
+        "alignment": 1,
+        "name": "Momiji's Memory",
+        "next": 205022,
+        "page_end": 0,
+        "id": 205021,
+        "icon": "",
+        "content": "<color=#ed1941><size=48>Momiji's Memory</size></color>"
+    },
+    "205022": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 205023,
+        "page_end": 0,
+        "id": 205022,
+        "icon": "",
+        "content": "\n<color=#ed1941>\"It's all right now, come with me. Cover your mouth and nose with this towel. Make sure you don't breathe too deeply.\"</color>"
+    },
+    "205023": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 205024,
+        "page_end": 0,
+        "id": 205023,
+        "icon": "",
+        "content": "I found the child Leia in a room deep within the mansion and immediately put her on my back and ran out.\nBy the time I dashed back to Karin, her face was already covered in a layer of soot, but still she held the scroll tightly in her arms to keep the flames from getting to the painting.\nShe could barely breathe, let alone move a finger. However, the corner of her mouth twitched when I told her that Leia was safe."
+    },
+    "205024": {
+        "alignment": 0,
+        "name": "Momiji's Memory",
+        "next": 0,
+        "page_end": 1,
+        "id": 205024,
+        "icon": "",
+        "content": "\n<color=#f69c9f>\"Good... W-Wonderful...\"</color>"
+    },
+    "31001": {
+        "alignment": 0,
+        "name": "Graveyard Gate",
+        "next": 0,
+        "page_end": 0,
+        "id": 31001,
+        "icon": "20103",
+        "content": "A long-abandoned iron gate."
+    },
+    "31002": {
+        "alignment": 0,
+        "name": "Power Switch",
+        "next": 0,
+        "page_end": 0,
+        "id": 31002,
+        "icon": "20104",
+        "content": "A rusty switch. Looks like it can be used to control something..."
+    },
+    "31003": {
+        "alignment": 0,
+        "name": "Divine Pool",
+        "next": 0,
+        "page_end": 0,
+        "id": 31003,
+        "icon": "20109",
+        "content": "A place brimming with Divine Grace. Charge your weapons here."
+    },
+    "31004": {
+        "alignment": 0,
+        "name": "Corrupted Divine Pool",
+        "next": 0,
+        "page_end": 0,
+        "id": 31004,
+        "icon": "201091",
+        "content": "A place brimming with Divine Grace. Clear out the corrupting Visbanes here to use it for weapon charging."
+    },
+    "31005": {
+        "alignment": 0,
+        "name": "Lost Crate (S)",
+        "next": 0,
+        "page_end": 0,
+        "id": 31005,
+        "icon": "20101",
+        "content": "A crate that has been left here for some reason."
+    },
+    "31006": {
+        "alignment": 0,
+        "name": "Lost Crate (L)",
+        "next": 0,
+        "page_end": 0,
+        "id": 31006,
+        "icon": "20102",
+        "content": "A crate that has been left here for some reason."
+    },
+    "31007": {
+        "alignment": 0,
+        "name": "Damaged Switch",
+        "next": 0,
+        "page_end": 0,
+        "id": 31007,
+        "icon": "20104",
+        "content": "A jammed switch. Looks like it can only be used once..."
+    },
+    "31008": {
+        "alignment": 0,
+        "name": "Bramble Bush",
+        "next": 0,
+        "page_end": 0,
+        "id": 31008,
+        "icon": "20107",
+        "content": "It hurts to step on this plant. Can be found all over the abandoned graveyard."
+    },
+    "31009": {
+        "alignment": 0,
+        "name": "Worn Road Sign",
+        "next": 0,
+        "page_end": 0,
+        "id": 31009,
+        "icon": "20106",
+        "content": "A wooden sign. Looks like there's some text on it."
+    },
+    "31010": {
+        "alignment": 0,
+        "name": "Visbane Patrol",
+        "next": 0,
+        "page_end": 0,
+        "id": 31010,
+        "icon": "10301",
+        "content": "The Visbanes are conducting a patrol here for some reason."
+    },
+    "31011": {
+        "alignment": 0,
+        "name": "Visbane Patrol",
+        "next": 0,
+        "page_end": 0,
+        "id": 31011,
+        "icon": "10301_1",
+        "content": "The Visbanes are conducting a patrol here for some reason."
+    },
+    "31012": {
+        "alignment": 0,
+        "name": "Visbane Patrol",
+        "next": 0,
+        "page_end": 0,
+        "id": 31012,
+        "icon": "10301_2",
+        "content": "The Visbanes are conducting a patrol here for some reason."
+    },
+    "31013": {
+        "alignment": 0,
+        "name": "Graveyard Gate Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 31013,
+        "icon": "10601_3",
+        "content": "A key that opens the graveyard gate."
+    },
+    "31014": {
+        "alignment": 0,
+        "name": "Graveyard Gate Key",
+        "next": 0,
+        "page_end": 0,
+        "id": 31014,
+        "icon": "10601_3",
+        "content": "Graveyard Gate Key obtained!"
+    },
+    "30201": {
+        "alignment": 0,
+        "name": "Notice",
+        "next": 0,
+        "page_end": 0,
+        "id": 30201,
+        "icon": "20106",
+        "content": "Please do not carry restricted items... Violators will be...\nYou are now at: Graveyard No. 2, Kryptos Cemetery Park, Duskfall Area"
+    },
+    "30301": {
+        "alignment": 0,
+        "name": "Notice",
+        "next": 0,
+        "page_end": 0,
+        "id": 30301,
+        "icon": "20106",
+        "content": "Please do not move any item in the graveyard without prior permission to help us keep the facility in optimal condition...\nYou are now at: Graveyard No. 3, Kryptos Cemetery Park, Duskfall Area"
+    },
+    "30302": {
+        "alignment": 0,
+        "name": "Notice",
+        "next": 0,
+        "page_end": 0,
+        "id": 30302,
+        "icon": "20106",
+        "content": "In the event of an emergency, please take the following steps...\nYou are now at: Graveyard No. 3, Kryptos Cemetery Park, Duskfall Area"
+    },
+    "30401": {
+        "alignment": 0,
+        "name": "Notice",
+        "next": 0,
+        "page_end": 0,
+        "id": 30401,
+        "icon": "20106",
+        "content": "Restricted Area. Authorized Personnel Only...\nYou are now at: Graveyard No. 4, Kryptos Cemetery Park, Duskfall Area"
+    },
+    "41001": {
+        "alignment": 0,
+        "name": "Goods Container (S)",
+        "next": 0,
+        "page_end": 0,
+        "id": 41001,
+        "icon": "20312",
+        "content": "Looks like it fell off a wrecked ship and is here on the island for some reason."
+    },
+    "41002": {
+        "alignment": 0,
+        "name": "Goods Container (L)",
+        "next": 0,
+        "page_end": 0,
+        "id": 41002,
+        "icon": "20311",
+        "content": "Looks like it fell off a wrecked ship and is here on the island for some reason."
+    },
+    "41003": {
+        "alignment": 0,
+        "name": "Bane Corruption Point",
+        "next": 0,
+        "page_end": 0,
+        "id": 41003,
+        "icon": "20314",
+        "content": "Strange air bubbles hovering above the ground. There seems to be some Bane Energy detected here."
+    },
+    "41004": {
+        "alignment": 0,
+        "name": "Bane Corruption Point",
+        "next": 0,
+        "page_end": 0,
+        "id": 41004,
+        "icon": "20315",
+        "content": "Strange air bubbles hovering above the ground. A significant amount of Bane Energy is detected here."
+    },
+    "41005": {
+        "alignment": 0,
+        "name": "Bane Corruption Point",
+        "next": 0,
+        "page_end": 0,
+        "id": 41005,
+        "icon": "20316",
+        "content": "Strange air bubbles hovering above the ground that are emitting a dangerous level of Bane Energy. They look like they are about to burst."
+    },
+    "41006": {
+        "alignment": 0,
+        "name": "Brambles",
+        "next": 0,
+        "page_end": 0,
+        "id": 41006,
+        "icon": "20322",
+        "content": "Extremely tough brambles that cannot be cut using ordinary blades. They seem to be affected by Bane Energy."
+    },
+    "41007": {
+        "alignment": 0,
+        "name": "Brambles",
+        "next": 0,
+        "page_end": 0,
+        "id": 41007,
+        "icon": "20322",
+        "content": "The brambles have been cut using the Bane Crystal Blade and now allow a way through."
+    },
+    "41008": {
+        "alignment": 0,
+        "name": "Bane Crystal Lump",
+        "next": 0,
+        "page_end": 0,
+        "id": 41008,
+        "icon": "20324",
+        "content": "Contains a high level of Bane Energy. Given how tough it is, it cannot be damaged by ordinary means."
+    },
+    "41009": {
+        "alignment": 0,
+        "name": "Bane Crystal Lump",
+        "next": 0,
+        "page_end": 0,
+        "id": 41009,
+        "icon": "20324",
+        "content": "The song of the conch has shattered the crystal lump and one may now pass."
+    },
+    "41010": {
+        "alignment": 0,
+        "name": "Bane Crystal Blade",
+        "next": 0,
+        "page_end": 0,
+        "id": 41010,
+        "icon": "20323",
+        "content": "A crystal blade found all over the forest. It is extremely sharp."
+    },
+    "41011": {
+        "alignment": 0,
+        "name": "Bane Crystal Blade",
+        "next": 0,
+        "page_end": 0,
+        "id": 41011,
+        "icon": "20323",
+        "content": "The crystal blade is emitting strong Bane Energy, so it might work well on objects that are affected by it."
+    },
+    "41012": {
+        "alignment": 0,
+        "name": "Whalesong Conch",
+        "next": 0,
+        "page_end": 0,
+        "id": 41012,
+        "icon": "20325",
+        "content": "A strange-looking conch shell found all over the forest. A melodious whale song can be heard coming out of it..."
+    },
+    "41013": {
+        "alignment": 0,
+        "name": "Whalesong Conch",
+        "next": 0,
+        "page_end": 0,
+        "id": 41013,
+        "icon": "20325",
+        "content": "The whale song coming from the conch shell contains some kind of Divine Power, which seems to have some effect on Bane Energy crystals."
+    },
+    "41014": {
+        "alignment": 0,
+        "name": "Giant Tree",
+        "next": 0,
+        "page_end": 0,
+        "id": 41014,
+        "icon": "20320",
+        "content": "A giant tree found all over the forest. Its trunk is covered in parasitic vines which seem to be trying to extend far, far away from the tree."
+    },
+    "41015": {
+        "alignment": 0,
+        "name": "Giant Tree",
+        "next": 0,
+        "page_end": 0,
+        "id": 41015,
+        "icon": "20320",
+        "content": "Severing the parasitic vine from its root system causes it to quickly wither. This way, a path through the vines can be opened."
+    },
+    "41016": {
+        "alignment": 0,
+        "name": "Giant Tree",
+        "next": 0,
+        "page_end": 0,
+        "id": 41016,
+        "icon": "20320",
+        "content": "The giant tree comes back to life with the removal of the parasitic vines."
+    },
+    "41017": {
+        "alignment": 0,
+        "name": "Vine",
+        "next": 0,
+        "page_end": 0,
+        "id": 41017,
+        "icon": "20321",
+        "content": "Thick, sturdy vines that impede one's passage and which grow back quickly no matter how many times they are cut. Maybe it is time to look at the root of the problem instead."
+    },
+    "41018": {
+        "alignment": 0,
+        "name": "Bane-Corrupted Plant",
+        "next": 41019,
+        "page_end": 0,
+        "id": 41018,
+        "icon": "20326",
+        "content": "It would appear that these saplings grow quickly as a result of exposure to Bane Energy released during combat with Visbanes, and eventually grow into impenetrable thickets."
+    },
+    "41019": {
+        "alignment": 0,
+        "name": "Bane-Corrupted Plant",
+        "next": 0,
+        "page_end": 0,
+        "id": 41019,
+        "icon": "20326",
+        "content": "To pass, either do so quickly or avoid combat around it while it has yet to be full-grown."
+    },
+    "41020": {
+        "alignment": 0,
+        "name": "Shipwreck",
+        "next": 0,
+        "page_end": 0,
+        "id": 41020,
+        "icon": "20317",
+        "content": "The wreckage of a seafaring vessel that was swept to the island for some reason. It may still yield clues to the story of its demise."
+    },
+    "41021": {
+        "alignment": 0,
+        "name": "Fish Fossil",
+        "next": 0,
+        "page_end": 0,
+        "id": 41021,
+        "icon": "20318",
+        "content": "A fossil of a deep-sea fish that is a little out of place on an island. Maybe it has something to do with the secret of these islands."
+    },
+    "41022": {
+        "alignment": 0,
+        "name": "Floating Jellyfish",
+        "next": 0,
+        "page_end": 0,
+        "id": 41022,
+        "icon": "20319",
+        "content": "A strange-looking jellyfish hovering above the ground. It emits a certain pleasant and reassuring Divine Power."
+    },
+    "41023": {
+        "alignment": 0,
+        "name": "Sea Currents",
+        "next": 0,
+        "page_end": 0,
+        "id": 41023,
+        "icon": "20308",
+        "content": "Turbulent sea currents common in the Peripheral Sea. Once a boat gets caught in these, they are unable to change direction."
+    },
+    "41024": {
+        "alignment": 0,
+        "name": "Controlled Sea Currents",
+        "next": 0,
+        "page_end": 0,
+        "id": 41024,
+        "icon": "20309",
+        "content": "Turbulent sea currents common in the Peripheral Sea. However, they seem to be controlled by a certain type of Bane Energy. Battle with certain Visbanes to change the direction of the current."
+    },
+    "41025": {
+        "alignment": 0,
+        "name": "Banewell",
+        "next": 0,
+        "page_end": 0,
+        "id": 41025,
+        "icon": "20310",
+        "content": "An area of sea that is constantly emitting a high level of Bane Energy. Boats that come too close will be corroded."
+    },
+    "41026": {
+        "alignment": 0,
+        "name": "Electronic Component",
+        "next": 0,
+        "page_end": 0,
+        "id": 41026,
+        "icon": "20313",
+        "content": "Used in the controls of fishing boats. May contain information related to the disappearance of the vessel."
+    },
+    "41027": {
+        "alignment": 0,
+        "name": "Bane Crystal Lump",
+        "next": 0,
+        "page_end": 0,
+        "id": 41027,
+        "icon": "20305",
+        "content": "A lump of crystal containing a large amount of Bane Energy. It is extremely hard and can only be broken up with a good, hard smash."
+    },
+    "41028": {
+        "alignment": 0,
+        "name": "Unknown Visbane",
+        "next": 0,
+        "page_end": 0,
+        "id": 41028,
+        "icon": "20327",
+        "content": "A Visbane of unknown type that has suddenly appeared in the Peripheral Sea. It is thought to be a highly dangerous Behemoth-type Visbane with extremely high levels of Bane Energy."
+    },
+    "401011": {
+        "alignment": 1,
+        "name": "Jun. 13th",
+        "next": 401012,
+        "page_end": 0,
+        "id": 401011,
+        "icon": "",
+        "content": "Jun. 13th"
+    },
+    "401012": {
+        "alignment": 0,
+        "name": "Jun. 13th",
+        "next": 401013,
+        "page_end": 0,
+        "id": 401012,
+        "icon": "",
+        "content": "\nIt's really clear out there today, the clearest we've seen so far, in fact. We got ourselves a good catch too!"
+    },
+    "401013": {
+        "alignment": 0,
+        "name": "Jun. 13th",
+        "next": 0,
+        "page_end": 1,
+        "id": 401013,
+        "icon": "",
+        "content": "\nHowever, that crusty old captain kept telling us not to sail in this direction. He must be off his rocker. Does anyone even seriously believe all those stories of the Peripheral Sea?"
+    },
+    "401021": {
+        "alignment": 1,
+        "name": "Jun. 15th",
+        "next": 401022,
+        "page_end": 0,
+        "id": 401021,
+        "icon": "",
+        "content": "Jun. 15th"
+    },
+    "401022": {
+        "alignment": 0,
+        "name": "Jun. 15th",
+        "next": 401023,
+        "page_end": 0,
+        "id": 401022,
+        "icon": "",
+        "content": "\nWe caught ourselves some of that rare bluefin tuna today! Boy, I cannot wait to sell those babies for a fortune..."
+    },
+    "401023": {
+        "alignment": 0,
+        "name": "Jun. 15th",
+        "next": 401024,
+        "page_end": 0,
+        "id": 401023,
+        "icon": "",
+        "content": "\nInteresting how one can go without sleep when great things are happening. I don't feel sleepy at all!"
+    },
+    "401024": {
+        "alignment": 0,
+        "name": "Jun. 15th",
+        "next": 0,
+        "page_end": 1,
+        "id": 401024,
+        "icon": "",
+        "content": "\nThe captain's drinking again. Then again, he's not the only one. After all, we did have a good day today."
+    },
+    "401031": {
+        "alignment": 1,
+        "name": "Jun. 18th",
+        "next": 401032,
+        "page_end": 0,
+        "id": 401031,
+        "icon": "",
+        "content": "Jun. 18th"
+    },
+    "401032": {
+        "alignment": 0,
+        "name": "Jun. 18th",
+        "next": 401033,
+        "page_end": 0,
+        "id": 401032,
+        "icon": "",
+        "content": "\nI saw Molly on the boat today, just as I was missing her the most! She told me that she had sneaked onto the boat so that she could give me a surprise..."
+    },
+    "401033": {
+        "alignment": 0,
+        "name": "Jun. 18th",
+        "next": 0,
+        "page_end": 1,
+        "id": 401033,
+        "icon": "",
+        "content": "\nI'm not sure how she managed to hide out on the boat for so long, though... Ah, that's a useless question. What's important is that she is here with me!"
+    },
+    "401041": {
+        "alignment": 1,
+        "name": "Jun. 20th",
+        "next": 401042,
+        "page_end": 0,
+        "id": 401041,
+        "icon": "",
+        "content": "Jun. 20th"
+    },
+    "401042": {
+        "alignment": 0,
+        "name": "Jun. 20th",
+        "next": 401043,
+        "page_end": 0,
+        "id": 401042,
+        "icon": "",
+        "content": "\nThe captain emerged from his cabin dripping wet again today, and told us to check for leaks in the cabin."
+    },
+    "401043": {
+        "alignment": 0,
+        "name": "Jun. 20th",
+        "next": 0,
+        "page_end": 1,
+        "id": 401043,
+        "icon": "",
+        "content": "\nWhat in the world? The captain's cabin is the most comfortable spot on the boat. How the heck did he get his clothes wet???"
+    },
+    "402011": {
+        "alignment": 1,
+        "name": "Jun. 21st",
+        "next": 402012,
+        "page_end": 0,
+        "id": 402011,
+        "icon": "",
+        "content": "Jun. 21st"
+    },
+    "402012": {
+        "alignment": 0,
+        "name": "Jun. 21st",
+        "next": 402013,
+        "page_end": 0,
+        "id": 402012,
+        "icon": "",
+        "content": "\nI don't understand this. Why am I still so tired after having slept for so long?"
+    },
+    "402013": {
+        "alignment": 0,
+        "name": "Jun. 21st",
+        "next": 402014,
+        "page_end": 0,
+        "id": 402013,
+        "icon": "",
+        "content": "\nDid I really fall asleep?"
+    },
+    "402014": {
+        "alignment": 0,
+        "name": "Jun. 21st",
+        "next": 0,
+        "page_end": 1,
+        "id": 402014,
+        "icon": "",
+        "content": "\nGreat, the person who's the most awake on this boat now is our drunkard captain."
+    },
+    "402021": {
+        "alignment": 1,
+        "name": "Jun. 23rd",
+        "next": 402022,
+        "page_end": 0,
+        "id": 402021,
+        "icon": "",
+        "content": "Jun. 23rd"
+    },
+    "402022": {
+        "alignment": 0,
+        "name": "Jun. 23rd",
+        "next": 402023,
+        "page_end": 0,
+        "id": 402022,
+        "icon": "",
+        "content": "\nWe have a boat full of fish right now. We're gonna be rich!"
+    },
+    "402023": {
+        "alignment": 0,
+        "name": "Jun. 23rd",
+        "next": 402024,
+        "page_end": 0,
+        "id": 402023,
+        "icon": "",
+        "content": "\nNo, no! There's not a single fish to be found!"
+    },
+    "402024": {
+        "alignment": 0,
+        "name": "Jun. 23rd",
+        "next": 402025,
+        "page_end": 0,
+        "id": 402024,
+        "icon": "",
+        "content": "\nYou're lying! I saw the fish!"
+    },
+    "402025": {
+        "alignment": 0,
+        "name": "Jun. 23rd",
+        "next": 0,
+        "page_end": 1,
+        "id": 402025,
+        "icon": "",
+        "content": "\nWhat did I just see? Are those... bubbles???"
+    },
+    "402031": {
+        "alignment": 1,
+        "name": "Jun. 24th",
+        "next": 402032,
+        "page_end": 0,
+        "id": 402031,
+        "icon": "",
+        "content": "Jun. 24th"
+    },
+    "402032": {
+        "alignment": 0,
+        "name": "Jun. 24th",
+        "next": 402033,
+        "page_end": 0,
+        "id": 402032,
+        "icon": "",
+        "content": "\nI haven't seen Molly for some time. Is she really on the boat?"
+    },
+    "402033": {
+        "alignment": 0,
+        "name": "Jun. 24th",
+        "next": 402034,
+        "page_end": 0,
+        "id": 402033,
+        "icon": "",
+        "content": "\nYes, she is! I just saw her this morning!"
+    },
+    "402034": {
+        "alignment": 0,
+        "name": "Jun. 24th",
+        "next": 402035,
+        "page_end": 0,
+        "id": 402034,
+        "icon": "",
+        "content": "\nBut she just disappeared into thin air, like those bubbles..."
+    },
+    "402035": {
+        "alignment": 0,
+        "name": "Jun. 24th",
+        "next": 0,
+        "page_end": 1,
+        "id": 402035,
+        "icon": "",
+        "content": "\nWe've been out at sea for too long. It's time we head back to dry land..."
+    },
+    "402041": {
+        "alignment": 1,
+        "name": "Jun. 25th",
+        "next": 402042,
+        "page_end": 0,
+        "id": 402041,
+        "icon": "",
+        "content": "Jun. 25th"
+    },
+    "402042": {
+        "alignment": 0,
+        "name": "Jun. 25th",
+        "next": 402043,
+        "page_end": 0,
+        "id": 402042,
+        "icon": "",
+        "content": "\nNone of these imbecile sailors are of any use."
+    },
+    "402043": {
+        "alignment": 0,
+        "name": "Jun. 25th",
+        "next": 402044,
+        "page_end": 0,
+        "id": 402043,
+        "icon": "",
+        "content": "\nThat bottle of wine hidden in the wheelhouse is still there, and I took a sip from it. It feels real to me."
+    },
+    "402044": {
+        "alignment": 0,
+        "name": "Jun. 25th",
+        "next": 402045,
+        "page_end": 0,
+        "id": 402044,
+        "icon": "",
+        "content": "\n..."
+    },
+    "402045": {
+        "alignment": 0,
+        "name": "Jun. 25th",
+        "next": 0,
+        "page_end": 1,
+        "id": 402045,
+        "icon": "",
+        "content": "\nIcarus, let's smash those bubbles to nothing!"
+    },
+    "403011": {
+        "alignment": 1,
+        "name": "Jun. 25th",
+        "next": 403012,
+        "page_end": 0,
+        "id": 403011,
+        "icon": "",
+        "content": "Jun. 25th"
+    },
+    "403012": {
+        "alignment": 0,
+        "name": "Jun. 25th",
+        "next": 403013,
+        "page_end": 0,
+        "id": 403012,
+        "icon": "",
+        "content": "\nI can't believe that I'm still alive after ramming into those bubbles. Damn, there's no more wine left on the boat."
+    },
+    "403013": {
+        "alignment": 0,
+        "name": "Jun. 25th",
+        "next": 403014,
+        "page_end": 0,
+        "id": 403013,
+        "icon": "",
+        "content": "\n..."
+    },
+    "403014": {
+        "alignment": 0,
+        "name": "Jun. 25th",
+        "next": 403015,
+        "page_end": 0,
+        "id": 403014,
+        "icon": "",
+        "content": "\nI should write a few more lines while I still can. Looks like there are certain places the sea creature doesn't or cannot look. I must have gotten lucky and landed in one of those."
+    },
+    "403015": {
+        "alignment": 0,
+        "name": "Jun. 25th",
+        "next": 403016,
+        "page_end": 1,
+        "id": 403015,
+        "icon": "",
+        "content": "\nI can't hide forever, I guess. I may be the only one left on the boat, but there still isn't enough to eat."
+    },
+    "403016": {
+        "alignment": 0,
+        "name": "Jun. 25th",
+        "next": 403017,
+        "page_end": 0,
+        "id": 403016,
+        "icon": "",
+        "content": "\nA rescue boat? Who else other than my idiotic sailors would come to this place?"
+    },
+    "403017": {
+        "alignment": 0,
+        "name": "Jun. 25th",
+        "next": 403018,
+        "page_end": 0,
+        "id": 403017,
+        "icon": "",
+        "content": "\n..."
+    },
+    "403018": {
+        "alignment": 0,
+        "name": "Jun. 25th",
+        "next": 403019,
+        "page_end": 0,
+        "id": 403018,
+        "icon": "",
+        "content": "\nIcarus, good thing is you have enough fuel, right?"
+    },
+    "403019": {
+        "alignment": 0,
+        "name": "Jun. 25th",
+        "next": 0,
+        "page_end": 1,
+        "id": 403019,
+        "icon": "",
+        "content": "\nHahaha!"
+    },
+    "403021": {
+        "alignment": 1,
+        "name": "Jun. 26th",
+        "next": 403022,
+        "page_end": 0,
+        "id": 403021,
+        "icon": "",
+        "content": "Jun. 26th"
+    },
+    "403022": {
+        "alignment": 0,
+        "name": "Jun. 26th",
+        "next": 403023,
+        "page_end": 0,
+        "id": 403022,
+        "icon": "",
+        "content": "\nDamn, I still can't get away."
+    },
+    "403023": {
+        "alignment": 0,
+        "name": "Jun. 26th",
+        "next": 403024,
+        "page_end": 1,
+        "id": 403023,
+        "icon": "",
+        "content": "\nIf anyone ever sees this message, just remember one thing."
+    },
+    "403024": {
+        "alignment": 0,
+        "name": "Jun. 26th",
+        "next": 403025,
+        "page_end": 0,
+        "id": 403024,
+        "icon": "",
+        "content": "\nGet away from that creature as far as you can! It's real! It's all real!"
+    },
+    "403025": {
+        "alignment": 0,
+        "name": "Jun. 26th",
+        "next": 403026,
+        "page_end": 0,
+        "id": 403025,
+        "icon": "",
+        "content": "\nGet away from that creature as far as you can! It's real! It's all real!"
+    },
+    "403026": {
+        "alignment": 0,
+        "name": "Jun. 26th",
+        "next": 403027,
+        "page_end": 0,
+        "id": 403026,
+        "icon": "",
+        "content": "\nGet away from that creature as far as you can! It's real! It's all real!"
+    },
+    "403027": {
+        "alignment": 0,
+        "name": "Jun. 26th",
+        "next": 403028,
+        "page_end": 0,
+        "id": 403027,
+        "icon": "",
+        "content": "\n..."
+    },
+    "403028": {
+        "alignment": 0,
+        "name": "Jun. 26th",
+        "next": 403029,
+        "page_end": 0,
+        "id": 403028,
+        "icon": "",
+        "content": "\nI found a bottle of wine that had fallen through the gaps when the gunwale was broken. Icarus, you're so good to me."
+    },
+    "403029": {
+        "alignment": 0,
+        "name": "Jun. 26th",
+        "next": 0,
+        "page_end": 1,
+        "id": 403029,
+        "icon": "",
+        "content": "\nI suppose I should count myself lucky that at least everything is real at the end!"
+    },
+    "403030": {
+        "alignment": 0,
+        "name": "Jun. 25th",
+        "next": 0,
+        "page_end": 0,
+        "id": 403030,
+        "icon": "",
+        "content": "Shipwreck Clue 1 obtained"
+    },
+    "403031": {
+        "alignment": 0,
+        "name": "Jun. 26th",
+        "next": 0,
+        "page_end": 0,
+        "id": 403031,
+        "icon": "",
+        "content": "Shipwreck Clue 2 obtained"
+    },
+    "50101": {
+        "alignment": 0,
+        "name": "Celestial Globe",
+        "next": 0,
+        "page_end": 0,
+        "id": 50101,
+        "icon": "20504",
+        "content": "Maybe a new path will appear when you light up the Stars..."
+    },
+    "50102": {
+        "alignment": 0,
+        "name": "Mysterious Bookcase",
+        "next": 0,
+        "page_end": 0,
+        "id": 50102,
+        "icon": "20505",
+        "content": "Like with many classic secret-chamber devices, there seems to be some way to access the passageway hidden behind it."
+    },
+    "50103": {
+        "alignment": 0,
+        "name": "Mysterious Bookcase",
+        "next": 0,
+        "page_end": 0,
+        "id": 50103,
+        "icon": "20505",
+        "content": "The \"bookcase\" door is ajar, though not quite open enough to let anyone through..."
+    },
+    "50104": {
+        "alignment": 0,
+        "name": "Device Platform",
+        "next": 0,
+        "page_end": 0,
+        "id": 50104,
+        "icon": "20506",
+        "content": "A platform that looks like it can be lowered using some kind of device or operating mechanism."
+    },
+    "61001": {
+        "alignment": 0,
+        "name": "Hole",
+        "next": 0,
+        "page_end": 0,
+        "id": 61001,
+        "icon": "20604",
+        "content": "Verthandi: Well, it would be nice if I could fly over there... But if I can push the Cloudsong Ore here..."
+    },
+    "61002": {
+        "alignment": 0,
+        "name": "Seismograph",
+        "next": 0,
+        "page_end": 0,
+        "id": 61002,
+        "icon": "20606",
+        "content": "A seismograph with mysterious power, which can change the gravitational state of all the Cloudsong Ores in a grid around. "
+    },
+    "61003": {
+        "alignment": 0,
+        "name": "Mysterious Statue ",
+        "next": 0,
+        "page_end": 0,
+        "id": 61003,
+        "icon": "20603",
+        "content": "If you pay tribute to Lord Mimir with a cola-flavored coolant, you'll get a chance to start over! "
+    },
+    "61004": {
+        "alignment": 0,
+        "name": "Moonlight Gate ",
+        "next": 0,
+        "page_end": 0,
+        "id": 61004,
+        "icon": "20608",
+        "content": "An archway shaped like a full moon. It seems to be connected with those glimmering tiles..."
+    },
+    "all": [
+        10001,
+        10002,
+        10003,
+        10004,
+        10005,
+        10006,
+        10007,
+        10008,
+        10009,
+        10010,
+        10011,
+        10012,
+        10013,
+        10014,
+        10015,
+        10016,
+        10017,
+        10018,
+        10019,
+        10101,
+        10102,
+        10103,
+        10104,
+        10105,
+        10106,
+        11001,
+        11002,
+        11003,
+        11004,
+        11005,
+        11006,
+        11007,
+        11008,
+        11009,
+        11010,
+        11011,
+        11012,
+        11013,
+        11014,
+        11015,
+        11016,
+        11017,
+        11018,
+        11019,
+        11020,
+        11021,
+        11022,
+        11023,
+        11024,
+        10201,
+        10202,
+        10205,
+        10206,
+        10207,
+        10208,
+        10209,
+        10210,
+        10211,
+        10212,
+        10213,
+        10214,
+        10215,
+        102151,
+        102152,
+        102153,
+        10216,
+        10217,
+        10218,
+        10219,
+        10220,
+        10221,
+        10222,
+        10223,
+        10224,
+        10225,
+        10226,
+        102261,
+        102262,
+        102263,
+        102264,
+        102265,
+        10227,
+        10228,
+        10229,
+        10230,
+        10231,
+        10232,
+        10233,
+        10234,
+        102341,
+        10235,
+        10236,
+        10237,
+        10238,
+        10239,
+        10240,
+        10241,
+        10242,
+        10301,
+        10302,
+        10303,
+        10304,
+        10305,
+        10306,
+        10307,
+        10308,
+        10309,
+        10310,
+        103101,
+        103102,
+        103103,
+        103104,
+        103105,
+        10313,
+        103131,
+        103132,
+        103133,
+        10316,
+        103161,
+        103162,
+        10319,
+        103191,
+        10322,
+        103221,
+        103222,
+        103223,
+        103224,
+        103225,
+        103226,
+        103227,
+        103228,
+        103229,
+        103230,
+        103231,
+        103232,
+        103233,
+        103234,
+        10325,
+        103251,
+        103252,
+        103253,
+        103254,
+        103255,
+        103256,
+        103257,
+        103258,
+        103259,
+        10401,
+        104011,
+        104012,
+        104013,
+        10402,
+        10403,
+        10404,
+        10405,
+        10406,
+        10407,
+        10408,
+        10412,
+        10413,
+        10414,
+        10409,
+        104091,
+        104092,
+        10410,
+        104101,
+        104102,
+        104103,
+        104104,
+        104105,
+        104106,
+        10411,
+        104111,
+        104112,
+        104113,
+        104114,
+        104115,
+        104116,
+        10415,
+        104151,
+        104152,
+        104153,
+        104154,
+        104155,
+        104156,
+        10416,
+        104161,
+        10501,
+        10502,
+        10503,
+        10504,
+        10505,
+        10506,
+        10507,
+        10508,
+        10509,
+        10510,
+        10511,
+        10512,
+        10513,
+        10514,
+        10515,
+        10516,
+        10517,
+        10518,
+        10519,
+        10520,
+        10521,
+        10522,
+        10523,
+        10524,
+        10525,
+        10601,
+        10602,
+        10603,
+        10604,
+        10605,
+        10606,
+        10607,
+        10608,
+        10609,
+        10610,
+        10611,
+        10612,
+        10613,
+        10614,
+        10615,
+        10616,
+        10617,
+        10618,
+        10619,
+        10620,
+        10621,
+        10622,
+        10623,
+        10624,
+        10625,
+        10626,
+        10627,
+        10628,
+        10629,
+        10630,
+        10631,
+        10701,
+        10702,
+        10703,
+        21001,
+        21002,
+        21003,
+        21004,
+        21005,
+        21006,
+        21007,
+        21008,
+        21009,
+        21010,
+        21011,
+        21012,
+        21013,
+        21014,
+        21015,
+        20101,
+        20102,
+        201031,
+        201032,
+        201041,
+        201042,
+        20105,
+        20106,
+        202011,
+        202012,
+        202021,
+        202022,
+        202031,
+        202032,
+        203011,
+        203012,
+        203021,
+        203022,
+        203023,
+        203024,
+        203031,
+        203032,
+        203033,
+        203034,
+        203041,
+        203042,
+        204011,
+        204012,
+        204021,
+        204022,
+        204031,
+        204032,
+        204041,
+        204042,
+        205011,
+        205012,
+        205013,
+        205014,
+        205015,
+        205016,
+        205017,
+        205018,
+        205019,
+        205020,
+        205021,
+        205022,
+        205023,
+        205024,
+        31001,
+        31002,
+        31003,
+        31004,
+        31005,
+        31006,
+        31007,
+        31008,
+        31009,
+        31010,
+        31011,
+        31012,
+        31013,
+        31014,
+        30201,
+        30301,
+        30302,
+        30401,
+        41001,
+        41002,
+        41003,
+        41004,
+        41005,
+        41006,
+        41007,
+        41008,
+        41009,
+        41010,
+        41011,
+        41012,
+        41013,
+        41014,
+        41015,
+        41016,
+        41017,
+        41018,
+        41019,
+        41020,
+        41021,
+        41022,
+        41023,
+        41024,
+        41025,
+        41026,
+        41027,
+        41028,
+        401011,
+        401012,
+        401013,
+        401021,
+        401022,
+        401023,
+        401024,
+        401031,
+        401032,
+        401033,
+        401041,
+        401042,
+        401043,
+        402011,
+        402012,
+        402013,
+        402014,
+        402021,
+        402022,
+        402023,
+        402024,
+        402025,
+        402031,
+        402032,
+        402033,
+        402034,
+        402035,
+        402041,
+        402042,
+        402043,
+        402044,
+        402045,
+        403011,
+        403012,
+        403013,
+        403014,
+        403015,
+        403016,
+        403017,
+        403018,
+        403019,
+        403021,
+        403022,
+        403023,
+        403024,
+        403025,
+        403026,
+        403027,
+        403028,
+        403029,
+        403030,
+        403031,
+        50101,
+        50102,
+        50103,
+        50104,
+        61001,
+        61002,
+        61003,
+        61004
+    ]
+}

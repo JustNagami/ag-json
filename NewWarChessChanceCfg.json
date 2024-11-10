@@ -1,0 +1,2801 @@
+{
+    "10100": {
+        "id": 10100,
+        "name": "Smash 'Em All!",
+        "description": "Spealght's famed \"indestructible transport\" <color=#FF9500>Sturdy Boxes</color>. But now that it's in your way, no amount of sturdiness can save it.",
+        "des_params": ""
+    },
+    "10200": {
+        "id": 10200,
+        "name": "Into the Abyss",
+        "description": "Gaping open like an endless abyss, this waste <color=#FF9500>Recycling Pipeline</color> leads to a recycling chamber for discarded AGI Mecha. You'll have to press the manual switch to the side of this chasmic maw blocking your path to continue your journey.",
+        "des_params": ""
+    },
+    "10300": {
+        "id": 10300,
+        "name": "Lower-level Elevator",
+        "description": "<color=#FF9500>Elevators</color> like these are found throughout the factory. Close the circuit to make it go up.",
+        "des_params": ""
+    },
+    "10400": {
+        "id": 10400,
+        "name": "Upper-level Elevator",
+        "description": "<color=#FF9500>Elevators</color> like these are found throughout the factory. Close the circuit to make it go down.",
+        "des_params": ""
+    },
+    "10500": {
+        "id": 10500,
+        "name": "Thruster",
+        "description": "An adjustable <color=#FF9500>Thruster</color>. Typically used to test products' impact resistance, you have another use for it now.",
+        "des_params": ""
+    },
+    "10600": {
+        "id": 10600,
+        "name": "Lower-level Elevator",
+        "description": "<color=#FF9500>Elevators</color> like these are found throughout the factory. Close the circuit to make it go up.",
+        "des_params": ""
+    },
+    "10700": {
+        "id": 10700,
+        "name": "Lower-level Elevator",
+        "description": "<color=#FF9500>Elevators</color> like these are found throughout the factory. Close the circuit to make it go up.",
+        "des_params": ""
+    },
+    "10800": {
+        "id": 10800,
+        "name": "Lower-level Elevator",
+        "description": "<color=#FF9500>Elevators</color> like these are found throughout the factory. Close the circuit to make it go up.",
+        "des_params": ""
+    },
+    "10900": {
+        "id": 10900,
+        "name": "Status Reverse",
+        "description": "The <color=#FF9500>Main Console</color>, which can be used to change the status of facilities or equipment within a certain zine. Needs the right access card to use.",
+        "des_params": ""
+    },
+    "11000": {
+        "id": 11000,
+        "name": "Lower-level Elevator",
+        "description": "<color=#FF9500>Elevators</color> like these are found throughout the factory. Close the circuit to make it go up.",
+        "des_params": ""
+    },
+    "11100": {
+        "id": 11100,
+        "name": "Upper-level Elevator",
+        "description": "<color=#FF9500>Elevators</color> like these are found throughout the factory. Close the circuit to make it go down.",
+        "des_params": ""
+    },
+    "11200": {
+        "id": 11200,
+        "name": "Thruster",
+        "description": "An adjustable <color=#FF9500>Thruster</color>. Typically used to test products' impact resistance, you have another use for it now.",
+        "des_params": ""
+    },
+    "11300": {
+        "id": 11300,
+        "name": "Unlocked Database",
+        "description": "A database unlocked following verification by the secretary AGI Mecha. You can collect tons of information from it.",
+        "des_params": ""
+    },
+    "15100": {
+        "id": 15100,
+        "name": "Electrical Safety",
+        "description": "Electrical wires that should be buried deep within the walls now lay in a dense, tangled mess on the hallway floor, their exposed cross sections warning you of the danger this area poses. You can't allow that AGI Mecha to keep running amok with that sharp blade in its hands!",
+        "des_params": ""
+    },
+    "15101": {
+        "id": 15101,
+        "name": "Electrical Safety",
+        "description": "Seeing that the power has been turned off in the hallway, you enter it and bolt toward the AGI Mecha. It notices you as well and lunges at you.",
+        "des_params": ""
+    },
+    "15102": {
+        "id": 15102,
+        "name": "Electrical Safety",
+        "description": "You turn on the power switch for this section of the hallway and the wire short-circuits and explodes. Thinking the explosion would make quick work of it, it manages to block the damage instead, then lunges at you from the plume of smoke.",
+        "des_params": ""
+    },
+    "15200": {
+        "id": 15200,
+        "name": "Kitty Protection Society",
+        "description": "You arrive at the anomaly marked on the terminal map, where a black cat with white paws nimbly lands in front of you. Its turquoise eyes are locked on you, like it wants something.",
+        "des_params": ""
+    },
+    "15201": {
+        "id": 15201,
+        "name": "Kitty Protection Society",
+        "description": "Seeing you approach, the kitty rolls over and exposes its belly for a pet. The sheer joy you get from touching its smooth, flowing hair and soft, warm body entrances you. Hearing looming footsteps, the cat suddenly rolls back over. But by then, the AGI Mecha is already blocking the room's exit.",
+        "des_params": ""
+    },
+    "15202": {
+        "id": 15202,
+        "name": "Kitty Protection Society",
+        "description": "You give some food to the cat. It sniffs at it, then takes the food in its mouth and disappears around the corner. You quietly follow it and see it give the food to a group of kittens. For their safety, you carry out a careful sweep of the room. In the distance, you see the patrolling AGI Mecha approaching the room, but it hasn't noticed you yet...",
+        "des_params": ""
+    },
+    "15203": {
+        "id": 15203,
+        "name": "Kitty Protection Society",
+        "description": "No one can refuse a little kitty! But somehow, you did it! You resist the urge to touch it, instead resolving to continue your mission.",
+        "des_params": ""
+    },
+    "15300": {
+        "id": 15300,
+        "name": "Emergency Situation",
+        "description": "A red warning light keeps popping up on the Bane Energy scanner\u2014the residual Bane Energy in this room has reached the warning level. It's hard to believe that the AGI Mecha's rampage would leave so much Bane Energy in its wake. You'll need more help, or... more intel.",
+        "des_params": ""
+    },
+    "15301": {
+        "id": 15301,
+        "name": "Emergency Situation",
+        "description": "To secure more intel, you follow the Bane Energy to its source. You tense up in the dark hallway as an icy chill seeps into your bones, making your footfalls heavier. You finally find the big guy at the end of the hallway, but it's been expecting you.",
+        "des_params": ""
+    },
+    "15302": {
+        "id": 15302,
+        "name": "Emergency Situation",
+        "description": "An adversary capable of leaving a Bane Energy trace like this can't be trifled with. You immediately request assistance and wait for it to arrive. To your surprise, however, a group of still-operational AGI Mecha charge into the room first\u2014you'll just have to deal with them before help arrives.",
+        "des_params": ""
+    },
+    "15400": {
+        "id": 15400,
+        "name": "The Prospector",
+        "description": "The sound of a group of people laughing carries down the hallway and into your ears. You peer around the corner and see a gang of armed bandits gathered in the hall, which they've occupied to use as a resting place. Judging from the Spealght-branded crates under their feet, they're here to \"prospect.\"",
+        "des_params": ""
+    },
+    "15401": {
+        "id": 15401,
+        "name": "The Prospector",
+        "description": "Friends are always made over a few drinks in Neuhansa. Knowing just how sharp these prospectors are, you think about joining the party to gather more intel on them so you can track them down later. Unfortunately, you forgot to remove your ID badge, so they'll hardly welcome you with open arms.",
+        "des_params": ""
+    },
+    "15402": {
+        "id": 15402,
+        "name": "The Prospector",
+        "description": "You make a detour to the other entrance and approach the bandits from the rear. Quickly spotting a crate that isn't from Spealght, you surmise that the bandits must store their field gear here. The noise will certainly alert the them, but once you destroy this crate, a gang of bandits without any equipment won't pose a threat to you.",
+        "des_params": ""
+    },
+    "15403": {
+        "id": 15403,
+        "name": "The Prospector",
+        "description": "You upload the coordinates and intel for this place to the terminal and quickly receive a response from the nearby advance squad. You surround the hall and, on the signal, apprehend the prospectors. You then escort them to the nearest Comms Station and wait for HQ to take over. The seized cargo is also turned in as much accordance with regulations as possible.",
+        "des_params": ""
+    },
+    "15500": {
+        "id": 15500,
+        "name": "A Flame Still Alight",
+        "description": "A roar resounds from the depths of the underground test site, which by all accounts has long since ceased operations. As a warning repeatedly sounds from the Bane Energy scanner, you feel the pressure of the depths increasingly bearing down on you the further you explore.",
+        "des_params": ""
+    },
+    "15501": {
+        "id": 15501,
+        "name": "A Flame Still Alight",
+        "description": "After performing a dutiful inventory of your equipment, you take a deep breath. Equipping your heart's most crucial apparatus\u2014courage\u2014you walk towards the source of the pressure.",
+        "des_params": ""
+    },
+    "15502": {
+        "id": 15502,
+        "name": "A Flame Still Alight",
+        "description": "Using your equipment to conceal your form and presence, you look over at the source of the pressure in the distance. It turns out to be a wounded Visbane. Its data erased, it's no longer able to maintain its form, and its resentment is the source of this pressure. Take advantage of its exposed weakness to finish it off.",
+        "des_params": ""
+    },
+    "15503": {
+        "id": 15503,
+        "name": "A Flame Still Alight",
+        "description": "You immediately report the situation here to the terminal. As time passes, you feel the pressure diminishing until the scanner falls silent. You walk to where the source of the pressure was and find no trace of it left.",
+        "des_params": ""
+    },
+    "15600": {
+        "id": 15600,
+        "name": "Superimposed Demons",
+        "description": "You chase the fleeing Visbane to the container area, where the scattered cargo crates create a natural hiding place. You've never been afraid to face an enemy head on, but you can't be too careful when a hidden enemy could launch a surprise attack at any moment.",
+        "des_params": ""
+    },
+    "15601": {
+        "id": 15601,
+        "name": "Superimposed Demons",
+        "description": "The higher your vantage point, the more you can see. You climb on top of a high-up cargo crate, but before you can get to your feet, a cold blade flies at you from below. You stumble to evade the Visbane's attack. Now that you've been put on the defense, it's time to settle this.",
+        "des_params": ""
+    },
+    "15602": {
+        "id": 15602,
+        "name": "Superimposed Demons",
+        "description": "You walk toward an open cargo crate, and a familiar black cat leaps out. Startled, you stagger slightly, narrowly dodging an attack from the Visbane from behind. Now that you've been put on the defense, it's time to settle this.",
+        "des_params": ""
+    },
+    "15603": {
+        "id": 15603,
+        "name": "Superimposed Demons",
+        "description": "You find the Visbane on the other side of a cargo crate. It clearly hasn't noticed you yet, making this the perfect chance for a preemptive strike.",
+        "des_params": ""
+    },
+    "15700": {
+        "id": 15700,
+        "name": "Armed Test",
+        "description": "A circular platform in the empty room catches your attention. The instant you step onto it, you hear a mechanical voice echo through the room: \"Z-series AGI Mecha in position. Armed test will commence in 60 seconds.\" Hatch doors open around the room, revealing an array of AGI Mecha poised and ready.",
+        "des_params": ""
+    },
+    "15701": {
+        "id": 15701,
+        "name": "Armed Test",
+        "description": "This cute little army of AGI Mecha has arrived just in time to test out your new gear. With this in mind, you assume a combat-ready stance.",
+        "des_params": ""
+    },
+    "15702": {
+        "id": 15702,
+        "name": "Armed Test",
+        "description": "You quickly scan the room until your eyes lock on to a console, then throw yourself at it with all your might. the option to close the hatch doors comes into your view. By selecting this option, the doors will slowly close. Even if it's too late to stop them entirely, the gradual compression will still do considerable crushing damage to the AGI Mecha and ultimately stop them from continuing to rush out.",
+        "des_params": ""
+    },
+    "15703": {
+        "id": 15703,
+        "name": "Armed Test",
+        "description": "You soon realize that you were probably identified as a Z-series AGI Mecha because of all the AGI Mecha components in your bag. You put your bag down and jump off the platform.\nAs predicted, the AGI Mecha launch a round of attacks on your bag before returning to the hatches. The only problem you're left to face now is how to reasonably explain the damage to the gear in your bag to the repairman.",
+        "des_params": ""
+    },
+    "15800": {
+        "id": 15800,
+        "name": "Modified Knight",
+        "description": "You find an armed AGI Mecha untouched by Bane Energy corrosion in the underground test site. If you can just safely escort it to the main comms station then disassemble and analyze it, who knows how much it could benefit the clean-up process!",
+        "des_params": ""
+    },
+    "15801": {
+        "id": 15801,
+        "name": "Modified Knight",
+        "description": "You set the AGI Mecha's path according to the terminal map. Now you just need to escort it safely to the main comms station and your mission is complete.",
+        "des_params": ""
+    },
+    "15802": {
+        "id": 15802,
+        "name": "Modified Knight",
+        "description": "You carefully analyze the route on the terminal map\u2014it's a long journey that passes through multiple residual Bane Energy zones. Calling for assistance will ensure the escort mission proceeds without a hitch.",
+        "des_params": ""
+    },
+    "15803": {
+        "id": 15803,
+        "name": "Modified Knight",
+        "description": "You remember that some other squad members are also sweeping this area, so it would be a waste of your efforts if you all submit identical reports. You upload your report on this armed AGI Mecha to the terminal for comparison and discover that another squad has already collected a blueprint for this AGI Mecha, making this AGI Mecha less valuable than it once was.",
+        "des_params": ""
+    },
+    "17000": {
+        "id": 17000,
+        "name": "Investigate the Signal",
+        "description": "You re-confirm the coordinates displayed on the terminal\u2014the abnormal energy signal should be here. Record the intel from the area, scan it, and upload it.",
+        "des_params": ""
+    },
+    "17001": {
+        "id": 17001,
+        "name": "Investigate the Signal",
+        "description": "\"The investigation report on the site has been received and the threat has been eliminated. Thank you for your efforts toward this large-scale Visbane incident clean-up operation. A support unit has been dispatched, please wait and be ready for the handover.\" You receive a message on your terminal. Before long, you see the familiar figures of the support unit.",
+        "des_params": ""
+    },
+    "17100": {
+        "id": 17100,
+        "name": "Investigate the Signal",
+        "description": "You re-confirm the coordinates displayed on the terminal\u2014the abnormal energy signal should be here. Record the intel from the area, scan it, and upload it.",
+        "des_params": ""
+    },
+    "17101": {
+        "id": 17101,
+        "name": "Investigate the Signal",
+        "description": "\"The investigation report on the site has been received and the threat has been eliminated. Thank you for your efforts toward this large-scale Visbane incident clean-up operation. A support unit has been dispatched, please wait and be ready for the handover.\" You receive a message on your terminal. Before long, you see the familiar figures of the support unit.",
+        "des_params": ""
+    },
+    "17200": {
+        "id": 17200,
+        "name": "Investigate the Signal",
+        "description": "You re-confirm the coordinates displayed on the terminal\u2014the abnormal energy signal should be here. Record the intel from the area, scan it, and upload it.",
+        "des_params": ""
+    },
+    "17201": {
+        "id": 17201,
+        "name": "Investigate the Signal",
+        "description": "\"The investigation report on the site has been received and the threat has been eliminated. Thank you for your efforts toward this large-scale Visbane incident clean-up operation. A support unit has been dispatched, please wait and be ready for the handover.\" You receive a message on your terminal. Before long, you see the familiar figures of the support unit.",
+        "des_params": ""
+    },
+    "18100": {
+        "id": 18100,
+        "name": "Eliminate the Threat",
+        "description": "You re-confirm the coordinates displayed on the terminal\u2014the residual Bane Energy signal should be here. As you cautiously proceed ahead, an unrecovered rampaging AGI Mecha appears before you. As expected, this is your target.",
+        "des_params": ""
+    },
+    "18101": {
+        "id": 18101,
+        "name": "Eliminate the Threat",
+        "description": "Looking at the equipment it's armed with, it's clear that you won't be able to deal with this AGI Mecha by yourself. So, you contacted the nearby team for help. Now that help is here, this AGI Mecha will be a piece of cake.",
+        "des_params": ""
+    },
+    "18102": {
+        "id": 18102,
+        "name": "Eliminate the Threat",
+        "description": "Using your equipment to conceal your form, you sneak around the patrolling AGI Mecha so that you can approach it and destroy its Core before it notices you. Scan the site conditions and report them to the terminal.",
+        "des_params": ""
+    },
+    "18103": {
+        "id": 18103,
+        "name": "Eliminate the Threat",
+        "description": "\"The Bane Energy signal is no longer being detected and the threat has been eliminated. Thank you for your efforts toward this large-scale Visbane incident clean-up operation. A support unit has been dispatched, please wait and be ready for the handover.\" You receive a message on your terminal. Before long, you see the familiar figures of the support unit.",
+        "des_params": ""
+    },
+    "18200": {
+        "id": 18200,
+        "name": "Eliminate the Threat",
+        "description": "You re-confirm the coordinates displayed on the terminal\u2014the residual Bane Energy signal should be here. As you cautiously proceed ahead, an unrecovered rampaging AGI Mecha appears before you. As expected, this is your target.",
+        "des_params": ""
+    },
+    "18201": {
+        "id": 18201,
+        "name": "Eliminate the Threat",
+        "description": "Looking at the equipment it's armed with, it's clear that you won't be able to deal with this AGI Mecha by yourself. So, you contacted the nearby team for help. Now that help is here, this AGI Mecha will be a piece of cake.",
+        "des_params": ""
+    },
+    "18202": {
+        "id": 18202,
+        "name": "Eliminate the Threat",
+        "description": "Using your equipment to conceal your form, you sneak around the patrolling AGI Mecha so that you can approach it and destroy its Core before it notices you. Scan the site conditions and report them to the terminal.",
+        "des_params": ""
+    },
+    "18203": {
+        "id": 18203,
+        "name": "Eliminate the Threat",
+        "description": "\"The Bane Energy signal is no longer being detected and the threat has been eliminated. Thank you for your efforts toward this large-scale Visbane incident clean-up operation. A support unit has been dispatched, please wait and be ready for the handover.\" You receive a message on your terminal. Before long, you see the familiar figures of the support unit.",
+        "des_params": ""
+    },
+    "18300": {
+        "id": 18300,
+        "name": "Eliminate the Threat",
+        "description": "You re-confirm the coordinates displayed on the terminal\u2014the residual Bane Energy signal should be here. As you cautiously proceed ahead, an unrecovered rampaging AGI Mecha appears before you. As expected, this is your target.",
+        "des_params": ""
+    },
+    "18301": {
+        "id": 18301,
+        "name": "Eliminate the Threat",
+        "description": "Looking at the equipment it's armed with, it's clear that you won't be able to deal with this AGI Mecha by yourself. So, you contacted the nearby team for help. Now that help is here, this AGI Mecha will be a piece of cake.",
+        "des_params": ""
+    },
+    "18302": {
+        "id": 18302,
+        "name": "Eliminate the Threat",
+        "description": "Using your equipment to conceal your form, you sneak around the patrolling AGI Mecha so that you can approach it and destroy its Core before it notices you. Scan the site conditions and report them to the terminal.",
+        "des_params": ""
+    },
+    "18303": {
+        "id": 18303,
+        "name": "Eliminate the Threat",
+        "description": "\"The Bane Energy signal is no longer being detected and the threat has been eliminated. Thank you for your efforts toward this large-scale Visbane incident clean-up operation. A support unit has been dispatched, please wait and be ready for the handover.\" You receive a message on your terminal. Before long, you see the familiar figures of the support unit.",
+        "des_params": ""
+    },
+    "19100": {
+        "id": 19100,
+        "name": "Data Search",
+        "description": "You re-confirm the coordinates displayed on the terminal\u2014the data should be here. Upload it and keep moving.",
+        "des_params": ""
+    },
+    "19101": {
+        "id": 19101,
+        "name": "Data Search",
+        "description": "\"The files have been received. Thank you for your efforts toward this large-scale Visbane incident clean-up operation. A support unit has been dispatched, please wait and be ready for the handover.\" You receive a message on your terminal. Before long, you see the familiar figures of the support unit.",
+        "des_params": ""
+    },
+    "19200": {
+        "id": 19200,
+        "name": "Data Search",
+        "description": "You re-confirm the coordinates displayed on the terminal\u2014the data should be here. Upload it and keep moving.",
+        "des_params": ""
+    },
+    "19201": {
+        "id": 19201,
+        "name": "Data Search",
+        "description": "\"The files have been received. Thank you for your efforts toward this large-scale Visbane incident clean-up operation. A support unit has been dispatched, please wait and be ready for the handover.\" You receive a message on your terminal. Before long, you see the familiar figures of the support unit.",
+        "des_params": ""
+    },
+    "19901": {
+        "id": 19901,
+        "name": "Operation Completed",
+        "description": "You quickly scan the site conditions and report them to the terminal. You don't make any bonus discoveries, but after carefully examining your supply and equipment losses, you realize that you used less than anticipated\u2014giving you more wiggle room in the event of an emergency. After a short rest, you confidently continue on your way.\n\n<color=#FF9500>Victorious</color>",
+        "des_params": ""
+    },
+    "19902": {
+        "id": 19902,
+        "name": "Equipment Damage",
+        "description": "Enemies pour out in an endless stream, and you're utterly sapped of strength. Left with no other options, you use your equipment to force your way out of the siege and find a place to lay low and wait for your chance to escape. You're in the clear, but now you'll have to face up to a talking-to from the support unit.\n\n<color=#FF9500>Defeated</color>",
+        "des_params": ""
+    },
+    "19903": {
+        "id": 19903,
+        "name": "Emergency Retreat",
+        "description": "The equipment you currently have on you won't be enough to carry you through the rest of the mission. You'll just have to report the intel on this area to the terminal then leave as quickly as you can, trusting that the other team nearby will eliminate the threat soon after receiving the data. In your hurry to retreat, you leave the contents of your bag behind, but with the enemy already closing in, there's no more time to lose.",
+        "des_params": ""
+    },
+    "19999": {
+        "id": 19999,
+        "name": "Unexpected Help",
+        "description": "The AGI Mecha keeps closing in on you, and you have nowhere left to hide. Just when things are looking desperate, you hear a loud crashing sound followed by silence after the AGI Mecha goes flying past you. It's the nearby support unit here to <color=#FF9500>lend you a helping hand</color>! Guessing that this is your first clean-up operation, they look over your injuries and share some supplies with you. Before they leave, they stress the importance of <color=#FF9500>observing your enemy</color> before engaging them and <color=#FF9500>sneaking around and attacking them from behind</color> to minimize losses. Then, they continue on with their own mission.\n\n<color=#FF9500>Defeated, but all teammates gain 100% HP</color>",
+        "des_params": ""
+    },
+    "19904": {
+        "id": 19904,
+        "name": "Operation Completed",
+        "description": "You quickly scan the site conditions and report them to the terminal. You don't make any bonus discoveries, but after carefully examining your supply and equipment losses, you realize that you used less than anticipated\u2014giving you more wiggle room in the event of an emergency. After a short rest, you confidently continue on your way.\n\n<color=#FF9500>Victorious</color>",
+        "des_params": ""
+    },
+    "19905": {
+        "id": 19905,
+        "name": "Equipment Damage",
+        "description": "Enemies pour out in an endless stream, and you're utterly sapped of strength. Left with no other options, you use your equipment to force your way out of the siege and find a place to lay low and wait for your chance to escape. You're in the clear, but now you'll have to face up to a talking-to from the support unit.\n\n<color=#FF9500>Defeated</color>",
+        "des_params": ""
+    },
+    "19906": {
+        "id": 19906,
+        "name": "Emergency Retreat",
+        "description": "The equipment you currently have on you won't be enough to carry you through the rest of the mission. You'll just have to report the intel on this area to the terminal then leave as quickly as you can, trusting that the other team nearby will eliminate the threat soon after receiving the data. In your hurry to retreat, you leave the contents of your bag behind, but with the enemy already closing in, there's no more time to lose.\n\n<color=#FF9500>Lose 1 die</color>",
+        "des_params": ""
+    },
+    "20100": {
+        "id": 20100,
+        "name": "Emergency Supplies",
+        "description": "Cargo crates scattered across the floor, most of them damaged. Only one large and one small remain in tact off to the side.",
+        "des_params": ""
+    },
+    "20101": {
+        "id": 20101,
+        "name": "Emergency Supplies",
+        "description": "Emergency rations neatly packed into a box. They don't taste great, but they will relieve hunger.",
+        "des_params": ""
+    },
+    "20102": {
+        "id": 20102,
+        "name": "Emergency Supplies",
+        "description": "A slightly battered-looking piece of auxiliary equipment resting quietly in a box. You bring it with you anyway, just in case.",
+        "des_params": ""
+    },
+    "20200": {
+        "id": 20200,
+        "name": "Big Mess",
+        "description": "A room in complete disarray. From the uniforms strewn about the corners, you can deduce that this is a Spealght staff changing room.",
+        "des_params": ""
+    },
+    "20201": {
+        "id": 20201,
+        "name": "Big Mess",
+        "description": "Quite a few snacks have been left in the lockers. Nice, you were just needing to stock up on supplies.",
+        "des_params": ""
+    },
+    "20202": {
+        "id": 20202,
+        "name": "Big Mess",
+        "description": "You find an un released AGI Mecha drawing in the storage locker. This surprise discovery makes your heart swell.",
+        "des_params": ""
+    },
+    "20300": {
+        "id": 20300,
+        "name": "Frustrated Worker",
+        "description": "You catch the factory trespasser. He claims to be a Spealght worker who only came back to retrieve a few things he left behind. After confirming that the items in question are unrelated to the recovery mission, you decide to let him go. He offers you a few clues as atonement.",
+        "des_params": ""
+    },
+    "20301": {
+        "id": 20301,
+        "name": "Frustrated Worker",
+        "description": "You follow the clues the worker gave you to a room on the first floor. You look through all the documents there, but you don't find anything of particular interest. A piece of equipment in the opposite catches your eye\u2014you get the feeling it'll come in handy.\n\n<color=#FF9500>Obtain a 6-point die</color>",
+        "des_params": ""
+    },
+    "20302": {
+        "id": 20302,
+        "name": "Frustrated Worker",
+        "description": "You follow the clues the worker gave you to a room on the second floor. Unfortunately, all the data in there was destroyed in the riots. You make an inventory of a few promising hard drives for data recovery, then leave the room.\n\n<color=#FF9500>Obtain 2 1-point dice</color>",
+        "des_params": ""
+    },
+    "20400": {
+        "id": 20400,
+        "name": "\"Happiness\"",
+        "description": "It looks like a break room for Spealght workers. There are quite a few furnishings within for \"increasing workers' happiness.\"",
+        "des_params": ""
+    },
+    "20401": {
+        "id": 20401,
+        "name": "\"Happiness\"",
+        "description": "You get yourself fully prepared in the break room. Staying in good condition is the cornerstone of continued exploration.\n\n<color=#FF9500>All teammates gain 50% HP</color>",
+        "des_params": ""
+    },
+    "20402": {
+        "id": 20402,
+        "name": "\"Happiness\"",
+        "description": "Continue on as quickly as possible without stopping for too many breaks.",
+        "des_params": ""
+    },
+    "20500": {
+        "id": 20500,
+        "name": "A Dream of Splendor",
+        "description": "Despite the AGI Mecha riots, the computers and filing cabinets here remain neatly arranged, as if just waiting for someone to come and break the seal.",
+        "des_params": ""
+    },
+    "20501": {
+        "id": 20501,
+        "name": "A Dream of Splendor",
+        "description": "A phony Halphas diagram is stored on the computer. However, this was all trickery, and that wish for a renaissance ultimately turned out to be a fond dream.\nAfter using the facilities here to charge up your equipment, you continue on your way.\n\n<color=#FF9500>All dice counts increase by 1</color>",
+        "des_params": ""
+    },
+    "20502": {
+        "id": 20502,
+        "name": "A Dream of Splendor",
+        "description": "Eugene Spealght and Novich's backup contracts are stored on this hard drive, but who would expect a villain to keep their word?\nAs pack up the documents, you accidentally bump into something and drop it all on the floor. You hastily tidy it away again then continue on your way.\n\n<color=#FF9500>All dice counts randomly change</color>",
+        "des_params": ""
+    },
+    "20503": {
+        "id": 20503,
+        "name": "A Dream of Splendor",
+        "description": "Perhaps Spealght's past splendor was saved between the lines, but that future was lost to naivety in the end. Wait for the data to copy, then continue on your way.",
+        "des_params": ""
+    },
+    "20600": {
+        "id": 20600,
+        "name": "Chance Encounter",
+        "description": "On your way forward, you run into the support team on their way to the comms station. They see you as well and ask if you require any assistance. Noticing the engineering technician in their group, you think this chance encounter may help you progress your mission.",
+        "des_params": ""
+    },
+    "20601": {
+        "id": 20601,
+        "name": "Chance Encounter",
+        "description": "This support unit's repairman helps you fix up your equipment. As you leave, he urges you to take good care of your equipment and to not let it get so beat-up again.\n\n<color=#FF9500>Restores all skill uses</color>",
+        "des_params": ""
+    },
+    "20602": {
+        "id": 20602,
+        "name": "Chance Encounter",
+        "description": "You give the AGI Mecha components you collected to the support unit for analysis. The engineering technicians thanks you and offers you a reward.",
+        "des_params": ""
+    },
+    "20700": {
+        "id": 20700,
+        "name": "The Unlocked Door",
+        "description": "An unlocked door appears in your view, the light shining through the crack revealing a room piled high with supplies. The stillness in the air sends shivers down your spine.",
+        "des_params": ""
+    },
+    "20701": {
+        "id": 20701,
+        "name": "The Unlocked Door",
+        "description": "There's no point in taking too much, only what you need. Thinking this, you hastily leave this trap-like room.",
+        "des_params": ""
+    },
+    "20702": {
+        "id": 20702,
+        "name": "The Unlocked Door",
+        "description": "When you get a windfall like this, you have to take it, right? You grab as many supplies as you can carry. Hearing the noise, a roaming Visbane raises its weapon at you.",
+        "des_params": ""
+    },
+    "20800": {
+        "id": 20800,
+        "name": "The Perfect Resting Spot",
+        "description": "You enter a room labeled \"Guest Lounge\" and soft, comfortable couches come into view. Good timing\u2014your weary body is screaming for a good rest.",
+        "des_params": ""
+    },
+    "20801": {
+        "id": 20801,
+        "name": "The Perfect Resting Spot",
+        "description": "The soft surface lulls you to sleep, alleviating most of your fatigue. Your mind is telling you to keep going, but your body objects.",
+        "des_params": ""
+    },
+    "20802": {
+        "id": 20802,
+        "name": "The Perfect Resting Spot",
+        "description": "Five minutes, just five more minutes... And with that, you fall asleep once more.",
+        "des_params": ""
+    },
+    "20803": {
+        "id": 20803,
+        "name": "The Perfect Resting Spot",
+        "description": "The warning sound from the Bane Energy scanner rouses you from your slumber. When you open your eyes, you see Visbanes swarming to your location. Take care of peace-disruptors!",
+        "des_params": ""
+    },
+    "20804": {
+        "id": 20804,
+        "name": "The Perfect Resting Spot",
+        "description": "Knowing that the comms station has a safer resting spot, you fight off the urge to sleep. You wouldn't want any danger to catch you off guard.",
+        "des_params": ""
+    },
+    "20900": {
+        "id": 20900,
+        "name": "Control Room",
+        "description": "A peek through the window suggests that this is the Spealght Industries control room. Unfortunately, the equipment is all powered off. Maybe you'll be able to get more information about the surrounding areas if you can get the power back on.",
+        "des_params": ""
+    },
+    "20901": {
+        "id": 20901,
+        "name": "Control Room",
+        "description": "You don't find anything of use, but you do stumble upon some decently-preserved components that you might be able to exchange for a reward from Logistics.",
+        "des_params": ""
+    },
+    "21000": {
+        "id": 21000,
+        "name": "Incremental Race",
+        "description": "A Spealght Entertainment AGI Mecha model that was abandoned mid-production. The instruction manual says, \"Let's see who has the bigger number!\"",
+        "des_params": ""
+    },
+    "21001": {
+        "id": 21001,
+        "name": "Incremental Race",
+        "description": "Your victory this round leaves you with an unforgettable afterglow. Want to try again?",
+        "des_params": ""
+    },
+    "21002": {
+        "id": 21002,
+        "name": "Incremental Race",
+        "description": "The AGI Mecha spits out a die through the window. The die is showing <color=#FF9500>\"2\"</color>, which means you have to throw a <color=#FF9500>2 or greater</color> to win the game.",
+        "des_params": ""
+    },
+    "21003": {
+        "id": 21003,
+        "name": "Incremental Race",
+        "description": "The AGI Mecha spits out a die through the window. The die is showing <color=#FF9500>\"4\"</color>, which means you have to throw a <color=#FF9500>4 or greater</color> to win the game.",
+        "des_params": ""
+    },
+    "21004": {
+        "id": 21004,
+        "name": "Incremental Race",
+        "description": "The AGI Mecha spits out a die through the window. The die is showing <color=#FF9500>\"6,\"</color> which means you have to throw a <color=#FF9500>6</color> to win the game.",
+        "des_params": ""
+    },
+    "21005": {
+        "id": 21005,
+        "name": "Incremental Race",
+        "description": "There's no need to spend too much time on silly things. Better to complete the mission as soon as possible.",
+        "des_params": ""
+    },
+    "21006": {
+        "id": 21006,
+        "name": "Incremental Race",
+        "description": "The AGI Mecha rushes over with an error message. \"Rule... violation... Program... error!\"",
+        "des_params": ""
+    },
+    "21007": {
+        "id": 21007,
+        "name": "Incremental Race",
+        "description": "You hear a message from the AGI Mecha: \"Congratulations! You lucky duck!\" For some reason, it feel really good to hear that!",
+        "des_params": ""
+    },
+    "21100": {
+        "id": 21100,
+        "name": "Yours for Mine",
+        "description": "You run into another team, and they excitedly tell you what they've found so far. They also suggest both teams exchange supplies.",
+        "des_params": ""
+    },
+    "21101": {
+        "id": 21101,
+        "name": "Yours for Mine",
+        "description": "Both teams share what they have on hand, and you exchange equipment components. The other team bids you goodbye and express the hope that they'll see you again.",
+        "des_params": ""
+    },
+    "21102": {
+        "id": 21102,
+        "name": "Yours for Mine",
+        "description": "You obtain some food with the components you don't need. While the food is far from tasty, you won't starve at the very least. The other team bids you goodbye and express the hope that they'll see you again.",
+        "des_params": ""
+    },
+    "21200": {
+        "id": 21200,
+        "name": "Seven Points",
+        "description": "A bestseller from the Spealght Entertainment AGI Mecha product line known as the Party Icebreaker. Get a reward when it throws a <color=#FF9500>7</color> with the dice, and a punishment when its throw is greater than <color=#FF9500>7</color>.",
+        "des_params": ""
+    },
+    "21201": {
+        "id": 21201,
+        "name": "Seven Points",
+        "description": "The rolling dice gradually come to a stop. You quickly add up the numbers in your head: you are now at a total of <color=#FF9500>%s</color> points.",
+        "des_params": [
+            13
+        ]
+    },
+    "21202": {
+        "id": 21202,
+        "name": "Seven Points",
+        "description": "The rolling dice gradually come to a stop. You quickly add up the numbers in your head: you are now at a total of <color=#FF9500>%s</color> points.",
+        "des_params": [
+            13
+        ]
+    },
+    "21203": {
+        "id": 21203,
+        "name": "Seven Points",
+        "description": "The AGI Mecha announces the result of the throw: \"Safe!\" Now, to make a choice again...",
+        "des_params": ""
+    },
+    "21204": {
+        "id": 21204,
+        "name": "Seven Points",
+        "description": "\"Reward!\" The AGI Mecha that declares this promptly presents some food. Although the production date indicates that this prize isn't worth very much, the pleasure of winning gives you the strength to keep on moving nevertheless.\n\n<color=#FF9500>AP +11</color>.",
+        "des_params": ""
+    },
+    "21205": {
+        "id": 21205,
+        "name": "Seven Points",
+        "description": "\"Punishment!\" You jump into your ready stance as soon as you hear the AGI Mecha's pronouncement, and... ice water is spurted out the window. Is this why it's called the Icebreaker???\n\n<color=#FF9500>All die numbers are changed to 1</color>.",
+        "des_params": ""
+    },
+    "21206": {
+        "id": 21206,
+        "name": "Seven Points",
+        "description": "There's no need to follow the rules since you aren't in a party now. And Spealght isn't operating per normal anyway. The components from this thing should go to a place where they'll be more useful.",
+        "des_params": ""
+    },
+    "21300": {
+        "id": 21300,
+        "name": "The Rubble",
+        "description": "You decide to rummage through the rubble caused by the AGI Mecha riot for info, just in case.",
+        "des_params": ""
+    },
+    "21301": {
+        "id": 21301,
+        "name": "The Rubble",
+        "description": "The broken walls and damaged mechas are so intertwined together, you can hardly tell which is which. You decide to just remove a few components from this mess and leave as soon as possible.",
+        "des_params": ""
+    },
+    "21302": {
+        "id": 21302,
+        "name": "The Rubble",
+        "description": "You search the rubble carefully. Just as you think you can search no more, you discover a card game that was rudely interrupted and then abandoned. Regardless of the outcome of the game, the money is now yours.\n\n<color=#FF9500>You obtain 3 dice. However, you also expend AP twice as fast for 10 turns.</color>",
+        "des_params": ""
+    },
+    "21400": {
+        "id": 21400,
+        "name": "Equipment Repair",
+        "description": "There is a room full of manufacturing tools which you can use to repair your damaged equipment.",
+        "des_params": ""
+    },
+    "21500": {
+        "id": 21500,
+        "name": "Firepower Support",
+        "description": "An item from the Spealght product line that never went to market. The description reads, \"Provides navigation and firepower support.\" But why would a support mecha come with firepower...?",
+        "des_params": ""
+    },
+    "21501": {
+        "id": 21501,
+        "name": "Firepower Support",
+        "description": "\"Verification failure! Defense mode activating!\" Upon hearing this ominous warning from the support mecha flying in the air, you decide to take it down. As expected, Spealght mechas can't be trusted!\n\n<color=#FF9500>All members of the team lose 20% HP but gain 10 AP.</color>",
+        "des_params": ""
+    },
+    "21502": {
+        "id": 21502,
+        "name": "Firepower Support",
+        "description": "You decide to dispense with the firepower support. Better to dismantle the mecha for its components and turn them in at the communication station for analysis.",
+        "des_params": ""
+    },
+    "21600": {
+        "id": 21600,
+        "name": "Strange Homeless",
+        "description": "You look down the hallway and see a homeless person holding cup with dice in it walking towards you in a rather odd manner. He's muttering to himself, \"Big or small?\" You want to chase him away as soon as possible, but it seems that he can't be moved.",
+        "des_params": ""
+    },
+    "21601": {
+        "id": 21601,
+        "name": "Strange Homeless",
+        "description": "The tramp starts to shake the cup in the dice in it again. He looks at you with great excitement and asks, \"Big or small???\"",
+        "des_params": ""
+    },
+    "21602": {
+        "id": 21602,
+        "name": "Strange Homeless",
+        "description": "\"One more time! One more time!\" The kooky tramp gives you this die with a look of exhilaration in his eyes.",
+        "des_params": ""
+    },
+    "21603": {
+        "id": 21603,
+        "name": "Strange Homeless",
+        "description": "\"Bad omen! Bad omen!!!!\" The kooky tramp looks at you with a look of terror on his face, then turns and runs away from you. By the time you go after him, he's already long gone.",
+        "des_params": ""
+    },
+    "21604": {
+        "id": 21604,
+        "name": "Strange Homeless",
+        "description": "It seems that the tramp will stop playing anytime soon. However, meanwhile you've contacted another team and have come up with a plan to send him to the communication station for more help when they get here. As you make another successful guess, the kooky tramp yells, \"Save me, save me!\" while giving you everything he has on him. Among these things you find his work badge that tells you he used to be a Spealght employee. Later, you and other team members bring him to the communication station.",
+        "des_params": ""
+    },
+    "21700": {
+        "id": 21700,
+        "name": "Product Display",
+        "description": "The product display room is covered in dust and debris. You aren't sure if you'll find the info you need here, and you balk at the piles of publicity material sitting round.",
+        "des_params": ""
+    },
+    "21701": {
+        "id": 21701,
+        "name": "Product Display",
+        "description": "You spend a lot of time looking at all the publicity material, and the intensive reading gives you a headache. Thankfully, between the lines, you are able to find a few clues that can be exchanged for rewards.\n\n<color=#FF9500>All members of the team lose 20% HP but obtain 2 dice.</color>",
+        "des_params": ""
+    },
+    "21702": {
+        "id": 21702,
+        "name": "Product Display",
+        "description": "There's often very little real value to be found in the bombastic language beloved by marketers, so why not drink some of the good tea that's been prepared for VIP visitors first?\n\n<color=#FF9500>All members of the team recover 50% HP.</color>",
+        "des_params": ""
+    },
+    "21800": {
+        "id": 21800,
+        "name": "The Graveyard",
+        "description": "This is a \"graveyard\" of AGI Mechas dumped here by Spealght for recycling and disposal. You make a quick round to collect some components, and come across two items that may be useful during your mission.",
+        "des_params": ""
+    },
+    "21801": {
+        "id": 21801,
+        "name": "The Graveyard",
+        "description": "You insert the battery into the lighting tool. Now you'll be able to see further.",
+        "des_params": ""
+    },
+    "21802": {
+        "id": 21802,
+        "name": "The Graveyard",
+        "description": "The bum bag looks like it's still in pretty good shape, and you put it on you. Now you have more space for items.",
+        "des_params": ""
+    },
+    "21900": {
+        "id": 21900,
+        "name": "Expectations",
+        "description": "You find a safe inside the cabinet in the room, but the safe has been opened. If there was any valuable information in it before, it's no longer there.",
+        "des_params": ""
+    },
+    "21901": {
+        "id": 21901,
+        "name": "Expectations",
+        "description": "There aren't many things left inside, but they sure will come in handy.\n\n<color=#FF9500>You obtain 1 die. If you don't have another one on you already, you get 1 more.</color>",
+        "des_params": ""
+    },
+    "22000": {
+        "id": 22000,
+        "name": "A Fridge?",
+        "description": "You find a red refrigerator that sticks out like a sore thumb in its environment. But it looks like the power has been disconnected for quite some time.",
+        "des_params": ""
+    },
+    "22001": {
+        "id": 22001,
+        "name": "A Fridge?",
+        "description": "You open up the fridge compartment and see a hard drive that's thoroughly wrapped up. Looks like it contains file data regarding job applicants for security positions. Is this a copy made by another team by any chance?",
+        "des_params": ""
+    },
+    "22002": {
+        "id": 22002,
+        "name": "A Fridge?",
+        "description": "\"I've been waiting for you for a long time, Master... Open me and you'll find good stuff inside...\" You're confused for a moment when the electronic panel pops up the moment you connect it to the power supply. You examine the panel and find a small switch. You press the switch and a compartment inside the panel opens up to you. There's some food hidden inside this compartment. But... who was the one who set that welcome message?",
+        "des_params": ""
+    },
+    "22003": {
+        "id": 22003,
+        "name": "A Fridge?",
+        "description": "You open the fridge and your eyes are drawn to the energy drinks. And they're cola-flavored, yippee!",
+        "des_params": ""
+    },
+    "22100": {
+        "id": 22100,
+        "name": "Reward Time!",
+        "description": "You find a gaming device in the product testing room, which has hung at the \"You Win\" screen. Looks like you may be able to select a reward from it, though.",
+        "des_params": ""
+    },
+    "22101": {
+        "id": 22101,
+        "name": "Reward Time!",
+        "description": "\"Congratulations on your achievement!\" Just as you think things are over, the locker door next to you suddenly opens, and in the locker you find items left behind by an employee, including some AGI Mecha design drawings.",
+        "des_params": ""
+    },
+    "22102": {
+        "id": 22102,
+        "name": "Reward Time!",
+        "description": "\"Congratulations, you have cleared the stage!\" A short electronic jingle later, the gaming device activates the beverage vending machine next to you.",
+        "des_params": ""
+    },
+    "22103": {
+        "id": 22103,
+        "name": "Reward Time!",
+        "description": "It's difficult for you to focus on your surroundings with all the tinkling music coming from the gaming device. You quickly turn off the device and keep on moving.",
+        "des_params": ""
+    },
+    "22200": {
+        "id": 22200,
+        "name": "Getting What You Need",
+        "description": "The assembly line for the manufacture of functional mechas is stuck in its final moment of production. You wonder if you would find what you need here.",
+        "des_params": ""
+    },
+    "22201": {
+        "id": 22201,
+        "name": "Getting What You Need",
+        "description": "You need some auxiliary parts which can often be found at the front end of the assembly line. You carefully pick them up and install them on your equipment.",
+        "des_params": ""
+    },
+    "22202": {
+        "id": 22202,
+        "name": "Getting What You Need",
+        "description": "In the middle of the assembly line there are often semi-assembled AGI Mechas. You take them apart. Some of the components here are exactly what you need.",
+        "des_params": ""
+    },
+    "22203": {
+        "id": 22203,
+        "name": "Getting What You Need",
+        "description": "Despite the distance, you go to the end of the assembly line without hesitation, and as you expected, the finished products here just contain what you need.",
+        "des_params": ""
+    },
+    "22300": {
+        "id": 22300,
+        "name": "A Problem of Numbers",
+        "description": "A product by Spealght Education, designed specifically for children of preschool age. It seems that there are still unsolved number-sequence problems on the panel.",
+        "des_params": ""
+    },
+    "22301": {
+        "id": 22301,
+        "name": "A Problem of Numbers",
+        "description": "You've found the pattern of the number sequence, which makes you a little proud. While this level of difficulty may be too low for preschoolers, it's just right for you.",
+        "des_params": ""
+    },
+    "22302": {
+        "id": 22302,
+        "name": "A Problem of Numbers",
+        "description": "Aren't these questions a little too tough for preschool kids? This is the question that occupies you as you leave the place.",
+        "des_params": ""
+    },
+    "22400": {
+        "id": 22400,
+        "name": "Self-Service Workshop",
+        "description": "You've come to the nearest communication station after learning that your equipment is in urgent need of repair. However, there are many other teams also waiting on repairs here. The busy repairman sees that your equipment isn't seriously damaged and so gives you a diagram of the insides of the equipment. Hopefully you can use the tools available here and the diagram to perform the fix yourself.",
+        "des_params": ""
+    },
+    "22401": {
+        "id": 22401,
+        "name": "Self-Service Workshop",
+        "description": "You use the facilities here to repair your equipment. You look up and to see that the other teams are still standing around. You thank the repairman and leave quickly.",
+        "des_params": ""
+    },
+    "22402": {
+        "id": 22402,
+        "name": "Self-Service Workshop",
+        "description": "The diagram is full of jargon, and it'll take you quite a bit of time to just decipher the drawing. Fortunately, you catch sight of a piece of equipment of the same type on the workbench, and you then swop yours with this with permission from the repairman. You look up and to see that the other teams are still standing around. You thank the repairman and leave quickly.",
+        "des_params": ""
+    },
+    "22500": {
+        "id": 22500,
+        "name": "The Infinite Hallway",
+        "description": "You walk down a hallway in the factory, then another one, then another one... But it's the exact same hallway all over again. You suspect that you've been walking in circles. You have to find a way out of here.",
+        "des_params": ""
+    },
+    "22501": {
+        "id": 22501,
+        "name": "The Infinite Hallway",
+        "description": "As you keep on moving forward, you leave marks on the wall. Your intuition is telling you that you'll definitely see that very first mark before long, and by then, you'll be able to conclude that this area has an effect on one's sense of direction. A conclusion like this will also make analyzing this area much easier for the engineering technicians.\n\n<color=#FF9500>AP +30, but you return to this very spot after 30 turns.</color>",
+        "des_params": ""
+    },
+    "22502": {
+        "id": 22502,
+        "name": "The Infinite Hallway",
+        "description": "You no longer trust your own sense of direction, and pull up the map on your terminal. You follow the route indicated and soon exit the area. Then, you upload the intel about the area. Soon, there will be engineering technicians here to study the situation. It's time for you to return to your mission.",
+        "des_params": ""
+    },
+    "22503": {
+        "id": 22503,
+        "name": "The Infinite Hallway",
+        "description": "You walk and walk for who knows how long before you finally see the very first mark again. Then, you recall that while this place is full of countless identical hallways, there is a testing room in the center. You quickly walk into this room and find a overloaded AGI Mecha, and you shut it down and get in touch with a nearby support site right after. The engineers there conclude that it was this mecha that had disrupted the surrounding magnetic field and caused the navigational issues. You thank them and return to your mission.",
+        "des_params": ""
+    },
+    "22510": {
+        "id": 22510,
+        "name": "The Infinite Hallway",
+        "description": "You walk down a hallway in the factory, then another one, then another one... But it's the exact same hallway all over again. You suspect that you've been walking in circles. You have to find a way out of here.",
+        "des_params": ""
+    },
+    "22511": {
+        "id": 22511,
+        "name": "The Infinite Hallway",
+        "description": "As you keep on moving forward, you leave marks on the wall. Your intuition is telling you that you'll definitely see that very first mark before long, and by then, you'll be able to conclude that this area has an effect on one's sense of direction. A conclusion like this will also make analyzing this area much easier for the engineering technicians.\n\n<color=#FF9500>AP +30, but you return to this very spot after 30 turns.</color>",
+        "des_params": ""
+    },
+    "22512": {
+        "id": 22512,
+        "name": "The Infinite Hallway",
+        "description": "You no longer trust your own sense of direction, and pull up the map on your terminal. You follow the route indicated and soon exit the area. Then, you upload the intel about the area. Soon, there will be engineering technicians here to study the situation. It's time for you to return to your mission.",
+        "des_params": ""
+    },
+    "22513": {
+        "id": 22513,
+        "name": "The Infinite Hallway",
+        "description": "You walk and walk for who knows how long before you finally see the very first mark again. Then, you recall that while this place is full of countless identical hallways, there is a testing room in the center. You quickly walk into this room and find a overloaded AGI Mecha, and you shut it down and get in touch with a nearby support site right after. The engineers there conclude that it was this mecha that had disrupted the surrounding magnetic field and caused the navigational issues. You thank them and return to your mission.",
+        "des_params": ""
+    },
+    "22600": {
+        "id": 22600,
+        "name": "The Hole",
+        "description": "There is a large hole in the hallway floor ahead of you, probably caused by falling rocks. You make a visual estimation of the diameter of the hole, and it looks like you can just jump over it.",
+        "des_params": ""
+    },
+    "22601": {
+        "id": 22601,
+        "name": "The Hole",
+        "description": "You leap with all your effort, and pray that you can reach the other side safely. You succeed, but unfortunately you also land awkwardly, like a wild goose falling on a sandbar, and the items in your backpack spill all over the floor. You then silently pick up the items after confirming that no one else is around.\n\n<color=#FF9500>All die numbers are randomly changed.</color>",
+        "des_params": ""
+    },
+    "22602": {
+        "id": 22602,
+        "name": "The Hole",
+        "description": "There's no need to do anything too risky since there are other ways around the hole. Then, out of the blue, you find an AGI Mecha drawing someone has dropped along this roundabout way. Who was the owner, though?",
+        "des_params": ""
+    },
+    "22700": {
+        "id": 22700,
+        "name": "A Gift for Another",
+        "description": "You open the door, and you see another team in the room. They tell you about the dangers of the area and their heroic deeds, and have invited you to sit down and hear more.",
+        "des_params": ""
+    },
+    "22701": {
+        "id": 22701,
+        "name": "A Gift for Another",
+        "description": "\"This is a real dangerous area. However, we'll get through this with our teamwork!\"\nFrom the way they speak, you can tell they're from Xu Heng, and so you chat with them about the things you've seen there. They're really pleased, and give you some equipment as they leave. \"No need to thank us, this is stuff we already have anyway and which you need. Just... don't hang on to it for too long.\" They wave to you to say goodbye.\n\n<color=#FF9500>You obtain 3 dice, but you lose 3 after 30 turns.</color>",
+        "des_params": ""
+    },
+    "22702": {
+        "id": 22702,
+        "name": "A Gift for Another",
+        "description": "\"This is a real dangerous area. There's a hole in the ground every ten paces, and Visbanes in every five. Careful exploration is the only way to ensure your own safety here.\"\n\"Although we know this area, our equipment's broken. But we don't want to go back and forth with Logistics either. If you can help us, we'll make sure that we repay you!\"\nYou finally understand what they want when you hear this, and take the equipment they need from your backpack. While you don't really have a need for these, you're hoping that you'll also get something in return.\n\n<color=#FF9500>You obtain 3 dice after 30 turns.</color>",
+        "des_params": ""
+    },
+    "22703": {
+        "id": 22703,
+        "name": "A Gift for Another",
+        "description": "You have no intention of hanging out here for too long as you still have a mission to complete. You say goodbye to the two of them, and they hand you a piece of equipment. \"Good luck,\" they say, \"and remember to come back to us if you need anything!\" They wave goodbye to you.",
+        "des_params": ""
+    },
+    "22800": {
+        "id": 22800,
+        "name": "Differences So Minuscule",
+        "description": "You walk into a dark room, and as soon as you turn on the lights, you see a huge number of AGI Mecha design drawings in front of you. In particular, the drawings pinned up on the wall feel very familiar for some reason.",
+        "des_params": ""
+    },
+    "22801": {
+        "id": 22801,
+        "name": "Differences So Minuscule",
+        "description": "You unpin the drawings and compare them to the ones in your backpack. Astonishingly, the drawings you collected before are discarded drafts while the ones here are the more detailed versions. You immediately send your coordinates, and soon after help arrives at the room.\n\n<color=#FF9500>You get two 6-point dice.</color>",
+        "des_params": ""
+    },
+    "22802": {
+        "id": 22802,
+        "name": "Differences So Minuscule",
+        "description": "There are too many technical drawings here, you won't be able to analyze them by yourself. It's time to call in the professionals. You immediately send your coordinates, and the help that arrives praise you profusely for your discovery. They also promise to send word to Logistics to get more supplies ready for you at the next station.",
+        "des_params": ""
+    },
+    "22900": {
+        "id": 22900,
+        "name": "Prototype Test",
+        "description": "At the better-manned communication stations, the equipment repairmen would often try to identify the causes of equipment damage and then try to make some new auxiliary parts to mitigate such issues. While you are resting at one such site, you encounter a repairman who's giving out a new auxiliary part to teams for testing. He tells you again and again, however, not to use it as-is.",
+        "des_params": ""
+    },
+    "22901": {
+        "id": 22901,
+        "name": "Prototype Test",
+        "description": "Equipping the part to your arm has given you greater arm strength. With this extra strength, you can now easily open the doors you couldn't before. This may be a tiny change, but you now feel more confident about the mission than ever.",
+        "des_params": ""
+    },
+    "22902": {
+        "id": 22902,
+        "name": "Prototype Test",
+        "description": "Equipping the part to your leg has enhanced your ability to jump. With this enhancement, you can now jump over obstacles more easily than before. This may be a tiny change, but you now feel more confident about the mission than ever.",
+        "des_params": ""
+    },
+    "22903": {
+        "id": 22903,
+        "name": "Prototype Test",
+        "description": "You see that the auxiliary part looks like a small rocket. Why not just use it as is? You press the switch, and the part immediately shoots out of your hand. It hits a wall, causing it to fall into pieces. Better get out of here before the repairman comes back.\n\n<color=#FF9500>All members of the team lose 20% HP but gain 10 AP.</color>",
+        "des_params": ""
+    },
+    "23000": {
+        "id": 23000,
+        "name": "Brambles",
+        "description": "The AGI Mecha riot earlier has caused the path in front of you to fall to rubble. There's a lot of AGI Mecha scraps and sharp pieces of building rubble in here, so you have to be careful when passing through here.",
+        "des_params": ""
+    },
+    "23001": {
+        "id": 23001,
+        "name": "Brambles",
+        "description": "You put on your tactical goggles and try to pass through the area with great care. However, you still get some cuts on your legs from the debris you don't see. However, compared with simply rambling over the rubble, you've already saved yourself a lot of unnecessary grief.\n\n<color=#FF9500>All members of the team lose 20% HP but gain 20 AP.</color>",
+        "des_params": ""
+    },
+    "23002": {
+        "id": 23002,
+        "name": "Brambles",
+        "description": "You forge a pathway that can accommodate one person at a time in order to pass through this patch of rubble safely. Soon after, you receive a message: it turns out a team that arrived after you has also used this path to pass through safely and wants to thank you.",
+        "des_params": ""
+    },
+    "23003": {
+        "id": 23003,
+        "name": "Brambles",
+        "description": "There isn't anything to worry about with this rubble. You climb directly to the highest part of the rubble and then over this \"hill.\" You get a few scratches, sure, but they won't affect the progress of your mission at all.\n\n<color=#FF9500>All members of the team lose 20% HP but gain 10 AP.</color>",
+        "des_params": ""
+    },
+    "23100": {
+        "id": 23100,
+        "name": "Era of Gray Gold",
+        "description": "The first thing you see when you get to the Spealght museum is a statue of Morgan Spealght. The text on a screen to the side states that Spealght Industries had its beginnings in the tranzist ore trade. Perhaps this is why the tranzist ore and the AGI Mecha models are together here on display.",
+        "des_params": ""
+    },
+    "23101": {
+        "id": 23101,
+        "name": "Era of Gray Gold",
+        "description": "You're holding the rock that built Spealght Industries in your hands. Although the equipment is damaged by electrical current from the tranzist ore, for some reason, you seem to feel power from it.",
+        "des_params": ""
+    },
+    "23102": {
+        "id": 23102,
+        "name": "Era of Gray Gold",
+        "description": "The tranzist ore emits a slight electric current, and direct handling may cause injury. However, its transparent appearance does give it some aesthetic appeal, and looking at beautiful things while at work always makes you happy.",
+        "des_params": ""
+    },
+    "23200": {
+        "id": 23200,
+        "name": "A Little Leisure",
+        "description": "After scanning in all the information in the lab, you spot a riddle mecha sitting in the corner. It's going to be quite a while before the data is fully uploaded anyway, so you turn on the mecha to start a game. The text \"It is the largest in a limited set\" appears on the screen.",
+        "des_params": ""
+    },
+    "23201": {
+        "id": 23201,
+        "name": "A Little Leisure",
+        "description": "\"Correct!\" The AGI Mecha throws up some confetti in celebration. And it looks like the data has just finished uploading, too!\n\n<color=#FF9500>AP +20.</color>",
+        "des_params": ""
+    },
+    "23202": {
+        "id": 23202,
+        "name": "A Little Leisure",
+        "description": "\"Sorry!\" Although you did not get the answer right, at least the data has finished uploading, and you can continue with your mission now.\n\n<color=#FF9500>AP +5.</color>",
+        "des_params": ""
+    },
+    "23203": {
+        "id": 23203,
+        "name": "A Little Leisure",
+        "description": "You aren't sure if your answer is correct. As you hesitate, your time runs out. This triggers some kind of bug in the AGI Mecha, and it starts to move around randomly and knock into things.",
+        "des_params": ""
+    },
+    "23300": {
+        "id": 23300,
+        "name": "Recreation...?",
+        "description": "After scanning in all the materials in the file room, you spot a riddle mecha sitting in the corner. It's going to be quite a while before the data is fully uploaded anyway, so you turn on the mecha to start a game. The text \"The sum of these two numbers equals ten\" appears on the screen.",
+        "des_params": ""
+    },
+    "23301": {
+        "id": 23301,
+        "name": "Recreation...?",
+        "description": "Maybe because it's been a long time since the AGI Mecha was last used, but it's now stuck at the loading screen after you enter your answer. As smart as you are, you have no idea if your answer is correct, and all you can do is to wait anxiously for the result.",
+        "des_params": ""
+    },
+    "23302": {
+        "id": 23302,
+        "name": "Recreation...?",
+        "description": "Maybe because it's been a long time since the AGI Mecha was last used, but it's now stuck at the loading screen after you enter your answer. As smart as you are, you have no idea if your answer is correct, and all you can do is to wait anxiously for the result.",
+        "des_params": ""
+    },
+    "23303": {
+        "id": 23303,
+        "name": "Recreation...?",
+        "description": "\"Correct!\" The AGI Mecha throws up some confetti in celebration. And it looks like the data has just finished uploading, too!\n\n<color=#FF9500>AP +35 Movement.</color>",
+        "des_params": ""
+    },
+    "23304": {
+        "id": 23304,
+        "name": "Recreation...?",
+        "description": "\"Sorry!\" Although you did not get the answer right, at least the data has finished uploading, and you can continue with your mission now.\n\n<color=#FF9500>AP +10.</color>",
+        "des_params": ""
+    },
+    "23305": {
+        "id": 23305,
+        "name": "Recreation...?",
+        "description": "You aren't sure if your answer is correct. As you hesitate, your time runs out. This triggers some kind of bug in the AGI Mecha, and it starts to move around randomly and knock into things.",
+        "des_params": ""
+    },
+    "23400": {
+        "id": 23400,
+        "name": "The Klein Protocol",
+        "description": "You've come to the Spealght museum, where there's a statue of Miller Spealght. On one side is a screen displaying content on the so-called Klein Protocol, a key mecha tech that propelled mecha development into a new era. AGI Mecha drawings drawn by Miller himself are also displayed at the booth that is connected to the screen.",
+        "des_params": ""
+    },
+    "23401": {
+        "id": 23401,
+        "name": "The Klein Protocol",
+        "description": "He is the glorious founder of Spealght Industries and a pioneer in mecha development. As you pay tribute to him, you receive a psychological shot in the arm.",
+        "des_params": ""
+    },
+    "23402": {
+        "id": 23402,
+        "name": "The Klein Protocol",
+        "description": "You look at the display carefully and respectfully, and a design drawing catches your attention. Although it's a drawing of an obsolete product, it's still a valuable reference as eventually many smart machines were developed based on this design. You take this drawing and put it in your backpack.",
+        "des_params": ""
+    },
+    "23500": {
+        "id": 23500,
+        "name": "Specialty of Neuhansa",
+        "description": "While searching the factory warehouse, you come across a well-taped cardboard box with the words \"PENDING PROCESSING, DO NOT OPEN\" written on it. You become curious, and open the box to find that it's filled with a fruit liquor brewed in Neuhansa and is a favorite among the working class. Based on the text on the box, you surmise that an employee may have been secretly drinking on the clock. But it doesn't matter: this employee will never have to worry about being discovered as you're about to take care of their problem for them.",
+        "des_params": ""
+    },
+    "23501": {
+        "id": 23501,
+        "name": "Specialty of Neuhansa",
+        "description": "This drink is said to be good for one's blood circulation. A glass of it will make you feel more energetic at work. You open the bottle and taste it carefully\u2014it starts off a little spicy, though the aftertaste is rather sweet. You can feel the energy coursing through your veins. Should you have some more...?",
+        "des_params": ""
+    },
+    "23502": {
+        "id": 23502,
+        "name": "Specialty of Neuhansa",
+        "description": "Although you wouldn't mind more of this drink, you can't afford to indulge while on mission. So, you close the warehouse door and continue on your way.",
+        "des_params": ""
+    },
+    "23600": {
+        "id": 23600,
+        "name": "Super Lotto Machine C7000",
+        "description": "Many AGI Mechas were sent to the scrap heap following the AGI Mecha riot, and here, you finally find the Super Lotto Machine C7000, a favorite plaything of yours back in the day. It looks all new shiny still, too. Should you play?",
+        "des_params": ""
+    },
+    "23601": {
+        "id": 23601,
+        "name": "Super Lotto Machine C7000",
+        "description": "You can always experience the fun of winning with the Super Lotto Machine C7000. The game coins keep turning in the machine, but the prize is spit out through the prize slot. You know very well that this is a timeout prize!\nYou feel like playing again and look at the game coin slot. Do this again?",
+        "des_params": ""
+    },
+    "23602": {
+        "id": 23602,
+        "name": "Super Lotto Machine C7000",
+        "description": "Perhaps it's been too long since you last saw this machine, and you forget to use the proprietary game coin to start gameplay. But the Super Lotto Machine C7000 is so perfect that it even anticipates this unexpected situation and returns your coins to you. But something feels a little short.",
+        "des_params": ""
+    },
+    "23603": {
+        "id": 23603,
+        "name": "Super Lotto Machine C7000",
+        "description": "You really want to play some more, but this is where it ends. You start to open up the Super Lotto Machine C7000 with the intent to memorize its innards to make a copy of it later. Unfortunately, Spealght's designers clearly weren't enamored with this idea, and as you open up the machine a mini explosion happens. Now you're left with just these game coins for future trips down memory lane.\n\n<color=#FF9500>All members of the team lose 10% HP but obtain 1 die.</color>",
+        "des_params": ""
+    },
+    "23700": {
+        "id": 23700,
+        "name": "Rampaging Neighbor",
+        "description": "You are waiting to stock up on supplies at the communication station when suddenly there's a commotion at the equipment repair station nearby. You take a closer look to see the repairmen chasing a few runaway AGI Mechas. The person next to you tells you that they've been examining some newly received mechas and must have set off the mechas off by pressing one switch or another by accident.",
+        "des_params": ""
+    },
+    "23701": {
+        "id": 23701,
+        "name": "Rampaging Neighbor",
+        "description": "You decide to step up to help shut down these AGI Mechas. However, since these mechas are also an important source of materials, you must stop them without damaging their insides as much as possible.",
+        "des_params": ""
+    },
+    "23702": {
+        "id": 23702,
+        "name": "Rampaging Neighbor",
+        "description": "Given these AGI Mechas are an important source of parts, it may not be the most prudent thing to step up and help as doing so may damage their insides. You decide to observe the situation from a spot nearby and to only intervene if the repairmen are at risk of injury from the runaway mechas. Fortunately, they soon catch up with the mechas and manage to turn them off, and order is restored to the station.",
+        "des_params": ""
+    },
+    "23703": {
+        "id": 23703,
+        "name": "Rampaging Neighbor",
+        "description": "You manage to stop the AGI Mechas. A check by the repairmen confirms that very little damage was done to their insides. As an expression of thanks, they decide to fix all of your equipment. And this time round, not only are they not grumbly, they're also full of praise for you.\n\n<color=#FF9500>All skill uses restored.</color>",
+        "des_params": ""
+    },
+    "23704": {
+        "id": 23704,
+        "name": "Rampaging Neighbor",
+        "description": "Pulling this off is almost impossible as there is no way you can guarantee that you won't do any damage to the insides of the AGI Mechas. So, you quickly decide to step aside. Fortunately, the repairmen soon catch up with the mechas and manage to turn them off, and order is restored to the station.",
+        "des_params": ""
+    },
+    "23800": {
+        "id": 23800,
+        "name": "Admin Password",
+        "description": "Inside the file room, you can see the faint marks of employee names written on the hard drive locked inside the file cabinet. You think the drive contains personnel files which may yield some clues to the Children of Iron. So, you turn on the computer in the room, and the screen comes to life with the message, \"Access locked due to facial recognition failure. Computer will be reformatted in 5 minutes...\" You look for a way to unlock the computer, and finally you manage to bring up a window prompting for the admin password.",
+        "des_params": ""
+    },
+    "23801": {
+        "id": 23801,
+        "name": "Admin Password",
+        "description": "Seeing this, you immediately fish out your plug-in cracking tool from your backpack and connect it to the computer. The tool quickly starts running, and you anxiously wait to see if the cracking attempt works.",
+        "des_params": ""
+    },
+    "23802": {
+        "id": 23802,
+        "name": "Admin Password",
+        "description": "Forget about the data inside the computer. The hard drive in the file cabinet is equally important. You take out the cracking tool, open the file cabinet and take out the hard drive inside, then leave the room.",
+        "des_params": ""
+    },
+    "23803": {
+        "id": 23803,
+        "name": "Admin Password",
+        "description": "You search the room for other solutions, but the clock is still ticking. By the time the door opens again, a security mecha is already next to you.",
+        "des_params": ""
+    },
+    "23804": {
+        "id": 23804,
+        "name": "Admin Password",
+        "description": "There's no way you'll be able to fight the AGI Mecha in this situation. You observe the room carefully and see a locker which is just big enough for one person to hide in. You have no other option but to enter this small space. Fortunately, the security mecha doesn't notice your presence, although your backpack gets caught on the locker by accident and now requires repair. You'll have to get to a communication station to get that done as soon as possible.",
+        "des_params": ""
+    },
+    "23805": {
+        "id": 23805,
+        "name": "Admin Password",
+        "description": "The numbers in the time remaining window are still moving, as are the numbers on the cracking device. Your chest is also rising and falling with every breath.",
+        "des_params": ""
+    },
+    "23806": {
+        "id": 23806,
+        "name": "Admin Password",
+        "description": "Half the time has passed, but the cracking tool still isn't done yet. You take out another cracking tool from your backpack and start reverse cracking, praying that it can speed up the cracking process.",
+        "des_params": ""
+    },
+    "23807": {
+        "id": 23807,
+        "name": "Admin Password",
+        "description": "The time remaining is very close to zero. The alarms in the room are still blaring, and the door is still closed. Your heart is beating almost violently.",
+        "des_params": ""
+    },
+    "23808": {
+        "id": 23808,
+        "name": "Admin Password",
+        "description": "Time is running out, but the cracking tool still isn't done yet. In desperation, you connect the cracking tool to the terminal, which significantly increases its working speed. Although technically this is against the rules, you've succeeded in keeping a large chunk of the data at least.",
+        "des_params": ""
+    },
+    "23900": {
+        "id": 23900,
+        "name": "Employee Lounge Bar",
+        "description": "A lounge bar set up by the factory for its employees to rest and relax. There are still a number of unopened drinks in the drinks chiller next to the counter, but the chiller can only be opened by someone with an employee card. But fortunately, you've found a card belonging to an unknown employee on the countertop.",
+        "des_params": ""
+    },
+    "23901": {
+        "id": 23901,
+        "name": "Employee Lounge Bar",
+        "description": "You use the employee card you found to open the drinks chiller. A soft drink after a long day of work really lifts one's spirits. If you choose to take this employee card with you before leaving, you may have a chance to use it again later.",
+        "des_params": ""
+    },
+    "23902": {
+        "id": 23902,
+        "name": "Employee Lounge Bar",
+        "description": "You try to use the employee card, and the drinks chiller spits out a bottled drink before becoming inaccessible again. But you're so tired from the mission that you punch a hole in the door of the drinks chiller. It may not be the most elegant way of getting things done, but at least now you'll be adequately hydrated.",
+        "des_params": ""
+    },
+    "23903": {
+        "id": 23903,
+        "name": "Employee Lounge Bar",
+        "description": "It feels like this employee card has fallen into your lap out of nowhere, and you start to wonder if this is all a trap. You take a closer look at your surroundings as well as search the bar counter to minimize any possible risks. After searching for a while, you are convinced that this isn't a trap after all. The employee card in your hands must have been dropped here by some careless individual.",
+        "des_params": ""
+    },
+    "24000": {
+        "id": 24000,
+        "name": "The Tired Repairman",
+        "description": "To better cope with the complex and ever-changing actual conditions of the factory, you decide to make some targeted adjustments to the equipment. Thus, you look for the repairman closest to your current coordinates, but you find that this repairman looks very tired, as if he's just experienced a great battle.",
+        "des_params": ""
+    },
+    "24001": {
+        "id": 24001,
+        "name": "The Tired Repairman",
+        "description": "You tell the repairman that you wish to add new features to the equipment. The repairman nods after a pause, takes over the equipment, and begins to work on it. Looking at the repairman's tired mien, you start to worry about whether your needs have been clearly conveyed to the repairman.\nAfter a while, the repairman tells you that the changes have been made. You take a closer look and find that the same auxiliary component has been installed on all the equipment. He seems to have misunderstood your request...",
+        "des_params": ""
+    },
+    "24002": {
+        "id": 24002,
+        "name": "The Tired Repairman",
+        "description": "You tell the mechanic that you want all the equipment to be restored to standard equipment status. The repairman nods after a pause, takes over the equipment, and begins to work on it. Looking at the repairman's tired mien, you start to worry about whether your needs have been clearly conveyed to the repairman.\nAfter a while, the repairman tells you that the changes have been made. You take a closer look and find that all the equipment have been adjusted to the same parameters. He seems to have misunderstood your request...",
+        "des_params": ""
+    },
+    "24003": {
+        "id": 24003,
+        "name": "The Tired Repairman",
+        "description": "Seeing how tired the repairman is, you come to the conclusion that the both of you would be better off if you were to seek the help of another repairman instead. So, after a short rest, you decide to continue on your way.",
+        "des_params": ""
+    },
+    "24100": {
+        "id": 24100,
+        "name": "Inventory Management",
+        "description": "You come to a warehouse area inside the factory, and try to obtain useful information from the AGI Mecha managing the warehouse. You have just opened up the mecha when you hear an electronic voice saying, \"Identity verification required: please enter the outbound volume of the subordinate warehouse in the previous quarter.\"",
+        "des_params": ""
+    },
+    "24101": {
+        "id": 24101,
+        "name": "Inventory Management",
+        "description": "You enter <color=#FF9500>\"%s,\"</color> to which the electronic voice responds, \"Wrong answer. Value entered is <color=#FF9500>less than</color> the correct quantity. One entry attempt used.\"\nYou start sweating in your palms when you hear this.",
+        "des_params": [
+            13
+        ]
+    },
+    "24102": {
+        "id": 24102,
+        "name": "Inventory Management",
+        "description": "You enter <color=#FF9500>\"%s,\"</color> to which the electronic voice responds, \"Wrong answer. Value entered is <color=#FF9500>more than</color> the correct quantity. One entry attempt used.\"\nBeads of sweat form on your forehead when you hear this.",
+        "des_params": [
+            13
+        ]
+    },
+    "24103": {
+        "id": 24103,
+        "name": "Inventory Management",
+        "description": "On the panel, you enter <color=#FF9500>\"%s,\"</color> to which the electronic voice responds, \"Correct. Identity verified.\"\nSo the password is <color=#FF9500>%s</color>. You record this piece of information on your terminal, since it may come in handy in the future. Given how the AGI Mecha was giving you hints about the correct answer, you suspect that the employee in charge of managing the warehouse probably struggles with remembering the correct answer, too. Whatever it is, now that you've passed the identity challenge, you can start downloading from the database.\n\n<color=#FF9500>+20 Movement Points</color>",
+        "des_params": [
+            13,
+            13
+        ]
+    },
+    "24200": {
+        "id": 24200,
+        "name": "Emergency Light",
+        "description": "You come to a hallway where the power supply for the emergency light seems to be damaged. The power supply will have to be reinstalled before it can be used.\nSo you carefully check for the model of this light, and then you recall that the remaining power in the power supply affects how brightly this model is lit.",
+        "des_params": ""
+    },
+    "24201": {
+        "id": 24201,
+        "name": "Emergency Light",
+        "description": "You take the backup power supply in your backpack and install it. The emergency light comes back on, and the way ahead becomes clearer.",
+        "des_params": ""
+    },
+    "24202": {
+        "id": 24202,
+        "name": "Emergency Light",
+        "description": "A look at your terminal tells you that this hallway isn't very long, so you plan to move forward in the dark. As you move forward, it feels like you just kicked something with your foot. You pick it up and take a closer look. It turns out to be an intact AGI Mecha core.",
+        "des_params": ""
+    },
+    "24300": {
+        "id": 24300,
+        "name": "Request for Help",
+        "description": "You've just taken a break in the factory's lounge and are getting ready to move on when you hear a sudden notification from your terminal: another team has just left a message on the message board asking for help. Judging from the title, they seem to need some help in cracking encrypted content.",
+        "des_params": ""
+    },
+    "24301": {
+        "id": 24301,
+        "name": "Request for Help",
+        "description": "Subject: Help needed! Terminal coordinates and ciphertext code attached\nMessage: \"We've discovered an important intel terminal, but our decryption tool was damaged in a previous battle. Teams in the vicinity are requested to take over the decryption task at this location. Alternatively, let us know the crack and we will transmit the data.\"",
+        "des_params": ""
+    },
+    "24302": {
+        "id": 24302,
+        "name": "Request for Help",
+        "description": "You send your answer to the person who sent the request for help, and soon receive a reply.\n\"Thank you for your help. We have confirmed that the password is correct, and have begun to transmit the data. The coordinates of our thank-you gift have been sent to you in the attachment. Please be sure to accept it.\"\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24303": {
+        "id": 24303,
+        "name": "Request for Help",
+        "description": "You send your answer to the person who sent the request for help, and receive a reply after only quite some time.\n\"We were able to crack the encryption thanks to another team. Although we didn't use your answer in the end, we are still very grateful for your willingness to help. A small gift has been placed at the coordinates shown in the attachment. Please be sure to accept it.\"\n\n<color=#FF9500>+15 Movement Points</color>",
+        "des_params": ""
+    },
+    "24304": {
+        "id": 24304,
+        "name": "Request for Help",
+        "description": "Subject: Help needed! More encrypted data in this factory!\nMessage: \"Our decryption tool hasn't been updated yet. Now, there is an AGI Mecha that needs to be cracked before we can activate it. We've attached the coordinates and ciphertext code of the mecha with this message. Why is everything encrypted in this factory?!\"",
+        "des_params": ""
+    },
+    "24305": {
+        "id": 24305,
+        "name": "Request for Help",
+        "description": "You send your answer to the person who sent the request for help, and soon receive a reply.\n\"Wow, bruh! Did you just come up with the answer on your own, without a decryption tool? Amazing work! Let us know anytime if you need any help!\"\n\n<color=#FF9500>+20 Movement Points</color>",
+        "des_params": ""
+    },
+    "24306": {
+        "id": 24306,
+        "name": "Request for Help",
+        "description": "You send your answer to the person who sent the request for help, and receive a reply only after some time.\n\"Bruh, although we didn't use the answer you gave us in the end, we've still grateful for your willingness to help. Let us know anytime if you need any help!\"\n\n<color=#FF9500>+20 Movement Points</color>",
+        "des_params": ""
+    },
+    "24307": {
+        "id": 24307,
+        "name": "Request for Help",
+        "description": "You see that two messages are not marked as urgent, and since you have important matters to attend to, you send back a short reply with some rough suggestions before continuing with your task. Not long after, you receive a reply from them saying that the situation had been resolved, and they thank you for your help.\n\n<color=#FF9500>+5 Movement Points</color>",
+        "des_params": ""
+    },
+    "24400": {
+        "id": 24400,
+        "name": "Password Cracking",
+        "description": "You enter a file room, and a computer that is already turned on draws your attention. On the computer desktop is a folder named \"Top Secret Files,\" and it's encrypted. You connect the decryption tool to the computer, but the tool is working too slowly. Do you want to try to figure out the password yourself?",
+        "des_params": ""
+    },
+    "24401": {
+        "id": 24401,
+        "name": "Password Cracking",
+        "description": "The password input window tells you that the password you just entered is wrong. Just as you are still racking your brain, the decryption tool has already completed its work.\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+15 Movement Points</color>",
+        "des_params": ""
+    },
+    "24402": {
+        "id": 24402,
+        "name": "Password Cracking",
+        "description": "Since you've already put the decryption tool to work, there's no need for you to reinvent the wheel. Instead, you take the time to look around the room, and you find some papers that look like backup materials. Soon after, the decryption is complete.\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+5 Movement Points</color>",
+        "des_params": ""
+    },
+    "24403": {
+        "id": 24403,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"2, 3, 4,\"</color> and you see a success prompt telling you <color=#FF9500>\"2 \u00d7 3 \u00d7 4 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24404": {
+        "id": 24404,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"1, 4, 6,\"</color> and you see a success prompt telling you <color=#FF9500>\"1 \u00d7 4 \u00d7 6 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24405": {
+        "id": 24405,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"1, 3, 6,\"</color> and you see a success prompt telling you <color=#FF9500>\"(1 + 3) \u00d7 6 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24406": {
+        "id": 24406,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"2, 2, 6,\"</color> and you see a success prompt telling you <color=#FF9500>\"(2 + 2) \u00d7 6 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24407": {
+        "id": 24407,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"1, 5, 4,\"</color> and you see a success prompt telling you <color=#FF9500>\"(1 + 5) \u00d7 4 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24408": {
+        "id": 24408,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"2, 4, 4,\"</color> and you see a success prompt telling you <color=#FF9500>\"(2 + 4) \u00d7 4 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24409": {
+        "id": 24409,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"3, 3, 4,\"</color> and you see a success prompt telling you <color=#FF9500>\"(3 + 3) \u00d7 4 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24410": {
+        "id": 24410,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"1, 5, 6,\"</color> and you see a success prompt telling you <color=#FF9500>\"(5 - 1) \u00d7 6 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24411": {
+        "id": 24411,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"2, 6, 6,\"</color> and you see a success prompt telling you <color=#FF9500>\"(6 - 2) \u00d7 6 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24412": {
+        "id": 24412,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"2, 3, 6,\"</color> and you see a success prompt telling you <color=#FF9500>\"(2 + 6) \u00d7 3 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24413": {
+        "id": 24413,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"3, 3, 5,\"</color> and you see a success prompt telling you <color=#FF9500>\"(3 + 5) \u00d7 3 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24414": {
+        "id": 24414,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"3, 4, 4,\"</color> and you see a success prompt telling you <color=#FF9500>\"(4 + 4) \u00d7 3 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24415": {
+        "id": 24415,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"1, 5, 5,\"</color> and you see a success prompt telling you <color=#FF9500>\"5 \u00d7 5 - 1 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24416": {
+        "id": 24416,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"5, 6, 6,\"</color> and you see a success prompt telling you <color=#FF9500>\"5 \u00d7 6 - 6 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24417": {
+        "id": 24417,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"4, 4, 5,\"</color> and you see a success prompt telling you <color=#FF9500>\"4 \u00d7 5 + 4 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "24418": {
+        "id": 24418,
+        "name": "Password Cracking",
+        "description": "You enter <color=#FF9500>\"3, 6, 6,\"</color> and you see a success prompt telling you <color=#FF9500>\"3 \u00d7 6 + 6 = 24.\"</color> This was easy as pie for you!\nYou click the folder to check it out, and discover that it actually contains an employee's work diary with a lot of personal emotions recorded in it too for some reason. Although you cannot understand why people are still writing diaries in this day and age, it can be probably be used as reference material. You are glad that you didn't find some content that cannot be shared in the folder...\n\n<color=#FF9500>+30 Movement Points</color>",
+        "des_params": ""
+    },
+    "30100": {
+        "id": 30100,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "30101": {
+        "id": 30101,
+        "name": "Message From CORG",
+        "description": "\"We have determined that the signal strength in your location is good and there are no abnormal signals. A support unit has been dispatched, please wait and be ready for the handover.\" You receive a message on your terminal. Before long, you see the familiar figures of the support unit.",
+        "des_params": ""
+    },
+    "30102": {
+        "id": 30102,
+        "name": "Message From CORG",
+        "description": "With your typical caution, you first mark this location on your map, for you want to make sure that any possible hidden hazard around here is taken care of before you set up the station.",
+        "des_params": ""
+    },
+    "30200": {
+        "id": 30200,
+        "name": "Stationed Support Unit",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "30201": {
+        "id": 30201,
+        "name": "Stationed Support Unit",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "30202": {
+        "id": 30202,
+        "name": "Stationed Support Unit",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "30203": {
+        "id": 30203,
+        "name": "Stationed Support Unit",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "30300": {
+        "id": 30300,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "30301": {
+        "id": 30301,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see two locations marked on the map. The accompanying note reads, \"Abnormal energy signals detected nearby. Investigate and eliminate all threats.\"",
+        "des_params": ""
+    },
+    "30302": {
+        "id": 30302,
+        "name": "Message From CORG",
+        "description": "With your typical caution, you first mark this location on your map, for you want to make sure that any possible hidden hazard around here is taken care of before you set up the station.",
+        "des_params": ""
+    },
+    "30303": {
+        "id": 30303,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "30400": {
+        "id": 30400,
+        "name": "Stationed Support Unit",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "30401": {
+        "id": 30401,
+        "name": "Stationed Support Unit",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "30402": {
+        "id": 30402,
+        "name": "Stationed Support Unit",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "31100": {
+        "id": 31100,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "31101": {
+        "id": 31101,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see two locations marked on the map. The accompanying note reads, \"Abnormal energy signals detected nearby. Investigate and eliminate all threats.\"",
+        "des_params": ""
+    },
+    "31102": {
+        "id": 31102,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "31103": {
+        "id": 31103,
+        "name": "Message From CORG",
+        "description": "With your typical caution, you first mark this location on your map, for you want to make sure that any possible hidden hazard around here is taken care of before you set up the station.",
+        "des_params": ""
+    },
+    "31200": {
+        "id": 31200,
+        "name": "Stationed Support Unit",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "31201": {
+        "id": 31201,
+        "name": "Stationed Support Unit",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "31202": {
+        "id": 31202,
+        "name": "Stationed Support Unit",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "31203": {
+        "id": 31203,
+        "name": "Stationed Support Unit",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "31300": {
+        "id": 31300,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "31301": {
+        "id": 31301,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see a location marked on the map. The accompanying note reads, \"Residual Bane Energy detected in this location. Proceed with caution.\"",
+        "des_params": ""
+    },
+    "31302": {
+        "id": 31302,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "31303": {
+        "id": 31303,
+        "name": "Message From CORG",
+        "description": "With your typical caution, you first mark this location on your map, for you want to make sure that any possible hidden hazard around here is taken care of before you set up the station.",
+        "des_params": ""
+    },
+    "31400": {
+        "id": 31400,
+        "name": "Stationed Support Unit",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "31401": {
+        "id": 31401,
+        "name": "Stationed Support Unit",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "31402": {
+        "id": 31402,
+        "name": "Stationed Support Unit",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "31403": {
+        "id": 31403,
+        "name": "Stationed Support Unit",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "31500": {
+        "id": 31500,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "31501": {
+        "id": 31501,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see an area circled on the screen map. The accompanying note reads, \"Possible data location. Search with care.\"",
+        "des_params": ""
+    },
+    "31502": {
+        "id": 31502,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with a note on your target. It reads, \"Internal files relating to job applicants for security positions. Look out for information relating to Children of Iron.\"",
+        "des_params": ""
+    },
+    "31503": {
+        "id": 31503,
+        "name": "Message From CORG",
+        "description": "With your typical caution, you first mark this location on your map, for you want to make sure that any possible hidden hazard around here is taken care of before you set up the station.",
+        "des_params": ""
+    },
+    "31600": {
+        "id": 31600,
+        "name": "Stationed Support Unit",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "31601": {
+        "id": 31601,
+        "name": "Stationed Support Unit",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "31602": {
+        "id": 31602,
+        "name": "Stationed Support Unit",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "31603": {
+        "id": 31603,
+        "name": "Stationed Support Unit",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "32100": {
+        "id": 32100,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "32101": {
+        "id": 32101,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see three locations marked on the map. The accompanying note reads, \"Abnormal energy signals detected nearby. Investigate and eliminate all threats.\"",
+        "des_params": ""
+    },
+    "32102": {
+        "id": 32102,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "32103": {
+        "id": 32103,
+        "name": "Message From CORG",
+        "description": "With your typical caution, you first mark this location on your map, for you want to make sure that any possible hidden hazard around here is taken care of before you set up the station.",
+        "des_params": ""
+    },
+    "32200": {
+        "id": 32200,
+        "name": "Stationed Support Unit",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "32201": {
+        "id": 32201,
+        "name": "Stationed Support Unit",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "32202": {
+        "id": 32202,
+        "name": "Stationed Support Unit",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "32203": {
+        "id": 32203,
+        "name": "Stationed Support Unit",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "32300": {
+        "id": 32300,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "32301": {
+        "id": 32301,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see a location marked on the map. The accompanying note reads, \"Residual Bane Energy detected in this location. Proceed with caution.\"",
+        "des_params": ""
+    },
+    "32302": {
+        "id": 32302,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "32303": {
+        "id": 32303,
+        "name": "Message From CORG",
+        "description": "With your typical caution, you first mark this location on your map, for you want to make sure that any possible hidden hazard around here is taken care of before you set up the station.",
+        "des_params": ""
+    },
+    "32400": {
+        "id": 32400,
+        "name": "Stationed Support Unit",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "32401": {
+        "id": 32401,
+        "name": "Stationed Support Unit",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "32402": {
+        "id": 32402,
+        "name": "Stationed Support Unit",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "32403": {
+        "id": 32403,
+        "name": "Stationed Support Unit",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "32500": {
+        "id": 32500,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "32501": {
+        "id": 32501,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see an area circled on the screen map. The accompanying note reads, \"Possible data location. Search with care.\"",
+        "des_params": ""
+    },
+    "32502": {
+        "id": 32502,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with a note on your target. It reads, \"Internal files relating to job applicants for security positions. Look out for information relating to Children of Iron.\"",
+        "des_params": ""
+    },
+    "32503": {
+        "id": 32503,
+        "name": "Message From CORG",
+        "description": "With your typical caution, you first mark this location on your map, for you want to make sure that any possible hidden hazard around here is taken care of before you set up the station.",
+        "des_params": ""
+    },
+    "32600": {
+        "id": 32600,
+        "name": "Stationed Support Unit",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "32601": {
+        "id": 32601,
+        "name": "Stationed Support Unit",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "32602": {
+        "id": 32602,
+        "name": "Stationed Support Unit",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "32603": {
+        "id": 32603,
+        "name": "Stationed Support Unit",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "32700": {
+        "id": 32700,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "32701": {
+        "id": 32701,
+        "name": "Message From CORG",
+        "description": "\"We have determined that the signal strength in your location is good and there are no abnormal signals. A support unit has been dispatched, please wait and be ready for the handover.\" You receive a message on your terminal. Before long, you see the familiar figures of the support unit.",
+        "des_params": ""
+    },
+    "32702": {
+        "id": 32702,
+        "name": "Message From CORG",
+        "description": "With your typical caution, you first mark this location on your map, for you want to make sure that any possible hidden hazard around here is taken care of before you set up the station.",
+        "des_params": ""
+    },
+    "32800": {
+        "id": 32800,
+        "name": "Stationed Support Unit",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "32801": {
+        "id": 32801,
+        "name": "Stationed Support Unit",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "32802": {
+        "id": 32802,
+        "name": "Stationed Support Unit",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "32803": {
+        "id": 32803,
+        "name": "Stationed Support Unit",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "33000": {
+        "id": 33000,
+        "name": "Support Unit With Station",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "33001": {
+        "id": 33001,
+        "name": "Support Unit With Station",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "33002": {
+        "id": 33002,
+        "name": "Support Unit With Station",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "33003": {
+        "id": 33003,
+        "name": "Support Unit With Station",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "33100": {
+        "id": 33100,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "33101": {
+        "id": 33101,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see an area circled on the screen map. The accompanying note reads, \"Database signal detected nearby. The corresponding secretary AGI Mecha's coordinates are attached.\"",
+        "des_params": ""
+    },
+    "33102": {
+        "id": 33102,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "33200": {
+        "id": 33200,
+        "name": "Support Unit With Station",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "33201": {
+        "id": 33201,
+        "name": "Support Unit With Station",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "33202": {
+        "id": 33202,
+        "name": "Support Unit With Station",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "33203": {
+        "id": 33203,
+        "name": "Support Unit With Station",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "33300": {
+        "id": 33300,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "33301": {
+        "id": 33301,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see an area circled on the screen map. The accompanying note reads, \"Database signal detected nearby. The corresponding secretary AGI Mecha's coordinates are attached.\"",
+        "des_params": ""
+    },
+    "33302": {
+        "id": 33302,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "33400": {
+        "id": 33400,
+        "name": "Support Unit With Station",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "33401": {
+        "id": 33401,
+        "name": "Support Unit With Station",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "33402": {
+        "id": 33402,
+        "name": "Support Unit With Station",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "33403": {
+        "id": 33403,
+        "name": "Support Unit With Station",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "34100": {
+        "id": 34100,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "34101": {
+        "id": 34101,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see an area circled on the screen map. The accompanying note reads, \"Database signal detected nearby. The corresponding secretary AGI Mecha's coordinates are attached.\"",
+        "des_params": ""
+    },
+    "34102": {
+        "id": 34102,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "34200": {
+        "id": 34200,
+        "name": "Support Unit With Station",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "34201": {
+        "id": 34201,
+        "name": "Support Unit With Station",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "34202": {
+        "id": 34202,
+        "name": "Support Unit With Station",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "34203": {
+        "id": 34203,
+        "name": "Support Unit With Station",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "34300": {
+        "id": 34300,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "34301": {
+        "id": 34301,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see an area circled on the screen map. The accompanying note reads, \"Database signal detected nearby. The corresponding secretary AGI Mecha's coordinates are attached.\"",
+        "des_params": ""
+    },
+    "34302": {
+        "id": 34302,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "34400": {
+        "id": 34400,
+        "name": "Support Unit With Station",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "34401": {
+        "id": 34401,
+        "name": "Support Unit With Station",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "34402": {
+        "id": 34402,
+        "name": "Support Unit With Station",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "34403": {
+        "id": 34403,
+        "name": "Support Unit With Station",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "34500": {
+        "id": 34500,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "34501": {
+        "id": 34501,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see an area circled on the screen map. The accompanying note reads, \"Database signal detected nearby. The corresponding secretary AGI Mecha's coordinates are attached.\"",
+        "des_params": ""
+    },
+    "34502": {
+        "id": 34502,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "34600": {
+        "id": 34600,
+        "name": "Support Unit With Station",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "34601": {
+        "id": 34601,
+        "name": "Support Unit With Station",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "34602": {
+        "id": 34602,
+        "name": "Support Unit With Station",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "34603": {
+        "id": 34603,
+        "name": "Support Unit With Station",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "35100": {
+        "id": 35100,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "35101": {
+        "id": 35101,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see an area circled on the screen map. The accompanying note reads, \"Database signal detected nearby. The corresponding secretary AGI Mecha's coordinates are attached.\"",
+        "des_params": ""
+    },
+    "35102": {
+        "id": 35102,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "35200": {
+        "id": 35200,
+        "name": "Support Unit With Station",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "35201": {
+        "id": 35201,
+        "name": "Support Unit With Station",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "35202": {
+        "id": 35202,
+        "name": "Support Unit With Station",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "35203": {
+        "id": 35203,
+        "name": "Support Unit With Station",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "35300": {
+        "id": 35300,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "35301": {
+        "id": 35301,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see an area circled on the screen map. The accompanying note reads, \"Database signal detected nearby. The corresponding secretary AGI Mecha's coordinates are attached.\"",
+        "des_params": ""
+    },
+    "35302": {
+        "id": 35302,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "35400": {
+        "id": 35400,
+        "name": "Support Unit With Station",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "35401": {
+        "id": 35401,
+        "name": "Support Unit With Station",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "35402": {
+        "id": 35402,
+        "name": "Support Unit With Station",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "35403": {
+        "id": 35403,
+        "name": "Support Unit With Station",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "35500": {
+        "id": 35500,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "35501": {
+        "id": 35501,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see an area circled on the screen map. The accompanying note reads, \"Database signal detected nearby. The corresponding secretary AGI Mecha's coordinates are attached.\"",
+        "des_params": ""
+    },
+    "35502": {
+        "id": 35502,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "35600": {
+        "id": 35600,
+        "name": "Support Unit With Station",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "35601": {
+        "id": 35601,
+        "name": "Support Unit With Station",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "35602": {
+        "id": 35602,
+        "name": "Support Unit With Station",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "35603": {
+        "id": 35603,
+        "name": "Support Unit With Station",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "35700": {
+        "id": 35700,
+        "name": "Message From CORG",
+        "description": "You come upon a brightly lit hall with open lines of sight, no obvious hazards, and good signal strength. You may set up a temporary <color=#FF9500>Comms Station</color> here as instructed to ensure that you can keep moving along in your mission.",
+        "des_params": ""
+    },
+    "35701": {
+        "id": 35701,
+        "name": "Message From CORG",
+        "description": "Your communicator lights up, and you see an area circled on the screen map. The accompanying note reads, \"Database signal detected nearby. The corresponding secretary AGI Mecha's coordinates are attached.\"",
+        "des_params": ""
+    },
+    "35702": {
+        "id": 35702,
+        "name": "Message From CORG",
+        "description": "The holographic map is quickly downloaded to your terminal along with the emergency communication key. This means... you can call for help at any time, right?",
+        "des_params": ""
+    },
+    "35800": {
+        "id": 35800,
+        "name": "Support Unit With Station",
+        "description": "The CORG support unit you met up with has set up a communication and logistics station here. Now, everyone can rest their weary feet and replenish their supplies at this very spot. That includes you, of course.",
+        "des_params": ""
+    },
+    "35801": {
+        "id": 35801,
+        "name": "Support Unit With Station",
+        "description": "To thank you for the equipment you left behind to help the support unit set up the station, the logistics folks have identified all the supplies you need and replenished them accordingly.",
+        "des_params": ""
+    },
+    "35802": {
+        "id": 35802,
+        "name": "Support Unit With Station",
+        "description": "The support unit's repairman has inspected the critical equipment, and is now giving you a stream of suggestions on how to use the gear as he works on the repair. However, he continues talking on and on when he's done. You quickly bring out from your pack the novel equipment you've collected during your exploration so far and give it to him. That does the trick: he thanks you and finally stops his yammering.",
+        "des_params": ""
+    },
+    "35803": {
+        "id": 35803,
+        "name": "Support Unit With Station",
+        "description": "Several other teams are also at the station, waiting to either replenish or repair their equipment. You go up to exchange intel with them. \"There's a spot where we didn't manage to set up a communication station because our equipment was damaged. I've sent the coordinates of that spot to you.\" You save the coordinates and also share a few pieces of intel about the area in return.",
+        "des_params": ""
+    },
+    "all": [
+        10100,
+        10200,
+        10300,
+        10400,
+        10500,
+        10600,
+        10700,
+        10800,
+        10900,
+        11000,
+        11100,
+        11200,
+        11300,
+        15100,
+        15101,
+        15102,
+        15200,
+        15201,
+        15202,
+        15203,
+        15300,
+        15301,
+        15302,
+        15400,
+        15401,
+        15402,
+        15403,
+        15500,
+        15501,
+        15502,
+        15503,
+        15600,
+        15601,
+        15602,
+        15603,
+        15700,
+        15701,
+        15702,
+        15703,
+        15800,
+        15801,
+        15802,
+        15803,
+        17000,
+        17001,
+        17100,
+        17101,
+        17200,
+        17201,
+        18100,
+        18101,
+        18102,
+        18103,
+        18200,
+        18201,
+        18202,
+        18203,
+        18300,
+        18301,
+        18302,
+        18303,
+        19100,
+        19101,
+        19200,
+        19201,
+        19901,
+        19902,
+        19903,
+        19999,
+        19904,
+        19905,
+        19906,
+        20100,
+        20101,
+        20102,
+        20200,
+        20201,
+        20202,
+        20300,
+        20301,
+        20302,
+        20400,
+        20401,
+        20402,
+        20500,
+        20501,
+        20502,
+        20503,
+        20600,
+        20601,
+        20602,
+        20700,
+        20701,
+        20702,
+        20800,
+        20801,
+        20802,
+        20803,
+        20804,
+        20900,
+        20901,
+        21000,
+        21001,
+        21002,
+        21003,
+        21004,
+        21005,
+        21006,
+        21007,
+        21100,
+        21101,
+        21102,
+        21200,
+        21201,
+        21202,
+        21203,
+        21204,
+        21205,
+        21206,
+        21300,
+        21301,
+        21302,
+        21400,
+        21500,
+        21501,
+        21502,
+        21600,
+        21601,
+        21602,
+        21603,
+        21604,
+        21700,
+        21701,
+        21702,
+        21800,
+        21801,
+        21802,
+        21900,
+        21901,
+        22000,
+        22001,
+        22002,
+        22003,
+        22100,
+        22101,
+        22102,
+        22103,
+        22200,
+        22201,
+        22202,
+        22203,
+        22300,
+        22301,
+        22302,
+        22400,
+        22401,
+        22402,
+        22500,
+        22501,
+        22502,
+        22503,
+        22510,
+        22511,
+        22512,
+        22513,
+        22600,
+        22601,
+        22602,
+        22700,
+        22701,
+        22702,
+        22703,
+        22800,
+        22801,
+        22802,
+        22900,
+        22901,
+        22902,
+        22903,
+        23000,
+        23001,
+        23002,
+        23003,
+        23100,
+        23101,
+        23102,
+        23200,
+        23201,
+        23202,
+        23203,
+        23300,
+        23301,
+        23302,
+        23303,
+        23304,
+        23305,
+        23400,
+        23401,
+        23402,
+        23500,
+        23501,
+        23502,
+        23600,
+        23601,
+        23602,
+        23603,
+        23700,
+        23701,
+        23702,
+        23703,
+        23704,
+        23800,
+        23801,
+        23802,
+        23803,
+        23804,
+        23805,
+        23806,
+        23807,
+        23808,
+        23900,
+        23901,
+        23902,
+        23903,
+        24000,
+        24001,
+        24002,
+        24003,
+        24100,
+        24101,
+        24102,
+        24103,
+        24200,
+        24201,
+        24202,
+        24300,
+        24301,
+        24302,
+        24303,
+        24304,
+        24305,
+        24306,
+        24307,
+        24400,
+        24401,
+        24402,
+        24403,
+        24404,
+        24405,
+        24406,
+        24407,
+        24408,
+        24409,
+        24410,
+        24411,
+        24412,
+        24413,
+        24414,
+        24415,
+        24416,
+        24417,
+        24418,
+        30100,
+        30101,
+        30102,
+        30200,
+        30201,
+        30202,
+        30203,
+        30300,
+        30301,
+        30302,
+        30303,
+        30400,
+        30401,
+        30402,
+        31100,
+        31101,
+        31102,
+        31103,
+        31200,
+        31201,
+        31202,
+        31203,
+        31300,
+        31301,
+        31302,
+        31303,
+        31400,
+        31401,
+        31402,
+        31403,
+        31500,
+        31501,
+        31502,
+        31503,
+        31600,
+        31601,
+        31602,
+        31603,
+        32100,
+        32101,
+        32102,
+        32103,
+        32200,
+        32201,
+        32202,
+        32203,
+        32300,
+        32301,
+        32302,
+        32303,
+        32400,
+        32401,
+        32402,
+        32403,
+        32500,
+        32501,
+        32502,
+        32503,
+        32600,
+        32601,
+        32602,
+        32603,
+        32700,
+        32701,
+        32702,
+        32800,
+        32801,
+        32802,
+        32803,
+        33000,
+        33001,
+        33002,
+        33003,
+        33100,
+        33101,
+        33102,
+        33200,
+        33201,
+        33202,
+        33203,
+        33300,
+        33301,
+        33302,
+        33400,
+        33401,
+        33402,
+        33403,
+        34100,
+        34101,
+        34102,
+        34200,
+        34201,
+        34202,
+        34203,
+        34300,
+        34301,
+        34302,
+        34400,
+        34401,
+        34402,
+        34403,
+        34500,
+        34501,
+        34502,
+        34600,
+        34601,
+        34602,
+        34603,
+        35100,
+        35101,
+        35102,
+        35200,
+        35201,
+        35202,
+        35203,
+        35300,
+        35301,
+        35302,
+        35400,
+        35401,
+        35402,
+        35403,
+        35500,
+        35501,
+        35502,
+        35600,
+        35601,
+        35602,
+        35603,
+        35700,
+        35701,
+        35702,
+        35800,
+        35801,
+        35802,
+        35803
+    ]
+}

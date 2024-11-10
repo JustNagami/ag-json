@@ -1,0 +1,141 @@
+{
+    "10001": {
+        "description": "The most prosperous Sephirah Zone in Gaea. It has a mild and pleasant natural environment. As the central hub of the Photon Rail and the seat of CORG Supreme Directorate, Ain Soph is essentially the heart of Gaea.",
+        "area_name": "Ain Soph",
+        "event_probability": 18,
+        "id": 10001,
+        "icon": "logo_4",
+        "reward": [
+            [
+                53,
+                50
+            ],
+            [
+                54,
+                60
+            ],
+            [
+                56,
+                8
+            ]
+        ],
+        "event": [
+            10001,
+            10002,
+            10003,
+            10004,
+            10005
+        ]
+    },
+    "10002": {
+        "description": "A Sephirah Zone known for its advanced industrial technology and first-rate AGI Mecha industry. It holds the richest source of Tranzist Ore in Gaea, and is well-known among the Sephirah Zones for its craft breweries.",
+        "area_name": "Neuhansa",
+        "event_probability": 21,
+        "id": 10002,
+        "icon": "logo_3",
+        "reward": [
+            [
+                53,
+                50
+            ],
+            [
+                55,
+                12
+            ],
+            [
+                56,
+                12
+            ]
+        ],
+        "event": [
+            20001,
+            20002,
+            20003,
+            20004,
+            20005
+        ]
+    },
+    "10003": {
+        "description": "The Sasanami Zone is not rich in resources, but its fisheries and agricultural sectors are relatively well developed, and it has abundant forestry resources. The Sasanami Zone's key exports are relatively low-end electronic devices and unique handmade products.",
+        "area_name": "Sasanami",
+        "event_probability": 24,
+        "id": 10003,
+        "icon": "logo_2",
+        "reward": [
+            [
+                53,
+                50
+            ],
+            [
+                54,
+                80
+            ],
+            [
+                55,
+                18
+            ]
+        ],
+        "event": [
+            30001,
+            30002,
+            30003,
+            30004,
+            30005
+        ]
+    },
+    "10004": {
+        "description": "A Sephirah Zone that is also known as \"the Capital of the Arts\" due to its cultural and artistic exports. Artistic creation is prevalent throughout this Sephirah Zone, and those with a high level of artistic mastery hold a higher social status.",
+        "area_name": "Omorfies",
+        "event_probability": 27,
+        "id": 10004,
+        "icon": "logo_5",
+        "reward": [
+            [
+                53,
+                50
+            ],
+            [
+                54,
+                100
+            ]
+        ],
+        "event": [
+            40001,
+            40002,
+            40003,
+            40004,
+            40005
+        ]
+    },
+    "10005": {
+        "description": "As the first Sephirah Zone to emerge in Gaea, it also serves as the main transit station for most light rails before they return to Ain Soph. The land is rich in antigravity minerals called Cloudsong Ores, causing much of the territory to float in mid-air.",
+        "area_name": "Xu Heng",
+        "event_probability": 30,
+        "id": 10005,
+        "icon": "logo_1",
+        "reward": [
+            [
+                53,
+                50
+            ],
+            [
+                55,
+                22
+            ]
+        ],
+        "event": [
+            50001,
+            50002,
+            50003,
+            50004,
+            50005
+        ]
+    },
+    "all": [
+        10001,
+        10002,
+        10003,
+        10004,
+        10005
+    ]
+}

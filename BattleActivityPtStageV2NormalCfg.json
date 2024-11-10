@@ -1,0 +1,628 @@
+{
+    "5090201": {
+        "monster_level": 80,
+        "name": "Old Town",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 10008001,
+        "background_1": "J03b",
+        "tips": "Clean up the Old Town trade routes for Tian Lu Traders. Tian Yuan Mods get extra assistance: Crit DMG +50% at Rating \u03a9.",
+        "map": "5090201",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5090201,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            11000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5090202": {
+        "monster_level": 80,
+        "name": "Deep Woods",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10008002,
+        "background_1": "J13",
+        "tips": "Clean up the Deep Woods trade routes for Tian Lu Traders. Tian Yuan Mods get extra assistance: Crit DMG +50% at Rating \u03a9.",
+        "map": "5090202",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5090202,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1200,
+            1000,
+            23000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5090203": {
+        "monster_level": 80,
+        "name": "Cloud Stack",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10008003,
+        "background_1": "J04",
+        "tips": "Clean up the Cloud Stack trade routes for Tian Lu Traders. Tian Yuan Mods get extra assistance: Crit DMG +50% at Rating \u03a9.",
+        "map": "5090203",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5090203,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1200,
+            1000,
+            24000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5100201": {
+        "monster_level": 80,
+        "name": "East Banchuan Street",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 10009001,
+        "background_1": "J10b",
+        "tips": "Get ready and head to Banchuan Street to complete a sweep mission. Rage Mods gain Rage 50% more quickly.",
+        "map": "5100201",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5100201,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            8500
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5100202": {
+        "monster_level": 80,
+        "name": "West Banchuan Street",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10009002,
+        "background_1": "J10b",
+        "tips": "Get ready and head to Banchuan Street to complete a sweep mission. Tian Yuan Mods' Crit DMG is increased by 40%.",
+        "map": "5100202",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5100202,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            8500
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5100203": {
+        "monster_level": 80,
+        "name": "Chang'an Bridge",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10009003,
+        "background_1": "J10b",
+        "tips": "Get ready and head to Banchuan Street to complete a sweep mission. When TaiYi - Gengchen casts Antarctic Echo, increases Final DMG by 25% for 9s.",
+        "map": "5100203",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5100203,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            9500
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5110401": {
+        "monster_level": 80,
+        "name": "Valley Entrance",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 10010001,
+        "background_1": "J03a",
+        "tips": "Ignorance is bliss while wandering the valleys. Divine Grace Mods gain Divine Grace 50% more quickly.",
+        "map": "5110401",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5110401,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            20000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5110402": {
+        "monster_level": 80,
+        "name": "Mountain Stream",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 10010002,
+        "background_1": "J03b",
+        "tips": "Trees overhang the stream and mist fills the valley. Increases Tian Yuan Mods' Crit Rate by 30%.",
+        "map": "5110402",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5110402,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            20000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5110403": {
+        "monster_level": 80,
+        "name": "Forest Hills",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 10010003,
+        "background_1": "J03b",
+        "tips": "Cranes and deer leave their paths in the woods. Tian Yuan Mods gain additional assist: Crit DMG increases by 50% when in \u03a9 rating.",
+        "map": "5110403",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5110403,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            16000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120301": {
+        "monster_level": 80,
+        "name": "Sound of the Wind",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10011001,
+        "background_1": "K01",
+        "tips": "The wind carries whispers of distant conspiracies. Additional Assist: Mod obtains Rage more quickly.",
+        "map": "5120301",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5120301,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            18000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120302": {
+        "monster_level": 80,
+        "name": "Stir in the Grass",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10011002,
+        "background_1": "K02",
+        "tips": "The squirrel darts away, leaving behind a half-nibbled pinecone. Additional Assist: Increases Shinou Mods' Crit DMG.",
+        "map": "5120302",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5120302,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            22000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120303": {
+        "monster_level": 80,
+        "name": "Glow in the Dark ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10011003,
+        "background_1": "K03",
+        "tips": "The colony of shimmering mushrooms grows out of control. Additional Assist: Deals extra damage to surviving monsters after killing an enemy with an Ice attack.",
+        "map": "5120303",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5120303,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            10000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120401": {
+        "monster_level": 80,
+        "name": "Ritual ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10012001,
+        "background_1": "K05a",
+        "tips": "In the darkness. Additional Assist: Increases Shinou Mods' Crit DMG.",
+        "map": "5120401",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5120401,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            20000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120402": {
+        "monster_level": 80,
+        "name": "Altar ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10012002,
+        "background_1": "K02a",
+        "tips": "On the altar. Additional Assist: Deals extra damage to surviving monsters after killing an enemy with an Ice attack.",
+        "map": "5120402",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5120402,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            20000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120403": {
+        "monster_level": 80,
+        "name": "Offering ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10012003,
+        "background_1": "K06a",
+        "tips": "In ignorance. Additional Assist: Stuns surviving monsters after killing an enemy with a Thunder attack.",
+        "map": "5120403",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5120403,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            16000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5130501": {
+        "monster_level": 80,
+        "name": "Practice ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10013001,
+        "background_1": "K10",
+        "tips": "Faithfully emulate the swordplay of those come and gone to grasp the basics of their techniques.\nAdditional Assist: Mod obtains Rage more quickly.",
+        "map": "5130501",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130501,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5130502": {
+        "monster_level": 80,
+        "name": "Breakthrough",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10013002,
+        "background_1": "K10",
+        "tips": "Understanding is born atop a foundation, perfecting upon the knowledge acquired by swordsmen past. Additional Assist: Increases Mods' Crit DMG.",
+        "map": "5130502",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130502,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5130503": {
+        "monster_level": 80,
+        "name": "The Departed",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10013003,
+        "background_1": "K09a",
+        "tips": "Distilling all that you have learned, do not be bound by rules\u2014forge your own style. Additional Assist: Madoibi Scorched - Kagutsuchi gains Rage and HP upon killing monsters.",
+        "map": "5130503",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130503,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            10000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140501": {
+        "monster_level": 80,
+        "name": "Flyweight ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024510,
+        "background_1": "L01",
+        "tips": "\"What was that? Are you trying to tickle me?\" Additional Assist: Increases Tian Yuan Mods' Crit DMG.",
+        "map": "5140501",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140501,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140502": {
+        "monster_level": 80,
+        "name": "Bantamweight ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024511,
+        "background_1": "L02",
+        "tips": "\"MMA isn't about who's the loudest.\" Additional Assist: Briefly inflicts Vulnerable on surviving mobs after killing an enemy with a Wind attack.",
+        "map": "5140502",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140502,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140503": {
+        "monster_level": 80,
+        "name": "Featherweight ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024512,
+        "background_1": "L01a",
+        "tips": "\"Thought of your losing pose yet?!\" Additional Assist: Deals a round of DMG to surviving mobs after killing an enemy with a Light attack.",
+        "map": "5140503",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140503,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            10000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140601": {
+        "monster_level": 80,
+        "name": "Drug Tester ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024510,
+        "background_1": "L04",
+        "tips": "He only came here to get a hot meal. Additional Assist: Increases Tian Yuan Mods' Crit DMG.",
+        "map": "5140601",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140601,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140602": {
+        "monster_level": 80,
+        "name": "Byproduct ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024511,
+        "background_1": "L04a",
+        "tips": "Identical in composition, but graded differently nonetheless. Additional Assist: Increases Mods' Divine Grace gain rate.",
+        "map": "5140602",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140602,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140603": {
+        "monster_level": 80,
+        "name": "Assembly Line ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024512,
+        "background_1": "L03a",
+        "tips": "Monotonous work repeated day after day. Perhaps assembly lines aren't just found in factories. Additional Assist: Deals an additional round of DMG after a Water attack hits.",
+        "map": "5140603",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140603,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            10000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "all": [
+        5090201,
+        5090202,
+        5090203,
+        5100201,
+        5100202,
+        5100203,
+        5110401,
+        5110402,
+        5110403,
+        5120301,
+        5120302,
+        5120303,
+        5120401,
+        5120402,
+        5120403,
+        5130501,
+        5130502,
+        5130503,
+        5140501,
+        5140502,
+        5140503,
+        5140601,
+        5140602,
+        5140603
+    ]
+}

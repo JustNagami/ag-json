@@ -1,0 +1,55 @@
+{
+    "1": {
+        "agile_star": 3,
+        "name": "Mininja's Paw",
+        "id": 1,
+        "condition_id": 111021,
+        "power_star": 5,
+        "icon": "225901",
+        "desc": "Easier to roll medium snowballs when equipped, but with limited speed. Grants additional big snowball(s) in Bowling mode.",
+        "affixs": [
+            [
+                9198,
+                1,
+                3
+            ]
+        ]
+    },
+    "2": {
+        "agile_star": 5,
+        "name": "Me-Yow's Paw",
+        "id": 2,
+        "condition_id": 111031,
+        "power_star": 3,
+        "icon": "225902",
+        "desc": "Easier to roll large snowballs when equipped, and with increased speed too. Grants additional fast snowball(s) in Bowling mode.",
+        "affixs": [
+            [
+                9199,
+                1,
+                3
+            ]
+        ]
+    },
+    "3": {
+        "agile_star": 4,
+        "name": "Mitir's Paw",
+        "id": 3,
+        "condition_id": 111041,
+        "power_star": 4,
+        "icon": "225903",
+        "desc": "Has a chance to refresh skills after use when equipped. Grants additional small snowball(s) in Bowling mode.",
+        "affixs": [
+            [
+                9200,
+                1,
+                3
+            ]
+        ]
+    },
+    "all": [
+        1,
+        2,
+        3
+    ]
+}

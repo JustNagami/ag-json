@@ -1,0 +1,1383 @@
+{
+    "101": {
+        "name": "Roast Pork",
+        "icon": "101",
+        "sell": 36,
+        "unlock": 81502,
+        "desc": "Roast Pork, with crispy skin and tender meat.",
+        "cook_type": 5,
+        "cost_time": 1080,
+        "cook_time": 2,
+        "prefab": "101",
+        "id": 101,
+        "ingredient_list": [
+            [
+                51013,
+                4
+            ],
+            [
+                51022,
+                1
+            ]
+        ],
+        "tag": [
+            1,
+            2,
+            3
+        ],
+        "sub_tag": [
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "102": {
+        "name": "Roast Duck",
+        "icon": "102",
+        "sell": 23,
+        "unlock": 0,
+        "desc": "Crispy Roast Duck, a delicious dish with glazed crispy skin on the outside and juicy meat on the inside.",
+        "cook_type": 5,
+        "cost_time": 840,
+        "cook_time": 2,
+        "prefab": "102",
+        "id": 102,
+        "ingredient_list": [
+            [
+                51022,
+                1
+            ],
+            [
+                51015,
+                2
+            ]
+        ],
+        "tag": [
+            1,
+            2,
+            3
+        ],
+        "sub_tag": [
+            2,
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "103": {
+        "name": "Crispy Pork",
+        "icon": "103",
+        "sell": 39,
+        "unlock": 81503,
+        "desc": "Crispy Pork, flavorful with a rich aftertaste.",
+        "cook_type": 5,
+        "cost_time": 1200,
+        "cook_time": 2,
+        "prefab": "103",
+        "id": 103,
+        "ingredient_list": [
+            [
+                51013,
+                2
+            ],
+            [
+                51019,
+                3
+            ]
+        ],
+        "tag": [
+            1,
+            2,
+            3
+        ],
+        "sub_tag": [
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "104": {
+        "name": "Spicy Chicken",
+        "icon": "104",
+        "sell": 35,
+        "unlock": 81302,
+        "desc": "Spicy Chicken, a classic home-style dish, spicy and savory.",
+        "cook_type": 3,
+        "cost_time": 960,
+        "cook_time": 2,
+        "prefab": "104",
+        "id": 104,
+        "ingredient_list": [
+            [
+                51024,
+                1
+            ],
+            [
+                51015,
+                3
+            ]
+        ],
+        "tag": [
+            1,
+            3
+        ],
+        "sub_tag": [
+            2,
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "105": {
+        "name": "Saut\u00e9ed Chitterlings",
+        "icon": "105",
+        "sell": 35,
+        "unlock": 81302,
+        "desc": "Saut\u00e9ed Chitterlings, a Xu Heng dish with deep red color and chewy texture.",
+        "cook_type": 3,
+        "cost_time": 1200,
+        "cook_time": 2,
+        "prefab": "105",
+        "id": 105,
+        "ingredient_list": [
+            [
+                51011,
+                3
+            ]
+        ],
+        "tag": [
+            1,
+            3
+        ],
+        "sub_tag": [
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "106": {
+        "name": "Stir-fried Tomato and Scrambled Eggs",
+        "icon": "106",
+        "sell": 26,
+        "unlock": 0,
+        "desc": "Stir-fried Tomato and Scrambled Eggs, a home-style dish with sweet and sour flavor.",
+        "cook_type": 3,
+        "cost_time": 720,
+        "cook_time": 2,
+        "prefab": "106",
+        "id": 106,
+        "ingredient_list": [
+            [
+                51019,
+                1
+            ],
+            [
+                51025,
+                4
+            ]
+        ],
+        "tag": [
+            1,
+            2,
+            4
+        ],
+        "sub_tag": [
+            2,
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "107": {
+        "name": "Potatoes with Peppers",
+        "icon": "107",
+        "sell": 25,
+        "unlock": 0,
+        "desc": "Potatoes with Peppers, a home-style dish with sour and spicy flavor.",
+        "cook_type": 3,
+        "cost_time": 720,
+        "cook_time": 2,
+        "prefab": "107",
+        "id": 107,
+        "ingredient_list": [
+            [
+                51022,
+                1
+            ],
+            [
+                51024,
+                1
+            ],
+            [
+                51032,
+                4
+            ]
+        ],
+        "tag": [
+            1,
+            3
+        ],
+        "sub_tag": [
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "108": {
+        "name": "Shrimp with Cashew Nuts",
+        "icon": "108",
+        "sell": 41,
+        "unlock": 81303,
+        "desc": "Shrimp with Cashew Nuts, a nutritious and delicious home-style dish.",
+        "cook_type": 3,
+        "cost_time": 1200,
+        "cook_time": 2,
+        "prefab": "108",
+        "id": 108,
+        "ingredient_list": [
+            [
+                51017,
+                2
+            ],
+            [
+                51028,
+                1
+            ]
+        ],
+        "tag": [
+            1,
+            5
+        ],
+        "sub_tag": [
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "109": {
+        "name": "Fish Head with Chopped Chili",
+        "icon": "109",
+        "sell": 23,
+        "unlock": 0,
+        "desc": "Fish Head with Chopped Chili. Red in color, rich in flavor. Satisfying but not too greasy, with a soft and glutinous texture.",
+        "cook_type": 4,
+        "cost_time": 840,
+        "cook_time": 2,
+        "prefab": "109",
+        "id": 109,
+        "ingredient_list": [
+            [
+                51024,
+                2
+            ],
+            [
+                51012,
+                2
+            ]
+        ],
+        "tag": [
+            1,
+            3,
+            5
+        ],
+        "sub_tag": [
+            2,
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "110": {
+        "name": "Dumplings",
+        "icon": "110",
+        "sell": 35,
+        "unlock": 81402,
+        "desc": "Dumplings, derived from wontons. They were called \"Jiaozi\" in ancient Xu Heng, and also formerly known as \"Jiao'er\". A traditional food made of flour with a history of over a thousand years.",
+        "cook_type": 4,
+        "cost_time": 960,
+        "cook_time": 2,
+        "prefab": "110",
+        "id": 110,
+        "ingredient_list": [
+            [
+                51013,
+                1
+            ],
+            [
+                51031,
+                4
+            ]
+        ],
+        "tag": [
+            1,
+            3,
+            4
+        ],
+        "sub_tag": [
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "111": {
+        "name": "Egg Foo-young",
+        "icon": "111",
+        "sell": 25,
+        "unlock": 0,
+        "desc": "Egg Foo-young, a traditional delicacy perfect for all seasons. Golden and fluffy. It pairs well with both wine and rice.",
+        "cook_type": 4,
+        "cost_time": 720,
+        "cook_time": 2,
+        "prefab": "111",
+        "id": 111,
+        "ingredient_list": [
+            [
+                51019,
+                4
+            ]
+        ],
+        "tag": [
+            1,
+            5
+        ],
+        "sub_tag": [
+            2,
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "112": {
+        "name": "West Lake Fish in Vinegar Gravy",
+        "icon": "112",
+        "sell": 44,
+        "unlock": 81403,
+        "desc": "West Lake Fish in Vinegar Gravy, a crab-flavor fish dish with bright red color, tender texture, and sweet and sour flavor.",
+        "cook_type": 4,
+        "cost_time": 1200,
+        "cook_time": 2,
+        "prefab": "112",
+        "id": 112,
+        "ingredient_list": [
+            [
+                51022,
+                1
+            ],
+            [
+                51012,
+                4
+            ]
+        ],
+        "tag": [
+            2,
+            4,
+            5
+        ],
+        "sub_tag": [
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "113": {
+        "name": "Pork with Preserved Vegetable",
+        "icon": "113",
+        "sell": 33,
+        "unlock": 81402,
+        "desc": "Pork with Preserved Vegetable, a traditional Xu Heng dish. The meat is so soft that it'd melt in your mouth. Salty and slightly sweet. The fat is satisfying but not greasy.",
+        "cook_type": 4,
+        "cost_time": 720,
+        "cook_time": 2,
+        "prefab": "113",
+        "id": 113,
+        "ingredient_list": [
+            [
+                51013,
+                3
+            ],
+            [
+                51023,
+                2
+            ]
+        ],
+        "tag": [
+            1,
+            2
+        ],
+        "sub_tag": [
+            2,
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "114": {
+        "name": "Bullfrog with Pickled Peppers",
+        "icon": "114",
+        "sell": 38,
+        "unlock": 81602,
+        "desc": "Bullfrog with Pickled Peppers, a Xu Heng dish made with bullfrog as the main ingredient. Easy to make. Spicy and delicious.",
+        "cook_type": 6,
+        "cost_time": 1200,
+        "cook_time": 2,
+        "prefab": "114",
+        "id": 114,
+        "ingredient_list": [
+            [
+                51024,
+                1
+            ],
+            [
+                51014,
+                2
+            ]
+        ],
+        "tag": [
+            1,
+            3
+        ],
+        "sub_tag": [
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "115": {
+        "name": "Shui Zhu Pork",
+        "icon": "115",
+        "sell": 26,
+        "unlock": 0,
+        "desc": "Shui Zhu Pork, a creative local dish with tenderloin as the main ingredient.",
+        "cook_type": 6,
+        "cost_time": 840,
+        "cook_time": 2,
+        "prefab": "115",
+        "id": 115,
+        "ingredient_list": [
+            [
+                51013,
+                2
+            ],
+            [
+                51023,
+                2
+            ]
+        ],
+        "tag": [
+            1,
+            3,
+            5
+        ],
+        "sub_tag": [
+            2,
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "116": {
+        "name": "Mapo Tofu",
+        "icon": "116",
+        "sell": 38,
+        "unlock": 81602,
+        "desc": "Brightly colored tofu with meat granules. Pungent, spicy, crispy, tender, all in one. A distinctive dish.",
+        "cook_type": 6,
+        "cost_time": 1080,
+        "cook_time": 2,
+        "prefab": "116",
+        "id": 116,
+        "ingredient_list": [
+            [
+                51013,
+                1
+            ],
+            [
+                51030,
+                3
+            ]
+        ],
+        "tag": [
+            1,
+            3,
+            5
+        ],
+        "sub_tag": [
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "117": {
+        "name": "Duck Blood in Chili Sauce",
+        "icon": "117",
+        "sell": 42,
+        "unlock": 81603,
+        "desc": "Duck Blood in Chili Sauce, made with duck blood as the main ingredient. This is a stewed dish with spicy flavor.",
+        "cook_type": 6,
+        "cost_time": 1200,
+        "cook_time": 2,
+        "prefab": "117",
+        "id": 117,
+        "ingredient_list": [
+            [
+                51009,
+                3
+            ],
+            [
+                51010,
+                1
+            ],
+            [
+                51016,
+                1
+            ]
+        ],
+        "tag": [
+            3,
+            5
+        ],
+        "sub_tag": [
+            2,
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "118": {
+        "name": "Meatballs with Brown Sauce",
+        "icon": "118",
+        "sell": 23,
+        "unlock": 0,
+        "desc": "Meatballs with Brown Sauce. It is so delicious that just smelling it boosts the appetite.",
+        "cook_type": 6,
+        "cost_time": 720,
+        "cook_time": 2,
+        "prefab": "118",
+        "id": 118,
+        "ingredient_list": [
+            [
+                51013,
+                3
+            ]
+        ],
+        "tag": [
+            1,
+            5
+        ],
+        "sub_tag": [
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "119": {
+        "name": "Grilled Fish",
+        "icon": "119",
+        "sell": 36,
+        "unlock": 81502,
+        "desc": "Grilled fish, a flavorful cuisine with fantastic taste and rich nutrition.",
+        "cook_type": 5,
+        "cost_time": 960,
+        "cook_time": 2,
+        "prefab": "119",
+        "id": 119,
+        "ingredient_list": [
+            [
+                51022,
+                1
+            ],
+            [
+                51024,
+                2
+            ],
+            [
+                51012,
+                3
+            ]
+        ],
+        "tag": [
+            1,
+            3
+        ],
+        "sub_tag": [
+            2,
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "120": {
+        "name": "BBQ Skewers",
+        "icon": "120",
+        "sell": 28,
+        "unlock": 0,
+        "desc": "BBQ skewers, unique and with a long history.",
+        "cook_type": 5,
+        "cost_time": 720,
+        "cook_time": 2,
+        "prefab": "120",
+        "id": 120,
+        "ingredient_list": [
+            [
+                51013,
+                1
+            ],
+            [
+                51015,
+                2
+            ]
+        ],
+        "tag": [
+            1,
+            2,
+            3
+        ],
+        "sub_tag": [
+            4,
+            5
+        ],
+        "cook_range": [
+            [
+                0,
+                60,
+                20
+            ],
+            [
+                20,
+                70,
+                25
+            ],
+            [
+                40,
+                75,
+                25
+            ],
+            [
+                50,
+                80,
+                30
+            ],
+            [
+                70,
+                85,
+                35
+            ],
+            [
+                85,
+                90,
+                35
+            ],
+            [
+                95,
+                90,
+                40
+            ]
+        ]
+    },
+    "all": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+    ]
+}

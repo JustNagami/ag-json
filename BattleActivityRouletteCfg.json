@@ -1,0 +1,904 @@
+{
+    "5130201": {
+        "monster_level": 80,
+        "name": "The Puzzle",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024504,
+        "background_1": "A07",
+        "tips": "Sometimes, ignorance is the greatest bliss...\nRemember: Abandon all hope, ye who enter.",
+        "map": "5130201",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5130201,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            7000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130202": {
+        "monster_level": 80,
+        "name": "The Incidental",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024501,
+        "background_1": "K10",
+        "tips": "Setting foot in this place of legend was an arranged \"accident.\" If you are here by chance, please abide by the following rules. Additional Assist: The enemy takes more Ice DMG and Shinou Mods deal more damage due to the environment.",
+        "map": "5130202",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130202,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            21000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130203": {
+        "monster_level": 80,
+        "name": "The Inexplicable",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024502,
+        "background_1": "K11",
+        "tips": "Searching all over, like a cat. Scrounging and stockpiling, like a hamster. Please refrain from opening locked doors and taking items from rooms. Additional Assist: The enemy takes more Ice DMG and Mods' Rage costs decrease due to the environment.",
+        "map": "5130203",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130203,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130204": {
+        "monster_level": 80,
+        "name": "The Rule",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024503,
+        "background_1": "K12",
+        "tips": "Eccentricity is never a game, and there is no cure for those who break the rules. If you are unfortunate enough to break the rules, your only option will be to pray. Additional Assist: The enemy takes more Ice DMG.",
+        "map": "5130204",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130204,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            9000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130601": {
+        "monster_level": 80,
+        "name": "Practice",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024506,
+        "background_1": "K10",
+        "tips": "Faithfully emulate the swordplay of those come and gone to grasp the basics of their techniques.\nAdditional Assist: Mod obtains Rage more quickly.",
+        "map": "5130601",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130601,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            100,
+            1000,
+            14000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130602": {
+        "monster_level": 80,
+        "name": "Breakthrough",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024507,
+        "background_1": "K10",
+        "tips": "Understanding is born atop a foundation, perfecting upon the knowledge acquired by swordsmen past. Additional Assist: Increases Mods' Crit DMG.",
+        "map": "5130602",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130602,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            19000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130603": {
+        "monster_level": 80,
+        "name": "Innovation",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024508,
+        "background_1": "K09",
+        "tips": "Distilling all that you have learned, do not be bound by rules\u2014forge your own style. Additional Assist: Madoibi Scorched - Kagutsuchi gains Rage and HP upon killing monsters.",
+        "map": "5130603",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130603,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130604": {
+        "monster_level": 80,
+        "name": "Zen of Sword",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024509,
+        "background_1": "A07",
+        "tips": "Ample skill, a steady heart, and successful execution.",
+        "map": "5130604",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5130604,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            9000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140801": {
+        "monster_level": 80,
+        "name": "Flyweight",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024510,
+        "background_1": "L01",
+        "tips": "What was that? Are you trying to tickle me? Additional Assist: Decreases enemies' Light RES and increases Tian Yuan Mods' Crit DMG.",
+        "map": "5140801",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140801,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            23000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140802": {
+        "monster_level": 80,
+        "name": "Bantamweight",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024511,
+        "background_1": "L02",
+        "tips": "MMA isn't about who's the loudest. Additional Assist: Decreases the Light RES of enemies and the DEF of all enemies hit by Light attacks.",
+        "map": "5140802",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140802,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            23000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140803": {
+        "monster_level": 80,
+        "name": "Featherweight",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024512,
+        "background_1": "L01a",
+        "tips": "MMA isn't about who's the loudest. Additional Assist: Decreases the Light RES of enemies and deals an additional round of DMG to all enemies hit by Light attacks.",
+        "map": "5140803",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140803,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            32500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140804": {
+        "monster_level": 80,
+        "name": "Heavyweight",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024513,
+        "background_1": "A07",
+        "tips": "Your challenge ends here. The competition is mine now.",
+        "map": "5140804",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5140804,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            9000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140901": {
+        "monster_level": 80,
+        "name": "Drug Tester",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024514,
+        "background_1": "L04",
+        "tips": "He only came here to get a hot meal. Additional Assist: Increases Tian Yuan Mods' Crit DMG.",
+        "map": "5140901",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140901,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            26000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140902": {
+        "monster_level": 80,
+        "name": "Byproduct",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024515,
+        "background_1": "L04a",
+        "tips": "Identical in composition, but graded differently nonetheless. Additional Assist: Increases Mods' Divine Grace gain rate.",
+        "map": "5140902",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140902,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            60000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140903": {
+        "monster_level": 80,
+        "name": "Assembly Line",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024516,
+        "background_1": "L03",
+        "tips": "Monotonous work repeated day after day. Perhaps assembly lines aren't just found in factories. Additional Assist: Deals an additional round of DMG after a Water attack hits.",
+        "map": "5140903",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140903,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            39000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140904": {
+        "monster_level": 80,
+        "name": "Suffering",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024517,
+        "background_1": "A07",
+        "tips": "What are people struggling through adversity best at? Creating gods from that adversity. ",
+        "map": "5140904",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5140904,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            9000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150401": {
+        "monster_level": 80,
+        "name": "Decisiveness",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024518,
+        "background_1": "K15",
+        "tips": "At an age that should be spent in play, her young hands were instead blistered from wielding a blade. Additional Assist: Enemies take more Thunder DMG.",
+        "map": "5150401",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5150401,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            126000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150402": {
+        "monster_level": 80,
+        "name": "Discipline",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024519,
+        "background_1": "K15",
+        "tips": "Her status as a Menkyo Kaiden did not make her prideful, and the monotonous training did not make her give up. Additional Assist: Modifier's Divine Grace gain rate is increased.",
+        "map": "5150402",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5150402,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            33500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150403": {
+        "monster_level": 80,
+        "name": "Restraint",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024520,
+        "background_1": "K15",
+        "tips": "As is always the case with genius, there was no shortage of admiration\u2014or of jealously and resentment, for that matter\u2014yet she was always courteous to every challenger. Additional Assist: Shinou Mods' DMG is increased and their attacks deal an extra round of DMG.",
+        "map": "5150403",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5150403,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            20000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150404": {
+        "monster_level": 80,
+        "name": "Kendo",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024521,
+        "background_1": "A07",
+        "tips": "No longer confused or empty, her heart was as tenacious as her sword, and her sword as swift and violent as lightning.",
+        "map": "5150404",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5150404,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            13000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150601": {
+        "monster_level": 80,
+        "name": "Atop the City Walls",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024522,
+        "background_1": "K14",
+        "tips": "They've taken up their duties at the utmost peril of the front line. Additional Assist: Enemies take more Thunder DMG.",
+        "map": "5150601",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5150601,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            105000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150602": {
+        "monster_level": 80,
+        "name": "In the Countryside",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024523,
+        "background_1": "K14",
+        "tips": "Of humble origins, they wield their swords for their families. Additional Assist: Modifier's Divine Grace gain rate is increased.",
+        "map": "5150602",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5150602,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            20500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150603": {
+        "monster_level": 80,
+        "name": "In the Streets",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024524,
+        "background_1": "K14",
+        "tips": "Never weak, they offer all the counsel and support they are capable of. Additional Assist: Nile Mods' DMG is increased and their attacks deal an extra round of DMG.",
+        "map": "5150603",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5150603,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            17000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150604": {
+        "monster_level": 80,
+        "name": "Shimogyou",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024525,
+        "background_1": "A07",
+        "tips": "The wild, the hungry, the ambitious, the dutiful, the sentimental, and the courageous... They're all here.",
+        "map": "5150604",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5150604,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170601": {
+        "monster_level": 80,
+        "name": "Shock",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024526,
+        "background_1": "I10",
+        "tips": "Mild tremors with a fairly low amount of Bane Energy detected. No casualties or loss of property. Additional assistance: The enemy takes more Physical DMG due to the effects of the environment.",
+        "map": "5170601",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5170601,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            55000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170602": {
+        "monster_level": 80,
+        "name": "Crack",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024527,
+        "background_1": "I08",
+        "tips": "A 6.33 by 2.09 rift between the Source Layer and the Surface Layer. This is a priority case and requires immediate action. Additional assistance: Mod obtains Energy more quickly due to the effects of the environment.",
+        "map": "5170602",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5170602,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            18000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170603": {
+        "monster_level": 80,
+        "name": "Collapse",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024528,
+        "background_1": "I10",
+        "tips": "Simulation structure has failed in certain areas and casualties have been reported. This is a priority case and requires immediate action. Additional assistance: Nile Modifiers deal more DMG as well as one extra round of DMG due to the effects of the environment.",
+        "map": "5170603",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5170603,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            14000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170604": {
+        "monster_level": 80,
+        "name": "Unknown",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024529,
+        "background_1": "A07",
+        "tips": "The result of erroneous information is that one becomes lost.",
+        "map": "5170604",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5170604,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170701": {
+        "monster_level": 80,
+        "name": "Shock",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024530,
+        "background_1": "A08",
+        "tips": "Mild tremors with a fairly low amount of Bane Energy detected. No casualties or loss of property. Additional assistance: The enemy takes more Light DMG due to the effects of the environment.",
+        "map": "5170701",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5170701,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            18000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170702": {
+        "monster_level": 80,
+        "name": "Crack",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024531,
+        "background_1": "A08",
+        "tips": "A 6.33 by 2.09 rift between the Source Layer and the Surface Layer. This is a priority case and requires immediate action. Additional assistance: Mod obtains Divine Grace more quickly due to the effects of the environment.",
+        "map": "5170702",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5170702,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            9000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170703": {
+        "monster_level": 80,
+        "name": "Collapse",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024532,
+        "background_1": "A08",
+        "tips": "Simulation structure has failed in certain areas and casualties have been reported. This is a priority case and requires immediate action. Additional assistance: Yggdrasill Mods deal more DMG and unleash an extra attack due to the effects of the environment.",
+        "map": "5170703",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5170703,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            10000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170704": {
+        "monster_level": 80,
+        "name": "Unknown",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024533,
+        "background_1": "A07",
+        "tips": "The result of erroneous information is that one becomes lost.",
+        "map": "5170704",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5170704,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            8600
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5180201": {
+        "monster_level": 80,
+        "name": "Shock",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024534,
+        "background_1": "I09",
+        "tips": "Mild tremors with a fairly low amount of Bane Energy detected. No casualties or loss of property. Additional assistance: The enemy takes more Shadow DMG due to the effects of the environment.",
+        "map": "5180201",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5180201,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            80000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5180202": {
+        "monster_level": 80,
+        "name": "Crack",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024535,
+        "background_1": "I09a",
+        "tips": "A 6.33 by 2.09 rift between the Source Layer and the Surface Layer. This is a priority case and requires immediate action. Additional assistance: Mod obtains Energy more quickly due to the effects of the environment.",
+        "map": "5180202",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5180202,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            20500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5180203": {
+        "monster_level": 80,
+        "name": "Collapse",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024536,
+        "background_1": "I09",
+        "tips": "Simulation structure has failed in certain areas and casualties have been reported. This is a priority case and requires immediate action. Additional assistance: Olympus Mods deal more DMG and unleash an extra attack due to the effects of the environment.",
+        "map": "5180203",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5180203,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            18500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5180204": {
+        "monster_level": 80,
+        "name": "Unknown",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024537,
+        "background_1": "A07",
+        "tips": "The result of erroneous information is that one becomes lost.",
+        "map": "5180204",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5180204,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "all": [
+        5130201,
+        5130202,
+        5130203,
+        5130204,
+        5130601,
+        5130602,
+        5130603,
+        5130604,
+        5140801,
+        5140802,
+        5140803,
+        5140804,
+        5140901,
+        5140902,
+        5140903,
+        5140904,
+        5150401,
+        5150402,
+        5150403,
+        5150404,
+        5150601,
+        5150602,
+        5150603,
+        5150604,
+        5170601,
+        5170602,
+        5170603,
+        5170604,
+        5170701,
+        5170702,
+        5170703,
+        5170704,
+        5180201,
+        5180202,
+        5180203,
+        5180204
+    ]
+}

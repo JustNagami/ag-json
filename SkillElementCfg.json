@@ -1,0 +1,74 @@
+{
+    "0": {
+        "id": 0,
+        "name": "Physical DMG",
+        "icon": "icon_physical",
+        "desc": ""
+    },
+    "2": {
+        "id": 2,
+        "name": "Wind DMG",
+        "icon": "icon_wind",
+        "desc": ""
+    },
+    "4": {
+        "id": 4,
+        "name": "Fire DMG",
+        "icon": "icon_fire",
+        "desc": ""
+    },
+    "6": {
+        "id": 6,
+        "name": "Ice DMG",
+        "icon": "icon_ice",
+        "desc": ""
+    },
+    "8": {
+        "id": 8,
+        "name": "Water DMG",
+        "icon": "icon_water",
+        "desc": ""
+    },
+    "10": {
+        "id": 10,
+        "name": "Shadow DMG",
+        "icon": "icon_dark",
+        "desc": ""
+    },
+    "12": {
+        "id": 12,
+        "name": "Light DMG",
+        "icon": "icon_light",
+        "desc": ""
+    },
+    "14": {
+        "id": 14,
+        "name": "Thunder DMG",
+        "icon": "icon_ray",
+        "desc": ""
+    },
+    "16": {
+        "id": 16,
+        "name": "None",
+        "icon": "",
+        "desc": ""
+    },
+    "18": {
+        "id": 18,
+        "name": "Mixed DMG",
+        "icon": "",
+        "desc": ""
+    },
+    "all": [
+        0,
+        2,
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18
+    ]
+}

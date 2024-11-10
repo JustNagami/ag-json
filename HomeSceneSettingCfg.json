@@ -1,0 +1,312 @@
+{
+    "6000": {
+        "obtain_word": "",
+        "unlock_description": "Unlocked by default",
+        "light_effect": "",
+        "title": "General Office",
+        "desc": "The working space of Aether Gazer's General Office, equipped with a highly efficient standard processing system.",
+        "scene_trial": 0,
+        "prefix": "",
+        "light_effect_delay": "",
+        "default_music": 0,
+        "id": 6000,
+        "limit_display": 1,
+        "impact": [
+            3
+        ],
+        "scene_tag": [
+            103
+        ],
+        "scene_setting": [],
+        "obtain_way": [],
+        "obtain_time": []
+    },
+    "6001": {
+        "obtain_word": "\t",
+        "unlock_description": "Obtain by participating in Banquet Invitation event",
+        "title": "Twilight Pearl",
+        "desc": "A premium business yacht that set Valleyrand Group back a pretty penny, it was later transferred to Aether Gazer and is often used for business negotiations.\n\n<color=#939393>Note: \"Lullaby, for a stranded heart\" is the recommended background music for this scene.\nYou can switch the soundtrack using the button below.</color>",
+        "scene_trial": 1,
+        "prefix": "X201",
+        "default_music": 53,
+        "id": 6001,
+        "limit_display": 1,
+        "impact": [],
+        "scene_tag": [
+            101,
+            102,
+            104
+        ],
+        "scene_setting": [
+            1,
+            3
+        ],
+        "obtain_way": [
+            2901,
+            182211
+        ],
+        "obtain_time": [
+            [
+                [
+                    2023,
+                    8,
+                    17
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2023,
+                    8,
+                    31
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ],
+        "light_effect_delay": [
+            [
+                0,
+                3,
+                2.8
+            ],
+            [
+                3.9,
+                0,
+                0
+            ],
+            [
+                6.3,
+                0,
+                0
+            ]
+        ],
+        "light_effect": [
+            "Effect/Scene/X201/fx_X201_scene_1",
+            "Effect/Scene/X201/fx_X201_scene_2",
+            "Effect/Scene/X201/fx_X201_scene_3"
+        ]
+    },
+    "6003": {
+        "obtain_word": "",
+        "unlock_description": "",
+        "light_effect": "",
+        "title": "VIP Care",
+        "desc": "After the first aid lecture ends, Kuninotokotachi has you remain in the ward.\n\"Looks like you could use a little one-on-one nursing demonstration. Shall I show you how it's done?\"",
+        "scene_trial": 0,
+        "prefix": "X301",
+        "light_effect_delay": "",
+        "default_music": 0,
+        "id": 6003,
+        "limit_display": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": [],
+        "obtain_time": []
+    },
+    "6004": {
+        "obtain_word": "",
+        "unlock_description": "",
+        "light_effect": "",
+        "title": "Lingguang Halloween DLC",
+        "desc": "After returning from a visit to an old tomb, Lingguang hopes you can stay a little while longer.\n\u2014\"You know... I'm only wearing this outfit for you. After tonight, it's going back in the closet... and it's staying there.\"",
+        "scene_trial": 0,
+        "prefix": "X302",
+        "light_effect_delay": "",
+        "default_music": 0,
+        "id": 6004,
+        "limit_display": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": [],
+        "obtain_time": []
+    },
+    "6005": {
+        "obtain_word": "",
+        "unlock_description": "",
+        "light_effect": "",
+        "title": "See You Again",
+        "desc": "After a fun day out, Zhiming seems somewhat reluctant to take you to the water's edge and fulfill the promise he just lost on the bet.\n\"Stay close to me... but not that close! Yes, that should be fine... Okay...\"",
+        "scene_trial": 0,
+        "prefix": "X303",
+        "light_effect_delay": "",
+        "default_music": 0,
+        "id": 6005,
+        "limit_display": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": [],
+        "obtain_time": []
+    },
+    "6006": {
+        "obtain_word": "",
+        "unlock_description": "",
+        "light_effect": "",
+        "title": "Untouchable",
+        "desc": "It's the trill of the phoenix flute, the shadows of the lanterns, your laughter as it rings out above the hustle and bustle of the city.\n\"I'm just tired\u2014it feels like you've been dragging me around all day. What is it you're expecting, exactly?\"",
+        "scene_trial": 0,
+        "prefix": "X304",
+        "light_effect_delay": "",
+        "default_music": 0,
+        "id": 6006,
+        "limit_display": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": [],
+        "obtain_time": []
+    },
+    "6007": {
+        "obtain_word": "",
+        "unlock_description": "",
+        "light_effect": "",
+        "title": "Courtyard Echoes",
+        "desc": "The afternoon sun, tipsy wind, and intoxicating fragrance of flowers. This piece is an unforgettable and poignant commemoration of us.",
+        "scene_trial": 0,
+        "prefix": "X305",
+        "light_effect_delay": "",
+        "default_music": 0,
+        "id": 6007,
+        "limit_display": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": [],
+        "obtain_time": []
+    },
+    "6008": {
+        "obtain_word": "",
+        "unlock_description": "",
+        "light_effect": "",
+        "title": "Have A Dance With Me?",
+        "desc": "This dance is just for you, Admin. The figure is graceful and smells faintly of orchids. It's hard to ascertain whether this is a moment of serenity, or just all a dream.",
+        "scene_trial": 0,
+        "prefix": "X307",
+        "light_effect_delay": "",
+        "default_music": 0,
+        "id": 6008,
+        "limit_display": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": [],
+        "obtain_time": []
+    },
+    "6009": {
+        "obtain_word": "",
+        "unlock_description": "",
+        "light_effect": "",
+        "title": "Time to Relax",
+        "desc": "The chance encounter in the elevator has shown people a different side to Gengchen. Maybe tailor-made clothes are never as good as we want them to be?",
+        "scene_trial": 0,
+        "prefix": "X306",
+        "light_effect_delay": "",
+        "default_music": 0,
+        "id": 6009,
+        "limit_display": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": [],
+        "obtain_time": []
+    },
+    "6010": {
+        "obtain_word": "",
+        "unlock_description": "",
+        "light_effect": "",
+        "title": "Moment of Panic",
+        "desc": "I'm always very organized with work, but for some reason I always make mistakes whenever you're nearby. I didn't know you panicked like that too.",
+        "scene_trial": 0,
+        "prefix": "X306a",
+        "light_effect_delay": "",
+        "default_music": 0,
+        "id": 6010,
+        "limit_display": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": [],
+        "obtain_time": []
+    },
+    "6011": {
+        "obtain_word": "",
+        "unlock_description": "",
+        "light_effect": "",
+        "title": "Sleepwalker",
+        "desc": "As night falls, Admin comes across a girl immersed in a sweet dream. In the silent twilight, the only thing that moves is time.",
+        "scene_trial": 0,
+        "prefix": "X308",
+        "light_effect_delay": "",
+        "default_music": 0,
+        "id": 6011,
+        "limit_display": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": [],
+        "obtain_time": []
+    },
+    "6013": {
+        "obtain_word": "",
+        "unlock_description": "",
+        "light_effect": "",
+        "title": "Gentle Echo",
+        "desc": "It's a scene Poseidon has always loved, and you're the only one she wants to share it with.\nLet's turn that summer into the best of memories.",
+        "scene_trial": 0,
+        "prefix": "X311",
+        "light_effect_delay": "",
+        "default_music": 0,
+        "id": 6013,
+        "limit_display": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": [],
+        "obtain_time": []
+    },
+    "6100": {
+        "obtain_word": "",
+        "unlock_description": "Unlocked by default",
+        "light_effect": "",
+        "title": "Command Center Lobby",
+        "desc": "The Aether Gazer Command Center Lobby is where Division Nine conducts its combat intel analysis and calculations, and it's here that the Admin often carries out preliminary operational planning.",
+        "scene_trial": 0,
+        "prefix": "X202",
+        "light_effect_delay": "",
+        "default_music": 201,
+        "id": 6100,
+        "limit_display": 1,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [
+            3
+        ],
+        "obtain_way": [],
+        "obtain_time": []
+    },
+    "all": [
+        6000,
+        6001,
+        6003,
+        6004,
+        6005,
+        6006,
+        6007,
+        6008,
+        6009,
+        6010,
+        6011,
+        6013,
+        6100
+    ]
+}

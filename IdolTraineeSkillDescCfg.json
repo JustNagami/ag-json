@@ -1,0 +1,316 @@
+{
+    "DEFAULT_JOIN": {
+        "pattern": "<color=#0></color>{0}{1}, {2}",
+        "format_str_key": "DEFAULT_JOIN",
+        "is_full_info": false
+    },
+    "DEFAULT_JOIN_NO_SUFFIX": {
+        "pattern": "<color=#0></color>{0}{1}",
+        "format_str_key": "DEFAULT_JOIN_NO_SUFFIX",
+        "is_full_info": false
+    },
+    "DEFAULT_JOIN_NO_PREFIX": {
+        "pattern": "<color=#0></color>{1}, {2}",
+        "format_str_key": "DEFAULT_JOIN_NO_PREFIX",
+        "is_full_info": false
+    },
+    "DEFAULT_PREFIX": {
+        "pattern": "{3}% chance",
+        "format_str_key": "DEFAULT_PREFIX",
+        "is_full_info": false
+    },
+    "DEFAULT_SUFFIX": {
+        "pattern": "Lasts for {5} round(s).",
+        "format_str_key": "DEFAULT_SUFFIX",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_POS_1": {
+        "pattern": "Increases {6} stat by {2}%.",
+        "format_str_key": "BUFF_EFFECT_POS_1",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_1": {
+        "pattern": "Reduces {6} stat by {2}%.",
+        "format_str_key": "BUFF_EFFECT_NEG_1",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_1": {
+        "pattern": "Increases {0}'s {6} stat by {2}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_1",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_1": {
+        "pattern": "Reduces {0}'s {6} stat by {2}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_1",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_1": {
+        "pattern": "Increases {0}'s {6} stat by {2}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_1",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_1": {
+        "pattern": "{0}'s {6} stat becomes {2}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_1",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_FULL_POS_1": {
+        "pattern": "After {4} rounds, {3}% chance that {0}'s {6} stat increases by {2}% for {5} round(s).",
+        "format_str_key": "BUFF_EFFECT_FULL_POS_1",
+        "is_full_info": true
+    },
+    "BUFF_EFFECT_FULL_NEG_1": {
+        "pattern": "After {4} rounds, {3}% chance that {0}'s {6} stat reduces by {2}% for {5} round(s).",
+        "format_str_key": "BUFF_EFFECT_FULL_NEG_1",
+        "is_full_info": true
+    },
+    "BUFF_EFFECT_POS_2": {
+        "pattern": "Increases {6} style move score by {2}%.",
+        "format_str_key": "BUFF_EFFECT_POS_2",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_2": {
+        "pattern": "Reduces {6} style move score by {2}%.",
+        "format_str_key": "BUFF_EFFECT_NEG_2",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_2": {
+        "pattern": "Increases {0}'s {6} style move score by {2}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_2",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_2": {
+        "pattern": "Reduces {0}'s {6} style move score by {2}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_2",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_2": {
+        "pattern": "Increases {0}'s {6} style move score by {2}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_2",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_2": {
+        "pattern": "Reduces {0}'s {6} style move score by {2}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_2",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_POS_3": {
+        "pattern": "Increases casting chance by {2}%.",
+        "format_str_key": "BUFF_EFFECT_POS_3",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_3": {
+        "pattern": "Reduces casting chance by {2}%.",
+        "format_str_key": "BUFF_EFFECT_NEG_3",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_3": {
+        "pattern": "Increases {0}'s casting chance by {2}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_3",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_3": {
+        "pattern": "Reduces {0}'s casting chance by {2}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_3",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_3": {
+        "pattern": "Increases {0}'s casting chance by {2}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_3",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_3": {
+        "pattern": "Reduces {0}'s casting chance by {2}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_3",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_POS_4": {
+        "pattern": "Increases move score by an extra {2}.",
+        "format_str_key": "BUFF_EFFECT_POS_4",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_4": {
+        "pattern": "Reduces move score by {2}.",
+        "format_str_key": "BUFF_EFFECT_NEG_4",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_4": {
+        "pattern": "Increases {0}'s move score by an extra {2}.",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_4",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_4": {
+        "pattern": "Reduces {0}'s move score by {2}.",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_4",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_4": {
+        "pattern": "Increases {0}'s move score by an extra {2} after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_4",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_4": {
+        "pattern": "Reduces {0}'s move score by {2} after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_4",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_POS_5": {
+        "pattern": "Increases move score by {2}%.",
+        "format_str_key": "BUFF_EFFECT_POS_5",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_5": {
+        "pattern": "Reduces move score by {2}%.",
+        "format_str_key": "BUFF_EFFECT_NEG_5",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_5": {
+        "pattern": "Increases {0}'s move score by {2}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_5",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_5": {
+        "pattern": "Reduces {0}'s move score by {2}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_5",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_5": {
+        "pattern": "Increases {0}'s move score by {2}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_5",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_5": {
+        "pattern": "Reduces {0}'s move score by {2}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_5",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_POS_6": {
+        "pattern": "Increases all stats by {2}%.",
+        "format_str_key": "BUFF_EFFECT_POS_6",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_6": {
+        "pattern": "Reduces all stats by {2}%.",
+        "format_str_key": "BUFF_EFFECT_NEG_6",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_6": {
+        "pattern": "Increases all of {0}'s stats by {2}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_6",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_6": {
+        "pattern": "Reduces all of {0}'s stats by {2}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_6",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_6": {
+        "pattern": "Increases all of {0}'s stats by {2}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_6",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_6": {
+        "pattern": "Reduces all of {0}'s stats by {2}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_6",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_POS_7": {
+        "pattern": "Increases all style move scores by {2}%.",
+        "format_str_key": "BUFF_EFFECT_POS_7",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_7": {
+        "pattern": "Reduces all style move scores by {2}%.",
+        "format_str_key": "BUFF_EFFECT_NEG_7",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_7": {
+        "pattern": "Increases all of {0}'s style move scores by {2}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_7",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_7": {
+        "pattern": "Reduces all of {0}'s style move scores by {2}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_7",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_7": {
+        "pattern": "Increases all of {0}'s style move scores by {2}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_7",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_7": {
+        "pattern": "Reduces all of {0}'s style move scores by {2}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_7",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_8": {
+        "pattern": "{6} stat becomes {1}% of its base value.",
+        "format_str_key": "BUFF_EFFECT_8",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_8": {
+        "pattern": "{0}'s {6} stat becomes {1}% of its base value.",
+        "format_str_key": "BUFF_EFFECT_ROUND_8",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_8": {
+        "pattern": "{0}'s {6} stat becomes {1}% of its base value after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_8",
+        "is_full_info": false
+    },
+    "all": [
+        "DEFAULT_JOIN",
+        "DEFAULT_JOIN_NO_SUFFIX",
+        "DEFAULT_JOIN_NO_PREFIX",
+        "DEFAULT_PREFIX",
+        "DEFAULT_SUFFIX",
+        "BUFF_EFFECT_POS_1",
+        "BUFF_EFFECT_NEG_1",
+        "BUFF_EFFECT_ROUND_POS_1",
+        "BUFF_EFFECT_ROUND_NEG_1",
+        "BUFF_EFFECT_DELAY_ROUND_POS_1",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_1",
+        "BUFF_EFFECT_FULL_POS_1",
+        "BUFF_EFFECT_FULL_NEG_1",
+        "BUFF_EFFECT_POS_2",
+        "BUFF_EFFECT_NEG_2",
+        "BUFF_EFFECT_ROUND_POS_2",
+        "BUFF_EFFECT_ROUND_NEG_2",
+        "BUFF_EFFECT_DELAY_ROUND_POS_2",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_2",
+        "BUFF_EFFECT_POS_3",
+        "BUFF_EFFECT_NEG_3",
+        "BUFF_EFFECT_ROUND_POS_3",
+        "BUFF_EFFECT_ROUND_NEG_3",
+        "BUFF_EFFECT_DELAY_ROUND_POS_3",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_3",
+        "BUFF_EFFECT_POS_4",
+        "BUFF_EFFECT_NEG_4",
+        "BUFF_EFFECT_ROUND_POS_4",
+        "BUFF_EFFECT_ROUND_NEG_4",
+        "BUFF_EFFECT_DELAY_ROUND_POS_4",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_4",
+        "BUFF_EFFECT_POS_5",
+        "BUFF_EFFECT_NEG_5",
+        "BUFF_EFFECT_ROUND_POS_5",
+        "BUFF_EFFECT_ROUND_NEG_5",
+        "BUFF_EFFECT_DELAY_ROUND_POS_5",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_5",
+        "BUFF_EFFECT_POS_6",
+        "BUFF_EFFECT_NEG_6",
+        "BUFF_EFFECT_ROUND_POS_6",
+        "BUFF_EFFECT_ROUND_NEG_6",
+        "BUFF_EFFECT_DELAY_ROUND_POS_6",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_6",
+        "BUFF_EFFECT_POS_7",
+        "BUFF_EFFECT_NEG_7",
+        "BUFF_EFFECT_ROUND_POS_7",
+        "BUFF_EFFECT_ROUND_NEG_7",
+        "BUFF_EFFECT_DELAY_ROUND_POS_7",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_7",
+        "BUFF_EFFECT_8",
+        "BUFF_EFFECT_ROUND_8",
+        "BUFF_EFFECT_DELAY_ROUND_8"
+    ]
+}

@@ -1,0 +1,2778 @@
+{
+    "3060001": {
+        "monster_level": 80,
+        "name": "Data Error - Minor",
+        "ai_level": 4,
+        "tips": "Target: Aphixbane\nRisk Level: Medium\n----------------------------\nVisbane with sharp steel claws, attacking in a very wild way.\nIt has no intelligence and acts entirely on instinct.",
+        "map": "3060001",
+        "need_default_team": 1,
+        "id": 3060001,
+        "attribute_factor": [
+            1000,
+            1000,
+            20350
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060002": {
+        "monster_level": 80,
+        "name": "Data Error - Normal",
+        "ai_level": 4,
+        "tips": "Target: Warbane\nRisk Level: High\n----------------------------\nA common medium to large-sized Visbane, wielding a sword and shield made of unknown material.\nIt is very agile and usually dodges attacks in unbelievable ways.",
+        "map": "3060002",
+        "need_default_team": 1,
+        "id": 3060002,
+        "attribute_factor": [
+            1000,
+            1000,
+            20350
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060003": {
+        "monster_level": 80,
+        "name": "Data Error - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Haagenti\nRisk Level: High\n----------------------------\nA special individual entity formed as a result of the massive engulfment of Source Layer material by the Visbane.\nIt possesses destructive power that exceeds that of ordinary Visbanes.\nIt poses a tremendous threat and is the prime target for elimination.",
+        "map": "3060003",
+        "need_default_team": 1,
+        "id": 3060003,
+        "attribute_factor": [
+            1000,
+            1000,
+            20350
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060004": {
+        "monster_level": 80,
+        "name": "Parameter Error - Minor",
+        "ai_level": 4,
+        "tips": "Target: Aphixbane\nRisk Level: Medium\n----------------------------\nVisbane with sharp steel claws, attacking in a very wild way.\nIt has no intelligence and acts entirely on instinct.",
+        "map": "3060004",
+        "need_default_team": 1,
+        "id": 3060004,
+        "attribute_factor": [
+            1000,
+            1000,
+            10175
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060005": {
+        "monster_level": 80,
+        "name": "Parameter Error - Minor",
+        "ai_level": 4,
+        "tips": "Target: Purifier Cluster\nRisk Level: Medium\n----------------------------\nOnly the experienced team of Modifiers can have the upper hand against the Purifiers.\nThey are good at sneak attacks. Don't be careless when fighting with them.",
+        "map": "3060005",
+        "need_default_team": 1,
+        "id": 3060005,
+        "attribute_factor": [
+            1000,
+            1000,
+            13635
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060006": {
+        "monster_level": 80,
+        "name": "Parameter Error - Normal",
+        "ai_level": 4,
+        "tips": "Target: Pilgrim Cluster\nRisk Level: High\n----------------------------\nVisbanes that move in the air and often attack from a long distance.\nThey are difficult to be eliminated, so don't spend too much time on them!",
+        "map": "3060006",
+        "need_default_team": 1,
+        "id": 3060006,
+        "attribute_factor": [
+            1000,
+            1000,
+            13635
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060101": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "The second in command of Children of Iron.\nStrong physique.\nStill capable of running over 10 miles after hours of continuous combat.",
+        "map": "3060101",
+        "need_default_team": 1,
+        "id": 3060101,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060102": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "A cool woman in a tight leather jacket.\nShe's good at raiding the target from behind.",
+        "map": "3060102",
+        "need_default_team": 1,
+        "id": 3060102,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060103": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "The best and strongest security guard of Children of Iron.\n<color=#00c7c7>Increases Fire DMG by 25%.</color>\n<color=#00c7c7>Increases DMG dealt by Melee Mods by 15%.</color>",
+        "map": "3060103",
+        "need_default_team": 1,
+        "id": 3060103,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060104": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "The guard of Miyahebi family.\nIt is much more flexible than normal humanoid Visbanes.",
+        "map": "3060104",
+        "need_default_team": 1,
+        "id": 3060104,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060105": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "The guard leader of Miyahebi family.\nIt is much taller and more well-built than normal humanoid Visbanes.",
+        "map": "3060105",
+        "need_default_team": 1,
+        "id": 3060105,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060106": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "<color=#dd0000>It has very good defense ability.</color>\n<color=#00c7c7>Increases Divine Grace charge speed by 25%.</color>\n<color=#00c7c7>Increases all team members' Crit Rate by 25% in Modified Mode.</color>",
+        "map": "3060106",
+        "need_default_team": 1,
+        "id": 3060106,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060107": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "The deadly, vagabond boxer.\nFormer King of the Ring in an underground boxing arena.\nEnormously powerful when he goes for an all-out attack.",
+        "map": "3060107",
+        "need_default_team": 1,
+        "id": 3060107,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060108": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "A bipedal combat vehicle with standard military armor.\nCapable of showering enemies with a hail of firepower.",
+        "map": "3060108",
+        "need_default_team": 1,
+        "id": 3060108,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060109": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Military AGI Mecha with the most advanced new power structure.\n<color=#00c7c7>Increases all team members' Crit DMG by 50% in Zero Time.</color>\n<color=#00c7c7>Grants 30% DMG Reduction to the whole team for 5s when exiting Zero Time.</color>",
+        "map": "3060109",
+        "need_default_team": 1,
+        "id": 3060109,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060110": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Special Visbanial AGI Mecha that has been corrupted by Bane Energy. Manic and uncontrollable.\n<color=#00c7c7>Increases Fire DMG by 25%.</color>\n<color=#00c7c7>Increases Skill DMG of Trace Mods by 25%.</color>\n<color=#00c7c7>Increases Skill DMG of Divine Grace Mods by 25%.</color>",
+        "map": "3060110",
+        "need_default_team": 1,
+        "id": 3060110,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060201": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha - Battlefield\nRisk Level: Medium\n----------------------------\nHas amazing compatibility and maneuverability.\nBut its firepower per unit of time is not a quarter as good as that of its counterparts.\nIt cannot launch ranged attacks.",
+        "map": "3060201",
+        "need_default_team": 1,
+        "id": 3060201,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060202": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: Constructs\nRisk Level: High\n----------------------------\nThree basic AGI Mechas, all of which were not strong when fought individually, underwent a fundamental change after combining with each other.\nIt is said that this way of combination comes from the technology of a distant civilization.",
+        "map": "3060202",
+        "need_default_team": 1,
+        "id": 3060202,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060203": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Kusherfang\nRisk Level: High\n----------------------------\nPerfect creation of Halphas. It has a lot of energy in it.\n<color=#00c7c7>Takes 25% more Wind DMG.</color>\n<color=#00c7c7>Divine Grace Mods deal 25% more Skill DMG.</color>",
+        "map": "3060203",
+        "need_default_team": 1,
+        "id": 3060203,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060204": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Metabane\nRisk Level: High\n----------------------------\nHas strong maneuverability, often surrounded by small Visbanes.\nWeaker defense compared to Visbane of the same size.",
+        "map": "3060204",
+        "need_default_team": 1,
+        "id": 3060204,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060205": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Warbane\nRisk Level: High\n----------------------------\nA common medium to large-sized Visbane, wielding a sword and shield made of unknown material.\nIt is very agile and usually dodges attacks in unbelievable ways.",
+        "map": "3060205",
+        "need_default_team": 1,
+        "id": 3060205,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060206": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "Target: Haagenti\nRisk Level: High\n----------------------------\nHuge in size, but with obvious weaknesses.\n<color=#00c7c7>Takes 50% more Wind DMG.</color>\n<color=#00c7c7>Takes 50% more Thunder DMG.</color>",
+        "map": "3060206",
+        "need_default_team": 1,
+        "id": 3060206,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060207": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Pilgrim Cluster\nRisk Level: High\n----------------------------\nVisbanes that move in the air and often attack from a long distance.\nThey are difficult to be eliminated, so don't spend too much time on them!",
+        "map": "3060207",
+        "need_default_team": 1,
+        "id": 3060207,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060208": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Purifier Cluster\nRisk Level: High\n----------------------------\nOnly the experienced team of Modifiers can have the upper hand against the Purifiers.\nThey are good at sneak attacks. Don't be careless when fighting with them.",
+        "map": "3060208",
+        "need_default_team": 1,
+        "id": 3060208,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060209": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Minotaur\nRisk Level: Very High\n----------------------------\nHas strong and flexible body that can be adapted to a variety of combat environments.\n<color=#F1C40F>Stuns the team leader for 3s upon hit within 60 seconds after battle start.</color>\n<color=#F1C40F>Hardens exoskeleton and increases DEF after 60 seconds after battle start.</color>",
+        "map": "3060209",
+        "need_default_team": 1,
+        "id": 3060209,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060210": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Uld\nRisk Level: Extremely High\n----------------------------\n<color=#00c7c7>Takes 25% more Thunder DMG.</color>\n<color=#00c7c7>Tian Yuan Mods deal 25% more DMG.</color>\n<color=#00c7c7>Divine Grace Mods deal 25% more Skill DMG.</color>",
+        "map": "3060210",
+        "need_default_team": 1,
+        "id": 3060210,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060301": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha - Battlefield\nRisk Level: Medium\n----------------------------\nHas amazing compatibility and maneuverability.\nBut its firepower per unit of time is not a quarter as good as that of its counterparts.\nIt cannot launch ranged attacks.",
+        "map": "3060301",
+        "need_default_team": 1,
+        "id": 3060301,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060302": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: Constructs\nRisk Level: High\n----------------------------\nThree basic AGI Mechas, all of which were not strong when fought individually, underwent a fundamental change after combining with each other.\nIt is said that this way of combination comes from the technology of a distant civilization.",
+        "map": "3060302",
+        "need_default_team": 1,
+        "id": 3060302,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060303": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Zero One\nRisk Level: High\n----------------------------\nA powerful adversary capable of attacking even in the direst situations.\n<color=#00c7c7>Takes 25% more Water DMG.</color>\n<color=#00c7c7>Reduced DEF in Modified Mode.</color>",
+        "map": "3060303",
+        "need_default_team": 1,
+        "id": 3060303,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060304": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Tall Wall\nRisk Level: High\n----------------------------\nThe best and strongest member of COI security team.\nHeavily armed with a frightening amount of firepower.",
+        "map": "3060304",
+        "need_default_team": 1,
+        "id": 3060304,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060305": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Constructs\nRisk Level: High\n----------------------------\nThree basic AGI Mechas, all of which were not strong when fought individually, underwent a fundamental change after combining with each other.\nIt is said that this way of combination comes from the technology of a distant civilization.",
+        "map": "3060305",
+        "need_default_team": 1,
+        "id": 3060305,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060306": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "Target: Olheim\nRisk Level: High\n----------------------------\nPerformance is two \u03c3 above average in most assessment indicators.\n<color=#00c7c7>Takes 50% more Water DMG.</color>\n<color=#F1C40F>Takes 75% more DMG from shielded Modifiers.</color>",
+        "map": "3060306",
+        "need_default_team": 1,
+        "id": 3060306,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060307": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Olheim\nRisk Level: High\n----------------------------\nA former thug who'd hang around a Core City bar, with zero professional military training.\nAn expert in close combat, high endurance, unlikely to go down without a fight.",
+        "map": "3060307",
+        "need_default_team": 1,
+        "id": 3060307,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060308": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Zero One\nRisk Level: High\n----------------------------\nThe result of bionic modification, and gifted with extraordinary mobility.\nProficient in the use of traps, blackmail, daggers and silencers.",
+        "map": "3060308",
+        "need_default_team": 1,
+        "id": 3060308,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060309": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Ethan\nRisk Level: Very High\n----------------------------\n<color=#F1C40F>Rarely enters Modified Mode.</color>\n<color=#F1C40F>Powerful attacks capable of inflicting massive damage to team leaders.</color>\n<color=#F1C40F>Reduces target's Dodge Energy by 60% upon hit.</color>",
+        "map": "3060309",
+        "need_default_team": 1,
+        "id": 3060309,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060310": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Ethan (Katana form)\nRisk Level: Extremely High\n----------------------------\n<color=#00c7c7>Takes 25% more Water DMG.</color>\n<color=#00c7c7>Rage Mods deal 25% more Skill DMG.</color>\n<color=#00c7c7>Takes a small amount of additional DMG if hit while already in Knockup.</color>",
+        "map": "3060310",
+        "need_default_team": 1,
+        "id": 3060310,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060401": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: Metabane\nRisk Level: Medium\n----------------------------\nHas strong maneuverability, often surrounded by small Visbanes.\nWeaker defense compared to Visbane of the same size.",
+        "map": "3060401",
+        "need_default_team": 1,
+        "id": 3060401,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060402": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: Warbane\nRisk Level: High\n----------------------------\nA common medium to large-sized Visbane, wielding a sword and shield made of unknown material.\nIt is very agile and usually dodges attacks in unbelievable ways.",
+        "map": "3060402",
+        "need_default_team": 1,
+        "id": 3060402,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060403": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Blackquartz\nRisk Level: High\n----------------------------\n<color=#00c7c7>Enters Modified Mode easier than usual.</color>\n<color=#00c7c7>Takes 50% more Wind and Thunder DMG.</color>\n<color=#F1C40F>High HP due to the Visbane data implanted in its quartz.</color>",
+        "map": "3060403",
+        "need_default_team": 1,
+        "id": 3060403,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060404": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: The Monk\nRisk Level: High\n----------------------------\nRemains relatively aware despite the Visbanial corruption, and can deftly manipulate data steams to attack enemies, forge shields and summon low-level Visbanes.\nPhysical structure is weak and ill-suited to close-quarters combat.",
+        "map": "3060404",
+        "need_default_team": 1,
+        "id": 3060404,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060405": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Orochi\nRisk Level: High\n----------------------------\nA master in the use of multiple katanas, and able to launch a tidal wave of attacks.\nLikes to toy with her prey, and has the ability to summon Visbane snakes.",
+        "map": "3060405",
+        "need_default_team": 1,
+        "id": 3060405,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060406": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "Target: Squire\nRisk Level: High\n----------------------------\n<color=#F1C40F>Rarely enters Modified Mode.</color>\n<color=#F1C40F>Powerful attacks capable of inflicting massive damage to team leaders.</color>",
+        "map": "3060406",
+        "need_default_team": 1,
+        "id": 3060406,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060407": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Warbane\nRisk Level: High\n----------------------------\nA common medium to large-sized Visbane, wielding a sword and shield made of unknown material.\nIt is very agile and usually dodges attacks in unbelievable ways.",
+        "map": "3060407",
+        "need_default_team": 1,
+        "id": 3060407,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060408": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: The Singer\nRisk Level: High\n----------------------------\nExtremely flexible, and can stop enemies in their tracks with her beautiful singing voice.\nAccompanied by a whale who often assists her in battle.",
+        "map": "3060408",
+        "need_default_team": 1,
+        "id": 3060408,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060409": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: The General\nRisk Level: Very High\n----------------------------\nA terrifying opponent who has merged his body with the Visbanes.\n<color=#F1C40F>Stuns the team leader for 3s upon hit within 60 seconds after battle start.</color>\n<color=#F1C40F>After 60 seconds in battle, his final DMG is increased by 75%.</color>",
+        "map": "3060409",
+        "need_default_team": 1,
+        "id": 3060409,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060410": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: The Strategist\nRisk Level: Extremely High\n----------------------------\n<color=#00c7c7>Takes 25% more Thunder DMG.</color>\n<color=#00c7c7>Takes 25% more Wind DMG.</color>\n<color=#00c7c7>Tian Yuan Mods deal 25% more DMG.</color>",
+        "map": "3060410",
+        "need_default_team": 1,
+        "id": 3060410,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060501": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: Blackquartz\nRisk Level: Medium\n----------------------------\nThe result of Visbanes corroding its quartz core, its weighty attacks can be quite destructive.\nIt may move slowly, but it's no less dangerous than a Behemoth Visbane.",
+        "map": "3060501",
+        "need_default_team": 1,
+        "id": 3060501,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060502": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: Root of Suffering\nRisk Level: High\n----------------------------\nA special Heterization Visbane created by some unknown power, with a roughly humanoid body and oversized joints.\nIts wings are both highly damaging and highly toxic.",
+        "map": "3060502",
+        "need_default_team": 1,
+        "id": 3060502,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060503": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha <Smoldering Guardian>\nRisk Level: High\n----------------------------\n<color=#00c7c7>Takes 25% more Wind DMG.</color>\n<color=#00c7c7>Tian Yuan Mods deal 25% more DMG.</color>",
+        "map": "3060503",
+        "need_default_team": 1,
+        "id": 3060503,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060504": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Duelist\nRisk Level: High\n----------------------------\nThe deadly, vagabond boxer\nFormer King of the Ring in an underground boxing arena.\nEnormously powerful when he goes for an all-out attack.",
+        "map": "3060504",
+        "need_default_team": 1,
+        "id": 3060504,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060505": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Metabane\nRisk Level: High\n----------------------------\nHas strong maneuverability, often surrounded by small Visbanes.\nWeaker defense compared to Visbane of the same size.",
+        "map": "3060505",
+        "need_default_team": 1,
+        "id": 3060505,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060506": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha <Auto Armor>\nRisk Level: High\n----------------------------\nA bipedal combat vehicle with standard military armor, capable of showering enemies with a hail of firepower.\n<color=#F1C40F>Non-Crit DMG taken is reduced by 25%.</color>",
+        "map": "3060506",
+        "need_default_team": 1,
+        "id": 3060506,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060507": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha <Minotaur Statue>\nRisk Level: High\n----------------------------\nA strong and flexible body.\nCan adapt to different combat environments, and has considerable destructive power.",
+        "map": "3060507",
+        "need_default_team": 1,
+        "id": 3060507,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060508": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Dance Partner\nRisk Level: High\n----------------------------\nIn contrast to its graceful appearance, it is capable of a wide range of powerful attacks.",
+        "map": "3060508",
+        "need_default_team": 1,
+        "id": 3060508,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060509": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Encroacher <Purifier>\nRisk Level: Very High\n----------------------------\n<color=#F1C40F>DEF is boosted for the first 60 seconds of battle.</color>\n<color=#F1C40F>After 60 seconds, its weapons are enhanced and deal 200% more DMG to team leaders.</color>",
+        "map": "3060509",
+        "need_default_team": 1,
+        "id": 3060509,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060510": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Ladon\nRisk Level: Extremely High\n----------------------------\n<color=#00c7c7>Takes 25% more Wind DMG.</color>\n<color=#00c7c7>Tian Yuan Mods deal 25% more DMG.</color>\n<color=#00c7c7>Divine Grace Mods deal 25% more Skill DMG.</color>",
+        "map": "3060510",
+        "need_default_team": 1,
+        "id": 3060510,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060601": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha Z-03 <Battlefield>\nRisk Level: Medium\n----------------------------\nHas amazing compatibility and maneuverability.\nBut its firepower per unit of time is not a quarter as good as that of its counterparts.\nIt cannot launch ranged attacks.",
+        "map": "3060601",
+        "need_default_team": 1,
+        "id": 3060601,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060602": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: Olheim\nRisk Level: High\n----------------------------\nPerformance is two \u03c3 above average in most assessment indicators.\nStrong physique.\nStill capable of running over 10 miles after hours of continuous combat.",
+        "map": "3060602",
+        "need_default_team": 1,
+        "id": 3060602,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060603": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha A-01 <Constructs>\nRisk Level: High\n----------------------------\n<color=#00c7c7>Takes 25% more Ice DMG.</color>\n<color=#00c7c7>Yggdrasill Mods deal 25% more DMG.</color>",
+        "map": "3060603",
+        "need_default_team": 1,
+        "id": 3060603,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060604": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Metabane\nRisk Level: High\n----------------------------\nHas strong maneuverability, often surrounded by small Visbanes.\nWeaker defense compared to Visbane of the same size.",
+        "map": "3060604",
+        "need_default_team": 1,
+        "id": 3060604,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060605": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Encroacher <Pilgrim>\nRisk Level: High\n----------------------------\nOnly experienced Modifier teams stand a chance against the Pilgrim.\nExcels at sneak attacks, so don't let your guard down.",
+        "map": "3060605",
+        "need_default_team": 1,
+        "id": 3060605,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060606": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "Target: Blackquartz\nRisk Level: High\n----------------------------\n<color=#F1C40F>Recovers 1% of current HP every 3s.\nStops recovering HP when in Freeze.</color>",
+        "map": "3060606",
+        "need_default_team": 1,
+        "id": 3060606,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060607": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Tall Wall\nRisk Level: High\n----------------------------\nThe best and strongest member of COI security team.\nHeavily armed with a frightening amount of firepower.",
+        "map": "3060607",
+        "need_default_team": 1,
+        "id": 3060607,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060608": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Zero One\nRisk Level: High\n----------------------------\nAn icy assassin who excels at stealth-based combat.",
+        "map": "3060608",
+        "need_default_team": 1,
+        "id": 3060608,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060609": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Kusherfang\nRisk Level: Very High\n----------------------------\nCapable of decimate the entire battlefield.\n<color=#F1C40F>Its DEF and DMG dealt to team leaders both gradually increase over time, although this effect resets if Kusherfang is inflicted with Freeze.</color>",
+        "map": "3060609",
+        "need_default_team": 1,
+        "id": 3060609,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060610": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Halphas\nRisk Level: Extremely High\n----------------------------\n<color=#00c7c7>Takes 25% more Ice DMG.</color>\n<color=#00c7c7>Yggdrasill Mods deal 25% more DMG.</color>\n<color=#00c7c7>Modifiers' Divine Grace charge speed is increased by 50%.</color>",
+        "map": "3060610",
+        "need_default_team": 1,
+        "id": 3060610,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060701": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: Root of Suffering\nRisk Level: Medium\n----------------------------\nA special Heterization Visbane created by some unknown power, with a roughly humanoid body and oversized joints.\nIts wings are both highly damaging and highly toxic.",
+        "map": "3060701",
+        "need_default_team": 1,
+        "id": 3060701,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060702": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: Blackquartz\nRisk Level: High\n----------------------------\nThe result of Visbanes corroding its quartz core, its weighty attacks can be quite destructive.\nIt may move slowly, but it's no less dangerous than a Behemoth Visbane.",
+        "map": "3060702",
+        "need_default_team": 1,
+        "id": 3060702,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060703": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Warbane\nRisk Level: High\n----------------------------\n<color=#00c7c7>Takes 25% more Ice DMG.</color>\n<color=#00c7c7>Shinou Mods deal 25% more DMG.</color>",
+        "map": "3060703",
+        "need_default_team": 1,
+        "id": 3060703,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060704": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Dance Partner\nRisk Level: High\n----------------------------\nIn contrast to its graceful appearance, it is capable of a wide range of powerful attacks.",
+        "map": "3060704",
+        "need_default_team": 1,
+        "id": 3060704,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060705": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Pilgrim Cluster\nRisk Level: High\n----------------------------\nVisbanes that move in the air and often attack from a long distance.\nThey are difficult to be eliminated, so don't spend too much time on them!",
+        "map": "3060705",
+        "need_default_team": 1,
+        "id": 3060705,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060706": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "Target: Minotaur Statue\nRisk Level: High\n----------------------------\n<color=#F1C40F>DEF is increased by 225% when it hits a team leader.</color>\n<color=#F1C40F>Gains Super Armor when its HP is below 30%.</color>",
+        "map": "3060706",
+        "need_default_team": 1,
+        "id": 3060706,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060707": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Duelist\nRisk Level: High\n----------------------------\nThe deadly, vagabond boxer\nFormer King of the Ring in an underground boxing arena.\nEnormously powerful when he goes for an all-out attack.",
+        "map": "3060707",
+        "need_default_team": 1,
+        "id": 3060707,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060708": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Auto Armor\nRisk Level: High\n----------------------------\nA bipedal combat vehicle with standard military armor.\nCapable of showering enemies with a hail of firepower.",
+        "map": "3060708",
+        "need_default_team": 1,
+        "id": 3060708,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060709": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Athena\nRisk Level: Very High\n----------------------------\nA high-risk entity formed by a space-time distortion after a corruption error involving Modifier data.\n<color=#F1C40F>Deals 25% more DMG after hitting a team leader.</color>",
+        "map": "3060709",
+        "need_default_team": 1,
+        "id": 3060709,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060710": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Athena (Greatsword form)\nRisk Level: Extremely High\n----------------------------\n<color=#00c7c7>Takes 25% more Ice DMG.</color>\n<color=#00c7c7>Shinou Mods deal 25% more DMG.</color>\n<color=#00c7c7>Rage Mods deal 25% more Skill DMG.</color>",
+        "map": "3060710",
+        "need_default_team": 1,
+        "id": 3060710,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060801": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: Visbeast (Ranged)\nRisk Level: Medium\n----------------------------\nThe Bestial Visbane, created through Bane corruption, is a relatively unintelligent creature. However, it poses a significant threat when in a group.",
+        "map": "3060801",
+        "need_default_team": 1,
+        "id": 3060801,
+        "attribute_factor": [
+            1000,
+            1000,
+            73260
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060802": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: Visbeast (Reptile)\nRisk Level: High\n----------------------------\nThe Bestial Visbane, created through Bane corruption, is a relatively unintelligent creature. However, it poses a significant threat when in a group.",
+        "map": "3060802",
+        "need_default_team": 1,
+        "id": 3060802,
+        "attribute_factor": [
+            1000,
+            1000,
+            73260
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060803": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Metabane\nRisk Level: High\n----------------------------\nFormed by the coming together of a certain number of Encroacher Types. Can in turn create clones and launch strange energy attacks which are quite dangerous.\n<color=#00c7c7>Shinou Mods deal 50% more DMG.</color>",
+        "map": "3060803",
+        "need_default_team": 1,
+        "id": 3060803,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060804": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Deer God Follower <Zealot>\nRisk Level: High\n----------------------------\nA cultist who wears a long robe and hides their face under a hood. Usually mumbles mysterious prayers under their breath.",
+        "map": "3060804",
+        "need_default_team": 1,
+        "id": 3060804,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060805": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: ET <Belial - Eerie>\nRisk Level: High\n----------------------------\nA Visbane variant that appears in Gen-Zone ruins, it mutated after absorbing energy from the Gen-zone ruins.",
+        "map": "3060805",
+        "need_default_team": 1,
+        "id": 3060805,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060806": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "Target: Zealot - Firewalker\nRisk Level: High\n----------------------------\nComes up with various secret plans and uses the Bane Energy in the flag during battle to launch magic attacks on the enemy.\n<color=#F1C40F>Takes 40% less Non-Crit DMG when not in Modified Mode.</color>",
+        "map": "3060806",
+        "need_default_team": 1,
+        "id": 3060806,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060807": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Visbeast (Melee)\nRisk Level: High\n----------------------------\nThe Bestial Visbane, created through Bane corruption, is a relatively unintelligent creature. However, it poses a significant threat when in a group.",
+        "map": "3060807",
+        "need_default_team": 1,
+        "id": 3060807,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060808": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: ET <Andras - Hater>\nRisk Level: High\n----------------------------\nA Visbane variant that appears in Gen-Zone ruins. It can launch even stronger attacks at long range, and is additionally capable of deeper levels of thought.",
+        "map": "3060808",
+        "need_default_team": 1,
+        "id": 3060808,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060809": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Warbane\nRisk Level: Very High\n----------------------------\n<color=#F1C40F>After taking DMG from the team leader, its RES to the attribute in question increases by 50% for 20s. Only one type of Attribute RES can be boosted at any time, and boost has a 10s CD.</color>",
+        "map": "3060809",
+        "need_default_team": 1,
+        "id": 3060809,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060810": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Purifier\nRisk Level: Extremely High\n----------------------------\n<color=#00c7c7>Takes 25% more Physical DMG.</color>\n<color=#00c7c7>Shinou Mods deal 25% more DMG.</color>\n<color=#00c7c7>Divine Grace Mods deal 25% more Skill DMG.</color>",
+        "map": "3060810",
+        "need_default_team": 1,
+        "id": 3060810,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060901": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: BST <Mountaineer>\nRisk Level: Medium\n----------------------------\nA Beast Type Visbane discovered in Xu Heng after the Cloudsong Crisis, this specialized variant emerged in response to the environmental conditions created by Cloudsong Ore. It's adept at combining lunge strikes with high-temperature flame spurts. ",
+        "map": "3060901",
+        "need_default_team": 1,
+        "id": 3060901,
+        "attribute_factor": [
+            1000,
+            1000,
+            73260
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060902": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: BST <Spiker>\nRisk Level: High\n----------------------------\nA Beast Type Visbane discovered in Xu Heng after the Cloudsong Crisis, this specialized variant emerged in response to the environmental conditions created by Cloudsong Ore. It's adept at employing a combination of lightning and leaping strikes as offense. ",
+        "map": "3060902",
+        "need_default_team": 1,
+        "id": 3060902,
+        "attribute_factor": [
+            1000,
+            1000,
+            73260
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060903": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "Target: HT <Root of Suffering>\nRisk Level: High\n----------------------------\nA special Heterization Visbane created by some unknown power, with a roughly humanoid body and oversized joints.\n<color=#00c7c7>Shinou Mods deal 50% more DMG.</color> ",
+        "map": "3060903",
+        "need_default_team": 1,
+        "id": 3060903,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060904": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha <Repair Probe>\nRisk Level: High\n----------------------------\nAn AGI Mecha used in surface exploration. Outfitted with electric cannons to secure the facilities, it will deliver an electrical shock to intruders as a warning. ",
+        "map": "3060904",
+        "need_default_team": 1,
+        "id": 3060904,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060905": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Belial\nRisk Level: High\n----------------------------\nA species formed after a human being was fully corrupted by a Visbane that entered the Surface Layer through a rift.\nIt uses a cudgel-like weapon in close-range attacks and is capable of simple thought, making it somewhat of a threat. ",
+        "map": "3060905",
+        "need_default_team": 1,
+        "id": 3060905,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060906": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "Target: PLMT <Cyan Orchid>\nRisk Level: High\n----------------------------\nA specialized Polymerized Type variant that emerged in response to the environmental conditions created by Cloudsong Ore. It's adept at attacking using a combination of bladework and Bane Energy.\n<color=#F1C40F>Recovers 1% of Max HP every 3s.\nStops recovering health when in Freeze.</color> ",
+        "map": "3060906",
+        "need_default_team": 1,
+        "id": 3060906,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060907": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: BST <Mountaineer>\nRisk Level: High\n----------------------------\nA Beast Type Visbane discovered in Xu Heng after the Cloudsong Crisis, this specialized variant emerged in response to the environmental conditions created by Cloudsong Ore. It's adept at combining lunge strikes with high-temperature flame spurts.",
+        "map": "3060907",
+        "need_default_team": 1,
+        "id": 3060907,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060908": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: BST <Spiker>\nRisk Level: High\n----------------------------\nA Beast Type Visbane discovered in Xu Heng after the Cloudsong Crisis, this specialized variant emerged in response to the environmental conditions created by Cloudsong Ore. It's adept at employing a combination of lightning and leaping strikes as offense.",
+        "map": "3060908",
+        "need_default_team": 1,
+        "id": 3060908,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060909": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: PLMT <Cerulean Plum>\nRisk Level: Very High\n----------------------------\nA Polymerized Type that's adept at attacking using a combination of swordplay and Bane Energy.\n<color=#00c7c7>Mods' DMG increases by 25% after 30s.</color>\n<color=#F1C40F>DMG increases temporarily after hitting the team leader.</color> ",
+        "map": "3060909",
+        "need_default_team": 1,
+        "id": 3060909,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3060910": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: PLMT <Cerulean Plum>\nRisk Level: Maximum\n----------------------------\n<color=#00c7c7>Takes 25% more Ice DMG.</color>\n<color=#00c7c7>Shinou Mods deal 50% more DMG.</color>\n<color=#F1C40F>DEF increases temporarily after exiting Modified Mode.</color> ",
+        "map": "3060910",
+        "need_default_team": 1,
+        "id": 3060910,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061001": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha A-01 <Forklift>\nRisk Level: Medium\n----------------------------\nA compact forklift AGI Mecha capable of shuttling back and forth through narrow spaces to carry out tasks. It primarily undertakes porterage and odd jobs.",
+        "map": "3061001",
+        "need_default_team": 1,
+        "id": 3061001,
+        "attribute_factor": [
+            1000,
+            1000,
+            73260
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061002": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha A-06 <Glory>\nRisk Level: High\n----------------------------\nThe Glory AGI Mecha comes loaded with a variety of equipment used in industrial production. Its sturdy form allows it to undertake all sorts of onerous tasks.",
+        "map": "3061002",
+        "need_default_team": 1,
+        "id": 3061002,
+        "attribute_factor": [
+            1000,
+            1000,
+            73260
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061003": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha V-03 <Kusherfang>\nRisk Level: High\n----------------------------\nA huge centaur-type AGI Mecha weapon.\n<color=#00c7c7>Takes 25% more Fire DMG.</color>\n<color=#00c7c7>Shinou Mods deal 25% more DMG.</color>",
+        "map": "3061003",
+        "need_default_team": 1,
+        "id": 3061003,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061004": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: BGT <Visbit>\nRisk Level: High\n----------------------------\nDiminutive Visbanes with bug-like characteristics. Individually, their destructive power is negligible, but there are vast numbers of them and they usually act in swarms. They will gnaw at and destroy Source Layer data, as well as seek out the nearest target and self-destruct.",
+        "map": "3061004",
+        "need_default_team": 1,
+        "id": 3061004,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061005": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: PT <Formisane>\nRisk Level: High\n----------------------------\nOne of the Visbanes observed so far to possess relatively distinct bug-like characteristics, it's hypothesized to be the adult form of a Visbit. Named \"Mantid\" for its powerful sickled forelimbs, it has formidable slicing and destructive capabilities.",
+        "map": "3061005",
+        "need_default_team": 1,
+        "id": 3061005,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061006": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "Target: BT <Haagenti>\nRisk Level: High\n----------------------------\nA special individual speculated to have been formed from the massive consumption of Source Layer material by a Visbane, it possesses destructive power far surpassing that of ordinary Visbanes.\n<color=#F1C40F>Takes 40% less Non-Crit DMG after exiting Modified Mode.</color>",
+        "map": "3061006",
+        "need_default_team": 1,
+        "id": 3061006,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061007": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Bounty Hunter <Hawkeye>\nRisk Level: High\n----------------------------\nA bounty hunter of Rostach belonging to a local guild. Having earned the title of \"Hawkeye\" due to outstanding shooting skills, this bounty hunter can effortlessly win victory in long-range engagements.",
+        "map": "3061007",
+        "need_default_team": 1,
+        "id": 3061007,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061008": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Bounty Hunter <Bladebreaker>\nRisk Level: High\n----------------------------\nA bounty hunter of Rostach belonging to a local guild. Having earned the title of \"Bladebreaker\" due to outstanding slashing skills, this bounty hunter can effortlessly win victory in close-range engagements.",
+        "map": "3061008",
+        "need_default_team": 1,
+        "id": 3061008,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061009": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha <Dark Metal>\nRisk Level: \u03a9\u03a9\u03a9\n----------------------------\nA military-use AGI Mecha employing a new state-of-the-art power structure.\n<color=#F1C40F>Takes 60% less Non-Crit DMG when is not in Modified Mode.</color>\n<color=#00c7c7>Takes 100% more Crit DMG in Zero Time.</color>",
+        "map": "3061009",
+        "need_default_team": 1,
+        "id": 3061009,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061010": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Visbanic <Dark Metal>\nRisk Level: \u03a9\u03a9\u03a9\n----------------------------\n<color=#00c7c7>Takes 25% more Fire DMG.</color>\n<color=#00c7c7>Shinou Mods deal 25% more DMG.</color>\n<color=#00c7c7>Rage Mods deal 25% more Skill DMG.</color>",
+        "map": "3061010",
+        "need_default_team": 1,
+        "id": 3061010,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061101": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: COI <Security>\nRisk Level: Medium\n----------------------------\nLow-level staff employed by COI Security. Equipped with ranged firearms to keep enemies at bay, their general combat ability isn't much to speak of.",
+        "map": "3061101",
+        "need_default_team": 1,
+        "id": 3061101,
+        "attribute_factor": [
+            1000,
+            1000,
+            73260
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061102": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: COI <Elite Guard>\nRisk Level: High\n----------------------------\nLow-level staff employed by COI Security. Equipped with a sword and shield to keep enemies at bay, their general combat ability isn't much to speak of.",
+        "map": "3061102",
+        "need_default_team": 1,
+        "id": 3061102,
+        "attribute_factor": [
+            1000,
+            1000,
+            73260
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061103": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha A-01 <Constructs>\nRisk Level: High\n----------------------------\nA combination-type AGI Mecha.\n<color=#00c7c7>Takes 25% more Light DMG.</color>\n<color=#00c7c7>Tian Yuan Mods deal 25% more DMG.</color>",
+        "map": "3061103",
+        "need_default_team": 1,
+        "id": 3061103,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061104": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Encroacher Type <Belial - Eerie>\nRisk Level: High\n----------------------------\nA mutated Visbane, it appears in its full form without the need for further corrosion to complete its metamorphosis. Scarlet and covered in scars, it wanders in the specter of war with no hope of escape.",
+        "map": "3061104",
+        "need_default_team": 1,
+        "id": 3061104,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061105": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Encroacher Type <Belial - Despair>\nRisk Level: High\n----------------------------\nA mutated Visbane, it appears in its full form without the need for further corrosion to complete its metamorphosis. With bones jutting out, a shimmering light spills out between this cycle of life and death.",
+        "map": "3061105",
+        "need_default_team": 1,
+        "id": 3061105,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061106": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "Target: Artificial Type <The Strategist>\nRisk Level: High\n----------------------------\nA vassal to Miyahebi Syuu originally named Takenaka Hiromoto, he voluntarily bonded with a Visbane out of loyalty to Syuu's quest for revenge.\n<color=#F1C40F>DEF increases after exiting Modified Mode.</color>",
+        "map": "3061106",
+        "need_default_team": 1,
+        "id": 3061106,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061107": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Encroacher Type <Scythe Waver>\nRisk Level: High\n----------------------------\nOriginally a dancer with a unique style, after suffering the corruption of a Visbane, it maintains an obsession with dancing, but its attacks are brutal and fierce.",
+        "map": "3061107",
+        "need_default_team": 1,
+        "id": 3061107,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061108": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: W-02 <Sheriff>\nRisk Level: High\n----------------------------\nDeveloped to blend in with the elegant environment of Stellaris Academy, this security AGI Mecha possesses the aesthetically-pleasing bearing of a statue. After several courses of updated iterations, this is now the most widely-used and applicable type.",
+        "map": "3061108",
+        "need_default_team": 1,
+        "id": 3061108,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061109": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha <Minotaur Statue>\nRisk Level: \u03a9\u03a9\u03a9\n----------------------------\n<color=#F1C40F>Deals additional DMG when hitting the team leader.</color>\n<color=#F1C40F>Immune to Non-Crit DMG outside of Zero Time and Modified Mode.</color>\n<color=#00c7c7>Crit DMG taken during Zero Time increases by 50%.</color>",
+        "map": "3061109",
+        "need_default_team": 1,
+        "id": 3061109,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061110": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Fake Function <Uld>\nRisk Level: \u03a9\u03a9\u03a9\n----------------------------\n<color=#00c7c7>Takes 25% more Light DMG.</color>\n<color=#00c7c7>Tian Yuan Mods deal 25% more DMG.</color>\n<color=#00c7c7>Rage Mods deal 25% more Skill DMG.</color>",
+        "map": "3061110",
+        "need_default_team": 1,
+        "id": 3061110,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061201": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: BST <Mountaineer>\nRisk Level: Medium\n----------------------------\nA Beast Type Visbane discovered in Xu Heng after the Cloudsong Crisis, this specialized variant emerged in response to the environmental conditions created by Cloudsong Ore. It's adept at combining lunge strikes with high-temperature flame spurts. ",
+        "map": "3061201",
+        "need_default_team": 1,
+        "id": 3061201,
+        "attribute_factor": [
+            1000,
+            1000,
+            73260
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061202": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: BST <Spiker>\nRisk Level: High\n----------------------------\nA Beast Type Visbane discovered in Xu Heng after the Cloudsong Crisis, this specialized variant emerged in response to the environmental conditions created by Cloudsong Ore. It's adept at employing a combination of lightning and leaping strikes as offense. ",
+        "map": "3061202",
+        "need_default_team": 1,
+        "id": 3061202,
+        "attribute_factor": [
+            1000,
+            1000,
+            73260
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061203": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "Target: HT <Root of Suffering>\nRisk Level: High\n----------------------------\nA special Heterization Visbane created by some unknown power, with a roughly humanoid body and oversized joints.\n<color=#00c7c7>Tian Yuan Mods deal 50% more DMG.</color> ",
+        "map": "3061203",
+        "need_default_team": 1,
+        "id": 3061203,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061204": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Dance Partner\nRisk Level: High\n----------------------------\nIn contrast to its graceful appearance, it is capable of a wide range of powerful attacks.",
+        "map": "3061204",
+        "need_default_team": 1,
+        "id": 3061204,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061205": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Pilgrim Cluster\nRisk Level: High\n----------------------------\nVisbanes that move in the air and often attack from a long distance.\nThey are difficult to be eliminated, so don't spend too much time on them!",
+        "map": "3061205",
+        "need_default_team": 1,
+        "id": 3061205,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061206": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "Target: Minotaur Statue\nRisk Level: High\n----------------------------\n<color=#F1C40F>Inflicts Freeze on everyone for 2s when it hits a team leader.</color>\n<color=#F1C40F>Enters Panting state and recovers HP to self after 60s in the battle.</color>",
+        "map": "3061206",
+        "need_default_team": 1,
+        "id": 3061206,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061207": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Visbeast (Melee)\nRisk Level: High\n----------------------------\nThe Bestial Visbane, created through Bane corruption, is a relatively unintelligent creature. However, it poses a significant threat when in a group.",
+        "map": "3061207",
+        "need_default_team": 1,
+        "id": 3061207,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061208": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: ET <Andras - Hater>\nRisk Level: High\n----------------------------\nA Visbane variant that appears in Gen-Zone ruins. It can launch even stronger attacks at long range, and is additionally capable of deeper levels of thought.",
+        "map": "3061208",
+        "need_default_team": 1,
+        "id": 3061208,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061209": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Warbane\nRisk Level: Very High\n----------------------------\n<color=#F1C40F>After hitting the team leader and dealing damage, enters Inmobile state. During this state, team leader deals much less damage within 3s.</color>",
+        "map": "3061209",
+        "need_default_team": 1,
+        "id": 3061209,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061210": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Purifier\nRisk Level: Extremely High\n----------------------------\n<color=#00c7c7>Water RES reduces by 25%.</color>\n<color=#00c7c7>Tian Yuan Mods deal 25% more DMG.</color>\n<color=#00c7c7>Divine Grace Mods deal 25% more Skill DMG.</color>",
+        "map": "3061210",
+        "need_default_team": 1,
+        "id": 3061210,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061301": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha - Battlefield\nRisk Level: Medium\n----------------------------\nHas amazing compatibility and maneuverability.\nBut its firepower per unit of time is not a quarter as good as that of its counterparts.\nIt cannot launch ranged attacks.",
+        "map": "3061301",
+        "need_default_team": 1,
+        "id": 3061301,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061302": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: Constructs\nRisk Level: High\n----------------------------\nThree basic AGI Mechas, all of which were not strong when fought individually, underwent a fundamental change after combining with each other.\nIt is said that this way of combination comes from the technology of a distant civilization.",
+        "map": "3061302",
+        "need_default_team": 1,
+        "id": 3061302,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061303": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Kusherfang\nRisk Level: High\n----------------------------\nPerfect creation of Halphas. It has a lot of energy in it.\n<color=#00c7c7>Takes 25% more Thunder DMG.</color>\n<color=#00c7c7>Divine Grace Mods deal 25% more Skill DMG.</color>",
+        "map": "3061303",
+        "need_default_team": 1,
+        "id": 3061303,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061304": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Deer God Follower <Zealot>\nRisk Level: High\n----------------------------\nA cultist who wears a long robe and hides their face under a hood. Usually mumbles mysterious prayers under their breath.",
+        "map": "3061304",
+        "need_default_team": 1,
+        "id": 3061304,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061305": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: ET <Belial - Eerie>\nRisk Level: High\n----------------------------\nA Visbane variant that appears in Gen-Zone ruins, it mutated after absorbing energy from the Gen-zone ruins.",
+        "map": "3061305",
+        "need_default_team": 1,
+        "id": 3061305,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061306": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "Target: Zealot - Firewalker\nRisk Level: High\n----------------------------\nComes up with various secret plans and uses the Bane Energy in the flag during battle to launch magic attacks on the enemy.\n<color=#F1C40F>Takes 40% less Non-Thunder DMG when not in Modified Mode.</color>",
+        "map": "3061306",
+        "need_default_team": 1,
+        "id": 3061306,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061307": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: BST <Mountaineer>\nRisk Level: High\n----------------------------\nA Beast Type Visbane discovered in Xu Heng after the Cloudsong Crisis, this specialized variant emerged in response to the environmental conditions created by Cloudsong Ore. It's adept at combining lunge strikes with high-temperature flame spurts.",
+        "map": "3061307",
+        "need_default_team": 1,
+        "id": 3061307,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061308": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: BST <Spiker>\nRisk Level: High\n----------------------------\nA Beast Type Visbane discovered in Xu Heng after the Cloudsong Crisis, this specialized variant emerged in response to the environmental conditions created by Cloudsong Ore. It's adept at employing a combination of lightning and leaping strikes as offense. ",
+        "map": "3061308",
+        "need_default_team": 1,
+        "id": 3061308,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061309": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: PLMT <Cerulean Plum>\nRisk Level: Very High\n----------------------------\nA Polymerized Type that's adept at attacking using a combination of swordplay and Bane Energy.\n<color=#00c7c7>Team leader takes 100% more DMG every 30s.</color>",
+        "map": "3061309",
+        "need_default_team": 1,
+        "id": 3061309,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061310": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: PLMT <Cerulean Plum><Cerulean Plum>\nRisk Level: Extremely high\n----------------------------\n<color=#00c7c7>Shinou Mods deal 50% more DMG</color>\n<color=#00c7c7>After receiving Thunder DMG multiple times, the Thunder Divine Grace accumulated in the Mod's body will burst, stunning Cerulean Plum and raising its Mod Index.</color>",
+        "map": "3061310",
+        "need_default_team": 1,
+        "id": 3061310,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061401": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: COI <Security>\nRisk Level: Medium\n----------------------------\nLow-level staff employed by COI Security. Equipped with ranged firearms to keep enemies at bay, their general combat ability isn't much to speak of.",
+        "map": "3061401",
+        "need_default_team": 0,
+        "id": 3061401,
+        "attribute_factor": [
+            1000,
+            1000,
+            73260
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061402": {
+        "monster_level": 80,
+        "name": "Disorder - Normal",
+        "ai_level": 4,
+        "tips": "Target: COI <Elite Guard>\nRisk Level: High\n----------------------------\nLow-level staff employed by COI Security. Equipped with a sword and shield to keep enemies at bay, their general combat ability isn't much to speak of.",
+        "map": "3061402",
+        "need_default_team": 0,
+        "id": 3061402,
+        "attribute_factor": [
+            1000,
+            1000,
+            73260
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061403": {
+        "monster_level": 80,
+        "name": "Disorder - Moderate",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha A-01 <Constructs>\nRisk Level: High\n----------------------------\nA combination-type AGI Mecha.\n<color=#00c7c7>Physical DMG taken is increased by 25%.</color>",
+        "map": "3061403",
+        "need_default_team": 0,
+        "id": 3061403,
+        "attribute_factor": [
+            1000,
+            1000,
+            36630
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061404": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha <Repair Probe>\nRisk Level: High\n----------------------------\nAn AGI Mecha used in surface exploration. Outfitted with electric cannons to secure the facilities, it will deliver an electrical shock to intruders as a warning. ",
+        "map": "3061404",
+        "need_default_team": 0,
+        "id": 3061404,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061405": {
+        "monster_level": 80,
+        "name": "Crash - Moderate",
+        "ai_level": 4,
+        "tips": "Target: Belial\nRisk Level: High\n----------------------------\nA species formed after a human being was fully corrupted by a Visbane that entered the Surface Layer through a rift.\nUses a cudgel-like weapon in close-range attacks.",
+        "map": "3061405",
+        "need_default_team": 0,
+        "id": 3061405,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061406": {
+        "monster_level": 80,
+        "name": "Crash - Major",
+        "ai_level": 4,
+        "tips": "Target: PLMT <Cyan Orchid>\nRisk Level: High\n----------------------------\nA specialized Polymerized Type variant that emerged in response to the environmental conditions created by Cloudsong Ore.\n<color=#F1C40F>Recovers 1% of Max HP every 3s.\nStops recovering health when in Stun.</color> ",
+        "map": "3061406",
+        "need_default_team": 0,
+        "id": 3061406,
+        "attribute_factor": [
+            1000,
+            1000,
+            61050
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061407": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Bounty Hunter <Hawkeye>\nRisk Level: High\n----------------------------\nA bounty hunter of Rostach belonging to a local guild. Having earned the title of \"Hawkeye\" due to outstanding shooting skills, this bounty hunter can effortlessly win victory in long-range engagements.",
+        "map": "3061407",
+        "need_default_team": 0,
+        "id": 3061407,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061408": {
+        "monster_level": 80,
+        "name": "Chaos - Major",
+        "ai_level": 4,
+        "tips": "Target: Bounty Hunter <Bladebreaker>\nRisk Level: High\n----------------------------\nA bounty hunter of Rostach belonging to a local guild. Having earned the title of \"Bladebreaker\" due to outstanding slashing skills, this bounty hunter can effortlessly win victory in close-range engagements.",
+        "map": "3061408",
+        "need_default_team": 0,
+        "id": 3061408,
+        "attribute_factor": [
+            1000,
+            1000,
+            146520
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061409": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: AGI Mecha <Dark Metal>\nRisk Level: ???\n----------------------------\nA military-use AGI Mecha employing a new state-of-the-art power structure.\n<color=#F1C40F>Takes less DMG over time.</color>",
+        "map": "3061409",
+        "need_default_team": 0,
+        "id": 3061409,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "3061410": {
+        "monster_level": 80,
+        "name": "Chaos - Critical",
+        "ai_level": 4,
+        "tips": "Target: Visbanic <Dark Metal>\nRisk Level: ???\n----------------------------\nA military-use AGI Mecha employing a new state-of-the-art power structure.\n<color=#00c7c7>Takes 100% more Physical DMG.</color>",
+        "map": "3061410",
+        "need_default_team": 0,
+        "id": 3061410,
+        "attribute_factor": [
+            1000,
+            1000,
+            97680
+        ],
+        "team_type": [
+            104,
+            0
+        ]
+    },
+    "all": [
+        3060001,
+        3060002,
+        3060003,
+        3060004,
+        3060005,
+        3060006,
+        3060101,
+        3060102,
+        3060103,
+        3060104,
+        3060105,
+        3060106,
+        3060107,
+        3060108,
+        3060109,
+        3060110,
+        3060201,
+        3060202,
+        3060203,
+        3060204,
+        3060205,
+        3060206,
+        3060207,
+        3060208,
+        3060209,
+        3060210,
+        3060301,
+        3060302,
+        3060303,
+        3060304,
+        3060305,
+        3060306,
+        3060307,
+        3060308,
+        3060309,
+        3060310,
+        3060401,
+        3060402,
+        3060403,
+        3060404,
+        3060405,
+        3060406,
+        3060407,
+        3060408,
+        3060409,
+        3060410,
+        3060501,
+        3060502,
+        3060503,
+        3060504,
+        3060505,
+        3060506,
+        3060507,
+        3060508,
+        3060509,
+        3060510,
+        3060601,
+        3060602,
+        3060603,
+        3060604,
+        3060605,
+        3060606,
+        3060607,
+        3060608,
+        3060609,
+        3060610,
+        3060701,
+        3060702,
+        3060703,
+        3060704,
+        3060705,
+        3060706,
+        3060707,
+        3060708,
+        3060709,
+        3060710,
+        3060801,
+        3060802,
+        3060803,
+        3060804,
+        3060805,
+        3060806,
+        3060807,
+        3060808,
+        3060809,
+        3060810,
+        3060901,
+        3060902,
+        3060903,
+        3060904,
+        3060905,
+        3060906,
+        3060907,
+        3060908,
+        3060909,
+        3060910,
+        3061001,
+        3061002,
+        3061003,
+        3061004,
+        3061005,
+        3061006,
+        3061007,
+        3061008,
+        3061009,
+        3061010,
+        3061101,
+        3061102,
+        3061103,
+        3061104,
+        3061105,
+        3061106,
+        3061107,
+        3061108,
+        3061109,
+        3061110,
+        3061201,
+        3061202,
+        3061203,
+        3061204,
+        3061205,
+        3061206,
+        3061207,
+        3061208,
+        3061209,
+        3061210,
+        3061301,
+        3061302,
+        3061303,
+        3061304,
+        3061305,
+        3061306,
+        3061307,
+        3061308,
+        3061309,
+        3061310,
+        3061401,
+        3061402,
+        3061403,
+        3061404,
+        3061405,
+        3061406,
+        3061407,
+        3061408,
+        3061409,
+        3061410
+    ]
+}

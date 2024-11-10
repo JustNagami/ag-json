@@ -1,0 +1,212 @@
+{
+    "5090206": {
+        "monster_level": 80,
+        "name": "Self-discipline",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "J04",
+        "tips": "A Ruomu Palace precept goes: \"Exercising self-discipline and rectifying the mistakes constitute goodness.\"",
+        "map": "5090206",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5090206,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2000,
+            2000,
+            70000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5100206": {
+        "monster_level": 80,
+        "name": "Old Town Ruins",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "J02a",
+        "tips": "Get ready and head to the Old Town Ruins to complete a highly dangerous mission.",
+        "map": "5100206",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5100206,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            2000,
+            180000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5110406": {
+        "monster_level": 80,
+        "name": "Stabilization",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "J15",
+        "tips": "Guard against delusions and the universe shall be filled with pure energy.",
+        "map": "5110406",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5110406,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            1000,
+            320000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120306": {
+        "monster_level": 80,
+        "name": "Beast Tide ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "K04",
+        "tips": "A deafening noise is coming from the city wall.",
+        "map": "5120306",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5120306,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            1000,
+            320000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120406": {
+        "monster_level": 80,
+        "name": "To the Flames",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "K04a",
+        "tips": "Be the spark to make the forests and mountains bloom. ",
+        "map": "5120406",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5120406,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            1000,
+            320000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5130506": {
+        "monster_level": 80,
+        "name": "Zen of Sword",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "K12",
+        "tips": "Ample skill, a steady heart, and successful execution. ",
+        "map": "5130506",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5130506,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            1000,
+            350000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140506": {
+        "monster_level": 80,
+        "name": "Heavyweight ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "L03a",
+        "tips": "\"Your challenge ends here. The competition is mine now.\" ",
+        "map": "5140506",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5140506,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            1000,
+            350000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140606": {
+        "monster_level": 80,
+        "name": "Suffering ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "L04a",
+        "tips": "What are people struggling through adversity best at? Creating gods from that adversity. ",
+        "map": "5140606",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5140606,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            1000,
+            350000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "all": [
+        5090206,
+        5100206,
+        5110406,
+        5120306,
+        5120406,
+        5130506,
+        5140506,
+        5140606
+    ]
+}

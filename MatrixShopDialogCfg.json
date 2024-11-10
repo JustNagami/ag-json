@@ -1,0 +1,79 @@
+{
+    "1": {
+        "voice_name": "",
+        "type": 1,
+        "id": 1,
+        "voice_sheet": "",
+        "content": "You can't buy the shopkeeper, dear guest. "
+    },
+    "2": {
+        "voice_name": "",
+        "type": 2,
+        "id": 2,
+        "voice_sheet": "",
+        "content": "Ah, a guest. "
+    },
+    "3": {
+        "voice_name": "",
+        "type": 2,
+        "id": 3,
+        "voice_sheet": "",
+        "content": "Welcome to the shop. Choose whatever you please. "
+    },
+    "4": {
+        "voice_name": "",
+        "type": 3,
+        "id": 4,
+        "voice_sheet": "",
+        "content": "A fine choice. Thank you for your patronage. "
+    },
+    "5": {
+        "voice_name": "",
+        "type": 4,
+        "id": 5,
+        "voice_sheet": "",
+        "content": "And will there be anything else? "
+    },
+    "6": {
+        "voice_name": "",
+        "type": 5,
+        "id": 6,
+        "voice_sheet": "",
+        "content": "Please, do come again. "
+    },
+    "7": {
+        "voice_name": "",
+        "type": 5,
+        "id": 7,
+        "voice_sheet": "",
+        "content": "Goodbye for meow. I mean, now. "
+    },
+    "get_id_list_by_type": [
+        [
+            1
+        ],
+        [
+            2,
+            3
+        ],
+        [
+            4
+        ],
+        [
+            5
+        ],
+        [
+            6,
+            7
+        ]
+    ],
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ]
+}

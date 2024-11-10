@@ -1,0 +1,25 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Sad",
+        "desc": "No special effects",
+        "trust_exp_rate": 1000
+    },
+    "2": {
+        "id": 2,
+        "name": "Calm",
+        "desc": "+10% Bonding",
+        "trust_exp_rate": 1100
+    },
+    "3": {
+        "id": 3,
+        "name": "Happy",
+        "desc": "+30% Bonding",
+        "trust_exp_rate": 1300
+    },
+    "all": [
+        1,
+        2,
+        3
+    ]
+}

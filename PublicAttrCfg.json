@@ -1,0 +1,1005 @@
+{
+    "1": {
+        "id": 1,
+        "name": "ATK",
+        "percent": 0,
+        "icon": "com_white_icon_attack"
+    },
+    "2": {
+        "id": 2,
+        "name": "DEF",
+        "percent": 0,
+        "icon": "com_white_icon_defense"
+    },
+    "3": {
+        "id": 3,
+        "name": "Max HP",
+        "percent": 0,
+        "icon": "com_white_icon_hp"
+    },
+    "4": {
+        "id": 4,
+        "name": "All DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "5": {
+        "id": 5,
+        "name": "All DMG Reduction",
+        "percent": 1,
+        "icon": ""
+    },
+    "6": {
+        "id": 6,
+        "name": "Additional DMG",
+        "percent": 0,
+        "icon": ""
+    },
+    "7": {
+        "id": 7,
+        "name": "Fixed Reduction",
+        "percent": 0,
+        "icon": ""
+    },
+    "11": {
+        "id": 11,
+        "name": "ATK Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "12": {
+        "id": 12,
+        "name": "Additional ATK",
+        "percent": 0,
+        "icon": ""
+    },
+    "13": {
+        "id": 13,
+        "name": "ATK Rating Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "21": {
+        "id": 21,
+        "name": "DEF Increase (x 0.1%)",
+        "percent": 1,
+        "icon": ""
+    },
+    "22": {
+        "id": 22,
+        "name": "Bonus DEF (Defender)",
+        "percent": 0,
+        "icon": ""
+    },
+    "23": {
+        "id": 23,
+        "name": "Ignores DEF (Attacker)",
+        "percent": 0,
+        "icon": ""
+    },
+    "24": {
+        "id": 24,
+        "name": "Armor Pierce (Attacker)",
+        "percent": 1,
+        "icon": ""
+    },
+    "25": {
+        "id": 25,
+        "name": "Armor Break (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "31": {
+        "id": 31,
+        "name": "Max HP Increase (x 0.1%)",
+        "percent": 1,
+        "icon": ""
+    },
+    "32": {
+        "id": 32,
+        "name": "Max HP Increase",
+        "percent": 0,
+        "icon": ""
+    },
+    "41": {
+        "id": 41,
+        "name": "Bonus Healing (Healer)",
+        "percent": 0,
+        "icon": ""
+    },
+    "42": {
+        "id": 42,
+        "name": "Healing Increase (x 0.1%) (Healer)",
+        "percent": 1,
+        "icon": ""
+    },
+    "43": {
+        "id": 43,
+        "name": "Extra Healing Received (Healed)",
+        "percent": 0,
+        "icon": ""
+    },
+    "44": {
+        "id": 44,
+        "name": "Bonus Healing Received (x 0.1%) (Healed)",
+        "percent": 1,
+        "icon": ""
+    },
+    "51": {
+        "id": 51,
+        "name": "Skill 1 Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "52": {
+        "id": 52,
+        "name": "Skill 2 Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "53": {
+        "id": 53,
+        "name": "Skill 3 Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "54": {
+        "id": 54,
+        "name": "Skill 4 Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "55": {
+        "id": 55,
+        "name": "Skill 5 Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "56": {
+        "id": 56,
+        "name": "Skill 6 Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "57": {
+        "id": 57,
+        "name": "Skill 7 Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "58": {
+        "id": 58,
+        "name": "Skill 8 Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "81": {
+        "id": 81,
+        "name": "Crit Rate",
+        "percent": 1,
+        "icon": "com_white_icon_crit"
+    },
+    "82": {
+        "id": 82,
+        "name": "Crit DMG",
+        "percent": 1,
+        "icon": "com_white_icon_crit"
+    },
+    "83": {
+        "id": 83,
+        "name": "Crit Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "84": {
+        "id": 84,
+        "name": "Reduced Crit Damage Received (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "101": {
+        "id": 101,
+        "name": "Melee DMG (Attacker)",
+        "percent": 1,
+        "icon": ""
+    },
+    "102": {
+        "id": 102,
+        "name": "Ranged DMG (Attacker)",
+        "percent": 1,
+        "icon": ""
+    },
+    "111": {
+        "id": 111,
+        "name": "Melee Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "112": {
+        "id": 112,
+        "name": "Ranged Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "121": {
+        "id": 121,
+        "name": "DMG Bonus (Attacker)",
+        "percent": 1,
+        "icon": ""
+    },
+    "122": {
+        "id": 122,
+        "name": "DMG Bonus (Attacker)",
+        "percent": 1,
+        "icon": ""
+    },
+    "123": {
+        "id": 123,
+        "name": "DMG Bonus (Attacker)",
+        "percent": 1,
+        "icon": ""
+    },
+    "124": {
+        "id": 124,
+        "name": "DMG Bonus (Attacker)",
+        "percent": 1,
+        "icon": ""
+    },
+    "125": {
+        "id": 125,
+        "name": "DMG Bonus (Attacker)",
+        "percent": 1,
+        "icon": ""
+    },
+    "126": {
+        "id": 126,
+        "name": "DMG Bonus (Attacker)",
+        "percent": 1,
+        "icon": ""
+    },
+    "131": {
+        "id": 131,
+        "name": "Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "132": {
+        "id": 132,
+        "name": "Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "133": {
+        "id": 133,
+        "name": "Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "134": {
+        "id": 134,
+        "name": "Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "135": {
+        "id": 135,
+        "name": "Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "136": {
+        "id": 136,
+        "name": "Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "151": {
+        "id": 151,
+        "name": "Physical DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "152": {
+        "id": 152,
+        "name": "Wind DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "153": {
+        "id": 153,
+        "name": "Fire DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "154": {
+        "id": 154,
+        "name": "Ice DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "155": {
+        "id": 155,
+        "name": "Water DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "156": {
+        "id": 156,
+        "name": "Shadow DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "157": {
+        "id": 157,
+        "name": "Light DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "158": {
+        "id": 158,
+        "name": "Thunder DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "159": {
+        "id": 159,
+        "name": "All Elemental DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "161": {
+        "id": 161,
+        "name": "Physical Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "162": {
+        "id": 162,
+        "name": "Wind Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "163": {
+        "id": 163,
+        "name": "Fire Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "164": {
+        "id": 164,
+        "name": "Ice Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "165": {
+        "id": 165,
+        "name": "Water Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "166": {
+        "id": 166,
+        "name": "Shadow Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "167": {
+        "id": 167,
+        "name": "Light Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "168": {
+        "id": 168,
+        "name": "Thunder Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "169": {
+        "id": 169,
+        "name": "All Elemental RES",
+        "percent": 1,
+        "icon": ""
+    },
+    "171": {
+        "id": 171,
+        "name": "Increases Physical DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "172": {
+        "id": 172,
+        "name": "Increases Wind DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "173": {
+        "id": 173,
+        "name": "Increases Fire DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "174": {
+        "id": 174,
+        "name": "Increases Ice DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "175": {
+        "id": 175,
+        "name": "Increases Water DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "176": {
+        "id": 176,
+        "name": "Increases Shadow DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "177": {
+        "id": 177,
+        "name": "Increases Light DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "178": {
+        "id": 178,
+        "name": "Increases Thunder DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "179": {
+        "id": 179,
+        "name": "Increases All Attribute DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "201": {
+        "id": 201,
+        "name": "Bonus DMG to Humanoid Units",
+        "percent": 1,
+        "icon": ""
+    },
+    "202": {
+        "id": 202,
+        "name": "Bonus DMG to AGI Mecha Units",
+        "percent": 1,
+        "icon": ""
+    },
+    "203": {
+        "id": 203,
+        "name": "Bonus DMG to Visbane Units",
+        "percent": 1,
+        "icon": ""
+    },
+    "211": {
+        "id": 211,
+        "name": "Humanoid Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "212": {
+        "id": 212,
+        "name": "AGI Mecha Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "213": {
+        "id": 213,
+        "name": "Visbane Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "221": {
+        "id": 221,
+        "name": "Bonus DMG to Normal Enemy Units",
+        "percent": 1,
+        "icon": ""
+    },
+    "222": {
+        "id": 222,
+        "name": "Bonus DMG to Elite Enemy Units",
+        "percent": 1,
+        "icon": ""
+    },
+    "231": {
+        "id": 231,
+        "name": "Minion Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "232": {
+        "id": 232,
+        "name": "Elite Boss Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "301": {
+        "id": 301,
+        "name": "Normal Attack DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "302": {
+        "id": 302,
+        "name": "Standard Skill DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "303": {
+        "id": 303,
+        "name": "Ultimate Skill DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "311": {
+        "id": 311,
+        "name": "Bonus Skill DMG for Trace Characters",
+        "percent": 1,
+        "icon": ""
+    },
+    "312": {
+        "id": 312,
+        "name": "Bonus Skill DMG for Divine Grace Characters",
+        "percent": 1,
+        "icon": ""
+    },
+    "313": {
+        "id": 313,
+        "name": "Bonus Skill DMG for Rage Characters",
+        "percent": 1,
+        "icon": ""
+    },
+    "314": {
+        "id": 314,
+        "name": "Bonus Skill DMG for Energy Characters",
+        "percent": 1,
+        "icon": ""
+    },
+    "315": {
+        "id": 315,
+        "name": "Charged Skill DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "316": {
+        "id": 316,
+        "name": "Switch Skill DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "317": {
+        "id": 317,
+        "name": "Channeling Skill DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "318": {
+        "id": 318,
+        "name": "Evolving Skill DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "319": {
+        "id": 319,
+        "name": "Divergent Skill DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "320": {
+        "id": 320,
+        "name": "Set-up Skill DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "330": {
+        "id": 330,
+        "name": "Stat Enhanced DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "331": {
+        "id": 331,
+        "name": "Stat Enhanced DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "332": {
+        "id": 332,
+        "name": "Stat Enhanced DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "333": {
+        "id": 333,
+        "name": "Stat Enhanced DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "334": {
+        "id": 334,
+        "name": "Stat Enhanced DMG",
+        "percent": 1,
+        "icon": ""
+    },
+    "401": {
+        "id": 401,
+        "name": "Conditional Universal DMG Bonus (Attacker)",
+        "percent": 1,
+        "icon": ""
+    },
+    "402": {
+        "id": 402,
+        "name": "Conditional Universal Vulnerability (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "421": {
+        "id": 421,
+        "name": "Modified Mode DMG Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "450": {
+        "id": 450,
+        "name": "Universal DMG Multiplier",
+        "percent": 1,
+        "icon": ""
+    },
+    "460": {
+        "id": 460,
+        "name": "Character-specific DMG Multiplier",
+        "percent": 1,
+        "icon": ""
+    },
+    "500": {
+        "id": 500,
+        "name": "Universal Resistance",
+        "percent": 1,
+        "icon": ""
+    },
+    "511": {
+        "id": 511,
+        "name": "Humanoid Resistance",
+        "percent": 1,
+        "icon": ""
+    },
+    "512": {
+        "id": 512,
+        "name": "AGI Mecha Resistance",
+        "percent": 1,
+        "icon": ""
+    },
+    "513": {
+        "id": 513,
+        "name": "Visbane Resistance",
+        "percent": 1,
+        "icon": ""
+    },
+    "521": {
+        "id": 521,
+        "name": "Minion Resistance",
+        "percent": 1,
+        "icon": ""
+    },
+    "522": {
+        "id": 522,
+        "name": "Elite Boss Resistance",
+        "percent": 1,
+        "icon": ""
+    },
+    "600": {
+        "id": 600,
+        "name": "Roguelike DMG Modifier",
+        "percent": 1,
+        "icon": ""
+    },
+    "701": {
+        "id": 701,
+        "name": "Mechanism DMG Boost 1",
+        "percent": 1,
+        "icon": ""
+    },
+    "702": {
+        "id": 702,
+        "name": "Mechanism DMG Boost 2",
+        "percent": 1,
+        "icon": ""
+    },
+    "703": {
+        "id": 703,
+        "name": "Mechanism DMG Boost 3",
+        "percent": 1,
+        "icon": ""
+    },
+    "1001": {
+        "id": 1001,
+        "name": "Reduced Max Cooldown",
+        "percent": 1,
+        "icon": ""
+    },
+    "1002": {
+        "id": 1002,
+        "name": "Reduced Stamina Cost",
+        "percent": 1,
+        "icon": ""
+    },
+    "1003": {
+        "id": 1003,
+        "name": "Stamina Recovery Speed Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "1004": {
+        "id": 1004,
+        "name": "Max Stamina Boost",
+        "percent": 1,
+        "icon": ""
+    },
+    "1005": {
+        "id": 1005,
+        "name": "Dodge Skill Cooldown Bonus",
+        "percent": 0,
+        "icon": ""
+    },
+    "1006": {
+        "id": 1006,
+        "name": "Zero Time Extension",
+        "percent": 0,
+        "icon": ""
+    },
+    "1101": {
+        "id": 1101,
+        "name": "Ultimate Skill Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "1102": {
+        "id": 1102,
+        "name": "Rage Acquisition Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "1103": {
+        "id": 1103,
+        "name": "Energy Acquisition Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "1104": {
+        "id": 1104,
+        "name": "Divine Grace Acquisition Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "1105": {
+        "id": 1105,
+        "name": "Mod Index Multiplier",
+        "percent": 1,
+        "icon": ""
+    },
+    "1106": {
+        "id": 1106,
+        "name": "Rating Growth Bonus",
+        "percent": 1,
+        "icon": ""
+    },
+    "1107": {
+        "id": 1107,
+        "name": "Chance to get 1 extra Trace",
+        "percent": 1,
+        "icon": ""
+    },
+    "1108": {
+        "id": 1108,
+        "name": "Chance of costing one less Trace",
+        "percent": 1,
+        "icon": ""
+    },
+    "1109": {
+        "id": 1109,
+        "name": "0.1% Reduction in Rage Cost",
+        "percent": 1,
+        "icon": ""
+    },
+    "1110": {
+        "id": 1110,
+        "name": "0.1% Reduction in Energy Cost",
+        "percent": 1,
+        "icon": ""
+    },
+    "1111": {
+        "id": 1111,
+        "name": "0.1% Reduction in Divine Grace Cost",
+        "percent": 1,
+        "icon": ""
+    },
+    "1112": {
+        "id": 1112,
+        "name": "Fixed Reduction in Rage Cost",
+        "percent": 0,
+        "icon": ""
+    },
+    "1113": {
+        "id": 1113,
+        "name": "Fixed Reduction in Energy Cost",
+        "percent": 0,
+        "icon": ""
+    },
+    "1114": {
+        "id": 1114,
+        "name": "Fixed Reduction in Trace Cost",
+        "percent": 0,
+        "icon": ""
+    },
+    "1115": {
+        "id": 1115,
+        "name": "Fixed Rage Acquisition Bonus",
+        "percent": 0,
+        "icon": ""
+    },
+    "1116": {
+        "id": 1116,
+        "name": "Fixed Energy Acquisition Bonus",
+        "percent": 0,
+        "icon": ""
+    },
+    "1117": {
+        "id": 1117,
+        "name": "Fixed Trace Acquisition Bonus",
+        "percent": 0,
+        "icon": ""
+    },
+    "10001": {
+        "id": 10001,
+        "name": "Pickup Range Bonus",
+        "percent": 0,
+        "icon": ""
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        11,
+        12,
+        13,
+        21,
+        22,
+        23,
+        24,
+        25,
+        31,
+        32,
+        41,
+        42,
+        43,
+        44,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        81,
+        82,
+        83,
+        84,
+        101,
+        102,
+        111,
+        112,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        201,
+        202,
+        203,
+        211,
+        212,
+        213,
+        221,
+        222,
+        231,
+        232,
+        301,
+        302,
+        303,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        330,
+        331,
+        332,
+        333,
+        334,
+        401,
+        402,
+        421,
+        450,
+        460,
+        500,
+        511,
+        512,
+        513,
+        521,
+        522,
+        600,
+        701,
+        702,
+        703,
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1101,
+        1102,
+        1103,
+        1104,
+        1105,
+        1106,
+        1107,
+        1108,
+        1109,
+        1110,
+        1111,
+        1112,
+        1113,
+        1114,
+        1115,
+        1116,
+        1117,
+        10001
+    ]
+}

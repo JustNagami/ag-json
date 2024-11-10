@@ -1,0 +1,60 @@
+{
+    "Normal": {
+        "value": 0,
+        "name": "Normal",
+        "annotation": ""
+    },
+    "Charge": {
+        "value": 1,
+        "name": "Charge",
+        "annotation": "Charge"
+    },
+    "Transfiguration": {
+        "value": 2,
+        "name": "Transfiguration",
+        "annotation": "Switch"
+    },
+    "Persist": {
+        "value": 3,
+        "name": "Persist",
+        "annotation": "Channeling"
+    },
+    "Strengthen": {
+        "value": 4,
+        "name": "Strengthen",
+        "annotation": "Evolving"
+    },
+    "Switch": {
+        "value": 5,
+        "name": "Switch",
+        "annotation": "Divergent"
+    },
+    "Prepare": {
+        "value": 6,
+        "name": "Prepare",
+        "annotation": "Set-up"
+    },
+    "get_id_list_by_value": {
+        "6": [
+            "Prepare"
+        ],
+        "5": [
+            "Switch"
+        ],
+        "4": [
+            "Strengthen"
+        ],
+        "3": [
+            "Persist"
+        ],
+        "2": [
+            "Transfiguration"
+        ],
+        "1": [
+            "Charge"
+        ],
+        "0": [
+            "Normal"
+        ]
+    }
+}
