@@ -1,0 +1,3791 @@
+{
+    "5010511": {
+        "map": "5010511",
+        "name": "\u51c0\u5316\u8005",
+        "affix_type": "",
+        "background_1": "",
+        "hero_list": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010101,
+        "monster_level": 80,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u5669\u68a6\u2026\u2026\u5f00\u59cb\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5010511,
+        "attribute_factor": [
+            1000,
+            1000,
+            15000
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5010512": {
+        "map": "5010512",
+        "name": "\u51c0\u5316\u8005",
+        "background_1": "",
+        "hero_list": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010102,
+        "monster_level": 80,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u5669\u68a6\u2026\u2026\u5f00\u59cb\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5010512,
+        "attribute_factor": [
+            1500,
+            1000,
+            22500
+        ],
+        "affix_type": [
+            [
+                215,
+                1,
+                0
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5010513": {
+        "map": "5010513",
+        "name": "\u51c0\u5316\u8005",
+        "background_1": "",
+        "hero_list": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010103,
+        "monster_level": 80,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u5669\u68a6\u2026\u2026\u5f00\u59cb\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5010513,
+        "attribute_factor": [
+            2000,
+            1000,
+            45000
+        ],
+        "affix_type": [
+            [
+                301,
+                2,
+                0
+            ],
+            [
+                127,
+                2,
+                0
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5010521": {
+        "map": "5010521",
+        "name": "\u5723\u6d01\u8005",
+        "affix_type": "",
+        "background_1": "",
+        "hero_list": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010201,
+        "monster_level": 80,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u2026\u2026\u5230\u5e95\u662f\u8c01\uff1f",
+        "combo_skill_id": 0,
+        "id": 5010521,
+        "attribute_factor": [
+            1000,
+            1000,
+            15000
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5010522": {
+        "map": "5010522",
+        "name": "\u5723\u6d01\u8005",
+        "background_1": "",
+        "hero_list": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010202,
+        "monster_level": 80,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u2026\u2026\u5230\u5e95\u662f\u8c01\uff1f",
+        "combo_skill_id": 0,
+        "id": 5010522,
+        "attribute_factor": [
+            1500,
+            1000,
+            22500
+        ],
+        "affix_type": [
+            [
+                215,
+                1,
+                0
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5010523": {
+        "map": "5010523",
+        "name": "\u5723\u6d01\u8005",
+        "background_1": "",
+        "hero_list": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010203,
+        "monster_level": 80,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u2026\u2026\u5230\u5e95\u662f\u8c01\uff1f",
+        "combo_skill_id": 0,
+        "id": 5010523,
+        "attribute_factor": [
+            2000,
+            1000,
+            45000
+        ],
+        "affix_type": [
+            [
+                301,
+                2,
+                0
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5010531": {
+        "map": "5010531",
+        "name": "\u6b8b\u5fc6\u00b7\u6697\u661f",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010301,
+        "monster_level": 80,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u4e0d\u7406\u89e3\u4eba\u7c7b\u7684\u60b2\u6b22\uff0c\u4e5f\u4e0d\u5411\u5f80\u6240\u8c13\u7684\u60c5\u611f\uff0c\u90a3\u662f\u7531\u75db\u82e6\u6784\u7b51\u7684\u8c0e\u8a00\u2026\u2026\n\u4eba\u82e5\u662f\u56de\u5fc6\u7684\u96c6\u5408\u4f53\uff0c\u6211\u4fbf\u662f\u9001\u846c\u8bb0\u5fc6\u4e4b\u4eba\u3002\u8fd9\u4e00\u70b9\uff0c\u4e0d\u66fe\u6539\u53d8\u3002",
+        "combo_skill_id": 0,
+        "id": 5010531,
+        "attribute_factor": [
+            530,
+            1000,
+            2500
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5010532": {
+        "map": "5010532",
+        "name": "\u6b8b\u5fc6\u00b7\u6697\u661f",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010302,
+        "monster_level": 80,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u4e0d\u7406\u89e3\u4eba\u7c7b\u7684\u60b2\u6b22\uff0c\u4e5f\u4e0d\u5411\u5f80\u6240\u8c13\u7684\u60c5\u611f\uff0c\u90a3\u662f\u7531\u75db\u82e6\u6784\u7b51\u7684\u8c0e\u8a00\u2026\u2026\n\u4eba\u82e5\u662f\u56de\u5fc6\u7684\u96c6\u5408\u4f53\uff0c\u6211\u4fbf\u662f\u9001\u846c\u8bb0\u5fc6\u4e4b\u4eba\u3002\u8fd9\u4e00\u70b9\uff0c\u4e0d\u66fe\u6539\u53d8\u3002",
+        "combo_skill_id": 0,
+        "id": 5010532,
+        "attribute_factor": [
+            790,
+            1000,
+            3750
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5010533": {
+        "map": "5010533",
+        "name": "\u6b8b\u5fc6\u00b7\u6697\u661f",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010303,
+        "monster_level": 80,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u4e0d\u7406\u89e3\u4eba\u7c7b\u7684\u60b2\u6b22\uff0c\u4e5f\u4e0d\u5411\u5f80\u6240\u8c13\u7684\u60c5\u611f\uff0c\u90a3\u662f\u7531\u75db\u82e6\u6784\u7b51\u7684\u8c0e\u8a00\u2026\u2026\n\u4eba\u82e5\u662f\u56de\u5fc6\u7684\u96c6\u5408\u4f53\uff0c\u6211\u4fbf\u662f\u9001\u846c\u8bb0\u5fc6\u4e4b\u4eba\u3002\u8fd9\u4e00\u70b9\uff0c\u4e0d\u66fe\u6539\u53d8\u3002",
+        "combo_skill_id": 0,
+        "id": 5010533,
+        "attribute_factor": [
+            1050,
+            1000,
+            7500
+        ],
+        "hero_list": [
+            [
+                1094,
+                109405
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5010541": {
+        "map": "5010541",
+        "name": "\u6b8b\u5fc6\u00b7\u98ce\u884c",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010401,
+        "monster_level": 80,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u5f53\u7136\u6068\u8fc7\u81ea\u5df1\uff0c\u90a3\u4e2a\u7ad9\u4e0d\u8d77\u6765\u7684\u81ea\u5df1\uff0c\u4ec0\u4e48\u90fd\u505a\u4e0d\u5230\u7684\u81ea\u5df1\u2026\u2026\n\u4f46\u73b0\u5728\u4e0d\u4e00\u6837\uff0c\u6211\u53ef\u4ee5\u5c3d\u60c5\u5730\u505a\u6211\u60f3\u505a\u7684\u4e8b\uff0c\u4e0d\u4f1a\u518d\u6709\u4ec0\u4e48\u6321\u5728\u6211\u7684\u9762\u524d\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5010541,
+        "attribute_factor": [
+            700,
+            1000,
+            3000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5010542": {
+        "map": "5010542",
+        "name": "\u6b8b\u5fc6\u00b7\u98ce\u884c",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010402,
+        "monster_level": 80,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u5f53\u7136\u6068\u8fc7\u81ea\u5df1\uff0c\u90a3\u4e2a\u7ad9\u4e0d\u8d77\u6765\u7684\u81ea\u5df1\uff0c\u4ec0\u4e48\u90fd\u505a\u4e0d\u5230\u7684\u81ea\u5df1\u2026\u2026\n\u4f46\u73b0\u5728\u4e0d\u4e00\u6837\uff0c\u6211\u53ef\u4ee5\u5c3d\u60c5\u5730\u505a\u6211\u60f3\u505a\u7684\u4e8b\uff0c\u4e0d\u4f1a\u518d\u6709\u4ec0\u4e48\u6321\u5728\u6211\u7684\u9762\u524d\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5010542,
+        "attribute_factor": [
+            1050,
+            1000,
+            4000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5010543": {
+        "map": "5010543",
+        "name": "\u6b8b\u5fc6\u00b7\u98ce\u884c",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010403,
+        "monster_level": 80,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u5f53\u7136\u6068\u8fc7\u81ea\u5df1\uff0c\u90a3\u4e2a\u7ad9\u4e0d\u8d77\u6765\u7684\u81ea\u5df1\uff0c\u4ec0\u4e48\u90fd\u505a\u4e0d\u5230\u7684\u81ea\u5df1\u2026\u2026\n\u4f46\u73b0\u5728\u4e0d\u4e00\u6837\uff0c\u6211\u53ef\u4ee5\u5c3d\u60c5\u5730\u505a\u6211\u60f3\u505a\u7684\u4e8b\uff0c\u4e0d\u4f1a\u518d\u6709\u4ec0\u4e48\u6321\u5728\u6211\u7684\u9762\u524d\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5010543,
+        "attribute_factor": [
+            1400,
+            1000,
+            3500
+        ],
+        "hero_list": [
+            [
+                1096,
+                109607
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5010551": {
+        "map": "5010551",
+        "name": "\u6b8b\u5fc6\u00b7\u53cc\u5e7b",
+        "affix_type": "",
+        "background_1": "",
+        "hero_list": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010501,
+        "monster_level": 80,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u68c0\u6d4b\u5230\u8ba1\u5212\u5a01\u80c1\u2026\u2026\u4e88\u4ee5\u6392\u9664\u3002",
+        "combo_skill_id": 0,
+        "id": 5010551,
+        "attribute_factor": [
+            1000,
+            1000,
+            8000
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5010552": {
+        "map": "5010552",
+        "name": "\u6b8b\u5fc6\u00b7\u53cc\u5e7b",
+        "background_1": "",
+        "hero_list": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010502,
+        "monster_level": 80,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u68c0\u6d4b\u5230\u8ba1\u5212\u5a01\u80c1\u2026\u2026\u4e88\u4ee5\u6392\u9664\u3002",
+        "combo_skill_id": 0,
+        "id": 5010552,
+        "attribute_factor": [
+            1500,
+            1000,
+            12000
+        ],
+        "affix_type": [
+            [
+                147,
+                1,
+                0
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5010553": {
+        "map": "5010553",
+        "name": "\u6b8b\u5fc6\u00b7\u53cc\u5e7b",
+        "background_1": "",
+        "hero_list": "",
+        "ai_level": 1,
+        "drop_lib_id": 8010503,
+        "monster_level": 80,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u68c0\u6d4b\u5230\u8ba1\u5212\u5a01\u80c1\u2026\u2026\u4e88\u4ee5\u6392\u9664\u3002",
+        "combo_skill_id": 0,
+        "id": 5010553,
+        "attribute_factor": [
+            2000,
+            1000,
+            24000
+        ],
+        "affix_type": [
+            [
+                136,
+                1,
+                0
+            ],
+            [
+                154,
+                1,
+                0
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5020311": {
+        "map": "5020321",
+        "name": "\u5fc3\u8c61\u00b7\u72c2\u9cc4",
+        "affix_type": "",
+        "background_1": "icon_blackh",
+        "ai_level": 1,
+        "drop_lib_id": 8000201,
+        "monster_level": 50,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u95ee\u6211\u4e3a\u4ec0\u4e48\u78e8\u5200\uff1f\n\u4f60\u89c1\u8fc7\u7a81\u7136\u8df3\u8d77\u6765\u54ac\u4eba\u7684\u665a\u9910\u5417\uff1f\n\u6211\u4ee5\u524d\u7ecf\u5e38\u9047\u5230\u5566\uff0c\u54c8\u54c8\u2026\u2026\n\u4f60\u95ee\u6211\u665a\u9910\u662f\u4ec0\u4e48\uff1f\n\u8fd9\u91cc\u53c8\u6ca1\u6709\u522b\u4eba\u2026\u2026",
+        "combo_skill_id": 0,
+        "id": 5020311,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5020312": {
+        "map": "5020322",
+        "name": "\u5fc3\u8c61\u00b7\u72c2\u9cc4",
+        "affix_type": "",
+        "background_1": "icon_blackh",
+        "ai_level": 1,
+        "drop_lib_id": 8000202,
+        "monster_level": 50,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u95ee\u6211\u4e3a\u4ec0\u4e48\u78e8\u5200\uff1f\n\u4f60\u89c1\u8fc7\u7a81\u7136\u8df3\u8d77\u6765\u54ac\u4eba\u7684\u665a\u9910\u5417\uff1f\n\u6211\u4ee5\u524d\u7ecf\u5e38\u9047\u5230\u5566\uff0c\u54c8\u54c8\u2026\u2026\n\u4f60\u95ee\u6211\u665a\u9910\u662f\u4ec0\u4e48\uff1f\n\u8fd9\u91cc\u53c8\u6ca1\u6709\u522b\u4eba\u2026\u2026",
+        "combo_skill_id": 0,
+        "id": 5020312,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5020313": {
+        "map": "5020323",
+        "name": "\u5fc3\u8c61\u00b7\u72c2\u9cc4",
+        "affix_type": "",
+        "background_1": "icon_blackh",
+        "ai_level": 1,
+        "drop_lib_id": 8000203,
+        "monster_level": 50,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u95ee\u6211\u4e3a\u4ec0\u4e48\u78e8\u5200\uff1f\n\u4f60\u89c1\u8fc7\u7a81\u7136\u8df3\u8d77\u6765\u54ac\u4eba\u7684\u665a\u9910\u5417\uff1f\n\u6211\u4ee5\u524d\u7ecf\u5e38\u9047\u5230\u5566\uff0c\u54c8\u54c8\u2026\u2026\n\u4f60\u95ee\u6211\u665a\u9910\u662f\u4ec0\u4e48\uff1f\n\u8fd9\u91cc\u53c8\u6ca1\u6709\u522b\u4eba\u2026\u2026",
+        "combo_skill_id": 0,
+        "id": 5020313,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1035,
+                103502
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5020321": {
+        "map": "5020331",
+        "name": "\u5fc3\u8c61\u00b7\u65e7\u8a93",
+        "affix_type": "",
+        "background_1": "icon_blackfi",
+        "ai_level": 1,
+        "drop_lib_id": 8000301,
+        "monster_level": 50,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u592a\u5f31\u5c0f\u7684\u4eba\uff0c\u5c31\u7b97\u83b7\u5f97\u4e86\u4e00\u9762\u76fe\u724c\u53c8\u5982\u4f55\uff1f\n\u4e00\u76f4\u8eb2\u5728\u684c\u5b50\u4e0b\u9762\uff0c\u53ea\u4f1a\u6362\u6765\u66f4\u6076\u610f\u7684\u6b3a\u51cc\u2026\u2026\n\u54c8\u54c8\uff0c\u6240\u4ee5\u6211\u8fd8\u4e3a\u81ea\u5df1\u51c6\u5907\u4e86\u4e00\u628a\u5251\u3002\n\u73b0\u5728\uff0c\u6211\u624d\u662f\u66f4\u5f3a\u5927\u7684\u90a3\u4e00\u65b9\uff01",
+        "combo_skill_id": 0,
+        "id": 5020321,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5020322": {
+        "map": "5020332",
+        "name": "\u5fc3\u8c61\u00b7\u65e7\u8a93",
+        "affix_type": "",
+        "background_1": "icon_blackfi",
+        "ai_level": 1,
+        "drop_lib_id": 8000302,
+        "monster_level": 50,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u592a\u5f31\u5c0f\u7684\u4eba\uff0c\u5c31\u7b97\u83b7\u5f97\u4e86\u4e00\u9762\u76fe\u724c\u53c8\u5982\u4f55\uff1f\n\u4e00\u76f4\u8eb2\u5728\u684c\u5b50\u4e0b\u9762\uff0c\u53ea\u4f1a\u6362\u6765\u66f4\u6076\u610f\u7684\u6b3a\u51cc\u2026\u2026\n\u54c8\u54c8\uff0c\u6240\u4ee5\u6211\u8fd8\u4e3a\u81ea\u5df1\u51c6\u5907\u4e86\u4e00\u628a\u5251\u3002\n\u73b0\u5728\uff0c\u6211\u624d\u662f\u66f4\u5f3a\u5927\u7684\u90a3\u4e00\u65b9\uff01",
+        "combo_skill_id": 0,
+        "id": 5020322,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5020323": {
+        "map": "5020333",
+        "name": "\u5fc3\u8c61\u00b7\u65e7\u8a93",
+        "affix_type": "",
+        "background_1": "icon_blackfi",
+        "ai_level": 1,
+        "drop_lib_id": 8000303,
+        "monster_level": 50,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u592a\u5f31\u5c0f\u7684\u4eba\uff0c\u5c31\u7b97\u83b7\u5f97\u4e86\u4e00\u9762\u76fe\u724c\u53c8\u5982\u4f55\uff1f\n\u4e00\u76f4\u8eb2\u5728\u684c\u5b50\u4e0b\u9762\uff0c\u53ea\u4f1a\u6362\u6765\u66f4\u6076\u610f\u7684\u6b3a\u51cc\u2026\u2026\n\u54c8\u54c8\uff0c\u6240\u4ee5\u6211\u8fd8\u4e3a\u81ea\u5df1\u51c6\u5907\u4e86\u4e00\u628a\u5251\u3002\n\u73b0\u5728\uff0c\u6211\u624d\u662f\u66f4\u5f3a\u5927\u7684\u90a3\u4e00\u65b9\uff01",
+        "combo_skill_id": 0,
+        "id": 5020323,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1184,
+                118402
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5020331": {
+        "map": "5020341",
+        "name": "\u5fc3\u8c61\u00b7\u771f\u7ea2",
+        "affix_type": "",
+        "background_1": "icon_blackt",
+        "ai_level": 1,
+        "drop_lib_id": 8000401,
+        "monster_level": 50,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u65e0\u8bba\u5c06\u6728\u6869\u6574\u9f50\u5730\u5207\u5f00\u591a\u5c11\u6b21\uff0c\u67f4\u5200\u4ecd\u65e7\u662f\u67f4\u5200\u3002\n\u53ea\u80fd\u5728\u7a7a\u6c14\u4e2d\u6325\u821e\u7684\uff0c\u7ec8\u7a76\u662f\u4e00\u5757\u5e9f\u94c1\u3002\n\u80fd\u8ba9\u5200\u950b\u83b7\u5f97\u8ba4\u53ef\u7684\uff0c\u53ea\u80fd\u662f\u9c9c\u8840\uff01",
+        "combo_skill_id": 0,
+        "id": 5020331,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5020332": {
+        "map": "5020342",
+        "name": "\u5fc3\u8c61\u00b7\u771f\u7ea2",
+        "affix_type": "",
+        "background_1": "icon_blackt",
+        "ai_level": 1,
+        "drop_lib_id": 8000402,
+        "monster_level": 50,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u65e0\u8bba\u5c06\u6728\u6869\u6574\u9f50\u5730\u5207\u5f00\u591a\u5c11\u6b21\uff0c\u67f4\u5200\u4ecd\u65e7\u662f\u67f4\u5200\u3002\n\u53ea\u80fd\u5728\u7a7a\u6c14\u4e2d\u6325\u821e\u7684\uff0c\u7ec8\u7a76\u662f\u4e00\u5757\u5e9f\u94c1\u3002\n\u80fd\u8ba9\u5200\u950b\u83b7\u5f97\u8ba4\u53ef\u7684\uff0c\u53ea\u80fd\u662f\u9c9c\u8840\uff01",
+        "combo_skill_id": 0,
+        "id": 5020332,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5020333": {
+        "map": "5020343",
+        "name": "\u5fc3\u8c61\u00b7\u771f\u7ea2",
+        "affix_type": "",
+        "background_1": "icon_blackt",
+        "ai_level": 1,
+        "drop_lib_id": 8000403,
+        "monster_level": 50,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u65e0\u8bba\u5c06\u6728\u6869\u6574\u9f50\u5730\u5207\u5f00\u591a\u5c11\u6b21\uff0c\u67f4\u5200\u4ecd\u65e7\u662f\u67f4\u5200\u3002\n\u53ea\u80fd\u5728\u7a7a\u6c14\u4e2d\u6325\u821e\u7684\uff0c\u7ec8\u7a76\u662f\u4e00\u5757\u5e9f\u94c1\u3002\n\u80fd\u8ba9\u5200\u950b\u83b7\u5f97\u8ba4\u53ef\u7684\uff0c\u53ea\u80fd\u662f\u9c9c\u8840\uff01",
+        "combo_skill_id": 0,
+        "id": 5020333,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1050,
+                105002
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5020341": {
+        "map": "5020311",
+        "name": "\u5fc3\u8c61\u00b7\u96cf\u5fc3",
+        "affix_type": "",
+        "background_1": "icon_blacko",
+        "ai_level": 1,
+        "drop_lib_id": 8000101,
+        "monster_level": 50,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u53ef\u4ee5\u548c\u5927\u5bb6\u5e76\u80a9\u4f5c\u6218\u7684\u2026\u2026\n\u6211\u4e0d\u662f\u5927\u5bb6\u7684\u7d2f\u8d58\u2026\u2026\n\u6211\u9700\u8981\u4e00\u4e2a\u8bc1\u660e\u2026\u2026\n\u6211\u4e0d\u518d\u662f\u7d2f\u8d58\u7684\u8bc1\u660e\u2026\u2026\n\u2026\u2026\n\u4f60\u613f\u610f\u6210\u4e3a\u90a3\u4e2a\u8bc1\u660e\u5417\uff1f",
+        "combo_skill_id": 0,
+        "id": 5020341,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5020342": {
+        "map": "5020312",
+        "name": "\u5fc3\u8c61\u00b7\u96cf\u5fc3",
+        "affix_type": "",
+        "background_1": "icon_blacko",
+        "ai_level": 1,
+        "drop_lib_id": 8000102,
+        "monster_level": 50,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u53ef\u4ee5\u548c\u5927\u5bb6\u5e76\u80a9\u4f5c\u6218\u7684\u2026\u2026\n\u6211\u4e0d\u662f\u5927\u5bb6\u7684\u7d2f\u8d58\u2026\u2026\n\u6211\u9700\u8981\u4e00\u4e2a\u8bc1\u660e\u2026\u2026\n\u6211\u4e0d\u518d\u662f\u7d2f\u8d58\u7684\u8bc1\u660e\u2026\u2026\n\u2026\u2026\n\u4f60\u613f\u610f\u6210\u4e3a\u90a3\u4e2a\u8bc1\u660e\u5417\uff1f",
+        "combo_skill_id": 0,
+        "id": 5020342,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5020343": {
+        "map": "5020313",
+        "name": "\u5fc3\u8c61\u00b7\u96cf\u5fc3",
+        "affix_type": "",
+        "background_1": "icon_blacko",
+        "ai_level": 1,
+        "drop_lib_id": 8000103,
+        "monster_level": 50,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u53ef\u4ee5\u548c\u5927\u5bb6\u5e76\u80a9\u4f5c\u6218\u7684\u2026\u2026\n\u6211\u4e0d\u662f\u5927\u5bb6\u7684\u7d2f\u8d58\u2026\u2026\n\u6211\u9700\u8981\u4e00\u4e2a\u8bc1\u660e\u2026\u2026\n\u6211\u4e0d\u518d\u662f\u7d2f\u8d58\u7684\u8bc1\u660e\u2026\u2026\n\u2026\u2026\n\u4f60\u613f\u610f\u6210\u4e3a\u90a3\u4e2a\u8bc1\u660e\u5417\uff1f",
+        "combo_skill_id": 0,
+        "id": 5020343,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1011,
+                101102
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5020351": {
+        "map": "5020351",
+        "name": "\u5fc3\u8c61\u00b7\u51a5\u738b",
+        "affix_type": "",
+        "background_1": "icon_blackf",
+        "ai_level": 1,
+        "drop_lib_id": 8000501,
+        "monster_level": 50,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u7adf\u7136\u6562\u4e8e\u62ff\u8d77\u6b66\u5668\uff1f\n\u4f60\u8be5\u4e0d\u4f1a\u4ee5\u4e3a\u51ed\u4f60\u90a3\u70b9\u5b9e\u529b\u771f\u7684\u53ef\u4ee5\u6218\u80dc\u6211\u5427\uff1f\n\u54c8\u54c8\u54c8\u2026\u2026\u4f60\u4f1a\u6b7b\u5f97\u5f88\u60e8\u70c8\uff0c\u877c\u8681\u3002\n\u56e0\u4e3a\u4f60\u8981\u4e3a\u6d6a\u8d39\u6211\u7684\u65f6\u95f4\u8d4e\u7f6a\uff01",
+        "combo_skill_id": 0,
+        "id": 5020351,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5020352": {
+        "map": "5020352",
+        "name": "\u5fc3\u8c61\u00b7\u51a5\u738b",
+        "affix_type": "",
+        "background_1": "icon_blackf",
+        "ai_level": 1,
+        "drop_lib_id": 8000502,
+        "monster_level": 50,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u7adf\u7136\u6562\u4e8e\u62ff\u8d77\u6b66\u5668\uff1f\n\u4f60\u8be5\u4e0d\u4f1a\u4ee5\u4e3a\u51ed\u4f60\u90a3\u70b9\u5b9e\u529b\u771f\u7684\u53ef\u4ee5\u6218\u80dc\u6211\u5427\uff1f\n\u54c8\u54c8\u54c8\u2026\u2026\u4f60\u4f1a\u6b7b\u5f97\u5f88\u60e8\u70c8\uff0c\u877c\u8681\u3002\n\u56e0\u4e3a\u4f60\u8981\u4e3a\u6d6a\u8d39\u6211\u7684\u65f6\u95f4\u8d4e\u7f6a\uff01",
+        "combo_skill_id": 0,
+        "id": 5020352,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5020353": {
+        "map": "5020353",
+        "name": "\u5fc3\u8c61\u00b7\u51a5\u738b",
+        "affix_type": "",
+        "background_1": "icon_blackf",
+        "ai_level": 1,
+        "drop_lib_id": 8000503,
+        "monster_level": 50,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u7adf\u7136\u6562\u4e8e\u62ff\u8d77\u6b66\u5668\uff1f\n\u4f60\u8be5\u4e0d\u4f1a\u4ee5\u4e3a\u51ed\u4f60\u90a3\u70b9\u5b9e\u529b\u771f\u7684\u53ef\u4ee5\u6218\u80dc\u6211\u5427\uff1f\n\u54c8\u54c8\u54c8\u2026\u2026\u4f60\u4f1a\u6b7b\u5f97\u5f88\u60e8\u70c8\uff0c\u877c\u8681\u3002\n\u56e0\u4e3a\u4f60\u8981\u4e3a\u6d6a\u8d39\u6211\u7684\u65f6\u95f4\u8d4e\u7f6a\uff01",
+        "combo_skill_id": 0,
+        "id": 5020353,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1111,
+                111102
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5050311": {
+        "map": "5050311",
+        "name": "\u955c\u50cf\u00b7\u72c2\u9cc4",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020101,
+        "monster_level": 80,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u95ee\u6211\u4e3a\u4ec0\u4e48\u78e8\u5200\uff1f\n\u4f60\u89c1\u8fc7\u7a81\u7136\u8df3\u8d77\u6765\u54ac\u4eba\u7684\u665a\u9910\u5417\uff1f\n\u6211\u4ee5\u524d\u7ecf\u5e38\u9047\u5230\u5566\uff0c\u54c8\u54c8\u2026\u2026\n\u4f60\u95ee\u6211\u665a\u9910\u662f\u4ec0\u4e48\uff1f\n\u8fd9\u91cc\u53c8\u6ca1\u6709\u522b\u4eba\u2026\u2026",
+        "combo_skill_id": 0,
+        "id": 5050311,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050312": {
+        "map": "5050312",
+        "name": "\u955c\u50cf\u00b7\u72c2\u9cc4",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020102,
+        "monster_level": 80,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u95ee\u6211\u4e3a\u4ec0\u4e48\u78e8\u5200\uff1f\n\u4f60\u89c1\u8fc7\u7a81\u7136\u8df3\u8d77\u6765\u54ac\u4eba\u7684\u665a\u9910\u5417\uff1f\n\u6211\u4ee5\u524d\u7ecf\u5e38\u9047\u5230\u5566\uff0c\u54c8\u54c8\u2026\u2026\n\u4f60\u95ee\u6211\u665a\u9910\u662f\u4ec0\u4e48\uff1f\n\u8fd9\u91cc\u53c8\u6ca1\u6709\u522b\u4eba\u2026\u2026",
+        "combo_skill_id": 0,
+        "id": 5050312,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050313": {
+        "map": "5050313",
+        "name": "\u955c\u50cf\u00b7\u72c2\u9cc4",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020103,
+        "monster_level": 80,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u95ee\u6211\u4e3a\u4ec0\u4e48\u78e8\u5200\uff1f\n\u4f60\u89c1\u8fc7\u7a81\u7136\u8df3\u8d77\u6765\u54ac\u4eba\u7684\u665a\u9910\u5417\uff1f\n\u6211\u4ee5\u524d\u7ecf\u5e38\u9047\u5230\u5566\uff0c\u54c8\u54c8\u2026\u2026\n\u4f60\u95ee\u6211\u665a\u9910\u662f\u4ec0\u4e48\uff1f\n\u8fd9\u91cc\u53c8\u6ca1\u6709\u522b\u4eba\u2026\u2026",
+        "combo_skill_id": 0,
+        "id": 5050313,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1035,
+                103503
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5050321": {
+        "map": "5050321",
+        "name": "\u955c\u50cf\u00b7\u771f\u7ea2",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020201,
+        "monster_level": 80,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u65e0\u8bba\u5c06\u6728\u6869\u6574\u9f50\u5730\u5207\u5f00\u591a\u5c11\u6b21\uff0c\u67f4\u5200\u4ecd\u65e7\u662f\u67f4\u5200\u3002\n\u53ea\u80fd\u5728\u7a7a\u6c14\u4e2d\u6325\u821e\u7684\uff0c\u7ec8\u7a76\u662f\u4e00\u5757\u5e9f\u94c1\u3002\n\u80fd\u8ba9\u5200\u950b\u83b7\u5f97\u8ba4\u53ef\u7684\uff0c\u53ea\u80fd\u662f\u9c9c\u8840\uff01",
+        "combo_skill_id": 0,
+        "id": 5050321,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050322": {
+        "map": "5050322",
+        "name": "\u955c\u50cf\u00b7\u771f\u7ea2",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020202,
+        "monster_level": 80,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u65e0\u8bba\u5c06\u6728\u6869\u6574\u9f50\u5730\u5207\u5f00\u591a\u5c11\u6b21\uff0c\u67f4\u5200\u4ecd\u65e7\u662f\u67f4\u5200\u3002\n\u53ea\u80fd\u5728\u7a7a\u6c14\u4e2d\u6325\u821e\u7684\uff0c\u7ec8\u7a76\u662f\u4e00\u5757\u5e9f\u94c1\u3002\n\u80fd\u8ba9\u5200\u950b\u83b7\u5f97\u8ba4\u53ef\u7684\uff0c\u53ea\u80fd\u662f\u9c9c\u8840\uff01",
+        "combo_skill_id": 0,
+        "id": 5050322,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050323": {
+        "map": "5050323",
+        "name": "\u955c\u50cf\u00b7\u771f\u7ea2",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020203,
+        "monster_level": 80,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u65e0\u8bba\u5c06\u6728\u6869\u6574\u9f50\u5730\u5207\u5f00\u591a\u5c11\u6b21\uff0c\u67f4\u5200\u4ecd\u65e7\u662f\u67f4\u5200\u3002\n\u53ea\u80fd\u5728\u7a7a\u6c14\u4e2d\u6325\u821e\u7684\uff0c\u7ec8\u7a76\u662f\u4e00\u5757\u5e9f\u94c1\u3002\n\u80fd\u8ba9\u5200\u950b\u83b7\u5f97\u8ba4\u53ef\u7684\uff0c\u53ea\u80fd\u662f\u9c9c\u8840\uff01",
+        "combo_skill_id": 0,
+        "id": 5050323,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1050,
+                105005
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5050331": {
+        "map": "5050331",
+        "name": "\u955c\u50cf\u00b7\u5bd2\u971c\u4e4b\u7259",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020301,
+        "monster_level": 80,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u78e8\u5c16\u2026\u2026\u7259\u9f7f\uff0c\u72e9\u730e\u2026\u2026\u5f00\u59cb\u3002\n\u51b0\u7259\uff0c\u997f\u4e86\u3002\n\u4f60\u6b7b\uff0c\u6211\u6d3b\u3002\u8fd9\u662f\u4e3a\u4e86\u2026\u2026\u751f\u5b58",
+        "combo_skill_id": 0,
+        "id": 5050331,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050332": {
+        "map": "5050332",
+        "name": "\u955c\u50cf\u00b7\u5bd2\u971c\u4e4b\u7259",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020302,
+        "monster_level": 80,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u78e8\u5c16\u2026\u2026\u7259\u9f7f\uff0c\u72e9\u730e\u2026\u2026\u5f00\u59cb\u3002\n\u51b0\u7259\uff0c\u997f\u4e86\u3002\n\u4f60\u6b7b\uff0c\u6211\u6d3b\u3002\u8fd9\u662f\u4e3a\u4e86\u2026\u2026\u751f\u5b58",
+        "combo_skill_id": 0,
+        "id": 5050332,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050333": {
+        "map": "5050333",
+        "name": "\u955c\u50cf\u00b7\u5bd2\u971c\u4e4b\u7259",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020303,
+        "monster_level": 80,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u78e8\u5c16\u2026\u2026\u7259\u9f7f\uff0c\u72e9\u730e\u2026\u2026\u5f00\u59cb\u3002\n\u51b0\u7259\uff0c\u997f\u4e86\u3002\n\u4f60\u6b7b\uff0c\u6211\u6d3b\u3002\u8fd9\u662f\u4e3a\u4e86\u2026\u2026\u751f\u5b58",
+        "combo_skill_id": 0,
+        "id": 5050333,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1080,
+                108004
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5050341": {
+        "map": "5050341",
+        "name": "\u955c\u50cf\u00b7\u65e7\u8a93",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020401,
+        "monster_level": 80,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u592a\u5f31\u5c0f\u7684\u4eba\uff0c\u5c31\u7b97\u83b7\u5f97\u4e86\u4e00\u9762\u76fe\u724c\u53c8\u5982\u4f55\uff1f\n\u4e00\u76f4\u8eb2\u5728\u684c\u5b50\u4e0b\u9762\uff0c\u53ea\u4f1a\u6362\u6765\u66f4\u6076\u610f\u7684\u6b3a\u51cc\u2026\u2026\n\u54c8\u54c8\uff0c\u6240\u4ee5\u6211\u8fd8\u4e3a\u81ea\u5df1\u51c6\u5907\u4e86\u4e00\u628a\u5251\u3002\n\u73b0\u5728\uff0c\u6211\u624d\u662f\u66f4\u5f3a\u5927\u7684\u90a3\u4e00\u65b9\uff01",
+        "combo_skill_id": 0,
+        "id": 5050341,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050342": {
+        "map": "5050342",
+        "name": "\u955c\u50cf\u00b7\u65e7\u8a93",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020402,
+        "monster_level": 80,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u592a\u5f31\u5c0f\u7684\u4eba\uff0c\u5c31\u7b97\u83b7\u5f97\u4e86\u4e00\u9762\u76fe\u724c\u53c8\u5982\u4f55\uff1f\n\u4e00\u76f4\u8eb2\u5728\u684c\u5b50\u4e0b\u9762\uff0c\u53ea\u4f1a\u6362\u6765\u66f4\u6076\u610f\u7684\u6b3a\u51cc\u2026\u2026\n\u54c8\u54c8\uff0c\u6240\u4ee5\u6211\u8fd8\u4e3a\u81ea\u5df1\u51c6\u5907\u4e86\u4e00\u628a\u5251\u3002\n\u73b0\u5728\uff0c\u6211\u624d\u662f\u66f4\u5f3a\u5927\u7684\u90a3\u4e00\u65b9\uff01",
+        "combo_skill_id": 0,
+        "id": 5050342,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050343": {
+        "map": "5050343",
+        "name": "\u955c\u50cf\u00b7\u65e7\u8a93",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020403,
+        "monster_level": 80,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u592a\u5f31\u5c0f\u7684\u4eba\uff0c\u5c31\u7b97\u83b7\u5f97\u4e86\u4e00\u9762\u76fe\u724c\u53c8\u5982\u4f55\uff1f\n\u4e00\u76f4\u8eb2\u5728\u684c\u5b50\u4e0b\u9762\uff0c\u53ea\u4f1a\u6362\u6765\u66f4\u6076\u610f\u7684\u6b3a\u51cc\u2026\u2026\n\u54c8\u54c8\uff0c\u6240\u4ee5\u6211\u8fd8\u4e3a\u81ea\u5df1\u51c6\u5907\u4e86\u4e00\u628a\u5251\u3002\n\u73b0\u5728\uff0c\u6211\u624d\u662f\u66f4\u5f3a\u5927\u7684\u90a3\u4e00\u65b9\uff01",
+        "combo_skill_id": 0,
+        "id": 5050343,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1184,
+                118405
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5050351": {
+        "map": "5050351",
+        "name": "\u955c\u50cf\u00b7\u6697\u661f",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020501,
+        "monster_level": 80,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u4e0d\u7406\u89e3\u4eba\u7c7b\u7684\u60b2\u6b22\uff0c\u4e5f\u4e0d\u5411\u5f80\u6240\u8c13\u7684\u60c5\u611f\uff0c\u90a3\u662f\u7531\u75db\u82e6\u6784\u7b51\u7684\u8c0e\u8a00\u2026\u2026\n\u4eba\u82e5\u662f\u56de\u5fc6\u7684\u96c6\u5408\u4f53\uff0c\u6211\u4fbf\u662f\u9001\u846c\u8bb0\u5fc6\u4e4b\u4eba\u3002\u8fd9\u4e00\u70b9\uff0c\u4e0d\u66fe\u6539\u53d8\u3002",
+        "combo_skill_id": 0,
+        "id": 5050351,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050352": {
+        "map": "5050352",
+        "name": "\u955c\u50cf\u00b7\u6697\u661f",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020502,
+        "monster_level": 80,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u4e0d\u7406\u89e3\u4eba\u7c7b\u7684\u60b2\u6b22\uff0c\u4e5f\u4e0d\u5411\u5f80\u6240\u8c13\u7684\u60c5\u611f\uff0c\u90a3\u662f\u7531\u75db\u82e6\u6784\u7b51\u7684\u8c0e\u8a00\u2026\u2026\n\u4eba\u82e5\u662f\u56de\u5fc6\u7684\u96c6\u5408\u4f53\uff0c\u6211\u4fbf\u662f\u9001\u846c\u8bb0\u5fc6\u4e4b\u4eba\u3002\u8fd9\u4e00\u70b9\uff0c\u4e0d\u66fe\u6539\u53d8\u3002",
+        "combo_skill_id": 0,
+        "id": 5050352,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050353": {
+        "map": "5050353",
+        "name": "\u955c\u50cf\u00b7\u6697\u661f",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020503,
+        "monster_level": 80,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u4e0d\u7406\u89e3\u4eba\u7c7b\u7684\u60b2\u6b22\uff0c\u4e5f\u4e0d\u5411\u5f80\u6240\u8c13\u7684\u60c5\u611f\uff0c\u90a3\u662f\u7531\u75db\u82e6\u6784\u7b51\u7684\u8c0e\u8a00\u2026\u2026\n\u4eba\u82e5\u662f\u56de\u5fc6\u7684\u96c6\u5408\u4f53\uff0c\u6211\u4fbf\u662f\u9001\u846c\u8bb0\u5fc6\u4e4b\u4eba\u3002\u8fd9\u4e00\u70b9\uff0c\u4e0d\u66fe\u6539\u53d8\u3002",
+        "combo_skill_id": 0,
+        "id": 5050353,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1094,
+                109403
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5050361": {
+        "map": "5050361",
+        "name": "\u955c\u50cf\u00b7\u98ce\u884c",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020601,
+        "monster_level": 80,
+        "sub_type": 6,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u5f53\u7136\u6068\u8fc7\u81ea\u5df1\uff0c\u90a3\u4e2a\u7ad9\u4e0d\u8d77\u6765\u7684\u81ea\u5df1\uff0c\u4ec0\u4e48\u90fd\u505a\u4e0d\u5230\u7684\u81ea\u5df1\u2026\u2026\n\u4f46\u73b0\u5728\u4e0d\u4e00\u6837\uff0c\u6211\u53ef\u4ee5\u5c3d\u60c5\u5730\u505a\u6211\u60f3\u505a\u7684\u4e8b\uff0c\u4e0d\u4f1a\u518d\u6709\u4ec0\u4e48\u6321\u5728\u6211\u7684\u9762\u524d\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5050361,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050362": {
+        "map": "5050362",
+        "name": "\u955c\u50cf\u00b7\u98ce\u884c",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020602,
+        "monster_level": 80,
+        "sub_type": 6,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u5f53\u7136\u6068\u8fc7\u81ea\u5df1\uff0c\u90a3\u4e2a\u7ad9\u4e0d\u8d77\u6765\u7684\u81ea\u5df1\uff0c\u4ec0\u4e48\u90fd\u505a\u4e0d\u5230\u7684\u81ea\u5df1\u2026\u2026\n\u4f46\u73b0\u5728\u4e0d\u4e00\u6837\uff0c\u6211\u53ef\u4ee5\u5c3d\u60c5\u5730\u505a\u6211\u60f3\u505a\u7684\u4e8b\uff0c\u4e0d\u4f1a\u518d\u6709\u4ec0\u4e48\u6321\u5728\u6211\u7684\u9762\u524d\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5050362,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050363": {
+        "map": "5050363",
+        "name": "\u955c\u50cf\u00b7\u98ce\u884c",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020603,
+        "monster_level": 80,
+        "sub_type": 6,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u5f53\u7136\u6068\u8fc7\u81ea\u5df1\uff0c\u90a3\u4e2a\u7ad9\u4e0d\u8d77\u6765\u7684\u81ea\u5df1\uff0c\u4ec0\u4e48\u90fd\u505a\u4e0d\u5230\u7684\u81ea\u5df1\u2026\u2026\n\u4f46\u73b0\u5728\u4e0d\u4e00\u6837\uff0c\u6211\u53ef\u4ee5\u5c3d\u60c5\u5730\u505a\u6211\u60f3\u505a\u7684\u4e8b\uff0c\u4e0d\u4f1a\u518d\u6709\u4ec0\u4e48\u6321\u5728\u6211\u7684\u9762\u524d\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5050363,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1096,
+                109603
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5050371": {
+        "map": "5050371",
+        "name": "\u955c\u50cf\u00b7\u96cf\u5fc3",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020701,
+        "monster_level": 80,
+        "sub_type": 7,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u53ef\u4ee5\u548c\u5927\u5bb6\u5e76\u80a9\u4f5c\u6218\u7684\u2026\u2026\n\u6211\u4e0d\u662f\u5927\u5bb6\u7684\u7d2f\u8d58\u2026\u2026\n\u6211\u9700\u8981\u4e00\u4e2a\u8bc1\u660e\u2026\u2026\n\u6211\u4e0d\u518d\u662f\u7d2f\u8d58\u7684\u8bc1\u660e\u2026\u2026\n\u2026\u2026\n\u4f60\u613f\u610f\u6210\u4e3a\u90a3\u4e2a\u8bc1\u660e\u5417\uff1f",
+        "combo_skill_id": 0,
+        "id": 5050371,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050372": {
+        "map": "5050372",
+        "name": "\u955c\u50cf\u00b7\u96cf\u5fc3",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020702,
+        "monster_level": 80,
+        "sub_type": 7,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u53ef\u4ee5\u548c\u5927\u5bb6\u5e76\u80a9\u4f5c\u6218\u7684\u2026\u2026\n\u6211\u4e0d\u662f\u5927\u5bb6\u7684\u7d2f\u8d58\u2026\u2026\n\u6211\u9700\u8981\u4e00\u4e2a\u8bc1\u660e\u2026\u2026\n\u6211\u4e0d\u518d\u662f\u7d2f\u8d58\u7684\u8bc1\u660e\u2026\u2026\n\u2026\u2026\n\u4f60\u613f\u610f\u6210\u4e3a\u90a3\u4e2a\u8bc1\u660e\u5417\uff1f",
+        "combo_skill_id": 0,
+        "id": 5050372,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050373": {
+        "map": "5050373",
+        "name": "\u955c\u50cf\u00b7\u96cf\u5fc3",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020703,
+        "monster_level": 80,
+        "sub_type": 7,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u53ef\u4ee5\u548c\u5927\u5bb6\u5e76\u80a9\u4f5c\u6218\u7684\u2026\u2026\n\u6211\u4e0d\u662f\u5927\u5bb6\u7684\u7d2f\u8d58\u2026\u2026\n\u6211\u9700\u8981\u4e00\u4e2a\u8bc1\u660e\u2026\u2026\n\u6211\u4e0d\u518d\u662f\u7d2f\u8d58\u7684\u8bc1\u660e\u2026\u2026\n\u2026\u2026\n\u4f60\u613f\u610f\u6210\u4e3a\u90a3\u4e2a\u8bc1\u660e\u5417\uff1f",
+        "combo_skill_id": 0,
+        "id": 5050373,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1011,
+                101104
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5050381": {
+        "map": "5050381",
+        "name": "\u955c\u50cf\u00b7\u751f\u9b42",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020801,
+        "monster_level": 80,
+        "sub_type": 8,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u7adf\u7136\u6562\u4e8e\u62ff\u8d77\u6b66\u5668\uff1f\n\u4f60\u8be5\u4e0d\u4f1a\u4ee5\u4e3a\u51ed\u4f60\u90a3\u70b9\u5b9e\u529b\u771f\u7684\u53ef\u4ee5\u6218\u80dc\u6211\u5427\uff1f\n\u54c8\u54c8\u54c8\u2026\u2026\u4f60\u4f1a\u6b7b\u5f97\u5f88\u60e8\u70c8\uff0c\u877c\u8681\u3002\n\u56e0\u4e3a\u4f60\u8981\u4e3a\u6d6a\u8d39\u6211\u7684\u65f6\u95f4\u8d4e\u7f6a\uff01",
+        "combo_skill_id": 0,
+        "id": 5050381,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050382": {
+        "map": "5050382",
+        "name": "\u955c\u50cf\u00b7\u751f\u9b42",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020802,
+        "monster_level": 80,
+        "sub_type": 8,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u7adf\u7136\u6562\u4e8e\u62ff\u8d77\u6b66\u5668\uff1f\n\u4f60\u8be5\u4e0d\u4f1a\u4ee5\u4e3a\u51ed\u4f60\u90a3\u70b9\u5b9e\u529b\u771f\u7684\u53ef\u4ee5\u6218\u80dc\u6211\u5427\uff1f\n\u54c8\u54c8\u54c8\u2026\u2026\u4f60\u4f1a\u6b7b\u5f97\u5f88\u60e8\u70c8\uff0c\u877c\u8681\u3002\n\u56e0\u4e3a\u4f60\u8981\u4e3a\u6d6a\u8d39\u6211\u7684\u65f6\u95f4\u8d4e\u7f6a\uff01",
+        "combo_skill_id": 0,
+        "id": 5050382,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5050383": {
+        "map": "5050383",
+        "name": "\u955c\u50cf\u00b7\u751f\u9b42",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8020803,
+        "monster_level": 80,
+        "sub_type": 8,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u7adf\u7136\u6562\u4e8e\u62ff\u8d77\u6b66\u5668\uff1f\n\u4f60\u8be5\u4e0d\u4f1a\u4ee5\u4e3a\u51ed\u4f60\u90a3\u70b9\u5b9e\u529b\u771f\u7684\u53ef\u4ee5\u6218\u80dc\u6211\u5427\uff1f\n\u54c8\u54c8\u54c8\u2026\u2026\u4f60\u4f1a\u6b7b\u5f97\u5f88\u60e8\u70c8\uff0c\u877c\u8681\u3002\n\u56e0\u4e3a\u4f60\u8981\u4e3a\u6d6a\u8d39\u6211\u7684\u65f6\u95f4\u8d4e\u7f6a\uff01",
+        "combo_skill_id": 0,
+        "id": 5050383,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1111,
+                111103
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5070311": {
+        "map": "40610501",
+        "name": "\u9006\u50cf\u00b7\u771f\u7ea2",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030101,
+        "monster_level": 80,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u65e0\u8bba\u5c06\u6728\u6869\u6574\u9f50\u5730\u5207\u5f00\u591a\u5c11\u6b21\uff0c\u67f4\u5200\u4ecd\u65e7\u662f\u67f4\u5200\u3002\n\u53ea\u80fd\u5728\u7a7a\u6c14\u4e2d\u6325\u821e\u7684\uff0c\u7ec8\u7a76\u53ea\u662f\u4e00\u5757\u5e9f\u94c1\u3002\n\u80fd\u8ba9\u5200\u950b\u83b7\u5f97\u8ba4\u53ef\u7684\uff0c\u53ea\u80fd\u662f\u9c9c\u8840\uff01",
+        "combo_skill_id": 0,
+        "id": 5070311,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070312": {
+        "map": "40610502",
+        "name": "\u9006\u50cf\u00b7\u771f\u7ea2",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030102,
+        "monster_level": 80,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u65e0\u8bba\u5c06\u6728\u6869\u6574\u9f50\u5730\u5207\u5f00\u591a\u5c11\u6b21\uff0c\u67f4\u5200\u4ecd\u65e7\u662f\u67f4\u5200\u3002\n\u53ea\u80fd\u5728\u7a7a\u6c14\u4e2d\u6325\u821e\u7684\uff0c\u7ec8\u7a76\u53ea\u662f\u4e00\u5757\u5e9f\u94c1\u3002\n\u80fd\u8ba9\u5200\u950b\u83b7\u5f97\u8ba4\u53ef\u7684\uff0c\u53ea\u80fd\u662f\u9c9c\u8840\uff01",
+        "combo_skill_id": 0,
+        "id": 5070312,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070313": {
+        "map": "40610503",
+        "name": "\u9006\u50cf\u00b7\u771f\u7ea2",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030103,
+        "monster_level": 80,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u65e0\u8bba\u5c06\u6728\u6869\u6574\u9f50\u5730\u5207\u5f00\u591a\u5c11\u6b21\uff0c\u67f4\u5200\u4ecd\u65e7\u662f\u67f4\u5200\u3002\n\u53ea\u80fd\u5728\u7a7a\u6c14\u4e2d\u6325\u821e\u7684\uff0c\u7ec8\u7a76\u53ea\u662f\u4e00\u5757\u5e9f\u94c1\u3002\n\u80fd\u8ba9\u5200\u950b\u83b7\u5f97\u8ba4\u53ef\u7684\uff0c\u53ea\u80fd\u662f\u9c9c\u8840\uff01",
+        "combo_skill_id": 0,
+        "id": 5070313,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1050,
+                105005
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5070321": {
+        "map": "40611841",
+        "name": "\u9006\u50cf\u00b7\u65e7\u8a93",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030201,
+        "monster_level": 80,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u592a\u5f31\u5c0f\u7684\u4eba\uff0c\u5c31\u7b97\u83b7\u5f97\u4e86\u4e00\u9762\u76fe\u724c\u53c8\u5982\u4f55\uff1f\n\u4e00\u76f4\u8eb2\u5728\u684c\u5b50\u4e0b\u9762\uff0c\u53ea\u4f1a\u6362\u6765\u66f4\u6076\u610f\u7684\u6b3a\u51cc\u2026\u2026\n\u54c8\u54c8\uff0c\u6240\u4ee5\u6211\u8fd8\u4e3a\u81ea\u5df1\u51c6\u5907\u4e86\u4e00\u628a\u5251\u3002\n\u73b0\u5728\uff0c\u6211\u624d\u662f\u66f4\u5f3a\u5927\u7684\u90a3\u4e00\u65b9\uff01",
+        "combo_skill_id": 0,
+        "id": 5070321,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070322": {
+        "map": "40611842",
+        "name": "\u9006\u50cf\u00b7\u65e7\u8a93",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030202,
+        "monster_level": 80,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u592a\u5f31\u5c0f\u7684\u4eba\uff0c\u5c31\u7b97\u83b7\u5f97\u4e86\u4e00\u9762\u76fe\u724c\u53c8\u5982\u4f55\uff1f\n\u4e00\u76f4\u8eb2\u5728\u684c\u5b50\u4e0b\u9762\uff0c\u53ea\u4f1a\u6362\u6765\u66f4\u6076\u610f\u7684\u6b3a\u51cc\u2026\u2026\n\u54c8\u54c8\uff0c\u6240\u4ee5\u6211\u8fd8\u4e3a\u81ea\u5df1\u51c6\u5907\u4e86\u4e00\u628a\u5251\u3002\n\u73b0\u5728\uff0c\u6211\u624d\u662f\u66f4\u5f3a\u5927\u7684\u90a3\u4e00\u65b9\uff01",
+        "combo_skill_id": 0,
+        "id": 5070322,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070323": {
+        "map": "40611843",
+        "name": "\u9006\u50cf\u00b7\u65e7\u8a93",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030203,
+        "monster_level": 80,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u592a\u5f31\u5c0f\u7684\u4eba\uff0c\u5c31\u7b97\u83b7\u5f97\u4e86\u4e00\u9762\u76fe\u724c\u53c8\u5982\u4f55\uff1f\n\u4e00\u76f4\u8eb2\u5728\u684c\u5b50\u4e0b\u9762\uff0c\u53ea\u4f1a\u6362\u6765\u66f4\u6076\u610f\u7684\u6b3a\u51cc\u2026\u2026\n\u54c8\u54c8\uff0c\u6240\u4ee5\u6211\u8fd8\u4e3a\u81ea\u5df1\u51c6\u5907\u4e86\u4e00\u628a\u5251\u3002\n\u73b0\u5728\uff0c\u6211\u624d\u662f\u66f4\u5f3a\u5927\u7684\u90a3\u4e00\u65b9\uff01",
+        "combo_skill_id": 0,
+        "id": 5070323,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1184,
+                118405
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5070331": {
+        "map": "40610961",
+        "name": "\u9006\u50cf\u00b7\u98ce\u884c",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030301,
+        "monster_level": 80,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u5f53\u7136\u6068\u8fc7\u81ea\u5df1\uff0c\u90a3\u4e2a\u7ad9\u4e0d\u8d77\u6765\u7684\u81ea\u5df1\uff0c\u4ec0\u4e48\u90fd\u505a\u4e0d\u5230\u7684\u81ea\u5df1\u2026\u2026\n\u4f46\u73b0\u5728\u4e0d\u4e00\u6837\uff0c\u6211\u53ef\u4ee5\u5c3d\u60c5\u5730\u505a\u6211\u60f3\u505a\u7684\u4e8b\uff0c\u4e0d\u4f1a\u518d\u6709\u4ec0\u4e48\u6321\u5728\u6211\u7684\u9762\u524d\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5070331,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070332": {
+        "map": "40610962",
+        "name": "\u9006\u50cf\u00b7\u98ce\u884c",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030302,
+        "monster_level": 80,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u5f53\u7136\u6068\u8fc7\u81ea\u5df1\uff0c\u90a3\u4e2a\u7ad9\u4e0d\u8d77\u6765\u7684\u81ea\u5df1\uff0c\u4ec0\u4e48\u90fd\u505a\u4e0d\u5230\u7684\u81ea\u5df1\u2026\u2026\n\u4f46\u73b0\u5728\u4e0d\u4e00\u6837\uff0c\u6211\u53ef\u4ee5\u5c3d\u60c5\u5730\u505a\u6211\u60f3\u505a\u7684\u4e8b\uff0c\u4e0d\u4f1a\u518d\u6709\u4ec0\u4e48\u6321\u5728\u6211\u7684\u9762\u524d\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5070332,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070333": {
+        "map": "40610963",
+        "name": "\u9006\u50cf\u00b7\u98ce\u884c",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030303,
+        "monster_level": 80,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u5f53\u7136\u6068\u8fc7\u81ea\u5df1\uff0c\u90a3\u4e2a\u7ad9\u4e0d\u8d77\u6765\u7684\u81ea\u5df1\uff0c\u4ec0\u4e48\u90fd\u505a\u4e0d\u5230\u7684\u81ea\u5df1\u2026\u2026\n\u4f46\u73b0\u5728\u4e0d\u4e00\u6837\uff0c\u6211\u53ef\u4ee5\u5c3d\u60c5\u5730\u505a\u6211\u60f3\u505a\u7684\u4e8b\uff0c\u4e0d\u4f1a\u518d\u6709\u4ec0\u4e48\u6321\u5728\u6211\u7684\u9762\u524d\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5070333,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1096,
+                109603
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5070341": {
+        "map": "40611111",
+        "name": "\u9006\u50cf\u00b7\u751f\u9b42",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030401,
+        "monster_level": 80,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u7adf\u7136\u6562\u4e8e\u62ff\u8d77\u6b66\u5668\uff1f\n\u4f60\u8be5\u4e0d\u4f1a\u4ee5\u4e3a\u51ed\u4f60\u90a3\u70b9\u5b9e\u529b\u771f\u7684\u53ef\u4ee5\u6218\u80dc\u6211\u5427\uff1f\n\u54c8\u54c8\u54c8\u2026\u2026\u4f60\u4f1a\u6b7b\u5f97\u5f88\u60e8\u70c8\uff0c\u877c\u8681\u3002\n\u56e0\u4e3a\u4f60\u8981\u4e3a\u6d6a\u8d39\u6211\u7684\u65f6\u95f4\u8d4e\u7f6a\uff01",
+        "combo_skill_id": 0,
+        "id": 5070341,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070342": {
+        "map": "40611112",
+        "name": "\u9006\u50cf\u00b7\u751f\u9b42",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030402,
+        "monster_level": 80,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u7adf\u7136\u6562\u4e8e\u62ff\u8d77\u6b66\u5668\uff1f\n\u4f60\u8be5\u4e0d\u4f1a\u4ee5\u4e3a\u51ed\u4f60\u90a3\u70b9\u5b9e\u529b\u771f\u7684\u53ef\u4ee5\u6218\u80dc\u6211\u5427\uff1f\n\u54c8\u54c8\u54c8\u2026\u2026\u4f60\u4f1a\u6b7b\u5f97\u5f88\u60e8\u70c8\uff0c\u877c\u8681\u3002\n\u56e0\u4e3a\u4f60\u8981\u4e3a\u6d6a\u8d39\u6211\u7684\u65f6\u95f4\u8d4e\u7f6a\uff01",
+        "combo_skill_id": 0,
+        "id": 5070342,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070343": {
+        "map": "40611113",
+        "name": "\u9006\u50cf\u00b7\u751f\u9b42",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030403,
+        "monster_level": 80,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u4f60\u7adf\u7136\u6562\u4e8e\u62ff\u8d77\u6b66\u5668\uff1f\n\u4f60\u8be5\u4e0d\u4f1a\u4ee5\u4e3a\u51ed\u4f60\u90a3\u70b9\u5b9e\u529b\u771f\u7684\u53ef\u4ee5\u6218\u80dc\u6211\u5427\uff1f\n\u54c8\u54c8\u54c8\u2026\u2026\u4f60\u4f1a\u6b7b\u5f97\u5f88\u60e8\u70c8\uff0c\u877c\u8681\u3002\n\u56e0\u4e3a\u4f60\u8981\u4e3a\u6d6a\u8d39\u6211\u7684\u65f6\u95f4\u8d4e\u7f6a\uff01",
+        "combo_skill_id": 0,
+        "id": 5070343,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1111,
+                111103
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5070351": {
+        "map": "40610191",
+        "name": "\u9006\u50cf\u00b7\u75be\u98ce\u4e4b\u67aa",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030501,
+        "monster_level": 80,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u75b2\u60eb\u5417\uff1f\n\u6216\u8bb8\u662f\u6709\u7684\u3002\n\u4f46\u5371\u673a\u603b\u4f1a\u5728\u6beb\u65e0\u9632\u5907\u4e0b\u7a81\u7136\u6765\u4e34\u3002\n\u73b0\u5728\u8fd8\u8fdc\u6ca1\u6709\u5230\u8981\u4f11\u606f\u7684\u65f6\u5019\u3002\n\u6211\u4e0d\u53ef\u4ee5\u9000\u7f29\uff0c\u66f4\u4e0d\u80fd\u5012\u4e0b\u3002\n\u9664\u975e\u51fb\u6e83\u6211\uff0c\u5426\u5219\u6211\u4e0d\u4f1a\u8ba9\u4f60\u518d\u524d\u8fdb\u4e00\u6b65\uff01",
+        "combo_skill_id": 0,
+        "id": 5070351,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070352": {
+        "map": "40610192",
+        "name": "\u9006\u50cf\u00b7\u75be\u98ce\u4e4b\u67aa",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030502,
+        "monster_level": 80,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u75b2\u60eb\u5417\uff1f\n\u6216\u8bb8\u662f\u6709\u7684\u3002\n\u4f46\u5371\u673a\u603b\u4f1a\u5728\u6beb\u65e0\u9632\u5907\u4e0b\u7a81\u7136\u6765\u4e34\u3002\n\u73b0\u5728\u8fd8\u8fdc\u6ca1\u6709\u5230\u8981\u4f11\u606f\u7684\u65f6\u5019\u3002\n\u6211\u4e0d\u53ef\u4ee5\u9000\u7f29\uff0c\u66f4\u4e0d\u80fd\u5012\u4e0b\u3002\n\u9664\u975e\u51fb\u6e83\u6211\uff0c\u5426\u5219\u6211\u4e0d\u4f1a\u8ba9\u4f60\u518d\u524d\u8fdb\u4e00\u6b65\uff01",
+        "combo_skill_id": 0,
+        "id": 5070352,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070353": {
+        "map": "40610193",
+        "name": "\u9006\u50cf\u00b7\u75be\u98ce\u4e4b\u67aa",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030503,
+        "monster_level": 80,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u75b2\u60eb\u5417\uff1f\n\u6216\u8bb8\u662f\u6709\u7684\u3002\n\u4f46\u5371\u673a\u603b\u4f1a\u5728\u6beb\u65e0\u9632\u5907\u4e0b\u7a81\u7136\u6765\u4e34\u3002\n\u73b0\u5728\u8fd8\u8fdc\u6ca1\u6709\u5230\u8981\u4f11\u606f\u7684\u65f6\u5019\u3002\n\u6211\u4e0d\u53ef\u4ee5\u9000\u7f29\uff0c\u66f4\u4e0d\u80fd\u5012\u4e0b\u3002\n\u9664\u975e\u51fb\u6e83\u6211\uff0c\u5426\u5219\u6211\u4e0d\u4f1a\u8ba9\u4f60\u518d\u524d\u8fdb\u4e00\u6b65\uff01",
+        "combo_skill_id": 0,
+        "id": 5070353,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1019,
+                101907
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5070361": {
+        "map": "40611191",
+        "name": "\u9006\u50cf\u00b7\u6d41\u8424\u5c9a\u96fe",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030601,
+        "monster_level": 80,
+        "sub_type": 6,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u7ad9\u5728\u8fd9\u91cc\u4e0d\u4e3a\u4efb\u4f55\u4eba\uff0c\u53ea\u4e3a\u7559\u4f4f\u5979\u6700\u540e\u7684\u3001\u5b58\u5728\u4e8e\u4e16\u4e0a\u7684\u8bc1\u660e\u3002\n\u5982\u679c\u6709\u4eba\u60f3\u5c06\u6211\u6700\u73cd\u89c6\u4e4b\u7269\u6bc1\u53bb\u2026\u2026\n\u6211\u5c06\u6218\u6597\u5230\u5e95\uff0c\u7edd\u4e0d\u7559\u60c5\uff01",
+        "combo_skill_id": 0,
+        "id": 5070361,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070362": {
+        "map": "40611192",
+        "name": "\u9006\u50cf\u00b7\u6d41\u8424\u5c9a\u96fe",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030602,
+        "monster_level": 80,
+        "sub_type": 6,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u7ad9\u5728\u8fd9\u91cc\u4e0d\u4e3a\u4efb\u4f55\u4eba\uff0c\u53ea\u4e3a\u7559\u4f4f\u5979\u6700\u540e\u7684\u3001\u5b58\u5728\u4e8e\u4e16\u4e0a\u7684\u8bc1\u660e\u3002\n\u5982\u679c\u6709\u4eba\u60f3\u5c06\u6211\u6700\u73cd\u89c6\u4e4b\u7269\u6bc1\u53bb\u2026\u2026\n\u6211\u5c06\u6218\u6597\u5230\u5e95\uff0c\u7edd\u4e0d\u7559\u60c5\uff01",
+        "combo_skill_id": 0,
+        "id": 5070362,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070363": {
+        "map": "40611193",
+        "name": "\u9006\u50cf\u00b7\u6d41\u8424\u5c9a\u96fe",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030603,
+        "monster_level": 80,
+        "sub_type": 6,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u7ad9\u5728\u8fd9\u91cc\u4e0d\u4e3a\u4efb\u4f55\u4eba\uff0c\u53ea\u4e3a\u7559\u4f4f\u5979\u6700\u540e\u7684\u3001\u5b58\u5728\u4e8e\u4e16\u4e0a\u7684\u8bc1\u660e\u3002\n\u5982\u679c\u6709\u4eba\u60f3\u5c06\u6211\u6700\u73cd\u89c6\u4e4b\u7269\u6bc1\u53bb\u2026\u2026\n\u6211\u5c06\u6218\u6597\u5230\u5e95\uff0c\u7edd\u4e0d\u7559\u60c5\uff01",
+        "combo_skill_id": 0,
+        "id": 5070363,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1119,
+                111904
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5070371": {
+        "map": "40610161",
+        "name": "\u9006\u50cf\u00b7\u8352\u7360",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030701,
+        "monster_level": 80,
+        "sub_type": 7,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u66fe\u88ab\u8c0e\u8a00\u7684\u9b47\u4e91\u7b3c\u7f69\uff0c\u63a5\u53d7\u654c\u4eba\u7684\u9988\u8d60\u3002\n\u4f46\u597d\u5728\uff0c\u6b64\u523b\u7684\u6211\u5df2\u7136\u82cf\u9192\u3002\n\u590d\u4ec7\u7684\u706b\u7130\u5df2\u7ecf\u71c3\u8d77\uff0c\u6ca1\u4eba\u80fd\u6321\u4f4f\u6211\u7684\u811a\u6b65\u3002\n\u7f57\u65af\u5854\u8d6b\u4f1a\u5728\u6211\u7684\u9886\u5bfc\u4e0b\u8fce\u6765\u9ece\u660e\uff01",
+        "combo_skill_id": 0,
+        "id": 5070371,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070372": {
+        "map": "40610162",
+        "name": "\u9006\u50cf\u00b7\u8352\u7360",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030702,
+        "monster_level": 80,
+        "sub_type": 7,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u66fe\u88ab\u8c0e\u8a00\u7684\u9b47\u4e91\u7b3c\u7f69\uff0c\u63a5\u53d7\u654c\u4eba\u7684\u9988\u8d60\u3002\n\u4f46\u597d\u5728\uff0c\u6b64\u523b\u7684\u6211\u5df2\u7136\u82cf\u9192\u3002\n\u590d\u4ec7\u7684\u706b\u7130\u5df2\u7ecf\u71c3\u8d77\uff0c\u6ca1\u4eba\u80fd\u6321\u4f4f\u6211\u7684\u811a\u6b65\u3002\n\u7f57\u65af\u5854\u8d6b\u4f1a\u5728\u6211\u7684\u9886\u5bfc\u4e0b\u8fce\u6765\u9ece\u660e\uff01",
+        "combo_skill_id": 0,
+        "id": 5070372,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070373": {
+        "map": "40610163",
+        "name": "\u9006\u50cf\u00b7\u8352\u7360",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030703,
+        "monster_level": 80,
+        "sub_type": 7,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u6211\u66fe\u88ab\u8c0e\u8a00\u7684\u9b47\u4e91\u7b3c\u7f69\uff0c\u63a5\u53d7\u654c\u4eba\u7684\u9988\u8d60\u3002\n\u4f46\u597d\u5728\uff0c\u6b64\u523b\u7684\u6211\u5df2\u7136\u82cf\u9192\u3002\n\u590d\u4ec7\u7684\u706b\u7130\u5df2\u7ecf\u71c3\u8d77\uff0c\u6ca1\u4eba\u80fd\u6321\u4f4f\u6211\u7684\u811a\u6b65\u3002\n\u7f57\u65af\u5854\u8d6b\u4f1a\u5728\u6211\u7684\u9886\u5bfc\u4e0b\u8fce\u6765\u9ece\u660e\uff01",
+        "combo_skill_id": 0,
+        "id": 5070373,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1016,
+                101603
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5070381": {
+        "map": "40610521",
+        "name": "\u9006\u50cf\u00b7\u6012\u86c7",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030801,
+        "monster_level": 80,
+        "sub_type": 8,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u706b\u5149\u3001\u9707\u52a8\u3001\u60e8\u53eb\u3001\u60b2\u9e23\u3002\n\u90a3\u662f\u6211\u6c38\u8fdc\u90fd\u4e0d\u4f1a\u9057\u5fd8\u7684\u5149\u666f\u3002\n\u6211\u4e5f\u66fe\u4e00\u5ea6\u6000\u7591\u81ea\u5df1\u6240\u575a\u6301\u7684\u662f\u5426\u6b63\u786e\u3002\n\u4e0d\u8fc7\u73b0\u5728\u90fd\u4e0d\u91cd\u8981\u4e86\uff0c\u6bd5\u7adf\uff0c\u72b9\u8c6b\u53ef\u662f\u4f1a\u4e27\u547d\u7684\u3002",
+        "combo_skill_id": 0,
+        "id": 5070381,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070382": {
+        "map": "40610522",
+        "name": "\u9006\u50cf\u00b7\u6012\u86c7",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030802,
+        "monster_level": 80,
+        "sub_type": 8,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u706b\u5149\u3001\u9707\u52a8\u3001\u60e8\u53eb\u3001\u60b2\u9e23\u3002\n\u90a3\u662f\u6211\u6c38\u8fdc\u90fd\u4e0d\u4f1a\u9057\u5fd8\u7684\u5149\u666f\u3002\n\u6211\u4e5f\u66fe\u4e00\u5ea6\u6000\u7591\u81ea\u5df1\u6240\u575a\u6301\u7684\u662f\u5426\u6b63\u786e\u3002\n\u4e0d\u8fc7\u73b0\u5728\u90fd\u4e0d\u91cd\u8981\u4e86\uff0c\u6bd5\u7adf\uff0c\u72b9\u8c6b\u53ef\u662f\u4f1a\u4e27\u547d\u7684\u3002",
+        "combo_skill_id": 0,
+        "id": 5070382,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5070383": {
+        "map": "40610523",
+        "name": "\u9006\u50cf\u00b7\u6012\u86c7",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8030803,
+        "monster_level": 80,
+        "sub_type": 8,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u706b\u5149\u3001\u9707\u52a8\u3001\u60e8\u53eb\u3001\u60b2\u9e23\u3002\n\u90a3\u662f\u6211\u6c38\u8fdc\u90fd\u4e0d\u4f1a\u9057\u5fd8\u7684\u5149\u666f\u3002\n\u6211\u4e5f\u66fe\u4e00\u5ea6\u6000\u7591\u81ea\u5df1\u6240\u575a\u6301\u7684\u662f\u5426\u6b63\u786e\u3002\n\u4e0d\u8fc7\u73b0\u5728\u90fd\u4e0d\u91cd\u8981\u4e86\uff0c\u6bd5\u7adf\uff0c\u72b9\u8c6b\u53ef\u662f\u4f1a\u4e27\u547d\u7684\u3002",
+        "combo_skill_id": 0,
+        "id": 5070383,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1052,
+                105203
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5110511": {
+        "map": "40610701",
+        "name": "\u9006\u50cf\u00b7\u5341\u66dc",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040101,
+        "monster_level": 80,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u89c1\u4e49\u52c7\u4e3a\u3001\u6276\u5f31\u6291\u5f3a\uff0c\u8fd9\u662f\u300a\u5143\u5178\u6284\u672c\u300b\u91cc\u8bf4\u7684\u3002\n\u4e4c\u4ee5\u4e3a\uff0c\u81ea\u5df1\u5c31\u662f\u90a3\u4f4d\u5927\u4fa0\uff0c\u60e9\u5978\u9664\u6076\u4f51\u62a4\u56db\u65b9\u3002\n\u4f46\u4e4c\u73b0\u5728\u8fd9\u6837\uff0c\u771f\u80fd\u79f0\u5f97\u4e0a\u662f\u5927\u4fa0\u5417\u2026\u2026",
+        "combo_skill_id": 0,
+        "id": 5110511,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5110512": {
+        "map": "40610702",
+        "name": "\u9006\u50cf\u00b7\u5341\u66dc",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040102,
+        "monster_level": 80,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u89c1\u4e49\u52c7\u4e3a\u3001\u6276\u5f31\u6291\u5f3a\uff0c\u8fd9\u662f\u300a\u5143\u5178\u6284\u672c\u300b\u91cc\u8bf4\u7684\u3002\n\u4e4c\u4ee5\u4e3a\uff0c\u81ea\u5df1\u5c31\u662f\u90a3\u4f4d\u5927\u4fa0\uff0c\u60e9\u5978\u9664\u6076\u4f51\u62a4\u56db\u65b9\u3002\n\u4f46\u4e4c\u73b0\u5728\u8fd9\u6837\uff0c\u771f\u80fd\u79f0\u5f97\u4e0a\u662f\u5927\u4fa0\u5417\u2026\u2026",
+        "combo_skill_id": 0,
+        "id": 5110512,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5110513": {
+        "map": "40610703",
+        "name": "\u9006\u50cf\u00b7\u5341\u66dc",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040103,
+        "monster_level": 80,
+        "sub_type": 1,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u89c1\u4e49\u52c7\u4e3a\u3001\u6276\u5f31\u6291\u5f3a\uff0c\u8fd9\u662f\u300a\u5143\u5178\u6284\u672c\u300b\u91cc\u8bf4\u7684\u3002\n\u4e4c\u4ee5\u4e3a\uff0c\u81ea\u5df1\u5c31\u662f\u90a3\u4f4d\u5927\u4fa0\uff0c\u60e9\u5978\u9664\u6076\u4f51\u62a4\u56db\u65b9\u3002\n\u4f46\u4e4c\u73b0\u5728\u8fd9\u6837\uff0c\u771f\u80fd\u79f0\u5f97\u4e0a\u662f\u5927\u4fa0\u5417\u2026\u2026",
+        "combo_skill_id": 0,
+        "id": 5110513,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1070,
+                107005
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5110521": {
+        "map": "40610711",
+        "name": "\u9006\u50cf\u00b7\u9752\u541b",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040201,
+        "monster_level": 80,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u8fd9\u4e16\u95f4\u5149\u6697\u76f8\u751f\uff0c\u6709\u4e9b\u4e8b\u60c5\u5fc5\u987b\u5f97\u6709\u4eba\u6765\u80cc\u8d1f\u3002\n\u4e8b\u5173\u5229\u5bb3\u3001\u4fbf\u65e0\u6cd5\u907f\u514d\u3002\n\u6211\u4e5f\u66fe\u95ee\u8fc7\u81ea\u5df1\u4e3a\u4ec0\u4e48\u504f\u504f\u662f\u6211\u3002\n\u4e8b\u5b9e\u770b\u6765\uff0c\u4e5f\u53ea\u80fd\u662f\u6211\u3002",
+        "combo_skill_id": 0,
+        "id": 5110521,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5110522": {
+        "map": "40610712",
+        "name": "\u9006\u50cf\u00b7\u9752\u541b",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040202,
+        "monster_level": 80,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u8fd9\u4e16\u95f4\u5149\u6697\u76f8\u751f\uff0c\u6709\u4e9b\u4e8b\u60c5\u5fc5\u987b\u5f97\u6709\u4eba\u6765\u80cc\u8d1f\u3002\n\u4e8b\u5173\u5229\u5bb3\u3001\u4fbf\u65e0\u6cd5\u907f\u514d\u3002\n\u6211\u4e5f\u66fe\u95ee\u8fc7\u81ea\u5df1\u4e3a\u4ec0\u4e48\u504f\u504f\u662f\u6211\u3002\n\u4e8b\u5b9e\u770b\u6765\uff0c\u4e5f\u53ea\u80fd\u662f\u6211\u3002",
+        "combo_skill_id": 0,
+        "id": 5110522,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5110523": {
+        "map": "40610713",
+        "name": "\u9006\u50cf\u00b7\u9752\u541b",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040203,
+        "monster_level": 80,
+        "sub_type": 2,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u8fd9\u4e16\u95f4\u5149\u6697\u76f8\u751f\uff0c\u6709\u4e9b\u4e8b\u60c5\u5fc5\u987b\u5f97\u6709\u4eba\u6765\u80cc\u8d1f\u3002\n\u4e8b\u5173\u5229\u5bb3\u3001\u4fbf\u65e0\u6cd5\u907f\u514d\u3002\n\u6211\u4e5f\u66fe\u95ee\u8fc7\u81ea\u5df1\u4e3a\u4ec0\u4e48\u504f\u504f\u662f\u6211\u3002\n\u4e8b\u5b9e\u770b\u6765\uff0c\u4e5f\u53ea\u80fd\u662f\u6211\u3002",
+        "combo_skill_id": 0,
+        "id": 5110523,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1071,
+                107104
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5110531": {
+        "map": "40610721",
+        "name": "\u9006\u50cf\u00b7\u767e\u89e3",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040301,
+        "monster_level": 80,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u5e38\u8a00\u9053\u300c\u65e0\u5546\u4e0d\u5c16\u300d\uff0c\u73b0\u5728\u5374\u53d8\u6210\u4e86\u300c\u65e0\u5546\u4e0d\u5978\uff0c\u65e0\u5978\u4e0d\u5546\u300d\u3002\n\u522b\u770b\u54b1\u73b0\u5728\u98ce\u5934\u65e0\u4e24\uff0c\u53ef\u4e8b\u5b9e\u4e0a\u6ca1\u6709\u591a\u5c11\u4eba\u76f8\u4fe1\u54b1\u8d5a\u7684\u94b1\u662f\u5e72\u51c0\u826f\u5fc3\u7684\u3002\n\u5404\u5f0f\u5404\u6837\u7684\u4f20\u8a00\u90fd\u6709\uff0c\u81f3\u4e8e\u771f\u76f8\u561b\uff0c\u5c31\u51ed\u541b\u60f3\u8c61\u4e86\u2026\u2026",
+        "combo_skill_id": 0,
+        "id": 5110531,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5110532": {
+        "map": "40610722",
+        "name": "\u9006\u50cf\u00b7\u767e\u89e3",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040302,
+        "monster_level": 80,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u5e38\u8a00\u9053\u300c\u65e0\u5546\u4e0d\u5c16\u300d\uff0c\u73b0\u5728\u5374\u53d8\u6210\u4e86\u300c\u65e0\u5546\u4e0d\u5978\uff0c\u65e0\u5978\u4e0d\u5546\u300d\u3002\n\u522b\u770b\u54b1\u73b0\u5728\u98ce\u5934\u65e0\u4e24\uff0c\u53ef\u4e8b\u5b9e\u4e0a\u6ca1\u6709\u591a\u5c11\u4eba\u76f8\u4fe1\u54b1\u8d5a\u7684\u94b1\u662f\u5e72\u51c0\u826f\u5fc3\u7684\u3002\n\u5404\u5f0f\u5404\u6837\u7684\u4f20\u8a00\u90fd\u6709\uff0c\u81f3\u4e8e\u771f\u76f8\u561b\uff0c\u5c31\u51ed\u541b\u60f3\u8c61\u4e86\u2026\u2026",
+        "combo_skill_id": 0,
+        "id": 5110532,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5110533": {
+        "map": "40610723",
+        "name": "\u9006\u50cf\u00b7\u767e\u89e3",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040303,
+        "monster_level": 80,
+        "sub_type": 3,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u5e38\u8a00\u9053\u300c\u65e0\u5546\u4e0d\u5c16\u300d\uff0c\u73b0\u5728\u5374\u53d8\u6210\u4e86\u300c\u65e0\u5546\u4e0d\u5978\uff0c\u65e0\u5978\u4e0d\u5546\u300d\u3002\n\u522b\u770b\u54b1\u73b0\u5728\u98ce\u5934\u65e0\u4e24\uff0c\u53ef\u4e8b\u5b9e\u4e0a\u6ca1\u6709\u591a\u5c11\u4eba\u76f8\u4fe1\u54b1\u8d5a\u7684\u94b1\u662f\u5e72\u51c0\u826f\u5fc3\u7684\u3002\n\u5404\u5f0f\u5404\u6837\u7684\u4f20\u8a00\u90fd\u6709\uff0c\u81f3\u4e8e\u771f\u76f8\u561b\uff0c\u5c31\u51ed\u541b\u60f3\u8c61\u4e86\u2026\u2026",
+        "combo_skill_id": 0,
+        "id": 5110533,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1072,
+                107203
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5110541": {
+        "map": "40610741",
+        "name": "\u9006\u50cf\u00b7\u5de1\u5929",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040401,
+        "monster_level": 80,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u5929\u4e0b\u6518\u6518\uff0c\u7686\u4e3a\u5229\u5f80\u3002\n\u6068\u8fc7\u90a3\u4e9b\u611a\u6627\u65e0\u77e5\u7684\u4eba\u5417\uff1f\n\u4e3a\u90a3\u4e9b\u8717\u89d2\u865a\u540d\u8747\u5934\u5fae\u5229\u2026\u2026\u6211\u53ea\u89c9\u5f97\u4ed6\u4eec\u53ef\u601c\u3002\n\u65e0\u8bba\u90a3\u4e9b\u4eba\u600e\u4e48\u60f3\uff0c\u6211\u4ecd\u5728\u8fd9\u6761\u8def\u4e0a\u524d\u8fdb\u7740\u3002\n\u8fd9\uff0c\u4fbf\u591f\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5110541,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5110542": {
+        "map": "40610742",
+        "name": "\u9006\u50cf\u00b7\u5de1\u5929",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040402,
+        "monster_level": 80,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u5929\u4e0b\u6518\u6518\uff0c\u7686\u4e3a\u5229\u5f80\u3002\n\u6068\u8fc7\u90a3\u4e9b\u611a\u6627\u65e0\u77e5\u7684\u4eba\u5417\uff1f\n\u4e3a\u90a3\u4e9b\u8717\u89d2\u865a\u540d\u8747\u5934\u5fae\u5229\u2026\u2026\u6211\u53ea\u89c9\u5f97\u4ed6\u4eec\u53ef\u601c\u3002\n\u65e0\u8bba\u90a3\u4e9b\u4eba\u600e\u4e48\u60f3\uff0c\u6211\u4ecd\u5728\u8fd9\u6761\u8def\u4e0a\u524d\u8fdb\u7740\u3002\n\u8fd9\uff0c\u4fbf\u591f\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5110542,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5110543": {
+        "map": "40610743",
+        "name": "\u9006\u50cf\u00b7\u5de1\u5929",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040403,
+        "monster_level": 80,
+        "sub_type": 4,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u5929\u4e0b\u6518\u6518\uff0c\u7686\u4e3a\u5229\u5f80\u3002\n\u6068\u8fc7\u90a3\u4e9b\u611a\u6627\u65e0\u77e5\u7684\u4eba\u5417\uff1f\n\u4e3a\u90a3\u4e9b\u8717\u89d2\u865a\u540d\u8747\u5934\u5fae\u5229\u2026\u2026\u6211\u53ea\u89c9\u5f97\u4ed6\u4eec\u53ef\u601c\u3002\n\u65e0\u8bba\u90a3\u4e9b\u4eba\u600e\u4e48\u60f3\uff0c\u6211\u4ecd\u5728\u8fd9\u6761\u8def\u4e0a\u524d\u8fdb\u7740\u3002\n\u8fd9\uff0c\u4fbf\u591f\u4e86\u3002",
+        "combo_skill_id": 0,
+        "id": 5110543,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1074,
+                107403
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5110551": {
+        "map": "40610751",
+        "name": "\u9006\u50cf\u00b7\u6f84\u5fc3",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040501,
+        "monster_level": 80,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u5929\u771f\u3001\u4f2a\u5584\u2026\u2026\u6216\u8bb8\u5427\u3002\n\u4f46\u6211\u662f\u4e00\u540d\u533b\u751f\uff0c\u6211\u4e0d\u53ef\u80fd\u5bf9\u773c\u524d\u7684\u727a\u7272\u65e0\u52a8\u4e8e\u8877\u3002\n\u6211\u2026\u2026\u4e0d\u4f1a\u653e\u5f03\u4efb\u4f55\u4e00\u4e2a\u4eba\u3002",
+        "combo_skill_id": 0,
+        "id": 5110551,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5110552": {
+        "map": "40610752",
+        "name": "\u9006\u50cf\u00b7\u6f84\u5fc3",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040502,
+        "monster_level": 80,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u5929\u771f\u3001\u4f2a\u5584\u2026\u2026\u6216\u8bb8\u5427\u3002\n\u4f46\u6211\u662f\u4e00\u540d\u533b\u751f\uff0c\u6211\u4e0d\u53ef\u80fd\u5bf9\u773c\u524d\u7684\u727a\u7272\u65e0\u52a8\u4e8e\u8877\u3002\n\u6211\u2026\u2026\u4e0d\u4f1a\u653e\u5f03\u4efb\u4f55\u4e00\u4e2a\u4eba\u3002",
+        "combo_skill_id": 0,
+        "id": 5110552,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5110553": {
+        "map": "40610753",
+        "name": "\u9006\u50cf\u00b7\u6f84\u5fc3",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040503,
+        "monster_level": 80,
+        "sub_type": 5,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u5929\u771f\u3001\u4f2a\u5584\u2026\u2026\u6216\u8bb8\u5427\u3002\n\u4f46\u6211\u662f\u4e00\u540d\u533b\u751f\uff0c\u6211\u4e0d\u53ef\u80fd\u5bf9\u773c\u524d\u7684\u727a\u7272\u65e0\u52a8\u4e8e\u8877\u3002\n\u6211\u2026\u2026\u4e0d\u4f1a\u653e\u5f03\u4efb\u4f55\u4e00\u4e2a\u4eba\u3002",
+        "combo_skill_id": 0,
+        "id": 5110553,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1075,
+                107505
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "5110561": {
+        "map": "40610761",
+        "name": "\u9006\u50cf\u00b7\u592a\u4e00",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040601,
+        "monster_level": 80,
+        "sub_type": 6,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u53ea\u8981\u80fd\u5b88\u4f4f\u865a\u6052\u2026\u2026\u65e0\u8bba\u6b64\u8eab\u5982\u4f55\u5d29\u6bc1\uff0c\u90fd\u6ca1\u6709\u5173\u7cfb\u3002",
+        "combo_skill_id": 0,
+        "id": 5110561,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5110562": {
+        "map": "40610762",
+        "name": "\u9006\u50cf\u00b7\u592a\u4e00",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040602,
+        "monster_level": 80,
+        "sub_type": 6,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u53ea\u8981\u80fd\u5b88\u4f4f\u865a\u6052\u2026\u2026\u65e0\u8bba\u6b64\u8eab\u5982\u4f55\u5d29\u6bc1\uff0c\u90fd\u6ca1\u6709\u5173\u7cfb\u3002",
+        "combo_skill_id": 0,
+        "id": 5110562,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            0
+        ]
+    },
+    "5110563": {
+        "map": "40610763",
+        "name": "\u9006\u50cf\u00b7\u592a\u4e00",
+        "affix_type": "",
+        "background_1": "",
+        "ai_level": 1,
+        "drop_lib_id": 8040603,
+        "monster_level": 80,
+        "sub_type": 6,
+        "need_default_team": 1,
+        "level": 1,
+        "tips": "\u53ea\u8981\u80fd\u5b88\u4f4f\u865a\u6052\u2026\u2026\u65e0\u8bba\u6b64\u8eab\u5982\u4f55\u5d29\u6bc1\uff0c\u90fd\u6ca1\u6709\u5173\u7cfb\u3002",
+        "combo_skill_id": 0,
+        "id": 5110563,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1076,
+                107603
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            208,
+            -1
+        ]
+    },
+    "all": [
+        5010511,
+        5010512,
+        5010513,
+        5010521,
+        5010522,
+        5010523,
+        5010531,
+        5010532,
+        5010533,
+        5010541,
+        5010542,
+        5010543,
+        5010551,
+        5010552,
+        5010553,
+        5020311,
+        5020312,
+        5020313,
+        5020321,
+        5020322,
+        5020323,
+        5020331,
+        5020332,
+        5020333,
+        5020341,
+        5020342,
+        5020343,
+        5020351,
+        5020352,
+        5020353,
+        5050311,
+        5050312,
+        5050313,
+        5050321,
+        5050322,
+        5050323,
+        5050331,
+        5050332,
+        5050333,
+        5050341,
+        5050342,
+        5050343,
+        5050351,
+        5050352,
+        5050353,
+        5050361,
+        5050362,
+        5050363,
+        5050371,
+        5050372,
+        5050373,
+        5050381,
+        5050382,
+        5050383,
+        5070311,
+        5070312,
+        5070313,
+        5070321,
+        5070322,
+        5070323,
+        5070331,
+        5070332,
+        5070333,
+        5070341,
+        5070342,
+        5070343,
+        5070351,
+        5070352,
+        5070353,
+        5070361,
+        5070362,
+        5070363,
+        5070371,
+        5070372,
+        5070373,
+        5070381,
+        5070382,
+        5070383,
+        5110511,
+        5110512,
+        5110513,
+        5110521,
+        5110522,
+        5110523,
+        5110531,
+        5110532,
+        5110533,
+        5110541,
+        5110542,
+        5110543,
+        5110551,
+        5110552,
+        5110553,
+        5110561,
+        5110562,
+        5110563
+    ]
+}

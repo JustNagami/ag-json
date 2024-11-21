@@ -1,0 +1,132 @@
+{
+    "1": {
+        "score": 10,
+        "desc": "",
+        "map_bigger": 0,
+        "id": 1,
+        "food_cost": 1,
+        "rounds": 30,
+        "cells_list": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "2": {
+        "score": 20,
+        "desc": "\u6076\u5ba2\u548c\u707e\u7978\u7684\u751f\u6210\u6982\u7387\u589e\u52a0\u4e86",
+        "map_bigger": 0,
+        "id": 2,
+        "food_cost": 0,
+        "rounds": 60,
+        "cells_list": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "3": {
+        "score": 30,
+        "desc": "\u707e\u7978\u7684\u751f\u6210\u6982\u7387\u589e\u52a0\u4e86",
+        "map_bigger": 0,
+        "id": 3,
+        "food_cost": 1,
+        "rounds": 100,
+        "cells_list": [
+            1,
+            2,
+            0,
+            0,
+            1
+        ]
+    },
+    "4": {
+        "score": 40,
+        "desc": "\u7ecf\u8425\u573a\u5730\u6269\u5927\u4e86\n\u6076\u5ba2\u7684\u751f\u6210\u6982\u7387\u589e\u52a0\u4e86",
+        "map_bigger": 1,
+        "id": 4,
+        "food_cost": 0,
+        "rounds": 150,
+        "cells_list": [
+            1,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "5": {
+        "score": 50,
+        "desc": "\u6076\u5ba2\u7684\u751f\u6210\u6982\u7387\u51cf\u5c11\u4e86\n\u707e\u7978\u7684\u751f\u6210\u6982\u7387\u589e\u52a0\u4e86",
+        "map_bigger": 0,
+        "id": 5,
+        "food_cost": 0,
+        "rounds": 200,
+        "cells_list": [
+            -1,
+            1,
+            1,
+            -1,
+            1
+        ]
+    },
+    "6": {
+        "score": 55,
+        "desc": "\u6076\u5ba2\u7684\u751f\u6210\u6982\u7387\u51cf\u5c11\u4e86",
+        "map_bigger": 0,
+        "id": 6,
+        "food_cost": 1,
+        "rounds": 240,
+        "cells_list": [
+            1,
+            0,
+            1,
+            -1,
+            0
+        ]
+    },
+    "7": {
+        "score": 58,
+        "desc": "\u707e\u7978\u7684\u751f\u6210\u6982\u7387\u51cf\u5c11\u4e86",
+        "map_bigger": 0,
+        "id": 7,
+        "food_cost": 0,
+        "rounds": 280,
+        "cells_list": [
+            -1,
+            1,
+            1,
+            0,
+            -1
+        ]
+    },
+    "8": {
+        "score": 60,
+        "desc": "\u6076\u5ba2\u548c\u707e\u7978\u7684\u751f\u6210\u6982\u7387\u51cf\u5c11\u4e86",
+        "map_bigger": 0,
+        "id": 8,
+        "food_cost": 1,
+        "rounds": 320,
+        "cells_list": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ]
+}

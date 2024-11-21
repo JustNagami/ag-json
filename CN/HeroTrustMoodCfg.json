@@ -1,0 +1,25 @@
+{
+    "1": {
+        "id": 1,
+        "name": "\u6cae\u4e27",
+        "desc": "\u65e0\u7279\u6b8a\u6548\u679c",
+        "trust_exp_rate": 1000
+    },
+    "2": {
+        "id": 2,
+        "name": "\u5e73\u9759",
+        "desc": "\u4ea4\u5fc3\u503c\u83b7\u53d6 +10%",
+        "trust_exp_rate": 1100
+    },
+    "3": {
+        "id": 3,
+        "name": "\u5f00\u5fc3",
+        "desc": "\u4ea4\u5fc3\u503c\u83b7\u53d6 +30%",
+        "trust_exp_rate": 1300
+    },
+    "all": [
+        1,
+        2,
+        3
+    ]
+}

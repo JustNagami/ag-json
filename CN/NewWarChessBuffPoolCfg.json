@@ -1,0 +1,238 @@
+{
+    "1001": {
+        "description": "\u6bcf\u79fb\u52a8<color=#FF9500>40</color>\u683c\uff0c\u83b7\u5f97<color=#FF9500>1</color>\u4e2a\u9ab0\u5b50\uff0c\u8fd8\u9700\u79fb\u52a8<color=#FF9500>%s</color>\u683c",
+        "name": "\u7cbe\u5bc6\u5de5\u5177",
+        "type": 1001,
+        "updateround": 40,
+        "remainround": -1,
+        "id": 1001,
+        "icon": "buff_1",
+        "param": [
+            2
+        ],
+        "des_params": [
+            1
+        ]
+    },
+    "1002": {
+        "description": "\u89c6\u91ce\u8303\u56f4<color=#FF9500>+3</color>",
+        "name": "\u6697\u9002\u5e94",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1002,
+        "icon": "buff_2",
+        "param": [
+            3,
+            3
+        ]
+    },
+    "1003": {
+        "description": "\u62e5\u6709\u5173\u95ed<color=#FF9500>\u300c\u56de\u6536\u7ba1\u9053\u300d</color>\u7684\u80fd\u529b",
+        "name": "\u5982\u5c65\u5e73\u5730",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1003,
+        "icon": "buff_3",
+        "param": [
+            5,
+            1
+        ]
+    },
+    "1004": {
+        "description": "\u62e5\u6709\u7834\u574f<color=#FF9500>\u300c\u575a\u56fa\u8d27\u7bb1\u300d</color>\u7684\u80fd\u529b",
+        "name": "\u6e05\u626b\u969c\u788d",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1004,
+        "icon": "buff_4",
+        "param": [
+            4,
+            1
+        ]
+    },
+    "1005": {
+        "description": "\u62e5\u6709\u8c03\u8282<color=#FF9500>\u300c\u63a8\u8fdb\u5668\u300d</color>\u7684\u80fd\u529b",
+        "name": "\u5f39\u6027\u52bf\u80fd",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1005,
+        "icon": "buff_5",
+        "param": [
+            7,
+            1
+        ]
+    },
+    "1006": {
+        "description": "\u62e5\u6709\u64cd\u4f5c<color=#FF9500>\u300c\u5347\u964d\u53f0\u300d</color>\u7684\u80fd\u529b",
+        "name": "\u9ad8\u7a0b\u53d8\u52a8",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1006,
+        "icon": "buff_6",
+        "param": [
+            6,
+            1
+        ]
+    },
+    "1007": {
+        "description": "\u62e5\u6709\u64cd\u4f5c<color=#FF9500>\u300c\u603b\u64cd\u4f5c\u53f0\u300d</color>\u7684\u80fd\u529b",
+        "name": "\u8d1f\u5411\u91cf",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1007,
+        "icon": "buff_12",
+        "param": [
+            16,
+            1
+        ]
+    },
+    "1008": {
+        "description": "\u62e5\u6709\u4e34\u65f6\u5173\u95ed<color=#FF9500>\u300c\u56de\u6536\u7ba1\u9053\u300d</color>\u7684\u80fd\u529b",
+        "name": "\u4e0d\u7a33\u5b9a\u5e73\u8861",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1008,
+        "icon": "buff_13",
+        "param": [
+            17,
+            1
+        ]
+    },
+    "1009": {
+        "description": "\u89c6\u91ce\u8303\u56f4<color=#FF9500>+2</color>",
+        "name": "\u6697\u9002\u5e94",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1009,
+        "icon": "buff_2",
+        "param": [
+            3,
+            2
+        ]
+    },
+    "2001": {
+        "description": "<color=#FF9500>%s</color>\u56de\u5408\u5185\uff0c\u89c6\u91ce\u8303\u56f4<color=#FF9500>+3</color>",
+        "name": "\u611f\u5b98\u8f85\u52a9",
+        "type": 1000,
+        "updateround": -1,
+        "remainround": 30,
+        "id": 2001,
+        "icon": "buff_7",
+        "param": [
+            3,
+            3
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2002": {
+        "description": "<color=#FF9500>%s</color>\u56de\u5408\u5185\uff0c\u884c\u52a8\u503c<color=#FF9500>\u6d88\u8017\u7ffb\u500d</color>",
+        "name": "\u884c\u52a8\u51dd\u6ede",
+        "type": 1000,
+        "updateround": -1,
+        "remainround": 10,
+        "id": 2002,
+        "icon": "buff_8",
+        "param": [
+            8,
+            1000
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2003": {
+        "description": "<color=#FF9500>%s</color>\u56de\u5408\u540e\uff0c\u56de\u5230\u539f\u70b9",
+        "name": "\u7cbe\u51c6\u76f4\u89c9",
+        "type": 1001,
+        "updateround": 30,
+        "remainround": 30,
+        "id": 2003,
+        "icon": "buff_9",
+        "param": [
+            6
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2004": {
+        "description": "<color=#FF9500>%s</color>\u56de\u5408\u540e\uff0c\u5931\u53bb<color=#FF9500>2</color>\u4e2a\u9ab0\u5b50",
+        "name": "\u7834\u635f\u9690\u60a3",
+        "type": 1001,
+        "updateround": 20,
+        "remainround": 20,
+        "id": 2004,
+        "icon": "buff_10",
+        "param": [
+            7
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2005": {
+        "description": "<color=#FF9500>%s</color>\u56de\u5408\u540e\uff0c\u83b7\u5f97<color=#FF9500>2</color>\u4e2a\u9ab0\u5b50",
+        "name": "\u8fdf\u5230\u8c22\u793c",
+        "type": 1001,
+        "updateround": 20,
+        "remainround": 20,
+        "id": 2005,
+        "icon": "buff_11",
+        "param": [
+            8
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2006": {
+        "description": "<color=#FF9500>%s</color>\u56de\u5408\u540e\uff0c\u56de\u5230\u539f\u70b9",
+        "name": "\u7cbe\u51c6\u76f4\u89c9",
+        "type": 1001,
+        "updateround": 30,
+        "remainround": 30,
+        "id": 2006,
+        "icon": "buff_9",
+        "param": [
+            11
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+    ]
+}

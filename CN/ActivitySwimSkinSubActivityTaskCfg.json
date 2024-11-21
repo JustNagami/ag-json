@@ -1,0 +1,845 @@
+{
+    "101": {
+        "description": "\u4f7f\u7528\u7ad9\u59ff\u8fdb\u884c\u62cd\u6444",
+        "type": 1006,
+        "taskId": 101,
+        "params": [
+            [
+                -1,
+                1,
+                7,
+                8,
+                9,
+                101
+            ]
+        ]
+    },
+    "104": {
+        "description": "\u62cd\u6444\u7279\u5199\u7167",
+        "type": 1007,
+        "taskId": 104,
+        "params": [
+            15,
+            27
+        ]
+    },
+    "107": {
+        "description": "\u62cd\u6444\u3010\u52a8\u4f5c3\u3011",
+        "type": 1006,
+        "taskId": 107,
+        "params": [
+            [
+                4
+            ]
+        ]
+    },
+    "108": {
+        "description": "\u4f7f\u7528\u3010\u6655\u5f71\u3011\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "type": 3001,
+        "taskId": 108,
+        "params": [
+            2
+        ]
+    },
+    "109": {
+        "description": "\u4f7f\u7528\u5e73\u89c6\u89c6\u89d2\u62cd\u6444",
+        "type": 1001,
+        "taskId": 109,
+        "params": [
+            0.35
+        ]
+    },
+    "201": {
+        "description": "\u4f7f\u7528\u7ad9\u59ff\u8fdb\u884c\u62cd\u6444",
+        "type": 1006,
+        "taskId": 201,
+        "params": [
+            [
+                -1,
+                13,
+                14,
+                18,
+                201
+            ]
+        ]
+    },
+    "204": {
+        "description": "\u62cd\u6444\u3010\u52a8\u4f5c4\u3011",
+        "type": 1006,
+        "taskId": 204,
+        "params": [
+            [
+                18
+            ]
+        ]
+    },
+    "205": {
+        "description": "\u62cd\u6444\u7279\u5199\u7167",
+        "type": 1007,
+        "taskId": 205,
+        "params": [
+            15,
+            27
+        ]
+    },
+    "207": {
+        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "type": 3002,
+        "taskId": 207,
+        "params": []
+    },
+    "301": {
+        "description": "\u4f7f\u7528\u7ad9\u59ff\u8fdb\u884c\u62cd\u6444",
+        "type": 1006,
+        "taskId": 301,
+        "params": [
+            [
+                -1,
+                301,
+                302,
+                304
+            ]
+        ]
+    },
+    "304": {
+        "description": "\u4f7f\u7528\u5750\u59ff\u8fdb\u884c\u62cd\u6444",
+        "type": 1006,
+        "taskId": 304,
+        "params": [
+            [
+                27,
+                28,
+                29
+            ]
+        ]
+    },
+    "305": {
+        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "type": 3002,
+        "taskId": 305,
+        "params": []
+    },
+    "307": {
+        "description": "\u62cd\u6444\u7279\u5199\u7167",
+        "type": 1007,
+        "taskId": 307,
+        "params": [
+            15,
+            27
+        ]
+    },
+    "401": {
+        "description": "\u62cd\u6444\u5f00\u5fc3\u7684\u8868\u60c5",
+        "type": 1006,
+        "taskId": 401,
+        "params": [
+            [
+                35
+            ]
+        ]
+    },
+    "404": {
+        "description": "\u4f7f\u7528\u5750\u59ff\u8fdb\u884c\u62cd\u6444",
+        "type": 1006,
+        "taskId": 404,
+        "params": [
+            [
+                38,
+                39
+            ]
+        ]
+    },
+    "407": {
+        "description": "\u62cd\u6444\u7279\u5199\u7167",
+        "type": 1007,
+        "taskId": 407,
+        "params": [
+            15,
+            27
+        ]
+    },
+    "408": {
+        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "type": 3002,
+        "taskId": 408,
+        "params": []
+    },
+    "501": {
+        "description": "\u548c\u996e\u54c1\u684c\u8fdb\u884c\u5408\u7167",
+        "type": 1005,
+        "taskId": 501,
+        "params": [
+            "target05_01"
+        ]
+    },
+    "504": {
+        "description": "\u62cd\u6444\u7279\u5199\u7167",
+        "type": 1007,
+        "taskId": 504,
+        "params": [
+            15,
+            27
+        ]
+    },
+    "507": {
+        "description": "\u5bf9\u955c\u5934\u6253\u62db\u547c",
+        "type": 1006,
+        "taskId": 507,
+        "params": [
+            [
+                29
+            ]
+        ]
+    },
+    "508": {
+        "description": "\u548c\u996e\u54c1\u684c\u8fdb\u884c\u5408\u7167",
+        "type": 1005,
+        "taskId": 508,
+        "params": [
+            "target05_01"
+        ]
+    },
+    "509": {
+        "description": "\u4f7f\u7528\u5e73\u89c6\u89c6\u89d2\u62cd\u6444",
+        "type": 1001,
+        "taskId": 509,
+        "params": [
+            0.35
+        ]
+    },
+    "601": {
+        "description": "\u4f7f\u7528\u7ad9\u59ff\u8fdb\u884c\u62cd\u6444",
+        "type": 1006,
+        "taskId": 601,
+        "params": [
+            [
+                -1,
+                13,
+                14,
+                18,
+                201
+            ]
+        ]
+    },
+    "602": {
+        "description": "\u548c\u544a\u793a\u724c\u8fdb\u884c\u5408\u7167",
+        "type": 1005,
+        "taskId": 602,
+        "params": [
+            "target06_01"
+        ]
+    },
+    "604": {
+        "description": "\u62cd\u6444\u3010\u52a8\u4f5c3\u3011",
+        "type": 1006,
+        "taskId": 604,
+        "params": [
+            [
+                17
+            ]
+        ]
+    },
+    "605": {
+        "description": "\u548c\u544a\u793a\u724c\u8fdb\u884c\u5408\u7167",
+        "type": 1005,
+        "taskId": 605,
+        "params": [
+            "target06_01"
+        ]
+    },
+    "607": {
+        "description": "\u62cd\u6444\u3010\u52a8\u4f5c5\u3011",
+        "type": 1006,
+        "taskId": 607,
+        "params": [
+            [
+                19
+            ]
+        ]
+    },
+    "608": {
+        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "type": 3002,
+        "taskId": 608,
+        "params": []
+    },
+    "701": {
+        "description": "\u5bf9\u955c\u5934\u6253\u62db\u547c",
+        "type": 1006,
+        "taskId": 701,
+        "params": [
+            [
+                39
+            ]
+        ]
+    },
+    "702": {
+        "description": "\u548c\u5c0f\u9cb8\u9c7c\u8fdb\u884c\u5408\u7167",
+        "type": 1005,
+        "taskId": 702,
+        "params": [
+            "target07_01"
+        ]
+    },
+    "704": {
+        "description": "\u62cd\u6444\u7279\u5199\u7167",
+        "type": 1007,
+        "taskId": 704,
+        "params": [
+            15,
+            27
+        ]
+    },
+    "705": {
+        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "type": 3002,
+        "taskId": 705,
+        "params": []
+    },
+    "707": {
+        "description": "\u548c\u5c0f\u9cb8\u9c7c\u8fdb\u884c\u5408\u7167",
+        "type": 1005,
+        "taskId": 707,
+        "params": [
+            "target07_01"
+        ]
+    },
+    "708": {
+        "description": "\u4f7f\u7528\u8e72\u59ff\u6216\u5750\u59ff\u8fdb\u884c\u62cd\u6444",
+        "type": 1006,
+        "taskId": 708,
+        "params": [
+            [
+                37,
+                38,
+                39
+            ]
+        ]
+    },
+    "709": {
+        "description": "\u4f7f\u7528\u5e73\u89c6\u89c6\u89d2\u62cd\u6444",
+        "type": 1001,
+        "taskId": 709,
+        "params": [
+            0.35
+        ]
+    },
+    "5101": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5101,
+        "params": []
+    },
+    "5102": {
+        "description": "\u62cd\u6444\u585e\u52d2\u6d85\u3010\u52a8\u4f5c5\u3011",
+        "type": 2002,
+        "taskId": 5102,
+        "params": [
+            [
+                102201
+            ],
+            [
+                19
+            ]
+        ]
+    },
+    "5103": {
+        "description": "\u585e\u52d2\u6d85\u4f4d\u4e8e\u6700\u53f3\u4fa7",
+        "type": 2003,
+        "taskId": 5103,
+        "params": [
+            [
+                102201
+            ],
+            [
+                3
+            ]
+        ]
+    },
+    "5105": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5105,
+        "params": []
+    },
+    "5106": {
+        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "type": 3002,
+        "taskId": 5106,
+        "params": []
+    },
+    "5201": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5201,
+        "params": []
+    },
+    "5202": {
+        "description": "\u54c8\u8fea\u65af\u5750\u5728\u996e\u54c1\u684c\u8fb9",
+        "type": 2004,
+        "taskId": 5202,
+        "params": [
+            [
+                104205
+            ],
+            [
+                1
+            ],
+            [
+                4
+            ]
+        ]
+    },
+    "5203": {
+        "description": "\u585e\u52d2\u6d85\u5750\u5728\u9f13\u624b\u4f4d\u7f6e",
+        "type": 2004,
+        "taskId": 5203,
+        "params": [
+            [
+                102201
+            ],
+            [
+                3
+            ],
+            [
+                19
+            ]
+        ]
+    },
+    "5204": {
+        "description": "\u62cd\u6444\u6ce2\u585e\u51ac\u3010\u52a8\u4f5c1\u3011",
+        "type": 2002,
+        "taskId": 5204,
+        "params": [
+            [
+                113907
+            ],
+            [
+                31
+            ]
+        ]
+    },
+    "5205": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5205,
+        "params": []
+    },
+    "5206": {
+        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "type": 3002,
+        "taskId": 5206,
+        "params": []
+    },
+    "5301": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5301,
+        "params": []
+    },
+    "5302": {
+        "description": "\u585e\u52d2\u6d85\u7ad9\u5728\u4e3b\u5531\u4f4d\u7f6e",
+        "type": 2004,
+        "taskId": 5302,
+        "params": [
+            [
+                102201
+            ],
+            [
+                2
+            ],
+            [
+                -1,
+                14,
+                18,
+                201
+            ]
+        ]
+    },
+    "5303": {
+        "description": "\u62cd\u6444\u6ce2\u585e\u51ac\u3010\u52a8\u4f5c1\u3011",
+        "type": 2002,
+        "taskId": 5303,
+        "params": [
+            [
+                113907
+            ],
+            [
+                31
+            ]
+        ]
+    },
+    "5304": {
+        "description": "\u54c8\u8fea\u65af\u4f7f\u7528\u7ad9\u59ff\u8fdb\u884c\u62cd\u6444",
+        "type": 2002,
+        "taskId": 5304,
+        "params": [
+            [
+                104205
+            ],
+            [
+                -1,
+                1,
+                7,
+                8,
+                9,
+                101
+            ]
+        ]
+    },
+    "5305": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5305,
+        "params": []
+    },
+    "5306": {
+        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "type": 3002,
+        "taskId": 5306,
+        "params": []
+    },
+    "5401": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5401,
+        "params": []
+    },
+    "5402": {
+        "description": "\u4f0a\u90aa\u90a3\u7f8e\u4e2d\u95f4\u4f7f\u7528\u3010\u52a8\u4f5c4\u3011",
+        "type": 2004,
+        "taskId": 5402,
+        "params": [
+            [
+                104902
+            ],
+            [
+                2
+            ],
+            [
+                301
+            ]
+        ]
+    },
+    "5403": {
+        "description": "\u5de6\u4fa7\u4f4d\u7f6e\u6ce2\u585e\u51ac\u5411\u955c\u5934\u6253\u62db\u547c",
+        "type": 2004,
+        "taskId": 5403,
+        "params": [
+            [
+                113907
+            ],
+            [
+                1
+            ],
+            [
+                39
+            ]
+        ]
+    },
+    "5404": {
+        "description": "\u54c8\u8fea\u65af\u4f7f\u7528\u7ad9\u59ff\u8fdb\u884c\u62cd\u6444",
+        "type": 2002,
+        "taskId": 5404,
+        "params": [
+            [
+                104205
+            ],
+            [
+                -1,
+                1,
+                7,
+                8,
+                9,
+                101
+            ]
+        ]
+    },
+    "5405": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5405,
+        "params": []
+    },
+    "5406": {
+        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "type": 3002,
+        "taskId": 5406,
+        "params": []
+    },
+    "5501": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5501,
+        "params": []
+    },
+    "5502": {
+        "description": "\u62cd\u6444\u6ce2\u585e\u51ac\u3010\u52a8\u4f5c1\u3011",
+        "type": 2002,
+        "taskId": 5502,
+        "params": [
+            [
+                113907
+            ],
+            [
+                31
+            ]
+        ]
+    },
+    "5503": {
+        "description": "\u4f0a\u90aa\u90a3\u7f8e\u5750\u5728\u4e2d\u95f4",
+        "type": 2004,
+        "taskId": 5503,
+        "params": [
+            [
+                104902
+            ],
+            [
+                2
+            ],
+            [
+                27,
+                28
+            ]
+        ]
+    },
+    "5504": {
+        "description": "\u585e\u52d2\u6d85\u88ab\u6d77\u6d6a\u6cbe\u6e7f\u4e86\u53cc\u811a",
+        "type": 2004,
+        "taskId": 5504,
+        "params": [
+            [
+                102201
+            ],
+            [
+                3
+            ],
+            [
+                13
+            ]
+        ]
+    },
+    "5505": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5505,
+        "params": []
+    },
+    "5506": {
+        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "type": 3002,
+        "taskId": 5506,
+        "params": []
+    },
+    "5601": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5601,
+        "params": []
+    },
+    "5602": {
+        "description": "\u4f0a\u90aa\u90a3\u7f8e\u5750\u5728\u745c\u4f3d\u57ab\u4e0a",
+        "type": 2004,
+        "taskId": 5602,
+        "params": [
+            [
+                104902
+            ],
+            [
+                1
+            ],
+            [
+                27,
+                28
+            ]
+        ]
+    },
+    "5603": {
+        "description": "\u62cd\u6444\u6ce2\u585e\u51ac\u3010\u52a8\u4f5c1\u3011",
+        "type": 2002,
+        "taskId": 5603,
+        "params": [
+            [
+                113907
+            ],
+            [
+                31
+            ]
+        ]
+    },
+    "5604": {
+        "description": "\u585e\u52d2\u6d85\u5750\u5728\u996e\u54c1\u684c\u53f3\u4fa7",
+        "type": 2004,
+        "taskId": 5604,
+        "params": [
+            [
+                102201
+            ],
+            [
+                3
+            ],
+            [
+                19
+            ]
+        ]
+    },
+    "5605": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5605,
+        "params": []
+    },
+    "5606": {
+        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "type": 3002,
+        "taskId": 5606,
+        "params": []
+    },
+    "5701": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5701,
+        "params": []
+    },
+    "5702": {
+        "description": "\u585e\u52d2\u6d85\u5750\u5728\u745c\u4f3d\u57ab\u4e0a",
+        "type": 2004,
+        "taskId": 5702,
+        "params": [
+            [
+                102201
+            ],
+            [
+                2
+            ],
+            [
+                17
+            ]
+        ]
+    },
+    "5703": {
+        "description": "\u6ce2\u585e\u51ac\u5728\u5c0f\u9cb8\u9c7c\u5de6\u8fb9\u4f7f\u7528\u3010\u52a8\u4f5c3\u3011",
+        "type": 2004,
+        "taskId": 5703,
+        "params": [
+            [
+                113907
+            ],
+            [
+                3
+            ],
+            [
+                37
+            ]
+        ]
+    },
+    "5704": {
+        "description": "\u4f0a\u90aa\u90a3\u7f8e\u5750\u5728\u5c0f\u9cb8\u9c7c\u53f3\u8fb9",
+        "type": 2004,
+        "taskId": 5704,
+        "params": [
+            [
+                104902
+            ],
+            [
+                4
+            ],
+            [
+                27,
+                28
+            ]
+        ]
+    },
+    "5705": {
+        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "type": 2001,
+        "taskId": 5705,
+        "params": []
+    },
+    "5706": {
+        "description": "\u4f7f\u7528\u3010\u6cdb\u5149\u3011\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "type": 3001,
+        "taskId": 5706,
+        "params": [
+            1
+        ]
+    },
+    "all": [
+        101,
+        104,
+        107,
+        108,
+        109,
+        201,
+        204,
+        205,
+        207,
+        301,
+        304,
+        305,
+        307,
+        401,
+        404,
+        407,
+        408,
+        501,
+        504,
+        507,
+        508,
+        509,
+        601,
+        602,
+        604,
+        605,
+        607,
+        608,
+        701,
+        702,
+        704,
+        705,
+        707,
+        708,
+        709,
+        5101,
+        5102,
+        5103,
+        5105,
+        5106,
+        5201,
+        5202,
+        5203,
+        5204,
+        5205,
+        5206,
+        5301,
+        5302,
+        5303,
+        5304,
+        5305,
+        5306,
+        5401,
+        5402,
+        5403,
+        5404,
+        5405,
+        5406,
+        5501,
+        5502,
+        5503,
+        5504,
+        5505,
+        5506,
+        5601,
+        5602,
+        5603,
+        5604,
+        5605,
+        5606,
+        5701,
+        5702,
+        5703,
+        5704,
+        5705,
+        5706
+    ]
+}

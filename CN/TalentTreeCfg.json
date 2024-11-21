@@ -1,0 +1,7297 @@
+{
+    "1": {
+        "affix_user": 3,
+        "name": "",
+        "type": 1,
+        "max_level": 1,
+        "affix_id": 340,
+        "desc": "\u6240\u6709\u795e\u7cfb\u7684\u4fee\u6b63\u8005\u53ef\u4ee5\u83b7\u5f97\u52a0\u6210",
+        "race": 0,
+        "activity_id": 61121,
+        "index": 0,
+        "id": 1,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54001,
+                10
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                30
+            ],
+            [
+                54001,
+                30
+            ],
+            [
+                54001,
+                30
+            ]
+        ],
+        "formula_condition": []
+    },
+    "2": {
+        "affix_user": 3,
+        "name": "",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 337,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u89e3\u6790\u589e\u76ca",
+        "race": 1,
+        "activity_id": 61121,
+        "index": 1,
+        "id": 2,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54001,
+                10
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                30
+            ],
+            [
+                54001,
+                30
+            ],
+            [
+                54001,
+                30
+            ]
+        ],
+        "formula_condition": []
+    },
+    "3": {
+        "affix_user": 3,
+        "name": "",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 338,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u89e3\u6790\u589e\u76ca",
+        "race": 2,
+        "activity_id": 61121,
+        "index": 2,
+        "id": 3,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54001,
+                10
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                30
+            ],
+            [
+                54001,
+                30
+            ],
+            [
+                54001,
+                30
+            ]
+        ],
+        "formula_condition": []
+    },
+    "4": {
+        "affix_user": 3,
+        "name": "",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 336,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u89e3\u6790\u589e\u76ca",
+        "race": 3,
+        "activity_id": 61121,
+        "index": 3,
+        "id": 4,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54001,
+                10
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                30
+            ],
+            [
+                54001,
+                30
+            ],
+            [
+                54001,
+                30
+            ]
+        ],
+        "formula_condition": []
+    },
+    "5": {
+        "affix_user": 3,
+        "name": "",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 335,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u89e3\u6790\u589e\u76ca",
+        "race": 4,
+        "activity_id": 61121,
+        "index": 4,
+        "id": 5,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54001,
+                10
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                30
+            ],
+            [
+                54001,
+                30
+            ],
+            [
+                54001,
+                30
+            ]
+        ],
+        "formula_condition": []
+    },
+    "6": {
+        "affix_user": 3,
+        "name": "",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 339,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u89e3\u6790\u589e\u76ca",
+        "race": 5,
+        "activity_id": 61121,
+        "index": 5,
+        "id": 6,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54001,
+                10
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                30
+            ],
+            [
+                54001,
+                30
+            ],
+            [
+                54001,
+                30
+            ]
+        ],
+        "formula_condition": []
+    },
+    "101": {
+        "affix_user": 3,
+        "name": "",
+        "type": 1,
+        "max_level": 1,
+        "affix_id": 340,
+        "desc": "\u6240\u6709\u795e\u7cfb\u7684\u4fee\u6b63\u8005\u53ef\u4ee5\u83b7\u5f97\u52a0\u6210",
+        "race": 0,
+        "activity_id": 1061121,
+        "index": 0,
+        "id": 101,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54001,
+                10
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                30
+            ]
+        ],
+        "formula_condition": []
+    },
+    "102": {
+        "affix_user": 3,
+        "name": "",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 337,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u89e3\u6790\u589e\u76ca",
+        "race": 1,
+        "activity_id": 1061121,
+        "index": 1,
+        "id": 102,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54001,
+                10
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                30
+            ]
+        ],
+        "formula_condition": []
+    },
+    "103": {
+        "affix_user": 3,
+        "name": "",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 338,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u89e3\u6790\u589e\u76ca",
+        "race": 2,
+        "activity_id": 1061121,
+        "index": 2,
+        "id": 103,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54001,
+                10
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                30
+            ]
+        ],
+        "formula_condition": []
+    },
+    "104": {
+        "affix_user": 3,
+        "name": "",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 336,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u89e3\u6790\u589e\u76ca",
+        "race": 3,
+        "activity_id": 1061121,
+        "index": 3,
+        "id": 104,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54001,
+                10
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                30
+            ]
+        ],
+        "formula_condition": []
+    },
+    "105": {
+        "affix_user": 3,
+        "name": "",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 335,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u89e3\u6790\u589e\u76ca",
+        "race": 4,
+        "activity_id": 1061121,
+        "index": 4,
+        "id": 105,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54001,
+                10
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                30
+            ]
+        ],
+        "formula_condition": []
+    },
+    "106": {
+        "affix_user": 3,
+        "name": "",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 339,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u89e3\u6790\u589e\u76ca",
+        "race": 5,
+        "activity_id": 1061121,
+        "index": 5,
+        "id": 106,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54001,
+                10
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                30
+            ]
+        ],
+        "formula_condition": []
+    },
+    "107": {
+        "affix_user": 3,
+        "name": "",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 381,
+        "desc": "\u5929\u57a3\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u89e3\u6790\u589e\u76ca",
+        "race": 9,
+        "activity_id": 1061121,
+        "index": 6,
+        "id": 107,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54001,
+                10
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                20
+            ],
+            [
+                54001,
+                30
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9101": {
+        "affix_user": 0,
+        "name": "\u5730\u6bcd",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9022,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9101,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "9102": {
+        "affix_user": 3,
+        "name": "\u6df1\u6e0a",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9023,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9102,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9103": {
+        "affix_user": 3,
+        "name": "\u9ed1\u6697",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9024,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9103,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9104": {
+        "affix_user": 3,
+        "name": "\u6c38\u591c",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9025,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9104,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9105": {
+        "affix_user": 3,
+        "name": "\u81f3\u7231",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9026,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9105,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9201": {
+        "affix_user": 0,
+        "name": "\u539f\u59cb\u4e4b\u5ca9",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9027,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9201,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "9202": {
+        "affix_user": 3,
+        "name": "\u82c7\u539f\u60a0\u6b4c",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9028,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9202,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9203": {
+        "affix_user": 3,
+        "name": "\u6df7\u6c8c\u4e4b\u6c34",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9029,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9203,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9204": {
+        "affix_user": 3,
+        "name": "\u82cd\u9e6d\u957f\u9e23",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9030,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9204,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9205": {
+        "affix_user": 3,
+        "name": "\u592a\u9633\u4e4b\u821f",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9031,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9205,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9301": {
+        "affix_user": 0,
+        "name": "\u8352\u9b42",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9032,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9301,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "9302": {
+        "affix_user": 3,
+        "name": "\u5e78\u9b42",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9033,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9302,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9303": {
+        "affix_user": 3,
+        "name": "\u548c\u9b42",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9034,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9303,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9304": {
+        "affix_user": 3,
+        "name": "\u5947\u9b42",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9035,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9304,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9305": {
+        "affix_user": 3,
+        "name": "\u5982\u6211",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9036,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9305,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9401": {
+        "affix_user": 0,
+        "name": "\u7b2c\u4e00\u6811\u6839",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9037,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9401,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "9402": {
+        "affix_user": 3,
+        "name": "\u6a61\u5b50\u6069\u6cfd",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9038,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9402,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9403": {
+        "affix_user": 3,
+        "name": "\u7b2c\u4e8c\u6811\u6839",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9039,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9403,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9404": {
+        "affix_user": 3,
+        "name": "\u51cb\u96f6\u98ce\u7fbd",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9040,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9404,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9405": {
+        "affix_user": 3,
+        "name": "\u7b2c\u4e09\u6811\u6839",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9041,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9405,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9501": {
+        "affix_user": 0,
+        "name": "\u5316\u4e3a\u661f\u8fb0\u4e4b\u4e91",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9042,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9501,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "9502": {
+        "affix_user": 3,
+        "name": "\u5316\u4e3a\u65b0\u751f\u4e4b\u5149",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9043,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9502,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9503": {
+        "affix_user": 3,
+        "name": "\u5316\u4e3a\u8d64\u8272\u4e4b\u738b",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9044,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9503,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9504": {
+        "affix_user": 3,
+        "name": "\u5316\u4e3a\u865a\u65e0\u4e4b\u773c",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9045,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9504,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "9505": {
+        "affix_user": 3,
+        "name": "\u5316\u4e3a\u6f2b\u5929\u7480\u74a8",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9046,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 91551,
+        "index": 0,
+        "id": 9505,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                53008,
+                200
+            ],
+            [
+                53008,
+                400
+            ],
+            [
+                53008,
+                800
+            ],
+            [
+                53008,
+                1600
+            ],
+            [
+                53008,
+                3400
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10101": {
+        "affix_user": 0,
+        "name": "\u5730\u6bcd",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9022,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10101,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "10102": {
+        "affix_user": 3,
+        "name": "\u6df1\u6e0a",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9023,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10102,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10103": {
+        "affix_user": 3,
+        "name": "\u9ed1\u6697",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9024,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10103,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10104": {
+        "affix_user": 3,
+        "name": "\u6c38\u591c",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9025,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10104,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10105": {
+        "affix_user": 3,
+        "name": "\u81f3\u7231",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9026,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10105,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10201": {
+        "affix_user": 0,
+        "name": "\u539f\u59cb\u4e4b\u5ca9",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9027,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10201,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "10202": {
+        "affix_user": 3,
+        "name": "\u82c7\u539f\u60a0\u6b4c",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9028,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10202,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10203": {
+        "affix_user": 3,
+        "name": "\u6df7\u6c8c\u4e4b\u6c34",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9029,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10203,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10204": {
+        "affix_user": 3,
+        "name": "\u82cd\u9e6d\u957f\u9e23",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9030,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10204,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10205": {
+        "affix_user": 3,
+        "name": "\u592a\u9633\u4e4b\u821f",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9031,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10205,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10301": {
+        "affix_user": 0,
+        "name": "\u8352\u9b42",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9032,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10301,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "10302": {
+        "affix_user": 3,
+        "name": "\u5e78\u9b42",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9033,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10302,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10303": {
+        "affix_user": 3,
+        "name": "\u548c\u9b42",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9034,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10303,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10304": {
+        "affix_user": 3,
+        "name": "\u5947\u9b42",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9035,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10304,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10305": {
+        "affix_user": 3,
+        "name": "\u5982\u6211",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9036,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10305,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10401": {
+        "affix_user": 0,
+        "name": "\u7b2c\u4e00\u6811\u6839",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9037,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10401,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "10402": {
+        "affix_user": 3,
+        "name": "\u6a61\u5b50\u6069\u6cfd",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9038,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10402,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10403": {
+        "affix_user": 3,
+        "name": "\u7b2c\u4e8c\u6811\u6839",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9039,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10403,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10404": {
+        "affix_user": 3,
+        "name": "\u51cb\u96f6\u98ce\u7fbd",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9040,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10404,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10405": {
+        "affix_user": 3,
+        "name": "\u7b2c\u4e09\u6811\u6839",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9041,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10405,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10501": {
+        "affix_user": 0,
+        "name": "\u5316\u4e3a\u661f\u8fb0\u4e4b\u4e91",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9042,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10501,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "10502": {
+        "affix_user": 3,
+        "name": "\u5316\u4e3a\u65b0\u751f\u4e4b\u5149",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9043,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10502,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10503": {
+        "affix_user": 3,
+        "name": "\u5316\u4e3a\u8d64\u8272\u4e4b\u738b",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9044,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10503,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10504": {
+        "affix_user": 3,
+        "name": "\u5316\u4e3a\u865a\u65e0\u4e4b\u773c",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9045,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10504,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10505": {
+        "affix_user": 3,
+        "name": "\u5316\u4e3a\u6f2b\u5929\u7480\u74a8",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9046,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10505,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10601": {
+        "affix_user": 0,
+        "name": "\u6f5c\u4e8e\u6e0a",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9172,
+        "desc": "\u5929\u57a3\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 9,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10601,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "10602": {
+        "affix_user": 3,
+        "name": "\u6218\u4e8e\u91ce",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9173,
+        "desc": "\u5929\u57a3\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 9,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10602,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10603": {
+        "affix_user": 3,
+        "name": "\u65e0\u548e\u65f6",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9174,
+        "desc": "\u5929\u57a3\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 9,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10603,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10604": {
+        "affix_user": 3,
+        "name": "\u8dc3\u5728\u5929",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9175,
+        "desc": "\u5929\u57a3\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 9,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10604,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "10605": {
+        "affix_user": 3,
+        "name": "\u7ec8\u6709\u6094",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9176,
+        "desc": "\u5929\u57a3\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 9,
+        "activity_id": 192291,
+        "index": 0,
+        "id": 10605,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54032,
+                2000
+            ],
+            [
+                54032,
+                2200
+            ],
+            [
+                54032,
+                2400
+            ],
+            [
+                54032,
+                2600
+            ],
+            [
+                54032,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "11001": {
+        "affix_user": 3,
+        "name": "\u953b\u6c14\u5f52\u6d41",
+        "type": 1,
+        "max_level": 1,
+        "affix_id": 9194,
+        "desc": "",
+        "race": 0,
+        "activity_id": 202401,
+        "index": 0,
+        "id": 11001,
+        "stage": 0,
+        "unlock_condition": [
+            60101
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "11002": {
+        "affix_user": 3,
+        "name": "\u5384\u5883\u56da\u5f92",
+        "type": 1,
+        "max_level": 1,
+        "affix_id": 9195,
+        "desc": "",
+        "race": 0,
+        "activity_id": 202401,
+        "index": 0,
+        "id": 11002,
+        "stage": 0,
+        "unlock_condition": [
+            60102
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "11003": {
+        "affix_user": 3,
+        "name": "\u7f04\u9ed8\u6668\u660f",
+        "type": 1,
+        "max_level": 1,
+        "affix_id": 9196,
+        "desc": "",
+        "race": 0,
+        "activity_id": 202401,
+        "index": 0,
+        "id": 11003,
+        "stage": 0,
+        "unlock_condition": [
+            60103
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "11004": {
+        "affix_user": 3,
+        "name": "\u60d1\u706b\u70bd\u707c",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 9189,
+        "desc": "",
+        "race": 0,
+        "activity_id": 202401,
+        "index": 0,
+        "id": 11004,
+        "stage": 0,
+        "unlock_condition": [
+            60104,
+            60105,
+            60106
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "11005": {
+        "affix_user": 3,
+        "name": "\u90c1\u6012\u62e2\u5408",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 9190,
+        "desc": "",
+        "race": 0,
+        "activity_id": 202401,
+        "index": 0,
+        "id": 11005,
+        "stage": 0,
+        "unlock_condition": [
+            60108,
+            60109,
+            60110
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "11006": {
+        "affix_user": 3,
+        "name": "\u5929\u5730\u65e0\u7528",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 9191,
+        "desc": "",
+        "race": 0,
+        "activity_id": 202401,
+        "index": 0,
+        "id": 11006,
+        "stage": 0,
+        "unlock_condition": [
+            60104,
+            60105,
+            60106
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "11007": {
+        "affix_user": 3,
+        "name": "\u4f0f\u9e26\u5fa1\u5203",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 9192,
+        "desc": "",
+        "race": 0,
+        "activity_id": 202401,
+        "index": 0,
+        "id": 11007,
+        "stage": 0,
+        "unlock_condition": [
+            60110,
+            60111,
+            60112
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "11008": {
+        "affix_user": 3,
+        "name": "\u5c42\u4e91\u8986\u706b",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 9193,
+        "desc": "",
+        "race": 0,
+        "activity_id": 202401,
+        "index": 0,
+        "id": 11008,
+        "stage": 0,
+        "unlock_condition": [
+            60108,
+            60109,
+            60110
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "12101": {
+        "affix_user": 0,
+        "name": "\u5730\u6bcd",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9022,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12101,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "12102": {
+        "affix_user": 3,
+        "name": "\u6df1\u6e0a",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9023,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12102,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12103": {
+        "affix_user": 3,
+        "name": "\u9ed1\u6697",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9024,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12103,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12104": {
+        "affix_user": 3,
+        "name": "\u6c38\u591c",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9025,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12104,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12105": {
+        "affix_user": 3,
+        "name": "\u81f3\u7231",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9209,
+        "desc": "\u5965\u5c71\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 1,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12105,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12201": {
+        "affix_user": 0,
+        "name": "\u539f\u59cb\u4e4b\u5ca9",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9027,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12201,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "12202": {
+        "affix_user": 3,
+        "name": "\u82c7\u539f\u60a0\u6b4c",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9028,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12202,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12203": {
+        "affix_user": 3,
+        "name": "\u6df7\u6c8c\u4e4b\u6c34",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9029,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12203,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12204": {
+        "affix_user": 3,
+        "name": "\u82cd\u9e6d\u957f\u9e23",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9030,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12204,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12205": {
+        "affix_user": 3,
+        "name": "\u592a\u9633\u4e4b\u821f",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9210,
+        "desc": "\u5c3c\u7f57\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 2,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12205,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12301": {
+        "affix_user": 0,
+        "name": "\u8352\u9b42",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9032,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12301,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "12302": {
+        "affix_user": 3,
+        "name": "\u5e78\u9b42",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9033,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12302,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12303": {
+        "affix_user": 3,
+        "name": "\u548c\u9b42",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9034,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12303,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12304": {
+        "affix_user": 3,
+        "name": "\u5947\u9b42",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9035,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12304,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12305": {
+        "affix_user": 3,
+        "name": "\u5982\u6211",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9211,
+        "desc": "\u771f\u6a31\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 3,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12305,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12401": {
+        "affix_user": 0,
+        "name": "\u7b2c\u4e00\u6811\u6839",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9037,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12401,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "12402": {
+        "affix_user": 3,
+        "name": "\u6a61\u5b50\u6069\u6cfd",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9038,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12402,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12403": {
+        "affix_user": 3,
+        "name": "\u7b2c\u4e8c\u6811\u6839",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9039,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12403,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12404": {
+        "affix_user": 3,
+        "name": "\u51cb\u96f6\u98ce\u7fbd",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9040,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12404,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12405": {
+        "affix_user": 3,
+        "name": "\u7b2c\u4e09\u6811\u6839",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9212,
+        "desc": "\u5723\u6811\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 4,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12405,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12501": {
+        "affix_user": 0,
+        "name": "\u5316\u4e3a\u661f\u8fb0\u4e4b\u4e91",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9042,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12501,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "12502": {
+        "affix_user": 3,
+        "name": "\u5316\u4e3a\u65b0\u751f\u4e4b\u5149",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9043,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12502,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12503": {
+        "affix_user": 3,
+        "name": "\u5316\u4e3a\u8d64\u8272\u4e4b\u738b",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9044,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12503,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12504": {
+        "affix_user": 3,
+        "name": "\u5316\u4e3a\u865a\u65e0\u4e4b\u773c",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9045,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12504,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12505": {
+        "affix_user": 3,
+        "name": "\u5316\u4e3a\u6f2b\u5929\u7480\u74a8",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9213,
+        "desc": "\u4f17\u661f\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 5,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12505,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12601": {
+        "affix_user": 0,
+        "name": "\u6f5c\u4e8e\u6e0a",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9172,
+        "desc": "\u5929\u57a3\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 9,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12601,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": [
+            [
+                1,
+                5
+            ]
+        ]
+    },
+    "12602": {
+        "affix_user": 3,
+        "name": "\u6218\u4e8e\u91ce",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9173,
+        "desc": "\u5929\u57a3\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 9,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12602,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12603": {
+        "affix_user": 3,
+        "name": "\u65e0\u548e\u65f6",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9174,
+        "desc": "\u5929\u57a3\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 9,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12603,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12604": {
+        "affix_user": 3,
+        "name": "\u8dc3\u5728\u5929",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9175,
+        "desc": "\u5929\u57a3\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 9,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12604,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "12605": {
+        "affix_user": 3,
+        "name": "\u7ec8\u6709\u6094",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 9176,
+        "desc": "\u5929\u57a3\u795e\u7cfb\u4fee\u6b63\u8005\u83b7\u5f97\u5bf9\u5e94\u589e\u76ca",
+        "race": 9,
+        "activity_id": 212291,
+        "index": 0,
+        "id": 12605,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [
+            [
+                54050,
+                2000
+            ],
+            [
+                54050,
+                2200
+            ],
+            [
+                54050,
+                2400
+            ],
+            [
+                54050,
+                2600
+            ],
+            [
+                54050,
+                2800
+            ]
+        ],
+        "formula_condition": []
+    },
+    "13101": {
+        "affix_user": 3,
+        "name": "\u8f6c\u52bf\u91cd\u51fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9815,
+        "desc": "\u666e\u901a\u653b\u51fb\u7684\u7b2c\u4e09\u6bb5\u9020\u6210\u7684\u4f24\u5bb3\u5927\u5e45\u589e\u52a0\uff0c\u547d\u4e2d\u76ee\u6807\u8fdb\u5165\u300c\u6655\u7729\u300d\u72b6\u6001",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13101,
+        "stage": 1,
+        "unlock_condition": [
+            114005
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13102": {
+        "affix_user": 3,
+        "name": "\u63b7\u76fe\u56de\u65cb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9816,
+        "desc": "\u6280\u80fd\u4e00\u300c\u76fe\u724c\u6295\u63b7\u300d\u6295\u63b7\u51fa\u989d\u5916\u76fe\u724c",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13102,
+        "stage": 2,
+        "unlock_condition": [
+            114006
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13103": {
+        "affix_user": 3,
+        "name": "\u91ca\u80fd\u65cb\u51fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9817,
+        "desc": "\u5728\u666e\u901a\u653b\u51fb\u7684\u7b2c\u4e8c\u6bb5\u65f6\u957f\u6309\u666e\u901a\u653b\u51fb\u6309\u94ae\uff0c\u4f1a\u6d88\u8017\u795e\u80fd\u518d\u6b21\u91ca\u653e\u666e\u901a\u653b\u51fb\u7b2c\u4e8c\u6bb5",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13103,
+        "stage": 3,
+        "unlock_condition": [
+            114007
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13104": {
+        "affix_user": 3,
+        "name": "\u707c\u70ed\u65cb\u51fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9818,
+        "desc": "\u666e\u901a\u653b\u51fb\u7684\u7b2c\u4e8c\u6bb5\u547d\u4e2d\u540e\uff0c\u547d\u4e2d\u76ee\u6807\u8fdb\u5165\u300c\u707c\u70e7\u300d\u72b6\u6001",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13104,
+        "stage": 4,
+        "unlock_condition": [
+            114008
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13105": {
+        "affix_user": 3,
+        "name": "\u6253\u51fb\u84c4\u80fd",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9819,
+        "desc": "\u666e\u901a\u653b\u51fb\u83b7\u5f97\u989d\u5916\u795e\u80fd",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13105,
+        "stage": 1,
+        "unlock_condition": [
+            114005
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13106": {
+        "affix_user": 3,
+        "name": "\u96c6\u5408\u6253\u51fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9820,
+        "desc": "\u6280\u80fd\u4e09\u300c\u4fe1\u5ff5\u5b88\u62a4\u300d\u805a\u96c6\u9644\u8fd1\u7684\u654c\u4eba",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13106,
+        "stage": 2,
+        "unlock_condition": [
+            114006
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13107": {
+        "affix_user": 3,
+        "name": "\u63b7\u76fe\u6253\u51fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9821,
+        "desc": "\u91ca\u653e\u6280\u80fd\u4e09\u300c\u4fe1\u5ff5\u5b88\u62a4\u300d\u5bf9\u9644\u8fd1\u7684\u654c\u4eba\u63b7\u51fa\u76fe\u724c",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13107,
+        "stage": 3,
+        "unlock_condition": [
+            114007
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13108": {
+        "affix_user": 3,
+        "name": "\u76fe\u51fb\u7eed\u822a",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9822,
+        "desc": "\u76fe\u724c\u547d\u4e2d\u654c\u4eba\u540e\u6062\u590d\u81ea\u8eab\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13108,
+        "stage": 4,
+        "unlock_condition": [
+            114008
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13109": {
+        "affix_user": 3,
+        "name": "\u6267\u5251\u731b\u653b",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9823,
+        "desc": "\u666e\u901a\u653b\u51fb\u51cf\u5c11\u6240\u6709\u6280\u80fd\u5f53\u524d\u7684\u51b7\u5374\u65f6\u95f4",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13109,
+        "stage": 1,
+        "unlock_condition": [
+            114005
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13110": {
+        "affix_user": 3,
+        "name": "\u4fe1\u5ff5\u518d\u8a93",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9824,
+        "desc": "\u6280\u80fd\u4e09\u300c\u4fe1\u5ff5\u5b88\u62a4\u300d\u4f1a\u989d\u5916\u91ca\u653e\u4e00\u6b21",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13110,
+        "stage": 2,
+        "unlock_condition": [
+            114006
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13111": {
+        "affix_user": 3,
+        "name": "\u53cd\u5236\u5b88\u62a4",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9825,
+        "desc": "\u53cd\u51fb\u6210\u529f\u540e\uff0c\u81ea\u52a8\u89e6\u53d1\u6280\u80fd\u4e09\u300c\u4fe1\u5ff5\u5b88\u62a4\u300d",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13111,
+        "stage": 3,
+        "unlock_condition": [
+            114007
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13112": {
+        "affix_user": 3,
+        "name": "\u51dd\u7ed3\u5b88\u62a4",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9826,
+        "desc": "\u76fe\u724c\u547d\u4e2d\u654c\u4eba\u540e\uff0c\u4f7f\u5176\u8fdb\u5165\u300c\u51b0\u51bb\u300d\u72b6\u6001",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13112,
+        "stage": 4,
+        "unlock_condition": [
+            114008
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13113": {
+        "affix_user": 3,
+        "name": "\u51dd\u98ce\u8ffd\u51fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9815,
+        "desc": "\u666e\u901a\u653b\u51fb\u7684\u6700\u540e\u4e00\u6bb5\u53ec\u5524\u300c\u98d3\u98ce\u300d",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13113,
+        "stage": 1,
+        "unlock_condition": [
+            114009
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13114": {
+        "affix_user": 3,
+        "name": "\u98ce\u56de\u97e7\u53d1",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9816,
+        "desc": "\u300c\u98d3\u98ce\u300d\u547d\u4e2d\u654c\u4eba\u540e\uff0c\u81ea\u8eab\u77ed\u6682\u9738\u4f53\u5e76\u6062\u590d\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13114,
+        "stage": 2,
+        "unlock_condition": [
+            114010
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13115": {
+        "affix_user": 3,
+        "name": "\u98ce\u67f1\u5bfb\u8e2a",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9817,
+        "desc": "\u5bf9\u300c\u98d3\u98ce\u300d\u547d\u4e2d\u7684\u654c\u4eba\u53ec\u5524\u300c\u98ce\u795e\u4e4b\u67f1\u300d",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13115,
+        "stage": 3,
+        "unlock_condition": [
+            114011
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13116": {
+        "affix_user": 3,
+        "name": "\u98ce\u67f1\u589e\u5a01",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9818,
+        "desc": "\u300c\u98ce\u795e\u4e4b\u67f1\u300d\u9020\u6210\u7684\u4f24\u5bb3\u589e\u52a0",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13116,
+        "stage": 4,
+        "unlock_condition": [
+            114012
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13117": {
+        "affix_user": 3,
+        "name": "\u7f61\u98ce\u5f3a\u4f53",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9819,
+        "desc": "\u666e\u901a\u653b\u51fb\u65f6\u9738\u4f53",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13117,
+        "stage": 1,
+        "unlock_condition": [
+            114009
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13118": {
+        "affix_user": 3,
+        "name": "\u75be\u98ce\u6d41\u4e91",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9820,
+        "desc": "\u666e\u901a\u653b\u51fb\u7684\u901f\u5ea6\u5927\u5e45\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13118,
+        "stage": 2,
+        "unlock_condition": [
+            114010
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13119": {
+        "affix_user": 3,
+        "name": "\u98d3\u98ce\u7834\u9635",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9821,
+        "desc": "\u51fb\u8d25\u654c\u4eba\u540e\uff0c\u5bf9\u5168\u573a\u654c\u4eba\u53ec\u5524\u300c\u98ce\u795e\u4e4b\u67f1\u300d",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13119,
+        "stage": 3,
+        "unlock_condition": [
+            114011
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13120": {
+        "affix_user": 3,
+        "name": "\u730e\u98ce\u8f6e\u56de",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9822,
+        "desc": "\u300c\u98ce\u795e\u4e4b\u67f1\u300d\u547d\u4e2d\u540e\uff0c\u4f1a\u989d\u5916\u89e6\u53d1\u4e24\u6b21\u76f8\u540c\u6548\u679c",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13120,
+        "stage": 4,
+        "unlock_condition": [
+            114012
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13121": {
+        "affix_user": 3,
+        "name": "\u84c4\u52bf\u5f85\u53d1",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9823,
+        "desc": "\u666e\u901a\u653b\u51fb\u51cf\u5c11\u6280\u80fd\u4e09\u300c\u7834\u52bf\u300d\u5f53\u524d\u7684\u51b7\u5374\u65f6\u95f4\uff0c\u666e\u653b\u6700\u540e\u4e00\u6bb5\u4f1a\u83b7\u5f971\u70b9\u5370\u8bb0",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13121,
+        "stage": 1,
+        "unlock_condition": [
+            114009
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13122": {
+        "affix_user": 3,
+        "name": "\u67aa\u523a\u56de\u6d41",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9824,
+        "desc": "\u6280\u80fd\u4e09\u300c\u7834\u52bf\u300d\u6062\u590d\u81ea\u8eab\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13122,
+        "stage": 2,
+        "unlock_condition": [
+            114010
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13123": {
+        "affix_user": 3,
+        "name": "\u805a\u52bf\u8fde\u7834",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9825,
+        "desc": "\u6280\u80fd\u4e09\u300c\u7834\u52bf\u300d\u805a\u96c6\u9644\u8fd1\u7684\u654c\u4eba\uff0c\u5e76\u989d\u5916\u89e6\u53d1\u4e00\u6b21\u76f8\u540c\u6548\u679c",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13123,
+        "stage": 3,
+        "unlock_condition": [
+            114011
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13124": {
+        "affix_user": 3,
+        "name": "\u9707\u654c\u62a4\u8eab",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9826,
+        "desc": "\u6280\u80fd\u4e09\u300c\u7834\u52bf\u300d\u547d\u4e2d\u540e\uff0c\u547d\u4e2d\u76ee\u6807\u8fdb\u5165\u300c\u6655\u7729\u300d\u72b6\u6001\uff0c\u5e76\u4e3a\u81ea\u5df1\u751f\u6210\u300c\u62a4\u76fe\u300d",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13124,
+        "stage": 4,
+        "unlock_condition": [
+            114012
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13125": {
+        "affix_user": 3,
+        "name": "\u6708\u76f8\u63a8\u79fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9815,
+        "desc": "\u666e\u901a\u653b\u51fb\u547d\u4e2d\u654c\u4eba\u540e\uff0c\u51cf\u5c11\u6240\u6709\u6280\u80fd\u5f53\u524d\u7684\u51b7\u5374\u65f6\u95f4",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13125,
+        "stage": 1,
+        "unlock_condition": [
+            114013
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13126": {
+        "affix_user": 3,
+        "name": "\u6708\u6d41\u6e10\u76c8",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9816,
+        "desc": "\u81ea\u52a8\u56de\u590d\u795e\u80fd",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13126,
+        "stage": 2,
+        "unlock_condition": [
+            114014
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13127": {
+        "affix_user": 3,
+        "name": "\u6714\u6708\u643a\u706b",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9817,
+        "desc": "\u300c\u6714\u300d\u547d\u4e2d\u540e\uff0c\u547d\u4e2d\u76ee\u6807\u8fdb\u5165\u300c\u707c\u70e7\u300d\u72b6\u6001",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13127,
+        "stage": 3,
+        "unlock_condition": [
+            114015
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13128": {
+        "affix_user": 3,
+        "name": "\u671b\u6708\u591c\u51dd",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9818,
+        "desc": "\u300c\u6714\u00b7\u6708\u591c\u89c1\u300d\u7684\u6700\u540e\u4e00\u6bb5\u4f7f\u547d\u4e2d\u76ee\u6807\u8fdb\u5165\u300c\u51b0\u51bb\u300d\u72b6\u6001",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13128,
+        "stage": 4,
+        "unlock_condition": [
+            114016
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13129": {
+        "affix_user": 3,
+        "name": "\u5203\u821e\u5982\u6f6e",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9819,
+        "desc": "\u666e\u901a\u653b\u51fb\u7684\u901f\u5ea6\u5927\u5e45\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13129,
+        "stage": 1,
+        "unlock_condition": [
+            114013
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13130": {
+        "affix_user": 3,
+        "name": "\u56de\u8eab\u63b7\u5203",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9820,
+        "desc": "\u5728\u666e\u901a\u653b\u51fb\u7684\u7b2c\u56db\u6bb5\u65f6\u95ea\u907f\uff0c\u63b7\u51fa\u300c\u6714\u300d",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13130,
+        "stage": 2,
+        "unlock_condition": [
+            114014
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13131": {
+        "affix_user": 3,
+        "name": "\u5203\u56de\u6f84\u5fc3",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9821,
+        "desc": "\u300c\u6714\u300d\u547d\u4e2d\u76ee\u6807\u65f6\uff0c\u6062\u590d\u81ea\u8eab\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13131,
+        "stage": 3,
+        "unlock_condition": [
+            114015
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13132": {
+        "affix_user": 3,
+        "name": "\u8f7b\u6377\u6b65\u4f10",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9822,
+        "desc": "\u63d0\u9ad8\u79fb\u52a8\u901f\u5ea6",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13132,
+        "stage": 4,
+        "unlock_condition": [
+            114016
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13133": {
+        "affix_user": 3,
+        "name": "\u5b88\u52bf\u96c6\u4e2d",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9823,
+        "desc": "\u8fdb\u5165\u300c\u9738\u4f53\u300d\u72b6\u6001\uff0c\u53d7\u51fb1\u79d2\u540e\u6d88\u5931\uff1b\u6bcf10\u79d2\u5237\u65b0\u4e00\u6b21",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13133,
+        "stage": 1,
+        "unlock_condition": [
+            114013
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13134": {
+        "affix_user": 3,
+        "name": "\u95ea\u8eab\u6a2a\u65a9",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9824,
+        "desc": "\u5728\u666e\u901a\u653b\u51fb\u7684\u7b2c\u4e8c\u6bb5\u65f6\u95ea\u907f\uff0c\u6d88\u801730\u70b9\u795e\u80fd\u89e6\u53d1\u6280\u80fd\u4e8c\u300c\u671b\u00b7\u6708\u8680\u300d",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13134,
+        "stage": 2,
+        "unlock_condition": [
+            114014
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13135": {
+        "affix_user": 3,
+        "name": "\u6714\u5f71\u805a\u654c",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9825,
+        "desc": "\u300c\u6714\u300d\u547d\u4e2d\u65f6\u805a\u96c6\u9644\u8fd1\u7684\u654c\u4eba",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13135,
+        "stage": 3,
+        "unlock_condition": [
+            114015
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13136": {
+        "affix_user": 3,
+        "name": "\u91cd\u5203\u7834\u654c",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9826,
+        "desc": "\u52a8\u4f5c\u53d8\u6162\uff0c\u9020\u6210\u7684\u4f24\u5bb3\u5927\u5e45\u589e\u52a0",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13136,
+        "stage": 4,
+        "unlock_condition": [
+            114016
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13137": {
+        "affix_user": 3,
+        "name": "\u7a7f\u5f71\u8dc3\u5149",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9815,
+        "desc": "\u683c\u6321\u6210\u529f\u540e\uff0c\u683c\u6321\u53cd\u51fb\u66ff\u6362\u4e3a\u6280\u80fd\u4e8c\u300c\u547d\u8fd0\u7684\u6d9f\u6f2a\u300d",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13137,
+        "stage": 1,
+        "unlock_condition": [
+            114001
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13138": {
+        "affix_user": 3,
+        "name": "\u707c\u5149\u70bd\u706b",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9816,
+        "desc": "\u6280\u80fd\u4e8c\u547d\u4e2d\u7684\u76ee\u6807\u8fdb\u5165\u300c\u707c\u70e7\u300d\u72b6\u6001",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13138,
+        "stage": 2,
+        "unlock_condition": [
+            114002
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13139": {
+        "affix_user": 3,
+        "name": "\u9eef\u8000\u9886\u57df",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9817,
+        "desc": "\u8fdb\u5165\u300c\u88c1\u65ad\u300d\u72b6\u6001\u540e\uff0c\u7f13\u6162\u805a\u96c6\u5468\u56f4\u7684\u654c\u4eba\u81f3\u8eab\u524d",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13139,
+        "stage": 3,
+        "unlock_condition": [
+            114003
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13140": {
+        "affix_user": 3,
+        "name": "\u91cd\u5149\u7834\u6653",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9818,
+        "desc": "\u300c\u88c1\u65ad\u300d\u72b6\u6001\u5185\uff0c\u9020\u6210\u7684\u6240\u6709\u4f24\u5bb3\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13140,
+        "stage": 4,
+        "unlock_condition": [
+            114004
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13141": {
+        "affix_user": 3,
+        "name": "\u575a\u5b9a\u5251\u610f",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9819,
+        "desc": "\u666e\u901a\u653b\u51fb\u65f6\u9738\u4f53",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13141,
+        "stage": 1,
+        "unlock_condition": [
+            114001
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13142": {
+        "affix_user": 3,
+        "name": "\u950b\u5203\u88c1\u65ad",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9820,
+        "desc": "\u300c\u88c1\u65ad\u300d\u72b6\u6001\u5185\uff0c\u4fee\u6b63\u7cfb\u6570\u5c0f\u5e45\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13142,
+        "stage": 2,
+        "unlock_condition": [
+            114002
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13143": {
+        "affix_user": 3,
+        "name": "\u7834\u6653\u751f\u8f89",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9821,
+        "desc": "\u300c\u88c1\u65ad\u300d\u72b6\u6001\u5185\uff0c\u6301\u7eed\u6062\u590d\u81ea\u8eab\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13143,
+        "stage": 3,
+        "unlock_condition": [
+            114003
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13144": {
+        "affix_user": 3,
+        "name": "\u5251\u5f71\u56de\u751f",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9822,
+        "desc": "\u666e\u901a\u653b\u51fb\u6062\u590d\u81ea\u8eab\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13144,
+        "stage": 4,
+        "unlock_condition": [
+            114004
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13145": {
+        "affix_user": 3,
+        "name": "\u65f6\u5e8f\u8574\u80fd",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9823,
+        "desc": "\u666e\u901a\u653b\u51fb\u83b7\u5f97\u989d\u5916\u795e\u80fd",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13145,
+        "stage": 1,
+        "unlock_condition": [
+            114001
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13146": {
+        "affix_user": 3,
+        "name": "\u96f6\u65f6\u6d41\u8f6c",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9824,
+        "desc": "\u666e\u901a\u653b\u51fb\u51cf\u5c11\u6240\u6709\u6280\u80fd\u5f53\u524d\u7684\u51b7\u5374\u65f6\u95f4",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13146,
+        "stage": 2,
+        "unlock_condition": [
+            114002
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13147": {
+        "affix_user": 3,
+        "name": "\u7f29\u65f6\u5251\u5f71",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9825,
+        "desc": "\u300c\u88c1\u65ad\u300d\u72b6\u6001\u5185\uff0c\u666e\u901a\u653b\u51fb\u7684\u901f\u5ea6\u5927\u5e45\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13147,
+        "stage": 3,
+        "unlock_condition": [
+            114003
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "13148": {
+        "affix_user": 3,
+        "name": "\u5239\u90a3\u9ece\u660e",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9826,
+        "desc": "\u91ca\u653e\u5965\u4e49\u300c\u6b64\u523b\u7684\u51b3\u610f\u300d\u540e\uff0c\u83b7\u5f97\u300c\u7834\u6653\u300d\u70b9\u6570",
+        "race": 0,
+        "activity_id": 242911,
+        "index": 0,
+        "id": 13148,
+        "stage": 4,
+        "unlock_condition": [
+            114004
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "14101": {
+        "affix_user": 3,
+        "name": "\u53d8\u8c03",
+        "type": 0,
+        "max_level": 1,
+        "affix_id": 9323,
+        "desc": "",
+        "race": 0,
+        "activity_id": 280007,
+        "index": 0,
+        "id": 14101,
+        "stage": 1,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "14102": {
+        "affix_user": 3,
+        "name": "\u97f3\u7b26\u00b7\u767d\u95ea",
+        "type": 0,
+        "max_level": 1,
+        "affix_id": 9319,
+        "desc": "",
+        "race": 0,
+        "activity_id": 280007,
+        "index": 0,
+        "id": 14102,
+        "stage": 2,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "14103": {
+        "affix_user": 3,
+        "name": "\u97f3\u7b26\u00b7\u971c\u82b1",
+        "type": 0,
+        "max_level": 1,
+        "affix_id": 9320,
+        "desc": "",
+        "race": 0,
+        "activity_id": 280007,
+        "index": 0,
+        "id": 14103,
+        "stage": 3,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "14104": {
+        "affix_user": 3,
+        "name": "\u97f3\u7b26\u00b7\u51db\u51bd",
+        "type": 0,
+        "max_level": 1,
+        "affix_id": 9321,
+        "desc": "",
+        "race": 0,
+        "activity_id": 280007,
+        "index": 0,
+        "id": 14104,
+        "stage": 4,
+        "unlock_condition": [
+            1150104
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "14105": {
+        "affix_user": 3,
+        "name": "\u53d8\u594f\u00b7\u7f81\u7eca\u56de\u58f0",
+        "type": 0,
+        "max_level": 1,
+        "affix_id": 9322,
+        "desc": "",
+        "race": 0,
+        "activity_id": 280007,
+        "index": 0,
+        "id": 14105,
+        "stage": 5,
+        "unlock_condition": [
+            1150105
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "14201": {
+        "affix_user": 3,
+        "name": "\u8fde\u594f",
+        "type": 0,
+        "max_level": 1,
+        "affix_id": 9328,
+        "desc": "",
+        "race": 0,
+        "activity_id": 280007,
+        "index": 0,
+        "id": 14201,
+        "stage": 6,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "14202": {
+        "affix_user": 3,
+        "name": "\u97f3\u7b26\u00b7\u65b0\u6708",
+        "type": 0,
+        "max_level": 1,
+        "affix_id": 9324,
+        "desc": "",
+        "race": 0,
+        "activity_id": 280007,
+        "index": 0,
+        "id": 14202,
+        "stage": 7,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "14203": {
+        "affix_user": 3,
+        "name": "\u97f3\u7b26\u00b7\u6ee1\u6708",
+        "type": 0,
+        "max_level": 1,
+        "affix_id": 9325,
+        "desc": "",
+        "race": 0,
+        "activity_id": 280007,
+        "index": 0,
+        "id": 14203,
+        "stage": 8,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "14204": {
+        "affix_user": 3,
+        "name": "\u97f3\u7b26\u00b7\u591c\u534e\u6d41\u8f6c",
+        "type": 0,
+        "max_level": 1,
+        "affix_id": 9326,
+        "desc": "",
+        "race": 0,
+        "activity_id": 280007,
+        "index": 0,
+        "id": 14204,
+        "stage": 9,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "14205": {
+        "affix_user": 3,
+        "name": "\u53d8\u594f\u00b7\u8f89\u6708\u4ea4\u54cd",
+        "type": 0,
+        "max_level": 1,
+        "affix_id": 9327,
+        "desc": "",
+        "race": 0,
+        "activity_id": 280007,
+        "index": 0,
+        "id": 14205,
+        "stage": 10,
+        "unlock_condition": [
+            1150107
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "15101": {
+        "affix_user": 3,
+        "name": "\u52a8\u80fd\u5200\u5203",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9330,
+        "desc": "\u65bd\u653e\u6280\u80fd\u540e\u4e0b\u4e00\u7ec4\u666e\u653b\u4f1a\u5f97\u5230\u5f3a\u5316\uff0c\u53d8\u4e3a\u5149\u5251\u5f62\u6001",
+        "race": 0,
+        "activity_id": 2800010,
+        "index": 0,
+        "id": 15101,
+        "stage": 1001,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "15102": {
+        "affix_user": 3,
+        "name": "\u9ad8\u6e29\u88c5\u586b",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9329,
+        "desc": "\u4e00\u6280\u80fd\u4e09\u8fde\u5c04\u51fb\u7684\u6700\u540e\u4e00\u53d1\u5b50\u5f39\u53d8\u4e3a\u5c04\u51fa\u71c3\u70e7\u5f39",
+        "race": 0,
+        "activity_id": 2800010,
+        "index": 0,
+        "id": 15102,
+        "stage": 1002,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "15103": {
+        "affix_user": 3,
+        "name": "\u7206\u53d1\u63a8\u8fdb\u5668",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9331,
+        "desc": "\u4e8c\u6280\u80fd\u7684\u51b2\u523a\u8ddd\u79bb\u589e\u52a0\uff0c\u843d\u5730\u65f6\u989d\u5916\u751f\u6210\u4e00\u6b21\u51b2\u51fb\u6ce2",
+        "race": 0,
+        "activity_id": 2800010,
+        "index": 0,
+        "id": 15103,
+        "stage": 1003,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "15104": {
+        "affix_user": 3,
+        "name": "\u5e73\u8861\u63a7\u4ef6",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9332,
+        "desc": "\u95ea\u907f\u65f6\u5728\u811a\u4e0b\u751f\u6210\u4e00\u4e2a\u805a\u96c6\u602a\u7269\u7684\u6f29\u6da1",
+        "race": 0,
+        "activity_id": 2800010,
+        "index": 0,
+        "id": 15104,
+        "stage": 1005,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "15105": {
+        "affix_user": 3,
+        "name": "\u70ed\u91cf\u56de\u8def",
+        "type": 1,
+        "max_level": 1,
+        "affix_id": 9333,
+        "desc": "\u5b8c\u7f8e\u683c\u6321\u540e\u4e0b\u6b21\u666e\u653b\u4f1a\u53d8\u4e3a\u65cb\u8f6c\u98de\u5203\uff0c\u4f7f\u7528\u79fb\u52a8\u95ea\u907f\u53ef\u4ee5\u653e\u5f03\u6b64\u6b21\u65cb\u8f6c\u98de\u5203\u653b\u51fb",
+        "race": 0,
+        "activity_id": 2800010,
+        "index": 0,
+        "id": 15105,
+        "stage": 1005,
+        "unlock_condition": [
+            1150117
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "15106": {
+        "affix_user": 3,
+        "name": "\u5bfc\u6d41\u7ffc\u88c5",
+        "type": 1,
+        "max_level": 1,
+        "affix_id": 9334,
+        "desc": "\u4f7f\u7528\u4e09\u6280\u80fd\u53ef\u4ee5\u5728\u4f4e\u7a7a\u98de\u884c\uff0c\u4e14\u83b7\u5f97\u5168\u65b0\u7684\u6280\u80fd\u7ec4",
+        "race": 0,
+        "activity_id": 2800010,
+        "index": 0,
+        "id": 15106,
+        "stage": 1004,
+        "unlock_condition": [
+            1150118
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "15201": {
+        "affix_user": 3,
+        "name": "\u8c10\u632f\u88c5\u7f6e",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9337,
+        "desc": "\u666e\u901a\u653b\u51fb\u9644\u5e26\u5251\u6c14\uff0c\u9020\u6210\u989d\u5916\u4f24\u5bb3",
+        "race": 0,
+        "activity_id": 2800010,
+        "index": 0,
+        "id": 15201,
+        "stage": 2001,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "15202": {
+        "affix_user": 3,
+        "name": "\u8109\u51b2\u53d1\u751f\u5668",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9335,
+        "desc": "\u4e00\u6280\u80fd\u8e29\u8e0f\u8303\u56f4\u53d8\u5927\u4e14\u9644\u5e26\u7729\u6655",
+        "race": 0,
+        "activity_id": 2800010,
+        "index": 0,
+        "id": 15202,
+        "stage": 2002,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "15203": {
+        "affix_user": 3,
+        "name": "\u6c14\u52a8\u88c5\u7532",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9336,
+        "desc": "\u4e8c\u6280\u80fd\u8df3\u8d77\u65f6\u5728\u7a7a\u4e2d\u53ef\u4ee5\u79fb\u52a8\uff0c\u4e14\u843d\u5730\u4f24\u5bb3\u8303\u56f4\u66f4\u5927",
+        "race": 0,
+        "activity_id": 2800010,
+        "index": 0,
+        "id": 15203,
+        "stage": 2003,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "15204": {
+        "affix_user": 3,
+        "name": "\u9a71\u52a8\u5145\u80fd\u9635\u5217",
+        "type": 1,
+        "max_level": 1,
+        "affix_id": 9338,
+        "desc": "\u901a\u8fc7\u5954\u8dd1\u79ef\u84c4\u80fd\u91cf\uff0c\u79ef\u6512\u6ee1\u80fd\u91cf\u540e\u8fdb\u5165\u66b4\u8d70\u6a21\u5f0f\uff0c\u66b4\u8d70\u6a21\u5f0f\u65f6\u83b7\u5f97\u65b0\u7684\u6280\u80fd",
+        "race": 0,
+        "activity_id": 2800010,
+        "index": 0,
+        "id": 15204,
+        "stage": 2004,
+        "unlock_condition": [
+            1150119
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16101": {
+        "affix_user": 3,
+        "name": "\u8fc5\u6377\u653b\u51fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9815,
+        "desc": "\u666e\u901a\u653b\u51fb\u7684\u901f\u5ea6\u5927\u5e45\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16101,
+        "stage": 1,
+        "unlock_condition": [
+            114017
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16102": {
+        "affix_user": 3,
+        "name": "\u8403\u8840\u950b\u5203",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9816,
+        "desc": "\u666e\u901a\u653b\u51fb\u6062\u590d\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16102,
+        "stage": 2,
+        "unlock_condition": [
+            114018
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16103": {
+        "affix_user": 3,
+        "name": "\u6781\u5bd2\u4e4b\u89e6",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9817,
+        "desc": "\u666e\u901a\u653b\u51fb\u547d\u4e2d\u65f6\uff0c\u547d\u4e2d\u76ee\u6807\u8fdb\u5165\u300c\u51b0\u51bb\u300d\u72b6\u6001",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16103,
+        "stage": 3,
+        "unlock_condition": [
+            114019
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16104": {
+        "affix_user": 3,
+        "name": "\u5f3a\u653b\u731b\u51fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9818,
+        "desc": "\u666e\u901a\u653b\u51fb\u4f24\u5bb3\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16104,
+        "stage": 4,
+        "unlock_condition": [
+            114020
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16105": {
+        "affix_user": 3,
+        "name": "\u795e\u80fd\u6e10\u76c8",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9819,
+        "desc": "\u81ea\u52a8\u6062\u590d\u795e\u80fd",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16105,
+        "stage": 1,
+        "unlock_condition": [
+            114017
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16106": {
+        "affix_user": 3,
+        "name": "\u5e7d\u6708\u56da\u7b3c",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9820,
+        "desc": "\u300c\u6280\u80fd\u4e8c\u300d\u547d\u4e2d\u65f6\uff0c\u547d\u4e2d\u76ee\u6807\u8fdb\u5165\u300c\u7981\u9522\u300d\u72b6\u6001",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16106,
+        "stage": 2,
+        "unlock_condition": [
+            114018
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16107": {
+        "affix_user": 3,
+        "name": "\u795e\u529b\u88c1\u51b3",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9821,
+        "desc": "\u63d0\u9ad8\u4fee\u6b63\u7cfb\u6570",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16107,
+        "stage": 3,
+        "unlock_condition": [
+            114019
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16108": {
+        "affix_user": 3,
+        "name": "\u8f7b\u6377\u6b65\u4f10",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9822,
+        "desc": "\u79fb\u52a8\u901f\u5ea6\u5927\u5e45\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16108,
+        "stage": 4,
+        "unlock_condition": [
+            114020
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16109": {
+        "affix_user": 3,
+        "name": "\u6708\u660e\u751f\u8f89",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9823,
+        "desc": "\u300c\u6280\u80fd\u4e8c\u300d\u9020\u6210\u7684\u4f24\u5bb3\u589e\u52a0",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16109,
+        "stage": 1,
+        "unlock_condition": [
+            114017
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16110": {
+        "affix_user": 3,
+        "name": "\u9ad8\u901f\u95ea\u907f",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9824,
+        "desc": "\u964d\u4f4e\u95ea\u907f\u80fd\u91cf\u6d88\u8017",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16110,
+        "stage": 2,
+        "unlock_condition": [
+            114018
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16111": {
+        "affix_user": 3,
+        "name": "\u6ee1\u6708\u4e4b\u59ff",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9825,
+        "desc": "\u51fa\u573a\u65f6\u6ee1\u795e\u80fd",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16111,
+        "stage": 3,
+        "unlock_condition": [
+            114019
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16112": {
+        "affix_user": 3,
+        "name": "\u590d\u82cf\u4e4b\u606f",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9826,
+        "desc": "\u6bcf\u79d2\u6062\u590d\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16112,
+        "stage": 4,
+        "unlock_condition": [
+            114020
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16113": {
+        "affix_user": 3,
+        "name": "\u8fc5\u6377\u653b\u51fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9815,
+        "desc": "\u666e\u901a\u653b\u51fb\u7684\u901f\u5ea6\u5927\u5e45\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16113,
+        "stage": 1,
+        "unlock_condition": [
+            114021
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16114": {
+        "affix_user": 3,
+        "name": "\u8403\u8840\u950b\u5203",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9816,
+        "desc": "\u666e\u901a\u653b\u51fb\u6062\u590d\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16114,
+        "stage": 2,
+        "unlock_condition": [
+            114022
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16115": {
+        "affix_user": 3,
+        "name": "\u65f6\u5e8f\u6d41\u8f6c",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9817,
+        "desc": "\u666e\u901a\u653b\u51fb\u547d\u4e2d\u65f6\uff0c\u6240\u6709\u6280\u80fd\u7684\u5269\u4f59\u51b7\u5374\u65f6\u95f4\u7f29\u77ed",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16115,
+        "stage": 3,
+        "unlock_condition": [
+            114023
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16116": {
+        "affix_user": 3,
+        "name": "\u5f3a\u653b\u731b\u51fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9818,
+        "desc": "\u666e\u901a\u653b\u51fb\u4f24\u5bb3\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16116,
+        "stage": 4,
+        "unlock_condition": [
+            114024
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16117": {
+        "affix_user": 3,
+        "name": "\u795e\u80fd\u6e10\u76c8",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9819,
+        "desc": "\u81ea\u52a8\u6062\u590d\u80fd\u91cf",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16117,
+        "stage": 1,
+        "unlock_condition": [
+            114021
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16118": {
+        "affix_user": 3,
+        "name": "\u8986\u96ea\u964d\u971c",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9820,
+        "desc": "\u300c\u6280\u80fd\u4e09\u300d\uff08\u94f6\u96ea\u661f\u971c\uff09\u547d\u4e2d\u65f6\uff0c\u547d\u4e2d\u76ee\u6807\u8fdb\u5165\u300c\u51b0\u51bb\u300d\u72b6\u6001",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16118,
+        "stage": 2,
+        "unlock_condition": [
+            114022
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16119": {
+        "affix_user": 3,
+        "name": "\u795e\u529b\u88c1\u51b3",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9821,
+        "desc": "\u63d0\u9ad8\u4fee\u6b63\u7cfb\u6570",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16119,
+        "stage": 3,
+        "unlock_condition": [
+            114023
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16120": {
+        "affix_user": 3,
+        "name": "\u8f7b\u6377\u6b65\u4f10",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9822,
+        "desc": "\u63d0\u9ad8\u79fb\u52a8\u901f\u5ea6",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16120,
+        "stage": 4,
+        "unlock_condition": [
+            114024
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16121": {
+        "affix_user": 3,
+        "name": "\u4e8c\u5ea6\u56de\u54cd",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9823,
+        "desc": "\u300c\u6280\u80fd\u4e09\u300d\uff08\u94f6\u96ea\u661f\u971c\uff09\u989d\u5916\u91ca\u653e\u4e00\u6b21",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16121,
+        "stage": 1,
+        "unlock_condition": [
+            114021
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16122": {
+        "affix_user": 3,
+        "name": "\u9ad8\u901f\u95ea\u907f",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9824,
+        "desc": "\u964d\u4f4e\u95ea\u907f\u80fd\u91cf\u6d88\u8017",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16122,
+        "stage": 2,
+        "unlock_condition": [
+            114022
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16123": {
+        "affix_user": 3,
+        "name": "\u53cc\u91cd\u51b0\u606f",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9825,
+        "desc": "\u300c\u6280\u80fd\u4e00\u300d\u989d\u5916\u91ca\u653e\u4e00\u6b21",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16123,
+        "stage": 3,
+        "unlock_condition": [
+            114023
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16124": {
+        "affix_user": 3,
+        "name": "\u5bd2\u51ac\u518d\u4e34",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9826,
+        "desc": "\u300c\u6280\u80fd\u4e8c\u300d\u989d\u5916\u91ca\u653e\u4e00\u6b21",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16124,
+        "stage": 4,
+        "unlock_condition": [
+            114024
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16125": {
+        "affix_user": 3,
+        "name": "\u51db\u51b0\u7834\u51fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9815,
+        "desc": "\u666e\u901a\u653b\u51fb\u7684\u4f1a\u5fc3\u7387\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16125,
+        "stage": 1,
+        "unlock_condition": [
+            114025
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16126": {
+        "affix_user": 3,
+        "name": "\u8403\u8840\u950b\u5203",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9816,
+        "desc": "\u666e\u901a\u653b\u51fb\u6062\u590d\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16126,
+        "stage": 2,
+        "unlock_condition": [
+            114026
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16127": {
+        "affix_user": 3,
+        "name": "\u6781\u5bd2\u4e4b\u89e6",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9817,
+        "desc": "\u666e\u901a\u653b\u51fb\u547d\u4e2d\u65f6\uff0c\u547d\u4e2d\u76ee\u6807\u8fdb\u5165\u300c\u51b0\u51bb\u300d\u72b6\u6001",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16127,
+        "stage": 3,
+        "unlock_condition": [
+            114027
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16128": {
+        "affix_user": 3,
+        "name": "\u5f3a\u653b\u731b\u51fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9818,
+        "desc": "\u666e\u901a\u653b\u51fb\u4f24\u5bb3\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16128,
+        "stage": 4,
+        "unlock_condition": [
+            114028
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16129": {
+        "affix_user": 3,
+        "name": "\u795e\u80fd\u6e10\u76c8",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9819,
+        "desc": "\u81ea\u52a8\u6062\u590d\u6012\u6c14",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16129,
+        "stage": 1,
+        "unlock_condition": [
+            114025
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16130": {
+        "affix_user": 3,
+        "name": "\u51b0\u7efd\u971c\u6d8c",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9820,
+        "desc": "\u666e\u901a\u653b\u51fb\u83b7\u5f97\u7684\u6012\u6c14\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16130,
+        "stage": 2,
+        "unlock_condition": [
+            114026
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16131": {
+        "affix_user": 3,
+        "name": "\u795e\u529b\u88c1\u51b3",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9821,
+        "desc": "\u63d0\u9ad8\u4fee\u6b63\u7cfb\u6570",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16131,
+        "stage": 3,
+        "unlock_condition": [
+            114027
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16132": {
+        "affix_user": 3,
+        "name": "\u8f7b\u6377\u6b65\u4f10",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9822,
+        "desc": "\u63d0\u9ad8\u79fb\u52a8\u901f\u5ea6",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16132,
+        "stage": 4,
+        "unlock_condition": [
+            114028
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16133": {
+        "affix_user": 3,
+        "name": "\u8fc5\u6025\u653b\u52bf",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9823,
+        "desc": "\u5904\u4e8e\u4fee\u6b63\u6a21\u5f0f\u65f6\uff0c\u666e\u901a\u653b\u51fb\u7684\u901f\u5ea6\u5927\u5e45\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16133,
+        "stage": 1,
+        "unlock_condition": [
+            114025
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16134": {
+        "affix_user": 3,
+        "name": "\u9ad8\u901f\u95ea\u907f",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9824,
+        "desc": "\u964d\u4f4e\u95ea\u907f\u80fd\u91cf\u6d88\u8017",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16134,
+        "stage": 2,
+        "unlock_condition": [
+            114026
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16135": {
+        "affix_user": 3,
+        "name": "\u955c\u5f71\u76db\u65f6",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9825,
+        "desc": "\u51fa\u573a\u65f6\u6ee1\u6012\u6c14",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16135,
+        "stage": 3,
+        "unlock_condition": [
+            114027
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16136": {
+        "affix_user": 3,
+        "name": "\u590d\u82cf\u4e4b\u606f",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9826,
+        "desc": "\u6bcf\u79d2\u6062\u590d\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16136,
+        "stage": 4,
+        "unlock_condition": [
+            114028
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16137": {
+        "affix_user": 3,
+        "name": "\u534f\u548c\u97f3\u5f8b",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9815,
+        "desc": "\u300c\u5171\u821e\u300d\u72b6\u6001\u5185\uff0c\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16137,
+        "stage": 1,
+        "unlock_condition": [
+            114029
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16138": {
+        "affix_user": 3,
+        "name": "\u8403\u8840\u950b\u5203",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9816,
+        "desc": "\u666e\u901a\u653b\u51fb\u6062\u590d\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16138,
+        "stage": 2,
+        "unlock_condition": [
+            114030
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16139": {
+        "affix_user": 3,
+        "name": "\u56de\u65cb\u821e\u66f2",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9817,
+        "desc": "\u300c\u5171\u821e\u300d\u72b6\u6001\u5185\uff0c\u6301\u7eed\u6062\u590d\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16139,
+        "stage": 3,
+        "unlock_condition": [
+            114031
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16140": {
+        "affix_user": 3,
+        "name": "\u5f3a\u653b\u731b\u51fb",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9818,
+        "desc": "\u666e\u901a\u653b\u51fb\u4f24\u5bb3\u63d0\u9ad8",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16140,
+        "stage": 4,
+        "unlock_condition": [
+            114032
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16141": {
+        "affix_user": 3,
+        "name": "\u795e\u80fd\u6e10\u76c8",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9819,
+        "desc": "\u81ea\u52a8\u6062\u590d\u795e\u80fd",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16141,
+        "stage": 1,
+        "unlock_condition": [
+            114029
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16142": {
+        "affix_user": 3,
+        "name": "\u5171\u821e\u540c\u751f",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9820,
+        "desc": "\u300c\u6280\u80fd\u4e8c\u300d\u547d\u4e2d\u65f6\uff0c\u6062\u590d\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16142,
+        "stage": 2,
+        "unlock_condition": [
+            114030
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16143": {
+        "affix_user": 3,
+        "name": "\u795e\u529b\u88c1\u51b3",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9821,
+        "desc": "\u63d0\u9ad8\u4fee\u6b63\u7cfb\u6570",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16143,
+        "stage": 3,
+        "unlock_condition": [
+            114031
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16144": {
+        "affix_user": 3,
+        "name": "\u8f7b\u6377\u6b65\u4f10",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9822,
+        "desc": "\u63d0\u9ad8\u79fb\u52a8\u901f\u5ea6",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16144,
+        "stage": 4,
+        "unlock_condition": [
+            114032
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16145": {
+        "affix_user": 3,
+        "name": "\u594f\u9e23\u66f2\u5f0f",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9823,
+        "desc": "\u300c\u6280\u80fd\u4e8c\u300d\u9020\u6210\u7684\u4f24\u5bb3\u589e\u52a0",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16145,
+        "stage": 1,
+        "unlock_condition": [
+            114029
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16146": {
+        "affix_user": 3,
+        "name": "\u9ad8\u901f\u95ea\u907f",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9824,
+        "desc": "\u964d\u4f4e\u95ea\u907f\u80fd\u91cf\u6d88\u8017",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16146,
+        "stage": 2,
+        "unlock_condition": [
+            114030
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16147": {
+        "affix_user": 3,
+        "name": "\u53d8\u594f\u66f2\u5f0f",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9825,
+        "desc": "\u300c\u6280\u80fd\u4e09\u300d\u547d\u4e2d\u540e\uff0c\u547d\u4e2d\u76ee\u6807\u8fdb\u5165\u300c\u7981\u9522\u300d\u72b6\u6001",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16147,
+        "stage": 3,
+        "unlock_condition": [
+            114031
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "16148": {
+        "affix_user": 3,
+        "name": "\u590d\u82cf\u4e4b\u606f",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 9826,
+        "desc": "\u6bcf\u79d2\u6062\u590d\u751f\u547d\u503c",
+        "race": 0,
+        "activity_id": 282911,
+        "index": 0,
+        "id": 16148,
+        "stage": 4,
+        "unlock_condition": [
+            114032
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17101": {
+        "affix_user": 0,
+        "name": "\u521b\u4f24\u00b7\u7269\u7406",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 388,
+        "desc": "\u654c\u65b9\u5355\u4f4d\u53d7\u5230\u7684\u7269\u7406\u5c5e\u6027\u4f24\u5bb3\u63d0\u9ad850%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17101,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17102": {
+        "affix_user": 0,
+        "name": "\u521b\u4f24\u00b7\u98ce",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 389,
+        "desc": "\u654c\u65b9\u5355\u4f4d\u53d7\u5230\u7684\u98ce\u5c5e\u6027\u4f24\u5bb3\u63d0\u9ad850%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17102,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17103": {
+        "affix_user": 0,
+        "name": "\u521b\u4f24\u00b7\u6697",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 393,
+        "desc": "\u654c\u65b9\u5355\u4f4d\u53d7\u5230\u7684\u6697\u5c5e\u6027\u4f24\u5bb3\u63d0\u9ad850%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17103,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17104": {
+        "affix_user": 0,
+        "name": "\u521b\u4f24\u00b7\u96f7",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 395,
+        "desc": "\u654c\u65b9\u5355\u4f4d\u53d7\u5230\u7684\u96f7\u5c5e\u6027\u4f24\u5bb3\u63d0\u9ad850%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17104,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17105": {
+        "affix_user": 0,
+        "name": "\u521b\u4f24\u00b7\u5929\u57a3",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 80470,
+        "desc": "\u654c\u65b9\u5355\u4f4d\u53d7\u5230\u6765\u81ea\u5929\u57a3\u7cfb\u4fee\u6b63\u8005\u7684\u4f24\u5bb3\u63d0\u9ad850%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17105,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17106": {
+        "affix_user": 0,
+        "name": "\u521b\u4f24\u00b7\u5965\u5c71",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 80440,
+        "desc": "\u654c\u65b9\u5355\u4f4d\u53d7\u5230\u6765\u81ea\u5965\u5c71\u7cfb\u4fee\u6b63\u8005\u7684\u4f24\u5bb3\u63d0\u9ad850%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17106,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17107": {
+        "affix_user": 0,
+        "name": "\u521b\u4f24\u00b7\u771f\u6a31",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 80430,
+        "desc": "\u654c\u65b9\u5355\u4f4d\u53d7\u5230\u6765\u81ea\u771f\u6a31\u7cfb\u4fee\u6b63\u8005\u7684\u4f24\u5bb3\u63d0\u9ad850%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17107,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17108": {
+        "affix_user": 0,
+        "name": "\u521b\u4f24\u00b7\u4f17\u661f",
+        "type": 2,
+        "max_level": 5,
+        "affix_id": 80460,
+        "desc": "\u654c\u65b9\u5355\u4f4d\u53d7\u5230\u6765\u81ea\u4f17\u661f\u7cfb\u4fee\u6b63\u8005\u7684\u4f24\u5bb3\u63d0\u9ad850%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17108,
+        "stage": 0,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17109": {
+        "affix_user": 3,
+        "name": "\u7269\u7406\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80000,
+        "desc": "\u7269\u7406\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17109,
+        "stage": 1,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17110": {
+        "affix_user": 3,
+        "name": "\u98ce\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80010,
+        "desc": "\u98ce\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17110,
+        "stage": 2,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17111": {
+        "affix_user": 3,
+        "name": "\u706b\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80020,
+        "desc": "\u706b\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17111,
+        "stage": 3,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17112": {
+        "affix_user": 3,
+        "name": "\u6c34\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80030,
+        "desc": "\u6c34\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17112,
+        "stage": 4,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17113": {
+        "affix_user": 3,
+        "name": "\u51b0\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80040,
+        "desc": "\u51b0\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17113,
+        "stage": 5,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17114": {
+        "affix_user": 3,
+        "name": "\u6697\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80050,
+        "desc": "\u6697\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17114,
+        "stage": 6,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17115": {
+        "affix_user": 3,
+        "name": "\u5149\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80060,
+        "desc": "\u5149\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17115,
+        "stage": 7,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17116": {
+        "affix_user": 3,
+        "name": "\u96f7\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80070,
+        "desc": "\u96f7\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17116,
+        "stage": 8,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17117": {
+        "affix_user": 3,
+        "name": "\u5723\u6811\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80080,
+        "desc": "\u5723\u6811\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17117,
+        "stage": 9,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17118": {
+        "affix_user": 3,
+        "name": "\u771f\u6a31\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80090,
+        "desc": "\u771f\u6a31\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17118,
+        "stage": 10,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17119": {
+        "affix_user": 3,
+        "name": "\u5965\u5c71\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80100,
+        "desc": "\u5965\u5c71\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17119,
+        "stage": 11,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17120": {
+        "affix_user": 3,
+        "name": "\u5c3c\u7f57\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80110,
+        "desc": "\u5c3c\u7f57\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17120,
+        "stage": 12,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17121": {
+        "affix_user": 3,
+        "name": "\u4f17\u661f\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80120,
+        "desc": "\u4f17\u661f\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17121,
+        "stage": 13,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17122": {
+        "affix_user": 3,
+        "name": "\u5929\u57a3\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u5347",
+        "type": 2,
+        "max_level": 2,
+        "affix_id": 80130,
+        "desc": "\u5929\u57a3\u5c5e\u6027\u4fee\u6b63\u8005\u653b\u51fb\u63d0\u534710%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17122,
+        "stage": 14,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17123": {
+        "affix_user": 3,
+        "name": "\u7269\u7406\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80140,
+        "desc": "\u7269\u7406\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17123,
+        "stage": 1,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17124": {
+        "affix_user": 3,
+        "name": "\u98ce\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80150,
+        "desc": "\u98ce\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17124,
+        "stage": 2,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17125": {
+        "affix_user": 3,
+        "name": "\u706b\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80160,
+        "desc": "\u706b\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17125,
+        "stage": 3,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17126": {
+        "affix_user": 3,
+        "name": "\u6c34\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80170,
+        "desc": "\u6c34\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17126,
+        "stage": 4,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17127": {
+        "affix_user": 3,
+        "name": "\u51b0\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80180,
+        "desc": "\u51b0\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17127,
+        "stage": 5,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17128": {
+        "affix_user": 3,
+        "name": "\u6697\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80190,
+        "desc": "\u6697\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17128,
+        "stage": 6,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17129": {
+        "affix_user": 3,
+        "name": "\u5149\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80200,
+        "desc": "\u5149\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17129,
+        "stage": 7,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17130": {
+        "affix_user": 3,
+        "name": "\u96f7\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80210,
+        "desc": "\u96f7\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17130,
+        "stage": 8,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17131": {
+        "affix_user": 3,
+        "name": "\u5723\u6811\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80220,
+        "desc": "\u5723\u6811\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17131,
+        "stage": 9,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17132": {
+        "affix_user": 3,
+        "name": "\u771f\u6a31\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80230,
+        "desc": "\u771f\u6a31\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17132,
+        "stage": 10,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17133": {
+        "affix_user": 3,
+        "name": "\u5965\u5c71\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80240,
+        "desc": "\u5965\u5c71\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17133,
+        "stage": 11,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17134": {
+        "affix_user": 3,
+        "name": "\u5c3c\u7f57\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80250,
+        "desc": "\u5c3c\u7f57\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17134,
+        "stage": 12,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17135": {
+        "affix_user": 3,
+        "name": "\u4f17\u661f\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80260,
+        "desc": "\u4f17\u661f\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17135,
+        "stage": 13,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17136": {
+        "affix_user": 3,
+        "name": "\u5929\u57a3\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80270,
+        "desc": "\u5929\u57a3\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17136,
+        "stage": 14,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17137": {
+        "affix_user": 3,
+        "name": "\u7269\u7406\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80280,
+        "desc": "\u7269\u7406\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17137,
+        "stage": 1,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17138": {
+        "affix_user": 3,
+        "name": "\u98ce\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80290,
+        "desc": "\u98ce\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17138,
+        "stage": 2,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17139": {
+        "affix_user": 3,
+        "name": "\u706b\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80300,
+        "desc": "\u706b\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17139,
+        "stage": 3,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17140": {
+        "affix_user": 3,
+        "name": "\u6c34\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80310,
+        "desc": "\u6c34\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17140,
+        "stage": 4,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17141": {
+        "affix_user": 3,
+        "name": "\u51b0\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80320,
+        "desc": "\u51b0\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17141,
+        "stage": 5,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17142": {
+        "affix_user": 3,
+        "name": "\u6697\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80330,
+        "desc": "\u6697\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17142,
+        "stage": 6,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17143": {
+        "affix_user": 3,
+        "name": "\u5149\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80340,
+        "desc": "\u5149\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17143,
+        "stage": 7,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17144": {
+        "affix_user": 3,
+        "name": "\u96f7\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80350,
+        "desc": "\u96f7\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17144,
+        "stage": 8,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17145": {
+        "affix_user": 3,
+        "name": "\u5723\u6811\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80360,
+        "desc": "\u5723\u6811\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17145,
+        "stage": 9,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17146": {
+        "affix_user": 3,
+        "name": "\u771f\u6a31\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80370,
+        "desc": "\u771f\u6a31\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17146,
+        "stage": 10,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17147": {
+        "affix_user": 3,
+        "name": "\u5965\u5c71\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80380,
+        "desc": "\u5965\u5c71\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17147,
+        "stage": 11,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17148": {
+        "affix_user": 3,
+        "name": "\u5c3c\u7f57\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80390,
+        "desc": "\u5c3c\u7f57\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17148,
+        "stage": 12,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17149": {
+        "affix_user": 3,
+        "name": "\u4f17\u661f\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80400,
+        "desc": "\u4f17\u661f\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17149,
+        "stage": 13,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "17150": {
+        "affix_user": 3,
+        "name": "\u5929\u57a3\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347",
+        "type": 2,
+        "max_level": 3,
+        "affix_id": 80410,
+        "desc": "\u5929\u57a3\u5c5e\u6027\u4fee\u6b63\u8005\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u534715%",
+        "race": 0,
+        "activity_id": 293425,
+        "index": 0,
+        "id": 17150,
+        "stage": 14,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "get_id_list_by_activity_id": {
+        "293425": [
+            17101,
+            17102,
+            17103,
+            17104,
+            17105,
+            17106,
+            17107,
+            17108,
+            17109,
+            17110,
+            17111,
+            17112,
+            17113,
+            17114,
+            17115,
+            17116,
+            17117,
+            17118,
+            17119,
+            17120,
+            17121,
+            17122,
+            17123,
+            17124,
+            17125,
+            17126,
+            17127,
+            17128,
+            17129,
+            17130,
+            17131,
+            17132,
+            17133,
+            17134,
+            17135,
+            17136,
+            17137,
+            17138,
+            17139,
+            17140,
+            17141,
+            17142,
+            17143,
+            17144,
+            17145,
+            17146,
+            17147,
+            17148,
+            17149,
+            17150
+        ],
+        "282911": [
+            16101,
+            16102,
+            16103,
+            16104,
+            16105,
+            16106,
+            16107,
+            16108,
+            16109,
+            16110,
+            16111,
+            16112,
+            16113,
+            16114,
+            16115,
+            16116,
+            16117,
+            16118,
+            16119,
+            16120,
+            16121,
+            16122,
+            16123,
+            16124,
+            16125,
+            16126,
+            16127,
+            16128,
+            16129,
+            16130,
+            16131,
+            16132,
+            16133,
+            16134,
+            16135,
+            16136,
+            16137,
+            16138,
+            16139,
+            16140,
+            16141,
+            16142,
+            16143,
+            16144,
+            16145,
+            16146,
+            16147,
+            16148
+        ],
+        "2800010": [
+            15101,
+            15102,
+            15103,
+            15104,
+            15105,
+            15106,
+            15201,
+            15202,
+            15203,
+            15204
+        ],
+        "280007": [
+            14101,
+            14102,
+            14103,
+            14104,
+            14105,
+            14201,
+            14202,
+            14203,
+            14204,
+            14205
+        ],
+        "242911": [
+            13101,
+            13102,
+            13103,
+            13104,
+            13105,
+            13106,
+            13107,
+            13108,
+            13109,
+            13110,
+            13111,
+            13112,
+            13113,
+            13114,
+            13115,
+            13116,
+            13117,
+            13118,
+            13119,
+            13120,
+            13121,
+            13122,
+            13123,
+            13124,
+            13125,
+            13126,
+            13127,
+            13128,
+            13129,
+            13130,
+            13131,
+            13132,
+            13133,
+            13134,
+            13135,
+            13136,
+            13137,
+            13138,
+            13139,
+            13140,
+            13141,
+            13142,
+            13143,
+            13144,
+            13145,
+            13146,
+            13147,
+            13148
+        ],
+        "212291": [
+            12101,
+            12102,
+            12103,
+            12104,
+            12105,
+            12201,
+            12202,
+            12203,
+            12204,
+            12205,
+            12301,
+            12302,
+            12303,
+            12304,
+            12305,
+            12401,
+            12402,
+            12403,
+            12404,
+            12405,
+            12501,
+            12502,
+            12503,
+            12504,
+            12505,
+            12601,
+            12602,
+            12603,
+            12604,
+            12605
+        ],
+        "202401": [
+            11001,
+            11002,
+            11003,
+            11004,
+            11005,
+            11006,
+            11007,
+            11008
+        ],
+        "192291": [
+            10101,
+            10102,
+            10103,
+            10104,
+            10105,
+            10201,
+            10202,
+            10203,
+            10204,
+            10205,
+            10301,
+            10302,
+            10303,
+            10304,
+            10305,
+            10401,
+            10402,
+            10403,
+            10404,
+            10405,
+            10501,
+            10502,
+            10503,
+            10504,
+            10505,
+            10601,
+            10602,
+            10603,
+            10604,
+            10605
+        ],
+        "91551": [
+            9101,
+            9102,
+            9103,
+            9104,
+            9105,
+            9201,
+            9202,
+            9203,
+            9204,
+            9205,
+            9301,
+            9302,
+            9303,
+            9304,
+            9305,
+            9401,
+            9402,
+            9403,
+            9404,
+            9405,
+            9501,
+            9502,
+            9503,
+            9504,
+            9505
+        ],
+        "1061121": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107
+        ],
+        "61121": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        9101,
+        9102,
+        9103,
+        9104,
+        9105,
+        9201,
+        9202,
+        9203,
+        9204,
+        9205,
+        9301,
+        9302,
+        9303,
+        9304,
+        9305,
+        9401,
+        9402,
+        9403,
+        9404,
+        9405,
+        9501,
+        9502,
+        9503,
+        9504,
+        9505,
+        10101,
+        10102,
+        10103,
+        10104,
+        10105,
+        10201,
+        10202,
+        10203,
+        10204,
+        10205,
+        10301,
+        10302,
+        10303,
+        10304,
+        10305,
+        10401,
+        10402,
+        10403,
+        10404,
+        10405,
+        10501,
+        10502,
+        10503,
+        10504,
+        10505,
+        10601,
+        10602,
+        10603,
+        10604,
+        10605,
+        11001,
+        11002,
+        11003,
+        11004,
+        11005,
+        11006,
+        11007,
+        11008,
+        12101,
+        12102,
+        12103,
+        12104,
+        12105,
+        12201,
+        12202,
+        12203,
+        12204,
+        12205,
+        12301,
+        12302,
+        12303,
+        12304,
+        12305,
+        12401,
+        12402,
+        12403,
+        12404,
+        12405,
+        12501,
+        12502,
+        12503,
+        12504,
+        12505,
+        12601,
+        12602,
+        12603,
+        12604,
+        12605,
+        13101,
+        13102,
+        13103,
+        13104,
+        13105,
+        13106,
+        13107,
+        13108,
+        13109,
+        13110,
+        13111,
+        13112,
+        13113,
+        13114,
+        13115,
+        13116,
+        13117,
+        13118,
+        13119,
+        13120,
+        13121,
+        13122,
+        13123,
+        13124,
+        13125,
+        13126,
+        13127,
+        13128,
+        13129,
+        13130,
+        13131,
+        13132,
+        13133,
+        13134,
+        13135,
+        13136,
+        13137,
+        13138,
+        13139,
+        13140,
+        13141,
+        13142,
+        13143,
+        13144,
+        13145,
+        13146,
+        13147,
+        13148,
+        14101,
+        14102,
+        14103,
+        14104,
+        14105,
+        14201,
+        14202,
+        14203,
+        14204,
+        14205,
+        15101,
+        15102,
+        15103,
+        15104,
+        15105,
+        15106,
+        15201,
+        15202,
+        15203,
+        15204,
+        16101,
+        16102,
+        16103,
+        16104,
+        16105,
+        16106,
+        16107,
+        16108,
+        16109,
+        16110,
+        16111,
+        16112,
+        16113,
+        16114,
+        16115,
+        16116,
+        16117,
+        16118,
+        16119,
+        16120,
+        16121,
+        16122,
+        16123,
+        16124,
+        16125,
+        16126,
+        16127,
+        16128,
+        16129,
+        16130,
+        16131,
+        16132,
+        16133,
+        16134,
+        16135,
+        16136,
+        16137,
+        16138,
+        16139,
+        16140,
+        16141,
+        16142,
+        16143,
+        16144,
+        16145,
+        16146,
+        16147,
+        16148,
+        17101,
+        17102,
+        17103,
+        17104,
+        17105,
+        17106,
+        17107,
+        17108,
+        17109,
+        17110,
+        17111,
+        17112,
+        17113,
+        17114,
+        17115,
+        17116,
+        17117,
+        17118,
+        17119,
+        17120,
+        17121,
+        17122,
+        17123,
+        17124,
+        17125,
+        17126,
+        17127,
+        17128,
+        17129,
+        17130,
+        17131,
+        17132,
+        17133,
+        17134,
+        17135,
+        17136,
+        17137,
+        17138,
+        17139,
+        17140,
+        17141,
+        17142,
+        17143,
+        17144,
+        17145,
+        17146,
+        17147,
+        17148,
+        17149,
+        17150
+    ]
+}

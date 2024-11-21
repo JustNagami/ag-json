@@ -1,0 +1,322 @@
+{
+    "1001": {
+        "clue_num": 3,
+        "name": "\u8ba2\u5355\u8bb0\u5f55",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "\u9910\u54c1\u8ba2\u5355\u751f\u6210\uff0c\u53d1\u9001\u81f3<color=#E78300>\u9910\u8f66</color>\u3002",
+        "stage_type": 1,
+        "pre_stage": 0,
+        "desc": "\u82b1\u575b\u533a18\u53f7\u684c\u4e0a\u7684\u9910\u996e\u670d\u52a1\u7ec8\u7aef\u5185\u6709\u4e00\u6761\u5df2\u5b8c\u6210\u7684\u8ba2\u5355\u8bb0\u5f55\uff0c\u70b9\u9910\u5185\u5bb9\u4e3a\u300c\u6d77\u6d0b\u4e4b\u661f\u8054\u540d\u5c0f\u98df\u62fc\u76d8\u00d71\u300d\uff0c\u9644\u8d60\u7b2c\u4e8c\u4efd\u534a\u4ef7\u7684\u7ed1\u5b9a\u4f18\u60e0\u5238\u3002",
+        "ori_pos": "",
+        "stageID": 1001,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1002": {
+        "clue_num": 4,
+        "name": "\u9057\u843d\u7684\u4f18\u60e0\u5238",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>\u914d\u9001\u5458</color>\u5b8c\u6210\u8ba2\u5355\uff0c\u51c6\u5907\u56de\u5230\u6240\u5c5e\u9910\u8f66\u3002\u8981\u627e\u5230\u914d\u9001\u5458\u9700\u8981\u5148\u77e5\u9053\u6240\u5c5e<color=#E78300>\u9910\u8f66</color>\u7684\u5e97\u540d\u3002",
+        "stage_type": 1,
+        "pre_stage": 1001,
+        "desc": "\u82b1\u575b\u91cc\u53d1\u73b0\u7684\u6d77\u6d0b\u4e4b\u661f\u8054\u540d\u5c0f\u98df\u7684\u534a\u4ef7\u4f18\u60e0\u5238\uff0c\u4f3c\u4e4e\u8fd8\u672a\u7ed1\u5b9a\u7528\u6237\u7684\u6837\u5b50\u3002\u5e94\u8be5\u662f\u6d3e\u9001\u5458\u9057\u843d\u5728\u8fd9\u91cc\u7684\u3002",
+        "ori_pos": "",
+        "stageID": 1002,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1003": {
+        "clue_num": 5,
+        "name": "\u56ed\u533a\u5730\u56fe",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "\u56ed\u533a\u5730\u56fe\u53ef\u4ee5\u6839\u636e\u5e97\u540d\u67e5\u627e<color=#E78300>\u95e8\u5e97\u7684\u5177\u4f53\u4f4d\u7f6e</color>\uff0c\u7531\u6b64\u53ef\u4ee5\u786e\u8ba4\u914d\u9001\u5458\u6240\u5c5e\u9910\u8f66\u7684\u65b9\u4f4d\u3002",
+        "stage_type": 1,
+        "pre_stage": 1002,
+        "desc": "\u56ed\u533a\u670d\u52a1\u7ec8\u7aef\u5185\u7684\u6d77\u6d0b\u4e4b\u661f\u6e38\u4e50\u56ed\u56ed\u533a\u5730\u56fe\uff0c\u8f93\u5165\u54c1\u724c\u540d\u53ef\u4ee5\u67e5\u8be2\u8be5\u54c1\u724c\u4e0b\u5c5e\u9910\u8f66\u6240\u5728\u4f4d\u7f6e\u3002",
+        "ori_pos": "",
+        "stageID": 1003,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1004": {
+        "clue_num": 5,
+        "name": "\u544a\u793a\u724c",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>\u9910\u8f66</color>\u5185\u5bf9\u5e94\u8ba2\u5355\u9910\u54c1<color=#E78300>\u5df2\u544a\u7f44</color>\uff0c\u9700\u8981\u7533\u8bf7<color=#E78300>\u8c03\u914d</color>\u3002",
+        "stage_type": 1,
+        "pre_stage": 1003,
+        "desc": "\u9910\u8f66\u524d\u7684\u544a\u793a\u724c\uff0c\u6700\u9192\u76ee\u7684\u4f4d\u7f6e\u663e\u793a\u7740\u300c\u672c\u9910\u8f66\u70b9\u6d77\u6d0b\u4e4b\u661f\u8054\u540d\u5c0f\u98df\u4eca\u65e5\u5df2\u544a\u7f44\uff0c\u5982\u6709\u9700\u8981\u7684\u8bdd\u5c06\u540e\u53f0\u8c03\u914d\u5176\u4ed6\u9910\u8f66\u8fdb\u884c\u9910\u70b9\u6d3e\u9001\uff0c\u65f6\u95f4\u8f83\u957f\u8bf7\u8010\u5fc3\u7b49\u5f85\u300d\u3002",
+        "ori_pos": "",
+        "stageID": 1004,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1005": {
+        "clue_num": 5,
+        "name": "\u5185\u90e8\u8c03\u914d\u8bb0\u5f55",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>\u8c03\u914d</color>\u7533\u8bf7\u5df2\u751f\u6210\uff0c\u5206\u914d\u81f3\u8d1f\u8d23\u7684<color=#E78300>\u914d\u9001\u5458</color>\u3002",
+        "stage_type": 1,
+        "pre_stage": 1004,
+        "desc": "\u9910\u8f66\u670d\u52a1\u540e\u53f0\u5185\u7684\u8c03\u914d\u8bb0\u5f55\uff0c\u663e\u793a3\u53f7\u9910\u8f66\u54112\u53f7\u9910\u8f66\u53d1\u9001\u4e86\u8ba2\u9910\u8c03\u914d\u7533\u8bf7\uff0c\u8c03\u914d\u72b6\u6001\u4e3a\u5df2\u5b8c\u6210\u3002",
+        "ori_pos": "",
+        "stageID": 1005,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1006": {
+        "clue_num": 6,
+        "name": "\u5ba3\u4f20\u6d77\u62a5",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "\u6839\u636e\u6d77\u62a5\u5185\u5bb9\u53ef\u4ee5\u77e5\u9053<color=#E78300>\u5177\u4f53\u5e97\u540d</color>\uff0c\u8fd8\u9700\u8981\u67e5\u8be2<color=#E78300>\u8be5\u5e97\u7684\u5177\u4f53\u4f4d\u7f6e</color>\u3002",
+        "stage_type": 1,
+        "pre_stage": 1005,
+        "desc": "\u8d34\u5728\u9910\u8f66\u4e0a\u7684\u54c1\u724c\u5ba3\u4f20\u6d77\u62a5\uff0c\u6700\u9192\u76ee\u7684\u5730\u65b9\u5199\u7740\u54c1\u724c\u5e7f\u544a\u8bed\u300c\u91d1\u8272\u6d77\u5cb8\u3001\u590f\u65e5\u4f19\u4f34\uff01\u300d\u3002",
+        "ori_pos": "",
+        "stageID": 1006,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1007": {
+        "clue_num": 0,
+        "name": "",
+        "conclusion_desc": "",
+        "stage_type": 2,
+        "pre_stage": 0,
+        "desc": "",
+        "stageID": 1007,
+        "ori_pos": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006
+        ],
+        "answer": [
+            1001,
+            1004,
+            1005,
+            1002,
+            1006,
+            1003
+        ],
+        "fixed_pos": [
+            1001,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "conclusion": [
+            470001,
+            470002,
+            470003,
+            470004
+        ],
+        "conclusion_list": [
+            [
+                1001,
+                1004,
+                1005
+            ],
+            [
+                1002
+            ],
+            [
+                1003,
+                1006
+            ]
+        ]
+    },
+    "2001": {
+        "clue_num": 5,
+        "name": "\u8ba2\u5355\u72b6\u6001",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>\u5b8c\u6210\u8ba2\u5355</color>\u7684\u963f\u6ce2\u7f57\u56de\u5230\u9910\u8f66\u53c8\u63a5\u53d6\u4e86<color=#E78300>\u5176\u4ed6\u914d\u9001\u8ba2\u5355</color>\u3002",
+        "stage_type": 1,
+        "pre_stage": 0,
+        "desc": "\u9910\u8f66\u670d\u52a1\u540e\u53f0\u663e\u793a\u8be5\u9910\u8f66\u6240\u6709\u7684\u8fd0\u8f93\u5355\u90fd\u5728\u8fdb\u884c\u4e2d\u3002\u90e8\u5206\u4eba\u5de5\u8fd0\u8f93\u5355\u7684\u8d1f\u8d23\u4eba\u4e3a\u300c\u914d\u9001\u5458A\u300d\u3002",
+        "ori_pos": "",
+        "stageID": 2001,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2002": {
+        "clue_num": 6,
+        "name": "\u4fdd\u6e29\u7bb1",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "\u63a5\u53d6\u5230<color=#E78300>\u5176\u4ed6\u914d\u9001\u8ba2\u5355</color>\u7684\u963f\u6ce2\u7f57\u73b0\u5728\u6b63\u5728\u56ed\u533a\u5185\u8fdb\u884c\u914d\u9001\u3002\u7531\u4e8e\u8ba2\u5355\u8f83\u591a\uff0c\u65e0\u6cd5\u786e\u8ba4\u4ed6\u7684\u4f4d\u7f6e\u3002",
+        "stage_type": 1,
+        "pre_stage": 2001,
+        "desc": "\u9910\u8f66\u65c1\u7684\u67b6\u5b50\u4e0a\u653e\u77403\u4e2a\u4fdd\u6e29\u7bb1\uff0c\u770b\u5269\u4f59\u7a7a\u95f4\u4f3c\u4e4e\u8fd8\u80fd\u518d\u5bb9\u7eb3\u4e00\u4e2a\uff0c\u770b\u6765\u6709\u4eba\u63a5\u5355\u540e\u51fa\u53bb\u5de5\u4f5c\u4e86\u3002",
+        "ori_pos": "",
+        "stageID": 2002,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2003": {
+        "clue_num": 6,
+        "name": "\u8fd0\u529b\u72b6\u6001",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>\u6446\u8131\u94c3\u5170\u56e2\u6293\u6355</color>\u7684\u963f\u6ce2\u7f57\u5728\u4e2d\u5348\u5f00\u59cb\u62c5\u4efb\u9910\u8f66\u7684\u5c0f\u98df\u914d\u9001\u5458\uff0c\u5b8c\u6210\u4e86<color=#E78300>\u8ba2\u5355\u914d\u9001</color>\u3002",
+        "stage_type": 1,
+        "pre_stage": 2002,
+        "desc": "\u9910\u8f66\u7684\u8fd0\u529b\u516c\u793a\u680f\u663e\u793a\uff0c\u521a\u521a\u5b8c\u621018\u53f7\u9910\u684c\u8ba2\u5355\u7684\u300c\u914d\u9001\u5458A\u300d\u6ce8\u518c\u65f6\u95f4\u5728\u4eca\u5929\u4e2d\u5348\u3002",
+        "ori_pos": "",
+        "stageID": 2003,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2004": {
+        "clue_num": 6,
+        "name": "\u56ed\u533a\u5e7f\u64ad",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "\u5728\u6e38\u4e50\u56ed\u5411\u6e38\u5ba2<color=#E78300>\u5f00\u653e\u524d</color>\uff0c\u963f\u6ce2\u7f57\u53c2\u4e0e\u4e86\u6e38\u4e50\u56ed\u4e3b\u9898\u80cc\u666f\u4e50\u7684\u5f55\u5236\u3002",
+        "stage_type": 1,
+        "pre_stage": 2003,
+        "desc": "\u56ed\u533a\u5185\u6301\u7eed\u64ad\u653e\u7740\u7684\u97f3\u4e50\u8282\u4e3b\u9898\u80cc\u666f\u4e50\uff0c\u5e94\u5f53\u662f\u6e38\u4e50\u56ed\u5f00\u653e\u4e4b\u524d\u5c31\u5f55\u5236\u597d\u7684\u5185\u5bb9\u3002\u4ed4\u7ec6\u8fa8\u522b\u7684\u8bdd\uff0c\u6709\u4e00\u6bb5\u4e50\u6bb5\u5f88\u50cf\u963f\u6ce2\u7f57\u7684\u6f14\u594f\u4e60\u60ef\u3002",
+        "ori_pos": "",
+        "stageID": 2004,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2005": {
+        "clue_num": 7,
+        "name": "\u987e\u5ba2\u7684\u4ea4\u8c08",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>\u4eca\u65e5\u6e05\u6668</color>\u5f00\u56ed\u65f6\uff0c\u963f\u6ce2\u7f57\u5e2e\u5fd9\u7ef4\u6301\u4e86\u5165\u56ed\u79e9\u5e8f\u3002",
+        "stage_type": 1,
+        "pre_stage": 2004,
+        "desc": "\u9910\u684c\u4e0a\u7684\u4e24\u4f4d\u987e\u5ba2\u6b63\u5728\u804a\u5929\uff0c\u5927\u81f4\u5185\u5bb9\u662f\u5165\u56ed\u65f6\u9047\u5230\u7684\u9ec4\u53d1\u5458\u5de5\u5f88\u5feb\u5b89\u629a\u4e86\u54ed\u95f9\u7684\u5c0f\u5b69\uff0c\u4f7f\u5165\u56ed\u961f\u4f0d\u91cd\u65b0\u7545\u901a\u3002",
+        "ori_pos": "",
+        "stageID": 2005,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2006": {
+        "clue_num": 7,
+        "name": "\u670d\u52a1\u667a\u68b0",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>\u4e0a\u5348</color>\uff0c\u94c3\u5170\u56e2\u9a91\u58eb\u5728\u6e38\u4e50\u56ed\u5185\u5076\u9047\u4e86\u963f\u6ce2\u7f57\uff0c\u4f46\u770b\u8d77\u6765\u963f\u6ce2\u7f57<color=#E78300>\u9003\u8d70\u4e86</color>\u3002",
+        "stage_type": 1,
+        "pre_stage": 2005,
+        "desc": "\u5728\u667a\u68b0\u7684\u6295\u8bc9\u8bb0\u5f55\u4e2d\u6709\u4e00\u6761\u65b0\u589e\u5185\u5bb9\uff0c\u5927\u81f4\u662f\u4eca\u65e9\u9047\u5230\u4e86\u4e00\u7fa4\u5973\u9a91\u58eb\u8ffd\u8d76\u4e00\u4f4d\u6e38\u4e50\u56ed\u5458\u5de5\uff0c\u4e24\u4eba\u4e70\u5230\u7684\u8054\u540d\u5c0f\u98df\u5957\u9910\u88ab\u649e\u5230\u4e86\u5730\u4e0a\uff0c\u5e0c\u671b\u56ed\u65b9\u80fd\u591f\u52a0\u5f3a\u56ed\u533a\u7ba1\u7406\u3002",
+        "ori_pos": "",
+        "stageID": 2006,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2007": {
+        "clue_num": 0,
+        "name": "",
+        "conclusion_desc": "",
+        "stage_type": 2,
+        "pre_stage": 0,
+        "desc": "",
+        "stageID": 2007,
+        "ori_pos": [
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006
+        ],
+        "answer": [
+            2004,
+            2005,
+            2006,
+            2003,
+            2001,
+            2002
+        ],
+        "fixed_pos": [
+            2004,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "conclusion": [
+            470005,
+            470006,
+            470007,
+            470008
+        ],
+        "conclusion_list": [
+            [
+                2004
+            ],
+            [
+                2005,
+                2006,
+                2003
+            ],
+            [
+                2001,
+                2002
+            ]
+        ]
+    },
+    "3001": {
+        "clue_num": 3,
+        "name": "\u7279\u6b8a\u989c\u6599",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "",
+        "stage_type": 3,
+        "pre_stage": 0,
+        "desc": "\u5c06\u7bb1\u5b50\u91cc\u7684\u989c\u6599\u586b\u5165\u6c34\u67aa\u540e\uff0c\u88ab\u51fb\u4e2d\u7684\u53c2\u8d5b\u9009\u624b\u5c06\u88ab\u6dd8\u6c70\u3002",
+        "ori_pos": "",
+        "stageID": 3001,
+        "answer": "",
+        "conclusion": ""
+    },
+    "3002": {
+        "clue_num": 3,
+        "name": "\u6700\u7ec8\u5927\u5956",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "",
+        "stage_type": 3,
+        "pre_stage": 0,
+        "desc": "\u4e09\u4ef6\u73cd\u5b9d\u6070\u5230\u597d\u5904\u5730\u62fc\u5408\u4e86\u8d77\u6765\uff0c\u4f46\u600e\u4e48\u770b\u4e5f\u53ea\u662f\u628a\u5b83\u4eec\u7c97\u66b4\u5730\u63c9\u5728\u4e86\u4e00\u8d77\u5427\u3002",
+        "ori_pos": "",
+        "stageID": 3002,
+        "answer": "",
+        "conclusion": ""
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        3001,
+        3002
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "5030401": {
+        "monster_level": 80,
+        "name": "\u4f11\u7684\u7b2c\u4e00\u8bfe",
+        "ai_level": 1,
+        "map": "5030401",
+        "need_default_team": 1,
+        "drop_lib_id": 9000001,
+        "id": 5030401,
+        "level": 1,
+        "attribute_factor": [
+            1100,
+            1000,
+            6000
+        ],
+        "team_type": [
+            209,
+            0
+        ]
+    },
+    "5030402": {
+        "monster_level": 80,
+        "name": "\u4e34\u65f6\u901f\u9012",
+        "ai_level": 1,
+        "map": "5030402",
+        "need_default_team": 1,
+        "drop_lib_id": 9000002,
+        "id": 5030402,
+        "level": 1,
+        "attribute_factor": [
+            1100,
+            1000,
+            6000
+        ],
+        "team_type": [
+            209,
+            0
+        ]
+    },
+    "5030403": {
+        "monster_level": 80,
+        "name": "\u5947\u602a\u7684\u6807\u51c6",
+        "ai_level": 1,
+        "map": "5030403",
+        "need_default_team": 1,
+        "drop_lib_id": 9000003,
+        "id": 5030403,
+        "level": 1,
+        "attribute_factor": [
+            1100,
+            1000,
+            8000
+        ],
+        "team_type": [
+            209,
+            0
+        ]
+    },
+    "5030404": {
+        "monster_level": 80,
+        "name": "\u7269\u7406\u5b66\u5723\u5251",
+        "ai_level": 1,
+        "map": "5030404",
+        "need_default_team": 1,
+        "drop_lib_id": 9000004,
+        "id": 5030404,
+        "level": 1,
+        "attribute_factor": [
+            1100,
+            1000,
+            8000
+        ],
+        "team_type": [
+            209,
+            0
+        ]
+    },
+    "5030405": {
+        "monster_level": 80,
+        "name": "\u7f2a\u65af\u7684\u51c6\u5219",
+        "ai_level": 1,
+        "map": "5030405",
+        "need_default_team": 1,
+        "drop_lib_id": 9000005,
+        "id": 5030405,
+        "level": 1,
+        "attribute_factor": [
+            1100,
+            1000,
+            10000
+        ],
+        "team_type": [
+            209,
+            0
+        ]
+    },
+    "5030406": {
+        "monster_level": 80,
+        "name": "\u9a8c\u8bc1\u574d\u7f29\u8bba",
+        "ai_level": 1,
+        "map": "5030406",
+        "need_default_team": 1,
+        "drop_lib_id": 9000006,
+        "id": 5030406,
+        "level": 1,
+        "attribute_factor": [
+            1500,
+            1000,
+            10000
+        ],
+        "team_type": [
+            209,
+            0
+        ]
+    },
+    "5030407": {
+        "monster_level": 80,
+        "name": "\u6108\u65a9\u6108\u70c8",
+        "ai_level": 1,
+        "map": "5030407",
+        "need_default_team": 1,
+        "drop_lib_id": 9000007,
+        "id": 5030407,
+        "level": 1,
+        "attribute_factor": [
+            1500,
+            1000,
+            10000
+        ],
+        "team_type": [
+            209,
+            0
+        ]
+    },
+    "all": [
+        5030401,
+        5030402,
+        5030403,
+        5030404,
+        5030405,
+        5030406,
+        5030407
+    ]
+}

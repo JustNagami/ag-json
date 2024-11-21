@@ -1,0 +1,3030 @@
+{
+    "101030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ]
+        ],
+        "params_title": [
+            "\u62fe\u91d1\u4e0d\u6627",
+            "\u60e9\u6212\u9e2d\u5b50",
+            "\u8857\u5934\u827a\u672f\u5bb6",
+            "\u610f\u5916\u4e4b\u8d22",
+            "\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u5934\u53f7\u73a9\u5bb6"
+        ],
+        "params_des": [
+            "\u62fe\u91d1\u4e0d\u6627\uff0c\u5f97\u5230\u4e86\u5931\u4e3b\u7684\u8c22\u793c\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6349\u4f4f\u4e86\u6363\u4e71\u7684\u9e2d\u9e2d\uff0c\u62ff\u5230\u4e86\u5b83\u6240\u6709\u7684\u9e2d\u9e2d\u5e01\u3002\n\n\u83b7\u5f9710\u679a\u9e2d\u9e2d\u5e01",
+            "\u88ab\u9080\u8bf7\u53c2\u52a0\u8857\u5934\u8868\u6f14\uff0c\u610f\u5916\u6536\u83b7\u4e0d\u5c11\u652f\u6301\u548c\u638c\u58f0\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6e38\u73a9\u6e38\u4e50\u56ed\u8bbe\u65bd\u65f6\u88ab\u541e\u5e01\uff0c\u83b7\u5f97\u4e86\u56ed\u533a\u7684\u8d54\u507f\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u53c2\u52a0\u56ed\u533a\u6d3b\u52a8\u5f97\u5230\u4e86\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1\u5956\u52b1\uff0c\u8fd9\u4e9b\u7eaa\u5ff5\u54c1\u4f3c\u4e4e\u8fd8\u6709\u7279\u6b8a\u7528\u9014\u3002\n\n\u968f\u673a\u83b7\u5f972\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177"
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp"
+        ]
+    },
+    "101031": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101031,
+        "params": [
+            [
+                2,
+                1,
+                [
+                    10003
+                ]
+            ]
+        ],
+        "params_title": [
+            "\u5934\u53f7\u73a9\u5bb6"
+        ],
+        "params_des": [
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177"
+        ],
+        "params_image": [
+            "random_AddProp"
+        ]
+    },
+    "101033": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101033,
+        "params": [
+            [
+                1,
+                10
+            ]
+        ],
+        "params_title": [
+            "\u60e9\u6212\u9e2d\u5b50"
+        ],
+        "params_des": [
+            "\u6349\u4f4f\u4e86\u6363\u4e71\u7684\u9e2d\u9e2d\uff0c\u62ff\u5230\u4e86\u5b83\u6240\u6709\u7684\u9e2d\u9e2d\u5e01\u3002\n\n\u83b7\u5f9710\u679a\u9e2d\u9e2d\u5e01"
+        ],
+        "params_image": [
+            "random_AddMoney"
+        ]
+    },
+    "101035": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101035,
+        "params": [
+            [
+                2,
+                1,
+                [
+                    10002
+                ]
+            ]
+        ],
+        "params_title": [
+            "\u5934\u53f7\u73a9\u5bb6"
+        ],
+        "params_des": [
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177"
+        ],
+        "params_image": [
+            "random_AddProp"
+        ]
+    },
+    "101040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101040,
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10003,
+                10005,
+                10006
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "101041": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101041,
+        "params": [
+            2,
+            [
+                10002,
+                10003
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "101050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101050,
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10003,
+                10005,
+                10006
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "101080": {
+        "cost": 0,
+        "name": "\u5230\u4e0a\u9762\u53bb",
+        "chance_event": 101081,
+        "type": 4,
+        "description": "\u8fd9\u91cc\u6709\u4e00\u6761\u5c0f\u8def\uff0c\u6211\u4eec\u4e0d\u8981\u60ca\u6270\u5230\u5b83\uff0c\u7136\u540e\u6084\u6084\u5730\u3001\u8fc5\u901f\u5730\u5230\u8fbe\u4e0a\u9762\u7684\u5730\u65b9\u3002",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101080,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "transfer_1_2_1"
+        ]
+    },
+    "101090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101090,
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "101091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101091,
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10001,
+                10002,
+                10003,
+                10004,
+                10005,
+                10006,
+                10007,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "102030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 102030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ]
+        ],
+        "params_title": [
+            "\u62fe\u91d1\u4e0d\u6627",
+            "\u60e9\u6212\u9e2d\u5b50",
+            "\u8857\u5934\u827a\u672f\u5bb6",
+            "\u610f\u5916\u4e4b\u8d22",
+            "\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u5934\u53f7\u73a9\u5bb6"
+        ],
+        "params_des": [
+            "\u62fe\u91d1\u4e0d\u6627\uff0c\u5f97\u5230\u4e86\u5931\u4e3b\u7684\u8c22\u793c\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6349\u4f4f\u4e86\u6363\u4e71\u7684\u9e2d\u9e2d\uff0c\u62ff\u5230\u4e86\u5b83\u6240\u6709\u7684\u9e2d\u9e2d\u5e01\u3002\n\n\u83b7\u5f9710\u679a\u9e2d\u9e2d\u5e01",
+            "\u88ab\u9080\u8bf7\u53c2\u52a0\u8857\u5934\u8868\u6f14\uff0c\u610f\u5916\u6536\u83b7\u4e0d\u5c11\u652f\u6301\u548c\u638c\u58f0\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6e38\u73a9\u6e38\u4e50\u56ed\u8bbe\u65bd\u65f6\u88ab\u541e\u5e01\uff0c\u83b7\u5f97\u4e86\u56ed\u533a\u7684\u8d54\u507f\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u53c2\u52a0\u56ed\u533a\u6d3b\u52a8\u5f97\u5230\u4e86\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1\u5956\u52b1\uff0c\u8fd9\u4e9b\u7eaa\u5ff5\u54c1\u4f3c\u4e4e\u8fd8\u6709\u7279\u6b8a\u7528\u9014\u3002\n\n\u968f\u673a\u83b7\u5f972\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177"
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp"
+        ]
+    },
+    "102040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 102040,
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10003,
+                10005,
+                10006
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "102050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 102050,
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10003,
+                10005,
+                10006
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "201030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10008,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10008,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10008,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10008,
+                    10012
+                ]
+            ],
+            [
+                4,
+                20003
+            ],
+            [
+                4,
+                10104
+            ],
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                10103
+            ]
+        ],
+        "params_title": [
+            "\u62fe\u91d1\u4e0d\u6627",
+            "\u60e9\u6212\u9e2d\u5b50",
+            "\u8857\u5934\u827a\u672f\u5bb6",
+            "\u610f\u5916\u4e4b\u8d22",
+            "\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u597d\u70ed\u597d\u70ed",
+            "\u6211\u4e0a\u9762\u6709\u4eba",
+            "\u9e2d\u8a00\u9e2d\u8bed",
+            "\u5927\u83b7\u5168\u80dc"
+        ],
+        "params_des": [
+            "\u62fe\u91d1\u4e0d\u6627\uff0c\u5f97\u5230\u4e86\u5931\u4e3b\u7684\u8c22\u793c\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6349\u4f4f\u4e86\u6363\u4e71\u7684\u9e2d\u9e2d\uff0c\u62ff\u5230\u4e86\u5b83\u6240\u6709\u7684\u9e2d\u9e2d\u5e01\u3002\n\n\u83b7\u5f9710\u679a\u9e2d\u9e2d\u5e01",
+            "\u88ab\u9080\u8bf7\u53c2\u52a0\u8857\u5934\u8868\u6f14\uff0c\u610f\u5916\u6536\u83b7\u4e0d\u5c11\u652f\u6301\u548c\u638c\u58f0\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6e38\u73a9\u6e38\u4e50\u56ed\u8bbe\u65bd\u65f6\u88ab\u541e\u5e01\uff0c\u83b7\u5f97\u4e86\u56ed\u533a\u7684\u8d54\u507f\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u53c2\u52a0\u56ed\u533a\u6d3b\u52a8\u5f97\u5230\u4e86\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1\u5956\u52b1\uff0c\u8fd9\u4e9b\u7eaa\u5ff5\u54c1\u4f3c\u4e4e\u8fd8\u6709\u7279\u6b8a\u7528\u9014\u3002\n\n\u968f\u673a\u83b7\u5f972\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u70c8\u65e5\u708e\u708e\u4f7f\u4f53\u529b\u6d88\u8017\u6b86\u5c3d\uff0c\u9700\u7f13\u6b65\u524d\u884c\u8c03\u6574\u72b6\u6001\u3002\n\n\u83b7\u5f97\u300c\u6c34\u9006\u300d\u72b6\u6001",
+            "\u56ed\u533a\u5e7f\u64ad\u5ba3\u5e03\u8fdb\u5165\u7ade\u6280\u4f11\u606f\u65f6\u95f4\uff0c\u6682\u65f6\u83b7\u5f97\u4e86\u5de1\u903b\u667a\u68b0\u7684\u4fdd\u62a4\u3002\n\n\u83b7\u5f97\u300c\u65e0\u654c\u300d\u72b6\u6001",
+            "\u5728\u4e00\u756a\u6fc0\u60c5\u5730\u4e89\u5435\u4e2d\u4f60\u80dc\u8fc7\u4e86\u4e00\u53ea\u5076\u9047\u7684\u9e2d\u9e2d\uff0c\u9e2d\u9e2d\u9677\u5165\u4e86\u6c89\u601d\u3002\n\n\u5168\u573a\u9e2d\u9e2d\u505c\u6b62\u79fb\u52a83\u56de\u5408",
+            "\u5728\u6e38\u56ed\u5185\u7684\u91cc\u793c\u54c1\u673a\u83b7\u5f97\u8d85\u7ea7\u5927\u5956\u3002\n\n\u83b7\u5f97\u300c\u5438\u91d1\u300d\u72b6\u6001"
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_GetCurse",
+            "random_GetPower",
+            "random_DuckStop",
+            "random_AddMoneyBuff"
+        ]
+    },
+    "201040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201040,
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10003,
+                10007,
+                10008,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "201050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201050,
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10003,
+                10007,
+                10008,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "201090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201090,
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "201091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201091,
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10001,
+                10002,
+                10003,
+                10007,
+                10008,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "301030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10011
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10011
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10011
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10011
+                ]
+            ],
+            [
+                4,
+                20003
+            ],
+            [
+                4,
+                10104
+            ],
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                10103
+            ]
+        ],
+        "params_title": [
+            "\u62fe\u91d1\u4e0d\u6627",
+            "\u60e9\u6212\u9e2d\u5b50",
+            "\u8857\u5934\u827a\u672f\u5bb6",
+            "\u610f\u5916\u4e4b\u8d22",
+            "\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u597d\u70ed\u597d\u70ed",
+            "\u6211\u4e0a\u9762\u6709\u4eba",
+            "\u9e2d\u8a00\u9e2d\u8bed",
+            "\u5927\u83b7\u5168\u80dc"
+        ],
+        "params_des": [
+            "\u62fe\u91d1\u4e0d\u6627\uff0c\u5f97\u5230\u4e86\u5931\u4e3b\u7684\u8c22\u793c\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6349\u4f4f\u4e86\u6363\u4e71\u7684\u9e2d\u9e2d\uff0c\u62ff\u5230\u4e86\u5b83\u6240\u6709\u7684\u9e2d\u9e2d\u5e01\u3002\n\n\u83b7\u5f9710\u679a\u9e2d\u9e2d\u5e01",
+            "\u88ab\u9080\u8bf7\u53c2\u52a0\u8857\u5934\u8868\u6f14\uff0c\u610f\u5916\u6536\u83b7\u4e0d\u5c11\u652f\u6301\u548c\u638c\u58f0\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6e38\u73a9\u6e38\u4e50\u56ed\u8bbe\u65bd\u65f6\u88ab\u541e\u5e01\uff0c\u83b7\u5f97\u4e86\u56ed\u533a\u7684\u8d54\u507f\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u53c2\u52a0\u56ed\u533a\u6d3b\u52a8\u5f97\u5230\u4e86\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1\u5956\u52b1\uff0c\u8fd9\u4e9b\u7eaa\u5ff5\u54c1\u4f3c\u4e4e\u8fd8\u6709\u7279\u6b8a\u7528\u9014\u3002\n\n\u968f\u673a\u83b7\u5f972\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u70c8\u65e5\u708e\u708e\u4f7f\u4f53\u529b\u6d88\u8017\u6b86\u5c3d\uff0c\u9700\u7f13\u6b65\u524d\u884c\u8c03\u6574\u72b6\u6001\u3002\n\n\u83b7\u5f97\u300c\u6c34\u9006\u300d\u72b6\u6001",
+            "\u56ed\u533a\u5e7f\u64ad\u5ba3\u5e03\u8fdb\u5165\u7ade\u6280\u4f11\u606f\u65f6\u95f4\uff0c\u6682\u65f6\u83b7\u5f97\u4e86\u5de1\u903b\u667a\u68b0\u7684\u4fdd\u62a4\u3002\n\n\u83b7\u5f97\u300c\u65e0\u654c\u300d\u72b6\u6001",
+            "\u5728\u4e00\u756a\u6fc0\u60c5\u5730\u4e89\u5435\u4e2d\u4f60\u80dc\u8fc7\u4e86\u4e00\u53ea\u5076\u9047\u7684\u9e2d\u9e2d\uff0c\u9e2d\u9e2d\u9677\u5165\u4e86\u6c89\u601d\u3002\n\n\u5168\u573a\u9e2d\u9e2d\u505c\u6b62\u79fb\u52a83\u56de\u5408",
+            "\u5728\u6e38\u56ed\u5185\u7684\u91cc\u793c\u54c1\u673a\u83b7\u5f97\u8d85\u7ea7\u5927\u5956\u3002\n\n\u83b7\u5f97\u300c\u5438\u91d1\u300d\u72b6\u6001"
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_GetCurse",
+            "random_GetPower",
+            "random_DuckStop",
+            "random_AddMoneyBuff"
+        ]
+    },
+    "301040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301040,
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10003,
+                10011
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "301050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301050,
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10003,
+                10011
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "301090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301090,
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "301091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301091,
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10001,
+                10002,
+                10003,
+                10011
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "302030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 302030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10002,
+                    10006,
+                    10008,
+                    10010,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10006,
+                    10008,
+                    10010,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10006,
+                    10008,
+                    10010,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10006,
+                    10008,
+                    10010,
+                    10012
+                ]
+            ],
+            [
+                4,
+                20003
+            ],
+            [
+                4,
+                10104
+            ],
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                10103
+            ]
+        ],
+        "params_title": [
+            "\u62fe\u91d1\u4e0d\u6627",
+            "\u60e9\u6212\u9e2d\u5b50",
+            "\u8857\u5934\u827a\u672f\u5bb6",
+            "\u610f\u5916\u4e4b\u8d22",
+            "\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u597d\u70ed\u597d\u70ed",
+            "\u6211\u4e0a\u9762\u6709\u4eba",
+            "\u9e2d\u8a00\u9e2d\u8bed",
+            "\u5927\u83b7\u5168\u80dc"
+        ],
+        "params_des": [
+            "\u62fe\u91d1\u4e0d\u6627\uff0c\u5f97\u5230\u4e86\u5931\u4e3b\u7684\u8c22\u793c\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6349\u4f4f\u4e86\u6363\u4e71\u7684\u9e2d\u9e2d\uff0c\u62ff\u5230\u4e86\u5b83\u6240\u6709\u7684\u9e2d\u9e2d\u5e01\u3002\n\n\u83b7\u5f9710\u679a\u9e2d\u9e2d\u5e01",
+            "\u88ab\u9080\u8bf7\u53c2\u52a0\u8857\u5934\u8868\u6f14\uff0c\u610f\u5916\u6536\u83b7\u4e0d\u5c11\u652f\u6301\u548c\u638c\u58f0\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6e38\u73a9\u6e38\u4e50\u56ed\u8bbe\u65bd\u65f6\u88ab\u541e\u5e01\uff0c\u83b7\u5f97\u4e86\u56ed\u533a\u7684\u8d54\u507f\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u53c2\u52a0\u56ed\u533a\u6d3b\u52a8\u5f97\u5230\u4e86\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1\u5956\u52b1\uff0c\u8fd9\u4e9b\u7eaa\u5ff5\u54c1\u4f3c\u4e4e\u8fd8\u6709\u7279\u6b8a\u7528\u9014\u3002\n\n\u968f\u673a\u83b7\u5f972\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u70c8\u65e5\u708e\u708e\u4f7f\u4f53\u529b\u6d88\u8017\u6b86\u5c3d\uff0c\u9700\u7f13\u6b65\u524d\u884c\u8c03\u6574\u72b6\u6001\u3002\n\n\u83b7\u5f97\u300c\u6c34\u9006\u300d\u72b6\u6001",
+            "\u56ed\u533a\u5e7f\u64ad\u5ba3\u5e03\u8fdb\u5165\u7ade\u6280\u4f11\u606f\u65f6\u95f4\uff0c\u6682\u65f6\u83b7\u5f97\u4e86\u5de1\u903b\u667a\u68b0\u7684\u4fdd\u62a4\u3002\n\n\u83b7\u5f97\u300c\u65e0\u654c\u300d\u72b6\u6001",
+            "\u5728\u4e00\u756a\u6fc0\u60c5\u5730\u4e89\u5435\u4e2d\u4f60\u80dc\u8fc7\u4e86\u4e00\u53ea\u5076\u9047\u7684\u9e2d\u9e2d\uff0c\u9e2d\u9e2d\u9677\u5165\u4e86\u6c89\u601d\u3002\n\n\u5168\u573a\u9e2d\u9e2d\u505c\u6b62\u79fb\u52a83\u56de\u5408",
+            "\u5728\u6e38\u56ed\u5185\u7684\u91cc\u793c\u54c1\u673a\u83b7\u5f97\u8d85\u7ea7\u5927\u5956\u3002\n\n\u83b7\u5f97\u300c\u5438\u91d1\u300d\u72b6\u6001"
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_GetCurse",
+            "random_GetPower",
+            "random_DuckStop",
+            "random_AddMoneyBuff"
+        ]
+    },
+    "302040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 302040,
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10006,
+                10008,
+                10010,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "302050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 302050,
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10006,
+                10008,
+                10010,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "302090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 302090,
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "302091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 302091,
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10001,
+                10002,
+                10006,
+                10008,
+                10010,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "401030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 401030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                8
+            ],
+            [
+                1,
+                8
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                2,
+                2,
+                [
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                4,
+                20003
+            ],
+            [
+                4,
+                10104
+            ],
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                10103
+            ],
+            [
+                4,
+                20001
+            ]
+        ],
+        "params_title": [
+            "\u62fe\u91d1\u4e0d\u6627",
+            "\u60e9\u6212\u9e2d\u5b50",
+            "\u8857\u5934\u827a\u672f\u5bb6",
+            "\u610f\u5916\u4e4b\u8d22",
+            "\u597d\u4eba\u6709\u597d\u62a5",
+            "\u597d\u8fd0\u7737\u987e",
+            "\u51b2\u6d6a\u6bd4\u8d5b",
+            "\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1",
+            "\u53cb\u597d\u7684\u6253\u5de5\u4eba",
+            "\u53cb\u597d\u7684\u6253\u5de5\u4eba",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u607c\u4eba\u7684\u6742\u97f3",
+            "\u6258\u9a6c\u65af\u56de\u65cb",
+            "\u9e2d\u8a00\u9e2d\u8bed",
+            "\u5927\u83b7\u5168\u80dc",
+            "\u8d8a\u6765\u8d8a\u8f7b\u7684\u80cc\u5305"
+        ],
+        "params_des": [
+            "\u62fe\u91d1\u4e0d\u6627\uff0c\u5f97\u5230\u4e86\u5931\u4e3b\u7684\u8c22\u793c\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6349\u4f4f\u4e86\u6363\u4e71\u7684\u9e2d\u9e2d\uff0c\u62ff\u5230\u4e86\u5b83\u6240\u6709\u7684\u9e2d\u9e2d\u5e01\u3002\n\n\u83b7\u5f9710\u679a\u9e2d\u9e2d\u5e01",
+            "\u88ab\u9080\u8bf7\u53c2\u52a0\u8857\u5934\u8868\u6f14\uff0c\u610f\u5916\u6536\u83b7\u4e0d\u5c11\u652f\u6301\u548c\u638c\u58f0\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6e38\u73a9\u6e38\u4e50\u56ed\u8bbe\u65bd\u65f6\u88ab\u541e\u5e01\uff0c\u83b7\u5f97\u4e86\u56ed\u533a\u7684\u8d54\u507f\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u7528\u7eaa\u5ff5\u54c1\u5b89\u629a\u4e86\u56ed\u533a\u5185\u56e0\u8ff7\u8def\u800c\u54ed\u95f9\u5c0f\u5b69\uff0c\u5e76\u5c06\u4ed6\u4eec\u5e26\u53bb\u4e86\u6e38\u5ba2\u670d\u52a1\u4e2d\u5fc3\uff0c\u83b7\u5f97\u4e86\u5c0f\u5b69\u5bb6\u957f\u7684\u611f\u8c22\u3002\n\n\u83b7\u5f978\u679a\u9e2d\u9e2d\u5e01",
+            "\u5728\u65e0\u4eba\u7684\u89d2\u843d\u6361\u5230\u4e86\u65e0\u4eba\u8ba4\u9886\u7684\u9e2d\u9e2d\u5e01\u3002\n\n\u83b7\u5f978\u679a\u9e2d\u9e2d\u5e01",
+            "\u5728\u51b2\u6d6a\u6bd4\u8d5b\u4e2d\u83b7\u5f97\u51a0\u519b\uff0c\u5f97\u5230\u4e86\u56ed\u533a\u5b98\u65b9\u7684\u5956\u52b1\u3002\n\n\u83b7\u5f9710\u679a\u9e2d\u9e2d\u5e01",
+            "\u53c2\u52a0\u56ed\u533a\u6d3b\u52a8\u5f97\u5230\u4e86\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1\u5956\u52b1\uff0c\u8fd9\u4e9b\u7eaa\u5ff5\u54c1\u4f3c\u4e4e\u8fd8\u6709\u7279\u6b8a\u7528\u9014\u3002\n\n\u968f\u673a\u83b7\u5f972\u4e2a\u9053\u5177",
+            "\u56ed\u533a\u5185\u5076\u9047\u963f\u6ce2\u7f57\u5728\u6253\u5de5\uff0c\u4ed6\u5f88\u5927\u65b9\u5730\u8bf7\u4e86\u4f60\u4e00\u4efd\u6b63\u5728\u8d29\u5356\u7684\u98df\u7269\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u56ed\u533a\u5185\u5076\u9047\u963f\u6ce2\u7f57\u5728\u6253\u5de5\uff0c\u4ed6\u5f88\u5927\u65b9\u5730\u8bf7\u4e86\u4f60\u4e00\u4efd\u6b63\u5728\u8d29\u5356\u7684\u98df\u7269\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u6e38\u4e50\u56ed\u533a\u5185\u64ad\u653e\u7684\u80cc\u666f\u97f3\u4e50\u4f7f\u4eba\u5fc3\u70e6\uff0c\u6162\u6162\u884c\u52a8\u7f13\u548c\u4e00\u4e0b\u5fc3\u60c5\u5427\u3002\n\n\u83b7\u5f97\u300c\u6c34\u9006\u300d\u72b6\u6001",
+            "\u7ecf\u5386\u4e86\u4e09\u6b21\u9ad8\u7a7a\u6c34\u4e0a\u9879\u76ee\u7684\u4f60\u65e0\u6240\u754f\u60e7\u3002\n\n\u83b7\u5f97\u300c\u65e0\u654c\u300d\u72b6\u6001",
+            "\u5728\u4e00\u756a\u6fc0\u60c5\u5730\u4e89\u5435\u4e2d\u4f60\u80dc\u8fc7\u4e86\u4e00\u53ea\u5076\u9047\u7684\u9e2d\u9e2d\uff0c\u9e2d\u9e2d\u9677\u5165\u4e86\u6c89\u601d\u3002\n\n\u5168\u573a\u9e2d\u9e2d\u505c\u6b62\u79fb\u52a83\u56de\u5408",
+            "\u5728\u6e38\u56ed\u5185\u7684\u91cc\u793c\u54c1\u673a\u83b7\u5f97\u8d85\u7ea7\u5927\u5956\u3002\n\n\u83b7\u5f97\u300c\u5438\u91d1\u300d\u72b6\u6001",
+            "\u4e0e\u9e2d\u9e2d\u4e89\u6597\u8fc7\u7a0b\u4e2d\u610f\u5916\u5f04\u7834\u4e86\u80cc\u5305\uff0c\u5305\u5185\u7684\u4e1c\u897f\u56db\u6563\u800c\u51fa\u3002\n\n\u83b7\u5f97\u300c\u6f0f\u8d22\u300d\u72b6\u6001"
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_GetCurse",
+            "random_GetPower",
+            "random_DuckStop",
+            "random_AddMoneyBuff",
+            "random_GetPoverty"
+        ]
+    },
+    "401040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 401040,
+        "params_image": "",
+        "params": [
+            2,
+            [
+                10002,
+                10003,
+                10007,
+                10006,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ]
+    },
+    "401050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 401050,
+        "params_image": "",
+        "params": [
+            3,
+            [
+                10002,
+                10003,
+                10007,
+                10006,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ]
+    },
+    "401090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 401090,
+        "params_image": "",
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ]
+    },
+    "401091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 401091,
+        "params_image": "",
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10002,
+                10003,
+                10007,
+                10006,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ]
+    },
+    "501030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 501030,
+        "params": [
+            [
+                1,
+                8
+            ],
+            [
+                1,
+                8
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10008
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10008
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10008
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10008
+                ]
+            ],
+            [
+                4,
+                20003
+            ],
+            [
+                5,
+                3
+            ]
+        ],
+        "params_title": [
+            "\u597d\u4eba\u6709\u597d\u62a5",
+            "\u597d\u8fd0\u7737\u987e",
+            "\u51b2\u6d6a\u6bd4\u8d5b",
+            "\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1",
+            "\u53cb\u597d\u7684\u6253\u5de5\u4eba",
+            "\u53cb\u597d\u7684\u6253\u5de5\u4eba",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u607c\u4eba\u7684\u6742\u97f3",
+            "\u9e2d\u8a00\u9e2d\u8bed"
+        ],
+        "params_des": [
+            "\u7528\u7eaa\u5ff5\u54c1\u5b89\u629a\u4e86\u56ed\u533a\u5185\u56e0\u8ff7\u8def\u800c\u54ed\u95f9\u5c0f\u5b69\uff0c\u5e76\u5c06\u4ed6\u4eec\u5e26\u53bb\u4e86\u6e38\u5ba2\u670d\u52a1\u4e2d\u5fc3\uff0c\u83b7\u5f97\u4e86\u5c0f\u5b69\u5bb6\u957f\u7684\u611f\u8c22\u3002\n\n\u83b7\u5f978\u679a\u9e2d\u9e2d\u5e01",
+            "\u5728\u65e0\u4eba\u7684\u89d2\u843d\u6361\u5230\u4e86\u65e0\u4eba\u8ba4\u9886\u7684\u9e2d\u9e2d\u5e01\u3002\n\n\u83b7\u5f978\u679a\u9e2d\u9e2d\u5e01",
+            "\u5728\u51b2\u6d6a\u6bd4\u8d5b\u4e2d\u83b7\u5f97\u51a0\u519b\uff0c\u5f97\u5230\u4e86\u56ed\u533a\u5b98\u65b9\u7684\u5956\u52b1\u3002\n\n\u83b7\u5f9710\u679a\u9e2d\u9e2d\u5e01",
+            "\u53c2\u52a0\u56ed\u533a\u6d3b\u52a8\u5f97\u5230\u4e86\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1\u5956\u52b1\uff0c\u8fd9\u4e9b\u7eaa\u5ff5\u54c1\u4f3c\u4e4e\u8fd8\u6709\u7279\u6b8a\u7528\u9014\u3002\n\n\u968f\u673a\u83b7\u5f972\u4e2a\u9053\u5177",
+            "\u56ed\u533a\u5185\u5076\u9047\u963f\u6ce2\u7f57\u5728\u6253\u5de5\uff0c\u4ed6\u5f88\u5927\u65b9\u5730\u8bf7\u4e86\u4f60\u4e00\u4efd\u6b63\u5728\u8d29\u5356\u7684\u98df\u7269\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u56ed\u533a\u5185\u5076\u9047\u963f\u6ce2\u7f57\u5728\u6253\u5de5\uff0c\u4ed6\u5f88\u5927\u65b9\u5730\u8bf7\u4e86\u4f60\u4e00\u4efd\u6b63\u5728\u8d29\u5356\u7684\u98df\u7269\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u6e38\u4e50\u56ed\u533a\u5185\u64ad\u653e\u7684\u80cc\u666f\u97f3\u4e50\u4f7f\u4eba\u5fc3\u70e6\uff0c\u6162\u6162\u884c\u52a8\u7f13\u548c\u4e00\u4e0b\u5fc3\u60c5\u5427\u3002\n\n\u83b7\u5f97\u300c\u6c34\u9006\u300d\u72b6\u6001",
+            "\u5728\u4e00\u756a\u6fc0\u60c5\u5730\u4e89\u5435\u4e2d\u4f60\u80dc\u8fc7\u4e86\u4e00\u53ea\u5076\u9047\u7684\u9e2d\u9e2d\uff0c\u9e2d\u9e2d\u9677\u5165\u4e86\u6c89\u601d\u3002\n\n\u5168\u573a\u9e2d\u9e2d\u505c\u6b62\u79fb\u52a83\u56de\u5408"
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_GetCurse",
+            "random_DuckStop"
+        ]
+    },
+    "501040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 501040,
+        "params_image": "",
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10003,
+                10008
+            ]
+        ]
+    },
+    "501050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 501050,
+        "params_image": "",
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10003,
+                10008
+            ]
+        ]
+    },
+    "501090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 501090,
+        "params_image": "",
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ]
+    },
+    "501091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 501091,
+        "params_image": "",
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10001,
+                10002,
+                10003,
+                10008
+            ]
+        ]
+    },
+    "502030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 502030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                8
+            ],
+            [
+                1,
+                8
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                4,
+                20003
+            ],
+            [
+                4,
+                10104
+            ],
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                10103
+            ],
+            [
+                4,
+                20001
+            ]
+        ],
+        "params_title": [
+            "\u62fe\u91d1\u4e0d\u6627",
+            "\u60e9\u6212\u9e2d\u5b50",
+            "\u8857\u5934\u827a\u672f\u5bb6",
+            "\u610f\u5916\u4e4b\u8d22",
+            "\u597d\u4eba\u6709\u597d\u62a5",
+            "\u597d\u8fd0\u7737\u987e",
+            "\u51b2\u6d6a\u6bd4\u8d5b",
+            "\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1",
+            "\u53cb\u597d\u7684\u6253\u5de5\u4eba",
+            "\u53cb\u597d\u7684\u6253\u5de5\u4eba",
+            "\u5934\u53f7\u73a9\u5bb6",
+            "\u607c\u4eba\u7684\u6742\u97f3",
+            "\u6258\u9a6c\u65af\u56de\u65cb",
+            "\u9e2d\u8a00\u9e2d\u8bed",
+            "\u5927\u83b7\u5168\u80dc",
+            "\u8d8a\u6765\u8d8a\u8f7b\u7684\u80cc\u5305"
+        ],
+        "params_des": [
+            "\u62fe\u91d1\u4e0d\u6627\uff0c\u5f97\u5230\u4e86\u5931\u4e3b\u7684\u8c22\u793c\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6349\u4f4f\u4e86\u6363\u4e71\u7684\u9e2d\u9e2d\uff0c\u62ff\u5230\u4e86\u5b83\u6240\u6709\u7684\u9e2d\u9e2d\u5e01\u3002\n\n\u83b7\u5f9710\u679a\u9e2d\u9e2d\u5e01",
+            "\u88ab\u9080\u8bf7\u53c2\u52a0\u8857\u5934\u8868\u6f14\uff0c\u610f\u5916\u6536\u83b7\u4e0d\u5c11\u652f\u6301\u548c\u638c\u58f0\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u6e38\u73a9\u6e38\u4e50\u56ed\u8bbe\u65bd\u65f6\u88ab\u541e\u5e01\uff0c\u83b7\u5f97\u4e86\u56ed\u533a\u7684\u8d54\u507f\u3002\n\n\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01",
+            "\u7528\u7eaa\u5ff5\u54c1\u5b89\u629a\u4e86\u56ed\u533a\u5185\u56e0\u8ff7\u8def\u800c\u54ed\u95f9\u5c0f\u5b69\uff0c\u5e76\u5c06\u4ed6\u4eec\u5e26\u53bb\u4e86\u6e38\u5ba2\u670d\u52a1\u4e2d\u5fc3\uff0c\u83b7\u5f97\u4e86\u5c0f\u5b69\u5bb6\u957f\u7684\u611f\u8c22\u3002\n\n\u83b7\u5f978\u679a\u9e2d\u9e2d\u5e01",
+            "\u5728\u65e0\u4eba\u7684\u89d2\u843d\u6361\u5230\u4e86\u65e0\u4eba\u8ba4\u9886\u7684\u9e2d\u9e2d\u5e01\u3002\n\n\u83b7\u5f978\u679a\u9e2d\u9e2d\u5e01",
+            "\u5728\u51b2\u6d6a\u6bd4\u8d5b\u4e2d\u83b7\u5f97\u51a0\u519b\uff0c\u5f97\u5230\u4e86\u56ed\u533a\u5b98\u65b9\u7684\u5956\u52b1\u3002\n\n\u83b7\u5f9710\u679a\u9e2d\u9e2d\u5e01",
+            "\u53c2\u52a0\u56ed\u533a\u6d3b\u52a8\u5f97\u5230\u4e86\u6e38\u4e50\u56ed\u7eaa\u5ff5\u54c1\u5956\u52b1\uff0c\u8fd9\u4e9b\u7eaa\u5ff5\u54c1\u4f3c\u4e4e\u8fd8\u6709\u7279\u6b8a\u7528\u9014\u3002\n\n\u968f\u673a\u83b7\u5f972\u4e2a\u9053\u5177",
+            "\u56ed\u533a\u5185\u5076\u9047\u963f\u6ce2\u7f57\u5728\u6253\u5de5\uff0c\u4ed6\u5f88\u5927\u65b9\u5730\u8bf7\u4e86\u4f60\u4e00\u4efd\u6b63\u5728\u8d29\u5356\u7684\u98df\u7269\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u56ed\u533a\u5185\u5076\u9047\u963f\u6ce2\u7f57\u5728\u6253\u5de5\uff0c\u4ed6\u5f88\u5927\u65b9\u5730\u8bf7\u4e86\u4f60\u4e00\u4efd\u6b63\u5728\u8d29\u5356\u7684\u98df\u7269\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u5728\u7ade\u6280\u9879\u76ee\u4e2d\u83b7\u80dc\uff0c\u5f97\u5230\u4e86\u5956\u52b1\u3002\n\n\u968f\u673a\u83b7\u5f971\u4e2a\u9053\u5177",
+            "\u6e38\u4e50\u56ed\u533a\u5185\u64ad\u653e\u7684\u80cc\u666f\u97f3\u4e50\u4f7f\u4eba\u5fc3\u70e6\uff0c\u6162\u6162\u884c\u52a8\u7f13\u548c\u4e00\u4e0b\u5fc3\u60c5\u5427\u3002\n\n\u83b7\u5f97\u300c\u6c34\u9006\u300d\u72b6\u6001",
+            "\u7ecf\u5386\u4e86\u4e09\u6b21\u9ad8\u7a7a\u6c34\u4e0a\u9879\u76ee\u7684\u4f60\u65e0\u6240\u754f\u60e7\u3002\n\n\u83b7\u5f97\u300c\u65e0\u654c\u300d\u72b6\u6001",
+            "\u5728\u4e00\u756a\u6fc0\u60c5\u5730\u4e89\u5435\u4e2d\u4f60\u80dc\u8fc7\u4e86\u4e00\u53ea\u5076\u9047\u7684\u9e2d\u9e2d\uff0c\u9e2d\u9e2d\u9677\u5165\u4e86\u6c89\u601d\u3002\n\n\u5168\u573a\u9e2d\u9e2d\u505c\u6b62\u79fb\u52a83\u56de\u5408",
+            "\u5728\u6e38\u56ed\u5185\u7684\u91cc\u793c\u54c1\u673a\u83b7\u5f97\u8d85\u7ea7\u5927\u5956\u3002\n\n\u83b7\u5f97\u300c\u5438\u91d1\u300d\u72b6\u6001",
+            "\u4e0e\u9e2d\u9e2d\u4e89\u6597\u8fc7\u7a0b\u4e2d\u610f\u5916\u5f04\u7834\u4e86\u80cc\u5305\uff0c\u5305\u5185\u7684\u4e1c\u897f\u56db\u6563\u800c\u51fa\u3002\n\n\u83b7\u5f97\u300c\u6f0f\u8d22\u300d\u72b6\u6001"
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_GetCurse",
+            "random_GetPower",
+            "random_DuckStop",
+            "random_AddMoneyBuff",
+            "random_GetPoverty"
+        ]
+    },
+    "502040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 502040,
+        "params_image": "",
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10003,
+                10007,
+                10006,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ]
+    },
+    "502050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 502050,
+        "params_image": "",
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10003,
+                10007,
+                10006,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ]
+    },
+    "502090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 502090,
+        "params_image": "",
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ]
+    },
+    "502091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 502091,
+        "params_image": "",
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10001,
+                10002,
+                10003,
+                10007,
+                10006,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ]
+    },
+    "101111": {
+        "cost": 5,
+        "name": "\u590f\u65e5\u5f00\u542f\u2160",
+        "chance_event": 101991,
+        "type": 6,
+        "description": "\u9e2d\u5b50\uff1f\u9e2d\u5b50\uff01",
+        "unlock_story": 104140201,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101111,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_1_1_1"
+        ]
+    },
+    "101112": {
+        "cost": 10,
+        "name": "\u590f\u65e5\u5f00\u542f\u2161",
+        "chance_event": 101992,
+        "type": 6,
+        "description": "\u660e\u660e\u662f\u5047\u65e5\uff0c\u5374\u8fd8\u80fd\u89c1\u5230\u65e0\u5904\u4e0d\u5728\u7684\u6253\u5de5\u4eba\u3002",
+        "unlock_story": 104140401,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101112,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_1_1_2"
+        ]
+    },
+    "101113": {
+        "cost": 15,
+        "name": "\u590f\u65e5\u5f00\u542f\u2162",
+        "chance_event": 101993,
+        "type": 6,
+        "description": "\u7ed3\u51fa\u86cb\u7684\u6930\u6811\uff0c\u90a3\u5c31\u5e94\u8be5\u53eb\u2026\u2026",
+        "unlock_story": 104140501,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101113,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_1_1_3"
+        ]
+    },
+    "102080": {
+        "cost": 0,
+        "name": "\u5230\u4e0a\u9762\u53bb",
+        "chance_event": 102081,
+        "type": 4,
+        "description": "\u8fd9\u91cc\u6709\u4e00\u6761\u5c0f\u8def\uff0c\u6211\u4eec\u4e0d\u8981\u60ca\u6270\u5230\u5b83\uff0c\u7136\u540e\u6084\u6084\u5730\u3001\u8fc5\u901f\u5730\u5230\u8fbe\u4e0a\u9762\u7684\u5730\u65b9\u3002",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 102080,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "transfer_1_2_1"
+        ]
+    },
+    "102111": {
+        "cost": 5,
+        "name": "\u795e\u79d8\u5f69\u86cb\u2160",
+        "chance_event": 102991,
+        "type": 3,
+        "description": "\u6551\u547d\u554a\u2014\u2014\u6709\u6ca1\u6709\u4eba\u6765\u6551\u6551\u6211\u2014\u2014\uff01",
+        "unlock_story": 104140601,
+        "play_success_story": 0,
+        "target_des": "\u8fbe\u52301500\u5206",
+        "play_start_story": 0,
+        "id": 102111,
+        "params": [
+            1
+        ],
+        "params_title": [
+            "\u75af\u72c2\u9e2d\u9e2d"
+        ],
+        "params_des": [
+            "\u4f7f\u7528\u9524\u5b50\u51fb\u8d25\u9e2d\u9e2d\u4ee5\u83b7\u5f97\u79ef\u5206"
+        ],
+        "params_image": [
+            "target_1_2_1"
+        ]
+    },
+    "102112": {
+        "cost": 10,
+        "name": "\u795e\u79d8\u5f69\u86cb\u2161",
+        "chance_event": 102992,
+        "type": 6,
+        "description": "\u585e\u8d6b\u9ea6\u7279\u961f\u957f\uff0c\u542c\u5230\u5e7f\u64ad\u540e\u8bf7\u56de\u5e94\uff0c\u6df1\u7a7a\u4e4b\u773c\u7684\u7ba1\u7406\u5458\u6b63\u5728\u5bfb\u627e\u4f60\u3002",
+        "unlock_story": 104140701,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 102112,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_1_2_2"
+        ]
+    },
+    "102113": {
+        "cost": 15,
+        "name": "\u795e\u79d8\u5f69\u86cb\u2162",
+        "chance_event": 102993,
+        "type": 6,
+        "description": "\u732b\u79d1\u52a8\u7269\u5bf9\u4e8e\u6c99\u6ee9\u7684\u6001\u5ea6\u7a76\u7adf\u662f\u600e\u4e48\u6837\u7684\u5462\u2026\u2026\u6bd5\u7adf\u53c8\u6709\u6c99\u5b50\u53c8\u6709\u6c34\u3002",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 102113,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_1_2_3"
+        ]
+    },
+    "201080": {
+        "cost": 0,
+        "name": "\u5728\u6d77\u7684\u90a3\u8fb9",
+        "chance_event": 201081,
+        "type": 4,
+        "description": "\u8fd9\u91cc\u6709\u4e00\u6761\u5c0f\u8def\uff0c\u6211\u4eec\u4e0d\u8981\u60ca\u6270\u5230\u5b83\uff0c\u7136\u540e\u6084\u6084\u5730\u3001\u8fc5\u901f\u5730\u5230\u8fbe\u53e6\u4e00\u8fb9\u53bb\u3002",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201080,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "transfer_2_1_1"
+        ]
+    },
+    "201082": {
+        "cost": 0,
+        "name": "\u5728\u6d77\u7684\u90a3\u8fb9",
+        "chance_event": 201083,
+        "type": 4,
+        "description": "\u8fd9\u91cc\u6709\u4e00\u6761\u5c0f\u8def\uff0c\u6211\u4eec\u4e0d\u8981\u60ca\u6270\u5230\u5b83\uff0c\u7136\u540e\u6084\u6084\u5730\u3001\u8fc5\u901f\u5730\u5230\u8fbe\u53e6\u4e00\u8fb9\u53bb\u3002",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201082,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "transfer_2_1_1"
+        ]
+    },
+    "201111": {
+        "cost": 5,
+        "name": "\u6d77\u4e0a\u5feb\u8247\u7ade\u6280\u8d5b\u2160",
+        "chance_event": 201991,
+        "type": 7,
+        "description": "\u7a81\u7136\uff0c\u4ece\u6811\u4e1b\u4e2d\u94bb\u51fa\u6765\u4e00\u4e2a\u2026\u2026\u9cc4\u9c7c\u5934\uff01",
+        "unlock_story": 104141001,
+        "play_success_story": 0,
+        "target_des": "\u8fbe\u52303000\u5206",
+        "play_start_story": 0,
+        "id": 201111,
+        "params": [
+            101
+        ],
+        "params_title": [
+            "\u6ce1\u6ce1\u5371\u673a"
+        ],
+        "params_des": [
+            "\u70b9\u51fb\u6ce1\u6ce1\uff0c\u5e76\u6d88\u9664\u6240\u6709\u6ce1\u6ce1\u4ee5\u83b7\u5f97\u79ef\u5206"
+        ],
+        "params_image": [
+            "target_2_1_1"
+        ]
+    },
+    "201112": {
+        "cost": 10,
+        "name": "\u6d77\u4e0a\u5feb\u8247\u7ade\u6280\u8d5b\u2161",
+        "chance_event": 201992,
+        "type": 10,
+        "description": "\u4ec0\u4e48\uff1f\u4e3b\u6559\u7ec3\u6b63\u5728\u70ed\u8eab\uff1f",
+        "unlock_story": 104141101,
+        "play_success_story": 0,
+        "target_des": "\u62b5\u8fbe\u7ec8\u70b9",
+        "play_start_story": 0,
+        "id": 201112,
+        "params": [
+            5190901
+        ],
+        "params_title": [
+            "\u6d77\u4e0a\u5feb\u8247\u7ade\u6280\u8d5b"
+        ],
+        "params_des": [
+            "\u9a7e\u9a76\u5feb\u8247\uff0c\u5728\u89c4\u5b9a\u65f6\u95f4\u5185\u62b5\u8fbe\u7ec8\u70b9"
+        ],
+        "params_image": [
+            "target_2_1_2"
+        ]
+    },
+    "201113": {
+        "cost": 15,
+        "name": "\u6d77\u4e0a\u5feb\u8247\u7ade\u6280\u8d5b\u2162",
+        "chance_event": 201993,
+        "type": 6,
+        "description": "\u771f\u6b63\u7684\u6bd4\u8d5b\uff0c\u5728\u6bd4\u8d5b\u540e\u4e5f\u6ca1\u6709\u7ed3\u675f\uff01",
+        "unlock_story": 104141201,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201113,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_2_1_3"
+        ]
+    },
+    "202111": {
+        "cost": 5,
+        "name": "\u88ab\u8ffd\u8d76\u7684\u592a\u9633\u2160",
+        "chance_event": 202991,
+        "type": 3,
+        "description": "\u5f53\u6811\u6797\u5f00\u59cb\u560e\u560e\u2026\u2026",
+        "unlock_story": 104141401,
+        "play_success_story": 0,
+        "target_des": "\u8fbe\u52301500\u5206",
+        "play_start_story": 0,
+        "id": 202111,
+        "params": [
+            10
+        ],
+        "params_title": [
+            "\u75af\u72c2\u9e2d\u9e2d"
+        ],
+        "params_des": [
+            "\u4f7f\u7528\u9524\u5b50\u51fb\u8d25\u9e2d\u9e2d\u4ee5\u83b7\u5f97\u79ef\u5206"
+        ],
+        "params_image": [
+            "target_2_2_1"
+        ]
+    },
+    "202112": {
+        "cost": 10,
+        "name": "\u88ab\u8ffd\u8d76\u7684\u592a\u9633\u2161",
+        "chance_event": 202992,
+        "type": 8,
+        "description": "\u6709\u65f6\u5019\uff0c\u592a\u53d7\u6b22\u8fce\u4e5f\u662f\u9519\u5462\u3002",
+        "unlock_story": 104141501,
+        "play_success_story": 0,
+        "target_des": "\u51fb\u8d25\u5168\u90e8\u654c\u4eba",
+        "play_start_story": 0,
+        "id": 202112,
+        "params": [
+            5190321
+        ],
+        "params_title": [
+            "\u4ef2\u590f\u534f\u594f\u5267\u573a"
+        ],
+        "params_des": [
+            "\u8ddf\u968f\u8282\u62cd\u8f93\u5165\u97f3\u7b26\u51fb\u8d25\u654c\u4eba"
+        ],
+        "params_image": [
+            "target_2_2_2"
+        ]
+    },
+    "203111": {
+        "cost": 5,
+        "name": "\u9e2d\u4e0e\u667a\u68b0\u5371\u673a\u2160",
+        "chance_event": 203991,
+        "type": 6,
+        "description": "\u6211\u4eec\u5148\u8fdb\u7684\u9e2d\u5b50\u5df2\u7ecf\u5b8c\u5168\u8d85\u8d8a\u4e86\u8001\u5f0f\u7684\u667a\u68b0\uff01",
+        "unlock_story": 104141701,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 203111,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_2_3_1"
+        ]
+    },
+    "203112": {
+        "cost": 10,
+        "name": "\u9e2d\u4e0e\u667a\u68b0\u5371\u673a\u2161",
+        "chance_event": 203992,
+        "type": 8,
+        "description": "\u4f4f\u624b\uff0c\u4f60\u4eec\u4e0d\u8981\u518d\u6253\u5566\uff01",
+        "unlock_story": 104141801,
+        "play_success_story": 0,
+        "target_des": "\u51fb\u8d25\u5168\u90e8\u654c\u4eba",
+        "play_start_story": 0,
+        "id": 203112,
+        "params": [
+            5190322
+        ],
+        "params_title": [
+            "\u4ef2\u590f\u534f\u594f\u5267\u573a"
+        ],
+        "params_des": [
+            "\u8ddf\u968f\u8282\u62cd\u8f93\u5165\u97f3\u7b26\u51fb\u8d25\u654c\u4eba"
+        ],
+        "params_image": [
+            "target_2_3_2"
+        ]
+    },
+    "301070": {
+        "cost": 5,
+        "name": "\u56ed\u533a\u670d\u52a1\u7ad9",
+        "chance_event": 301071,
+        "type": 4,
+        "description": "\u5546\u5bb6\u6253\u5e7f\u544a\u4e5f\u662f\u7ed9\u4e86\u94b1\u7684\u561b\uff0c\u968f\u610f\u8ba9\u4eba\u5bb6\u632a\u4f4d\u7f6e\u6211\u4eec\u4e5f\u5f88\u96be\u529e\u7684\u5566\u3002",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301070,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "office_3_1_1"
+        ]
+    },
+    "301073": {
+        "cost": 5,
+        "name": "\u56ed\u533a\u670d\u52a1\u7ad9",
+        "chance_event": 301074,
+        "type": 4,
+        "description": "\u5546\u5bb6\u6253\u5e7f\u544a\u4e5f\u662f\u7ed9\u4e86\u94b1\u7684\u561b\uff0c\u968f\u610f\u8ba9\u4eba\u5bb6\u632a\u4f4d\u7f6e\u6211\u4eec\u4e5f\u5f88\u96be\u529e\u7684\u5566\u3002",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301073,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "office_3_1_1"
+        ]
+    },
+    "301111": {
+        "cost": 5,
+        "name": "\u97f3\u4e50\u4e4b\u58f0\u2160",
+        "chance_event": 301991,
+        "type": 6,
+        "description": "\u6392\u9664\u6389\u6240\u6709\u9519\u8bef\u7b54\u6848\uff0c\u5269\u4e0b\u7684\u80af\u5b9a\u5c31\u662f\u6b63\u89e3\uff01",
+        "unlock_story": 104142001,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301111,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_3_1_1"
+        ]
+    },
+    "301112": {
+        "cost": 10,
+        "name": "\u97f3\u4e50\u4e4b\u58f0\u2161",
+        "chance_event": 301992,
+        "type": 6,
+        "description": "\u542c\u4e0b\u9762\u4e50\u66f2\uff0c\u9009\u51fa\u6b63\u786e\u7b54\u6848\u3002\u4f8b\u5982\uff1a\u886c\u886b\u7684\u4ef7\u683c\u662f\u2026\u2026",
+        "unlock_story": 104142101,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301112,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_3_1_2"
+        ]
+    },
+    "301113": {
+        "cost": 15,
+        "name": "\u97f3\u4e50\u4e4b\u58f0\u2162",
+        "chance_event": 301993,
+        "type": 8,
+        "description": "\u8981\u95ee\u9e2d\u9e2d\u54ea\u91cc\u597d\uff0c\u9e2d\u9e2d\u2026\u2026\u5443\u2026\u2026\u9e2d\u9e2d\u54ea\u91cc\u597d\uff1f",
+        "unlock_story": 104142201,
+        "play_success_story": 0,
+        "target_des": "\u51fb\u8d25\u5168\u90e8\u654c\u4eba",
+        "play_start_story": 0,
+        "id": 301113,
+        "params": [
+            5190324
+        ],
+        "params_title": [
+            "\u4ef2\u590f\u534f\u594f\u5267\u573a"
+        ],
+        "params_des": [
+            "\u8ddf\u968f\u8282\u62cd\u8f93\u5165\u97f3\u7b26\u51fb\u8d25\u654c\u4eba"
+        ],
+        "params_image": [
+            "target_3_1_3"
+        ]
+    },
+    "301114": {
+        "cost": 20,
+        "name": "\u97f3\u4e50\u4e4b\u58f0\u2163",
+        "chance_event": 301994,
+        "type": 6,
+        "description": "\u300c\u597d\u8ba8\u538c\u7684\u611f\u89c9\u2014\u2014\u300d",
+        "unlock_story": 104142301,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301114,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_3_1_1"
+        ]
+    },
+    "302111": {
+        "cost": 10,
+        "name": "\u88ab\u8ffd\u8d76\u7684\u9e2d\u5b50\u2160",
+        "chance_event": 302991,
+        "type": 6,
+        "description": "\u554a\uff01\u91ce\u751f\u7684\u7a83\u8d3c\u9e2d\u94bb\u51fa\u6765\u4e86\uff01\n\u51b2\u554a\uff0c\u94c3\u5170\u56e2\uff01",
+        "unlock_story": 104142501,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 302111,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_3_2_1"
+        ]
+    },
+    "302112": {
+        "cost": 15,
+        "name": "\u88ab\u8ffd\u8d76\u7684\u9e2d\u5b50\u2161",
+        "chance_event": 302992,
+        "type": 8,
+        "description": "\u6536\u624b\u5427\uff0c\u963f\u9e2d\uff0c\u5916\u9762\u5168\u662f\u9a91\u58eb\u3002",
+        "unlock_story": 104142601,
+        "play_success_story": 0,
+        "target_des": "\u51fb\u8d25\u5168\u90e8\u654c\u4eba",
+        "play_start_story": 0,
+        "id": 302112,
+        "params": [
+            5190326
+        ],
+        "params_title": [
+            "\u4ef2\u590f\u534f\u594f\u5267\u573a"
+        ],
+        "params_des": [
+            "\u8ddf\u968f\u8282\u62cd\u8f93\u5165\u97f3\u7b26\u51fb\u8d25\u654c\u4eba"
+        ],
+        "params_image": [
+            "target_1_1_1"
+        ]
+    },
+    "303111": {
+        "cost": 10,
+        "name": "\u60ca\u5929\u76d7\u7a83\u56e2\u2160",
+        "chance_event": 303991,
+        "type": 7,
+        "description": "\u6765\uff0c\u96f6\u4e00\uff01\u7ed9\u5927\u5bb6\u6574\u4e2a\u6d3b\uff01",
+        "unlock_story": 104142801,
+        "play_success_story": 0,
+        "target_des": "\u8fbe\u52303000\u5206",
+        "play_start_story": 0,
+        "id": 303111,
+        "params": [
+            102
+        ],
+        "params_title": [
+            "\u6ce1\u6ce1\u5371\u673a"
+        ],
+        "params_des": [
+            "\u70b9\u51fb\u6ce1\u6ce1\uff0c\u5e76\u6d88\u9664\u6240\u6709\u6ce1\u6ce1\u4ee5\u83b7\u5f97\u79ef\u5206"
+        ],
+        "params_image": [
+            "target_3_1_2"
+        ]
+    },
+    "303112": {
+        "cost": 15,
+        "name": "\u60ca\u5929\u76d7\u7a83\u56e2\u2161",
+        "chance_event": 303992,
+        "type": 8,
+        "description": "\u6295\u964d\u662f\u4e0d\u53ef\u80fd\u7684\uff0c\u8fd9\u8f88\u5b50\u90fd\u4e0d\u53ef\u80fd\u6295\u964d\u7684\u3002",
+        "unlock_story": 104142901,
+        "play_success_story": 0,
+        "target_des": "\u51fb\u8d25\u5168\u90e8\u654c\u4eba",
+        "play_start_story": 0,
+        "id": 303112,
+        "params": [
+            5190327
+        ],
+        "params_title": [
+            "\u4ef2\u590f\u534f\u594f\u5267\u573a"
+        ],
+        "params_des": [
+            "\u8ddf\u968f\u8282\u62cd\u8f93\u5165\u97f3\u7b26\u51fb\u8d25\u654c\u4eba"
+        ],
+        "params_image": [
+            "target_3_2_1"
+        ]
+    },
+    "401111": {
+        "cost": 5,
+        "name": "\u7f24\u7eb7\u6c34\u70ae\u4f5c\u6218\u2160",
+        "chance_event": 401991,
+        "type": 6,
+        "description": "\u4f60\u600e\u4e48\u8fd8\u4e0d\u88ab\u6dd8\u6c70\uff01\n\u4eba\u8089\u62a4\u76fe\uff0c\u5c0f\u5b50\u3002",
+        "unlock_story": 104143101,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 401111,
+        "params": [],
+        "params_image": [
+            "target_4_1_1"
+        ]
+    },
+    "401112": {
+        "cost": 10,
+        "name": "\u7f24\u7eb7\u6c34\u70ae\u4f5c\u6218\u2161",
+        "chance_event": 401992,
+        "type": 12,
+        "description": "\u67aa\u5728\u624b\uff0c\u8ddf\u6211\u8d70\u3002\n\u6253\u571f\u8c6a\uff0c\u62a2\u73cd\u5b9d\u3002",
+        "unlock_story": 104143201,
+        "play_success_story": 104143202,
+        "target_des": "\u5b8c\u6210\u62fc\u56fe",
+        "play_start_story": 0,
+        "id": 401112,
+        "params": [
+            3001
+        ],
+        "params_title": [
+            "\u53ef\u7591\u8e2a\u8ff9"
+        ],
+        "params_des": [
+            "\u5c06\u62fc\u56fe\u5757\u653e\u5230\u6b63\u786e\u7684\u4f4d\u7f6e\u4ee5\u62fc\u51fa\u5b8c\u6574\u56fe\u5f62"
+        ],
+        "params_image": [
+            "target_4_1_2"
+        ]
+    },
+    "401113": {
+        "cost": 15,
+        "name": "\u7f24\u7eb7\u6c34\u70ae\u4f5c\u6218\u2162",
+        "chance_event": 401993,
+        "type": 10,
+        "description": "\u7b2c\u4e00\uff0c\u7edd\u5bf9\u8981\u610f\u6c14\u7528\u4e8b\uff1b\u7b2c\u4e8c\uff0c\u7edd\u5bf9\u4f1a\u6f0f\u5224\u574f\u4e8b\uff1b\u7b2c\u4e09\uff0c\u7edd\u5bf9\u88c1\u5224\u5f97\u4e0d\u516c\u5e73\u3002\u88c1\u5224\u667a\u68b0\u9e2d\u5b50\u961f\u957f\u524d\u6765\u89d0\u89c1\uff01",
+        "unlock_story": 104143301,
+        "play_success_story": 0,
+        "target_des": "\u62b5\u8fbe\u7ec8\u70b9",
+        "play_start_story": 0,
+        "id": 401113,
+        "params": [
+            5190902
+        ],
+        "params_title": [
+            "\u7f24\u7eb7\u6c34\u70ae\u4f5c\u6218"
+        ],
+        "params_des": [
+            "\u4f7f\u7528\u6c34\u67aa\u5c04\u51fb\uff0c\u7a81\u7834\u654c\u4eba\u5305\u56f4"
+        ],
+        "params_image": [
+            "target_4_1_3"
+        ]
+    },
+    "401114": {
+        "cost": 20,
+        "name": "\u7f24\u7eb7\u6c34\u70ae\u4f5c\u6218\u2163",
+        "chance_event": 401994,
+        "type": 11,
+        "description": "\u4e0d\u6218\u6597\u7684\u8bdd\uff0c\u5c31\u65e0\u6cd5\u751f\u5b58\u4e0b\u53bb\uff01\n\u4e3a\u4e86\u80dc\u5229\uff0c\u5bf9\u9e2d\u5b50\u4f7f\u7528\u94a2\u62f3\u5427\uff01",
+        "unlock_story": 104143401,
+        "play_success_story": 0,
+        "target_des": "\u51fb\u8d25\u5168\u90e8\u654c\u4eba",
+        "play_start_story": 0,
+        "id": 401114,
+        "params": [
+            5190741,
+            6108
+        ],
+        "params_title": [
+            "\u94a2\u94c1\u89d2\u6597\u8005"
+        ],
+        "params_des": [
+            "\u64cd\u63a7\u300c\u82cd\u84dd\u661f\u300d\u51fb\u8d25\u5de8\u5927\u9e2d\u9e2d"
+        ],
+        "params_image": [
+            "target_4_1_4"
+        ]
+    },
+    "402111": {
+        "cost": 10,
+        "name": "\u673a\u7532\u5bf9\u6218\u2160",
+        "chance_event": 402991,
+        "type": 6,
+        "description": "\u558a\u51fa\u62db\u5f0f\u8fdb\u884c\u667a\u68b0\u5bf9\u6218\uff1f\u5bf9\u5c0f\u670b\u53cb\u6765\u8bf4\u6709\u4e9b\u5e7c\u7a1a\uff0c\u4f46\u5bf9\u6211\u4eec\u6765\u8bf4\u521a\u521a\u597d\u3002",
+        "unlock_story": 104143601,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 402111,
+        "params": [],
+        "params_image": [
+            "target_4_2_1"
+        ]
+    },
+    "402112": {
+        "cost": 20,
+        "name": "\u673a\u7532\u5bf9\u6218\u2161",
+        "chance_event": 402992,
+        "type": 13,
+        "description": "\u771f\u662f\u7684\uff0c\u73a9\u95f9\u8981\u9002\u53ef\u800c\u6b62\u54e6\u3002",
+        "unlock_story": 104143701,
+        "play_success_story": 0,
+        "target_des": "\u6293\u6355\u6240\u6709\u6363\u4e71\u7684\u9e2d\u9e2d",
+        "play_start_story": 0,
+        "id": 402112,
+        "params": [
+            5190801
+        ],
+        "params_title": [
+            "\u9e2d\u9e2d\u6d3e\u5bf9"
+        ],
+        "params_des": [
+            "\u5728\u89c4\u5b9a\u65f6\u95f4\u5185\uff0c\u5c06\u6363\u4e71\u7684\u9e2d\u9e2d\u6293\u6355\u5230\u6307\u5b9a\u533a\u57df"
+        ],
+        "params_image": [
+            "target_4_2_2"
+        ]
+    },
+    "403111": {
+        "cost": 10,
+        "name": "\u7231\u4e0e\u548c\u5e73\u7684\u65f6\u523b\u2160",
+        "chance_event": 403991,
+        "type": 6,
+        "description": "\u8fd9\u5f20\u7b80\u4ecb\u56fe\u53eb\u300c\u7ba1\u7406\u5458\u548c\u5343\u7fbd\u7684\u5047\u671f\u300d\uff1f\u53ef\u7ba1\u7406\u5458\u548c\u5343\u7fbd\u5728\u54ea\u513f\uff1f\n\u7ba1\u7406\u5458\u548c\u5343\u7fbd\u5728\u6392\u961f\u3002",
+        "unlock_story": 104143901,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 403111,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_4_3_1"
+        ]
+    },
+    "403112": {
+        "cost": 20,
+        "name": "\u7231\u4e0e\u548c\u5e73\u7684\u65f6\u523b\u2161",
+        "chance_event": 403992,
+        "type": 6,
+        "description": "\u6392\u961f\u4e24\u5c0f\u65f6\uff0c\u51b2\u6d6a\u4e94\u5206\u949f\uff01\u5df2\u7ecf\u7ed3\u675f\u561e\uff01",
+        "unlock_story": 104144001,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 403112,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_4_3_1"
+        ]
+    },
+    "501111": {
+        "cost": 5,
+        "name": "\u6700\u7ec8\u73af\u8282\u2160",
+        "chance_event": 501991,
+        "type": 14,
+        "description": "\u670b\u53cb\u4eec\uff0c\u6211\u60f3\u6b7b\u4f60\u4eec\u5566\uff01",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 501111,
+        "params": [
+            15,
+            104144401,
+            [
+                104144201,
+                104144501,
+                104144601
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_5_1_1"
+        ]
+    },
+    "501112": {
+        "cost": 10,
+        "name": "\u6700\u7ec8\u73af\u8282\u2161",
+        "chance_event": 501992,
+        "type": 12,
+        "description": "\u4e0d\u7ba1\u5927\u9524\u8fd8\u662f\u5c0f\u9524\uff0c\u73b0\u5728\u5c31\u662f\u4e00\u9524\u5b50\u7684\u4e70\u5356\u4e86\uff01",
+        "unlock_story": 104144701,
+        "play_success_story": 104144702,
+        "target_des": "\u5b8c\u6210\u62fc\u56fe",
+        "play_start_story": 0,
+        "id": 501112,
+        "params": [
+            3002
+        ],
+        "params_title": [
+            "\u53ef\u7591\u8e2a\u8ff9"
+        ],
+        "params_des": [
+            "\u5c06\u62fc\u56fe\u5757\u653e\u5230\u6b63\u786e\u7684\u4f4d\u7f6e\u4ee5\u62fc\u51fa\u5b8c\u6574\u56fe\u5f62"
+        ],
+        "params_image": [
+            "target_5_1_2"
+        ]
+    },
+    "501114": {
+        "cost": 15,
+        "name": "\u6700\u7ec8\u73af\u8282\u2163",
+        "chance_event": 501994,
+        "type": 11,
+        "description": "\u558a\u7740\u53cb\u60c5\u554a\u7f81\u7eca\u554a\u672a\u6765\u554a\u4ec0\u4e48\u7684\uff0c\u51b2\u4e0a\u53bb\u5427\uff01",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "\u51fb\u8d25\u4eba\u9a6c\u667a\u68b0",
+        "play_start_story": 0,
+        "id": 501114,
+        "params": [
+            5190740,
+            6109
+        ],
+        "params_title": [
+            "\u94a2\u94c1\u89d2\u6597\u8005"
+        ],
+        "params_des": [
+            "\u64cd\u63a7\u300c\u82cd\u84dd\u661f\u300d\u51fb\u8d25\u4eba\u9a6c\u667a\u68b0"
+        ],
+        "params_image": [
+            "target_5_1_3"
+        ]
+    },
+    "502111": {
+        "cost": 10,
+        "name": "\u795e\u79d8\u5927\u793c\u2160",
+        "chance_event": 502991,
+        "type": 13,
+        "description": "\u9e2d\u5b50\uff0c\u65f6\u4ee3\u53d8\u4e86\u3002",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "\u6293\u6355\u6240\u6709\u6363\u4e71\u7684\u9e2d\u9e2d",
+        "play_start_story": 0,
+        "id": 502111,
+        "params": [
+            5190811
+        ],
+        "params_title": [
+            "\u9e2d\u9e2d\u6d3e\u5bf9"
+        ],
+        "params_des": [
+            "\u5728\u89c4\u5b9a\u65f6\u95f4\u5185\uff0c\u5c06\u6363\u4e71\u7684\u9e2d\u9e2d\u6293\u6355\u5230\u6307\u5b9a\u533a\u57df"
+        ],
+        "params_image": [
+            "target_5_2_1"
+        ]
+    },
+    "502112": {
+        "cost": 20,
+        "name": "\u795e\u79d8\u5927\u793c\u2161",
+        "chance_event": 502992,
+        "type": 6,
+        "description": "\u751f\u547d\u4e2d\u66fe\u7ecf\u62e5\u6709\u7684\u6240\u6709\u707f\u70c2\uff0c\u90fd\u4f1a\u6210\u4e3a\u6c38\u8fdc\u73cd\u8d35\u7684\u56de\u5fc6\uff0c\u5149\u5f69\u7167\u4eba\u3002",
+        "unlock_story": 104145201,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 502112,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_5_2_2"
+        ]
+    },
+    "all": [
+        101030,
+        101031,
+        101033,
+        101035,
+        101040,
+        101041,
+        101050,
+        101080,
+        101090,
+        101091,
+        102030,
+        102040,
+        102050,
+        201030,
+        201040,
+        201050,
+        201090,
+        201091,
+        301030,
+        301040,
+        301050,
+        301090,
+        301091,
+        302030,
+        302040,
+        302050,
+        302090,
+        302091,
+        401030,
+        401040,
+        401050,
+        401090,
+        401091,
+        501030,
+        501040,
+        501050,
+        501090,
+        501091,
+        502030,
+        502040,
+        502050,
+        502090,
+        502091,
+        101111,
+        101112,
+        101113,
+        102080,
+        102111,
+        102112,
+        102113,
+        201080,
+        201082,
+        201111,
+        201112,
+        201113,
+        202111,
+        202112,
+        203111,
+        203112,
+        301070,
+        301073,
+        301111,
+        301112,
+        301113,
+        301114,
+        302111,
+        302112,
+        303111,
+        303112,
+        401111,
+        401112,
+        401113,
+        401114,
+        402111,
+        402112,
+        403111,
+        403112,
+        501111,
+        501112,
+        501114,
+        502111,
+        502112
+    ]
+}

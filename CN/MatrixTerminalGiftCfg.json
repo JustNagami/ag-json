@@ -1,0 +1,552 @@
+{
+    "101": {
+        "name": "\u5f3a\u5316\u953b\u70bc",
+        "limit_level": 5,
+        "group": 1,
+        "id": 101,
+        "icon": "terminal_1",
+        "pre_id": 0,
+        "effect_id_list": [
+            45001,
+            45002,
+            45003
+        ],
+        "cost": [
+            1,
+            2,
+            3
+        ],
+        "desc_list": [
+            110001,
+            110002,
+            110003
+        ]
+    },
+    "102": {
+        "name": "\u9632\u5fa1\u7279\u8bad",
+        "limit_level": 9,
+        "group": 1,
+        "id": 102,
+        "icon": "terminal_2",
+        "pre_id": 101,
+        "effect_id_list": [
+            45004,
+            45005,
+            45006
+        ],
+        "cost": [
+            1,
+            2,
+            3
+        ],
+        "desc_list": [
+            110004,
+            110005,
+            110006
+        ]
+    },
+    "103": {
+        "name": "\u7597\u6108\u518d\u751f",
+        "limit_level": 15,
+        "group": 1,
+        "id": 103,
+        "icon": "terminal_3",
+        "pre_id": 102,
+        "effect_id_list": [
+            45007,
+            45008
+        ],
+        "cost": [
+            1,
+            2
+        ],
+        "desc_list": [
+            110007,
+            110008
+        ]
+    },
+    "104": {
+        "name": "\u5168\u529b\u4ee5\u8d74",
+        "limit_level": 2,
+        "group": 1,
+        "id": 104,
+        "icon": "terminal_4",
+        "pre_id": 0,
+        "effect_id_list": [
+            45009,
+            45010,
+            45011,
+            45012,
+            45013
+        ],
+        "cost": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "desc_list": [
+            110009,
+            110010,
+            110011,
+            110012,
+            110013
+        ]
+    },
+    "105": {
+        "name": "\u6218\u6597\u4e13\u6ce8",
+        "limit_level": 6,
+        "group": 1,
+        "id": 105,
+        "icon": "terminal_5",
+        "pre_id": 104,
+        "effect_id_list": [
+            45014,
+            45015,
+            45016
+        ],
+        "cost": [
+            2,
+            3,
+            4
+        ],
+        "desc_list": [
+            110014,
+            110015,
+            110016
+        ]
+    },
+    "106": {
+        "name": "\u6f5c\u80fd\u7206\u53d1",
+        "limit_level": 12,
+        "group": 1,
+        "id": 106,
+        "icon": "terminal_6",
+        "pre_id": 105,
+        "effect_id_list": [
+            45017,
+            45018,
+            45019
+        ],
+        "cost": [
+            2,
+            3,
+            4
+        ],
+        "desc_list": [
+            110017,
+            110018,
+            110019
+        ]
+    },
+    "107": {
+        "name": "\u7075\u5de7\u8eab\u6cd5",
+        "limit_level": 3,
+        "group": 1,
+        "id": 107,
+        "icon": "terminal_7",
+        "pre_id": 0,
+        "effect_id_list": [
+            45020,
+            45021,
+            45022
+        ],
+        "cost": [
+            1,
+            2,
+            3
+        ],
+        "desc_list": [
+            110020,
+            110021,
+            110022
+        ]
+    },
+    "108": {
+        "name": "\u8fc5\u6377\u52a8\u91cf",
+        "limit_level": 10,
+        "group": 1,
+        "id": 108,
+        "icon": "terminal_8",
+        "pre_id": 107,
+        "effect_id_list": [
+            45023
+        ],
+        "cost": [
+            4
+        ],
+        "desc_list": [
+            110023
+        ]
+    },
+    "109": {
+        "name": "\u534f\u5fc3\u6548\u529b",
+        "limit_level": 7,
+        "group": 1,
+        "id": 109,
+        "icon": "terminal_9",
+        "pre_id": 0,
+        "effect_id_list": [
+            45024,
+            45025
+        ],
+        "cost": [
+            3,
+            5
+        ],
+        "desc_list": [
+            110024,
+            110025
+        ]
+    },
+    "110": {
+        "name": "\u77ac\u65f6\u6ee1\u8f7d",
+        "limit_level": 16,
+        "group": 1,
+        "id": 110,
+        "icon": "terminal_10",
+        "pre_id": 109,
+        "effect_id_list": [
+            45026,
+            45027
+        ],
+        "cost": [
+            3,
+            5
+        ],
+        "desc_list": [
+            110026,
+            110027
+        ]
+    },
+    "111": {
+        "name": "\u4eba\u5f62\u62b5\u6297",
+        "limit_level": 22,
+        "group": 1,
+        "id": 111,
+        "icon": "terminal_11",
+        "pre_id": 0,
+        "effect_id_list": [
+            45028,
+            45029,
+            45030
+        ],
+        "cost": [
+            2,
+            3,
+            4
+        ],
+        "desc_list": [
+            110028,
+            110029,
+            110030
+        ]
+    },
+    "112": {
+        "name": "\u68b0\u80fd\u62b5\u6297",
+        "limit_level": 23,
+        "group": 1,
+        "id": 112,
+        "icon": "terminal_12",
+        "pre_id": 0,
+        "effect_id_list": [
+            45031,
+            45032,
+            45033
+        ],
+        "cost": [
+            2,
+            3,
+            4
+        ],
+        "desc_list": [
+            110031,
+            110032,
+            110033
+        ]
+    },
+    "113": {
+        "name": "\u4fb5\u8680\u62b5\u6297",
+        "limit_level": 24,
+        "group": 1,
+        "id": 113,
+        "icon": "terminal_13",
+        "pre_id": 0,
+        "effect_id_list": [
+            45034,
+            45035,
+            45036
+        ],
+        "cost": [
+            2,
+            3,
+            4
+        ],
+        "desc_list": [
+            110034,
+            110035,
+            110036
+        ]
+    },
+    "201": {
+        "name": "\u8d38\u6613\u534f\u8bae",
+        "limit_level": 4,
+        "group": 2,
+        "id": 201,
+        "icon": "terminal_14",
+        "pre_id": 0,
+        "effect_id_list": [
+            11014
+        ],
+        "cost": [
+            5
+        ],
+        "desc_list": [
+            110037
+        ]
+    },
+    "202": {
+        "name": "\u7269\u6d41\u4f20\u52a8",
+        "limit_level": 10,
+        "group": 2,
+        "id": 202,
+        "icon": "terminal_15",
+        "pre_id": 201,
+        "effect_id_list": [
+            11015
+        ],
+        "cost": [
+            8
+        ],
+        "desc_list": [
+            110038
+        ]
+    },
+    "203": {
+        "name": "\u5546\u4e1a\u53e3\u624d",
+        "limit_level": 18,
+        "group": 2,
+        "id": 203,
+        "icon": "terminal_16",
+        "pre_id": 202,
+        "effect_id_list": [
+            11016
+        ],
+        "cost": [
+            5
+        ],
+        "desc_list": [
+            110039
+        ]
+    },
+    "204": {
+        "name": "\u4f1a\u5458\u6298\u6263",
+        "limit_level": 19,
+        "group": 2,
+        "id": 204,
+        "icon": "terminal_17",
+        "pre_id": 0,
+        "effect_id_list": [
+            11017,
+            11018,
+            11019
+        ],
+        "cost": [
+            3,
+            4,
+            5
+        ],
+        "desc_list": [
+            110040,
+            110041,
+            110042
+        ]
+    },
+    "205": {
+        "name": "\u533b\u7597\u4fdd\u969c",
+        "limit_level": 5,
+        "group": 2,
+        "id": 205,
+        "icon": "terminal_18",
+        "pre_id": 0,
+        "effect_id_list": [
+            11020,
+            11021,
+            11022,
+            11023
+        ],
+        "cost": [
+            3,
+            4,
+            5,
+            6
+        ],
+        "desc_list": [
+            110043,
+            110044,
+            110045,
+            110046
+        ]
+    },
+    "206": {
+        "name": "\u989d\u5916\u50a8\u84c4",
+        "limit_level": 6,
+        "group": 2,
+        "id": 206,
+        "icon": "terminal_19",
+        "pre_id": 0,
+        "effect_id_list": [
+            17018,
+            17019
+        ],
+        "cost": [
+            4,
+            4
+        ],
+        "desc_list": [
+            110047,
+            110048
+        ]
+    },
+    "207": {
+        "name": "\u6301\u7b79\u63e1\u7b97",
+        "limit_level": 16,
+        "group": 2,
+        "id": 207,
+        "icon": "terminal_20",
+        "pre_id": 206,
+        "effect_id_list": [
+            11024,
+            11025,
+            11026
+        ],
+        "cost": [
+            3,
+            3,
+            3
+        ],
+        "desc_list": [
+            110049,
+            110050,
+            110051
+        ]
+    },
+    "208": {
+        "name": "\u80dc\u5229\u5951\u7ea6",
+        "limit_level": 14,
+        "group": 2,
+        "id": 208,
+        "icon": "terminal_21",
+        "pre_id": 0,
+        "effect_id_list": [
+            11027,
+            11028
+        ],
+        "cost": [
+            5,
+            5
+        ],
+        "desc_list": [
+            110052,
+            110053
+        ]
+    },
+    "209": {
+        "name": "\u795e\u57df\u56de\u6eaf",
+        "limit_level": 13,
+        "group": 2,
+        "id": 209,
+        "icon": "terminal_22",
+        "pre_id": 0,
+        "effect_id_list": [
+            11029,
+            11030,
+            11031
+        ],
+        "cost": [
+            4,
+            4,
+            4
+        ],
+        "desc_list": [
+            110054,
+            110055,
+            110056
+        ]
+    },
+    "210": {
+        "name": "\u589e\u91cf\u53cd\u9988",
+        "limit_level": 8,
+        "group": 2,
+        "id": 210,
+        "icon": "terminal_23",
+        "pre_id": 0,
+        "effect_id_list": [
+            11032,
+            11033
+        ],
+        "cost": [
+            4,
+            4
+        ],
+        "desc_list": [
+            110057,
+            110058
+        ]
+    },
+    "get_id_list_by_group": [
+        [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113
+        ],
+        [
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+        ]
+    ],
+    "all": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210
+    ]
+}

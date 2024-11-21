@@ -1,0 +1,165 @@
+{
+    "1": {
+        "name": "\u751f\u5b58\u672c\u80fd",
+        "id": 1,
+        "new_condition": 0,
+        "icon": "beacon_1",
+        "desc": "\u6218\u6597\u4e2d\uff0c\u961f\u957f\u53d7\u5230\u81f4\u547d\u4e00\u51fb\u65f6\uff0c\u7acb\u5373\u6062\u590d20%\u7684\u6700\u5927\u751f\u547d\u503c\uff0c\u6bcf\u573a\u6218\u6597\u4e2d\u4ec5\u53ef\u89e6\u53d1\u4e00\u6b21\u3002",
+        "effect_id_list": [
+            44001
+        ],
+        "require_terminal_list": []
+    },
+    "2": {
+        "name": "\u590d\u4ec7\u4e4b\u8bc1",
+        "id": 2,
+        "new_condition": 20303,
+        "icon": "beacon_2",
+        "desc": "\u6218\u6597\u4e2d\uff0c\u4f5c\u4e3a\u961f\u53cb\u7684\u4fee\u6b63\u8005\u88ab\u51fb\u8d25\u65f6\uff0c\u961f\u957f\u7684\u4f24\u5bb3\u63d0\u9ad850%\uff0c\u6700\u591a\u53ef\u53e0\u52a02\u5c42\u3002",
+        "effect_id_list": [
+            44002
+        ],
+        "require_terminal_list": []
+    },
+    "3": {
+        "name": "\u8d22\u5bcc\u5bc6\u7801",
+        "id": 3,
+        "new_condition": 0,
+        "icon": "beacon_3",
+        "desc": "\u9009\u62e9\u653e\u5f03\u9009\u9879\u65f6\u6240\u83b7\u5f97\u7684\u55b5\u55b5\u5b9d\u85cf\u5e01\u6570\u91cf\u589e\u52a0100%\u3002",
+        "effect_id_list": [
+            11001
+        ],
+        "require_terminal_list": []
+    },
+    "4": {
+        "name": "\u94c1\u8840\u72e9\u730e",
+        "id": 4,
+        "new_condition": 0,
+        "icon": "beacon_4",
+        "desc": "\u6218\u6597\u4e2d\uff0c\u4fee\u6b63\u8005\u9632\u5fa1\u964d\u4f4e10%\u3001\u6cbb\u7597\u6548\u679c\u63d0\u9ad820%\u3002",
+        "effect_id_list": [
+            44003
+        ],
+        "require_terminal_list": []
+    },
+    "5": {
+        "name": "\u6b8b\u9177\u5929\u5e73",
+        "id": 5,
+        "new_condition": 20401,
+        "icon": "beacon_5",
+        "desc": "\u6218\u6597\u65f6\uff0c\u6211\u65b9\u4fee\u6b63\u8005\u4e0e\u654c\u65b9\u5355\u4f4d\u653b\u51fb\u529b\u63d0\u9ad820%\u3002",
+        "effect_id_list": [
+            44004,
+            44005
+        ],
+        "require_terminal_list": []
+    },
+    "6": {
+        "name": "\u79c1\u6709\u6e20\u9053",
+        "id": 6,
+        "new_condition": 20515,
+        "icon": "beacon_6",
+        "desc": "\u591a\u7ef4\u5546\u5e97\u7684\u5546\u54c1\u9009\u9879\u589e\u52a03\u4e2a\u3002",
+        "effect_id_list": [
+            11002
+        ],
+        "require_terminal_list": []
+    },
+    "7": {
+        "name": "\u4ea4\u6613\u7b56\u7565",
+        "id": 7,
+        "new_condition": 20515,
+        "icon": "beacon_7",
+        "desc": "\u591a\u7ef4\u5546\u5e97\u7684\u5546\u54c1\u53ef\u514d\u8d39\u5237\u65b02\u6b21\u3002",
+        "effect_id_list": [
+            11003
+        ],
+        "require_terminal_list": [
+            201
+        ]
+    },
+    "8": {
+        "name": "\u4f63\u5175\u8d4c\u6ce8",
+        "id": 8,
+        "new_condition": 20520,
+        "icon": "beacon_8",
+        "desc": "\u7b2c\u4e00\u5c42\u5173\u5361\u9009\u62e9\u8fc7\u7a0b\u65f6\u989d\u5916\u589e\u52a0\u4e00\u4e2a\u5173\u5361\u9009\u9879\u3002",
+        "effect_id_list": [
+            11004
+        ],
+        "require_terminal_list": []
+    },
+    "9": {
+        "name": "\u534f\u540c\u4f5c\u6218",
+        "id": 9,
+        "new_condition": 20540,
+        "icon": "beacon_9",
+        "desc": "\u8fdb\u5165\u6218\u6597\u524d\u7684\u51fa\u6218\u754c\u9762\u53ef\u4ee5\u5207\u6362\u5c0f\u961f\u7684\u961f\u957f\u3002",
+        "effect_id_list": [
+            11005
+        ],
+        "require_terminal_list": []
+    },
+    "10": {
+        "name": "\u5b64\u72fc\u4e4b\u9053",
+        "id": 10,
+        "new_condition": 20403,
+        "icon": "beacon_10",
+        "desc": "\u672c\u573a\u6218\u6597\u4e2d\u4ec5\u7531\u961f\u957f\u4e0a\u573a\u65f6\uff0c\u961f\u957f\u653b\u51fb\u529b\u63d0\u9ad8100%\u3001\u57fa\u7840\u6700\u5927\u751f\u547d\u503c\u4e0a\u9650\u63d0\u9ad8100%\u3002",
+        "effect_id_list": [
+            11034,
+            18001,
+            44006
+        ],
+        "require_terminal_list": []
+    },
+    "11": {
+        "name": "\u6539\u88c5\u80fd\u624b",
+        "id": 11,
+        "new_condition": 0,
+        "icon": "beacon_11",
+        "desc": "\u83b7\u5f97\u53ef\u6210\u957f\u7684\u8bb0\u5fc6\u73cd\u5b9d\u65f6\uff0c\u63d0\u5347\u8be5\u8bb0\u5fc6\u73cd\u5b9d2\u6b21\u6210\u957f\u8fdb\u5ea6\u3002",
+        "effect_id_list": [
+            11006
+        ],
+        "require_terminal_list": []
+    },
+    "12": {
+        "name": "\u540c\u8c03\u5347\u534e",
+        "id": 12,
+        "new_condition": 20520,
+        "icon": "beacon_12",
+        "desc": "\u89e6\u53d1\u795e\u7cfb\u5171\u9e23\u7684\u6700\u9ad8\u6548\u679c\u4ec5\u97002\u4f4d\u540c\u795e\u7cfb\u4fee\u6b63\u8005\u3002",
+        "effect_id_list": [
+            44007
+        ],
+        "require_terminal_list": []
+    },
+    "13": {
+        "name": "\u8d4f\u91d1\u730e\u4eba",
+        "id": 13,
+        "new_condition": 20525,
+        "icon": "beacon_13",
+        "desc": "\u6b64\u6b21\u591a\u7ef4\u53d8\u91cf\u4e2d\uff0c\u83b7\u5f97\u7684\u51b3\u7b56\u79ef\u5206\u63d0\u9ad850%\u3002",
+        "effect_id_list": [
+            11007
+        ],
+        "require_terminal_list": []
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+    ]
+}

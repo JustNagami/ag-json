@@ -1,0 +1,338 @@
+{
+    "1001": {
+        "description": "\u901a\u8fc7\u9690\u79d1\u7ec4\u7684\u8bad\u7ec3\uff0c\u6211\u65b9\u5c06\u719f\u6089\u5371\u673a\u6f14\u7b97\u7684\u57fa\u672c\u6218\u6597\u673a\u5236\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u5e8f\u7ae0-1",
+        "level_id": 1001,
+        "reward_money": 100,
+        "wave_list": [
+            10011,
+            10012
+        ],
+        "team_list": [
+            10001,
+            10002
+        ],
+        "ban_skill_list": [
+            6001
+        ],
+        "free_skill_list": []
+    },
+    "1002": {
+        "description": "\u901a\u8fc7\u9690\u79d1\u7ec4\u7684\u8bad\u7ec3\uff0c\u6211\u65b9\u5c06\u719f\u6089\u9501\u5b9a\u529f\u80fd\u5728\u5371\u673a\u6f14\u7b97\u4e2d\u7684\u7279\u6b8a\u6548\u679c\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u5e8f\u7ae0-2",
+        "level_id": 1002,
+        "reward_money": 100,
+        "wave_list": [
+            10013,
+            10014
+        ],
+        "team_list": [
+            10003,
+            10004
+        ],
+        "ban_skill_list": [
+            6001
+        ],
+        "free_skill_list": []
+    },
+    "1003": {
+        "description": "\u901a\u8fc7\u9690\u79d1\u7ec4\u7684\u8bad\u7ec3\uff0c\u6211\u65b9\u5c06\u719f\u6089\u6218\u672f\u6280\u80fd\u5728\u5371\u673a\u6f14\u7b97\u4e2d\u7684\u8fd0\u7528\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u5e8f\u7ae0-3",
+        "level_id": 1003,
+        "reward_money": 100,
+        "wave_list": [
+            10015,
+            10016,
+            10017
+        ],
+        "team_list": [
+            10005,
+            10006,
+            10007
+        ],
+        "ban_skill_list": [
+            6001
+        ],
+        "free_skill_list": []
+    },
+    "1004": {
+        "description": "\u6211\u65b9\u5c06\u8fdb\u884c\u5bf9\u89c6\u9ab8\u4f5c\u6218\u7684\u6a21\u62df\uff0c\u5bf9\u6297\u4e0d\u540c\u7279\u6027\u7684\u654c\u4eba\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u5e8f\u7ae0-4",
+        "level_id": 1004,
+        "reward_money": 100,
+        "wave_list": [
+            10018,
+            10019
+        ],
+        "team_list": [
+            10008,
+            10009
+        ],
+        "ban_skill_list": [
+            6001
+        ],
+        "free_skill_list": []
+    },
+    "1005": {
+        "description": "\u6211\u65b9\u5c06\u8fdb\u884c\u6b63\u5f0f\u4f5c\u6218\u524d\u7684\u6700\u540e\u6f14\u7ec3\uff0c\u719f\u6089\u4e0d\u540c\u7c7b\u578b\u4f5c\u6218\u7684\u884c\u52a8\u8981\u70b9\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u5e8f\u7ae0-5",
+        "level_id": 1005,
+        "reward_money": 100,
+        "wave_list": [
+            10020,
+            10021,
+            10022
+        ],
+        "team_list": [
+            10010,
+            10011,
+            10012
+        ],
+        "ban_skill_list": [
+            6001
+        ],
+        "free_skill_list": []
+    },
+    "1006": {
+        "description": "\u590f\u4ec0\u74e6\u7279\u548c\u827e\u56e0\u7d22\u83f2\u540c\u65f6\u906d\u53d7\u89c6\u9ab8\u653b\u51fb\uff0c\u79d1\u5c14\u76d6\u5de5\u7a0b\u90e8\u961f\u5c06\u524d\u5f80\u6e90\u5c42\u5efa\u7acb\u901a\u8baf\u94fe\u8def\u4ee5\u534f\u540c\u4e24\u5730\u9632\u5fa1\u3002\u6211\u65b9\u5c06\u968f\u5de5\u7a0b\u90e8\u961f\u884c\u8fdb\uff0c\u6267\u884c\u62a4\u9001\u4efb\u52a1\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u7b2c\u4e00\u7ae0-1",
+        "level_id": 1006,
+        "reward_money": 150,
+        "wave_list": [
+            10023,
+            10024,
+            10025,
+            10026
+        ],
+        "team_list": [
+            10013,
+            10014,
+            10015,
+            10016
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1007": {
+        "description": "\u524d\u5f80\u590f\u4ec0\u74e6\u7279\u9014\u4e2d\uff0c\u79d1\u5c14\u76d6\u5de5\u7a0b\u90e8\u961f\u906d\u9047\u89c6\u9ab8\u4f0f\u51fb\u56f0\u4e8e\u9a7b\u624e\u5730M-05\u3002\u6307\u6325\u90e8\u5df2\u8c03\u6d3e\u652f\u63f4\u90e8\u961f\u589e\u63f4\uff0c\u6211\u65b9\u7684\u4efb\u52a1\u662f\u534f\u52a9\u5de5\u7a0b\u90e8\u961f\u9632\u5b88\u9a7b\u624e\u5730\uff0c\u7b49\u5f85\u589e\u63f4\u5230\u8fbe\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u7b2c\u4e00\u7ae0-2",
+        "level_id": 1007,
+        "reward_money": 150,
+        "wave_list": [
+            10027,
+            10028,
+            10029
+        ],
+        "team_list": [
+            10017,
+            10018,
+            10019
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1008": {
+        "description": "\u53d7\u90bb\u8fd1\u4e24\u5904\u7a7a\u95f4\u626d\u66f2\u533a\u57df\u7684\u5f71\u54cd\uff0c\u9a7b\u624e\u5730M-05\u5468\u56f4\u89c6\u9ab8\u89c4\u6a21\u5267\u589e\u3002\u652f\u63f4\u90e8\u961f\u4e8e\u5916\u56f4\u53d7\u963b\uff0c\u65e0\u6cd5\u4e0e\u5de5\u7a0b\u90e8\u961f\u4f1a\u5408\u3002\u6211\u65b9\u7684\u4efb\u52a1\u662f\u534f\u540c\u652f\u63f4\u90e8\u961f\u89e3\u9664\u9a7b\u624e\u5730\u7684\u5c01\u9501\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u7b2c\u4e00\u7ae0-3",
+        "level_id": 1008,
+        "reward_money": 150,
+        "wave_list": [
+            10030,
+            10031,
+            10032,
+            10033
+        ],
+        "team_list": [
+            10020,
+            10021,
+            10022,
+            10023
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1009": {
+        "description": "\u79d1\u5c14\u76d6\u5feb\u901f\u53cd\u5e94\u90e8\u961f\u5df2\u63a5\u7ba1\u9a7b\u624e\u5730M-05\u5de9\u56fa\u9632\u7ebf\u3002\u79d1\u5c14\u76d6\u5de5\u7a0b\u90e8\u961f\u4e0e\u652f\u63f4\u90e8\u961f\u5c06\u542f\u7a0b\u524d\u5f80\u590f\u4ec0\u74e6\u7279\uff0c\u6211\u65b9\u5c06\u534f\u52a9\u4ed6\u4eec\u5b8c\u6210\u901a\u8baf\u94fe\u8def\u7684\u5efa\u8bbe\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u7b2c\u4e00\u7ae0-4",
+        "level_id": 1009,
+        "reward_money": 150,
+        "wave_list": [
+            10034,
+            10035,
+            10036,
+            10037
+        ],
+        "team_list": [
+            10024,
+            10025,
+            10026,
+            10027
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1010": {
+        "description": "\u827e\u56e0\u7d22\u83f2\u7b2c\u56db\u533a\u9891\u53d1\u9ad8\u6297\u6027\u89c6\u9ab8\u7684\u5c0f\u89c4\u6a21\u5165\u4fb5\u3002\u6211\u65b9\u5c06\u534f\u52a9\u79d1\u5c14\u76d6\u5728\u57ce\u533a\u90e8\u7f72\u9632\u5fa1\u5e94\u5bf9\u5a01\u80c1\uff0c\u5e76\u8c03\u67e5\u8fd9\u6b21\u5165\u4fb5\u7684\u6839\u6e90\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u7b2c\u4e8c\u7ae0-1",
+        "level_id": 1010,
+        "reward_money": 450,
+        "wave_list": [
+            10038,
+            10039,
+            10040,
+            10041
+        ],
+        "team_list": [
+            10028,
+            10029,
+            10030,
+            10031
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1011": {
+        "description": "\u57ce\u533a\u5185\u591a\u4e2a\u706b\u529b\u70b9\u62a5\u544a\u9ad8\u6297\u6027\u89c6\u9ab8\u7684\u51fa\u73b0\u3002\u79d1\u5c14\u76d6\u5df2\u5b9a\u4f4d\u5176\u6765\u6e90\u4e3a\u6e90\u5c42\u7684\u9ad8\u5bc6\u5ea6\u9ab8\u80fd\u805a\u96c6\u70b9B-03\uff0c\u6b63\u4ee5\u4e3b\u9635\u5730I-00\u4e3a\u636e\u70b9\u7b79\u5907\u653b\u575a\u4f5c\u6218\uff0c\u6211\u65b9\u5c06\u4e88\u4ee5\u534f\u52a9\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u7b2c\u4e8c\u7ae0-2",
+        "level_id": 1011,
+        "reward_money": 450,
+        "wave_list": [
+            10042,
+            10043,
+            10044,
+            10045,
+            10046
+        ],
+        "team_list": [
+            10032,
+            10033,
+            10034,
+            10035,
+            10036
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1012": {
+        "description": "\u79d1\u5c14\u76d6\u4f5c\u6218\u90e8\u961f\u5df2\u5c31\u7eea\uff0c\u4e3b\u9635\u5730I-00\u795e\u80fd\u91cd\u70ae\u5373\u5c06\u5b8c\u6210\u7ec4\u88c5\u3002\u540c\u65f6\uff0c\u68a6\u5883\u88c5\u7f6e\u5df2\u7531\u9690\u79d1\u7ec4\u6821\u51c6\uff0c\u53ef\u968f\u65f6\u6295\u5165\u4f7f\u7528\u3002\u6211\u65b9\u7684\u4efb\u52a1\u662f\u5b88\u536b\u4e3b\u9635\u5730\uff0c\u7b49\u5f85\u6218\u5907\u7ed3\u675f\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u7b2c\u4e8c\u7ae0-3",
+        "level_id": 1012,
+        "reward_money": 450,
+        "wave_list": [
+            10047,
+            10048,
+            10049,
+            10050,
+            10051
+        ],
+        "team_list": [
+            10037,
+            10038,
+            10039,
+            10040,
+            10041
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": [
+            1005
+        ]
+    },
+    "1013": {
+        "description": "\u795e\u80fd\u91cd\u70ae\u542f\u7528\u540e\uff0c\u89c6\u9ab8\u505c\u6b62\u4e86\u8fdb\u653b\uff0c\u9000\u5165\u805a\u96c6\u70b9B-03\u7684\u9ab8\u80fd\u5c4f\u969c\u5185\u9632\u5b88\u3002\u5c4f\u969c\u7684\u5f3a\u5ea6\u6b63\u6025\u901f\u6500\u5347\uff0c\u6211\u65b9\u7684\u4efb\u52a1\u662f\u89e3\u9664\u9ab8\u80fd\u5c4f\u969c\uff0c\u534f\u540c\u79d1\u5c14\u76d6\u5b8c\u6210\u653b\u575a\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u7b2c\u4e8c\u7ae0-4",
+        "level_id": 1013,
+        "reward_money": 450,
+        "wave_list": [
+            10052,
+            10053,
+            10054,
+            10055,
+            10056
+        ],
+        "team_list": [
+            10042,
+            10043,
+            10044,
+            10045,
+            10046
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1014": {
+        "description": "\u7f57\u65af\u5854\u8d6b\u6700\u5927\u7684\u667a\u68b0\u751f\u4ea7\u57fa\u5730\u906d\u9047\u89c6\u9ab8\u6e17\u900f\uff0c\u79d1\u5c14\u76d6\u5de1\u67e5\u961f\u4f0d\u5168\u519b\u8986\u6ca1\u3002\u63a5\u5230\u6307\u6325\u90e8\u547d\u4ee4\uff0c\u6211\u65b9\u9700\u8981\u524d\u5f80\u76ee\u6807\u57fa\u5730\u6267\u884c\u8c03\u67e5\u4efb\u52a1\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u7b2c\u4e09\u7ae0-1",
+        "level_id": 1014,
+        "reward_money": 1600,
+        "wave_list": [
+            10057,
+            10058,
+            10059
+        ],
+        "team_list": [
+            10047,
+            10048,
+            10049
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1015": {
+        "description": "\u76ee\u6807\u57fa\u5730\u5931\u63a7\uff0c\u5927\u91cf\u89c6\u9ab8\u6b63\u5411\u8bfa\u4f0a\u6c49\u8428\u5404\u4e2a\u5927\u578b\u57ce\u5e02\u63a8\u8fdb\uff0c\u610f\u56fe\u4e0d\u660e\uff0c\u79d1\u5c14\u76d6\u6b63\u5728\u5efa\u8bbe\u4e34\u65f6\u9632\u7ebf\u4ee5\u5e94\u5bf9\u654c\u88ad\u3002\u6211\u65b9\u9700\u8981\u5438\u5f15\u89c6\u9ab8\u4e3b\u529b\u7684\u6ce8\u610f\uff0c\u4e3a\u9632\u7ebf\u5efa\u8bbe\u4e89\u53d6\u65f6\u95f4\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u7b2c\u4e09\u7ae0-2",
+        "level_id": 1015,
+        "reward_money": 1600,
+        "wave_list": [
+            10060,
+            10061,
+            10062
+        ],
+        "team_list": [
+            10050,
+            10051,
+            10052
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": []
+    },
+    "1016": {
+        "description": "\u4e34\u65f6\u9632\u7ebf\u6709\u6548\u904f\u5236\u4e86\u89c6\u9ab8\u7684\u653b\u52bf\uff0c\u4e3b\u653b\u90e8\u961f\u5df2\u5c01\u9501\u8bfa\u4f0a\u6c49\u8428\u5404\u5371\u673a\u533a\u57df\u56f4\u527f\u89c6\u9ab8\u3002\u6211\u65b9\u7684\u4efb\u52a1\u662f\u6467\u6bc1\u76ee\u6807\u57fa\u5730\uff0c\u8fdc\u706b\u652f\u63f4\u5df2\u51c6\u5907\u5c31\u7eea\uff0c\u53ef\u4f9b\u6211\u65b9\u8c03\u9063\u3002",
+        "name": "\u5371\u673a\u9884\u6f14\uff1a\u7b2c\u4e09\u7ae0-3",
+        "level_id": 1016,
+        "reward_money": 1600,
+        "wave_list": [
+            10063,
+            10064,
+            10065,
+            10066
+        ],
+        "team_list": [
+            10053,
+            10054,
+            10055,
+            10056
+        ],
+        "ban_skill_list": [],
+        "free_skill_list": [
+            1001
+        ]
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016
+    ]
+}

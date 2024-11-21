@@ -1,0 +1,440 @@
+{
+    "5200201": {
+        "monster_level": 80,
+        "name": "\u59d4\u6258\u7269",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200201,
+        "map": "5200201",
+        "tips": "\u535a\u7269\u9986\u4e2d\u4e00\u5730\u72fc\u85c9\uff0c\u4f3d\u68a8\u9700\u8981\u627e\u5230\u7684\u662f\u539f\u672c\u6446\u5728\u5927\u5385\u6b63\u4e2d\u592e\u7684\u4e00\u5757\u795e\u79d8\u77f3\u677f\u3002\u8c03\u53d6\u4e86\u535a\u7269\u9986\u7684\u76d1\u63a7\u540e\uff0c\u5979\u77e5\u9053\u4e86\u90a3\u7fa4\u7a83\u8d3c\u5927\u81f4\u7684\u884c\u52a8\u65b9\u5411\u540e\u4fbf\u7acb\u5373\u51fa\u53d1\u4e86\u3002\n<color=#FF9500>\u63a8\u8350\u5f3a\u5316\u6548\u679c\uff1a\u300c\u7535\u63a3\u96f7\u9e23\u300d</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200201,
+        "next_show_id_list": [
+            5200202
+        ],
+        "next_unlock_id_list": [
+            5200202
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            10000
+        ],
+        "position": [
+            250,
+            -134
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200202": {
+        "monster_level": 80,
+        "name": "\u53e6\u4e00\u4f19\u4eba",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200202,
+        "map": "5200202",
+        "tips": "\u51fa\u95e8\u540e\u5931\u53bb\u4e86\u76d1\u63a7\u7ebf\u7d22\u7684\u4f3d\u68a8\u540c\u6837\u4e5f\u5931\u53bb\u4e86\u65b9\u5411\uff0c\u6b64\u65f6\u4e00\u7fa4\u8eab\u5f71\u6162\u6162\u5730\u63a5\u8fd1\u4e86\u5979\u2026\u2026\n<color=#FF9500>\u63a8\u8350\u5f3a\u5316\u6548\u679c\uff1a\u300c\u7535\u63a3\u96f7\u9e23\u300d</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200202,
+        "next_show_id_list": [
+            5200203
+        ],
+        "next_unlock_id_list": [
+            5200203
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            12000
+        ],
+        "position": [
+            607,
+            35
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200203": {
+        "monster_level": 80,
+        "name": "\u610f\u5916\u76ee\u51fb\u8005",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200203,
+        "map": "5200203",
+        "tips": "\u88ab\u4f3d\u68a8\u5236\u670d\u7684\u5e2e\u6d3e\u6210\u5458\u544a\u8bc9\u5979\u6709\u4e00\u4f19\u513f\u4eba\u4ece\u535a\u7269\u9986\u51fa\u6765\u540e\u95ef\u8fdb\u4e86\u9644\u8fd1\u7684\u62f3\u573a\u4e2d\uff0c\u4f3d\u68a8\u628a\u4ed6\u4eec\u4ea4\u4e88\u8b66\u5c40\u540e\u4fbf\u7acb\u5373\u51fa\u53d1\u524d\u5f80\u62f3\u573a\u3002\n<color=#FF9500>\u63a8\u8350\u5f3a\u5316\u6548\u679c\uff1a\u300c\u7a33\u5982\u78d0\u77f3\u300d</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200203,
+        "next_show_id_list": [
+            5200204
+        ],
+        "next_unlock_id_list": [
+            5200204
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            7000
+        ],
+        "position": [
+            1000,
+            37
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200204": {
+        "monster_level": 80,
+        "name": "\u7981\u6b62\u5165\u5185",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200204,
+        "map": "5200204",
+        "tips": "\u5077\u8d70\u5b9d\u7269\u7684\u4eba\u73b0\u5728\u5c31\u8eb2\u8fdb\u5728\u52a0\u5c14\u7684\u62f3\u573a\u4e2d\uff0c\u6b63\u5f53\u4f3d\u68a8\u60f3\u8981\u8fdb\u5165\u62f3\u573a\u65f6\u4fdd\u5b89\u6321\u5728\u4e86\u5979\u7684\u9762\u524d\u2026\u2026\u6ca1\u6709\u62f3\u573a\u7684\u6bd4\u8d5b\u8d44\u683c\uff0c\u7981\u6b62\u8fdb\u5165\u3002\n<color=#FF9500>\u63a8\u8350\u5f3a\u5316\u6548\u679c\uff1a\u300c\u7a33\u5982\u78d0\u77f3\u300d</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200204,
+        "next_show_id_list": [
+            5200205
+        ],
+        "next_unlock_id_list": [
+            5200205
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            7000
+        ],
+        "position": [
+            1400,
+            -46
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200205": {
+        "monster_level": 80,
+        "name": "\u8c01\u62f3\u5934\u786c",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200205,
+        "map": "5200205",
+        "tips": "\u5728\u8d2b\u6c11\u7a9f\u91cc\uff0c\u9664\u4e86\u91d1\u94b1\u4e4b\u5916\uff0c\u62f3\u5934\u4e5f\u53ef\u4ee5\u4f5c\u4e3a\u901a\u5f80\u4e00\u5207\u5730\u65b9\u7684\u51ed\u8bc1\u3002\n<color=#FF9500>\u63a8\u8350\u5f3a\u5316\u6548\u679c\uff1a\u300c\u6b66\u8005\u6781\u610f\u300d</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200205,
+        "next_show_id_list": [
+            5200206
+        ],
+        "next_unlock_id_list": [
+            5200206
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            7500
+        ],
+        "position": [
+            1779,
+            -46
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200206": {
+        "monster_level": 80,
+        "name": "\u7fa4\u4f53\u4e89\u6597",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200206,
+        "map": "5200206",
+        "tips": "\u4f3d\u68a8\u987a\u5229\u5730\u8fdb\u5165\u4e86\u62f3\u573a\u4e2d\uff0c\u4f46\u770b\u7740\u5979\u8fd9\u4f4d\u4e0d\u901f\u4e4b\u5ba2\uff0c\u62f3\u573a\u4e2d\u7684\u5176\u4f59\u4eba\u6162\u6162\u56f4\u4e86\u4e0a\u6765\u3002\n<color=#FF9500>\u63a8\u8350\u5f3a\u5316\u6548\u679c\uff1a\u300c\u6b66\u8005\u6781\u610f\u300d</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200206,
+        "next_show_id_list": [
+            5200207
+        ],
+        "next_unlock_id_list": [
+            5200207
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            12000
+        ],
+        "position": [
+            2172,
+            -136
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200207": {
+        "monster_level": 80,
+        "name": "\u80dc\u5229\u8005\uff1f",
+        "background_1": "I02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200207,
+        "map": "5200207",
+        "tips": "\u5f53\u505c\u4e0b\u6765\u65f6\uff0c\u4f3d\u68a8\u5df2\u7ecf\u6253\u8d25\u4e86\u5927\u5385\u4e2d\u7ad9\u7740\u7684\u6240\u6709\u4eba\u3002\u7136\u540e\uff0c\u88c1\u5224\u5439\u54cd\u53e3\u54e8\u4e3e\u8d77\u4e86\u5979\u7684\u624b\u2014\u2014\n\u4f46\u73b0\u5728\u4e0d\u662f\u4eab\u53d7\u80dc\u5229\u7684\u65f6\u523b\u554a\uff01\n<color=#FF9500>\u63a8\u8350\u5f3a\u5316\u6548\u679c\uff1a\u300c\u5954\u96f7\u6467\u950b\u300d</color>",
+        "sub_type": 2,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200207,
+        "next_show_id_list": [
+            5200208
+        ],
+        "next_unlock_id_list": [
+            5200208
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            7000
+        ],
+        "position": [
+            250,
+            -134
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200208": {
+        "monster_level": 80,
+        "name": "\u7ee7\u7eed\u5954\u6ce2",
+        "background_1": "I03",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200208,
+        "map": "5200208",
+        "tips": "\u6700\u7ec8\uff0c\u90a3\u4f19\u7a83\u8d3c\u8fd8\u662f\u8d81\u4e71\u6e9c\u8d70\u4e86\u3002\u4f3d\u68a8\u7684\u8ffd\u51fb\u4e4b\u65c5\u8fd8\u5c06\u7ee7\u7eed\u3002\n<color=#FF9500>\u63a8\u8350\u5f3a\u5316\u6548\u679c\uff1a\u300c\u5954\u96f7\u6467\u950b\u300d</color>",
+        "sub_type": 2,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "next_show_id_list": "",
+        "next_unlock_id_list": "",
+        "user_exp": 0,
+        "id": 5200208,
+        "attribute_factor": [
+            200,
+            1000,
+            7000
+        ],
+        "position": [
+            607,
+            35
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "all": [
+        5200201,
+        5200202,
+        5200203,
+        5200204,
+        5200205,
+        5200206,
+        5200207,
+        5200208
+    ]
+}

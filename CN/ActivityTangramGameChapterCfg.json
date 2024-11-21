@@ -1,0 +1,100 @@
+{
+    "101": {
+        "name": "\u6f5c\u9003",
+        "pre_chapter": 0,
+        "chapterID": 101,
+        "activityID": 283121,
+        "conclusion_tips": "\u5148\u8fd8\u539f\u4ed6\u7684\u5de5\u4f5c\u6d41\u7a0b\uff0c\u518d\u786e\u8ba4\u4ed6\u53bb\u4e86\u54ea\u91cc\u5427\u2026\u2026",
+        "chapter_desc": "\u955c\u5934\u4e4b\u5916\uff0c\u963f\u5c14\u5fd2\u5f25\u65af\u4f3c\u4e4e\u5076\u7136\u9047\u89c1\u4e86\u719f\u6089\u7684\u4eba\u5f71\uff0c\u4ed6\u53bb\u4e86\u54ea\u91cc\uff1f",
+        "tips_num": 1,
+        "chapter_question": "\u70b9\u51fb\u7ebf\u7d22\u8fdb\u884c\u6392\u5e8f\uff0c\u63a8\u7406\u51fa\u914d\u9001\u5458\u7684\u884c\u52a8\u8def\u7ebf\uff0c\u7136\u540e\u786e\u8ba4\u4ed6\u53bb\u4e86\u54ea\u91cc\u3002",
+        "puzzle_stage_list": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006
+        ],
+        "inference_stage_list": [
+            1007
+        ],
+        "unlock_condition_list": [
+            1150111
+        ]
+    },
+    "102": {
+        "name": "\u85cf\u8e2a",
+        "pre_chapter": 0,
+        "chapterID": 102,
+        "activityID": 283122,
+        "conclusion_tips": "\u65f6\u95f4\u5148\u540e\u987a\u5e8f\u4f3c\u4e4e\u80fd\u89e3\u7b54\u7591\u95ee\u2026\u2026",
+        "chapter_desc": "\u73af\u987e\u56db\u5468\uff0c\u914d\u9001\u5458\u4f3c\u4e4e\u5e76\u672a\u51fa\u73b0\u5728\u5e97\u5185\uff0c\u4ed6\u73b0\u5728\u5728\u54ea\u91cc\uff1f",
+        "tips_num": 1,
+        "chapter_question": "\u70b9\u51fb\u7ebf\u7d22\u8fdb\u884c\u6392\u5e8f\uff0c\u63a8\u7406\u8fd8\u539f\u51fa\u963f\u6ce2\u7f57\u5728\u6e38\u4e50\u56ed\u7684\u884c\u52a8\u8def\u7ebf\u3002",
+        "puzzle_stage_list": [
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006
+        ],
+        "inference_stage_list": [
+            2007
+        ],
+        "unlock_condition_list": [
+            1150114
+        ]
+    },
+    "get_id_list_by_puzzle_stage_list": {
+        "2006": [
+            102
+        ],
+        "2005": [
+            102
+        ],
+        "2004": [
+            102
+        ],
+        "2003": [
+            102
+        ],
+        "2002": [
+            102
+        ],
+        "2001": [
+            102
+        ],
+        "1006": [
+            101
+        ],
+        "1005": [
+            101
+        ],
+        "1004": [
+            101
+        ],
+        "1003": [
+            101
+        ],
+        "1002": [
+            101
+        ],
+        "1001": [
+            101
+        ]
+    },
+    "get_id_list_by_inference_stage_list": {
+        "2007": [
+            102
+        ],
+        "1007": [
+            101
+        ]
+    },
+    "all": [
+        101,
+        102
+    ]
+}

@@ -1,0 +1,493 @@
+{
+    "1084": {
+        "satiety_descend_rate": 1,
+        "name": "\u8587\u513f\u4e39\u8482",
+        "seat_priority": 13,
+        "customer_id": 1084,
+        "compose_list": [
+            101,
+            102
+        ],
+        "satiety_score_up": [
+            [
+                0,
+                [
+                    0,
+                    40
+                ]
+            ],
+            [
+                10,
+                [
+                    40,
+                    60
+                ]
+            ],
+            [
+                20,
+                [
+                    60,
+                    100
+                ]
+            ]
+        ],
+        "satiety_limit": [
+            0,
+            100
+        ]
+    },
+    "1039": {
+        "satiety_descend_rate": 1,
+        "name": "\u6ce2\u585e\u51ac",
+        "seat_priority": 2,
+        "customer_id": 1039,
+        "compose_list": [
+            103,
+            104
+        ],
+        "satiety_score_up": [
+            [
+                0,
+                [
+                    0,
+                    40
+                ]
+            ],
+            [
+                10,
+                [
+                    40,
+                    60
+                ]
+            ],
+            [
+                20,
+                [
+                    60,
+                    100
+                ]
+            ]
+        ],
+        "satiety_limit": [
+            0,
+            100
+        ]
+    },
+    "1148": {
+        "satiety_descend_rate": 1,
+        "name": "\u524d\u9b3c\u574a\u5929\u72d7",
+        "seat_priority": 3,
+        "customer_id": 1148,
+        "compose_list": [
+            105,
+            106
+        ],
+        "satiety_score_up": [
+            [
+                0,
+                [
+                    0,
+                    40
+                ]
+            ],
+            [
+                10,
+                [
+                    40,
+                    60
+                ]
+            ],
+            [
+                20,
+                [
+                    60,
+                    100
+                ]
+            ]
+        ],
+        "satiety_limit": [
+            0,
+            100
+        ]
+    },
+    "1080": {
+        "satiety_descend_rate": 1,
+        "name": "\u7ef4\u8fbe\u5c14",
+        "seat_priority": 4,
+        "customer_id": 1080,
+        "compose_list": [
+            110
+        ],
+        "satiety_score_up": [
+            [
+                0,
+                [
+                    0,
+                    40
+                ]
+            ],
+            [
+                10,
+                [
+                    40,
+                    60
+                ]
+            ],
+            [
+                20,
+                [
+                    60,
+                    100
+                ]
+            ]
+        ],
+        "satiety_limit": [
+            0,
+            100
+        ]
+    },
+    "1027": {
+        "satiety_descend_rate": 1,
+        "name": "\u5229\u7ef4\u5766",
+        "seat_priority": 5,
+        "customer_id": 1027,
+        "compose_list": [
+            119
+        ],
+        "satiety_score_up": [
+            [
+                0,
+                [
+                    0,
+                    40
+                ]
+            ],
+            [
+                10,
+                [
+                    40,
+                    60
+                ]
+            ],
+            [
+                20,
+                [
+                    60,
+                    100
+                ]
+            ]
+        ],
+        "satiety_limit": [
+            0,
+            100
+        ]
+    },
+    "1013": {
+        "satiety_descend_rate": 1,
+        "name": "\u963f\u4fee\u7f57",
+        "seat_priority": 6,
+        "customer_id": 1013,
+        "compose_list": [
+            101
+        ],
+        "satiety_score_up": [
+            [
+                0,
+                [
+                    0,
+                    40
+                ]
+            ],
+            [
+                10,
+                [
+                    40,
+                    60
+                ]
+            ],
+            [
+                20,
+                [
+                    60,
+                    100
+                ]
+            ]
+        ],
+        "satiety_limit": [
+            0,
+            100
+        ]
+    },
+    "1038": {
+        "satiety_descend_rate": 1,
+        "name": "\u8d6b\u62c9",
+        "seat_priority": 7,
+        "customer_id": 1038,
+        "compose_list": [
+            108
+        ],
+        "satiety_score_up": [
+            [
+                0,
+                [
+                    0,
+                    40
+                ]
+            ],
+            [
+                10,
+                [
+                    40,
+                    60
+                ]
+            ],
+            [
+                20,
+                [
+                    60,
+                    100
+                ]
+            ]
+        ],
+        "satiety_limit": [
+            0,
+            100
+        ]
+    },
+    "1032": {
+        "satiety_descend_rate": 1,
+        "name": "\u63d0\u5c14",
+        "seat_priority": 8,
+        "customer_id": 1032,
+        "compose_list": [
+            102
+        ],
+        "satiety_score_up": [
+            [
+                0,
+                [
+                    0,
+                    40
+                ]
+            ],
+            [
+                10,
+                [
+                    40,
+                    60
+                ]
+            ],
+            [
+                20,
+                [
+                    60,
+                    100
+                ]
+            ]
+        ],
+        "satiety_limit": [
+            0,
+            100
+        ]
+    },
+    "1093": {
+        "satiety_descend_rate": 1,
+        "name": "\u56fd\u5e38\u7acb",
+        "seat_priority": 9,
+        "customer_id": 1093,
+        "compose_list": [
+            106,
+            107
+        ],
+        "satiety_score_up": [
+            [
+                0,
+                [
+                    0,
+                    40
+                ]
+            ],
+            [
+                10,
+                [
+                    40,
+                    60
+                ]
+            ],
+            [
+                20,
+                [
+                    60,
+                    100
+                ]
+            ]
+        ],
+        "satiety_limit": [
+            0,
+            100
+        ]
+    },
+    "1096": {
+        "satiety_descend_rate": 1,
+        "name": "\u8d6b\u5c14\u58a8\u65af",
+        "seat_priority": 10,
+        "customer_id": 1096,
+        "compose_list": [
+            101,
+            102
+        ],
+        "satiety_score_up": [
+            [
+                0,
+                [
+                    0,
+                    40
+                ]
+            ],
+            [
+                10,
+                [
+                    40,
+                    60
+                ]
+            ],
+            [
+                20,
+                [
+                    60,
+                    100
+                ]
+            ]
+        ],
+        "satiety_limit": [
+            0,
+            100
+        ]
+    },
+    "1070": {
+        "satiety_descend_rate": 1,
+        "name": "\u91d1\u4e4c",
+        "seat_priority": 11,
+        "customer_id": 1070,
+        "compose_list": [
+            117,
+            118
+        ],
+        "satiety_score_up": [
+            [
+                0,
+                [
+                    0,
+                    40
+                ]
+            ],
+            [
+                10,
+                [
+                    40,
+                    60
+                ]
+            ],
+            [
+                20,
+                [
+                    60,
+                    100
+                ]
+            ]
+        ],
+        "satiety_limit": [
+            0,
+            100
+        ]
+    },
+    "1075": {
+        "satiety_descend_rate": 1,
+        "name": "\u9675\u5149",
+        "seat_priority": 12,
+        "customer_id": 1075,
+        "compose_list": [
+            111,
+            112
+        ],
+        "satiety_score_up": [
+            [
+                0,
+                [
+                    0,
+                    40
+                ]
+            ],
+            [
+                10,
+                [
+                    40,
+                    60
+                ]
+            ],
+            [
+                20,
+                [
+                    60,
+                    100
+                ]
+            ]
+        ],
+        "satiety_limit": [
+            0,
+            100
+        ]
+    },
+    "1072": {
+        "satiety_descend_rate": 1,
+        "name": "\u7984\u826f",
+        "seat_priority": 1,
+        "customer_id": 1072,
+        "compose_list": [
+            109,
+            115
+        ],
+        "satiety_score_up": [
+            [
+                0,
+                [
+                    0,
+                    40
+                ]
+            ],
+            [
+                10,
+                [
+                    40,
+                    60
+                ]
+            ],
+            [
+                20,
+                [
+                    60,
+                    100
+                ]
+            ]
+        ],
+        "satiety_limit": [
+            0,
+            100
+        ]
+    },
+    "all": [
+        1084,
+        1039,
+        1148,
+        1080,
+        1027,
+        1013,
+        1038,
+        1032,
+        1093,
+        1096,
+        1070,
+        1075,
+        1072
+    ]
+}

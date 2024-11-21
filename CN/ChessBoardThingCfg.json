@@ -1,0 +1,76 @@
+{
+    "1": {
+        "fix_walkable": 1,
+        "name": "\u5360\u4f4d\u7528",
+        "small_map_icon": "",
+        "id": 1,
+        "destoryable": 0
+    },
+    "2": {
+        "fix_walkable": 1,
+        "name": "\u63a8\u8f66",
+        "small_map_icon": "mechanic_02",
+        "id": 2,
+        "destoryable": 0
+    },
+    "3": {
+        "fix_walkable": 1,
+        "name": "\u5e02\u573a\u7ba1\u7406",
+        "small_map_icon": "mechanic_03",
+        "id": 3,
+        "destoryable": 0
+    },
+    "4": {
+        "fix_walkable": 1,
+        "name": "\u8f6c\u76d8",
+        "small_map_icon": "mechanic_04",
+        "id": 4,
+        "destoryable": 0
+    },
+    "1000": {
+        "fix_walkable": 0,
+        "name": "\u7a7a\u9053\u5177",
+        "small_map_icon": "",
+        "id": 1000,
+        "destoryable": 0
+    },
+    "1001": {
+        "fix_walkable": 0,
+        "name": "\u91d1\u5e01",
+        "small_map_icon": "item_01",
+        "id": 1001,
+        "destoryable": 1
+    },
+    "1002": {
+        "fix_walkable": 0,
+        "name": "\u8def\u969c",
+        "small_map_icon": "item_02",
+        "id": 1002,
+        "destoryable": 1
+    },
+    "1003": {
+        "fix_walkable": 0,
+        "name": "\u70b8\u5f39",
+        "small_map_icon": "item_03",
+        "id": 1003,
+        "destoryable": 1
+    },
+    "1004": {
+        "fix_walkable": 1,
+        "name": "\u969c\u788d",
+        "small_map_icon": "",
+        "id": 1004,
+        "destoryable": 0
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        1000,
+        1001,
+        1002,
+        1003,
+        1004
+    ]
+}

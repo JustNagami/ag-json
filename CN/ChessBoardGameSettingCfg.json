@@ -1,0 +1,89 @@
+{
+    "1": {
+        "chessboard_small_map_hero_name": "\u89d2\u8272",
+        "activity_id": 1,
+        "chessboard_small_map_hero_des": "\u53ef\u5728\u68cb\u76d8\u4e2d\u64cd\u4f5c\u7684\u79fb\u52a8\u5355\u4f4d\n\n\u8e29\u4e2d\u9e2d\u9e2d\u65f6\uff0c\u53ef\u83b7\u5f97\u5927\u91cf\u9e2d\u9e2d\u5e01",
+        "chessboard_npc_max_num": 3,
+        "chessboard_prop_max_num": 6,
+        "chessboard_small_map_speciality_icon": [
+            [
+                1,
+                "mechanic_nobg_01",
+                "\u5347\u964d\u673a\u5173",
+                "\u89e6\u53d1\u673a\u5173\u4f1a\u6539\u53d8\u5176\u5347\u964d\u72b6\u6001"
+            ],
+            [
+                2,
+                "mechanic_nobg_02",
+                "\u6295\u5c4f\u5e7f\u544a\u8f66",
+                "\u89e6\u53d1\u673a\u5173\u4f1a\u6539\u53d8\u5176\u4f4d\u7f6e"
+            ],
+            [
+                3,
+                "mechanic_nobg_03",
+                "\u56ed\u533a\u670d\u52a1\u7ad9",
+                "\u53ef\u4ee5\u4e3b\u52a8\u4f7f\u7528\u9e2d\u9e2d\u5e01\u6539\u53d8\u6295\u5c4f\u5e7f\u544a\u8f66\u4f4d\u7f6e"
+            ],
+            [
+                4,
+                "mechanic_nobg_04",
+                "\u65cb\u8f6c\u6ed1\u68af",
+                "\u89e6\u53d1\u673a\u5173\u4f1a\u6539\u53d8\u5176\u65cb\u8f6c\u72b6\u6001"
+            ]
+        ],
+        "chessboard_describe": [
+            "Widget/System/Summer2024/Summer2024_ChessBoard/Summer2024_ChessBoardDescription_01",
+            "Widget/System/Summer2024/Summer2024_ChessBoard/Summer2024_ChessBoardDescription_02"
+        ],
+        "summer_chessboard_balloon_qte": [
+            10,
+            5,
+            15,
+            25
+        ],
+        "summer_chessboard_power_qte": [
+            10,
+            [
+                0,
+                5,
+                10,
+                15,
+                20,
+                25,
+                30,
+                35,
+                40,
+                50,
+                60
+            ],
+            4,
+            8
+        ],
+        "summer_chessboard_focus_qte": [
+            3,
+            [
+                [
+                    90,
+                    30
+                ],
+                [
+                    60,
+                    20
+                ],
+                [
+                    45,
+                    15
+                ]
+            ],
+            3,
+            5
+        ],
+        "chessboard_dice_type_prop": [
+            10001,
+            10002
+        ]
+    },
+    "all": [
+        1
+    ]
+}

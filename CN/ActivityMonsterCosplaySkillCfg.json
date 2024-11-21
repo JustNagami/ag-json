@@ -1,0 +1,142 @@
+{
+    "1001": {
+        "skill_cd": "0",
+        "skill_new_icon": "6108216",
+        "skill_new_description": "\u5355\u51fb\u53d1\u5c04\u5bfc\u5f39\uff0c\u957f\u6309\u53d1\u5c04\u5b50\u5f39",
+        "skill_start_description": "\u6325\u52a8\u6b66\u5668\u8fdb\u884c\u653b\u51fb\uff0c\u5bf9\u654c\u4eba\u9020\u6210\u4f24\u5bb3",
+        "skill_start_icon": "6108101",
+        "affix_effect_skill_desc": "",
+        "id": 1001,
+        "skill_index": "\u666e\u653b",
+        "skill_name": "\u65ad\u94a2\u65a9",
+        "affix_effect_skill_list": []
+    },
+    "1002": {
+        "skill_cd": "12",
+        "skill_new_icon": "6108214",
+        "skill_new_description": "\u5411\u9501\u5b9a\u7684\u76ee\u6807\u53d1\u5c04\u6570\u9053\u6fc0\u5149",
+        "skill_start_description": "\u4f7f\u7528\u673a\u4f53\u7684\u67aa\u68b0\u8fdb\u884c\u4e09\u8fde\u5c04\u51fb\uff0c\u5bf9\u654c\u4eba\u9020\u6210\u4f24\u5bb3",
+        "skill_start_icon": "6108104",
+        "affix_effect_skill_desc": "",
+        "id": 1002,
+        "skill_index": "\u4e00\u6280\u80fd",
+        "skill_name": "\u4e09\u91cd\u8d2f\u901a",
+        "affix_effect_skill_list": []
+    },
+    "1003": {
+        "skill_cd": "12",
+        "skill_new_icon": "6108215",
+        "skill_new_description": "\u5f00\u59cb\u6ed1\u7fd4\uff0c\u9014\u4e2d\u4f1a\u5c04\u51fa\u591a\u53d1\u5b50\u5f39",
+        "skill_start_description": "\u542f\u52a8\u52a0\u901f\u5f15\u64ce\u5411\u524d\u51b2\u523a\uff0c\u843d\u5730\u540e\u4ea7\u751f\u51b2\u51fb\u6ce2\uff0c\u5bf9\u654c\u4eba\u9020\u6210\u4f24\u5bb3",
+        "skill_start_icon": "6108205",
+        "affix_effect_skill_desc": "",
+        "id": 1003,
+        "skill_index": "\u4e8c\u6280\u80fd",
+        "skill_name": "\u70bd\u7130\u7a81\u88ad",
+        "affix_effect_skill_list": []
+    },
+    "1004": {
+        "skill_cd": "12",
+        "skill_new_icon": "6108201",
+        "skill_new_description": "\u5bf9\u9501\u5b9a\u7684\u76ee\u6807\u8fdb\u884c\u65a9\u51fb",
+        "skill_start_description": "\u98de\u5230\u7a7a\u4e2d\u968f\u540e\u843d\u5730\u5bf9\u654c\u4eba\u8fdb\u884c\u65a9\u51fb\uff0c\u540c\u65f6\u6d88\u8017\u6240\u6709\u6012\u6c14\u751f\u6210\u6570\u9053\u843d\u96f7\uff0c\u5bf9\u654c\u4eba\u9020\u6210\u4f24\u5bb3",
+        "skill_start_icon": "6108212",
+        "affix_effect_skill_desc": "\u7a7a\u4e2d\u98de\u884c\u65f6\u4f1a\u6301\u7eed\u6d88\u8017\u6012\u6c14\uff0c\u6012\u6c14\u6d88\u8017\u5b8c\u540e\u4f1a\u81ea\u52a8\u65bd\u653e\u7a7a\u4e2d\u65a9\u51fb\u6280\u80fd\uff0c\u7ed3\u675f\u98de\u7a7a\u5f62\u6001",
+        "id": 1004,
+        "skill_index": "\u4e09\u6280\u80fd",
+        "skill_name": "\u82cd\u8272\u6d41\u661f",
+        "affix_effect_skill_list": [
+            1001,
+            1002,
+            1003,
+            1004
+        ]
+    },
+    "1005": {
+        "skill_cd": "0",
+        "skill_new_icon": "",
+        "skill_new_description": "",
+        "skill_start_description": "\u5feb\u901f\u95ea\u907f\u654c\u4eba\u653b\u51fb\n\u4f7f\u7528\u975e\u79fb\u52a8\u95ea\u907f\u8fdb\u884c\u683c\u6321\uff0c\u683c\u6321\u6210\u529f\u5219\u83b7\u5f97\u6012\u6c14\uff0c\u514d\u75ab\u8be5\u4f24\u5bb3\u5e76\u7729\u6655\u654c\u4eba\n\u957f\u6309\u53ef\u4ee5\u6301\u7eed\u683c\u6321\uff0c\u540c\u65f6\u4f1a\u6301\u7eed\u6d88\u8017\u95ea\u907f\u503c",
+        "skill_start_icon": "6108305",
+        "affix_effect_skill_desc": "",
+        "id": 1005,
+        "skill_index": "\u95ea\u907f",
+        "skill_name": "\u53cd\u5e94\u6a21\u5f0f",
+        "affix_effect_skill_list": []
+    },
+    "2001": {
+        "skill_cd": "0",
+        "skill_new_icon": "",
+        "skill_new_description": "",
+        "skill_start_description": "\u6325\u52a8\u6b66\u5668\u8fdb\u884c\u653b\u51fb\uff0c\u5bf9\u654c\u4eba\u9020\u6210\u4f24\u5bb3",
+        "skill_start_icon": "6109101",
+        "affix_effect_skill_desc": "",
+        "id": 2001,
+        "skill_index": "\u666e\u653b",
+        "skill_name": "\u5de8\u529b\u6325\u821e",
+        "affix_effect_skill_list": []
+    },
+    "2002": {
+        "skill_cd": "6",
+        "skill_new_icon": "6109201",
+        "skill_new_description": "\u5411\u524d\u65b9\u731b\u70c8\u51b2\u523a\u4e00\u6bb5\u65f6\u95f4\uff0c\u5bf9\u78b0\u5230\u7684\u654c\u4eba\u9020\u6210\u4f24\u5bb3",
+        "skill_start_description": "\u5bf9\u5730\u9762\u8fdb\u884c\u8e29\u8e0f\uff0c\u5bf9\u654c\u4eba\u9020\u6210\u4f24\u5bb3",
+        "skill_start_icon": "6109206",
+        "affix_effect_skill_desc": "",
+        "id": 2002,
+        "skill_index": "\u4e00\u6280\u80fd",
+        "skill_name": "\u88c2\u5730\u6ce2",
+        "affix_effect_skill_list": []
+    },
+    "2003": {
+        "skill_cd": "6",
+        "skill_new_icon": "6109261",
+        "skill_new_description": "\u65cb\u8f6c\u6218\u621f\uff0c\u5c06\u4e00\u5b9a\u8303\u56f4\u5185\u7684\u654c\u4eba\u805a\u96c6\u5230\u9762\u524d\uff0c\u540c\u65f6\u53ec\u5524\u6d41\u5f39\u653b\u51fb\u654c\u4eba\uff0c\u6700\u540e\u5bf9\u5176\u654c\u4eba\u91cd\u51fb\u4f24\u5bb3",
+        "skill_start_description": "\u539f\u5730\u8df3\u8d77\uff0c\u5728\u843d\u5730\u65f6\u5bf9\u654c\u4eba\u9020\u6210\u4f24\u5bb3",
+        "skill_start_icon": "6109205",
+        "affix_effect_skill_desc": "",
+        "id": 2003,
+        "skill_index": "\u4e8c\u6280\u80fd",
+        "skill_name": "\u5929\u7a79\u5de1\u884c",
+        "affix_effect_skill_list": []
+    },
+    "2004": {
+        "skill_cd": "0",
+        "skill_new_icon": "",
+        "skill_new_description": "",
+        "skill_start_description": "\u957f\u6309\u8be5\u6280\u80fd\u5954\u8dd1\uff0c\u5728\u5954\u8dd1\u8fc7\u7a0b\u4e2d\u53d1\u5c04\u5bfc\u5f39\uff0c\u5bfc\u5f39\u547d\u4e2d\u654c\u4eba\u9020\u6210\u4f24\u5bb3",
+        "skill_start_icon": "6109242",
+        "affix_effect_skill_desc": "\u901a\u8fc7\u5954\u8dd1\u79ef\u84c4\u6012\u6c14\uff0c\u79ef\u6512\u6ee1\u6012\u6c14\u540e\u8fdb\u5165\u66b4\u8d70\u6a21\u5f0f",
+        "id": 2004,
+        "skill_index": "\u4e09\u6280\u80fd",
+        "skill_name": "\u8d64\u7ea2\u51b2\u950b",
+        "affix_effect_skill_list": [
+            2002,
+            2003
+        ]
+    },
+    "2005": {
+        "skill_cd": "0",
+        "skill_new_icon": "",
+        "skill_new_description": "",
+        "skill_start_description": "\u5feb\u901f\u95ea\u907f\u654c\u4eba\u653b\u51fb",
+        "skill_start_icon": "6109305",
+        "affix_effect_skill_desc": "",
+        "id": 2005,
+        "skill_index": "\u95ea\u907f",
+        "skill_name": "\u788e\u6b65",
+        "affix_effect_skill_list": []
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+    ]
+}

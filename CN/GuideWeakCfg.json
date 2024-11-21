@@ -1,0 +1,700 @@
+{
+    "1001": {
+        "closetime": 5,
+        "priority": 1,
+        "talk_adapt": 1,
+        "talk_anchors": 1,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1001,
+        "talk_content": "\u65b0\u4eba\uff0c\u8fd9\u662f\u6211\u4eec\u7279\u610f\u4e3a\u4f60\u51c6\u5907\u7684\u6b22\u8fce\u4eea\u5f0f\uff0c\u5e0c\u671b\u4f60\u80fd\u518d\u63a5\u518d\u5389\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "buttonNewbie_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010005
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010113
+            ]
+        ],
+        "talk_position": [
+            568,
+            -284
+        ]
+    },
+    "1002": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 2,
+        "talk_anchors": 2,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1002,
+        "talk_content": "\u5f25\u5f25\u89c2\u6d4b\u7ad9\u529f\u80fd\u5f00\u653e\u4e86\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "btn_menu"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "guide",
+                17
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010113
+            ]
+        ],
+        "talk_position": [
+            -370,
+            -280
+        ]
+    },
+    "1003": {
+        "closetime": 5,
+        "priority": -1,
+        "talk_adapt": 2,
+        "talk_anchors": 3,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1003,
+        "talk_content": "\u77e9\u9635\u516c\u4f1a\u73b0\u5df2\u5f00\u653e\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "btnGuild_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "playerLevel",
+                30
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010613
+            ]
+        ],
+        "talk_position": [
+            -600,
+            240
+        ]
+    },
+    "1004": {
+        "closetime": 5,
+        "priority": -2,
+        "talk_adapt": 2,
+        "talk_anchors": 2,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1004,
+        "talk_content": "\u7ba1\u7406\u5458\uff0c\u70ed\u95e8\u6d3b\u52a8\u7684\u53c2\u4e0e\u5165\u53e3\u5df2\u7ecf\u5f00\u653e\u4e86\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "@@activityEntraceView_",
+            1
+        ],
+        "mask_component": [
+            "guideComponents",
+            "guide_activity"
+        ],
+        "opencondition": [
+            [
+                "playerLevel",
+                30
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010811
+            ]
+        ],
+        "talk_position": [
+            -760,
+            -330
+        ]
+    },
+    "1005": {
+        "closetime": 5,
+        "priority": -3,
+        "talk_adapt": 1,
+        "talk_anchors": 1,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1005,
+        "talk_content": "\u76f8\u4fe1\u7ba1\u7406\u5458\u73b0\u5728\u5df2\u7ecf\u5bf9\u81ea\u5df1\u7684\u57fa\u672c\u804c\u8d23\u975e\u5e38\u719f\u6089\u4e86\uff0c\u90a3\u5c31\u8ba9\u6211\u4eec\u5f00\u542f\u8fdb\u4fee\u4f01\u5212\u5427\uff01",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "btn_newbie_task"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "playerLevel",
+                41
+            ]
+        ],
+        "skipcondition": [
+            [
+                "playerLevel",
+                45
+            ]
+        ],
+        "talk_position": [
+            568,
+            -267
+        ]
+    },
+    "1101": {
+        "closetime": 5,
+        "priority": 5,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1101,
+        "talk_content": "\u300c\u56e0\u5b50\u91c7\u96c6\u300d\u73a9\u6cd5\u5f00\u653e\uff0c\u6280\u80fd\u5347\u7ea7\u6240\u9700\u7269\u8d44\u83b7\u53d6\u6743\u9650\u5df2\u5f00\u542f\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010102
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1102": {
+        "closetime": 5,
+        "priority": 4,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1102,
+        "talk_content": "\u300c\u6a21\u62df\u4f5c\u6218\u300d\u73a9\u6cd5\u5f00\u653e\uff0c\u4fee\u6b63\u8005\u5347\u7ea7\u6240\u9700\u7269\u8d44\u83b7\u53d6\u6743\u9650\u5df2\u5f00\u542f\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010108
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1103": {
+        "closetime": 5,
+        "priority": 3,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1103,
+        "talk_content": "\u300c\u6df1\u5c42\u52d8\u63a2\u300d\u73a9\u6cd5\u5f00\u653e\uff0c\u6743\u94a5\u5347\u7ea7\u6240\u9700\u7269\u8d44\u83b7\u53d6\u6743\u9650\u5df2\u5f00\u542f\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010113
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1104": {
+        "closetime": 5,
+        "priority": 2,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1104,
+        "talk_content": "\u300c\u5931\u843d\u9057\u8ff9\u300d\u73a9\u6cd5\u5f00\u653e\uff0c\u4fee\u6b63\u8005\u7a81\u7834\u6240\u9700\u7269\u8d44\u83b7\u53d6\u6743\u9650\u5df2\u5f00\u542f\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010204
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1105": {
+        "closetime": 5,
+        "priority": 1,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1105,
+        "talk_content": "\u300c\u6781\u9650\u8403\u53d6\u300d\u3001\u300c\u916c\u91d1\u59d4\u6258\u300d\u73a9\u6cd5\u5f00\u653e\uff0c\u5168\u90e8\u7269\u8d44\u83b7\u53d6\u6743\u9650\u5df2\u5f00\u542f\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010211
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1201": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 0,
+        "name": "newHero",
+        "narrator_icon": "mmr",
+        "id": 1201,
+        "talk_content": "\u300c\u8fde\u643a\u5965\u4e49\u52a8\u753b\u300d\u56de\u770b\u529f\u80fd\u5df2\u7ecf\u5f00\u653e\uff0c\u7ba1\u7406\u5458\u73b0\u5728\u53ef\u4ee5\u56de\u770b\u4fee\u6b63\u8005\u4eec\u7684\u8fde\u643a\u5965\u4e49\u52a8\u753b\u4e86\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "pages_",
+            2,
+            "buttonComboSkill_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "newHero"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "comboSkillInfo"
+            ]
+        ],
+        "talk_position": [
+            80,
+            125
+        ]
+    },
+    "1202": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 8,
+        "name": "comboSkillInfo",
+        "narrator_icon": "mmr",
+        "id": 1202,
+        "talk_content": "\u7ba1\u7406\u5458\u53ef\u4ee5\u4ece\u6b64\u5904\u67e5\u770b\u4fee\u6b63\u8005\u4eec\u7684\u8fde\u643a\u5965\u4e49\u52a8\u753b\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "viewBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "comboSkillInfo"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "HeroCooperationView"
+            ]
+        ],
+        "talk_position": [
+            -50,
+            100
+        ]
+    },
+    "1301": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 3,
+        "name": "heroPreviewChange",
+        "narrator_icon": "mmr",
+        "id": 1301,
+        "talk_content": "\u300c\u8fde\u643a\u5965\u4e49\u52a8\u753b\u300d\u56de\u770b\u529f\u80fd\u5df2\u7ecf\u5f00\u653e\uff0c\u7ba1\u7406\u5458\u73b0\u5728\u53ef\u4ee5\u56de\u770b\u4fee\u6b63\u8005\u4eec\u7684\u8fde\u643a\u5965\u4e49\u52a8\u753b\u4e86\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "infoBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "heroPreviewChange"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "heroPreviewMain"
+            ]
+        ],
+        "talk_position": [
+            -380,
+            220
+        ]
+    },
+    "1302": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 2,
+        "name": "heroPreviewMain",
+        "narrator_icon": "mmr",
+        "id": 1302,
+        "talk_content": "\u7ba1\u7406\u5458\u53ef\u4ee5\u4ece\u6b64\u5904\u67e5\u770b\u4fee\u6b63\u8005\u4eec\u7684\u8fde\u643a\u5965\u4e49\u52a8\u753b\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "subPages_",
+            1,
+            "cooperationBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "heroPreviewMain"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "HeroCooperationView"
+            ]
+        ],
+        "talk_position": [
+            -650,
+            -685
+        ]
+    },
+    "1401": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 1,
+        "talk_anchors": 1,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1401,
+        "talk_content": "\u7ba1\u7406\u5458\uff0c\u8d34\u7eb8\u7cfb\u7edf\u5df2\u5b8c\u6210\u66f4\u65b0\uff0c\u5feb\u6765\u770b\u770b\u5427\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "btn_message"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "home"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "userinfo"
+            ]
+        ],
+        "talk_position": [
+            410,
+            -230
+        ]
+    },
+    "1402": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "userinfo",
+        "narrator_icon": "mmr",
+        "id": 1402,
+        "talk_content": "\u7ba1\u7406\u5458\uff0c\u5feb\u6765\u8bd5\u8bd5\u81ea\u7531\u6446\u653e\u7684\u8d34\u7eb8\u5427\uff01",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "illustratedStickerBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "userinfo"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "customStickerMain"
+            ]
+        ],
+        "talk_position": [
+            1371,
+            125
+        ]
+    },
+    "1501": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 1,
+        "talk_anchors": 5,
+        "name": "polyhedronLobby",
+        "narrator_icon": "mmr",
+        "id": 1501,
+        "talk_content": "\u6f14\u7b97\u7ec8\u7aef\u673a\u73b0\u5df2\u5b8c\u6210\u4f18\u5316\u5347\u7ea7\uff0c\u63d0\u9ad8\u4e86\u4fe1\u606f\u63a2\u7d22\u7684\u6548\u7387\uff0c\u300c\u7ef4\u5ea6\u504f\u79fb\u300d\u7684\u6700\u9ad8\u7b49\u7ea7\u4ece40\u7ea7\u8c03\u964d\u81f320\u7ea7\uff0c\u53ef\u4ee5\u83b7\u53d6\u7684\u5956\u52b1\u603b\u91cf\u4e0d\u53d8\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "m_policyBtn"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "polyhedronLobby"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "polyhedronPolicyReward"
+            ]
+        ],
+        "talk_position": [
+            830,
+            68
+        ]
+    },
+    "1502": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 1,
+        "talk_anchors": 5,
+        "name": "polyhedronLobby",
+        "narrator_icon": "mmr",
+        "id": 1502,
+        "talk_content": "\u300c\u7ef4\u5ea6\u66f2\u7ebf\u300d\u7684\u4efb\u52a1\u7cfb\u7edf\u66f4\u65b0\uff0c\u5c06\u63d0\u4f9b\u56fa\u6709\u72b6\u6001\u7684\u4efb\u52a1\uff0c\u964d\u4f4e\u4e86\u6574\u4f53\u4efb\u52a1\u5904\u7406\u6d41\u7a0b\u7684\u590d\u6742\u5ea6\u3002",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "m_taskBtn"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "polyhedronLobby"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "polyhedronTask"
+            ]
+        ],
+        "talk_position": [
+            776,
+            -151
+        ]
+    },
+    "1601": {
+        "closetime": 5,
+        "priority": 1,
+        "talk_adapt": 1,
+        "talk_anchors": 0,
+        "name": "tetrisGameStageView",
+        "narrator_icon": "mmr",
+        "id": 1601,
+        "talk_content": "\u70b9\u51fb\u8fd9\u91cc\u4e5f\u53ef\u4ee5\u67e5\u770b\u6280\u80fd\u7684\u6548\u679c",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "guideComponents",
+            "guide_mask"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "tetrisGameStageView"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "tetrisGameScorePopView"
+            ]
+        ],
+        "talk_position": [
+            -309,
+            -326
+        ]
+    },
+    "1701": {
+        "closetime": 5,
+        "priority": 1,
+        "talk_adapt": 0,
+        "talk_anchors": 0,
+        "name": "challengeRogueTeamSectionSelectHero",
+        "narrator_icon": "mmr",
+        "id": 1701,
+        "talk_content": "\u8fd9\u91cc\u53ef\u4ee5\u5173\u95ed\u961f\u53cb\u7279\u6548",
+        "narrator_name": "\u5f25\u5f25\u5c14",
+        "guide_component": [
+            "conditionBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "challengeRogueTeamSectionSelectHero"
+            ]
+        ],
+        "skipcondition": [],
+        "talk_position": [
+            320,
+            380
+        ]
+    },
+    "get_id_list_by_name": {
+        "challengeRogueTeamSectionSelectHero": [
+            1701
+        ],
+        "tetrisGameStageView": [
+            1601
+        ],
+        "polyhedronLobby": [
+            1501,
+            1502
+        ],
+        "userinfo": [
+            1402
+        ],
+        "heroPreviewMain": [
+            1302
+        ],
+        "heroPreviewChange": [
+            1301
+        ],
+        "comboSkillInfo": [
+            1202
+        ],
+        "newHero": [
+            1201
+        ],
+        "chapterMap": [
+            1101,
+            1102,
+            1103,
+            1104,
+            1105
+        ],
+        "home": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1401
+        ]
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1101,
+        1102,
+        1103,
+        1104,
+        1105,
+        1201,
+        1202,
+        1301,
+        1302,
+        1401,
+        1402,
+        1501,
+        1502,
+        1601,
+        1701
+    ]
+}

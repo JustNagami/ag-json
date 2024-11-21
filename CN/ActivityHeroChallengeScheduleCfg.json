@@ -1,0 +1,170 @@
+{
+    "2428401": {
+        "score": 25,
+        "name": "\u56de\u54cd\u542f\u793a",
+        "select_type": 0,
+        "linkgame_des": "\u5b8c\u62101\u6b21\u672a\u901a\u5173\u7684\u56de\u54cd\u542f\u793a\u5173\u5361",
+        "type": 1,
+        "server_type": 1,
+        "priority": 1,
+        "activity_id": 242841,
+        "id": 2428401,
+        "pre_condition": [],
+        "remove_condition": [
+            112001
+        ]
+    },
+    "2428402": {
+        "score": 25,
+        "name": "\u795e\u80fd\u8bad\u7ec3",
+        "select_type": 0,
+        "linkgame_des": "\u5b8c\u62101\u6b21\u795e\u80fd\u8bad\u7ec3\u5173\u5361",
+        "type": 1,
+        "server_type": 2,
+        "priority": 2,
+        "activity_id": 242841,
+        "id": 2428402,
+        "pre_condition": [
+            112001
+        ],
+        "remove_condition": []
+    },
+    "2428403": {
+        "score": 25,
+        "name": "\u610f\u5fd7\u8bad\u7ec3",
+        "select_type": 0,
+        "linkgame_des": "\u5b8c\u62101\u6b21\u610f\u5fd7\u8bad\u7ec3\u5173\u5361",
+        "type": 1,
+        "server_type": 3,
+        "priority": 3,
+        "activity_id": 242841,
+        "id": 2428403,
+        "pre_condition": [
+            112001
+        ],
+        "remove_condition": []
+    },
+    "2428404": {
+        "score": 25,
+        "name": "\u6280\u5de7\u8bad\u7ec3",
+        "select_type": 0,
+        "linkgame_des": "\u5b8c\u62101\u6b21\u6280\u5de7\u8bad\u7ec3\u5173\u5361",
+        "type": 1,
+        "server_type": 4,
+        "priority": 4,
+        "activity_id": 242841,
+        "id": 2428404,
+        "pre_condition": [
+            112001
+        ],
+        "remove_condition": []
+    },
+    "2428405": {
+        "score": 100,
+        "name": "\u4fb5\u8680\u62b5\u6297",
+        "select_type": 0,
+        "linkgame_des": "\u5b8c\u62101\u6b21\u4fb5\u8680\u62b5\u6297\u5173\u5361",
+        "type": 1,
+        "server_type": 5,
+        "priority": 5,
+        "activity_id": 242851,
+        "id": 2428405,
+        "pre_condition": [
+            112001
+        ],
+        "remove_condition": []
+    },
+    "2428406": {
+        "score": 25,
+        "name": "\u6f14\u7ece\u884c\u4e50",
+        "select_type": 0,
+        "linkgame_des": "\u5b8c\u62101\u6b21\u6f14\u7ece\u884c\u4e50\u5173\u5361",
+        "type": 2,
+        "server_type": 6,
+        "priority": 1,
+        "activity_id": 242841,
+        "id": 2428406,
+        "pre_condition": [],
+        "remove_condition": [
+            112011
+        ]
+    },
+    "2428407": {
+        "score": 25,
+        "name": "\u95f2\u6687\u65f6\u523b",
+        "select_type": 0,
+        "linkgame_des": "\u5b8c\u62101\u6b21\u95f2\u6687\u65f6\u523b\u5c0f\u6e38\u620f",
+        "type": 2,
+        "server_type": 7,
+        "priority": 2,
+        "activity_id": 242841,
+        "id": 2428407,
+        "pre_condition": [],
+        "remove_condition": []
+    },
+    "2428408": {
+        "score": 25,
+        "name": "\u6545\u5730\u91cd\u6e38",
+        "select_type": 0,
+        "linkgame_des": "\u63a5\u53d61\u6b21\u6545\u5730\u91cd\u6e38\u4efb\u610f\u7b49\u7ea7\u59d4\u6258",
+        "type": 3,
+        "server_type": 8,
+        "priority": 1,
+        "activity_id": 242841,
+        "id": 2428408,
+        "pre_condition": [],
+        "remove_condition": []
+    },
+    "get_id_list_by_type": [
+        [
+            2428401,
+            2428402,
+            2428403,
+            2428404,
+            2428405
+        ],
+        [
+            2428406,
+            2428407
+        ],
+        [
+            2428408
+        ]
+    ],
+    "get_id_list_by_server_type": [
+        [
+            2428401
+        ],
+        [
+            2428402
+        ],
+        [
+            2428403
+        ],
+        [
+            2428404
+        ],
+        [
+            2428405
+        ],
+        [
+            2428406
+        ],
+        [
+            2428407
+        ],
+        [
+            2428408
+        ]
+    ],
+    "all": [
+        2428401,
+        2428402,
+        2428403,
+        2428404,
+        2428405,
+        2428406,
+        2428407,
+        2428408
+    ]
+}

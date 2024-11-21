@@ -1,0 +1,126 @@
+{
+    "zh_cn": {
+        "flower_tips": 0,
+        "currency_merge": 0,
+        "name": "\u56fd\u670d",
+        "payment": 1,
+        "push_message": 0,
+        "id": "zh_cn",
+        "language_list": [
+            "zh_cn"
+        ],
+        "language_in_list": [
+            "\u4e2d\u6587"
+        ],
+        "voice_list": [
+            1,
+            2
+        ],
+        "language_sent": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "jp": {
+        "flower_tips": 1,
+        "currency_merge": 1,
+        "name": "\u65e5\u672c",
+        "payment": 1,
+        "push_message": 0,
+        "id": "jp",
+        "language_list": [
+            "jp"
+        ],
+        "language_in_list": [
+            "\u65e5\u672c\u8a9e"
+        ],
+        "voice_list": [
+            2
+        ],
+        "language_sent": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "en": {
+        "flower_tips": 1,
+        "currency_merge": 1,
+        "name": "GLOBAL",
+        "payment": 1,
+        "push_message": 0,
+        "id": "en",
+        "language_list": [
+            "en",
+            "jp",
+            "de",
+            "fr"
+        ],
+        "language_in_list": [
+            "English",
+            "\u65e5\u672c\u8a9e",
+            "Deutsch",
+            "Fran\u00e7ais"
+        ],
+        "voice_list": [
+            3,
+            2
+        ],
+        "language_sent": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    "kr": {
+        "flower_tips": 1,
+        "currency_merge": 1,
+        "name": "\u97e9\u670d",
+        "payment": 1,
+        "push_message": 1,
+        "id": "kr",
+        "language_list": [
+            "kr"
+        ],
+        "language_in_list": [
+            "\ud55c\uad6d\uc5b4"
+        ],
+        "voice_list": [
+            4,
+            2
+        ],
+        "language_sent": [
+            1,
+            2,
+            3
+        ]
+    },
+    "tw": {
+        "flower_tips": 0,
+        "currency_merge": 1,
+        "name": "\u53f0\u670d",
+        "payment": 1,
+        "push_message": 0,
+        "id": "tw",
+        "language_list": [
+            "tc"
+        ],
+        "language_in_list": [
+            "\u7e41\u4f53\u4e2d\u6587"
+        ],
+        "voice_list": [
+            2,
+            1
+        ],
+        "language_sent": [
+            0,
+            1,
+            2,
+            3
+        ]
+    }
+}
