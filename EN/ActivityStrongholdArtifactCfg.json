@@ -1,475 +1,475 @@
 {
     "602101": {
-        "name": "b2b5b6646a037ca869fbd5fde16e3394",
+        "name": "Combat Boost",
         "type": 0,
         "id": 602101,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602101",
         "rare": 1,
-        "desc": "e5ec7c627293cac39a13bc9e8200a793"
+        "desc": "Normal Attack DMG +180%"
     },
     "602102": {
-        "name": "2a98e5f1f5f1dba404b3fa2549b96ece",
+        "name": "Interior Resonance ",
         "type": 0,
         "id": 602102,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602102",
         "rare": 3,
-        "desc": "904ea9cec6dcd746c36fc75ce7de58eb"
+        "desc": "Skill CD and Ultimate Skill CD -35%"
     },
     "602103": {
-        "name": "ada636718d1b464d151bb58e168b7746",
+        "name": "Confrontation Tactics (Humanoid)",
         "type": 0,
         "id": 602103,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602103",
         "rare": 2,
-        "desc": "c76d037dc7de6f27437e45ab0b905f29"
+        "desc": "DMG to Humanoids +70%"
     },
     "602104": {
-        "name": "eeb42433c8217bbd9ebe2bde63b81ce5",
+        "name": "Confrontation Tactics (Visbane)",
         "type": 0,
         "id": 602104,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602104",
         "rare": 2,
-        "desc": "455c5f07286da510f03b13ae81f7be70"
+        "desc": "DMG to Visbanes +70%"
     },
     "602105": {
-        "name": "cd005f19065900f5e501f0707c738dc9",
+        "name": "Confrontation Tactics (AGI Mecha) ",
         "type": 0,
         "id": 602105,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602105",
         "rare": 2,
-        "desc": "6315f0aa6dc1205d422445fb3c8efa0e"
+        "desc": "DMG to AGI Mechas +70%"
     },
     "602106": {
-        "name": "68edb5b402e72615893e99783c57ad71",
+        "name": "Skill Expert",
         "type": 0,
         "id": 602106,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602106",
         "rare": 1,
-        "desc": "bc4a4f50a1c762396b8f8d9f7686bd1c"
+        "desc": "Skill DMG +40%"
     },
     "602107": {
-        "name": "4f7dd45bcbf3cf010a3c53671e7ad9c5",
+        "name": "Ultimate Skill Expert",
         "type": 0,
         "id": 602107,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602107",
         "rare": 1,
-        "desc": "fe46e132e0f853dba041ef04aca3386b"
+        "desc": "Ultimate Skill DMG +160%"
     },
     "602108": {
-        "name": "73cf033c173a0c37fd095747f7c9524b",
+        "name": "Melting Pot",
         "type": 0,
         "id": 602108,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602108",
         "rare": 1,
-        "desc": "e052b485a821431410e9a5291440cd25"
+        "desc": "ATK +6%. ATK +6% (extra) for each enemy defeated. Cap: 36%"
     },
     "602109": {
-        "name": "b763b439a7a7ee8b62d5bcc93a9d822b",
+        "name": "Front Guard",
         "type": 0,
         "id": 602109,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602109",
         "rare": 2,
-        "desc": "d35ec758822c18890e324a2e7764b6c1"
+        "desc": "DMG taken from the front -25%. DMG taken from other directions +25%"
     },
     "602110": {
-        "name": "b085ab782d779c1b30bb1b406721362a",
+        "name": "Focused Reaction",
         "type": 0,
         "id": 602110,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602110",
         "rare": 2,
-        "desc": "ad1d9e438bd05c9a8fc10eb57fed33bd"
+        "desc": "DMG to locked-on enemies +60%. DMG to not locked-on enemies -15%"
     },
     "602111": {
-        "name": "9928de139e61cd2767c8d4b269f1c4c0",
+        "name": "Primitive Tactics",
         "type": 0,
         "id": 602111,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602111",
         "rare": 2,
-        "desc": "d395a04e6e108be2352e963719fc18a9"
+        "desc": "Skill DMG -60%. Normal Attack DMG +600%"
     },
     "602112": {
-        "name": "bd174373fead4565079bd51a57c5f7fa",
+        "name": "Destiny's Choice",
         "type": 0,
         "id": 602112,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602112",
         "rare": 2,
-        "desc": "b5f83b438604141c93b6b777520e4623"
+        "desc": "Obtain a dice and switch between the following 3 effects: Normal Attack DMG +80%; Skill DMG +80%; Ultimate Skill DMG +80%"
     },
     "602113": {
-        "name": "eef2c568c050f11a82ee22a59cd7eff1",
+        "name": "Efficiency Mode",
         "type": 0,
         "id": 602113,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602113",
         "rare": 2,
-        "desc": "946d376a5e18c3386efcbf2efc7cbb5f"
+        "desc": "Dodge effect CD -50%"
     },
     "602114": {
-        "name": "2e3393cbeaa6ef6d8e866aa4ffa2b72c",
+        "name": "Defense Field ",
         "type": 0,
         "id": 602114,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602114",
         "rare": 1,
-        "desc": "694fd4181a5fc7cf0f0c8cb9f82b411f"
+        "desc": "DEF +40%"
     },
     "602115": {
-        "name": "815872705c93ec455dfee190573c650d",
+        "name": "Battlefield Rescue",
         "type": 0,
         "id": 602115,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602115",
         "rare": 1,
-        "desc": "d74fdbb47582efd8f77196cf61e2ac71"
+        "desc": "HP +20% upon launching a normal attack (up to 1 time every 10s)"
     },
     "602116": {
-        "name": "14afc31c08633689b6cbe4dc24d2639d",
+        "name": "Vulnerability Detector ",
         "type": 0,
         "id": 602116,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602116",
         "rare": 1,
-        "desc": "d5123ffd0985f4c916c0668abcd15e00"
+        "desc": "Crit Rate +40% "
     },
     "602117": {
-        "name": "4c56bc44b4a5d4cc853deacef17acb93",
+        "name": "Vulnerability Magnifier ",
         "type": 0,
         "id": 602117,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602117",
         "rare": 2,
-        "desc": "e30f88444f33b052831b3fdae92c8e02"
+        "desc": "Crit DMG +100%"
     },
     "602118": {
-        "name": "d44646e26383d21482a94fbd0ed36a5f",
+        "name": "Selfless State",
         "type": 0,
         "id": 602118,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602118",
         "rare": 3,
-        "desc": "dd31e26ec289d386fb65ed8065ac60af"
+        "desc": "Crit Rate +40% and Crit DMG +100%"
     },
     "602119": {
-        "name": "6da3417879968106bce0e6d892a8b03b",
+        "name": "Absolute Control ",
         "type": 0,
         "id": 602119,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602119",
         "rare": 1,
-        "desc": "66c0949b1b42ff945f1d1b40408a97bd"
+        "desc": "Zero Time triggered by the team leader +2s"
     },
     "602120": {
-        "name": "3b0d3b080b1296e615e79b0f8c1b874b",
+        "name": "Zero Time Super Power ",
         "type": 0,
         "id": 602120,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602120",
         "rare": 2,
-        "desc": "e94d6fec7647cc07a843d0aa0acc940f"
+        "desc": "Mods' Crit Rate +100% when in Zero Time triggered by the team leader"
     },
     "602201": {
-        "name": "05f7e4c9bf035bd4fb21a3a683753f05",
+        "name": "Delayed Suffering",
         "type": 1,
         "id": 602201,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602201",
         "rare": 2,
-        "desc": "b5749f8c6b5cf65fea52681b95259cbd"
+        "desc": "Grants Unyielding during normal attack"
     },
     "602202": {
-        "name": "c9ef55bddc78e3881f28131ef3685d0e",
+        "name": "Power Unleashed",
         "type": 1,
         "id": 602202,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602202",
         "rare": 3,
-        "desc": "153473d1f881aad3eac969ae6f91df7c"
+        "desc": "Triggers 1 powerful AoE attack for every 5 normal attacks launched, dealing DMG equal to 200% of ATK and reducing DEF by 30% for 6s."
     },
     "602203": {
-        "name": "58adbab7c320e36946a24e1c8134b57b",
+        "name": "Mobile Refrigeration",
         "type": 1,
         "id": 602203,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602203",
         "rare": 2,
-        "desc": "d7e04fc6711dee1463f0fd5f0bf9caab"
+        "desc": "Triggers a blizzard when moving, dealing DMG equal to 300% of ATK and inflicting Freeze for 2s."
     },
     "602204": {
-        "name": "e15615e488be908500b8e65ebeb8223e",
+        "name": "Ravaging Recovery",
         "type": 1,
         "id": 602204,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602204",
         "rare": 1,
-        "desc": "600d34cab50a9698a0c45ffa26818516"
+        "desc": "Restores 20% HP upon defeating an enemy. Effect triggers up to 1 time every 30s."
     },
     "602205": {
-        "name": "a9acc47c2f4771bd1eecadf3c2b40936",
+        "name": "Guide of Wind",
         "type": 1,
         "id": 602205,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602205",
         "rare": 3,
-        "desc": "adb345207dc40f903850f8dbc0691048"
+        "desc": "When casting skills, gathers enemies together and deals DMG equal to 800% of ATK. Effect triggers up to 1 time every 8s."
     },
     "602206": {
-        "name": "65712e6eb972289832c8d27fd38df827",
+        "name": "Intuition Field",
         "type": 1,
         "id": 602206,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602206",
         "rare": 1,
-        "desc": "b3139e93667662d4cb71e93d629b35ed"
+        "desc": "Team leader's ATK +30% when there are other allied Mods nearby."
     },
     "602207": {
-        "name": "3451803db4813be2285a46f3930d6b70",
+        "name": "Extreme Assistance",
         "type": 1,
         "id": 602207,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602207",
         "rare": 1,
-        "desc": "23a9b06b7c26136e592997e8bc689f35"
+        "desc": "When 4 or more enemies are nearby, ATK +20% and Dodge Energy recovery speed +100%."
     },
     "602208": {
-        "name": "382e6aa9ea027f8da20db2377f852660",
+        "name": "Specialized Measures",
         "type": 1,
         "id": 602208,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602208",
         "rare": 2,
-        "desc": "0669930b0b8bae7306ae90e6fb82ffa1"
+        "desc": "DMG to elite enemies and bosses +50%. DMG taken from elite enemies and bosses -10%."
     },
     "602209": {
-        "name": "29ee73c9e13679ee01bf6b08272888a8",
+        "name": "Misfortune",
         "type": 1,
         "id": 602209,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602209",
         "rare": 2,
-        "desc": "01c2c6b31bb52b42b110d966f8f4ef68"
+        "desc": "DMG to normal enemies -15%. However, there is a 5% chance of immediately defeating normal enemies. Effect triggers up to 1 time every 1s."
     },
     "602210": {
-        "name": "ca014560b62d612c0522a60ee9283089",
+        "name": "Overloaded Core",
         "type": 1,
         "id": 602210,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602210",
         "rare": 2,
-        "desc": "3873157e9c3c09b47a8324b0c4876118"
+        "desc": "ATK +50%. ATK +5% (extra) upon inflicting DMG. Once this ATK boost reaches 100%, ATK -30% for 4s."
     },
     "602211": {
-        "name": "4dcd10de247697dd572fd37d5632c417",
+        "name": "Feverish Sputter ",
         "type": 1,
         "id": 602211,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602211",
         "rare": 2,
-        "desc": "cf7072c1243fbc25b3b1c26a216a8470"
+        "desc": "Normal Attack also deals a Sputter DMG equal to 50% ATK."
     },
     "602212": {
-        "name": "6d1e3fbdd96d032b6aa8293e43809fe3",
+        "name": "Power Jump",
         "type": 1,
         "id": 602212,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602212",
         "rare": 3,
-        "desc": "0c6174a08785e762f4b916199912b51a"
+        "desc": "Upon triggering Dodge effect, summons a lance to deal DMG equal to 1,400% of ATK. Effect triggers up to 1 time every 8s."
     },
     "602213": {
-        "name": "01eef1516503246b0d1dba592164a4b9",
+        "name": "Energy Shield ",
         "type": 1,
         "id": 602213,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602213",
         "rare": 2,
-        "desc": "4a6e172d66618674bb265ddd3a2b63fe"
+        "desc": "Generates a Shield equal to 8% of HP. Effect triggers up to 1 time every 5s."
     },
     "602214": {
-        "name": "1118c81a9d1cdb4dca1e54ce0603d0d2",
+        "name": "Concentrated Conversion",
         "type": 1,
         "id": 602214,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602214",
         "rare": 2,
-        "desc": "788d26db4dadf9c9fb0b66abf57d0f87"
+        "desc": "DMG +100% when only one skill is in CD as displayed on screen."
     },
     "602215": {
-        "name": "aa1e33ec31f7228bee7a377191d43522",
+        "name": "Healing Converter ",
         "type": 1,
         "id": 602215,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602215",
         "rare": 2,
-        "desc": "6b20a7b77ae407476c58959caffeca31"
+        "desc": "This device will be charged when healing. Once fully charged, it deals DMG equal to 2,000% of ATK on surrounding enemies."
     },
     "602216": {
-        "name": "b3ea6aa2586c0e8ab7950ccf570d4710",
+        "name": "Power Execution",
         "type": 1,
         "id": 602216,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602216",
         "rare": 3,
-        "desc": "ab950edc5c053ee7273fa5d2220a14f6"
+        "desc": "Tosses a giant hammer straight ahead, inflicting DMG equal to 1,000% ATK and inflicting massive DEF Penetration when Dodge effect is triggered. Effect triggers up to 1 time every 8s."
     },
     "602301": {
-        "name": "44a32ad839e946cfb7f49702c6dc7a06",
+        "name": "AGI Mecha Repair",
         "type": 2,
         "id": 602301,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602301",
         "rare": 1,
-        "desc": "409fbd609436ac1b90a67846ce957ae9"
+        "desc": "Restores 20% HP to all defense towers."
     },
     "602302": {
-        "name": "3c832b2b4c9356039e543fbf492cec6d",
+        "name": "Unstable Field",
         "type": 2,
         "id": 602302,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602302",
         "rare": 2,
-        "desc": "d12b8020ce327d5957d92b2c1c18f8f5"
+        "desc": "For enemies near the defense tower, reduces their DMG by 10% and Movement SPD by 25%."
     },
     "602303": {
-        "name": "291e5f8863dd7682ee5e333057dde2f6",
+        "name": "Stress Interrupt",
         "type": 2,
         "id": 602303,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602303",
         "rare": 3,
-        "desc": "8457bc4ff3bafd9c3d736642f8848d95"
+        "desc": "When defense tower's HP is reduced to 80%, 60%, and 30%, deals DMG equal to 30% of Max HP to all enemies and inflicts Stun on them for 4s, lowering enemies' Movement SPD by 20%."
     },
     "602304": {
-        "name": "a9af8b38dde676b8b482de5e4ae2ca1b",
+        "name": "Final Battlefront ",
         "type": 2,
         "id": 602304,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602304",
         "rare": 1,
-        "desc": "39c02d7bb4b244e6c1da9633a302622a"
+        "desc": "When defense tower's HP falls below 20%, DMG dealt by Mods nearby +120%."
     },
     "602305": {
-        "name": "a4c708227149798a5e2366c454a035c4",
+        "name": "Periodic Shock",
         "type": 2,
         "id": 602305,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602305",
         "rare": 2,
-        "desc": "ff617014ab38fe764b349bcd30e8548a"
+        "desc": "The defense tower sets off a shockwave in the surrounding area every 5s, dealing DMG equal to 15% of HP to enemies hit and inflicting Stun on them for 0.5s."
     },
     "602306": {
-        "name": "4414caefb294cc4967c3f38b97c0e023",
+        "name": "Tough Armor ",
         "type": 2,
         "id": 602306,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602306",
         "rare": 1,
-        "desc": "54266c57a9f020c1f309f8efea0b5a0d"
+        "desc": "DMG taken by the defense tower -10%."
     },
     "602307": {
-        "name": "5850e0337817b6094cac2d442594a5ac",
+        "name": "Limitless Suppression",
         "type": 2,
         "id": 602307,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602307",
         "rare": 2,
-        "desc": "8254bf2efbaa3c44a1e16f03fca2c491"
+        "desc": "All attribute RES -40% for 3s for enemies hit by the defense tower."
     },
     "602308": {
-        "name": "712d0589ed614ae555938bf38a1d8f13",
+        "name": "Artillery Loading",
         "type": 2,
         "id": 602308,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602308",
         "rare": 1,
-        "desc": "55eea9a9a98d3624bbae7445a19b60b9"
+        "desc": "Mods surrounding the defense tower have a 20% chance of launching a missile, inflicting DMG equal to 100% of the Mod's ATK."
     },
     "602309": {
-        "name": "7459016b4a7afbfb9d881e21fa1f5389",
+        "name": "Steadfast Front",
         "type": 2,
         "id": 602309,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602309",
         "rare": 1,
-        "desc": "d0784fb5369a301661cbdeb28dce75a9"
+        "desc": "ATK +30% for Mods near the defense tower."
     },
     "602310": {
-        "name": "cae156604e4c56df62d747cdecfbd2ec",
+        "name": "Emergency Fund",
         "type": 2,
         "id": 602310,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602310",
         "rare": 1,
-        "desc": "65c8c1953b777ea259912ef4aebdfc54"
+        "desc": "Grants 20 extra coins to all team members each time a Boost is purchased at a defense tower."
     },
     "602311": {
-        "name": "06360f7329f5e806c65032b54304dca8",
+        "name": "Financial Support Pact",
         "type": 2,
         "id": 602311,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602311",
         "rare": 1,
-        "desc": "554bbec99e4bf649a89bf349a9c55c61"
+        "desc": "Grants 30 extra coins to all team members during each readying phase."
     },
     "602312": {
-        "name": "8959f38d84ec0a294f37ddeb1a1d831c",
+        "name": "Thorny Armor",
         "type": 2,
         "id": 602312,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602312",
         "rare": 1,
-        "desc": "3725a62b98d491477ddd5f04da1abe0a"
+        "desc": "Deals DMG equal to 10% of HP to enemies that attack the defense tower. Effect triggers up to 1 time every 2s."
     },
     "602313": {
-        "name": "350f28bf9e4d99152eb8ef3cdbac5af5",
+        "name": "Defense Field Reorganization",
         "type": 2,
         "id": 602313,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602313",
         "rare": 4,
-        "desc": "ce1c5d46dacacf500227cc66b60a8a6d"
+        "desc": "Grants the Mod a special field. The Mod and the surrounding Mods take 10%/15%/20%/25%/30% less DMG. When the Mod triggers Zero Time themselves, restores 2%/4%/6%/8%/10% HP to all allied Mods. (Effect increases based on the number of Topology Modules selected)"
     },
     "602314": {
-        "name": "758ed37c69018174c984a3d02542358e",
+        "name": "Revolving Field Reorganization",
         "type": 2,
         "id": 602314,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602314",
         "rare": 4,
-        "desc": "967c275034f396d87c07b28136856aa4"
+        "desc": "Grants the Mod a special field. The Mod's and the surrounding Mods' Skill CD -10%/15%/20%/25%/30%. When Mods within the field cast skills, randomly resets CD for 1 skill. Effect triggers up to 1 time every 3s. (Effect increases based on the number of Topology Modules selected)"
     },
     "602315": {
-        "name": "1bc4a30b932fa3d0e7338eef79382f84",
+        "name": "Attack Field Reorganization",
         "type": 2,
         "id": 602315,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602315",
         "rare": 4,
-        "desc": "908bc0a9ee7bf5b6dbab37b0e0f9b53c"
+        "desc": "Grants the Mod a special field. The Mod's and the surrounding Mods' ATK +10%/15%/20%/25%/30%. When the Mod casts the Ultimate Skill, the All-attribute RES of enemies hit -10%/15%/20%/25%/30% for 5s. (Effect increases based on the number of Topology Modules selected)"
     },
     "602316": {
-        "name": "1b5424e3954fb548c1df426ed4a55989",
+        "name": "Nightmare",
         "type": 2,
         "id": 602316,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602316",
         "rare": 2,
-        "desc": "b64d4c66cc5968f80b3d228be793a9b5"
+        "desc": "Periodically inflicts Nightmare state on 1 enemy, making them unable to attack or move. Once they are defeated, the state transfers to another enemy."
     },
     "602317": {
-        "name": "3fd3b8ff0ccc7908185dd49a9776c349",
+        "name": "Coexistence",
         "type": 2,
         "id": 602317,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602317",
         "rare": 1,
-        "desc": "030ca8c198e9ab2cc551823dff9e1ffc"
+        "desc": "When the defense tower is attacked, there is a 15% chance of transferring the DMG taken to a random Mod nearby. This Mod takes DMG equal to 1% of HP."
     },
     "602318": {
-        "name": "efacadba527c7614a4246193640403f0",
+        "name": "Continuous Pulse",
         "type": 2,
         "id": 602318,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602318",
         "rare": 2,
-        "desc": "19350c1075e738a25e1593f11df8385c"
+        "desc": "The defense tower emits an electrical current every 5s. When it hits an enemy, the current will be conducted up to 5 times, dealing DMG on enemies hit equal to 5,000% of tower's ATK."
     },
     "602319": {
-        "name": "a12d9571bad99ff9a505653733018167",
+        "name": "Precise Cutting System",
         "type": 2,
         "id": 602319,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602319",
         "rare": 2,
-        "desc": "029985b6a27bc8b0f65de1862cb07fad"
+        "desc": "Reduces enemies' Max DEF Penetration stat by 50%."
     },
     "602401": {
-        "name": "e1be9b0e50807044c31cf78d5eeb9bf9",
+        "name": "A Price to Pay",
         "type": 3,
         "id": 602401,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602401",
         "rare": 5,
-        "desc": "be029fe4b57f4245d0dd7b3a20695513"
+        "desc": "Immediately destroys the current defense tower. Mod's CD +30%. Total ATK +120%. Dodge Energy recovery speed +100%. \"But... at what cost?\""
     },
     "602402": {
-        "name": "30c72d30be1b5a7b279f6b0abbd9502f",
+        "name": "Projection",
         "type": 3,
         "id": 602402,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602402",
         "rare": 5,
-        "desc": "a4e9354c4532b166df8718af2b2c8e8c"
+        "desc": "Defeat enemies to construct these code effects. Scythe Wavers: Chops forward each time Dodge effect is triggered, dealing DMG equal to 1,000% of ATK. Security Forces: Creates a positional attack each time Dodge effect is triggered, dealing DMG equal to 1,200% of ATK. Minotaur: Charges the enemy at the target point each time Dodge effect is triggered, dealing DMG equal to 2,000% of ATK."
     },
     "602403": {
-        "name": "ffa131d910ad94baa388277d10bfbf3e",
+        "name": "Fixed Path",
         "type": 3,
         "id": 602403,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602403",
         "rare": 5,
-        "desc": "8d07787f9365faaf58d544d8f4e34eee"
+        "desc": "When Dodge effect is triggered, locks the currently locked-on enemy, inflicting Stasis on them for 5s. Effect has a 12s CD."
     },
     "602404": {
-        "name": "de84233d39ced24ded522163b2e0ed93",
+        "name": "Feather of Luck ",
         "type": 3,
         "id": 602404,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602404",
         "rare": 5,
-        "desc": "8bb6f184c150e41dcf51aeffb09e8a3c"
+        "desc": "Become unusually lucky: Activates a judgment each time you take DMG, with a 40% chance of dodging this DMG. Activates a judgment upon each attack, with a 40% chance of triggering a \"Slowdown Attack,\" slowing the target enemy and reducing the DMG dealt by them for 5s."
     },
     "get_id_list_by_type": {
         "3": [

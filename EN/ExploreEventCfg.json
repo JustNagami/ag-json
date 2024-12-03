@@ -1,8 +1,8 @@
 {
     "10001": {
-        "description": "5031a80943caeb487cb15670efd12fcf",
-        "effect_description": "48bf8b95320d427645becc15d9a46146",
-        "event_name": "eb3f0f4b9a8f72d30f32606ec99c97ae",
+        "description": "\"Dad, I'm back!\"\n\"Ah, are you here to buy clothes? Please come in, come in... Eh? To-Toki...?! What are you doing here?\"\n\"Huh? Why are you so surprised? School's out, so I came back... It seems like you haven't been using your brain much because there aren't many customers in the shop, Dad...\"\n\"Right, right, school's on break... I'm getting forgetful, haha.\"",
+        "effect_description": "Exploration Token +<color=#F6C800>5%</color>",
+        "event_name": "A Clothing Shop ",
         "id": 10001,
         "effect": [
             1,
@@ -10,9 +10,9 @@
         ]
     },
     "10002": {
-        "description": "491ab6b2eab9db7ed93ae159d4143dda",
-        "effect_description": "f5d20bbbdb15d5ef277935a1f440ace8",
-        "event_name": "1128c4edb39a32585d54e333e602f77b",
+        "description": "\"The Tin Canner is really awesome!\"\n\"Captain West Coast is obviously more powerful!\"\n\"If you ask me, Toast Master is the strongest overall!\"\n\"You don't agree? Then let's battle to find out!\"",
+        "effect_description": "Exploration EXP +8%",
+        "event_name": "Power Fight ",
         "id": 10002,
         "effect": [
             2,
@@ -20,9 +20,9 @@
         ]
     },
     "10003": {
-        "description": "101d87b5bae75a32d50989779a03f9be",
-        "effect_description": "cfc9d540bd042622041a7bf4adf60ea8",
-        "event_name": "507feca80d5f396874dcd6adea14419d",
+        "description": "\"The neighboring grandma's cat... hasn't it already... but recently, I heard cat meows in her backyard again. Could it be that grandma has gotten a new one?\"\n\"Oh, about that. I've seen it recently too, and it looks just like the same cat as before.\"\n\"How strange. I vividly remember that the cat was too old to move anymore, so how could it now...\"\n\"Anyhow, it's fine as long as that grandma is happy.\"\n\"...But from what I know, the current one isn't real; it's a mechanical cat made by a skilled engineer.\"",
+        "effect_description": "Exploration EXP +10%",
+        "event_name": "Zealous Engineer ",
         "id": 10003,
         "effect": [
             2,
@@ -30,9 +30,9 @@
         ]
     },
     "10004": {
-        "description": "ab4b3052cad1371bc463a25adcdef4c1",
-        "effect_description": "734382981f0ba7be29e00d3c3322bc38",
-        "event_name": "83d22f3dfd6693bd3876689e78986b48",
+        "description": "\"Whenever I visit, there are flowers blooming in the park.\"\n\"After all, the main attraction of this central park is this flower bed.\"\n\"The last time I was here, it was the season for hydrangeas, but it's already over by now.\"\n\"We'll have to wait until next year...\"",
+        "effect_description": "Exploration Token +<color=#F6C800>10%</color>",
+        "event_name": "Flower Season Not Coming ",
         "id": 10004,
         "effect": [
             1,
@@ -40,9 +40,9 @@
         ]
     },
     "10005": {
-        "description": "100ef7b0c839577f5bc3f5fb73c1c3d5",
-        "effect_description": "581bdca74b9241eb9fe489d9cf7e4f6d",
-        "event_name": "7c003dcee2ec6d30dfe8436608e11fbe",
+        "description": "\"Frankly speaking, I see that grandpa who runs every day as a kind of clock... although it sounds a bit impolite.\"\n\"For example... in twenty seconds, he's going to come running around that corner.\"\n\"Which grandpa are you talking about?\"\n\"You know... the one with very white hair, very white beard, and very white teeth.\"",
+        "effect_description": "Exploration Token +<color=#F6C800>15%</color>",
+        "event_name": "Grandpa Who Loves Working Out ",
         "id": 10005,
         "effect": [
             1,
@@ -50,9 +50,9 @@
         ]
     },
     "20001": {
-        "description": "e7af4de62ed99cd29d4e1f252b0ecd34",
-        "effect_description": "402bcef84a2c0a339ce33f2577e5adc1",
-        "event_name": "d3c486777c60eb2ed5b6ded4dd84bd1d",
+        "description": "\"Glory to Spealght Industries! Glory to Spealght Industries! Glory to Spealght Industries!...\"\n\"Is that waiter robot broken? Why does it sound like a broken record?\"\n\"I heard it was malfunctioning, but that beverage shop owner specially salvaged it.\"\n\"After all, his shop sells orange juice... And that robot is something like a good luck charm.\"",
+        "effect_description": "Exploration Token +5%",
+        "event_name": "Fortune Cat? ",
         "id": 20001,
         "effect": [
             1,
@@ -60,9 +60,9 @@
         ]
     },
     "20002": {
-        "description": "840610d3dc8707f8b045522e2e8cae37",
-        "effect_description": "a084df5b64f18837b66a42f3bda5de27",
-        "event_name": "dc770a44cc9c1645bb7ebbede68503f8",
+        "description": "\"How come these security guards look different from the previous ones?\"\n\"Hey, take a good look, those aren't ordinary security guards...\"",
+        "effect_description": "Exploration EXP +8%",
+        "event_name": "In front of A Factory ",
         "id": 20002,
         "effect": [
             2,
@@ -70,9 +70,9 @@
         ]
     },
     "20003": {
-        "description": "c64b4e5ea9ccb534ffdaec0b790ac8c1",
-        "effect_description": "940b0aa4639c3ba241606676557a881a",
-        "event_name": "160c019cd140d8d1b886ef70dc9e5aae",
+        "description": "\"Where did Jack of Hearts go?\"\n\"I don't know, but if I remember correctly, there was a night when he came back with a swollen face, and then there was no news of him.\"\n\"What's that term again? Retiring? But in Rostach, what can he possibly do to make a living?\"",
+        "effect_description": "Exploration EXP +10%",
+        "event_name": "Jack of Hearts ",
         "id": 20003,
         "effect": [
             2,
@@ -80,9 +80,9 @@
         ]
     },
     "20004": {
-        "description": "564bda8a2c98003f142222c1fc6b9cce",
-        "effect_description": "bed16415ffa28823b7e5f830f2cba79b",
-        "event_name": "f02a2f52ba8ffe62509bc224616c3b45",
+        "description": "\"That King of the Ring never used to be this way. Back then, no one could beat him.\"\n\"Maybe he's just getting old...\"\n\"No, I think his pride was hurt when he got beat by that young man last time!\"\n\"No, no, he's not that kind of person. Maybe he just got over everything and doesn't care about winning and losing anymore...\"",
+        "effect_description": "Exploration Token +<color=#F6C800>10%</color>",
+        "event_name": "King of the Ring ",
         "id": 20004,
         "effect": [
             1,
@@ -90,9 +90,9 @@
         ]
     },
     "20005": {
-        "description": "da91a5e13de6059ae7251f8be2b4a0a4",
-        "effect_description": "4326ae933753443f2536246f0fdbed0e",
-        "event_name": "52c4db66ce8962ffbc669f09d8684686",
+        "description": "\"Why can't we ever see anyone from Children of Iron?\"\n\"What's the matter? Do you have some business with them?\"\n\"Not really, it's just I met the man in crocodile head last time and he seemed to be nice. But I haven't met him since then... Are they really that busy?\"",
+        "effect_description": "Exploration Token +<color=#F6C800>15%</color>",
+        "event_name": "Suspicious Behavior ",
         "id": 20005,
         "effect": [
             1,
@@ -100,9 +100,9 @@
         ]
     },
     "30001": {
-        "description": "79df62894ad0c45faaed9965b120e6e0",
-        "effect_description": "5e718664fc9aa8526fefcf99cd064a15",
-        "event_name": "0e782748dc1bb19b99cd2c616acb0d5c",
+        "description": "\"Where is that takoyaki stand you mentioned last time?\"\n\"Um, I can't remember too clearly, but it's easy to find. The owner has a crutch, and his daughter's always by his side.\"\n\"Oh, then that stand up ahead should be the one... Are the takoyaki really that good?\"\n\"I guarantee that they're they best takoyaki in Shimogyou!\"",
+        "effect_description": "Exploration Token +5%",
+        "event_name": "Festival Street ",
         "id": 30001,
         "effect": [
             1,
@@ -110,9 +110,9 @@
         ]
     },
     "30002": {
-        "description": "501b2d69ed82851dfd880eb42003b73c",
-        "effect_description": "77c346eb277640124eeb2fc5614118c1",
-        "event_name": "709f62f1cb6555c50327fb98089784c7",
+        "description": "\"Long ago, there was a songstress named 'Aoi.' Her singing was truly unforgettable...\"\n\"If her singing was that good, why did she not ever become famous?\"\n\"Word is, she was selected to become a maid for the Miyahebi Family, and no one ever saw her again.\"\n\"The Miyahebi Family...\"",
+        "effect_description": "Exploration EXP +8%",
+        "event_name": "News ",
         "id": 30002,
         "effect": [
             2,
@@ -120,9 +120,9 @@
         ]
     },
     "30003": {
-        "description": "3b367822e16c758609fe2d3fcd3bff5d",
-        "effect_description": "3c141a88898dec9dcc45b1817bbd24ec",
-        "event_name": "4bf33c222e28a6b433f309177eacea86",
+        "description": "\"After all these years, it has nearly lost its original appearance... To think, when he first picked up a brush to draw, Kuujaku was still a young lad.\"\n\"Who knows where he and how his artwork is now.\"\n\"Life is sure difficult...\"",
+        "effect_description": "Exploration EXP +10%",
+        "event_name": "Old Job ",
         "id": 30003,
         "effect": [
             2,
@@ -130,9 +130,9 @@
         ]
     },
     "30004": {
-        "description": "8445b79dbfaf930f17b85361876b10c4",
-        "effect_description": "c76fc55293550cf9dee50c49691d0954",
-        "event_name": "dbc0f936b945a15b9aa4a6c9a2d1f095",
+        "description": "\"Why would the captain put a vending machine here?\"\n\"...Maybe he thinks it's necessary to serve drinks here.\"\n\"But why make it coin-operated... Why not just buy a regular drink machine?\"",
+        "effect_description": "Exploration Token +<color=#F6C800>10%</color>",
+        "event_name": "Beverage Vending Machine ",
         "id": 30004,
         "effect": [
             1,
@@ -140,9 +140,9 @@
         ]
     },
     "30005": {
-        "description": "5487249153ca553b0c7550b2ca0d83a5",
-        "effect_description": "a27e6229a91c666fa01b815f9b6b0f70",
-        "event_name": "d9787d50479a41406cad8ef22c188ddd",
+        "description": "\"A gun-wielding robber? The partner of the one filing a report has been kidnapped?\"\n\"Hold on, be right there!\"\n\"I was getting bored out of my mind. Come on, hurry up and let's go!\"",
+        "effect_description": "Exploration Token +<color=#F6C800>15%</color>",
+        "event_name": "Pennies from Heaven ",
         "id": 30005,
         "effect": [
             1,
@@ -150,9 +150,9 @@
         ]
     },
     "40001": {
-        "description": "483d07f7b53ea62c2a0176fe66f46167",
-        "effect_description": "3a03ed7861ba2a318e9c86b3be626c5b",
-        "event_name": "c1ec895fedc8dda3b26f190dac3cb4ab",
+        "description": "\"That's the third time this month... Can't they just hire some proper coachmen to drive the carriages?\"\n\"What's going on? ...Oh, this again. I remember that, last time, it was Senator Cadyllon's carriage.\"\nThe horses pulling the carriage are leisurely enjoying a \"buffet\" in front of the vegetable shop.\n\"Say, maybe we should put up a fence in front of the shop?\"",
+        "effect_description": "Exploration Token +<color=#F6C800>5%</color>",
+        "event_name": "Buffet ",
         "id": 40001,
         "effect": [
             1,
@@ -160,9 +160,9 @@
         ]
     },
     "40002": {
-        "description": "f013ea09d355367b1882aa6626c8a1e9",
-        "effect_description": "198bcc92b2ffddba6958a4104d26fe40",
-        "event_name": "ab07f262878f2507e61896b66c6d5d06",
+        "description": "\"No, no mere brush strokes could possibly describe her beauty... That blessed and perfect body she has...\"\n\"I don't get it... I don't get it... Ophelia, where are you? Where do I have to go to find you?\"\n\"Please forgive me, I can't portray your perfect face with my lacking brush strokes... Ophelia...\"",
+        "effect_description": "Exploration EXP +8%",
+        "event_name": "Painter's Fond Dream ",
         "id": 40002,
         "effect": [
             2,
@@ -170,9 +170,9 @@
         ]
     },
     "40003": {
-        "description": "ec6eeb0ee7f0726797db277e65eb5c39",
-        "effect_description": "c5675668f74aa93c5d5c76498460f8a3",
-        "event_name": "32d48493961f2a8cbadd13d23078bc9b",
+        "description": "\"The results from the qualification exam are here!\"\nThe brown-haired boy squinted both eyes, afraid to open the results.\n\"What to do. If I don't pass... But maybe I did... But what if I didn't...\"\nA few minutes later, a loud, resounding scream echoed throughout the house.",
+        "effect_description": "Exploration EXP +10%",
+        "event_name": "Congratulations! ",
         "id": 40003,
         "effect": [
             2,
@@ -180,9 +180,9 @@
         ]
     },
     "40004": {
-        "description": "cf95693ebc92d48b1e28cbfedcad5ee0",
-        "effect_description": "e71a6272b1beb1a6b46c5e6ccf3952b7",
-        "event_name": "8f621e1db1fa2ce0043453f9383c74fb",
+        "description": "\"Searching records... Search complete. No results found in permitted list.\"\n\"Those not on the permitted list... are intruders.\"",
+        "effect_description": "Exploration Token +<color=#F6C800>10%</color>",
+        "event_name": "Strange Statue ",
         "id": 40004,
         "effect": [
             1,
@@ -190,9 +190,9 @@
         ]
     },
     "40005": {
-        "description": "30da521204dafbbc10a2933bedaa89cb",
-        "effect_description": "027d5379828bb085a0e5bb9d095e8cf9",
-        "event_name": "34c6fbb135a18fb5a112dc3415c3a568",
+        "description": "\"Ground fireworks? You want to go see that kind of thing? I remember it caused all kinds of accidents! You'd better think twice!\"\n\"Ah? Don't tell me you don't watch Moonlight Salon? Their recent performances have all been quite a hit!\"\n\"No, don't go, listen to me!\"\n\"But it's really quite something... Here, take a look...\"",
+        "effect_description": "Exploration Token +<color=#F6C800>15%</color>",
+        "event_name": "Persuade ",
         "id": 40005,
         "effect": [
             1,
@@ -200,9 +200,9 @@
         ]
     },
     "50001": {
-        "description": "315970ec6da1b1ff2f6acaa3ddba5922",
-        "effect_description": "3c8228c2f12ca764207656aee00103f5",
-        "event_name": "63cfbe620c7bd3e4dcd3651e87018e2d",
+        "description": "\"Huff huff\u2014Can we fight back the enemies outside the city walls?\"\n\"With the Yaoguai banished, I may return in peace!\"\n\"Congratulations! This 'Huffy Hula Hoop' is now yours!\"\n\"Awesome!\"",
+        "effect_description": "Exploration Token +5%",
+        "event_name": "Comic Signing Session ",
         "id": 50001,
         "effect": [
             1,
@@ -210,9 +210,9 @@
         ]
     },
     "50002": {
-        "description": "a79a417960858b8e857f48d0d2550e3f",
-        "effect_description": "63adae949c7c38a1db34ab5b9b7c1ce1",
-        "event_name": "ab881d7a3cd458cce5c1780bfd35da6a",
+        "description": "\"Mr. Yunweng, what happened to the \"Along the Luo River\" in your shop?\"\n\"I sold it recently.\"\n\"I'll say, your work is really quite something!\"\n\"Hm... Maybe so.\"",
+        "effect_description": "Exploration EXP +8%",
+        "event_name": "Art Gallery ",
         "id": 50002,
         "effect": [
             2,
@@ -220,9 +220,9 @@
         ]
     },
     "50003": {
-        "description": "ebf24c70182fd6eafc66614341ad8920",
-        "effect_description": "bd0a599eefaf8c3e88343a9bedbb6483",
-        "event_name": "6f1d1caa1fb4fe639b863de259ed2e58",
+        "description": "\"Was that guest asking whether we've changed our mapo tofu recipe?\"\n\"Yeah... Oh, I thought she looked familiar. Wasn't that chief Gengchen just now?\"\n\"Maybe we didn't heat it just right or added too less seasoning. Or maybe some other reasons...\"\n\"But I think chief Gengchen should just tell us directly if she thinks the flavor is off. There's no need to worry so much about it.\"",
+        "effect_description": "Exploration EXP +10%",
+        "event_name": "Taste of Mapo Tofu ",
         "id": 50003,
         "effect": [
             2,
@@ -230,9 +230,9 @@
         ]
     },
     "50004": {
-        "description": "f87755a15dac264c21198a357ef33bf1",
-        "effect_description": "79a12e4cf35cbf60f08c127cbbf4f018",
-        "event_name": "de020af267cb0597f37a86ea70f3c059",
+        "description": "\"Why is there such a loud dog barking?\"\n\"Sounds like several dogs are chasing after someone.\"\n\"Wait, look at the person being chased...\"\n\"...Isn't that Agent Mengzhang! What's going on!\"",
+        "effect_description": "Exploration Token +<color=#F6C800>10%</color>",
+        "event_name": "Concerned Citizen ",
         "id": 50004,
         "effect": [
             1,
@@ -240,9 +240,9 @@
         ]
     },
     "50005": {
-        "description": "57a101cb4b6c94d73283d1e72966e44a",
-        "effect_description": "86b5044aa799badded7cc9bd363e64d9",
-        "event_name": "95cec4e8211bd838737a0dbf11223cf7",
+        "description": "\"Here, take this prescription to get the medicine, then take it according to these instructions.\"\n\"Thanks... I didn't expect you to be so good at medical skills. Thanks to you, my last illness has gotten all better...\"\n\"It's nothing, I just picked up some medical knowledge from long-term illness... Every time I went to Vermilion Wellness, whenever Agent Lingguang had time, she would personally teach me the logic and methods of treating illnesses... Eventually, I picked up a thing or two.\"",
+        "effect_description": "Exploration Token +<color=#F6C800>15%</color>",
+        "event_name": "Healing Force ",
         "id": 50005,
         "effect": [
             1,

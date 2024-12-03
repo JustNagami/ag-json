@@ -1,12 +1,12 @@
 {
     "1001": {
         "item_rare": 1,
-        "name": "246c9298cf38748cf64e5c798e500e6d",
+        "name": "Time Backflow: Restore",
         "icon": "21",
         "id": 1001,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "5e883655b21bbc64f0cd6e600decce4e",
+        "desc": "Restores Mod's Combat Resources (Trace, Rage, Energy and Divine Grace) to the maximum when they enter Modified Mode.",
         "params": [
             [
                 517,
@@ -16,12 +16,12 @@
     },
     "1002": {
         "item_rare": 1,
-        "name": "47b75b1b7a0ee5b7e0a17cc31e2839d1",
+        "name": "Time Backflow: Reading",
         "icon": "21",
         "id": 1002,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "79096d36fed6348836bea82557e85c0a",
+        "desc": "Restores Mods' Combat Resources (Trace, Rage, Energy and Divine Grace) to the maximum after they exit Modified Mode.",
         "params": [
             [
                 518,
@@ -31,12 +31,12 @@
     },
     "1003": {
         "item_rare": 1,
-        "name": "3537fef7637549b8b0fc32faa97d3ecf",
+        "name": "Momentum Shift: Combat Resources",
         "icon": "6",
         "id": 1003,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "67dc101626c159e84d7f60bcfe75732a",
+        "desc": "Restores Mods' Combat Resources (Trace, Rage, Energy and Divine Grace) to the maximum when they enter the battle.",
         "params": [
             [
                 501,
@@ -46,12 +46,12 @@
     },
     "1004": {
         "item_rare": 1,
-        "name": "aec1006ac904eefc9935f2c694483825",
+        "name": "Momentum Shift: Ultimate Skill",
         "icon": "6",
         "id": 1004,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "3bea05d9882aa206e5e664ef11ba16b2",
+        "desc": "Restores Mods' Ultimate Skill charge to the maximum when they enter the battle.",
         "params": [
             [
                 502,
@@ -61,12 +61,12 @@
     },
     "1005": {
         "item_rare": 1,
-        "name": "5d94ead435991d1beb0d802888199384",
+        "name": "Momentum Shift: Aether Code",
         "icon": "6",
         "id": 1005,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "d9406b53f9ad1afafba122f8e97dffcf",
+        "desc": "Modifying Level reaches S-Grade instantly when Mods enter the battle.",
         "params": [
             [
                 503,
@@ -76,12 +76,12 @@
     },
     "1006": {
         "item_rare": 1,
-        "name": "db7eb170078032c73b4827f80164a3ee",
+        "name": "Momentum Shift: Insulate",
         "icon": "6",
         "id": 1006,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "55fc40796e4706fee72a551c09c6d3bc",
+        "desc": "Mods gain Super Armor for the first {1} seconds of the battle.",
         "params": [
             [
                 504,
@@ -91,12 +91,12 @@
     },
     "1007": {
         "item_rare": 1,
-        "name": "47052fccf25f393d83a5c3f00a8507a2",
+        "name": "Momentum Shift: Siphon",
         "icon": "6",
         "id": 1007,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "b280629d350d13c7fe4a1228d15cf30d",
+        "desc": "Restores every Mod an additional {1}% of their HP when a Mod hit an enemy with Ultimate Skill.",
         "params": [
             [
                 529,
@@ -106,12 +106,12 @@
     },
     "2001": {
         "item_rare": 2,
-        "name": "f751306e5bdb41b00a0ebe372e54e81a",
+        "name": "Dimensional Imprint: Olympus",
         "icon": "17",
         "id": 2001,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "a186ad7b224a1e050803cac11b045ed1",
+        "desc": "Increases Olympus Mods' DMG.",
         "params": [
             [
                 198,
@@ -121,12 +121,12 @@
     },
     "2002": {
         "item_rare": 2,
-        "name": "0a08215214b02c6f97590b3ded6983e8",
+        "name": "Dimensional Imprint: Nile",
         "icon": "17",
         "id": 2002,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "af9aeec5182575af84aa68b0b7d2e096",
+        "desc": "Increases Nile Mods' DMG.",
         "params": [
             [
                 199,
@@ -136,12 +136,12 @@
     },
     "2003": {
         "item_rare": 2,
-        "name": "b53527290cef7881003a0315dbde46ac",
+        "name": "Dimensional Imprint: Shinou",
         "icon": "17",
         "id": 2003,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "ff8f805e7907d064c80dc682622a8de6",
+        "desc": "Increases Shinou Mods' DMG.",
         "params": [
             [
                 200,
@@ -151,12 +151,12 @@
     },
     "2004": {
         "item_rare": 2,
-        "name": "e3467d8ba35bdacfcac239ca6db9c683",
+        "name": "Dimensional Imprint: Yggdrasill",
         "icon": "17",
         "id": 2004,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "7050ebf12d6178e29f3bd92552e17c52",
+        "desc": "Increases Yggdrasill Mods' DMG.",
         "params": [
             [
                 201,
@@ -166,12 +166,12 @@
     },
     "2005": {
         "item_rare": 2,
-        "name": "ddd8dc06edbf695675aacf8c983e6aeb",
+        "name": "Dimensional Imprint: Asterism",
         "icon": "17",
         "id": 2005,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "710593b674deac885e68a19b9eef02e5",
+        "desc": "Increases Asterism Mods' DMG.",
         "params": [
             [
                 202,
@@ -181,12 +181,12 @@
     },
     "2006": {
         "item_rare": 2,
-        "name": "eee91cfabe82d5dc37303f73c1df7b27",
+        "name": "Perfect Flow: Rage",
         "icon": "20",
         "id": 2006,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "e58fe24bb9f8626d17842658f04214ed",
+        "desc": "Increases the Rage charge speed of Rage Mods by {2}% for {1} seconds after they trigger Dodge effects.",
         "params": [
             [
                 506,
@@ -196,12 +196,12 @@
     },
     "2007": {
         "item_rare": 2,
-        "name": "434329b5d2232c245c8021dee3b9d76a",
+        "name": "Perfect Flow: Recharge",
         "icon": "20",
         "id": 2007,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "acdec18afbef49e123422b95d4ce0350",
+        "desc": "Restores {1} Energy to Energy Mods after they trigger Dodge effects.",
         "params": [
             [
                 507,
@@ -211,12 +211,12 @@
     },
     "2008": {
         "item_rare": 2,
-        "name": "1598432c848559101d2f724d2b0db0a0",
+        "name": "Perfect Flow: Return",
         "icon": "20",
         "id": 2008,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "856aa6297c735a165672eb79a27e8081",
+        "desc": "When a Trace Mod triggers the Dodge effect, they will regain all spent Traces the next time they cast a Trace Skill.",
         "params": [
             [
                 508,
@@ -226,12 +226,12 @@
     },
     "2009": {
         "item_rare": 2,
-        "name": "b98947bd7e0de587ed588668a36910cf",
+        "name": "Perfect Flow: Patch",
         "icon": "20",
         "id": 2009,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "c4fc16f931ce0b109048719054f1da93",
+        "desc": "Restores Divine Grace of Divine Grace Mods to the maximum after they trigger Dodge effects.",
         "params": [
             [
                 509,
@@ -241,12 +241,12 @@
     },
     "2010": {
         "item_rare": 2,
-        "name": "78bdaf4667c1dc2e00957e9659e0a978",
+        "name": "Perfect Flow: Fission",
         "icon": "20",
         "id": 2010,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "b3813a21d031575e95f77c23fb4e3f8d",
+        "desc": "Resets a Mod's Skill 3 cooldown after they trigger Dodge effects.",
         "params": [
             [
                 510,
@@ -256,12 +256,12 @@
     },
     "2011": {
         "item_rare": 2,
-        "name": "d1d297f78b32d680fcdd2b51ba93530b",
+        "name": "ATK Reduction",
         "icon": "20",
         "id": 2011,
         "sub_affix_type": 3,
         "identify_buff": 1,
-        "desc": "d242892ccf044ae58f9d1aff03a16c06",
+        "desc": "Reduces allied Mods' ATK by 30%.",
         "params": [
             [
                 158,
@@ -271,12 +271,12 @@
     },
     "2012": {
         "item_rare": 2,
-        "name": "851f53e830e28ee9cdaeb20ba9d3623a",
+        "name": "Vulnerable",
         "icon": "20",
         "id": 2012,
         "sub_affix_type": 3,
         "identify_buff": 1,
-        "desc": "88b00088772957a5617ae43ffe813641",
+        "desc": "Allied Mods take 30% more DMG.",
         "params": [
             [
                 159,
@@ -286,12 +286,12 @@
     },
     "2013": {
         "item_rare": 2,
-        "name": "39e5ab3833f672890c4538e8d99392f0",
+        "name": "Infernal Bleed",
         "icon": "20",
         "id": 2013,
         "sub_affix_type": 3,
         "identify_buff": 1,
-        "desc": "64b3e5a49ae84012d4a1b413334bbb2e",
+        "desc": "Allied Mods bleed 1% of their max HP every second.",
         "params": [
             [
                 160,
@@ -301,12 +301,12 @@
     },
     "3001": {
         "item_rare": 3,
-        "name": "df4dea444ca45b8c8b48f01edc35e440",
+        "name": "Vectoral Force Field ",
         "icon": "5",
         "id": 3001,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "14c6675ef45ff6558b3c23205f1bb6d2",
+        "desc": "Increases ATK slightly.",
         "params": [
             [
                 236,
@@ -316,12 +316,12 @@
     },
     "3002": {
         "item_rare": 3,
-        "name": "aa94ab0c686c27f7fd1d3a87bcaf08b7",
+        "name": "Calculation Burst ",
         "icon": "2",
         "id": 3002,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "136eaca232d0470641a91340bde204fb",
+        "desc": "Increases Crit Rate slightly.",
         "params": [
             [
                 178,
@@ -331,12 +331,12 @@
     },
     "3003": {
         "item_rare": 3,
-        "name": "911570f8441d9f258d28fc549ffe7f68",
+        "name": "EM Torrent ",
         "icon": "3",
         "id": 3003,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "07ce7df1dc217daebdcc79b7107c5067",
+        "desc": "Increases Crit DMG slightly.",
         "params": [
             [
                 234,
@@ -346,12 +346,12 @@
     },
     "3004": {
         "item_rare": 3,
-        "name": "7e3de5e56e90b966f226eeaa2ecb2892",
+        "name": "Fusion Reaction",
         "icon": "9",
         "id": 3004,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "3910cc29e45b7711a8a6066bcfc224d8",
+        "desc": "Increases Ultimate Skill charge speed significantly.",
         "params": [
             [
                 239,
@@ -361,12 +361,12 @@
     },
     "3005": {
         "item_rare": 3,
-        "name": "2b237386ad191b1125404a6026f48a65",
+        "name": "Entropy Spread",
         "icon": "10",
         "id": 3005,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "ae7b5e8049b5b0e3eac0e9c25be81ee4",
+        "desc": "Increases Rage charge speed significantly.",
         "params": [
             [
                 179,
@@ -376,12 +376,12 @@
     },
     "3006": {
         "item_rare": 3,
-        "name": "8eeebc06769603acb5ad6473cd3ba167",
+        "name": "Mass-Energy Swap",
         "icon": "11",
         "id": 3006,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "6911851eec82a28a6fc8669cddad881e",
+        "desc": "Increases Energy charge speed significantly.",
         "params": [
             [
                 180,
@@ -391,12 +391,12 @@
     },
     "3007": {
         "item_rare": 3,
-        "name": "af5c06f5c23011b6e63c4891af6c32c3",
+        "name": "Aether Tide",
         "icon": "13",
         "id": 3007,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "85ac3a93d941d6591890a185d1b87070",
+        "desc": "Increases Divine Grace charge speed significantly.",
         "params": [
             [
                 181,
@@ -406,12 +406,12 @@
     },
     "3008": {
         "item_rare": 3,
-        "name": "0405f7fc7dc9c2acb9f135dc6403d0ee",
+        "name": "Super Algorithms ",
         "icon": "12",
         "id": 3008,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "fc5e902502d06ca78d4b185f565f968d",
+        "desc": "Increases Trace charge speed significantly.",
         "params": [
             [
                 182,
@@ -421,12 +421,12 @@
     },
     "3009": {
         "item_rare": 3,
-        "name": "efe46724d517be591acbb101de37e1e7",
+        "name": "Spectral Scattering ",
         "icon": "16",
         "id": 3009,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "e86aa405726589185d269a91a15f9e68",
+        "desc": "Increases received Healing effects significantly.",
         "params": [
             [
                 235,
@@ -436,12 +436,12 @@
     },
     "3010": {
         "item_rare": 3,
-        "name": "dcf42c152ba91c9f4f8567d69cc362bb",
+        "name": "Static Field ",
         "icon": "18",
         "id": 3010,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "416cecf7788bb581bc2a990c6e01bc8f",
+        "desc": "Reduces Dodge Energy cost significantly.",
         "params": [
             [
                 177,
@@ -451,12 +451,12 @@
     },
     "3011": {
         "item_rare": 3,
-        "name": "a9aebe81f512431d280a6c759a26bf04",
+        "name": "Superconducting Resonance ",
         "icon": "19",
         "id": 3011,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "9d0b087bd0f12f3b3d6a0f4c13f132d1",
+        "desc": "Increases Dodge Energy charge speed significantly.",
         "params": [
             [
                 547,
@@ -466,12 +466,12 @@
     },
     "3012": {
         "item_rare": 3,
-        "name": "0fdaff077e36d23ed39173ecfa74c659",
+        "name": "Rapid Supercomputing",
         "icon": "20",
         "id": 3012,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "4a2e1e42be480af2a4009ec055289697",
+        "desc": "Restores every Mod {1}% of their max HP after a Mod trigger Extremity Dodge.",
         "params": [
             [
                 512,
@@ -481,12 +481,12 @@
     },
     "3013": {
         "item_rare": 3,
-        "name": "040fdd9a776ae870eb9f8315e0a5c895",
+        "name": "Instant Simulation",
         "icon": "21",
         "id": 3013,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "590e5c5e2b244c0157026b20d0de09bc",
+        "desc": "Randomly resets one of the Mod's skill in cooldown after they cast an Ultimate Skill.",
         "params": [
             [
                 530,
@@ -496,12 +496,12 @@
     },
     "4001": {
         "item_rare": 4,
-        "name": "47d54ee69e52d52dfb92f9992d6bc9e9",
+        "name": "Spiral Filter",
         "icon": "8",
         "id": 4001,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "db5f9c2b9b20199a7dfedfed3424bf09",
+        "desc": "Obtains Rating 30% more quickly",
         "params": [
             [
                 230,
@@ -511,12 +511,12 @@
     },
     "4002": {
         "item_rare": 4,
-        "name": "5dd74f1b7e313137d7dc56fa94fcb5b0",
+        "name": "Wave Function Collapse ",
         "icon": "4",
         "id": 4002,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "c13c10182954f9395bb826862c7aa1b8",
+        "desc": "Increases Final DMG exponentially.",
         "params": [
             [
                 237,
@@ -526,12 +526,12 @@
     },
     "4003": {
         "item_rare": 4,
-        "name": "f6c85df697a6f4e69f12915920455951",
+        "name": "Time Backflow: Update",
         "icon": "21",
         "id": 4003,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "238230964197a6e9d2f14a203b2b930c",
+        "desc": "Restores Mods' Ultimate Skill charge to the maximum when they enter Modified Mode.",
         "params": [
             [
                 519,
@@ -541,12 +541,12 @@
     },
     "4004": {
         "item_rare": 4,
-        "name": "6f20c611e49682dd1eb4d80bd36ea8ba",
+        "name": "Time Backflow: Reset",
         "icon": "21",
         "id": 4004,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "0969e1a2b03f1a2df44d5d97b73d622a",
+        "desc": "Resets Mods all skill and Ultimate Skill cooldowns when they enter Modified Mode.",
         "params": [
             [
                 520,
@@ -556,12 +556,12 @@
     },
     "4005": {
         "item_rare": 4,
-        "name": "18b2fafc1d6bb280b87a6f168b6cbea9",
+        "name": "Time Backflow: Sync",
         "icon": "21",
         "id": 4005,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "769a990857d1dfe9356bcdc2d8b9cc5c",
+        "desc": "Resets Mods all skill and Ultimate Skill cooldowns after they exit Modified Mode.",
         "params": [
             [
                 521,
@@ -571,12 +571,12 @@
     },
     "4006": {
         "item_rare": 4,
-        "name": "6ba5f49588211824eacb1b55e0db7bc7",
+        "name": "Time Backflow: Recover",
         "icon": "21",
         "id": 4006,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "788f7cb7d515b9a04b4fec85b2a7fb9d",
+        "desc": "Restores Mods {1}% of their max HP when they enter Modified Mode.",
         "params": [
             [
                 522,
@@ -586,12 +586,12 @@
     },
     "4007": {
         "item_rare": 4,
-        "name": "63001eafdada1e900ed1bb28004d55df",
+        "name": "Time Backflow: Release",
         "icon": "21",
         "id": 4007,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "b31c177775387c2f7b49490557d3dab4",
+        "desc": "Restores Mods' HP by the percentage of the enemy's max HP lowered in Modified Mode after they exit Modified Mode.",
         "params": [
             [
                 523,
@@ -601,12 +601,12 @@
     },
     "4008": {
         "item_rare": 4,
-        "name": "183ef83596e9ea15cca50fb623e99df9",
+        "name": "Time Backflow: Redrive",
         "icon": "21",
         "id": 4008,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "565658d112562acd4a9dce8c51f47486",
+        "desc": "Extends the duration of Modified Mode by 6 seconds.",
         "params": [
             [
                 524,
@@ -616,12 +616,12 @@
     },
     "4009": {
         "item_rare": 4,
-        "name": "fa8be307ac0d761f4f82202740613237",
+        "name": "Time Backflow: Archive",
         "icon": "21",
         "id": 4009,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "96b999c41240f66e7a738888f3c57373",
+        "desc": "Deals DMG to an enemy equal to 20% of the DMG they take in Modified Mode after Mods exit Modified Mode.",
         "params": [
             [
                 525,
@@ -631,12 +631,12 @@
     },
     "4010": {
         "item_rare": 4,
-        "name": "9d90cacba69308edd24b3684eac4dd3d",
+        "name": "Perfect Flow: Leapfrog",
         "icon": "20",
         "id": 4010,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "9537d2efef29f034e7f0af22abbc9ef7",
+        "desc": "Modifying Level reaches \u03a9-Grade instantly after a Mod triggers Dodge effects.",
         "params": [
             [
                 515,
@@ -646,12 +646,12 @@
     },
     "4011": {
         "item_rare": 4,
-        "name": "cfcde8060239235d90a738a35a5853e0",
+        "name": "Perfect Flow: Ripple",
         "icon": "20",
         "id": 4011,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "c4608c5834304ded6210d1c0f381b73a",
+        "desc": "Reduces the charging time of an allied Mod's Charge skills by {1}% till the end of battle after they trigger Dodge effects; stacks up to 3 times.",
         "params": [
             [
                 516,
@@ -661,12 +661,12 @@
     },
     "4012": {
         "item_rare": 4,
-        "name": "36f3876807ad1acf8ad38532837a9e96",
+        "name": "Photic Leap: Power",
         "icon": "1",
         "id": 4012,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "8e0313431b699094e2a56b0948c584ae",
+        "desc": "Reduces Rage Mods' Rage cost for skills by {1}%.",
         "params": [
             [
                 535,
@@ -676,12 +676,12 @@
     },
     "4013": {
         "item_rare": 4,
-        "name": "d20b3f0007641efe6939ddb7ea3acd86",
+        "name": "Photic Leap: Extreme Speed",
         "icon": "1",
         "id": 4013,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "daa5a7229895895b35ca319cbf58ff27",
+        "desc": "Rage Mods gain {1} Rage every second.",
         "params": [
             [
                 536,
@@ -691,12 +691,12 @@
     },
     "4014": {
         "item_rare": 4,
-        "name": "21b930a6b20781b7c320afc19dcb9d8d",
+        "name": "Photic Leap: EM Storm",
         "icon": "1",
         "id": 4014,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "a51c88da41ba78c229e84a5d11713879",
+        "desc": "Increases Energy charge speed of Energy Mods by 30%.",
         "params": [
             [
                 537,
@@ -706,12 +706,12 @@
     },
     "4015": {
         "item_rare": 4,
-        "name": "6fea3142e10db935655359c8498d67a7",
+        "name": "Photic Leap: Erosion",
         "icon": "1",
         "id": 4015,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "8a114e42f7f7ccd53245bbfb98d94b59",
+        "desc": "Reduces Energy Mods' Energy cost for skills by {1}%.",
         "params": [
             [
                 538,
@@ -721,12 +721,12 @@
     },
     "4016": {
         "item_rare": 4,
-        "name": "9f1e318c3304351222160b40b14c60c6",
+        "name": "Photic Leap: Threshold",
         "icon": "1",
         "id": 4016,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "b71c67f43a8f5b24124702cc2c1a8a6b",
+        "desc": "Trace Mods gain 1 additional Trace whenever they gain Traces from skills.",
         "params": [
             [
                 539,
@@ -736,12 +736,12 @@
     },
     "4017": {
         "item_rare": 4,
-        "name": "2f022f2abe956407698360717e1b22ae",
+        "name": "Photic Leap: Bestow",
         "icon": "1",
         "id": 4017,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "f2654909858ba445b6691b48cc5948c9",
+        "desc": "Restores Trace Mods {1} Trace(s) whenever they use a skill that costs Traces; triggers only once every 7 seconds.",
         "params": [
             [
                 540,
@@ -751,12 +751,12 @@
     },
     "4018": {
         "item_rare": 4,
-        "name": "bcf5023e0c6e9cbb743bb3e92c85996b",
+        "name": "Photic Leap: Rolling Thunder",
         "icon": "1",
         "id": 4018,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "02e5889eaabc47a006895bbfbd8efa07",
+        "desc": "Increases the Divine Grace charge speed of Divine Grace Mods by {1}%.",
         "params": [
             [
                 541,
@@ -766,12 +766,12 @@
     },
     "4019": {
         "item_rare": 4,
-        "name": "ba1852eb65c2f0abad4ebc713c8526d9",
+        "name": "Photic Leap: Inscription",
         "icon": "1",
         "id": 4019,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "9413c0e45de73eb465ae3dfcee29144a",
+        "desc": "Reduces Divine Grace Mods' Divine Grace cost for skills by 30.",
         "params": [
             [
                 542,

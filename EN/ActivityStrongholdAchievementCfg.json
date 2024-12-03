@@ -1,101 +1,101 @@
 {
     "1": {
-        "name": "e34447c37588fce9316c6dd8ca753a0d",
+        "name": "Battle Complete",
         "priority": 9,
         "level": -1,
         "type": -1,
         "id": 1,
         "exp_reward": "",
-        "desc": "aa01e2f81d189fec667eb45350ee84ac"
+        "desc": "Complete 1 wave. "
     },
     "2": {
-        "name": "24a1b2863633a8f984c398f8c0453dda",
+        "name": "Battle Complete",
         "priority": 9,
         "level": -1,
         "type": 1,
         "id": 2,
         "exp_reward": "",
-        "desc": "d226883cde8ca8c62b26cc71baebdda0"
+        "desc": "Complete 1 wave. "
     },
     "3": {
-        "name": "0cfe5813659307dae469c355fd3ef800",
+        "name": "Battle Complete",
         "priority": 9,
         "level": -1,
         "type": -1,
         "id": 3,
         "exp_reward": "",
-        "desc": "b95790a1b8f06066fd2e4c896b9d4d33"
+        "desc": "Complete 1 wave. "
     },
     "4": {
-        "name": "a6592b0ed34dafe5241f312e3ed0d591",
+        "name": "Wave Complete 4",
         "priority": 9,
         "level": -1,
         "type": -1,
         "id": 4,
         "exp_reward": "",
-        "desc": "257a0d7f5b36893fca4550ab8a753f7d"
+        "desc": "Complete 1 wave. "
     },
     "5": {
-        "name": "0c1ae3ab0e1b7867d5103a0c5034b602",
+        "name": "Wave Complete 5",
         "priority": 9,
         "level": -1,
         "type": -1,
         "id": 5,
         "exp_reward": "",
-        "desc": "82e837fe1362e60959cc142867b2a41c"
+        "desc": "Complete 1 wave. "
     },
     "6": {
-        "name": "b48b26d62aee16a28ddd3b0cc741578d",
+        "name": "Wave Complete 6",
         "priority": 9,
         "level": -1,
         "type": -1,
         "id": 6,
         "exp_reward": "",
-        "desc": "ae2a548421471dfbcac0636bb3d36dae"
+        "desc": "Complete 1 wave. "
     },
     "7": {
-        "name": "1010d7a7ff6dd38a631acef00b5b5d89",
+        "name": "Wave Complete 7",
         "priority": 9,
         "level": -1,
         "type": -1,
         "id": 7,
         "exp_reward": "",
-        "desc": "4701d822f5ae3529432e09e2f9fa5336"
+        "desc": "Complete 1 wave. "
     },
     "8": {
-        "name": "eb4b2b805b90d1fcad7af4ef83247cd9",
+        "name": "Easy Peasy",
         "priority": 7,
         "level": -1,
         "type": -1,
         "id": 8,
         "exp_reward": "",
-        "desc": "4f4d54acdacbcbf31e7550acd67dfd1d"
+        "desc": "There are two grades of time spent: X<Y. Complete 1 wave with time spent less than X."
     },
     "9": {
-        "name": "d987b5527aceccebdb0abcf8bc953074",
+        "name": "Evenly Matched ",
         "priority": 7,
         "level": -1,
         "type": -1,
         "id": 9,
         "exp_reward": "",
-        "desc": "9c55199e9bf50728740fcf36d1505a50"
+        "desc": "X< Time spent to complete 1 wave <Y."
     },
     "10": {
-        "name": "79cf31df0677a93dbe62d19413e7db32",
+        "name": "Hard Victory ",
         "priority": 7,
         "level": -1,
         "type": -1,
         "id": 10,
         "exp_reward": "",
-        "desc": "e9f6a7b040e8b7694845e7cb69f36008"
+        "desc": "Complete 1 wave in time >Y."
     },
     "11": {
-        "name": "aec9cf31310edaf0a170dbd926896de0",
+        "name": "Soul Hunter \u2160",
         "priority": 3,
         "level": 1,
         "type": 1,
         "id": 11,
-        "desc": "5b14f065c3b7c17d3429cb951fdc5de8",
+        "desc": "Deals a total of 15,000,000 DMG to normal enemies.",
         "exp_reward": [
             [
                 54026,
@@ -104,12 +104,12 @@
         ]
     },
     "12": {
-        "name": "5e574c580f38237fb24d98d5fcd59606",
+        "name": "Soul Hunter \u2161",
         "priority": 2,
         "level": 2,
         "type": 1,
         "id": 12,
-        "desc": "bff98af2ea615d2e0f8c663fb855abf2",
+        "desc": "Deals a total of 20,000,000 DMG to normal enemies.",
         "exp_reward": [
             [
                 54026,
@@ -118,12 +118,12 @@
         ]
     },
     "13": {
-        "name": "2be1712e088388046fd07ab3ff5a1cfc",
+        "name": "Soul Hunter \u2162",
         "priority": 1,
         "level": 3,
         "type": 1,
         "id": 13,
-        "desc": "c97f6d4ff9ab225dcee60a78c6d78aa6",
+        "desc": "Deals a total of 25,000,000 DMG to normal enemies.",
         "exp_reward": [
             [
                 54026,
@@ -132,12 +132,12 @@
         ]
     },
     "14": {
-        "name": "e84b54bb0484015fddf4d7348b779027",
+        "name": "Guardian \u2160",
         "priority": 3,
         "level": 1,
         "type": 2,
         "id": 14,
-        "desc": "4165d423fac82cd9129b95c255f342d5",
+        "desc": "Deals a total of 15,000,000 DMG to security forces. ",
         "exp_reward": [
             [
                 54026,
@@ -146,12 +146,12 @@
         ]
     },
     "15": {
-        "name": "3936caa3f4c90618e403fba29b64d98c",
+        "name": "Guardian \u2161",
         "priority": 2,
         "level": 2,
         "type": 2,
         "id": 15,
-        "desc": "91849c5a1f44ed76043a56ab48fb1957",
+        "desc": "Deals a total of 20,000,000 DMG to security forces.",
         "exp_reward": [
             [
                 54026,
@@ -160,12 +160,12 @@
         ]
     },
     "16": {
-        "name": "74abf6857287b4e74c3af8faf759c848",
+        "name": "Guardian \u2162",
         "priority": 1,
         "level": 3,
         "type": 2,
         "id": 16,
-        "desc": "a6920b911a1546f3eb89b449a7243ff6",
+        "desc": "Deals a total of 25,000,000 DMG to security forces.",
         "exp_reward": [
             [
                 54026,
@@ -174,12 +174,12 @@
         ]
     },
     "17": {
-        "name": "bc61521d62571142299a5eeff2220d38",
+        "name": "Ruthless \u2160",
         "priority": 3,
         "level": 1,
         "type": 3,
         "id": 17,
-        "desc": "e7a1aedeaee8494c545e3609fcbfda14",
+        "desc": "Deals a total of 4,000,000 DMG to elite enemies.",
         "exp_reward": [
             [
                 54026,
@@ -188,12 +188,12 @@
         ]
     },
     "18": {
-        "name": "0d803a64edf2a480f8bb2f0bd59fa825",
+        "name": "Ruthless \u2161 ",
         "priority": 2,
         "level": 2,
         "type": 3,
         "id": 18,
-        "desc": "65d5103283bca6f876d0bdb0417f239b",
+        "desc": "Deals a total of 8,000,000 DMG to elite enemies.",
         "exp_reward": [
             [
                 54026,
@@ -202,12 +202,12 @@
         ]
     },
     "19": {
-        "name": "e926e1c66766bac5f29bc2b8c051102d",
+        "name": "Ruthless \u2162 ",
         "priority": 1,
         "level": 3,
         "type": 3,
         "id": 19,
-        "desc": "2dd6289f4192174fc7ff7b56345d2580",
+        "desc": "Deals a total of 12,000,000 DMG to elite enemies.",
         "exp_reward": [
             [
                 54026,
@@ -216,12 +216,12 @@
         ]
     },
     "20": {
-        "name": "bb625ed92f621f8b389aaa5296406665",
+        "name": "Biting Frost",
         "priority": 2,
         "level": 1,
         "type": 0,
         "id": 20,
-        "desc": "f34732a8a9ca380a5e16ded502be72c4",
+        "desc": "Inflict Freeze on enemies 10 times.",
         "exp_reward": [
             [
                 54027,
@@ -230,12 +230,12 @@
         ]
     },
     "21": {
-        "name": "9f648c732356bad8bdd92644854c210c",
+        "name": "Dizzy Spell",
         "priority": 2,
         "level": 1,
         "type": 0,
         "id": 21,
-        "desc": "614bb59251cfec6f9d289423171a402e",
+        "desc": "Inflict Stun on enemies 10 times.",
         "exp_reward": [
             [
                 54027,
@@ -244,12 +244,12 @@
         ]
     },
     "22": {
-        "name": "6a8b7e5249d7500f4655fe6d12ab1dba",
+        "name": "No Way Out",
         "priority": 2,
         "level": 1,
         "type": 0,
         "id": 22,
-        "desc": "cc99112dedb75b270c45af3865fe8e71",
+        "desc": "Inflict Shackle on enemies 10 times.",
         "exp_reward": [
             [
                 54027,
@@ -258,12 +258,12 @@
         ]
     },
     "23": {
-        "name": "d9a2fd18fdffddbdd5a2e5f998bdb276",
+        "name": "Scorching Hot",
         "priority": 2,
         "level": 1,
         "type": 0,
         "id": 23,
-        "desc": "9315c66d307b11e33fd3b327b0b28d72",
+        "desc": "Inflict Scorch on enemies 10 times.",
         "exp_reward": [
             [
                 54027,
@@ -272,12 +272,12 @@
         ]
     },
     "24": {
-        "name": "996248e6967824628595fe905be55cc4",
+        "name": "Lasting Wound ",
         "priority": 2,
         "level": 1,
         "type": 0,
         "id": 24,
-        "desc": "5c5af7178ec675a3a42e985f051d8f80",
+        "desc": "Inflict Trauma on enemies 10 times.",
         "exp_reward": [
             [
                 54027,
@@ -286,12 +286,12 @@
         ]
     },
     "25": {
-        "name": "ebf3a77a7157b2f5a31b300559319d22",
+        "name": "Boost Collector \u2160",
         "priority": 3,
         "level": 1,
         "type": 4,
         "id": 25,
-        "desc": "8f33607053d498ad5df5144a05342d30",
+        "desc": "Have 3 boosts during battle.",
         "exp_reward": [
             [
                 54028,
@@ -300,12 +300,12 @@
         ]
     },
     "26": {
-        "name": "1003eb63e44d0653583a71a533f5f399",
+        "name": "Boost Collector \u2161",
         "priority": 2,
         "level": 2,
         "type": 4,
         "id": 26,
-        "desc": "336fc1878451a802a9306d0ff5ccbbc6",
+        "desc": "Have 5 boosts during battle.",
         "exp_reward": [
             [
                 54028,
@@ -314,12 +314,12 @@
         ]
     },
     "27": {
-        "name": "4147eb82d403f942c6b70b98cfb38307",
+        "name": "Boost Collector \u2161I",
         "priority": 1,
         "level": 3,
         "type": 4,
         "id": 27,
-        "desc": "04a0a8d7eed82e0f9785d27151a6fe11",
+        "desc": "Have 7 boosts during battle.",
         "exp_reward": [
             [
                 54028,
@@ -328,12 +328,12 @@
         ]
     },
     "28": {
-        "name": "2136127fc7fa9d9421b65abf546da9d3",
+        "name": "What a Price",
         "priority": 3,
         "level": 1,
         "type": 0,
         "id": 28,
-        "desc": "ae43bf443544953d6af2e1b4b07a78d8",
+        "desc": "Have the boost \"Offering Agreement\" during battle. ",
         "exp_reward": [
             [
                 54028,
@@ -342,12 +342,12 @@
         ]
     },
     "29": {
-        "name": "ff43e286ae3609d7e15d04e9cc7e7349",
+        "name": "Soul Code Reconstruction",
         "priority": 3,
         "level": 1,
         "type": 0,
         "id": 29,
-        "desc": "47707a3bff3d1fbfd9e1ecd71b7f4731",
+        "desc": "Have the boost \"Stolen Soul Code\" during battle.",
         "exp_reward": [
             [
                 54028,
@@ -356,12 +356,12 @@
         ]
     },
     "30": {
-        "name": "8dcf9b2d3cf6e8e74b71037ea1291c7e",
+        "name": "Time Freezer",
         "priority": 3,
         "level": 1,
         "type": 0,
         "id": 30,
-        "desc": "14f24e2b40265e61c023e666a475b3b4",
+        "desc": "Have the boost \"Corroded Chains\" during battle.",
         "exp_reward": [
             [
                 54028,
@@ -370,12 +370,12 @@
         ]
     },
     "31": {
-        "name": "1b2ac7cc5ed875bad9584d8913c8ee50",
+        "name": "Favor of Luck",
         "priority": 3,
         "level": 1,
         "type": 0,
         "id": 31,
-        "desc": "d2398134a0f143d454bdb60b952bb58c",
+        "desc": "Have the boost \"Feather of Luck\" during battle.",
         "exp_reward": [
             [
                 54028,
@@ -384,12 +384,12 @@
         ]
     },
     "32": {
-        "name": "9a070563bc655ca47ca0cfd49d24a40a",
+        "name": "Ultimate Skill Trigger \u2160",
         "priority": 3,
         "level": 1,
         "type": 5,
         "id": 32,
-        "desc": "072adc1eafc67992712915e8f1fbe1c0",
+        "desc": "Trigger Ultimate Skill Boost for a total of 10s in battle.",
         "exp_reward": [
             [
                 54027,
@@ -398,12 +398,12 @@
         ]
     },
     "33": {
-        "name": "a31121ff1ea68f173b1aabf21508ca02",
+        "name": "Ultimate Skill Trigger \u2160I",
         "priority": 2,
         "level": 2,
         "type": 5,
         "id": 33,
-        "desc": "3bfe49423ba5691a13cf9c84815fc9ab",
+        "desc": "Trigger Ultimate Skill Boost for a total of 15s in battle. ",
         "exp_reward": [
             [
                 54027,
@@ -412,12 +412,12 @@
         ]
     },
     "34": {
-        "name": "49c2d05a2c92899abeb144f8c841c635",
+        "name": "Ultimate Skill Trigger \u2160II",
         "priority": 1,
         "level": 3,
         "type": 5,
         "id": 34,
-        "desc": "f6b8411c0ad5dd76b1d126619e66ac25",
+        "desc": "Trigger Ultimate Skill Boost for a total of 20s in battle.",
         "exp_reward": [
             [
                 54027,
@@ -426,12 +426,12 @@
         ]
     },
     "35": {
-        "name": "1f707d6981222eef56cbbe12eb17cc95",
+        "name": "Back to the Wall",
         "priority": 3,
         "level": 1,
         "type": 0,
         "id": 35,
-        "desc": "130dcb1f6fb6732bf0d97564391c7146",
+        "desc": "Only 1 tower remains undefeated in battle.",
         "exp_reward": [
             [
                 54028,

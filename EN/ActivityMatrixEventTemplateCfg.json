@@ -1,7 +1,7 @@
 {
     "1001": {
         "id": 1001,
-        "name": "ccc1ac9c790ff58592f2ae1f75384c8e",
+        "name": "Normal Battle: Aether Code Reward",
         "template_id": 1,
         "event_type": 1,
         "params": [
@@ -28,7 +28,7 @@
     },
     "1002": {
         "id": 1002,
-        "name": "8399baeb2ccac634a59ec6ff766d8b42",
+        "name": "Normal Battle: Aether Code Reward",
         "template_id": 1,
         "event_type": 1,
         "params": [
@@ -49,7 +49,7 @@
     },
     "2001": {
         "id": 2001,
-        "name": "657b9b5dc259e1bac1921109eb690402",
+        "name": "Normal Battle: Sigil Reward",
         "template_id": 1,
         "event_type": 2,
         "params": [
@@ -76,7 +76,7 @@
     },
     "2002": {
         "id": 2002,
-        "name": "80d9bb007bfc6836b41c525f4c3ee25b",
+        "name": "Normal Battle: Sigil Reward",
         "template_id": 1,
         "event_type": 2,
         "params": [
@@ -97,7 +97,7 @@
     },
     "3001": {
         "id": 3001,
-        "name": "2dcc530036847b04078fe60c3cbd17cb",
+        "name": "Normal Battle: Functor Reward",
         "template_id": 1,
         "event_type": 3,
         "params": [
@@ -124,7 +124,7 @@
     },
     "3002": {
         "id": 3002,
-        "name": "1a4c180a554ce10f1033c18427b83189",
+        "name": "Normal Battle: Functor Reward",
         "template_id": 1,
         "event_type": 3,
         "params": [
@@ -145,7 +145,7 @@
     },
     "4001": {
         "id": 4001,
-        "name": "40a2d6b3aa6dcc292604a2b46f9c67f7",
+        "name": "Elite Battle: Functor Reward",
         "template_id": 1,
         "event_type": 4,
         "params": [
@@ -163,7 +163,7 @@
     },
     "4002": {
         "id": 4002,
-        "name": "779e842b8a4ddbcc5ed2d8c5f8deddcb",
+        "name": "Elite Battle: Functor Reward",
         "template_id": 1,
         "event_type": 4,
         "params": [
@@ -181,7 +181,7 @@
     },
     "5001": {
         "id": 5001,
-        "name": "cf63b1eb645e4965d9282ebd527e18c5",
+        "name": "Normal Battle: Coin Reward",
         "template_id": 1,
         "event_type": 5,
         "params": [
@@ -208,7 +208,7 @@
     },
     "5002": {
         "id": 5002,
-        "name": "a61056a00780410a43723548a99bd1a3",
+        "name": "Normal Battle: Coin Reward",
         "template_id": 1,
         "event_type": 5,
         "params": [
@@ -229,7 +229,7 @@
     },
     "6001": {
         "id": 6001,
-        "name": "b9409c16db5b409eb859a7a1c0fe6ca0",
+        "name": "Elite Battle: Coin Reward",
         "template_id": 1,
         "event_type": 6,
         "params": [
@@ -247,7 +247,7 @@
     },
     "6002": {
         "id": 6002,
-        "name": "a5faeb833a113fa4e7d3658c9a5a7d82",
+        "name": "Elite Battle: Coin Reward",
         "template_id": 1,
         "event_type": 6,
         "params": [
@@ -266,7 +266,7 @@
     },
     "7001": {
         "id": 7001,
-        "name": "2423a00bc2f384389831cdfe6c14c72b",
+        "name": "Normal Battle: Treasure Reward",
         "template_id": 1,
         "event_type": 7,
         "params": [
@@ -293,7 +293,7 @@
     },
     "7002": {
         "id": 7002,
-        "name": "181244b5c9460379472555b4370ceb45",
+        "name": "Normal Battle: Treasure Reward",
         "template_id": 1,
         "event_type": 7,
         "params": [
@@ -314,7 +314,7 @@
     },
     "8001": {
         "id": 8001,
-        "name": "71bd99b22a497ea66b1eb2d7647e3116",
+        "name": "Elite Battle: Treasure Reward",
         "template_id": 1,
         "event_type": 8,
         "params": [
@@ -332,7 +332,7 @@
     },
     "8002": {
         "id": 8002,
-        "name": "09f36e50bc764d55296e0e2185332adf",
+        "name": "Elite Battle: Treasure Reward",
         "template_id": 1,
         "event_type": 8,
         "params": [
@@ -350,7 +350,7 @@
     },
     "9001": {
         "id": 9001,
-        "name": "1cd77d0dfb9414120553a97a80ad4f15",
+        "name": "Boss Battle",
         "template_id": 1,
         "event_type": 9,
         "params": [
@@ -360,7 +360,7 @@
     },
     "10001": {
         "id": 10001,
-        "name": "44044fde3ae05ba894b9160aa574ab5d",
+        "name": "Final Boss Battle",
         "template_id": 1,
         "event_type": 10,
         "params": [
@@ -370,7 +370,7 @@
     },
     "11001": {
         "id": 11001,
-        "name": "71a26bdf68afbe45c9ee0b7abdecbfa0",
+        "name": "Dimensional Shop",
         "template_id": 1,
         "event_type": 11,
         "params": [
@@ -406,7 +406,7 @@
     },
     "11002": {
         "id": 11002,
-        "name": "fd6475632f682249048db5f232bb4350",
+        "name": "Dimensional Shop",
         "template_id": 1,
         "event_type": 11,
         "params": [
@@ -442,7 +442,7 @@
     },
     "12001": {
         "id": 12001,
-        "name": "372dc37a9c3c4743cbd151c6dd60e57c",
+        "name": "Opportunity",
         "template_id": 1,
         "event_type": 12,
         "params": [
@@ -468,7 +468,7 @@
     },
     "12002": {
         "id": 12002,
-        "name": "6b9f657c5ac8656afa57d318377f45ec",
+        "name": "Opportunity",
         "template_id": 1,
         "event_type": 12,
         "params": [

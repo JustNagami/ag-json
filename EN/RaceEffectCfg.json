@@ -1,51 +1,51 @@
 {
     "1": {
-        "battle_desc": "6a5a305d45988478948418b2c120c6bf",
-        "name": "efc979205678c16197acc74b98611980",
+        "battle_desc": "All team members' Mod Index Multiplier +40%.",
+        "name": "Olympus",
         "icon2": "com_white_icon_group_1_c",
         "id": 1,
         "icon": "icon_group_1_c",
-        "desc": "d6193c628510f7481f770fa69dfc1d83"
+        "desc": "Modified Mode +2s."
     },
     "2": {
-        "battle_desc": "b1329e6cb54e3b715b21d7dc78690f36",
-        "name": "19b4eee3ac0036f8b1980f6fd3b02625",
+        "battle_desc": "All team members' Crit DMG +15%.",
+        "name": "Nile",
         "icon2": "com_white_icon_group_2_c",
         "id": 2,
         "icon": "icon_group_2_c",
-        "desc": "0a3afe55a2d2ccb5795efdc2229e060a"
+        "desc": "All team members' Crit Rate in Modified Mode +30%."
     },
     "3": {
-        "battle_desc": "30db38a2739cf59fe24375604c0493aa",
-        "name": "33c0685009c786d35a0795efbfec34c2",
+        "battle_desc": "All team members' DMG +5% for every 1 enemy on the field.",
+        "name": "Shinou",
         "icon2": "com_white_icon_group_3_c",
         "id": 3,
         "icon": "icon_group_3_c",
-        "desc": "446a6f7a61a48ed4f475b7c8ff408025"
+        "desc": "Deals DMG to enemies on field equal to 8% of the total DMG dealt in current Modified Mode when the Mod exits Modified Mode."
     },
     "4": {
-        "battle_desc": "52fada4557d5ebd768e2c529b1b2c257",
-        "name": "6f5c57b8821b3f1fc5681eb4b7ad338f",
+        "battle_desc": "Restores all team members' Combat Resources to full when they enter the battle.",
+        "name": "Yggdrasill",
         "icon2": "com_white_icon_group_4_c",
         "id": 4,
         "icon": "icon_group_4_c",
-        "desc": "cbf2b4b5d3d3b3ffb4d6792c7fe46e03"
+        "desc": "Restores all team members' Combat Resources to full when entering Modified Mode. Combat Resources charge rate +100% during Modified Mode."
     },
     "5": {
-        "battle_desc": "4b68d2774cea6369587a1d346981d1b5",
-        "name": "a447525c8af89b7b5b211d5ac110ac25",
+        "battle_desc": "Inflicts DMG that ignores DEF equal to 25% of ATK upon each hit by any member of the team.",
+        "name": "Asterism",
         "icon2": "com_white_icon_group_5_c",
         "id": 5,
         "icon": "icon_group_5_c",
-        "desc": "0dae8e462ee5c8759ef92dd1570af7d2"
+        "desc": "Enemies in Modified Mode take 25% more DMG."
     },
     "9": {
-        "battle_desc": "05138e55d150b6de8dd04c842681f503",
-        "name": "10dbbef126b3bf0fb6dbbad57f7afb20",
+        "battle_desc": "All team members' Rating gain rate +20%. Duration of \u03a9 Modifying Level +5s. When Modifying Level is B/A/S/\u03a9, all team members' ATK +10%/15%/20%/25%.",
+        "name": "Tian Yuan",
         "icon2": "com_white_icon_group_9_c",
         "id": 9,
         "icon": "icon_group_9_c",
-        "desc": "f6d43201ffffaf800f08f88721a497f3"
+        "desc": "Modifying Level is always full at Level \u03a9 in Modified Mode."
     },
     "all": [
         1,
