@@ -2880,6 +2880,78 @@
         "initAISAC": "",
         "detail": "Welcome back, Admin.\n\nComposer: LousikAEy\nCV List:\nVerthandi - \u725b\u5976\u541b\nOsiris - \u769b\u56db\u767d\nLeviathan - \u5218\u96ef\nVidar - \u5218\u96ef\nZenkibo Tengu - \u97e9\u5a07\u5a07"
     },
+    "234": {
+        "cueName": "bgm_activity_3_2_ui",
+        "authorName": "Polymath9/LousikAEy",
+        "ableBGM": 1,
+        "album": 18,
+        "cuesheet": "bgm_activity_3_2_ui",
+        "musicName": "Read A Dream",
+        "id": 234,
+        "awbName": "bgm_activity_3_2_ui",
+        "initAISAC": "",
+        "detail": "Light and airy, sparkling and bright, a distant, blurry, and fragmented dream.\n\nComposer: Polymath9\nArrangers: LousikAEy/Polymath9"
+    },
+    "235": {
+        "cueName": "bgm_activity_3_2_battle_corridor_dream",
+        "authorName": "Polymath9",
+        "ableBGM": 1,
+        "album": 18,
+        "cuesheet": "bgm_activity_3_2_battle_corridor_dream",
+        "musicName": "Painted March",
+        "id": 235,
+        "awbName": "bgm_activity_3_2_battle_corridor_dream",
+        "initAISAC": "",
+        "detail": "Composer: Polymath9"
+    },
+    "236": {
+        "cueName": "bgm_activity_3_2_story_corridor_dream",
+        "authorName": "Polymath9",
+        "ableBGM": 1,
+        "album": 18,
+        "cuesheet": "bgm_activity_3_2_story_corridor_dream",
+        "musicName": "Pillow\u00b7Window\u00b7Rainbow",
+        "id": 236,
+        "awbName": "bgm_activity_3_2_story_corridor_dream",
+        "initAISAC": "",
+        "detail": "Children draw all their imaginations on paper; that's how they see the world.\n\nComposer: Polymath9"
+    },
+    "237": {
+        "cueName": "bgm_activity_3_2_story_corridor_slow",
+        "authorName": "Polymath9",
+        "ableBGM": 1,
+        "album": 18,
+        "cuesheet": "bgm_activity_3_2_story_corridor_slow",
+        "musicName": "Melting Candy",
+        "id": 237,
+        "awbName": "bgm_activity_3_2_story_corridor_slow",
+        "initAISAC": "",
+        "detail": "Walk up the cake stairs, push open the cookie door, and savor the dream melted with candy.\n\nComposer: Polymath9"
+    },
+    "238": {
+        "cueName": "bgm_activity_3_2_story_house_nightmare",
+        "authorName": "Polymath9/LousikAEy",
+        "ableBGM": 1,
+        "album": 18,
+        "cuesheet": "bgm_activity_3_2_story_house_nightmare",
+        "musicName": "Bitter Candy",
+        "id": 238,
+        "awbName": "bgm_activity_3_2_story_house_nightmare",
+        "initAISAC": "",
+        "detail": "She returned home once again, but the candy was no longer sweet.\n\nComposer: Polymath9\nArranger: Composer: Polymath9"
+    },
+    "239": {
+        "cueName": "bgm_minigame_2",
+        "authorName": "LousikAEy",
+        "ableBGM": 1,
+        "album": 18,
+        "cuesheet": "bgm_minigame_2",
+        "musicName": "Recess Time",
+        "id": 239,
+        "awbName": "bgm_minigame_2",
+        "initAISAC": "",
+        "detail": "Composer: LousikAEy"
+    },
     "get_id_list_by_album": [
         [
             1,
@@ -3147,6 +3219,14 @@
             231,
             232,
             233
+        ],
+        [
+            234,
+            235,
+            236,
+            237,
+            238,
+            239
         ]
     ],
     "all": [
@@ -3382,6 +3462,12 @@
         230,
         231,
         232,
-        233
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239
     ]
 }

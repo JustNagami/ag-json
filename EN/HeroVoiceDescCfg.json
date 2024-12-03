@@ -12419,11 +12419,23 @@
         "chara_id": 1074,
         "subtitle_id": 1141
     },
+    "1074114110": {
+        "id": 1074114110,
+        "content": "Hmm... That's about all for today's work... What the?! Um... Huh? Um, it's okay...",
+        "chara_id": 1074,
+        "subtitle_id": 114110
+    },
     "10741151": {
         "id": 10741151,
         "content": "This plan doesn't work for you? No problem, I'll submit a new one shortly.",
         "chara_id": 1074,
         "subtitle_id": 1151
+    },
+    "1074115110": {
+        "id": 1074115110,
+        "content": "This is the partnership budget for this quarter. Here... I believe we can still increase... Oops! Thank goodness I didn't spill it... Um... A-Admin... do you want some? Alright...",
+        "chara_id": 1074,
+        "subtitle_id": 115110
     },
     "10741161": {
         "id": 10741161,
@@ -31052,6 +31064,12 @@
             ],
             "2231": [
                 10742231
+            ],
+            "114110": [
+                1074114110
+            ],
+            "115110": [
+                1074115110
             ]
         },
         "1075": {

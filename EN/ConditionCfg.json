@@ -1556,7 +1556,7 @@
         "progress_show": 0,
         "type": 1017,
         "id": 101701,
-        "desc": "Own the Whispering Waves set.",
+        "desc": "Own the \"Whispering Waves\" set.",
         "params": [
             107602,
             6001
@@ -1606,7 +1606,7 @@
         "progress_show": 0,
         "type": 1017,
         "id": 101706,
-        "desc": "Own Poem of Eventide and Courtyard Echoes.",
+        "desc": "Own \"Poem of Eventide\" and \"Courtyard Echoes\".",
         "params": [
             109501,
             6007
@@ -1616,7 +1616,7 @@
         "progress_show": 0,
         "type": 1017,
         "id": 101707,
-        "desc": "Own Have A Dance With Me? and Yearning of a Dancing Sunset.",
+        "desc": "Own \"Have A Dance With Me?\" and \"Yearning of a Dancing Sunset\".",
         "params": [
             107502,
             6008
@@ -1626,7 +1626,7 @@
         "progress_show": 0,
         "type": 1017,
         "id": 101708,
-        "desc": "Own All Business and Time to Relax.",
+        "desc": "Own \"All Business\" and \"Time to Relax\".",
         "params": [
             107601,
             6009
@@ -1636,7 +1636,7 @@
         "progress_show": 0,
         "type": 1017,
         "id": 101709,
-        "desc": "Own Efficiency First and Moment of Panic.",
+        "desc": "Own \"Efficiency First\" and \"Moment of Panic\".",
         "params": [
             107402,
             6010
@@ -1646,7 +1646,7 @@
         "progress_show": 0,
         "type": 1017,
         "id": 101710,
-        "desc": "Own Stardust and Sleepwalker.",
+        "desc": "Own \"Stardust\" and \"Sleepwalker\".",
         "params": [
             119701,
             6011
@@ -1656,7 +1656,7 @@
         "progress_show": 0,
         "type": 1017,
         "id": 101712,
-        "desc": "Own Purest Blue and Gentle Echo",
+        "desc": "Own \"Purest Blue\" and \"Gentle Echo\".",
         "params": [
             113907,
             6013
@@ -1666,7 +1666,7 @@
         "progress_show": 0,
         "type": 1018,
         "id": 101801,
-        "desc": "Own the Whispering Waves outfit.",
+        "desc": "Own the \"Whispering Waves\" outfit.",
         "params": [
             107602
         ]
@@ -4350,9 +4350,12 @@
         "progress_show": 0,
         "type": 11204,
         "id": 112041,
-        "desc": "Purchase all The Molander of Old items at the Shop.",
+        "desc": "Purchase all items at The Molander of Old (except Hourglass).",
         "params": [
-            216
+            216,
+            [
+                216000002
+            ]
         ]
     },
     "112051": {
@@ -4373,6 +4376,16 @@
         "params": [
             3002,
             240046
+        ]
+    },
+    "112053": {
+        "progress_show": 0,
+        "type": 11205,
+        "id": 112053,
+        "desc": "Obtain Dimglare - Verthandi by completing the event.",
+        "params": [
+            3002,
+            242841
         ]
     },
     "112061": {
@@ -5493,6 +5506,7 @@
         112041,
         112051,
         112052,
+        112053,
         112061,
         112062,
         112063,

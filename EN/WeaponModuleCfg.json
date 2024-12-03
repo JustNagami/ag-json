@@ -3175,6 +3175,240 @@
             1010412
         ]
     },
+    "1184": {
+        "name": "Old Armor",
+        "story": "It's like a robot.\nThe external structure is making the joints stiff and jerky. Verthandi's arms move clumsily, like she's operating a machine lever.\nOn an ordinary, rainy afternoon many years ago, Verthandi was sitting by the window and flipping through a storybook when she saw a picture of a knight carrying himself with an air of dignity. Perhaps she didn't realize then that, one day, she too would be clad in armor with a sword and shield in her hands.\nBut everything has a price\u2014This complex, exquisite armor she'd worked so hard to put on just isn't fitting right somewhere on her arms. Whenever she bends them, the edges of the armor pinch her skin. Not enough to draw blood, but it still delivers a sharp twinge. Verthandi reflexively tries to break it off, but the metallic curvature doesn't budge.\nShe endures this vague discomfort through one training session after another until the indentations are nearly engraved into her arms and she's gotten used to it.\nIt's not that she hasn't considered sending the armor back for adjustments\u2014rather, it's only when she finds her movements hindered in the heat of battle that it even occurs to her. Once the battle is over, she promptly forgets, thus missing each opportunity she gets to resolve the issue. When all is said and done, the problem isn't bad enough to get in the way of victory whatsoever.\nThat is, until a flying chunk of rock comes hurtling toward her and she's unable to summon her shield in time. Meanwhile, there are countless people she wants to protect behind her.\nShe knows her metal armor is sturdy\u2014sturdy enough to smash the rock.\nVerthandi raises her arm. When she raises her arms to block the massive stone, perhaps she hasn't realized yet that, one day, she'd face a mountain on the verge of collapse.\nThe force of the impact embeds the edges of the armor into her skin, sending excruciating pain through her arms.\nThe next time she dons this marred armor, she'll know that the armguards were bent to perfection by that blow.",
+        "task_desc": "In Main Story 15-2-7: Even When Ground to Dust (Normal), clear the stage again.",
+        "id": 1184,
+        "condition": [
+            [
+                50001,
+                50002,
+                50004
+            ],
+            [],
+            [
+                50003
+            ]
+        ],
+        "condition_source": [
+            [
+                [
+                    203,
+                    1184
+                ],
+                [
+                    208,
+                    1184
+                ],
+                [
+                    203,
+                    1184
+                ]
+            ],
+            [],
+            [
+                [
+                    204,
+                    1184
+                ]
+            ]
+        ],
+        "cost": [
+            [
+                [
+                    40504,
+                    24
+                ],
+                [
+                    2,
+                    40000
+                ],
+                [
+                    41501,
+                    10
+                ],
+                [
+                    81184,
+                    5
+                ]
+            ],
+            [
+                [
+                    40203,
+                    24
+                ],
+                [
+                    2,
+                    120000
+                ],
+                [
+                    41501,
+                    20
+                ],
+                [
+                    81184,
+                    10
+                ]
+            ],
+            [
+                [
+                    40203,
+                    40
+                ],
+                [
+                    2,
+                    160000
+                ],
+                [
+                    41501,
+                    30
+                ],
+                [
+                    81184,
+                    15
+                ]
+            ]
+        ],
+        "skill": [
+            [
+                118421,
+                118422,
+                118423,
+                118424
+            ],
+            [
+                118431,
+                118432,
+                118433
+            ],
+            [
+                118441
+            ]
+        ],
+        "source": [
+            309,
+            11115,
+            1011515
+        ]
+    },
+    "1033": {
+        "name": "Unknown Data",
+        "story": "It's late at night, and in the dim laboratory, Heimdall is conducting her 21st round of data validation.\nThe terminal screen casts a blue light on her face as data and theories orbit and tangle in her head, like a spiraling ladder bringing her ever closer to her objective.\nThe Rubik's cube of data before her eyes is an auxiliary Visbane analysis tool that's about to be integrated into the Mimir system. The sheer volume of data calculation and preparation alone that went into this experiment before its launch made it 95% controllable. From there, the theoretical testing only increases its accuracy slightly\u2014Many would dismiss Heimdall's rigor as paranoia bordering on obsession.\n\"If there really is a problem, it'll be borne out in the practical phase. Why waste all this time doing such exhaustive theoretical testing?\" \nAs a matter of fact, she too was once driven by such thinking to rush the newly developed Mimir into service.\nBut she had no way to control the path of Mimir's self-directed learning, and his mind turned out to be wildly different from the AI assistant she'd envisioned. Everything had run counter to her expectations.\n\"Mimir's just a little grumpy. He's still helped us plenty in battle.\" \nWhile this feedback was far from negative, Heimdall took it to be just another form of consolation.\nThis outcome was due to nothing more than chance\u2014Like a lonesome boat sailing on a sea of unknowns, there was no telling if the next second could be its last above the surface.\nWhat if this wasn't an auxiliary system, but more of an important combat tool?\nAnd who will pay the price for this \"unknown\" when the time comes? When this \"unknown\" puts her friends in danger, will she still be able to see it as a simple experimental error then?\nAfter this, she halted all her ongoing experiments and turned her efforts to making endless theoretical calculations.\nPutting all theoretical possibilities to the test before conducting any experiment, she'll try to eliminate all \"unknowns\" to the best of her ability.\nOnly after achieving clarity in every aspect will she progress an experiment to the subsequent phase, followed by another round of endless argumentation and calculation, and so the cycle continues.\nThe clattering of her keystrokes gets faster and faster\u2014She's already spent an entire day working to test the final theoretical possibility.\nSuch a task has always been made tedious by the repetition and futility of the effort required, and not even Heimdall is impervious to its grating effects.\nBut whenever she thinks of the price of the \"unknown,\" her restless mind will settle down again, allowing her to calmly review the data report in her hand and use all the knowledge at her disposal to find any errors within it.\nThe 22nd round of data validation begins, and finally, the data is showing a slight change. Heimdall exhales deeply\u2014She finally has an explanation for that nagging feeling she had before as well.\n\"So, it was an error caused by neglecting to take environmental factors into account during the data collection... I'd better run another check.\" \nAs the data reports keep piling up, the haze over that sea of unknowns is gradually dispersed by a beacon of data and theory.\nThe first rays of dawn shine into the dim laboratory, announcing that Heimdall's work is now finished. She's eliminated every conceivable uncontrollable factor.\nThe exhaustion she'd been keeping at bay at last washing over her, she leans over the table with a satisfied smile\u2014It's time to rest.",
+        "task_desc": "In Main Story 4-12: Strongest Creation (Normal), defeat Kusherfang with Enlightening - Heimdall alone, use Lightrealm Ultimate or Gensrealm Ultimate at least 1 time during the battle, and clear the stage.",
+        "id": 1033,
+        "condition": [
+            [
+                50001,
+                50002,
+                51033
+            ],
+            [],
+            [
+                50003
+            ]
+        ],
+        "condition_source": [
+            [
+                [
+                    203,
+                    1033
+                ],
+                [
+                    208,
+                    1033
+                ],
+                [
+                    231,
+                    1033
+                ]
+            ],
+            [],
+            [
+                [
+                    204,
+                    1033
+                ]
+            ]
+        ],
+        "cost": [
+            [
+                [
+                    40504,
+                    24
+                ],
+                [
+                    2,
+                    40000
+                ],
+                [
+                    41501,
+                    10
+                ],
+                [
+                    81033,
+                    5
+                ]
+            ],
+            [
+                [
+                    40203,
+                    24
+                ],
+                [
+                    2,
+                    120000
+                ],
+                [
+                    41501,
+                    20
+                ],
+                [
+                    81033,
+                    10
+                ]
+            ],
+            [
+                [
+                    40203,
+                    40
+                ],
+                [
+                    2,
+                    160000
+                ],
+                [
+                    41501,
+                    30
+                ],
+                [
+                    81033,
+                    15
+                ]
+            ]
+        ],
+        "skill": [
+            [
+                103321,
+                103322,
+                103323,
+                103324,
+                103325
+            ],
+            [
+                103331,
+                103332
+            ],
+            [
+                103341
+            ]
+        ],
+        "source": [
+            309,
+            10104,
+            1010412
+        ]
+    },
     "1042": {
         "name": "Gift",
         "story": "Ever since she created Mintha and Leuce, Hades has protected them as jealously as though they were her sisters. And, to satisfy her sisters' curiosity, she's even built them a small library.\nIt's an early winter's morning, and the feel of the chill wind against Hade's face removes any last traces of sleepiness. Hades looks out of the window as she thinks about the day's schedule. Luckily, the association is quiet at the moment and she has some free time.\nMintha and Leuce aren't in the aquarium. Although their mistress has never restricted their movements, their frequent excursions outside these past few days have piqued her curiosity.\nThey don't return until the sun has fully risen in the sky.\n\"Good morning, Lady Hades.\" The puppets bow at her, their hands behind their backs.\n\"Good morning Mintha, Leuce.\" It's obvious that they're hiding something behind their backs, but Hades waits for them to explain by themselves.\n\"Lady Hades, you once said that we can study whatever it is that interests us. And I read that presenting gifts is a way of showing appreciation,\" Mintha says. From behind their backs, they bring out a beautifully wrapped box.\n\"I also helped choose it, Lady Hades,\" Leuce adds. \nThe box contains a pair of lavender earrings. There's a note too \u2013 \"Thank you for everything you've done for us, Lady Hades.\" \nThe puppets look at her with their blue eyes as deep and as clear as lakes, as countless emotions ripple through them \u2013 excitement, expectation, reverence... Hades can read all this as clear as day, and her heart swells.\n\"What's wrong, Lady Hades? Don't you like them?\" they ask in unison upon seeing her failure to react.\n\"Leuce, Leuce, look! Lady Hades is smiling!\" \nIt's as though the warm embrace of the summer sun has chased away the winter cold, and the corners of Hades' mouth turn upward uncontrollably.\nShe carefully removes the earrings from the box like they're fragile treasures. She doesn't want to drop them, nor does she want to grip them so tight they break.\n\"Oh, they're beautiful... So what do you think I should get you in return?\" Hades puts on her new earrings and affectionately strokes the puppets' heads.\n\"In return?\" \n\"Oh yes, I remember reading that it's polite to give a gift in return when you receive one.\" \nWhen Mintha says this, Leuce tilts her head in thought.\n\"Lady Hades, I would like to learn more things.\" \n\"Me too. That way, we'll be able to help you out more.\" \nHades has long been prepared to agree to any request the puppets make, but this exceeds even her expectations. It's like vintage wine that continues to pour even when the glass is full.\n\"Please, Lady Hades!\" Mintha and Leuce both grab her hand, and she notices how warm their cold synthetic skin is.\n\"I think... we're going to need a bigger library!\"",
@@ -3320,6 +3554,8 @@
         1019,
         1028,
         1139,
+        1184,
+        1033,
         1042
     ]
 }
