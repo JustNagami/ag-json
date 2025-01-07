@@ -8,6 +8,7 @@
         "info_desc": "",
         "title": "C-Obs",
         "sub_title": "Extra Shifted Stars",
+        "params": "",
         "show_time": "",
         "icon": "100001",
         "order": 999,
@@ -24,6 +25,7 @@
         "info_desc": "",
         "title": "Symphonia Requiem",
         "sub_title": "Darkstar - Hel",
+        "params": "",
         "show_time": "2023.6.20-2023.7.20",
         "icon": "100002",
         "order": 1,
@@ -72,6 +74,7 @@
         "info_desc": "",
         "title": "All Business",
         "sub_title": "TaiYi - Gengchen",
+        "params": "",
         "show_time": "2023.5.25-2023.6.20",
         "icon": "100003",
         "order": 2,
@@ -120,6 +123,7 @@
         "info_desc": "",
         "title": "Miss Rice Dumpling",
         "sub_title": "Omnisight - Luliang",
+        "params": "",
         "show_time": "2023.6.20-2023.7.20",
         "icon": "100004",
         "order": 3,
@@ -168,6 +172,7 @@
         "info_desc": "",
         "title": "Summer Breeze",
         "sub_title": "Winged Gardener - Yingzhao",
+        "params": "",
         "show_time": "2023.7.20-2023.8.17",
         "icon": "100005",
         "order": 2,
@@ -216,6 +221,7 @@
         "info_desc": "",
         "title": "Under the Aqua Sky",
         "sub_title": "Tenblaze - Jinwu",
+        "params": "",
         "show_time": "2023.7.20-2023.8.17",
         "icon": "100006",
         "order": 1,
@@ -265,6 +271,7 @@
         "info_desc": "",
         "title": "Swag Bag",
         "sub_title": "Plentiful Resources",
+        "params": "",
         "show_time": "",
         "icon": "100007",
         "order": 998,
@@ -282,31 +289,32 @@
         "info_desc": "",
         "title": "Whispering Waves",
         "sub_title": "TaiYi - Gengchen",
-        "show_time": "2023.8.17-2023.8.31",
+        "params": "",
+        "show_time": "2024.7.4-2024.7.11",
         "icon": "100008",
-        "order": 1,
+        "order": 4,
         "jump": [
             2901,
-            182211
+            272211
         ],
         "time": [
             [
                 [
-                    2023,
-                    8,
-                    17
+                    2024,
+                    7,
+                    4
                 ],
                 [
-                    7,
+                    5,
                     0,
                     0
                 ]
             ],
             [
                 [
-                    2023,
-                    8,
-                    31
+                    2024,
+                    7,
+                    11
                 ],
                 [
                     5,
@@ -324,6 +332,7 @@
         "info_desc": "",
         "title": "Rock Star",
         "sub_title": "So-ei - Kuramitsuha",
+        "params": "",
         "show_time": "",
         "icon": "100010",
         "order": 1,
@@ -372,6 +381,7 @@
         "info_desc": "",
         "title": "After Class",
         "sub_title": "Shinri - Tsukuyomi",
+        "params": "",
         "show_time": "",
         "icon": "100011",
         "order": 2,
@@ -420,6 +430,7 @@
         "info_desc": "",
         "title": "Personal Care Time",
         "sub_title": "Jin-ei - Kuninotokotachi",
+        "params": "",
         "show_time": "",
         "icon": "100009",
         "order": 4,
@@ -468,6 +479,7 @@
         "info_desc": "",
         "title": "Higanbana",
         "sub_title": "Flower of Yomi - Izanami",
+        "params": "",
         "show_time": "2023.11.9-2023.12.7",
         "icon": "100012",
         "order": 2,
@@ -516,6 +528,7 @@
         "info_desc": "",
         "title": "The Reanimated",
         "sub_title": "Untainted Heart - Lingguang",
+        "params": "",
         "show_time": "",
         "icon": "100013",
         "order": 3,
@@ -564,6 +577,7 @@
         "info_desc": "",
         "title": "Dream of Thorned Roses",
         "sub_title": "Phantasmal Dawn - Hera",
+        "params": "",
         "show_time": "2023.12.7-2024.1.4",
         "icon": "100014",
         "order": 1,
@@ -648,6 +662,9 @@
                     0
                 ]
             ]
+        ],
+        "params": [
+            30041
         ]
     },
     "100016": {
@@ -659,6 +676,7 @@
         "info_desc": "",
         "title": "Back for a Limited Time",
         "sub_title": "Carol of Noise & Lit by Glaciers",
+        "params": "",
         "show_time": "2023.12.7-2024.1.4",
         "icon": "100016",
         "order": 1,
@@ -700,6 +718,7 @@
         "info_desc": "",
         "title": "Dragon Chant",
         "sub_title": "Living Soul - Osiris",
+        "params": "",
         "show_time": "2024.2.1-2024.2.29",
         "icon": "100019",
         "order": 1,
@@ -748,6 +767,7 @@
         "info_desc": "",
         "title": "Cloud and Mist",
         "sub_title": "Ethereal Enigma - Zhiming",
+        "params": "",
         "show_time": "2024.2.1-2024.2.29",
         "icon": "100018",
         "order": 2,
@@ -796,6 +816,7 @@
         "info_desc": "",
         "title": "Red and Black",
         "sub_title": "Chord of Convallaria - Athena",
+        "params": "",
         "show_time": "2024.2.1-2024.2.29",
         "icon": "100017",
         "order": 3,
@@ -843,6 +864,7 @@
         "info_desc": "",
         "title": "Back for a Limited Time",
         "sub_title": "All Business & Feathered Illusion",
+        "params": "",
         "show_time": "2024.2.1-2024.2.29",
         "icon": "100016",
         "order": 4,
@@ -884,6 +906,7 @@
         "info_desc": "",
         "title": "SWAT Girl",
         "sub_title": "Somezakura - Buzenbo Tengu",
+        "params": "",
         "show_time": "",
         "icon": "100020",
         "order": 1,
@@ -932,6 +955,7 @@
         "info_desc": "",
         "title": "Dangerous Training",
         "sub_title": "The Lioness - Sekhmet",
+        "params": "",
         "show_time": "",
         "icon": "100021",
         "order": 2,
@@ -979,6 +1003,7 @@
         "goods_id": 100023,
         "title": "Season Pass",
         "sub_title": "Get tons of Scan Vouchers",
+        "params": "",
         "show_time": "2024.4.11-2024.5.16",
         "icon": "100027",
         "order": 1,
@@ -1029,6 +1054,7 @@
         "info_desc": "",
         "title": "Poem of Eventide",
         "sub_title": "Gray Ibis - Thoth",
+        "params": "",
         "show_time": "",
         "icon": "100022",
         "order": 2,
@@ -1077,6 +1103,7 @@
         "info_desc": "",
         "title": "Yearning of a Dancing Sunset",
         "sub_title": "Untainted Heart - Lingguang",
+        "params": "",
         "show_time": "2024.4.11-2024.4.30",
         "icon": "100024",
         "order": 3,
@@ -1125,6 +1152,7 @@
         "info_desc": "",
         "title": "All Business",
         "sub_title": "TaiYi - Gengchen",
+        "params": "",
         "show_time": "",
         "icon": "100023",
         "order": 4,
@@ -1173,6 +1201,7 @@
         "info_desc": "",
         "title": "Efficiency First",
         "sub_title": "Winged Gardener - Yingzhao",
+        "params": "",
         "show_time": "2024.5.16-2024.6.20",
         "icon": "100025",
         "order": 1,
@@ -1221,6 +1250,7 @@
         "info_desc": "",
         "title": "Hymnal Fairy",
         "sub_title": "Dimglare - Verthandi",
+        "params": "",
         "show_time": "",
         "icon": "100026",
         "order": 2,
@@ -1269,6 +1299,7 @@
         "info_desc": "",
         "title": "Stardust",
         "sub_title": "Dreamshade - Oneiroi",
+        "params": "",
         "show_time": "",
         "icon": "100028",
         "order": 1,
@@ -1309,6 +1340,55 @@
             ]
         ]
     },
+    "100030": {
+        "new_recommend": 1,
+        "prefab": "recommend_109303",
+        "show_type": 0,
+        "goods_id": 100030,
+        "info_desc": "",
+        "title": "Summer Lovin'",
+        "sub_title": "Jin-ei - Kuninotokotachi",
+        "params": "",
+        "show_time": "2024.7.4-2024.7.18",
+        "icon": "100028",
+        "order": 3,
+        "jump": [
+            525
+        ],
+        "jump2": [
+            534,
+            16000004,
+            1093,
+            109303,
+            15
+        ],
+        "time": [
+            [
+                [
+                    2024,
+                    7,
+                    4
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2024,
+                    7,
+                    18
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
     "100031": {
         "new_recommend": 1,
         "prefab": "recommend_104204",
@@ -1317,6 +1397,7 @@
         "info_desc": "",
         "title": "Lantern of Lethe",
         "sub_title": "Puppet Master - Hades",
+        "params": "",
         "show_time": "2024.6.20-2024.7.18",
         "icon": "100030",
         "order": 2,
@@ -1355,6 +1436,436 @@
             ]
         ]
     },
+    "100032": {
+        "new_recommend": 1,
+        "prefab": "recommend_104902",
+        "show_type": 0,
+        "goods_id": 100032,
+        "info_desc": "",
+        "title": "Ocean's Love Song",
+        "sub_title": "Flower of Yomi - Izanami",
+        "params": "",
+        "show_time": "2024.7.18-2024.8.22",
+        "icon": "icon_104902",
+        "order": 1,
+        "jump": [
+            525
+        ],
+        "jump2": [
+            531,
+            15000019,
+            1049,
+            104902,
+            15
+        ],
+        "time": [
+            [
+                [
+                    2024,
+                    7,
+                    18
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2024,
+                    8,
+                    22
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
+    "100033": {
+        "new_recommend": 1,
+        "prefab": "recommend_102201",
+        "show_type": 0,
+        "goods_id": 100033,
+        "info_desc": "",
+        "title": "Seaside Stroll",
+        "sub_title": "Serene Moon - Selene",
+        "params": "",
+        "show_time": "2024.7.18-2024.8.22",
+        "icon": "icon_102201",
+        "order": 2,
+        "jump": [
+            525
+        ],
+        "jump2": [
+            531,
+            15000020,
+            1022,
+            102201,
+            15
+        ],
+        "time": [
+            [
+                [
+                    2024,
+                    7,
+                    18
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2024,
+                    8,
+                    22
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
+    "100034": {
+        "new_recommend": 1,
+        "prefab": "recommend_102101",
+        "show_type": 0,
+        "goods_id": 100034,
+        "info_desc": "",
+        "title": "Colorful Summer",
+        "sub_title": "Dawnray - Artemis",
+        "params": "",
+        "show_time": "2024.8.22-2024.9.26",
+        "icon": "icon_102101",
+        "order": 3,
+        "jump": [
+            525
+        ],
+        "jump2": [
+            531,
+            15000021,
+            1021,
+            102101,
+            15
+        ],
+        "time": [
+            [
+                [
+                    2024,
+                    8,
+                    22
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2024,
+                    9,
+                    26
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
+    "100035": {
+        "jump2": "",
+        "new_recommend": 1,
+        "prefab": "recommend_107001_107401",
+        "show_type": 0,
+        "goods_id": 100035,
+        "info_desc": "",
+        "title": "Back for a Limited Time",
+        "sub_title": "Summer Breeze & Under the Aqua Sky",
+        "params": "",
+        "show_time": "2024.8.22-2024.9.26",
+        "icon": "100016",
+        "order": 4,
+        "jump": [
+            525
+        ],
+        "time": [
+            [
+                [
+                    2024,
+                    8,
+                    22
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2024,
+                    9,
+                    26
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
+    "100036": {
+        "new_recommend": 1,
+        "prefab": "recommend_102001",
+        "show_type": 0,
+        "goods_id": 100036,
+        "info_desc": "",
+        "title": "Veiled Dreams",
+        "sub_title": "Trim\u016brti - Brahm\u0101",
+        "params": "",
+        "show_time": "2024.9.26-2024.10.24",
+        "icon": "icon_102001",
+        "order": 1,
+        "jump": [
+            525
+        ],
+        "jump2": [
+            531,
+            15000022,
+            1020,
+            102001,
+            15
+        ],
+        "time": [
+            [
+                [
+                    2024,
+                    9,
+                    26
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2024,
+                    10,
+                    24
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
+    "100037": {
+        "new_recommend": 1,
+        "prefab": "recommend_108901",
+        "show_type": 0,
+        "goods_id": 100037,
+        "info_desc": "",
+        "title": "Where Elegance Meets Extravagance",
+        "sub_title": "Tempest - Parvati",
+        "params": "",
+        "show_time": "",
+        "icon": "icon_108901",
+        "order": 2,
+        "jump": [
+            525
+        ],
+        "jump2": [
+            531,
+            15000023,
+            1089,
+            108901,
+            15
+        ],
+        "time": [
+            [
+                [
+                    2024,
+                    10,
+                    24
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2024,
+                    11,
+                    21
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
+    "100038": {
+        "jump2": "",
+        "new_recommend": 1,
+        "prefab": "recommend_109502",
+        "show_type": 0,
+        "goods_id": 100038,
+        "info_desc": "",
+        "title": "Nighttime Romance",
+        "sub_title": "Gray Ibis - Thoth",
+        "params": "",
+        "show_time": "2024.10.24-2024.11.21",
+        "icon": "icon_109502",
+        "order": 1,
+        "jump": [
+            2901,
+            292211
+        ],
+        "time": [
+            [
+                [
+                    2024,
+                    10,
+                    24
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2024,
+                    11,
+                    21
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
+    "100039": {
+        "new_recommend": 1,
+        "prefab": "recommend_107402",
+        "show_type": 0,
+        "goods_id": 100039,
+        "info_desc": "",
+        "title": "Efficiency First",
+        "sub_title": "Winged Gardener - Yingzhao",
+        "params": "",
+        "show_time": "2024.9.26-2024.10.24",
+        "icon": "100025",
+        "order": 2,
+        "jump": [
+            525
+        ],
+        "jump2": [
+            531,
+            15000015,
+            1074,
+            107402,
+            15
+        ],
+        "time": [
+            [
+                [
+                    2024,
+                    9,
+                    26
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2024,
+                    10,
+                    24
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
+    "100040": {
+        "new_recommend": 1,
+        "prefab": "recommend_100011",
+        "show_type": 1,
+        "goods_id": 100040,
+        "info_desc": "",
+        "title": "Celebration Lucky Wish Box",
+        "sub_title": "Open to receive a big reward",
+        "show_time": "2024.9.26-2024.10.24",
+        "icon": "100015",
+        "order": 3,
+        "jump": [
+            527
+        ],
+        "jump2": [
+            532,
+            3009003,
+            3
+        ],
+        "time": [
+            [
+                [
+                    2024,
+                    9,
+                    26
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2024,
+                    10,
+                    24
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ],
+        "params": [
+            30043
+        ]
+    },
     "300001": {
         "new_recommend": 0,
         "prefab": "recommend_102801",
@@ -1363,6 +1874,7 @@
         "info_desc": "",
         "title": "Carol of Noise",
         "sub_title": "Roaring Thunder - Thor",
+        "params": "",
         "show_time": "",
         "icon": "300001",
         "order": 1,
@@ -1412,6 +1924,7 @@
         "info_desc": "",
         "title": "New Year BunBun",
         "sub_title": "Early Sakura - Ookuninushi",
+        "params": "",
         "show_time": "",
         "icon": "300002",
         "order": 2,
@@ -1454,6 +1967,7 @@
         "info_desc": "",
         "title": "Lantern of Lethe",
         "sub_title": "Puppet Master - Hades",
+        "params": "",
         "show_time": "",
         "icon": "300003",
         "order": 1,
@@ -1496,6 +2010,7 @@
         "info_desc": "",
         "title": "The Drizzles",
         "sub_title": "Tidal Song - Poseidon",
+        "params": "",
         "show_time": "",
         "icon": "300004",
         "order": 2,
@@ -1538,6 +2053,7 @@
         "info_desc": "",
         "title": "The Nanke Dream",
         "sub_title": "Drowsie - Oneiroi",
+        "params": "",
         "show_time": "",
         "icon": "300005",
         "order": 3,
@@ -1582,6 +2098,7 @@
         "info_desc": "",
         "title": "Disguise",
         "sub_title": "Ailuros - Bastet",
+        "params": "",
         "show_time": "",
         "icon": "300006",
         "order": 1,
@@ -1624,6 +2141,7 @@
         "info_desc": "",
         "title": "Back for a Limited Time",
         "sub_title": "Outfit Returning ",
+        "params": "",
         "show_time": "2024.5.3-2024.5.17",
         "icon": "100016",
         "order": 1,
@@ -1687,7 +2205,17 @@
         100027,
         100028,
         100029,
+        100030,
         100031,
+        100032,
+        100033,
+        100034,
+        100035,
+        100036,
+        100037,
+        100038,
+        100039,
+        100040,
         300001,
         300002,
         300003,

@@ -5,13 +5,17 @@
         "shop_background": "",
         "group_name": "Daily Purchase",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Daily Purchase",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 20,
         "system": "1",
         "display_index": 2,
+        "discount": 0,
         "initiative_refresh": 1,
         "id": 2,
         "display_group": 1,
@@ -23,7 +27,9 @@
             4,
             3,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "3": {
         "operation_stop_id": 805,
@@ -31,18 +37,24 @@
         "shop_background": "",
         "group_name": "Packs",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Limited Supplies",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 3,
         "display_group": 1,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "4": {
         "operation_stop_id": 806,
@@ -50,18 +62,24 @@
         "shop_background": "",
         "group_name": "Packs",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Daily Supplies",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 2,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 4,
         "display_group": 1,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "5": {
         "operation_stop_id": 804,
@@ -69,18 +87,24 @@
         "shop_background": "",
         "group_name": "Packs",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Novice Supplies",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 3,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 5,
         "display_group": 1,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "6": {
         "operation_stop_id": 808,
@@ -88,18 +112,24 @@
         "shop_background": "",
         "group_name": "Packs",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Voucher Shop",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 4,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 6,
         "display_group": 1,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "10": {
         "operation_stop_id": 820,
@@ -107,20 +137,26 @@
         "shop_background": "",
         "group_name": "Trading Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Imprint Shop",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 10,
         "display_group": 2,
         "shop_label": "",
         "cost_id": [
             "CURRENCY_TYPE_DRAW"
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "11": {
         "operation_stop_id": 832,
@@ -128,13 +164,17 @@
         "shop_background": "",
         "group_name": "Trading Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Co-op Shop",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 2,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 11,
         "display_group": 2,
@@ -145,7 +185,9 @@
         "shop_label": [
             1,
             2
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "12": {
         "operation_stop_id": 816,
@@ -153,13 +195,17 @@
         "shop_background": "",
         "group_name": "Trading Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 9,
         "remark": "Intel Shop",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 3,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 12,
         "display_group": 2,
@@ -171,7 +217,9 @@
             5,
             1,
             4
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "13": {
         "operation_stop_id": 821,
@@ -179,20 +227,26 @@
         "shop_background": "",
         "group_name": "Trading Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Matrix Shop",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 4,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 13,
         "display_group": 2,
         "shop_label": "",
         "cost_id": [
             "CURRENCY_TYPE_CLUB_COIN_B"
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "14": {
         "operation_stop_id": 0,
@@ -200,20 +254,26 @@
         "shop_background": "",
         "group_name": "Trading Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Synergy Track",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 5,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 14,
         "display_group": 2,
         "shop_label": "",
         "cost_id": [
             41601
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "15": {
         "operation_stop_id": 0,
@@ -221,18 +281,24 @@
         "shop_background": "",
         "group_name": "Outfits",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Outfit Shop",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 15,
         "display_group": 2,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "16": {
         "operation_stop_id": 807,
@@ -240,18 +306,24 @@
         "shop_background": "",
         "group_name": "Outfits",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Direct Shop",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 2,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 16,
         "display_group": 2,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "17": {
         "operation_stop_id": 0,
@@ -259,18 +331,24 @@
         "shop_background": "",
         "group_name": "Outfits",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Returning Shop",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 3,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 17,
         "display_group": 2,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "18": {
         "operation_stop_id": 0,
@@ -278,18 +356,24 @@
         "shop_background": "",
         "group_name": "Outfits",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Outfit Voucher",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 4,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 18,
         "display_group": 2,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "20": {
         "operation_stop_id": 817,
@@ -297,12 +381,16 @@
         "shop_background": "",
         "group_name": "Resource Shop",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Hazard Zone Cleaning",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 20,
         "display_group": 3,
@@ -319,7 +407,9 @@
         "shop_label": [
             1,
             3
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "22": {
         "operation_stop_id": 818,
@@ -327,13 +417,17 @@
         "shop_background": "",
         "group_name": "Resource Shop",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Dimensional Variable",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 2,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 22,
         "display_group": 3,
@@ -343,7 +437,9 @@
         "shop_label": [
             1,
             2
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "23": {
         "operation_stop_id": 819,
@@ -351,13 +447,17 @@
         "shop_background": "",
         "group_name": "Resource Shop",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Recurring Dream",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 3,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 23,
         "display_group": 3,
@@ -369,7 +469,9 @@
         "shop_label": [
             1,
             4
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "24": {
         "operation_stop_id": 0,
@@ -377,18 +479,24 @@
         "shop_background": "",
         "group_name": "Shifting Survey",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "C-Obs",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 24,
         "display_group": 3,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "25": {
         "operation_stop_id": 0,
@@ -396,18 +504,24 @@
         "shop_background": "",
         "group_name": "Shifting Survey",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Shifting Survey",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 2,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 25,
         "display_group": 3,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "32": {
         "operation_stop_id": 814,
@@ -415,13 +529,17 @@
         "shop_background": "",
         "group_name": "Sigil Shop",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Sigil Shop",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 3,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 32,
         "display_group": 4,
@@ -431,7 +549,9 @@
         "shop_label": [
             1,
             3
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "34": {
         "operation_stop_id": 0,
@@ -439,18 +559,24 @@
         "shop_background": "",
         "group_name": "First Top-up Bonus",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "First Top-up $0.99",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 34,
         "display_group": 4,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "35": {
         "operation_stop_id": 0,
@@ -458,18 +584,24 @@
         "shop_background": "",
         "group_name": "First Top-up Bonus",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "First Top-up $2.99",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 2,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 35,
         "display_group": 4,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "36": {
         "operation_stop_id": 0,
@@ -477,18 +609,24 @@
         "shop_background": "",
         "group_name": "First Top-up Bonus",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Survey Gift",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 3,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 36,
         "display_group": 4,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "37": {
         "operation_stop_id": 0,
@@ -496,18 +634,24 @@
         "shop_background": "",
         "group_name": "First Top-up Bonus",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Contract Bonus",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 4,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 37,
         "display_group": 4,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "41": {
         "operation_stop_id": 850,
@@ -515,20 +659,26 @@
         "shop_background": "",
         "group_name": "Resource Shop",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 1,
         "activity_id": 0,
         "remark": "Iterative Testing",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 4,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 41,
         "display_group": 3,
         "shop_label": "",
         "cost_id": [
             "CURRENCY_TYPE_CORE_COIN"
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "50": {
         "operation_stop_id": 833,
@@ -536,20 +686,26 @@
         "shop_background": "TextureConfig/Shop_activity/Sa_0002",
         "group_name": "Restaurant Shop",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 0,
         "remark": "Restaurant Shop",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 50,
         "display_group": 6,
         "shop_label": "",
         "cost_id": [
             39
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "51": {
         "operation_stop_id": 835,
@@ -557,13 +713,17 @@
         "shop_background": "",
         "group_name": "Flaneuring Shop",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 1,
         "show_in_shop": 0,
         "activity_id": 0,
         "remark": "Flaneuring Shop",
         "params": "",
+        "is_limit_time_discount": 1,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 70,
         "initiative_refresh": 0,
         "id": 51,
         "display_group": 7,
@@ -571,6 +731,30 @@
         "cost_id": [
             "CURRENCY_TYPE_DORM_GOLD",
             "CURRENCY_TYPE_DIAMOND"
+        ],
+        "cheap_open_time": [
+            [
+                2024,
+                7,
+                18
+            ],
+            [
+                5,
+                0,
+                0
+            ]
+        ],
+        "cheap_close_time": [
+            [
+                2024,
+                9,
+                26
+            ],
+            [
+                5,
+                0,
+                0
+            ]
         ]
     },
     "58": {
@@ -579,13 +763,17 @@
         "shop_background": "",
         "group_name": "Themed Furniture",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 1,
         "show_in_shop": 0,
         "activity_id": 0,
         "remark": "Nostalgia",
         "params": "",
+        "is_limit_time_discount": 1,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
-        "display_index": 1,
+        "display_index": 2,
+        "discount": 70,
         "initiative_refresh": 0,
         "id": 58,
         "display_group": 8,
@@ -593,6 +781,30 @@
         "cost_id": [
             "CURRENCY_TYPE_DORM_GOLD",
             "CURRENCY_TYPE_DIAMOND"
+        ],
+        "cheap_open_time": [
+            [
+                2024,
+                7,
+                18
+            ],
+            [
+                5,
+                0,
+                0
+            ]
+        ],
+        "cheap_close_time": [
+            [
+                2024,
+                9,
+                26
+            ],
+            [
+                5,
+                0,
+                0
+            ]
         ]
     },
     "57": {
@@ -601,13 +813,17 @@
         "shop_background": "",
         "group_name": "Themed Furniture",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 1,
         "show_in_shop": 0,
         "activity_id": 0,
         "remark": "Spring Is in the Air",
         "params": "",
+        "is_limit_time_discount": 1,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
-        "display_index": 1,
+        "display_index": 3,
+        "discount": 70,
         "initiative_refresh": 0,
         "id": 57,
         "display_group": 8,
@@ -615,6 +831,30 @@
         "cost_id": [
             "CURRENCY_TYPE_DORM_GOLD",
             "CURRENCY_TYPE_DIAMOND"
+        ],
+        "cheap_open_time": [
+            [
+                2024,
+                7,
+                18
+            ],
+            [
+                5,
+                0,
+                0
+            ]
+        ],
+        "cheap_close_time": [
+            [
+                2024,
+                9,
+                26
+            ],
+            [
+                5,
+                0,
+                0
+            ]
         ]
     },
     "56": {
@@ -623,13 +863,17 @@
         "shop_background": "",
         "group_name": "Themed Furniture",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 1,
         "show_in_shop": 0,
         "activity_id": 0,
         "remark": "School Days",
         "params": "",
+        "is_limit_time_discount": 1,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
-        "display_index": 2,
+        "display_index": 4,
+        "discount": 70,
         "initiative_refresh": 0,
         "id": 56,
         "display_group": 8,
@@ -637,6 +881,30 @@
         "cost_id": [
             "CURRENCY_TYPE_DORM_GOLD",
             "CURRENCY_TYPE_DIAMOND"
+        ],
+        "cheap_open_time": [
+            [
+                2024,
+                7,
+                18
+            ],
+            [
+                5,
+                0,
+                0
+            ]
+        ],
+        "cheap_close_time": [
+            [
+                2024,
+                9,
+                26
+            ],
+            [
+                5,
+                0,
+                0
+            ]
         ]
     },
     "55": {
@@ -645,13 +913,17 @@
         "shop_background": "",
         "group_name": "Themed Furniture",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 1,
         "show_in_shop": 0,
         "activity_id": 0,
         "remark": "Summer on the Sea",
         "params": "",
+        "is_limit_time_discount": 1,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
-        "display_index": 3,
+        "display_index": 5,
+        "discount": 70,
         "initiative_refresh": 0,
         "id": 55,
         "display_group": 8,
@@ -659,6 +931,30 @@
         "cost_id": [
             "CURRENCY_TYPE_DORM_GOLD",
             "CURRENCY_TYPE_DIAMOND"
+        ],
+        "cheap_open_time": [
+            [
+                2024,
+                7,
+                18
+            ],
+            [
+                5,
+                0,
+                0
+            ]
+        ],
+        "cheap_close_time": [
+            [
+                2024,
+                9,
+                26
+            ],
+            [
+                5,
+                0,
+                0
+            ]
         ]
     },
     "54": {
@@ -667,13 +963,17 @@
         "shop_background": "",
         "group_name": "Themed Furniture",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 1,
         "show_in_shop": 0,
         "activity_id": 0,
         "remark": "Amazing Grace",
         "params": "",
+        "is_limit_time_discount": 1,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
-        "display_index": 4,
+        "display_index": 6,
+        "discount": 70,
         "initiative_refresh": 0,
         "id": 54,
         "display_group": 8,
@@ -681,6 +981,30 @@
         "cost_id": [
             "CURRENCY_TYPE_DORM_GOLD",
             "CURRENCY_TYPE_DIAMOND"
+        ],
+        "cheap_open_time": [
+            [
+                2024,
+                7,
+                18
+            ],
+            [
+                5,
+                0,
+                0
+            ]
+        ],
+        "cheap_close_time": [
+            [
+                2024,
+                9,
+                26
+            ],
+            [
+                5,
+                0,
+                0
+            ]
         ]
     },
     "53": {
@@ -689,13 +1013,17 @@
         "shop_background": "",
         "group_name": "Themed Furniture",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 1,
         "show_in_shop": 0,
         "activity_id": 0,
         "remark": "Misty Hideaway",
         "params": "",
+        "is_limit_time_discount": 1,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
-        "display_index": 5,
+        "display_index": 7,
+        "discount": 70,
         "initiative_refresh": 0,
         "id": 53,
         "display_group": 8,
@@ -703,6 +1031,30 @@
         "cost_id": [
             "CURRENCY_TYPE_DORM_GOLD",
             "CURRENCY_TYPE_DIAMOND"
+        ],
+        "cheap_open_time": [
+            [
+                2024,
+                7,
+                18
+            ],
+            [
+                5,
+                0,
+                0
+            ]
+        ],
+        "cheap_close_time": [
+            [
+                2024,
+                9,
+                26
+            ],
+            [
+                5,
+                0,
+                0
+            ]
         ]
     },
     "52": {
@@ -711,13 +1063,17 @@
         "shop_background": "",
         "group_name": "Themed Furniture",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 1,
         "show_in_shop": 0,
         "activity_id": 0,
         "remark": "Modern Set",
         "params": "",
+        "is_limit_time_discount": 1,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
-        "display_index": 6,
+        "display_index": 8,
+        "discount": 70,
         "initiative_refresh": 0,
         "id": 52,
         "display_group": 8,
@@ -725,6 +1081,30 @@
         "cost_id": [
             "CURRENCY_TYPE_DORM_GOLD",
             "CURRENCY_TYPE_DIAMOND"
+        ],
+        "cheap_open_time": [
+            [
+                2024,
+                7,
+                18
+            ],
+            [
+                5,
+                0,
+                0
+            ]
+        ],
+        "cheap_close_time": [
+            [
+                2024,
+                9,
+                26
+            ],
+            [
+                5,
+                0,
+                0
+            ]
         ]
     },
     "90": {
@@ -733,20 +1113,26 @@
         "shop_background": "",
         "group_name": "Supplies Exchange",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 0,
         "remark": "Supplies Exchange",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 4,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 90,
         "display_group": 9,
         "shop_label": "",
         "cost_id": [
             "CURRENCY_TYPE_HELLA_SHOP_COIN"
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "91": {
         "operation_stop_id": 824,
@@ -754,20 +1140,26 @@
         "shop_background": "",
         "group_name": "Paranormal Redeemer",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 70721,
         "remark": "Paranormal Redeemer",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 91,
         "display_group": 10,
         "shop_label": "",
         "cost_id": [
             "CURRENCY_TYPE_SUMMER_PT"
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "92": {
         "operation_stop_id": 825,
@@ -775,20 +1167,26 @@
         "shop_background": "",
         "group_name": "Collectibles Appraising",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 81461,
         "remark": "Collectibles Appraising",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 92,
         "display_group": 11,
         "shop_label": "",
         "cost_id": [
             53003
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "93": {
         "operation_stop_id": 827,
@@ -796,20 +1194,26 @@
         "shop_background": "",
         "group_name": "Fortis Collector",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 91462,
         "remark": "Fortis Collector",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 93,
         "display_group": 12,
         "shop_label": "",
         "cost_id": [
             53006
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "94": {
         "operation_stop_id": 828,
@@ -817,20 +1221,26 @@
         "shop_background": "",
         "group_name": "Specimen Analysis Station",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 91461,
         "remark": "Specimen Analysis Station",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 2,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 94,
         "display_group": 13,
         "shop_label": "",
         "cost_id": [
             53007
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "95": {
         "operation_stop_id": 829,
@@ -838,20 +1248,26 @@
         "shop_background": "",
         "group_name": "Intel Terminal",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 101461,
         "remark": "Intel Terminal",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 95,
         "display_group": 14,
         "shop_label": "",
         "cost_id": [
             53011
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "96": {
         "operation_stop_id": 830,
@@ -859,20 +1275,26 @@
         "shop_background": "",
         "group_name": "Grocery Store",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 111461,
         "remark": "Grocery Store",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 96,
         "display_group": 15,
         "shop_label": "",
         "cost_id": [
             53012
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "97": {
         "operation_stop_id": 845,
@@ -880,20 +1302,26 @@
         "shop_background": "",
         "group_name": "Grocery Store",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 222721,
         "remark": "Grocery Store",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 97,
         "display_group": 15,
         "shop_label": "",
         "cost_id": [
             53087
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "98": {
         "operation_stop_id": 831,
@@ -901,20 +1329,26 @@
         "shop_background": "",
         "group_name": "Strategic Storeroom",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 121461,
         "remark": "Strategic Storeroom",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 98,
         "display_group": 16,
         "shop_label": "",
         "cost_id": [
             53013
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "99": {
         "operation_stop_id": 0,
@@ -922,13 +1356,17 @@
         "shop_background": "",
         "group_name": "Data Redeemer",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 0,
         "remark": "Data Redeemer",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 99,
         "display_group": 17,
@@ -937,7 +1375,9 @@
             54,
             55,
             56
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "100": {
         "operation_stop_id": 0,
@@ -945,20 +1385,26 @@
         "shop_background": "",
         "group_name": "Joint Attack Supplies",
         "chain_last_visible": 1,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 192291,
         "remark": "Basic Provision",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 100,
         "display_group": 18,
         "shop_label": "",
         "cost_id": [
             54033
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "101": {
         "operation_stop_id": 0,
@@ -966,20 +1412,26 @@
         "shop_background": "",
         "group_name": "Joint Attack Supplies",
         "chain_last_visible": 1,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 192291,
         "remark": "Supply Hub",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 2,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 101,
         "display_group": 18,
         "shop_label": "",
         "cost_id": [
             54033
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "102": {
         "operation_stop_id": 0,
@@ -987,20 +1439,26 @@
         "shop_background": "",
         "group_name": "Joint Attack Supplies",
         "chain_last_visible": 1,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 192291,
         "remark": "Essential Provision",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 3,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 102,
         "display_group": 18,
         "shop_label": "",
         "cost_id": [
             54033
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "103": {
         "operation_stop_id": 0,
@@ -1008,20 +1466,26 @@
         "shop_background": "",
         "group_name": "Joint Attack Supplies",
         "chain_last_visible": 1,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 212291,
         "remark": "Basic Provision",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 103,
         "display_group": 18,
         "shop_label": "",
         "cost_id": [
             54051
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "104": {
         "operation_stop_id": 0,
@@ -1029,20 +1493,26 @@
         "shop_background": "",
         "group_name": "Joint Attack Supplies",
         "chain_last_visible": 1,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 212291,
         "remark": "Supply Hub",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 2,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 104,
         "display_group": 18,
         "shop_label": "",
         "cost_id": [
             54051
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "105": {
         "operation_stop_id": 0,
@@ -1050,20 +1520,26 @@
         "shop_background": "",
         "group_name": "Joint Attack Supplies",
         "chain_last_visible": 1,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 212291,
         "remark": "Essential Provision",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 3,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 105,
         "display_group": 18,
         "shop_label": "",
         "cost_id": [
             54051
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "200": {
         "operation_stop_id": 823,
@@ -1071,20 +1547,26 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 0,
         "remark": "Data Redeeming",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "2",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 200,
         "display_group": 19,
         "shop_label": "",
         "cost_id": [
             "CURRENCY_TYPE_RECHARGE_DIAMOND_FREE"
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "201": {
         "operation_stop_id": 834,
@@ -1092,20 +1574,26 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 131461,
         "remark": "Valleyrand Trading Post",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 201,
         "display_group": 19,
         "shop_label": "",
         "cost_id": [
             53016
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "202": {
         "operation_stop_id": 835,
@@ -1113,13 +1601,17 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 141951,
         "remark": "Tian Lu Firm",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 202,
         "display_group": 19,
@@ -1128,7 +1620,9 @@
             53017,
             54014,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "203": {
         "operation_stop_id": 836,
@@ -1136,20 +1630,26 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 151461,
         "remark": "Kittens' Black Market",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 203,
         "display_group": 19,
         "shop_label": "",
         "cost_id": [
             53021
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "204": {
         "operation_stop_id": 838,
@@ -1157,13 +1657,17 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 171951,
         "remark": "Archives Center",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 204,
         "display_group": 19,
@@ -1172,7 +1676,9 @@
             53023,
             54017,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "205": {
         "operation_stop_id": 837,
@@ -1180,20 +1686,26 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 142063,
         "remark": "Exquisite Collection",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 205,
         "display_group": 19,
         "shop_label": "",
         "cost_id": [
             53022
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "206": {
         "operation_stop_id": 0,
@@ -1201,20 +1713,26 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 181461,
         "remark": "Sailing Merchant",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 206,
         "display_group": 19,
         "shop_label": "",
         "cost_id": [
             53027
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "207": {
         "operation_stop_id": 0,
@@ -1222,13 +1740,17 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 181951,
         "remark": "Tian Lu Groceries",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 207,
         "display_group": 19,
@@ -1237,7 +1759,9 @@
             53028,
             54024,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "208": {
         "operation_stop_id": 839,
@@ -1245,13 +1769,17 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 191951,
         "remark": "Shimogyou Groceries",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 208,
         "display_group": 19,
@@ -1260,7 +1788,9 @@
             53032,
             54030,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "209": {
         "operation_stop_id": 840,
@@ -1268,13 +1798,17 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 191952,
         "remark": "Shimogyou Market",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 209,
         "display_group": 19,
@@ -1283,7 +1817,9 @@
             53033,
             54031,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "210": {
         "operation_stop_id": 841,
@@ -1291,20 +1827,26 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 201461,
         "remark": "Intelligence Hub",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 210,
         "display_group": 19,
         "shop_label": "",
         "cost_id": [
             53079
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "211": {
         "operation_stop_id": 842,
@@ -1312,13 +1854,17 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 201462,
         "remark": "Tournament Logistics",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 211,
         "display_group": 19,
@@ -1327,7 +1873,9 @@
             53080,
             54039,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "212": {
         "operation_stop_id": 843,
@@ -1335,13 +1883,17 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 211461,
         "remark": "Arena Service Desk",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 212,
         "display_group": 19,
@@ -1350,7 +1902,9 @@
             53085,
             54047,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "213": {
         "operation_stop_id": 844,
@@ -1358,13 +1912,17 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 211462,
         "remark": "Recycling Station",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 213,
         "display_group": 19,
@@ -1373,7 +1931,9 @@
             53086,
             54048,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "214": {
         "operation_stop_id": 846,
@@ -1381,13 +1941,17 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 231461,
         "remark": "Tea Break",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 214,
         "display_group": 19,
@@ -1396,7 +1960,9 @@
             53092,
             54052,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "215": {
         "operation_stop_id": 847,
@@ -1404,13 +1970,17 @@
         "shop_background": "",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 231462,
         "remark": "Mutual Aid Association",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 215,
         "display_group": 19,
@@ -1419,7 +1989,9 @@
             53098,
             54056,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "216": {
         "operation_stop_id": 848,
@@ -1427,13 +1999,17 @@
         "shop_background": "TextureBg/SPHeroChallenge/heroChallenge_bg_shop01",
         "group_name": "Potential Awakened",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 242841,
         "remark": "The Molander of Old",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 216,
         "display_group": 21,
@@ -1441,7 +2017,9 @@
         "cost_id": [
             53100,
             53101
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "217": {
         "operation_stop_id": 849,
@@ -1449,13 +2027,17 @@
         "shop_background": "TextureConfig/Shop_activity/Sa_0001",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 241461,
         "remark": "Logistics Depot",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 217,
         "display_group": 19,
@@ -1464,7 +2046,9 @@
             53103,
             54060,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "218": {
         "operation_stop_id": 850,
@@ -1472,13 +2056,17 @@
         "shop_background": "TextureConfig/Shop_activity/Sa_0001",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 241462,
         "remark": "Logistics Depot",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 218,
         "display_group": 19,
@@ -1487,7 +2075,9 @@
             53104,
             54061,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "220": {
         "operation_stop_id": 0,
@@ -1495,18 +2085,24 @@
         "shop_background": "",
         "group_name": "Bonus Shop",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 261463,
         "remark": "Bonus Shop",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 220,
         "display_group": 22,
         "shop_label": "",
-        "cost_id": []
+        "cost_id": [],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "221": {
         "operation_stop_id": 851,
@@ -1514,13 +2110,17 @@
         "shop_background": "TextureConfig/Shop_activity/Sa_0001",
         "group_name": "Redeem Center",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 271461,
         "remark": "Logistics Depot",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 221,
         "display_group": 19,
@@ -1529,7 +2129,154 @@
             53108,
             54067,
             1
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
+    },
+    "230": {
+        "operation_stop_id": 851,
+        "open_condition": 0,
+        "shop_background": "TextureConfig/Shop_activity/Sa_0001",
+        "group_name": "Redeem Center",
+        "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
+        "show_in_shop": 0,
+        "activity_id": 2814611,
+        "remark": "Logistics Depot",
+        "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
+        "refresh_num_limit": 0,
+        "system": "1",
+        "display_index": 1,
+        "discount": 0,
+        "initiative_refresh": 0,
+        "id": 230,
+        "display_group": 19,
+        "shop_label": "",
+        "cost_id": [
+            53154,
+            54119,
+            1
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
+    },
+    "222": {
+        "operation_stop_id": 852,
+        "open_condition": 0,
+        "shop_background": "TextureConfig/Shop_activity/Sa_0001",
+        "group_name": "Redeem Center",
+        "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
+        "show_in_shop": 0,
+        "activity_id": 281461,
+        "remark": "Logistics Depot",
+        "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
+        "refresh_num_limit": 0,
+        "system": "1",
+        "display_index": 1,
+        "discount": 0,
+        "initiative_refresh": 0,
+        "id": 222,
+        "display_group": 19,
+        "shop_label": "",
+        "cost_id": [
+            53113,
+            54070,
+            1
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
+    },
+    "223": {
+        "operation_stop_id": 853,
+        "open_condition": 0,
+        "shop_background": "TextureConfig/Shop_activity/Sa_0001",
+        "group_name": "Redeem Center",
+        "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
+        "show_in_shop": 0,
+        "activity_id": 281462,
+        "remark": "Logistics Depot",
+        "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
+        "refresh_num_limit": 0,
+        "system": "1",
+        "display_index": 1,
+        "discount": 0,
+        "initiative_refresh": 0,
+        "id": 223,
+        "display_group": 19,
+        "shop_label": "",
+        "cost_id": [
+            53117,
+            54071,
+            1
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
+    },
+    "224": {
+        "operation_stop_id": 855,
+        "open_condition": 0,
+        "shop_background": "TextureConfig/Shop_activity/Sa_0001",
+        "group_name": "Redeem Center",
+        "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
+        "show_in_shop": 0,
+        "activity_id": 291461,
+        "remark": "Logistics Depot",
+        "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
+        "refresh_num_limit": 0,
+        "system": "1",
+        "display_index": 1,
+        "discount": 0,
+        "initiative_refresh": 0,
+        "id": 224,
+        "display_group": 19,
+        "shop_label": "",
+        "cost_id": [
+            53119,
+            54073,
+            1
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
+    },
+    "225": {
+        "operation_stop_id": 0,
+        "open_condition": 0,
+        "shop_background": "TextureConfig/Shop_activity/Sa_0001",
+        "group_name": "Redeem Center",
+        "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
+        "show_in_shop": 0,
+        "activity_id": 291462,
+        "remark": "Logistics Depot",
+        "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
+        "refresh_num_limit": 0,
+        "system": "1",
+        "display_index": 1,
+        "discount": 0,
+        "initiative_refresh": 0,
+        "id": 225,
+        "display_group": 19,
+        "shop_label": "",
+        "cost_id": [
+            53125,
+            54076,
+            1
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "300": {
         "operation_stop_id": 0,
@@ -1537,13 +2284,17 @@
         "shop_background": "",
         "group_name": "Banquet Invitation",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 181462,
         "remark": "Service Center",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 300,
         "display_group": 20,
@@ -1554,7 +2305,9 @@
             53031,
             1,
             32
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "301": {
         "operation_stop_id": 0,
@@ -1562,13 +2315,17 @@
         "shop_background": "TextureConfig/Shop_activity/Sa_0003",
         "group_name": "BanquetInvitation",
         "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
         "show_in_shop": 0,
         "activity_id": 231463,
         "remark": "Service Center",
         "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
         "refresh_num_limit": 0,
         "system": "1",
         "display_index": 1,
+        "discount": 0,
         "initiative_refresh": 0,
         "id": 301,
         "display_group": 20,
@@ -1579,7 +2336,68 @@
             5303101,
             1,
             32
-        ]
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
+    },
+    "302": {
+        "operation_stop_id": 854,
+        "open_condition": 0,
+        "shop_background": "TextureConfig/Shop_activity/Sa_0004",
+        "group_name": "Black Market Shop",
+        "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
+        "show_in_shop": 0,
+        "activity_id": 293311,
+        "remark": "Black Market Shop",
+        "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
+        "refresh_num_limit": 0,
+        "system": "1",
+        "display_index": 1,
+        "discount": 0,
+        "initiative_refresh": 0,
+        "id": 302,
+        "display_group": 23,
+        "shop_label": "",
+        "cost_id": [
+            53118
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
+    },
+    "303": {
+        "operation_stop_id": 0,
+        "open_condition": 0,
+        "shop_background": "TextureConfig/Shop_activity/Sa_0005",
+        "group_name": "Starlit Musings",
+        "chain_last_visible": 0,
+        "is_limit_buy_discount": 0,
+        "show_in_shop": 0,
+        "activity_id": 291463,
+        "remark": "Starlit Musings",
+        "params": "",
+        "is_limit_time_discount": 0,
+        "cheap_limit_currency": "",
+        "refresh_num_limit": 0,
+        "system": "1",
+        "display_index": 1,
+        "discount": 0,
+        "initiative_refresh": 0,
+        "id": 303,
+        "display_group": 23,
+        "shop_label": "",
+        "cost_id": [
+            53122,
+            53120,
+            53121,
+            53124,
+            1,
+            32
+        ],
+        "cheap_open_time": [],
+        "cheap_close_time": []
     },
     "get_id_list_by_system": [
         [
@@ -1639,8 +2457,15 @@
             218,
             220,
             221,
+            230,
+            222,
+            223,
+            224,
+            225,
             300,
-            301
+            301,
+            302,
+            303
         ],
         [
             3,
@@ -1732,7 +2557,14 @@
         218,
         220,
         221,
+        230,
+        222,
+        223,
+        224,
+        225,
         300,
-        301
+        301,
+        302,
+        303
     ]
 }

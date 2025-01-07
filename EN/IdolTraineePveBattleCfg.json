@@ -1,14 +1,12 @@
 {
     "101": {
-        "stage_picture": "mng_002",
+        "scene_id": 102,
         "name": "Stage 1",
-        "race_id_list": "",
-        "addition": 0,
-        "stage_desc": "Take on stages to earn more points!",
-        "scene_name": "WT02",
-        "bgm": 1002,
         "npc_id": 903901,
-        "cam_director_prefab": "WT02_VCam",
+        "stage_desc": "Take on stages to earn more points!",
+        "race_id_list": "",
+        "bgm": 1002,
+        "addition": 0,
         "id": 101,
         "peculiarity_rate": [
             100,
@@ -24,15 +22,13 @@
         ]
     },
     "102": {
-        "stage_picture": "mng_002",
+        "scene_id": 102,
         "name": "Stage 2",
-        "race_id_list": "",
-        "addition": 0,
-        "stage_desc": "Take on stages to earn more points!",
-        "scene_name": "WT02",
-        "bgm": 1004,
         "npc_id": 908401,
-        "cam_director_prefab": "WT02_VCam",
+        "stage_desc": "Take on stages to earn more points!",
+        "race_id_list": "",
+        "bgm": 1004,
+        "addition": 0,
         "id": 102,
         "peculiarity_rate": [
             100,
@@ -48,15 +44,13 @@
         ]
     },
     "103": {
-        "stage_picture": "mng_002",
+        "scene_id": 101,
         "name": "Stage 3",
-        "race_id_list": "",
-        "addition": 0,
-        "stage_desc": "Take on stages to earn more points!",
-        "scene_name": "WT01",
-        "bgm": 1003,
         "npc_id": 914801,
-        "cam_director_prefab": "WT01_VCam",
+        "stage_desc": "Take on stages to earn more points!",
+        "race_id_list": "",
+        "bgm": 1003,
+        "addition": 0,
         "id": 103,
         "peculiarity_rate": [
             100,

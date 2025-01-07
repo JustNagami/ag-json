@@ -1,0 +1,60 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Naughty Duck",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_01",
+        "desc": "An ordinary duck that likes to cause trouble.\n+100 points when repelled."
+    },
+    "2": {
+        "id": 2,
+        "name": "Bubble Duck",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_02",
+        "desc": "This duck wound up in the bubbles and found that it could use them as a shield. You'll have to teach it a lesson to get it to stop!\n+600 points when repelled, grants 20 extra Rage."
+    },
+    "3": {
+        "id": 3,
+        "name": "Visitors",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_03",
+        "desc": "Don't hit the tourists!\n-100 points when repelled."
+    },
+    "4": {
+        "id": 4,
+        "name": "Speedy Duck",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_04",
+        "desc": "This duck moves fast, so keep your eye on it!\n+200 points when repelled."
+    },
+    "5": {
+        "id": 5,
+        "name": "Naughty Duck",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_01",
+        "desc": "An ordinary duck that likes to cause trouble.\n+100 points when repelled, increases time remaining by 1s."
+    },
+    "6": {
+        "id": 6,
+        "name": "Bubble Duck",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_02",
+        "desc": "This duck wound up in the bubbles and found that it could use them as a shield. You'll have to teach it a lesson to get it to stop!\n+600 points when repelled, increases time remaining by 3s, grants 20 extra Rage."
+    },
+    "7": {
+        "id": 7,
+        "name": "Visitors",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_03",
+        "desc": "Don't hit the tourists!\n-100 points when repelled, reduces time remaining by 3s."
+    },
+    "8": {
+        "id": 8,
+        "name": "Speedy Duck",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_04",
+        "desc": "This duck moves fast, so keep your eye on it!\n+200 points when repelled, increases remaining time by 1s."
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ]
+}

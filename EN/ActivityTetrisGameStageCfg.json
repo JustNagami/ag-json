@@ -1,0 +1,82 @@
+{
+    "1": {
+        "time": 150,
+        "pre_chapter": 0,
+        "stageID": 1,
+        "type": 1,
+        "round_max": 0,
+        "icon": "",
+        "desc": "Limited-Time Integration Test",
+        "skill_list": []
+    },
+    "2": {
+        "time": 0,
+        "pre_chapter": 0,
+        "stageID": 2,
+        "type": 2,
+        "round_max": 7,
+        "icon": "",
+        "desc": "Module Convection",
+        "skill_list": [
+            1001
+        ]
+    },
+    "3": {
+        "time": 0,
+        "pre_chapter": 2,
+        "stageID": 3,
+        "type": 2,
+        "round_max": 20,
+        "icon": "",
+        "desc": "Data Reset",
+        "skill_list": [
+            1002
+        ]
+    },
+    "4": {
+        "time": 0,
+        "pre_chapter": 3,
+        "stageID": 4,
+        "type": 2,
+        "round_max": 5,
+        "icon": "",
+        "desc": "Stable Link",
+        "skill_list": [
+            1003
+        ]
+    },
+    "5": {
+        "time": 0,
+        "pre_chapter": 0,
+        "stageID": 5,
+        "type": 2,
+        "round_max": 30,
+        "icon": "",
+        "desc": "Transfer Charge",
+        "skill_list": [
+            1002,
+            1005
+        ]
+    },
+    "6": {
+        "time": 0,
+        "pre_chapter": 5,
+        "stageID": 6,
+        "type": 2,
+        "round_max": 10,
+        "icon": "",
+        "desc": "Real-Time Transmission",
+        "skill_list": [
+            1001,
+            1006
+        ]
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ]
+}

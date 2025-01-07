@@ -696,7 +696,7 @@
         ],
         "simple_strength_description": [
             103841,
-            "Equipping by Radiant Feather - Hera grants the following effects:\nSkill 2: <color=#297DE0>Blazing Embrace</color> is replaced by <color=#297DE0>Burning Dance</color>.\nHits landed on enemies with Scorch using <color=#297DE0>Burning Dance</color> deal more Non-DoT Base DMG.\nIncreases the Base DMG of <color=#297DE0>Solar Blaze</color>."
+            "Equipping by Radiant Feather - Hera grants the following effects:\nIncreases the Base DMG of Skill 3.\nSkill 2: <color=#297DE0>Blazing Embrace</color> is replaced by <color=#297DE0>Burning Dance</color>.\nHits landed on enemies with Scorch using <color=#297DE0>Burning Dance</color> deal more Non-DoT Base DMG."
         ]
     },
     "103901": {
@@ -763,7 +763,7 @@
         ],
         "simple_strength_description": [
             104841,
-            "Equipping by Comet R4Y - Zenkibo Tengu grants the following effects:\nReplaces Skill 1: <color=#297DE0>Precision Bombing</color> with <color=#297DE0>Repeat Bombardment</color>.\nIncreases the number of strikes with <color=#297DE0>Repeat Bombardment</color>, with subsequent strikes dealing less DMG to the same enemy.\nIncreases the Base DMG of <color=#297DE0>Guided Strike</color> and <color=#297DE0>Pulsation</color>."
+            "Equipping by Comet R4Y - Zenkibo Tengu grants the following effects:\nIncreases the Base DMG of Skill 2 and 3.\nReplaces Skill 1: <color=#297DE0>Precision Bombing</color> with <color=#297DE0>Repeat Bombardment</color>.\nIncreases the number of strikes with <color=#297DE0>Repeat Bombardment</color>, with subsequent strikes dealing less DMG to the same enemy."
         ]
     },
     "106601": {
@@ -801,7 +801,7 @@
         ],
         "simple_strength_description": [
             106641,
-            "Equipping by Early Sakura - Ookuninushi grants the following effects:\nReplaces Skill: <color=#297DE0>BunBun Gunner</color> with <color=#297DE0>BunBun Strike</color>.\nThe higher the Exclusive Functor level, the higher the Non-DoT Base DMG of <color=#297DE0>BunBun Strike</color> and its drag radius.\nIncreases Crit DMG when the Mod or a Teammate is in any <material=underline c=#297DE0 h=2 event=terminology args=(106601)>Divination</material> state."
+            "Equipping by Early Sakura - Ookuninushi grants the following effects:\nReplaces Skill: <color=#297DE0>BunBun Gunner</color> with <color=#297DE0>BunBun Strike</color>.\nThe higher the Exclusive Functor level, the higher the Non-DoT Independent DMG of <color=#297DE0>BunBun Strike</color> and its drag radius.\nIncreases Crit DMG when the Mod or a Teammate is in any <material=underline c=#297DE0 h=2 event=terminology args=(106601)>Divination</material> state."
         ]
     },
     "108401": {
@@ -1029,7 +1029,7 @@
         ],
         "simple_strength_description": [
             114841,
-            "Equipping by Surefire - Zenkibo Tengu grants the following effects:\nIncreases Trace limit.\nIncreases DMG with every Trace expended."
+            "Equipping by Surefire - Zenkibo Tengu grants the following effects:\nBase DMG of Skill 3 is increased.\nIncreases Trace limit.\nIncreases DMG with every Trace expended."
         ]
     },
     "102701": {
@@ -1099,8 +1099,14 @@
         "spec_char": [
             1094
         ],
-        "strengthen_description": [],
-        "simple_strength_description": []
+        "strengthen_description": [
+            109441,
+            220109401
+        ],
+        "simple_strength_description": [
+            109441,
+            "Equipping by Darkstar - Hel grants the following effects:\nReduces Divine Grace cost when firing with Cannon Tower and increases the Independent DMG of cannon shots."
+        ]
     },
     "103601": {
         "simple_description": "",
@@ -1268,7 +1274,7 @@
         ],
         "simple_strength_description": [
             118441,
-            "Equipping by Archaic Oath - Verthandi grants the following effects:\nIncreases Thunder DMG and Skill DMG dealt whenever a member of the team gets a shield from <color=#297DE0>Protection of Faith</color>.\nWhen the shield from <color=#297DE0>Protection of Faith</color> is removed or refreshed, it causes an explosion which deals Thunder DMG to enemies within range.\nUse of <color=#297DE0>Counter Strike</color> taunts all enemies.\nHits landed with an Ultimate Skill or Ultimate Skillchain instantly increases the Mod Index Multiplier.\nShortens the CD of <color=#297DE0>Protection of Faith</color>."
+            "Equipping by Archaic Oath - Verthandi grants the following effects:\nIncreases ATK and Thunder DMG whenever a member of the team gets a shield from <color=#297DE0>Protection of Faith</color>.\nWhen the shield from <color=#297DE0>Protection of Faith</color> is removed or refreshed, it causes an explosion which deals AoE Thunder DMG.\nUse of <color=#297DE0>Counter Strike</color> taunts all enemies.\nHits landed with an Ultimate Skill or Ultimate Skillchain instantly increases the Mod Index Multiplier.\nShortens the CD of <color=#297DE0>Protection of Faith</color>."
         ]
     },
     "105901": {
@@ -1335,7 +1341,7 @@
         ],
         "simple_strength_description": [
             109641,
-            "Equipping by Windwalker - Hermes grants the following effects:\nTap on the Normal Attack button again after the final strike of a normal attack to launch a follow-up attack with <color=#297DE0>Ride with the Wind</color> at the cost of Rage. Launching <color=#297DE0>Ride with the Wind</color> attacks in this manner does not trigger CD.\nThe <color=#297DE0>Ride with the Wind</color> follow-up attack also reduces the Wind RES of enemies hit."
+            "Equipping by Windwalker - Hermes grants the following effects:\nBase DMG of Skill 3 is increased.\nTap on the Normal Attack button again after the final strike of a normal attack to launch a follow-up attack with <color=#297DE0>Ride with the Wind</color> at the cost of Rage. Launching <color=#297DE0>Ride with the Wind</color> attacks in this manner does not trigger CD.\nThe <color=#297DE0>Ride with the Wind</color> follow-up attack also reduces the Wind RES of enemies hit."
         ]
     },
     "102601": {
@@ -1461,7 +1467,7 @@
         ],
         "simple_strength_description": [
             109741,
-            "Equipping by Drowsie - Oneiroi grants the following effects:\nReplaces Skill 2: <color=#297DE0>Fairytale Illustrated</color> with <color=#297DE0>Garden of Dreams</color>.\nWhile <color=#297DE0>Garden of Dreams</color> is active, increases the Base DMG of <color=#297DE0>Counting Sheep</color> and <color=#297DE0>Hollow Dream</color>.\nWhile <color=#297DE0>Garden of Dreams</color> is active, all allies takes less DMG and inflicts enemies hit with the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(109703)>Dreamland</material></color> state. Inflicts Shadow DMG at regular intervals to all enemies in <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(109703)>Dreamland</material></color> state."
+            "Equipping by Drowsie - Oneiroi grants the following effects:\nReplaces Skill 2: <color=#297DE0>Fairytale Illustrated</color> with <color=#297DE0>Garden of Dreams</color>.\nWhile <color=#297DE0>Garden of Dreams</color> is active, increases the Base DMG of Skill 1 and Skill 3.\nWhile <color=#297DE0>Garden of Dreams</color> is active, all allies takes less DMG and inflicts enemies hit with the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(109703)>Dreamland</material></color> state. Inflicts Shadow DMG at regular intervals to all enemies in <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(109703)>Dreamland</material></color> state."
         ]
     },
     "113901": {
@@ -1554,8 +1560,14 @@
         "spec_char": [
             1056
         ],
-        "strengthen_description": [],
-        "simple_strength_description": []
+        "strengthen_description": [
+            105641,
+            220105601
+        ],
+        "simple_strength_description": [
+            105641,
+            "Equipping by Thundertusk - Kali grants the following effects:\nBase DMG of Skill 1, 2 and 3 is increased.\nGrants an enhancement effect when Kali enters battle, triggers the Dodge effect, or enters Modified Mode for the first time.\nIncreases ATK each time an enhanced effect is cast.\nThe additional kick from the enhanced version of <color=#297DE0>Shinra: Thunderweave</color> and the charge of the enhanced version of <color=#297DE0>Shinra: Thousandbolt</color> will not be interrupted by Dodge. Simply tap on the skill again to continue the kick or the charge."
+        ]
     },
     "111101": {
         "simple_description": "Equipping by Living Soul - Osiris grants the following effects:\nIncreases Trace limit. When the Mod enters the battlefield, both the Mod and other Mods who have a preset Ultimate Skillchain with this Mod get Ultimate Skill charge.\nWhen <color=#297DE0>Darkwing Scythe</color> is cast a second time when in CD, the second cast does not expend any Traces.\nIntermittently restores HP whenever <color=#297DE0>Soul Death</color> hits. Expends all remaining Traces, increasing the DMG of <color=#297DE0>Soul Death</color> depending on the extra Traces expended.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(111101)>Judge of the Underworld Mode</material></color>: Increases the DMG boost and HP recovery effects of <color=#297DE0>Soul Death</color> cast under this mode.",
@@ -1736,8 +1748,14 @@
         "spec_char": [
             1035
         ],
-        "strengthen_description": [],
-        "simple_strength_description": []
+        "strengthen_description": [
+            103541,
+            220103501
+        ],
+        "simple_strength_description": [
+            103541,
+            "Equipping by Croc Rage - Sobek grants the following effects:\nThe Base DMG of Skill 2 is increased.\nIncreases the attack frequency of <color=#297DE0>Roar of the Nile</color>.\nThe Water RES of the enemy hit is reduced.\nWhen enemies hit by <color=#297DE0>Wavebreaker</color> hit the ground, DMG is increased. When an enemy who cannot be picked up is hit by the last phase of <color=#297DE0>Wavebreaker</color>, recovers Ultimate Skill charge."
+        ]
     },
     "103301": {
         "simple_description": "Equipping by Enlightening - Heimdall grants the following effects:\nSkill 3 <color=#297DE0>Lightrealm Ultimate</color> is replaced with <color=#297DE0>Gensrealm Ultimate</color>. \nDuration of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(103301)>Realm of Truth</material></color> generated by <color=#297DE0>Gensrealm Ultimate</color> is extended, and the AoE radius is increased.\nTeammates within the last generated <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(103301)>Realm of Truth</material></color> gain Skill DMG boost at regular intervals.",
@@ -1778,7 +1796,7 @@
         ]
     },
     "112701": {
-        "simple_description": "When equipped by Countertide - Leviathan, reduces the remaining CD of Undercurrent each time a Trace is successfully gained or when Azure Aid is cast. Casting Azure Aid generates an area that follows the Mod, reducing the Melee DMG RES of enemies within the area.",
+        "simple_description": "Equipping by Countertide - Leviathan grants the following effects:\nReduces the remaining CD of Undercurrent each time a Trace is successfully gained or when Azure Aid is cast. Casting Azure Aid generates an area that follows the Mod, reducing the Melee DMG RES of enemies within the area.",
         "id": 112701,
         "description": [
             500112701
@@ -1803,7 +1821,7 @@
         ],
         "simple_strength_description": [
             112741,
-            "Equipping by Countertide - Leviathan grants the following effects: Shortens the remaining CD of <color=#297DE0>Undercurrent</color> each time a Mark is obtained or <color=#297DE0>Azure Aid</color> is cast. Casting <color=#297DE0>Azure Aid</color> also creates an area that follows the Mod, which lowers the Melee RES of enemies hit within the area.\nIncreases the Base DMG of <color=#297DE0>Azure Aid</color>."
+            "Equipping by Countertide - Leviathan grants the following effects:\nBase DMG of Skill 3 is increased.\nReduces the remaining CD of <color=#297DE0>Undercurrent</color> each time a Trace is successfully gained or when <color=#297DE0>Azure Aid</color> is cast. Casting <color=#297DE0>Azure Aid</color> generates an area that follows the Mod, reducing the Melee DMG RES of enemies within the area."
         ]
     },
     "108101": {
@@ -1949,8 +1967,14 @@
         "spec_char": [
             1068
         ],
-        "strengthen_description": [],
-        "simple_strength_description": []
+        "strengthen_description": [
+            106841,
+            220106801
+        ],
+        "simple_strength_description": [
+            106841,
+            "Equipping by Cleansing Wind - Enlil grants the following effects:\nIncreases DMG dealt each time a <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(106801)>Windchime</material></color> Mark is gained.\nGrants a <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(106801)>Windchime</material></color> Mark when the non-enhanced version of <color=#297DE0>Stir in the Wind</color> is cast.\nGrants the skill enhancement effects of the non-enhanced version of <color=#297DE0>Stir in the Wind</color> when the enhanced version of <color=#297DE0>Stir in the Wind</color> finishes casting.\nIncreases the Ultimate Skill DMG of all teammates when using Ultimate Skills or Ultimate Skillchains."
+        ]
     },
     "106701": {
         "simple_description": "Equipping by Backflowing - Oceanus grants the following effects:\nCrit Rate is increased.\nEach normal attack that hits an enemy and each skill cast grants a combo stack, when the combo stacks are full, stopped, or interrupted, a Ghost is generated briefly that continuously attacks the locked on enemy. The amount of attacks launched by the Ghost depends on the combo stacks. The attacks from the Ghost do not grant more combo stacks, its attacks deal Water DMG and DMG is increased based on the number of combo stacks consumed.",
@@ -2030,13 +2054,13 @@
         ],
         "level_param": [
             [
-                24000,
-                24000,
-                24000,
-                24000,
-                24000,
-                24000,
-                24000
+                12000,
+                12000,
+                12000,
+                12000,
+                12000,
+                12000,
+                12000
             ],
             [
                 40,
@@ -2073,13 +2097,55 @@
                 560,
                 630,
                 700
+            ],
+            [
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000
+            ],
+            [
+                154,
+                154,
+                154,
+                154,
+                154,
+                154,
+                154
+            ],
+            [
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000
+            ],
+            [
+                154,
+                154,
+                154,
+                154,
+                154,
+                154,
+                154
             ]
         ],
         "spec_char": [
             1024
         ],
-        "strengthen_description": [],
-        "simple_strength_description": []
+        "strengthen_description": [
+            102441,
+            220102401
+        ],
+        "simple_strength_description": [
+            102441,
+            "Equipping by Jackal - Anubis grants the following effects:\nWhen <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102401)>Jackal Spirit</material></color> attacks automatically, there is a certain chance to unleash a special attack that deals Shadow DMG and inflicts Stun on enemies hit.\nWhen casting <color=#297DE0>Jackal Charge</color>, the joint attack by <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102401)>Jackal Spirit</material></color> will carry an explosive effect, dealing Shadow DMG to enemies within a small range.\nWhen casting <color=#297DE0>Jackal Whirl</color>, the joint attack by <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102401)>Jackal Spirit</material></color> will become a special attack.\nWhen casting <color=#297DE0>Jackal's Gaze</color> or <color=#297DE0>Jackal's Wild Slash</color>, <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102401)>Jackal Spirit</material></color> will launch a joint attack or the special attack depending on the distance to the locked-on enemy.\nWhen <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102401)>Jackal Spirit</material></color> attacks hit, Non-DoT DMG is increased.\nAlso increases Crit Rate."
+        ]
     },
     "101601": {
         "simple_description": "Equipping by Wasteland Fiend - Kingu grants the following effects:\nThe Chainsaw Mode of <color=#297DE0>Assault Tactic</color> can interrupt the raising sword action of <color=#297DE0>Spinning Slash</color> and directly cut the enemy with the Wasteland Fiend.\nWhen casting the Chainsaw Mode of <color=#297DE0>Assault Tactic</color>, gains Super Armor effect and increases Physical DMG upon hitting.\nWhen in Modified Mode, casting the Chainsaw Mode of <color=#297DE0>Assault Tactic</color> or <color=#297DE0>Siege Tactic</color> will increase Skill DMG based on Divine Grace expended.",
@@ -2110,8 +2176,14 @@
         "spec_char": [
             1016
         ],
-        "strengthen_description": [],
-        "simple_strength_description": []
+        "strengthen_description": [
+            101641,
+            220101601
+        ],
+        "simple_strength_description": [
+            101641,
+            "Equipping by Wasteland Fiend - Kingu grants the following effects:\n<color=#297DE0>Assault Tactic's</color> Chainsaw Mode can skip the sword-wielding action of <color=#297DE0>Spinning Slash</color> and directly cut the enemy with Wasteland Fiend.\nGrants Super Armor when casting <color=#297DE0>Assault Tactic</color> in Chainsaw Mode and increases Physical DMG upon landing a hit.\nWhen in Modified Mode, casting the <color=#297DE0>Assault Tactic</color> or <color=#297DE0>Siege Tactic</color> in Chainsaw Mode will increase the Skill DMG of the skill cast based on Divine Grace expended.\n<color=#297DE0>Siege Tactic's</color> Greatsword Mode reduces the enemy's Physical and RES states."
+        ]
     },
     "105201": {
         "simple_description": "Equipping by Rage Serpent - Marduk grants the following effects:\nWhen a teammate casts a skill or Ultimate Skill, a drone that corresponds to either <color=#297DE0>Quick Response</color> or <color=#297DE0>Surround & Eliminate</color> will be randomly summoned, dealing corresponding Physical DMG and grants additional ATK to all members of the team.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105203)>Rafale Mode</material></color>: Reduces Energy cost when a teammate summons drones in this mode; also increases Skill 2 Base DMG of all teammates.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105204)>Bourasque Mode</material></color>: Increases Energy gain rate when a teammate summons drones in this mode; also increases Skill 3 Base DMG of all teammates.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105205)>Whirlwind Mode</material></color>: When a teammate summons a drone in this mode, reduces the enemy's corresponding type of RES based on said teammates' DMG type and DMG amount.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105206)>Hurricane Mode</material></color>: When a teammate summons a drone in this mode, their Crit Rate increases. Entering Zero Time while this effect is active will refresh the effect duration and shares the Crit Rate boost with other teammates.",
@@ -2214,8 +2286,14 @@
         "spec_char": [
             1052
         ],
-        "strengthen_description": [],
-        "simple_strength_description": []
+        "strengthen_description": [
+            105241,
+            220105201
+        ],
+        "simple_strength_description": [
+            105241,
+            "Equipping by Rage Serpent - Marduk grants the following effects:\nWhen a teammate casts a skill or Ultimate Skill, a drone that corresponds to either <color=#297DE0>Quick Response</color> or <color=#297DE0>Surround & Eliminate</color> will be randomly summoned, dealing corresponding Physical DMG and grants additional ATK to all members of the team.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105203)>Rafale Mode</material></color>: Reduces Energy cost when a teammate summons drones in this mode; also increases Skill 2 Base DMG of all teammates.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105204)>Bourasque Mode</material></color>: Increases Energy gain rate when a teammate summons drones in this mode; also increases Skill 3 Base DMG of all teammates.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105205)>Whirlwind Mode</material></color>: When a teammate summons a drone in this mode, reduces the enemy's corresponding type of RES based on said teammate's element.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105206)>Hurricane Mode</material></color>: When a teammate summons a drone in this mode, the Crit Rate of all teammates increases."
+        ]
     },
     "101701": {
         "simple_description": "Equipping by Ailuros - Bastet grants the following effects:\nIncreases the Mod's Armor Pierce and Crit DMG; also greatly increases the Mod's Crit Rate when attacking enemies from behind.\nEnters <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(101703)>Nightshadow</material></color> state when casting <color=#297DE0>Bastet's Caprice</color>.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(101703)>Nightshadow</material></color>: Disappears and gains a movement SPD boost. Increases the first damage dealt under this state. Mod exits the state after hitting an enemy or receiving damage.",
@@ -3272,6 +3350,283 @@
         "strengthen_description": [],
         "simple_strength_description": []
     },
+    "102201": {
+        "simple_description": "Equipping by Serene Moon - Selene grants the following effects:\nIf not in the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102207)>Veil Over The Full Moon</material></color> state, Independent DMG is increased when <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102203)>Moonphase</material></color> is gained. If in the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102207)>Veil Over The Full Moon</material></color> state, each increase in Independent DMG is higher, with the effect duration lasting until the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102207)>Veil Over The Full Moon</material></color> state is cleared.\nThe range of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102208)>New Moon Splendor</material></color> and <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102209)>Full Moon Brilliant</material></color> is increased to cover the whole map.\nIf the Dodge effect is triggered while in the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102201)>New Moon</material></color> state, recovers HP.\nGrants Ultimate Skill charge when a Shadow Mod or teammate casts an Ultimate Skill charge or Ultimate Skillchain.",
+        "id": 102201,
+        "description": [
+            500102201
+        ],
+        "level_param": [
+            [
+                20,
+                25,
+                30,
+                35,
+                40,
+                45,
+                50
+            ],
+            [
+                80,
+                80,
+                80,
+                80,
+                80,
+                80,
+                80
+            ],
+            [
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+            ],
+            [
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150
+            ]
+        ],
+        "spec_char": [
+            1022
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "102101": {
+        "simple_description": "Equipping by Dawnray - Artemis grants the following effects:\nIndependent DMG is increased.\nThe chance of obtaining <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102101)>Luminous Echo</material></color> is increased.\nWhile in the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102102)>Dawnlight</material></color> state, DMG taken is reduced. Every strike of the special normal attack which hits will restore HP.\nWhen in the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102104)>Sonata</material></color> state, all Attribute DMG from teammates is increased, and Independent DMG is also increased.",
+        "id": 102101,
+        "description": [
+            500102101
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ],
+            [
+                500,
+                500,
+                500,
+                500,
+                500,
+                500,
+                500
+            ],
+            [
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150
+            ],
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        ],
+        "spec_char": [
+            1021
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "102001": {
+        "simple_description": "Translating:\u3010weapon_effect$102001$simple_description$0\u3011",
+        "id": 102001,
+        "description": [
+            500102001
+        ],
+        "level_param": [
+            [
+                50,
+                75,
+                100,
+                125,
+                150,
+                175,
+                200
+            ],
+            [
+                60,
+                70,
+                80,
+                90,
+                100,
+                110,
+                120
+            ],
+            [
+                150,
+                180,
+                210,
+                240,
+                270,
+                300,
+                330
+            ],
+            [
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150
+            ],
+            [
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150
+            ],
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ],
+            [
+                200,
+                200,
+                200,
+                200,
+                200,
+                200,
+                200
+            ]
+        ],
+        "spec_char": [
+            1020
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "115601": {
+        "simple_description": "Translating:\u3010weapon_effect$115601$simple_description$0\u3011",
+        "id": 115601,
+        "description": [
+            500115601
+        ],
+        "level_param": [
+            [
+                160,
+                200,
+                240,
+                280,
+                320,
+                360,
+                400
+            ],
+            [
+                70,
+                70,
+                70,
+                70,
+                70,
+                70,
+                70
+            ]
+        ],
+        "spec_char": [
+            1156
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "108901": {
+        "simple_description": "Translating:\u3010weapon_effect$108901$simple_description$0\u3011",
+        "id": 108901,
+        "description": [
+            500108901
+        ],
+        "level_param": [
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ],
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ],
+            [
+                500,
+                500,
+                500,
+                500,
+                500,
+                500,
+                500
+            ],
+            [
+                120,
+                120,
+                120,
+                120,
+                120,
+                120,
+                120
+            ],
+            [
+                100,
+                150,
+                200,
+                250,
+                300,
+                350,
+                400
+            ]
+        ],
+        "spec_char": [
+            1089
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
     "all": [
         401,
         402,
@@ -3357,6 +3712,11 @@
         101501,
         109501,
         128401,
-        119701
+        119701,
+        102201,
+        102101,
+        102001,
+        115601,
+        108901
     ]
 }

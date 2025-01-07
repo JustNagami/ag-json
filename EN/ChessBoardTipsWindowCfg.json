@@ -1,0 +1,76 @@
+{
+    "1101": {
+        "description": "Each time you <color=#F48800>step on</color> the ducky square, <color=#F48800>a ducky will spawn</color> at the same spot the following round.\n\nNote that other duckies can also trigger this effect!",
+        "icon": "mimier",
+        "tips": "Either run or go on the offense!",
+        "id": 1101,
+        "title": "About Ducky Squares"
+    },
+    "1102": {
+        "description": "When a ducky <color=#F48800>catches up to you</color>, it will <color=#F48800>rob you</color> of a certain number of Duckie Coins.\n\nTry not to have a ducky directly behind you!",
+        "icon": "mimier",
+        "tips": "It seems that something even more terrible will happen if a ducky steps on you...",
+        "id": 1102,
+        "title": "About Duckies"
+    },
+    "1103": {
+        "description": "<color=#F48800>Stepping on a ducky</color> will <color=#F48800>destroy</color> it and give you plenty of Duckie Coins.",
+        "icon": "mimier",
+        "tips": "Time to use your wits, or... wish for some luck!",
+        "id": 1103,
+        "title": "About Duckies"
+    },
+    "1104": {
+        "description": "Every time <color=#F48800>a target square is completed</color>, <color=#F48800>a new target square appears</color> elsewhere on the map.\n\n<color=#F48800>Complete all target squares</color> to clear the map.",
+        "icon": "mimier",
+        "tips": "Don't forget to bring enough Duckie Coins with you!",
+        "id": 1104,
+        "title": "About Target Squares"
+    },
+    "2101": {
+        "description": "There are <color=#F48800>terrain mechanisms</color> on certain parts of the map. Stopping on a <color=#F48800>mechanism square</color> triggers a <color=#F48800>terrain change</color>.",
+        "icon": "mimier",
+        "tips": "Keep an eye out for the map changes!",
+        "id": 2101,
+        "title": "About the Map"
+    },
+    "2102": {
+        "description": "Stopping on a <color=#F48800>game square</color> triggers a <color=#F48800>mini-game</color>. Play the game to win great prizes!",
+        "icon": "mimier",
+        "tips": "Stop thinking and rely on your instincts!",
+        "id": 2102,
+        "title": "About Game Squares"
+    },
+    "3101": {
+        "description": "Stopping on a <color=#F48800>mechanism square</color> causes the billboard vehicle to <color=#F48800>move</color>, thereby <color=#F48800>changing your possible routes</color>.",
+        "icon": "mimier",
+        "tips": "Keep an eye out for the map changes!",
+        "id": 3101,
+        "title": "About the Map"
+    },
+    "4101": {
+        "description": "<color=#F48800>Inside the park</color>, both the Admin and the duckies use the <color=#F48800>2x die</color> by default to move.",
+        "icon": "mimier",
+        "tips": "It's time to quack, quack, go!!!",
+        "id": 4101,
+        "title": "About the Map"
+    },
+    "4102": {
+        "description": "Stopping on a <color=#F48800>mechanism square</color> causes the rotating slide to <color=#F48800>turn</color>, thereby <color=#F48800>changing your possible routes</color>.",
+        "icon": "mimier",
+        "tips": "Keep an eye out for the map changes!",
+        "id": 4102,
+        "title": "About the Map"
+    },
+    "all": [
+        1101,
+        1102,
+        1103,
+        1104,
+        2101,
+        2102,
+        3101,
+        4101,
+        4102
+    ]
+}

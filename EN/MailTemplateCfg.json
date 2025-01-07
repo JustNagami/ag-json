@@ -471,6 +471,14 @@
         "mail_desc": "Congratulations for completing last week's Iterative Testing pioneer challenge event. Please check your mailbox for your rewards!",
         "mail_type": 0
     },
+    "2025": {
+        "mail_title": "C-Obs Limited Bonus Rewards",
+        "link_type": 0,
+        "id": 2025,
+        "mail_sender": "Swiggsy",
+        "mail_desc": "Dear Admin,\n     In this update, we have adjusted the limited bonuses from C-Obs and reset your first purchases and sign-in counts. These adjustments will not affect the number of days remaining on your C-Obs.\nIf you purchased C-Obs before the update and it is still in effect, but you haven't reached the requirements for limited bonuses or have not yet claimed the rewards, then we will send you the rewards immediately after the update.\nIf you purchase C-Obs again, you'll get a new round of limited bonuses.",
+        "mail_type": 0
+    },
     "2999": {
         "mail_title": "Excess Resources",
         "link_type": 0,
@@ -643,8 +651,8 @@
         "mail_title": "C-Obs Access Expiration Reminder",
         "link_type": 0,
         "id": 5005,
-        "mail_sender": "Aether Gazer Team",
-        "mail_desc": "Dear Admin,\nWe have noticed that your C-Obs access will expire on %s.\nThis will mean you can no longer obtain special supplies from the Supply Zone.\nYou may wish to consider extending your C-Obs access.\n",
+        "mail_sender": "Mimir System",
+        "mail_desc": "Dear Admin,\n     The Mimir system detected that your C-Obs expired on %s.\n     With your support, Obs Terminal ran quite well during this time.\n     We extend to you our deepest thanks for helping Mimir, and we hope to see you again soon in the observation center.",
         "mail_type": 0
     },
     "5006": {
@@ -661,6 +669,14 @@
         "id": 5007,
         "mail_sender": "Aether Gazer Team",
         "mail_desc": "Dear Admin,\nIn the latest update, we have deleted the Sigil Shard item. The %s Sigil Shards you owned have been automatically converted into Revelation items of the same value, and are attached to this message.",
+        "mail_type": 0
+    },
+    "5008": {
+        "mail_title": "Ranking Ban Notice",
+        "link_type": 0,
+        "id": 5008,
+        "mail_sender": "Aether Gazer Team",
+        "mail_desc": "The system detected abnormal gaming behavior on this account, so the ranking feature has been temporarily disabled. If you have any questions, please contact us via in-game customer service.",
         "mail_type": 0
     },
     "6001": {
@@ -1268,63 +1284,151 @@
         "link_type": 0,
         "id": 630802,
         "mail_sender": "Hel",
-        "mail_desc": "Dear Admin, I hope this finds you well.\nIs this how you start a letter?\nThis year's invitation, I plan to write myself. If I leave it to Ganglati\u2026 it will say strange things again.\n\u2026Will you come to the Arrival Day party? There will be a place saved for you.\n(Smudged marks)\n\u2026Ganglati said I shouldn't write like last time\u2026 it made you feel disliked.\nThat wasn't my intention at all. Ganglati is so nagging.\n\u2026I'm sorry, I didn't know writing like this would make you sad.\nWriting letters... is such a hassle. I just want to see you...\n\n\n<System Notification> Encrypted message\u2026 This is Ganglati.\nShe stayed up writing this letter\u2026 and fell asleep while writing.\nSo I'm adding a final note on her behalf. Remember to prepare early, Miss's party starts on time, don't be late.\nYou know, you're the only one she invited.",
+        "mail_desc": "Dear Admin, I hope this finds you well.\nIs this how you start a letter?\nThis year's invite, I plan to write myself. If I leave it to Ganglati\u2026 it will say strange things again.\n\u2026Will you come to the Arrival Day party? There will be a place saved for you.\n(Smudged marks)\n\u2026Ganglati said I shouldn't write like last time\u2026 it made you feel disliked.\nThat wasn't my intention at all. Ganglati is so nagging.\n\u2026I'm sorry, I didn't know writing like this would make you sad.\nWriting letters... is such a hassle. I just want to see you...\n\n\n<System Notification> Encrypted message\u2026 This is Ganglati.\nShe stayed up writing this letter\u2026 and fell asleep while writing.\nSo I'm adding a final note on her behalf. Remember to prepare early, Miss's party starts on time, don't be late.\nYou know, you're the only one she invited.",
         "mail_type": 1
     },
     "630901": {
-        "mail_title": "Translating:\u3010mail_template$630901$mail_title$0\u3011",
+        "mail_title": "A Sweet Ritual",
         "link_type": 0,
         "id": 630901,
-        "mail_sender": "Translating:\u3010mail_template$630901$mail_sender$0\u3011",
-        "mail_desc": "Translating:\u3010mail_template$630901$mail_desc$0\u3011",
+        "mail_sender": "Hodur",
+        "mail_desc": "Admin, what would you want to drink to keep warm on a cold day when snow blankets the bright streets of Ain Soph?\nI suppose you wouldn't refuse coffee. I remember when we were out doing field work and stopped at that restaurant, you told me that coffee was bitter and sweet, and that you couldn't help but drink one cup after another.\nThis time, on my Arrival Day, to thank you for your care over the past year, I'm inviting you to taste some coffee I brewed... What do you think?\nI do prefer the cool sweetness of sports drinks to the slight sourness of coffee... But after seeing how much you like to drink it when you're working, I got curious...\nSo I asked a barista how to roast the beans and how to do simple latte art. I hope you'll like it.\nI'll work extra hard this week so I can leave my entire weekend for you.",
         "mail_type": 1
     },
     "630902": {
-        "mail_title": "Translating:\u3010mail_template$630902$mail_title$0\u3011",
+        "mail_title": "Warm Winter Night",
         "link_type": 0,
         "id": 630902,
-        "mail_sender": "Translating:\u3010mail_template$630902$mail_sender$0\u3011",
-        "mail_desc": "Translating:\u3010mail_template$630902$mail_desc$0\u3011",
+        "mail_sender": "Enlil",
+        "mail_desc": "Thank you for your gift, Admin. In winter, everything is cold\u2014even the package you sent. But opening your gift made me feel warm and fuzzy inside.\nThis year I didn't participate in the Stellaris Academy Winter Festival. I helped cook instead. The dinner menu was huge. Fortunately, I was only responsible for the honey nut cookies. By the way, the oven mitts you gave me really came in handy.\nThe younger students followed me around as soon as the cookies came out of the oven. I wondered\u2014if you were there, would you have joined them?\nToday is the Winter Festival, but it's also my Arrival Day. In the past, I'd spend it in front of the window, watching the scattered pedestrians on the street and the heavy snow bending the branches.\nBut now it's lively and joyful outside. The painting students have decked every corner of the school in red and green, the vocal students have been rehearsing for the evening program, and the sculpture students had a snowman competition instead of making ice sculptures like they did last year.\nAnd I'm writing this letter by the lounge fireplace, freshly baked cookies at my side. Everything both inside and outside the window makes me feel warm.\nDinner will start at nightfall. I've got a plate ready for you too. Looking forward to seeing you!\nOf course, your cookie is the best part. As for what I put in it... You'll have to try it and see.",
         "mail_type": 1
     },
     "630903": {
-        "mail_title": "Translating:\u3010mail_template$630903$mail_title$0\u3011",
+        "mail_title": "Theater Invitation",
         "link_type": 0,
         "id": 630903,
-        "mail_sender": "Translating:\u3010mail_template$630903$mail_sender$0\u3011",
-        "mail_desc": "Translating:\u3010mail_template$630903$mail_desc$0\u3011",
+        "mail_sender": "Oceanus",
+        "mail_desc": "To this day, I still don't like so-called modern communication. The neat fonts and fancy interfaces are far less effective in conveying information than handwritten letters.\nBut Enlil said it's too late to send one today, so I guess I'll make an exception this time.\nI received your blessings and gifts, as always. I ought to thank you, but there's a question that's been bothering me for some time.\nYou know I've lived a long time. In order to hide my identity and move freely in human society, my official birth date as Cadyllon is far from my actual Arrival Day. I never expected anyone to care about my Arrival Day, but you take it out year after year and polish it until it reflects like a mirror. It's as though you're telling me that the road I've traveled will never be covered in dust.\nI used to think that only sculptures remember everything, recording the changes of time and making everything eternal. But maybe recording every moment can also make memories shine.\nAnd so, in addition to the gift enclosed with this letter, I've reserved seats for tonight's performance at the oldest theater in Omorfies. Perhaps commemorating this day with you will help me find my answer.\nWell, that's all I have to say. Now... Well, I just press this button and the letter goes, right?\n(garbled code and noise)",
         "mail_type": 1
     },
     "630904": {
-        "mail_title": "Translating:\u3010mail_template$630904$mail_title$0\u3011",
+        "mail_title": "Today's Trip",
         "link_type": 0,
         "id": 630904,
-        "mail_sender": "Translating:\u3010mail_template$630904$mail_sender$0\u3011",
-        "mail_desc": "Translating:\u3010mail_template$630904$mail_desc$0\u3011",
+        "mail_sender": "Shu",
+        "mail_desc": "I've arranged your schedule for today and delivered three sets of clothes to your office.\nYou'll wear the Aether Gazer uniform when we meet with CORG in the morning. At noon, we'll have lunch in the CORG cafeteria. For the afternoon, you'll need to change into a business suit and accompany me to meet one of Aether Gazer's important partners.\nThe casual outfit... well, you can think of that as an invitation from me. You can wear it in the evening if you want and finish the day with me.\nToday is my Arrival Day. Despite Poseidon's constant insistence, there was no way for me to push all my work to the side. Fortunately, you'll be with me all day. That's a little Arrival Day good luck, right?\nAfter work, I've planned for us to eat at the restaurant in the notebook. The one we didn't have time to visit last year. They just started offering a candlelight meal for two. Then we can go for a drive and a walk on the beach. The beach market sells some neat stuff, so maybe we can check it out too.\nI'll meet you in your office in half an hour to get ready.\nLooking forward to today\u2014and tonight.",
         "mail_type": 1
     },
     "630905": {
-        "mail_title": "Translating:\u3010mail_template$630905$mail_title$0\u3011",
+        "mail_title": "A Heartfelt Reply",
         "link_type": 0,
         "id": 630905,
-        "mail_sender": "Translating:\u3010mail_template$630905$mail_sender$0\u3011",
-        "mail_desc": "Translating:\u3010mail_template$630905$mail_desc$0\u3011",
+        "mail_sender": "Tyr",
+        "mail_desc": "I saw your congratulatory letter right after the meeting. I have to say, it's a bit of a relief.\nEvery year at this time, people send their wishes, most of them accompanied by expensive gifts. But these gifts are often covers for desires with higher prices.\nBut some of the wishes are pure, and yours must be one of them. Not many people have such thoughts about me, but they are all precious.\nIf it weren't for friends like you, my Arrival Day would be like any other day.\nIt's precisely because of people like you that I remind myself to take a short vacation this time every year, all because of your concern for me.\nThis year I'll take Edward and the others out on the yacht for a few days. If you're free, you're welcome to join us. So this is both a reply and an invitation.\nWe set sail in two days. I hope to hear from you by then.",
         "mail_type": 1
     },
     "630906": {
-        "mail_title": "Translating:\u3010mail_template$630906$mail_title$0\u3011",
+        "mail_title": "Happy Birthday",
         "link_type": 0,
         "id": 630906,
-        "mail_sender": "Translating:\u3010mail_template$630906$mail_sender$0\u3011",
-        "mail_desc": "Translating:\u3010mail_template$630906$mail_desc$0\u3011",
+        "mail_sender": "Gengchen",
+        "mail_desc": "Rain and mist cover the ink-stained bridge. Lotus flowers bloom on the banks around it at night.\nEvery day brings new surprises, while always remaining the same. No matter how many years go by, everything always returns to what it was at the start.\nNeighbors care for the safety of those near them, while pondering lands beyond.\nI hope the world knows peace, so we can enjoy the beauty of the moon together with our shadows.",
         "mail_type": 1
     },
     "630907": {
-        "mail_title": "Translating:\u3010mail_template$630907$mail_title$0\u3011",
+        "mail_title": "The Meaning of Birth",
         "link_type": 0,
         "id": 630907,
-        "mail_sender": "Translating:\u3010mail_template$630907$mail_sender$0\u3011",
-        "mail_desc": "Translating:\u3010mail_template$630907$mail_desc$0\u3011",
+        "mail_sender": "Vidar",
+        "mail_desc": "Admin, today is the annual day of celebration, though I still don't understand what everyone is celebrating...\nLeviathan said it's to celebrate our birth... I don't quite understand. Is there any special meaning to birth?\nI woke up on the snowfield of Jokurr, where there is only ice, snow, beasts, and Visbanes.\nI'm living well in Aether Gazer now. There's you, Leviathan, and many others; we don't need to worry about food or warmth. But I still dream about my days in the snowfield. I used to think I came here just to fight non-stop, but apparently that's not the case...\nAdmin, if you're free, will you go back with me today? I want to show you the life I used to lead.\nYou're really smart. If it were you, what would you celebrate?",
+        "mail_type": 1
+    },
+    "631001": {
+        "mail_title": "Between the Lines",
+        "link_type": 0,
+        "id": 631001,
+        "mail_sender": "Thoth",
+        "mail_desc": "I've received your gift. It must have taken you ages to gather these letters from all over... That promise we made is always on your mind, huh?\nElectronically recording my daily thoughts and feelings lacks that personal touch. But when those thoughts are shaped into letters and delivered into someone's hands\u2014carefully crafted with the tip of a pen\u2014even ordinary little things become something to cherish.\nWhen we exchange letters, you always uncover charming little details I hadn't noticed, as though we experienced those moments side by side. The secrets once hidden in my diary now have a listener, and to my surprise, it's a wonderful feeling.\nAs for our celebration, how about we meet at my place this time? Cooking isn't exactly my forte, but consider cooking with a recipe my gift to you.\nAfter dinner, we can enjoy a cup of that calming black tea we're so fond of. Its soothing effects will leave us relaxed\u2014and ensure a good night's sleep.\nAnd those things you didn't know how to express in writing... How about telling me in person? It's my turn to listen to your secrets.",
+        "mail_type": 1
+    },
+    "631002": {
+        "mail_title": "Thanks for the Invite",
+        "link_type": 0,
+        "id": 631002,
+        "mail_sender": "Hades",
+        "mail_desc": "I've received your invitation and gift. Did you make that doll yourself? It's quite wonderful\u2014I like it very much.\nThe Society of Muses has been brimming with artistic submissions lately. Without your reminder, I might have let Arrival Day slip my mind entirely.\nSince you put so much thought into inviting me, I guess I'll take advantage of Arrival Day to relax and grant this unusual request of yours.\nHowever, simply watching the performance isn't enough for me. I'll be counting on you to kindle inspiration for my next work.\nConsider it my wish for Arrival Day\u2014I hope I won't leave empty-handed again.\nIf all goes well, the next time you visit Omorfies, I'll give it to you to return the favor.",
+        "mail_type": 1
+    },
+    "631003": {
+        "mail_title": "Untimely Rainstorm",
+        "link_type": 0,
+        "id": 631003,
+        "mail_sender": "Bastet",
+        "mail_desc": "Admin, I received the hairpin you sent me. Can you guess where I've pinned it?\nI planned to reveal the answer to you at the ball, but Miss Raincloud decided to crash the party\u2014it's raining cats and dogs outside, and the sky is all gloomy.\nWhenever this happens, I can't help but worry about thunder showing up next, and it always puts me in a foul mood.\nAfter all, I'm a little afraid of thunder. As for why\u2026 well, you know the reason.\nLooks like the Arrival Day ball is a bust this year. Still, since it's my Arrival Day, I intend to make a wish.\nCan I ask you to stay by my side tonight?",
+        "mail_type": 1
+    },
+    "631101": {
+        "mail_title": "Punishment for Misbehavior",
+        "link_type": 0,
+        "id": 631101,
+        "mail_sender": "Kuninotokotachi",
+        "mail_desc": "Why didn't you stay with me for a while longer? You left in such a hurry!\nThe way you turned your back to me and walked away really hurt my heart. It was just a kiss\u2026 Did you have some weird thoughts and run off cause you got shy?\nI've seen you in every way, so why do you still get shy so easily? It's adorable.\nIf I didn't have an urgent task to take care of right now, I'd be running off to find you and finish what we started\u2014right now!\nAs punishment for leaving me all alone just now, when I come back tonight, I expect to see you waiting for me in your room!",
+        "mail_type": 1
+    },
+    "631102": {
+        "mail_title": "Wish on the Ema Plaque",
+        "link_type": 0,
+        "id": 631102,
+        "mail_sender": "Verthandi",
+        "mail_desc": "The first message I received upon waking up was your Arrival Day wish, Admin! Today must be my lucky day!\nI couldn't stop thinking about it all morning, and even started giggling during training, which earned me a scolding from Miss Shu for not paying attention\u2026 Oh no, I'm rambling again!\nI saw an ad for the Spring Promenade in Citizens Park earlier. There'll be a snack street, all sorts of mini-game booths, and even an exclusive Wish Shrine event.\nFrom what everyone on the Pheasant Squad told me, the Ema plaque only works if you write your wish on it and hang it at the shrine. Admin, I know you said you'd give me another one, but I was thinking\u2026 maybe we can make a wish together this time!\nIt's a date! Let's meet at the station soon. See you there!",
+        "mail_type": 1
+    },
+    "631103": {
+        "mail_title": "Come, or I'll Come for You!!!",
+        "link_type": 0,
+        "id": 631103,
+        "mail_sender": "Brahm\u0101",
+        "mail_desc": "Tada! This is an invitation to my Arrival Day party written by me personally\u2014and by that, I mean by placing my hand firmly on Parvati's head as she does the work of putting words to paper.\nAs to why I have to make Parvati do it this way, you, the \"accomplice,\" must know the reason very well, don't you?\nA few days ago, I received an email containing well wishes in my private mailbox. While this should have been a happy thing, but guess what?\nIt was an unsigned email wishing me well for my Arrival Day. However, oddly enough, it also claimed that I'm a \"neglectful boss\" who's been exploiting the employees of Meruism, \"especially Parvati,\" every day. Thankfully, it didn't take me very much to uncover the culprit. I don't suppose you knew that Parvati would insert something like that into the email under the pretext of helping you send the message to me...\nI can't believe that the culprit is my beloved Parvati! How saddening!\nSo, to punish the treacherous Parvati, I've decided to have her organize my Arrival Day party this year all by herself!\nYou're coming to the party, aren't you, Admin? If you say no, I swear I will follow the network cables to where you are and come get you myself!!!",
+        "mail_type": 1
+    },
+    "631104": {
+        "mail_title": "Unpublished Song",
+        "link_type": 0,
+        "id": 631104,
+        "mail_sender": "Selene",
+        "mail_desc": "Admin, I received the music box you sent a few days ago. The works of that music box maker from Ain Soph are quite rare. I can only imagine the effort it took to get one, and I truly cherish it.\nHades mentioned that Leuce and Mintha prepare an Arrival Day banquet for her every year, and she suggested I invite some close acquaintances to host something similar. I turned her down.\nSuch festivities suit the younger crowd, and only someone with a personality like hers would have the energy to celebrate every year. I'm simply not interested.\nHowever, she made a valid point\u2014special days should indeed be shared with someone.\nI've composed a new song, inspired by the music box you sent me. I don't intend to publish this piece, but I'd like to share it with you.\nHow about tonight?",
+        "mail_type": 1
+    },
+    "631105": {
+        "mail_title": "Taste of Spring",
+        "link_type": 0,
+        "id": 631105,
+        "mail_sender": "Yingzhao",
+        "mail_desc": "Time flies\u2014it's the beginning of spring again.\nLinyu went behind my back and requested a few days off for me in advance from Boss Luliang. With nothing much to do at home, I've been tending to the plants in Sophora Garden and noticed the tender tips of bamboo shoots starting to sprout.\nWhile strolling through the garden, Linyu started mumbling about dishes to prepare for Arrival Day. That gave me an idea\u2014I plan to ask Linyu to teach me how to cook. Would you like to join in?\nI've heard that the season for bamboo shoots is short, and they're best picked and cooked fresh on the same day. Perhaps their tender sprouts embody the spirit of spring, demanding the gentlest of care.\nIf we could share this taste of spring together, maybe it would leave a memory where the beauty of early spring intertwines with my Arrival Day... a selfish wish of mine, I admit.\nI'll be waiting with all the necessary tools and ingredients at Sophora Garden.",
+        "mail_type": 1
+    },
+    "631106": {
+        "mail_title": "Polar Express Message",
+        "link_type": 0,
+        "id": 631106,
+        "mail_sender": "Skadi",
+        "mail_desc": "It's my Arrival Day again! So, my dearest adventure buddy, do you still remember our promise? This voyage is bound to be another unforgettable journey!\nRecently, Snowflake 2 and I have been traveling far and wide on missions. I even had the fortune of seeing golden-finned dolphins several times! Between us, Admin, I whispered a wish to one of them. Can you guess what it was? Nope, I'm not spilling the beans just yet. You'll have to wait until we meet!\nSpeaking of wishes, do you remember entry No. 137 that I wrote in the Wish Book? That polar penguin hood I longed for\u2014it turned out to be far sillier and more adorable than I imagined! I got one for you too. I can't wait to see you try it on\u2014it's going to be hilarious!\nNow back to the important stuff. By the time you read this letter, I'll be on my way back from the polar region, full throttle, to meet you. It's once again time for our annual adventurous journey together!\nI know you're super busy, Admin. But hey, adventures don't have to be on the high seas, right? For me, anywhere with you feels like an adventure. With you around, every wish turns into a memory, and our story? Oh, it's only just beginning.\nThe weather on the sea has been great lately. Care to join me, Admin?",
+        "mail_type": 1
+    },
+    "631107": {
+        "mail_title": "To the Heart of the Ocean, Together",
+        "link_type": 0,
+        "id": 631107,
+        "mail_sender": "Poseidon",
+        "mail_desc": "Hush\u2014don't make a sound when you see this letter. Admin, this is a secret invitation.\nMy Arrival Day has come again. While I appreciate Shu and the others wanting to throw me a birthday party, I have a special idea this year\u2014I want to visit the heart of the ocean.\nI've always been curious, what's it like far out in the ocean where fish swim freely?\nThough I've watched many documentaries and explored the ocean during missions, I've never spent an entire day relaxing in the middle of the ocean, listening only to the sound of fish and waves from sunrise to sunset.\nAnd, well\u2026 you know, sometimes I just want to escape.\nIt's a wish only you can fulfill. And I want it to be with you. Let's spend a day in the heart of the ocean\u2014staring at the sky from the deck, watching for leaping fish by the railing, and doing anything our hearts desire.\nJust for today, let's escape to the heart of the ocean together. What do you say?",
+        "mail_type": 1
+    },
+    "631108": {
+        "mail_title": "Card Game Invitation",
+        "link_type": 0,
+        "id": 631108,
+        "mail_sender": "Kagutsuchi",
+        "mail_desc": "Today, as I was dozing off in the yard, I suddenly sneezed. I opened my eyes to find a cherry blossom had landed on me.\nWhile watching the soft, pink flowers swaying above, I realized it's cherry blossom season again\u2014and recalled how we spent this time together last year, Admin.\nI still remember how you mentioned your interest in the card game Hanafuda. Unfortunately, I didn't have a deck with me at the time.\nAfter that, we both got busy, and we never found the time to play together.\nI'm on leave right now. Do you happen to have some free time, Admin?\nThe cherry blossoms are in full bloom, and I'll be waiting for you under them.",
         "mail_type": 1
     },
     "7000": {
@@ -1333,6 +1437,30 @@
         "id": 7000,
         "mail_sender": "Swiggsy",
         "mail_desc": "Dear Admin, the entrance to the %s event will close on %s, and the redemption portal will close on %s.\nSwiggsy would like to give you some Swigs as a gift, so make sure you clear the stages if you want to get some %s!\nAny unused %s will be lost once the entrance is closed, so make sure you don't miss out!",
+        "mail_type": 0
+    },
+    "7001": {
+        "mail_title": "Refund for Unused Feathered Letterheads",
+        "link_type": 0,
+        "id": 7001,
+        "mail_sender": "Aether Gazer Team",
+        "mail_desc": "Dear Admin,\nThe Starlit Musings event has now ended, and you still have %s unused Feathered Letterhead(s).\nPlease find attached the refund you are owed for this: Shifting Flower \u00d7 %s and Shifted Star \u00d7 %s.",
+        "mail_type": 0
+    },
+    "7002": {
+        "mail_title": "Refund for Unused Mark of Memory - Morning Thoughts",
+        "link_type": 0,
+        "id": 7002,
+        "mail_sender": "Aether Gazer Team",
+        "mail_desc": "Dear Admin,\nThe Starlit Musings event has now ended, and you still have %s unused Mark of Memory - Morning Thoughts.\nPlease find attached the refund you are owed for this: Shifting Flower \u00d7 %s and Shifted Star \u00d7 %s.",
+        "mail_type": 0
+    },
+    "7003": {
+        "mail_title": "Refund for Unused Mark of Memory - Whisper of the Night",
+        "link_type": 0,
+        "id": 7003,
+        "mail_sender": "Aether Gazer Team",
+        "mail_desc": "Dear Admin,\nThe Starlit Musings event has now ended, and you still have %s unused Mark of Memory - Whisper of the Night.\nPlease find attached the refund you are owed for this: Shifting Flower \u00d7 %s and Shifted Star \u00d7 %s.",
         "mail_type": 0
     },
     "8001": {
@@ -1568,35 +1696,35 @@
         "mail_type": 0
     },
     "11025": {
-        "mail_title": "Translating:\u3010mail_template$11025$mail_title$0\u3011",
+        "mail_title": "Roaring Thunder 14-Day Precise Pack (Days left: %s)",
         "link_type": 0,
         "id": 11025,
-        "mail_sender": "Translating:\u3010mail_template$11025$mail_sender$0\u3011",
-        "mail_desc": "Translating:\u3010mail_template$11025$mail_desc$0\u3011",
+        "mail_sender": "Mimir",
+        "mail_desc": "Dear Admin, the Roaring Thunder 14-Day Precise Pack (Days left: %s) you purchased has been sent to your mailbox. Please check the attachment.",
         "mail_type": 0
     },
     "11026": {
-        "mail_title": "Translating:\u3010mail_template$11026$mail_title$0\u3011",
+        "mail_title": "Roaring Thunder 7-Day Functor Pack (Days left: %s)",
         "link_type": 0,
         "id": 11026,
-        "mail_sender": "Translating:\u3010mail_template$11026$mail_sender$0\u3011",
-        "mail_desc": "Translating:\u3010mail_template$11026$mail_desc$0\u3011",
+        "mail_sender": "Mimir",
+        "mail_desc": "Dear Admin, the Roaring Thunder 7-Day Functor Pack (Days left: %s) you purchased has been sent to your mailbox. Please check the attachment.",
         "mail_type": 0
     },
     "11027": {
-        "mail_title": "Translating:\u3010mail_template$11027$mail_title$0\u3011",
+        "mail_title": "Golden Fortune 7-Day Blessing Pack (Days left: %s)",
         "link_type": 0,
         "id": 11027,
-        "mail_sender": "Translating:\u3010mail_template$11027$mail_sender$0\u3011",
-        "mail_desc": "Translating:\u3010mail_template$11027$mail_desc$0\u3011",
+        "mail_sender": "Mimir",
+        "mail_desc": "Dear Admin, the Golden Fortune 7-Day Blessing Pack (Days left: %s) you purchased has been sent to your mailbox. Please check the attachment.",
         "mail_type": 0
     },
     "11028": {
-        "mail_title": "Translating:\u3010mail_template$11028$mail_title$0\u3011",
+        "mail_title": "Golden Fortune 14-Day Blessing Pack (Days left: %s)",
         "link_type": 0,
         "id": 11028,
-        "mail_sender": "Translating:\u3010mail_template$11028$mail_sender$0\u3011",
-        "mail_desc": "Translating:\u3010mail_template$11028$mail_desc$0\u3011",
+        "mail_sender": "Mimir",
+        "mail_desc": "Dear Admin, the Golden Fortune 14-Day Blessing Pack (Days left: %s) you purchased has been sent to your mailbox. Please check the attachment.",
         "mail_type": 0
     },
     "99990": {
@@ -1691,6 +1819,7 @@
         2022,
         2023,
         2024,
+        2025,
         2999,
         3001,
         3002,
@@ -1715,6 +1844,7 @@
         5005,
         5006,
         5007,
+        5008,
         6001,
         6002,
         6003,
@@ -1798,7 +1928,21 @@
         630905,
         630906,
         630907,
+        631001,
+        631002,
+        631003,
+        631101,
+        631102,
+        631103,
+        631104,
+        631105,
+        631106,
+        631107,
+        631108,
         7000,
+        7001,
+        7002,
+        7003,
         8001,
         8002,
         9001,

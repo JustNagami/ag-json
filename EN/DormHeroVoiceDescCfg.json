@@ -648,6 +648,50 @@
         "1021": "Somewhere people can leave their cares at the door...\nIt really feels like home.",
         "1023": "I've not seen anything like this before."
     },
+    "1022": {
+        "1022": "It's a little more fun here compared to the Society of Muses.",
+        "id": 1022,
+        "1011": "This is such a nice and quiet room. I like it.",
+        "1051": "Is there a problem?",
+        "1041": "I'll accept this, then. Thank you.",
+        "1032": "Don't worry about it. This isn't the quietest spot, admittedly, but I quite like it here.",
+        "1031": "Come sit with me for a bit?",
+        "1021": "I have to say... there's quite a bit happening here.",
+        "1023": "Relaxing both mind and body..."
+    },
+    "1020": {
+        "1022": "It doesn't matter if you call it a \"lounge\" or something else... any place where I can laze about is a good place.",
+        "id": 1020,
+        "1011": "You want the boss of Meruism to stay here??? Wow, you really are something.",
+        "1051": "Do you want me to lift you up like this?",
+        "1041": "What do you want? I'll make it for you.",
+        "1032": "Give me a holler if you need more furniture. I'll help you make them.\nBut I do charge a fee, mind you. It'd be around... several hundred grand in Ain Soph Coins?",
+        "1031": "Another look altogether? But here? With all these people???",
+        "1021": "These pieces of furniture are... rather imaginatively designed.",
+        "1023": "All sweet young ladies here. Wonderful!"
+    },
+    "1156": {
+        "1022": "Let's decorate Meruism like this sometime. The kids will be thrilled.",
+        "id": 1156,
+        "1011": "Kali, you're here!",
+        "1051": "Haha, this is pretty fun!",
+        "1041": "Thank you so much! What would you like in return?\nLet's go pick out something for you in a bit!",
+        "1032": "If you're feeling tired, come rest with me here.",
+        "1031": "You're finally here. I just came up with a new milk tea recipe, come try it.",
+        "1021": "Or is there something I can help you with?",
+        "1023": "I'm a little tired... I should take a short break."
+    },
+    "1089": {
+        "1022": "I see all these familiar faces at the restaurant next door. Do tell me\nI have to work there as well... Is this my cue to run?",
+        "id": 1089,
+        "1011": "I just wanted somewhere to have a good nap.\nSurely we don't have to go to all this trouble?",
+        "1051": "Oh my.",
+        "1041": "I can't wait to find out what you're giving me... But whatever it is, thanks in advance!",
+        "1032": "Did Brahm\u0101 say anything about arranging a lounge or something like that\nfor me when she was here? No? Alright, then...",
+        "1031": "Want a chocolate bar?",
+        "1021": "Good, good. I suppose no one from Meruism will find me here?",
+        "1023": "There's never too much time for rest."
+    },
     "all": [
         1084,
         1039,
@@ -707,6 +751,10 @@
         1068,
         1284,
         1197,
-        1132
+        1132,
+        1022,
+        1020,
+        1156,
+        1089
     ]
 }

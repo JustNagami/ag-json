@@ -1,0 +1,440 @@
+{
+    "5200201": {
+        "monster_level": 80,
+        "name": "Entrusted Item",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200201,
+        "map": "5200201",
+        "tips": "Things are a total mess inside the museum. Kali is looking for a mysterious stone tablet that was originally placed in the center of the museum lobby. After looking at the museum's surveillance video, she figures out the general direction the thieves have left in, and sets off immediately.\n<color=#FF9500>Recommended boost effect: Electric Thunderoar.</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200201,
+        "next_show_id_list": [
+            5200202
+        ],
+        "next_unlock_id_list": [
+            5200202
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            10000
+        ],
+        "position": [
+            250,
+            -134
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200202": {
+        "monster_level": 80,
+        "name": "Another Group Arrives on the Scene",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200202,
+        "map": "5200202",
+        "tips": "Kali is now lost without the clue from the surveillance tapes. Compounding the issue is the group of figures that is slowly coming toward her...\n<color=#FF9500>Recommended boost effect: Electric Thunderoar.</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200202,
+        "next_show_id_list": [
+            5200203
+        ],
+        "next_unlock_id_list": [
+            5200203
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            12000
+        ],
+        "position": [
+            607,
+            35
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200203": {
+        "monster_level": 80,
+        "name": "Unexpected Witnesses",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200203,
+        "map": "5200203",
+        "tips": "The gang members subdued by Kali tell her about a group of persons who left the museum only to break into a fighting arena nearby. She sets off for the arena after handing the gang members over to the police.\n<color=#FF9500>Recommended boost effect: Rock Solid.</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200203,
+        "next_show_id_list": [
+            5200204
+        ],
+        "next_unlock_id_list": [
+            5200204
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            7000
+        ],
+        "position": [
+            1000,
+            37
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200204": {
+        "monster_level": 80,
+        "name": "No Entry",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200204,
+        "map": "5200204",
+        "tips": "The persons who stole the treasure are now hiding in the arena in Gharpur. Kali tries to enter the arena, but is stopped by the security guard\u2014entry is prohibited to all except qualified competitors.\n<color=#FF9500>Recommended boost effect: Rock Solid.</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200204,
+        "next_show_id_list": [
+            5200205
+        ],
+        "next_unlock_id_list": [
+            5200205
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            7000
+        ],
+        "position": [
+            1400,
+            -46
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200205": {
+        "monster_level": 80,
+        "name": "We'll See About That",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200205,
+        "map": "5200205",
+        "tips": "In the slums, apart from money, one's fists can also be used to gain entry everywhere.\n<color=#FF9500>Recommended boost effect: Warrior's Honor.</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200205,
+        "next_show_id_list": [
+            5200206
+        ],
+        "next_unlock_id_list": [
+            5200206
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            7500
+        ],
+        "position": [
+            1779,
+            -46
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200206": {
+        "monster_level": 80,
+        "name": "One Versus Many",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200206,
+        "map": "5200206",
+        "tips": "Kali manages to enter the arena. However, she's seen as an unwelcome guest and is slowly surrounded.\n<color=#FF9500>Recommended boost effect: Warrior's Honor.</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200206,
+        "next_show_id_list": [
+            5200207
+        ],
+        "next_unlock_id_list": [
+            5200207
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            12000
+        ],
+        "position": [
+            2172,
+            -136
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200207": {
+        "monster_level": 80,
+        "name": "Victory?",
+        "background_1": "I02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200207,
+        "map": "5200207",
+        "tips": "By the time she stops, Kali has already defeated everyone standing in the lobby. Then, the whistle-blowing referee raises her arm...\nBut this isn't the time to revel in victory yet!\n<color=#FF9500>Recommended boost effect: Roll Like Thunder.</color>",
+        "sub_type": 2,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200207,
+        "next_show_id_list": [
+            5200208
+        ],
+        "next_unlock_id_list": [
+            5200208
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            7000
+        ],
+        "position": [
+            250,
+            -134
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200208": {
+        "monster_level": 80,
+        "name": "The Chase Continues",
+        "background_1": "I03",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200208,
+        "map": "5200208",
+        "tips": "In the end, the thieves escape in the chaos. The pursuit goes on for Kali.\n<color=#FF9500>Recommended boost effect: Roll Like Thunder.</color>",
+        "sub_type": 2,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "next_show_id_list": "",
+        "next_unlock_id_list": "",
+        "user_exp": 0,
+        "id": 5200208,
+        "attribute_factor": [
+            200,
+            1000,
+            7000
+        ],
+        "position": [
+            607,
+            35
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "all": [
+        5200201,
+        5200202,
+        5200203,
+        5200204,
+        5200205,
+        5200206,
+        5200207,
+        5200208
+    ]
+}

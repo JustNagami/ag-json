@@ -1,0 +1,94 @@
+{
+    "1": {
+        "name": "Modulate",
+        "pitcture_path": "6110101",
+        "stage_id": 5190330,
+        "id": 1,
+        "chapter_id": 12,
+        "desc": "Some monsters show notes only on the right beats and show question mark notes the rest of the time."
+    },
+    "2": {
+        "name": "Note: White Flash",
+        "pitcture_path": "6110201",
+        "stage_id": 5190331,
+        "id": 2,
+        "chapter_id": 12,
+        "desc": "Play Note: White Flash at the right time to defeat the blue note monster, damaging it on the corresponding beat. Perfect timing will deal critical DMG. When a measure contains two or more Notes: White Flash, the next Note: White Flash will be Perfectly Harmonious, chasing on the fourth beat."
+    },
+    "3": {
+        "name": "Note: Snowflake",
+        "pitcture_path": "6110202",
+        "stage_id": 5190332,
+        "id": 3,
+        "chapter_id": 12,
+        "desc": "Play Note: Snowflake at the right time to defeat the blue note monster, damaging it on the corresponding beat. Perfect timing will deal critical DMG. When a measure contains two or more Notes: Snowflake, the next Note: Snowflake will be Perfectly Harmonious, chasing on the fourth beat."
+    },
+    "4": {
+        "name": "Note: Bonechill",
+        "pitcture_path": "6110203",
+        "stage_id": 5190333,
+        "id": 4,
+        "chapter_id": 12,
+        "desc": "Play Note: Bonechill at the right time to defeat the blue note monster, damaging it on the corresponding beat. Perfect timing will deal critical DMG. When a measure contains two or more Notes: Bonechill, the next Note: Bonechill will be Perfectly Harmonious, chasing on the fourth beat."
+    },
+    "5": {
+        "name": "Variation: Relationship Echo",
+        "pitcture_path": "6110209",
+        "stage_id": 5190334,
+        "id": 5,
+        "chapter_id": 12,
+        "desc": "After playing the note, Izanami will gain Energy. She loses Energy if you play a wrong note. When her Energy is full, she enters Relationship Echo mode. With each followup strike, Hisame attacks along with Izanami."
+    },
+    "6": {
+        "name": "Legato",
+        "pitcture_path": "6110101",
+        "stage_id": 5190335,
+        "id": 6,
+        "chapter_id": 13,
+        "desc": "Some monsters get an additional echo note when they get notes. You must input an extra note to defeat them."
+    },
+    "7": {
+        "name": "Note: New Moon",
+        "pitcture_path": "6111201",
+        "stage_id": 5190336,
+        "id": 7,
+        "chapter_id": 13,
+        "desc": "Play Note: New Moon at the right time to defeat the blue note monster, damaging it on the corresponding beat. Perfect timing will deal critical DMG. When a measure contains two or more Notes: New Moon, the next Note: New Moon will be Perfectly Harmonious, chasing on the fourth beat."
+    },
+    "8": {
+        "name": "Note: Full Moon",
+        "pitcture_path": "6111202",
+        "stage_id": 5190337,
+        "id": 8,
+        "chapter_id": 13,
+        "desc": "Play Note: Full Moon at the right time to defeat the blue note monster, damaging it on the corresponding beat. Perfect timing will deal critical DMG. When a measure contains two or more Notes: Full Moon, the next Note: Full Moon will be Perfectly Harmonious, chasing on the fourth beat."
+    },
+    "9": {
+        "name": "Note: Night Flow",
+        "pitcture_path": "6111203",
+        "stage_id": 5190338,
+        "id": 9,
+        "chapter_id": 13,
+        "desc": "Play Note: Night Flow at the right time to defeat the blue note monster, damaging it on the corresponding beat. Perfect timing will deal critical DMG. When a measure contains two or more Notes: Night Flow, the next Note: Night Flow will be Perfectly Harmonious, chasing on the fourth beat."
+    },
+    "10": {
+        "name": "Variation: Brilliant Symphony",
+        "pitcture_path": "6111209",
+        "stage_id": 5190339,
+        "id": 10,
+        "chapter_id": 13,
+        "desc": "After playing the note, Selene will gain Energy. She loses Energy if you play a wrong note. When her Energy is full, she enters Brilliant Symphony mode, switching to a gun and sword."
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+    ]
+}

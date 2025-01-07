@@ -1,0 +1,322 @@
+{
+    "1001": {
+        "clue_num": 3,
+        "name": "Order Record",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "The order is created and sent to the <color=#E78300>food truck</color>.",
+        "stage_type": 1,
+        "pre_stage": 0,
+        "desc": "There is a record of a completed order in the catering terminal on table 18 in the flowerbed area. The order is: Oceanstar Park Joint Snack Platter \u00d71, which comes with a second half-price bound voucher.",
+        "ori_pos": "",
+        "stageID": 1001,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1002": {
+        "clue_num": 4,
+        "name": "Lost Voucher",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>The deliveryman</color> has completed the order and is about to return to his truck. To find the deliveryman, you need to know the name of the <color=#E78300>truck</color>.",
+        "stage_type": 1,
+        "pre_stage": 1001,
+        "desc": "Apparently, the half-price voucher for Oceanstar Park co-branded snacks found in the flower bed has not been bound to a user yet. It must have been left there by the deliveryman.",
+        "ori_pos": "",
+        "stageID": 1002,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1003": {
+        "clue_num": 5,
+        "name": "Industrial Park Map",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "The park map can be used to find the <color=#E78300>specific location of the store</color> by name and thus the location of the deliveryman's truck.",
+        "stage_type": 1,
+        "pre_stage": 1002,
+        "desc": "On the Oceanstar Park map in the park service terminal, you can enter the brand name to find food trucks under that brand.",
+        "ori_pos": "",
+        "stageID": 1003,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1004": {
+        "clue_num": 5,
+        "name": "Sign",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "The food ordered from the <color=#E78300>truck</color> is <color=#E78300>sold out</color>. You'll have to apply for <color=#E78300>dispatch</color>.",
+        "stage_type": 1,
+        "pre_stage": 1003,
+        "desc": "A prominent sign in front of the food truck reads, \"Our Oceanstar Park snacks have sold out today. If necessary, other food trucks will be deployed backstage to deliver meals. It might take some time, so please be patient.\"",
+        "ori_pos": "",
+        "stageID": 1004,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1005": {
+        "clue_num": 5,
+        "name": "Internal Deployment Records",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "The <color=#E78300>dispatch</color> request has been created and assigned to the <color=#E78300>deliveryman</color>.",
+        "stage_type": 1,
+        "pre_stage": 1004,
+        "desc": "The dispatch record on the backend shows that truck 3 sent a meal order dispatch request to truck 2. The dispatch status is Complete.",
+        "ori_pos": "",
+        "stageID": 1005,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1006": {
+        "clue_num": 6,
+        "name": "Publicity Poster",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "You can learn the <color=#E78300>store name</color> from the poster. Now you need to find its <color=#E78300>location</color>.",
+        "stage_type": 1,
+        "pre_stage": 1005,
+        "desc": "The poster on the food truck has the slogan \"Golden Coast, Summer Partner!\" written in huge letters.",
+        "ori_pos": "",
+        "stageID": 1006,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1007": {
+        "clue_num": 0,
+        "name": "",
+        "conclusion_desc": "",
+        "stage_type": 2,
+        "pre_stage": 0,
+        "desc": "",
+        "stageID": 1007,
+        "ori_pos": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006
+        ],
+        "answer": [
+            1001,
+            1004,
+            1005,
+            1002,
+            1006,
+            1003
+        ],
+        "fixed_pos": [
+            1001,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "conclusion": [
+            470001,
+            470002,
+            470003,
+            470004
+        ],
+        "conclusion_list": [
+            [
+                1001,
+                1004,
+                1005
+            ],
+            [
+                1002
+            ],
+            [
+                1003,
+                1006
+            ]
+        ]
+    },
+    "2001": {
+        "clue_num": 5,
+        "name": "Order Status",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "After <color=#E78300>completing the order</color>, Apollo returned to the food truck and took other <color=#E78300>orders</color>.",
+        "stage_type": 1,
+        "pre_stage": 0,
+        "desc": "The backend shows that all delivery orders are in progress. One person handling deliveries is listed as Delivery Worker A.",
+        "ori_pos": "",
+        "stageID": 2001,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2002": {
+        "clue_num": 6,
+        "name": "Delivery Boxes",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "Apollo, who has received <color=#E78300>other delivery orders</color>, is now delivering in the park. Due to the large number of orders, his location cannot be determined.",
+        "stage_type": 1,
+        "pre_stage": 2001,
+        "desc": "There are three insulated boxes on the shelf next to the food truck, and it seems that there's enough space for one more. Apparently someone took one of the orders and went out to work.",
+        "ori_pos": "",
+        "stageID": 2002,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2003": {
+        "clue_num": 6,
+        "name": "Capacity Status",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "Apollo, who <color=#E78300>escaped the Knights of Convallaria</color>, started his food truck delivery job at noon and made a <color=#E78300>delivery</color>.",
+        "stage_type": 1,
+        "pre_stage": 2002,
+        "desc": "According to the food truck's capacity bulletin, Deliveryman A, who just completed the order for table 18, registered at noon.",
+        "ori_pos": "",
+        "stageID": 2003,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2004": {
+        "clue_num": 6,
+        "name": "Park Broadcast",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "Before the park <color=#E78300>opened</color> to tourists, Apollo participated in the recording of the background music.",
+        "stage_type": 1,
+        "pre_stage": 2003,
+        "desc": "The constant background music was likely recorded before the park opened. If you listen closely, there is a section of the music that sounds very much like Apollo.",
+        "ori_pos": "",
+        "stageID": 2004,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2005": {
+        "clue_num": 7,
+        "name": "Customer Conversation",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "When the park opened <color=#E78300>this morning</color>, Apollo helped keep order at the entrance.",
+        "stage_type": 1,
+        "pre_stage": 2004,
+        "desc": "Two customers were chatting at the table. They said that the blond employee they met on their way in calmed a crying child, keeping the entrance line moving.",
+        "ori_pos": "",
+        "stageID": 2005,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2006": {
+        "clue_num": 7,
+        "name": "Service AGI Mecha",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "In the <color=#E78300>morning</color>, The Knights of Convallaria encountered Apollo in the park, but it seemed that he had <color=#E78300>escaped</color>.",
+        "stage_type": 1,
+        "pre_stage": 2005,
+        "desc": "There is a new item on the AGI Mecha's complaint record. It says that this morning, they encountered a group of female knights chasing an amusement park employee, and the snacks they bought were knocked to the ground. They hope that the park will improve its management.",
+        "ori_pos": "",
+        "stageID": 2006,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2007": {
+        "clue_num": 0,
+        "name": "",
+        "conclusion_desc": "",
+        "stage_type": 2,
+        "pre_stage": 0,
+        "desc": "",
+        "stageID": 2007,
+        "ori_pos": [
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006
+        ],
+        "answer": [
+            2004,
+            2005,
+            2006,
+            2003,
+            2001,
+            2002
+        ],
+        "fixed_pos": [
+            2004,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "conclusion": [
+            470005,
+            470006,
+            470007,
+            470008
+        ],
+        "conclusion_list": [
+            [
+                2004
+            ],
+            [
+                2005,
+                2006,
+                2003
+            ],
+            [
+                2001,
+                2002
+            ]
+        ]
+    },
+    "3001": {
+        "clue_num": 3,
+        "name": "Special Pigment",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "",
+        "stage_type": 3,
+        "pre_stage": 0,
+        "desc": "After filling the water gun with paint from the box, the contestant who is hit will be eliminated.",
+        "ori_pos": "",
+        "stageID": 3001,
+        "answer": "",
+        "conclusion": ""
+    },
+    "3002": {
+        "clue_num": 3,
+        "name": "The Grand Prize",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "",
+        "stage_type": 3,
+        "pre_stage": 0,
+        "desc": "The three treasures fit together perfectly, but they looked like they had been roughly kneaded together.",
+        "ori_pos": "",
+        "stageID": 3002,
+        "answer": "",
+        "conclusion": ""
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        3001,
+        3002
+    ]
+}

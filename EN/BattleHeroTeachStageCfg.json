@@ -185,6 +185,99 @@
             0
         ]
     },
+    "4031020": {
+        "monster_level": 80,
+        "name": "Trim\u016brti",
+        "map": "4031020",
+        "ai_level": 0,
+        "tips": "Get ready, Trim\u016brti's training is about to begin...",
+        "id": 4031020,
+        "drop_lib_id": 250002,
+        "background_1": "D02",
+        "position": [
+            250,
+            -134
+        ],
+        "hero_list": [
+            [
+                1020,
+                102001
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ]
+    },
+    "4031021": {
+        "monster_level": 80,
+        "name": "Dawnray",
+        "map": "4031021",
+        "ai_level": 0,
+        "tips": "Get ready, Dawnray's training is about to begin...",
+        "id": 4031021,
+        "drop_lib_id": 250002,
+        "background_1": "D02",
+        "position": [
+            250,
+            -134
+        ],
+        "hero_list": [
+            [
+                1021,
+                102101
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ]
+    },
+    "4031022": {
+        "monster_level": 80,
+        "name": "Serene Moon",
+        "map": "4031022",
+        "ai_level": 0,
+        "tips": "Get ready, Serene Moon's training is about to begin...",
+        "id": 4031022,
+        "drop_lib_id": 250002,
+        "background_1": "D02",
+        "position": [
+            250,
+            -134
+        ],
+        "hero_list": [
+            [
+                1022,
+                102201
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ]
+    },
     "4031024": {
         "monster_level": 80,
         "name": "Jackal",
@@ -1673,6 +1766,37 @@
             0
         ]
     },
+    "4031156": {
+        "monster_level": 80,
+        "name": "Annihilator",
+        "map": "4031156",
+        "ai_level": 0,
+        "tips": "Get ready, Annihilator's training is about to begin...",
+        "id": 4031156,
+        "drop_lib_id": 250002,
+        "background_1": "D02",
+        "position": [
+            250,
+            -134
+        ],
+        "hero_list": [
+            [
+                1156,
+                115603
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ]
+    },
     "4031158": {
         "monster_level": 80,
         "name": "Madoibi Scorched",
@@ -1828,6 +1952,37 @@
             0
         ]
     },
+    "4031089": {
+        "monster_level": 80,
+        "name": "Tempest",
+        "map": "4031089",
+        "ai_level": 0,
+        "tips": "Get ready, Tempest's training is about to begin...",
+        "id": 4031089,
+        "drop_lib_id": 250002,
+        "background_1": "D02",
+        "position": [
+            250,
+            -134
+        ],
+        "hero_list": [
+            [
+                1089,
+                108901
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ]
+    },
     "all": [
         4031011,
         4031013,
@@ -1835,6 +1990,9 @@
         4031016,
         4031017,
         4031019,
+        4031020,
+        4031021,
+        4031022,
         4031024,
         4031026,
         4031027,
@@ -1883,10 +2041,12 @@
         4031139,
         4031148,
         4031150,
+        4031156,
         4031158,
         4031184,
         4031197,
         4031199,
-        4031284
+        4031284,
+        4031089
     ]
 }

@@ -701,6 +701,222 @@
             0
         ]
     },
+    "5182001": {
+        "monster_level": 80,
+        "name": "Olympus Trials I",
+        "ai_level": 3,
+        "map": "5192001",
+        "need_default_team": 1,
+        "id": 5182001,
+        "level": 30,
+        "attribute_factor": [
+            700,
+            1000,
+            3500
+        ],
+        "team_type": [
+            204,
+            0
+        ]
+    },
+    "5182002": {
+        "monster_level": 80,
+        "name": "Nile Trials I",
+        "ai_level": 3,
+        "map": "5192002",
+        "need_default_team": 1,
+        "id": 5182002,
+        "level": 30,
+        "attribute_factor": [
+            700,
+            1000,
+            3500
+        ],
+        "team_type": [
+            204,
+            0
+        ]
+    },
+    "5182003": {
+        "monster_level": 80,
+        "name": "Shinou Trials I",
+        "ai_level": 3,
+        "map": "5192003",
+        "need_default_team": 1,
+        "id": 5182003,
+        "level": 30,
+        "attribute_factor": [
+            700,
+            1000,
+            3500
+        ],
+        "team_type": [
+            204,
+            0
+        ]
+    },
+    "5182004": {
+        "monster_level": 80,
+        "name": "Yggdrasill Trials I",
+        "ai_level": 3,
+        "map": "5192004",
+        "need_default_team": 1,
+        "id": 5182004,
+        "level": 30,
+        "attribute_factor": [
+            700,
+            1000,
+            3500
+        ],
+        "team_type": [
+            204,
+            0
+        ]
+    },
+    "5182005": {
+        "monster_level": 80,
+        "name": "Asterism Trials I",
+        "ai_level": 3,
+        "map": "5192005",
+        "need_default_team": 1,
+        "id": 5182005,
+        "level": 30,
+        "attribute_factor": [
+            700,
+            1000,
+            3500
+        ],
+        "team_type": [
+            204,
+            0
+        ]
+    },
+    "5182006": {
+        "monster_level": 80,
+        "name": "Tian Yuan Trials I",
+        "ai_level": 3,
+        "map": "5192006",
+        "need_default_team": 1,
+        "id": 5182006,
+        "level": 30,
+        "attribute_factor": [
+            700,
+            1000,
+            3500
+        ],
+        "team_type": [
+            204,
+            0
+        ]
+    },
+    "5182011": {
+        "monster_level": 80,
+        "name": "Olympus Trials II",
+        "ai_level": 3,
+        "map": "5192011",
+        "need_default_team": 1,
+        "id": 5182011,
+        "level": 30,
+        "attribute_factor": [
+            800,
+            1000,
+            5500
+        ],
+        "team_type": [
+            204,
+            0
+        ]
+    },
+    "5182012": {
+        "monster_level": 80,
+        "name": "Nile Trials II",
+        "ai_level": 3,
+        "map": "5192012",
+        "need_default_team": 1,
+        "id": 5182012,
+        "level": 30,
+        "attribute_factor": [
+            800,
+            1000,
+            5500
+        ],
+        "team_type": [
+            204,
+            0
+        ]
+    },
+    "5182013": {
+        "monster_level": 80,
+        "name": "Shinou Trials II",
+        "ai_level": 3,
+        "map": "5192013",
+        "need_default_team": 1,
+        "id": 5182013,
+        "level": 30,
+        "attribute_factor": [
+            800,
+            1000,
+            5500
+        ],
+        "team_type": [
+            204,
+            0
+        ]
+    },
+    "5182014": {
+        "monster_level": 80,
+        "name": "Yggdrasill Trials II",
+        "ai_level": 3,
+        "map": "5192014",
+        "need_default_team": 1,
+        "id": 5182014,
+        "level": 30,
+        "attribute_factor": [
+            800,
+            1000,
+            5500
+        ],
+        "team_type": [
+            204,
+            0
+        ]
+    },
+    "5182015": {
+        "monster_level": 80,
+        "name": "Asterism Trials II",
+        "ai_level": 3,
+        "map": "5192015",
+        "need_default_team": 1,
+        "id": 5182015,
+        "level": 30,
+        "attribute_factor": [
+            800,
+            1000,
+            5500
+        ],
+        "team_type": [
+            204,
+            0
+        ]
+    },
+    "5182016": {
+        "monster_level": 80,
+        "name": "Tian Yuan Trials II",
+        "ai_level": 3,
+        "map": "5192016",
+        "need_default_team": 1,
+        "id": 5182016,
+        "level": 30,
+        "attribute_factor": [
+            800,
+            1000,
+            5500
+        ],
+        "team_type": [
+            204,
+            0
+        ]
+    },
     "all": [
         5020211,
         5020221,
@@ -740,6 +956,18 @@
         5150313,
         5150314,
         5150315,
-        5150316
+        5150316,
+        5182001,
+        5182002,
+        5182003,
+        5182004,
+        5182005,
+        5182006,
+        5182011,
+        5182012,
+        5182013,
+        5182014,
+        5182015,
+        5182016
     ]
 }

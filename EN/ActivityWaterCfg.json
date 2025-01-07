@@ -1,158 +1,194 @@
 {
     "101": {
+        "online_drop": 11000004,
+        "voting_activity_id": 282961,
+        "voting_ticket_limit": 700,
+        "assistance_coin_id": 53106,
+        "schedule_name": "Match 1",
+        "single_drop": 11000003,
+        "activity_id": 282181,
         "id": 101,
-        "schedule_name": "\u7b2c\u4e00\u8d5b\u7a0b",
-        "activity_id": 182181,
-        "assistance_coin_id": 54023,
-        "competition_id_list": [
-            501,
-            502
+        "hero_id_list": [
+            608801,
+            608701
+        ],
+        "online_hero_id_list": [
+            608701,
+            608801,
+            608901,
+            609001
         ],
         "stage_id_list": [
-            5110301,
-            5110302,
-            5110303,
-            5110304
+            5190501,
+            5190502,
+            5190503,
+            5190504
         ],
         "online_stage_id_list": [
-            5110305,
-            5110306,
-            5110307,
-            5110308
-        ],
-        "groups": [
-            5011,
-            5012
+            5190505,
+            5190506,
+            5190507,
+            5190508
         ]
     },
     "201": {
+        "online_drop": 11000004,
+        "voting_activity_id": 282961,
+        "voting_ticket_limit": 700,
+        "assistance_coin_id": 53106,
+        "schedule_name": "Match 2",
+        "single_drop": 11000003,
+        "activity_id": 282182,
         "id": 201,
-        "schedule_name": "\u7b2c\u4e8c\u8d5b\u7a0b",
-        "activity_id": 182182,
-        "assistance_coin_id": 54023,
-        "competition_id_list": [
-            601,
-            602
+        "hero_id_list": [
+            608901,
+            609001
+        ],
+        "online_hero_id_list": [
+            608701,
+            608801,
+            608901,
+            609001
         ],
         "stage_id_list": [
-            5110311,
-            5110312,
-            5110313,
-            5110314
+            5190511,
+            5190512,
+            5190513,
+            5190514
         ],
         "online_stage_id_list": [
-            5110315,
-            5110316,
-            5110317,
-            5110318
-        ],
-        "groups": [
-            6011,
-            6012
+            5190515,
+            5190516,
+            5190517,
+            5190518
         ]
     },
     "301": {
+        "online_drop": 11000004,
+        "voting_activity_id": 282961,
+        "voting_ticket_limit": 700,
+        "assistance_coin_id": 53106,
+        "schedule_name": "Match 3",
+        "single_drop": 11000003,
+        "activity_id": 282183,
         "id": 301,
-        "schedule_name": "\u7b2c\u4e09\u8d5b\u7a0b",
-        "activity_id": 182183,
-        "assistance_coin_id": 54023,
-        "competition_id_list": [
-            201,
-            202
+        "hero_id_list": [
+            608701,
+            609001
+        ],
+        "online_hero_id_list": [
+            608701,
+            608801,
+            608901,
+            609001
         ],
         "stage_id_list": [
-            5110311,
-            5110312,
-            5110313,
-            5110314
+            5190511,
+            5190512,
+            5190513,
+            5190514
         ],
         "online_stage_id_list": [
-            5110315,
-            5110316,
-            5110317,
-            5110318
-        ],
-        "groups": [
-            2011,
-            2012
+            5190515,
+            5190516,
+            5190517,
+            5190518
         ]
     },
     "401": {
+        "online_drop": 11000004,
+        "voting_activity_id": 282961,
+        "voting_ticket_limit": 700,
+        "assistance_coin_id": 53106,
+        "schedule_name": "Match 4",
+        "single_drop": 11000003,
+        "activity_id": 282184,
         "id": 401,
-        "schedule_name": "\u7b2c\u56db\u8d5b\u7a0b",
-        "activity_id": 182184,
-        "assistance_coin_id": 54023,
-        "competition_id_list": [
-            301,
-            302
+        "hero_id_list": [
+            608901,
+            608801
+        ],
+        "online_hero_id_list": [
+            608701,
+            608801,
+            608901,
+            609001
         ],
         "stage_id_list": [
-            5110311,
-            5110312,
-            5110313,
-            5110314
+            5190511,
+            5190512,
+            5190513,
+            5190514
         ],
         "online_stage_id_list": [
-            5110315,
-            5110316,
-            5110317,
-            5110318
-        ],
-        "groups": [
-            3011,
-            3012
+            5190515,
+            5190516,
+            5190517,
+            5190518
         ]
     },
     "501": {
+        "online_drop": 11000004,
+        "voting_activity_id": 282961,
+        "voting_ticket_limit": 700,
+        "assistance_coin_id": 53106,
+        "schedule_name": "Match 5",
+        "single_drop": 11000003,
+        "activity_id": 282185,
         "id": 501,
-        "schedule_name": "\u7b2c\u4e94\u8d5b\u7a0b",
-        "activity_id": 182185,
-        "assistance_coin_id": 54023,
-        "competition_id_list": [
-            101,
-            102
+        "hero_id_list": [
+            609001,
+            608801
+        ],
+        "online_hero_id_list": [
+            608701,
+            608801,
+            608901,
+            609001
         ],
         "stage_id_list": [
-            5110311,
-            5110312,
-            5110313,
-            5110314
+            5190511,
+            5190512,
+            5190513,
+            5190514
         ],
         "online_stage_id_list": [
-            5110315,
-            5110316,
-            5110317,
-            5110318
-        ],
-        "groups": [
-            1011,
-            1012
+            5190515,
+            5190516,
+            5190517,
+            5190518
         ]
     },
     "601": {
+        "online_drop": 11000004,
+        "voting_activity_id": 282961,
+        "voting_ticket_limit": 700,
+        "assistance_coin_id": 53106,
+        "schedule_name": "Match 6",
+        "single_drop": 11000003,
+        "activity_id": 282186,
         "id": 601,
-        "schedule_name": "\u7b2c\u516d\u8d5b\u7a0b",
-        "activity_id": 182186,
-        "assistance_coin_id": 54023,
-        "competition_id_list": [
-            401,
-            402
+        "hero_id_list": [
+            608901,
+            608701
+        ],
+        "online_hero_id_list": [
+            608701,
+            608801,
+            608901,
+            609001
         ],
         "stage_id_list": [
-            5110311,
-            5110312,
-            5110313,
-            5110314
+            5190511,
+            5190512,
+            5190513,
+            5190514
         ],
         "online_stage_id_list": [
-            5110315,
-            5110316,
-            5110317,
-            5110318
-        ],
-        "groups": [
-            4011,
-            4012
+            5190515,
+            5190516,
+            5190517,
+            5190518
         ]
     },
     "all": [

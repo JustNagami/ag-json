@@ -787,6 +787,36 @@
             70
         ]
     },
+    "5102001": {
+        "progress_show": 0,
+        "type": 1015,
+        "id": 5102001,
+        "desc": "Trim\u016brti - Brahm\u0101 reaches Lv. 70.",
+        "params": [
+            1020,
+            70
+        ]
+    },
+    "5102101": {
+        "progress_show": 0,
+        "type": 1015,
+        "id": 5102101,
+        "desc": "Dawnray - Artemis reaches Lv. 70.",
+        "params": [
+            1021,
+            70
+        ]
+    },
+    "5102201": {
+        "progress_show": 0,
+        "type": 1015,
+        "id": 5102201,
+        "desc": "Serene Moon - Selene reaches Lv. 70.",
+        "params": [
+            1022,
+            70
+        ]
+    },
     "5102401": {
         "progress_show": 0,
         "type": 1015,
@@ -1437,6 +1467,16 @@
             70
         ]
     },
+    "5115601": {
+        "progress_show": 0,
+        "type": 1015,
+        "id": 5115601,
+        "desc": "Annihilator - Kali reaches Lv. 70.",
+        "params": [
+            1156,
+            70
+        ]
+    },
     "5115801": {
         "progress_show": 0,
         "type": 1015,
@@ -1474,6 +1514,16 @@
         "desc": "Dreamshade - Oneiroi reaches Lv. 70.",
         "params": [
             1197,
+            70
+        ]
+    },
+    "5108901": {
+        "progress_show": 0,
+        "type": 1015,
+        "id": 5108901,
+        "desc": "Tempest - Parvati reaches Lv. 70.",
+        "params": [
+            1089,
             70
         ]
     },
@@ -1652,6 +1702,16 @@
             6011
         ]
     },
+    "101711": {
+        "progress_show": 0,
+        "type": 1017,
+        "id": 101711,
+        "desc": "Own Ocean's Love Song and That First Glimmer of Light.",
+        "params": [
+            104902,
+            6012
+        ]
+    },
     "101712": {
         "progress_show": 0,
         "type": 1017,
@@ -1660,6 +1720,66 @@
         "params": [
             113907,
             6013
+        ]
+    },
+    "101713": {
+        "progress_show": 0,
+        "type": 1017,
+        "id": 101713,
+        "desc": "Own Seaside Stroll and Amid Moonlight.",
+        "params": [
+            102201,
+            6014
+        ]
+    },
+    "101714": {
+        "progress_show": 0,
+        "type": 1017,
+        "id": 101714,
+        "desc": "Own Colorful Summer and Maiden's Daydream.",
+        "params": [
+            102101,
+            6015
+        ]
+    },
+    "101715": {
+        "progress_show": 0,
+        "type": 1017,
+        "id": 101715,
+        "desc": "Own Veiled Dreams and Afternoon Delight.",
+        "params": [
+            102001,
+            6016
+        ]
+    },
+    "101716": {
+        "progress_show": 0,
+        "type": 1017,
+        "id": 101716,
+        "desc": "Own Where Elegance Meets Extravagance and When the City Lights Up.",
+        "params": [
+            108901,
+            6021
+        ]
+    },
+    "101717": {
+        "progress_show": 0,
+        "type": 1017,
+        "id": 101717,
+        "desc": "Own Nighttime Romance Combo 1.",
+        "params": [
+            109502,
+            6017
+        ]
+    },
+    "101718": {
+        "progress_show": 0,
+        "type": 1017,
+        "id": 101718,
+        "desc": "Own Nighttime Romance Combo 2.",
+        "params": [
+            109502,
+            6018
         ]
     },
     "101801": {
@@ -2180,6 +2300,81 @@
         "desc": "Unlock 5 rooms",
         "params": [
             5
+        ]
+    },
+    "81101": {
+        "progress_show": 0,
+        "type": 8110,
+        "id": 81101,
+        "desc": "Cultivate Modifiers in Idol Competition %s time(s).",
+        "params": []
+    },
+    "81111": {
+        "progress_show": 0,
+        "type": 8111,
+        "id": 81111,
+        "desc": "Create a custom dance in the Training Room %s time(s).",
+        "params": []
+    },
+    "81121": {
+        "progress_show": 0,
+        "type": 8112,
+        "id": 81121,
+        "desc": "Battle a friend in Idol Competition %s time(s).",
+        "params": []
+    },
+    "81131": {
+        "progress_show": 0,
+        "type": 8113,
+        "id": 81131,
+        "desc": "Use New Pact - Verthandi to battle in Idol Competition %s time(s).",
+        "params": [
+            1084
+        ]
+    },
+    "81132": {
+        "progress_show": 0,
+        "type": 8114,
+        "id": 81132,
+        "desc": "Cultivate New Pact - Verthandi in Idol Competition %s time(s).",
+        "params": [
+            1084
+        ]
+    },
+    "81133": {
+        "progress_show": 0,
+        "type": 8113,
+        "id": 81133,
+        "desc": "Use Tidal Song - Poseidon to battle in Idol Competition %s time(s).",
+        "params": [
+            1039
+        ]
+    },
+    "81134": {
+        "progress_show": 0,
+        "type": 8114,
+        "id": 81134,
+        "desc": "Cultivate Tidal Song - Poseidon in Idol Competition %s time(s).",
+        "params": [
+            1039
+        ]
+    },
+    "81135": {
+        "progress_show": 0,
+        "type": 8113,
+        "id": 81135,
+        "desc": "Use Surefire - Zenkibo Tengu to battle in Idol Competition %s time(s).",
+        "params": [
+            1148
+        ]
+    },
+    "81136": {
+        "progress_show": 0,
+        "type": 8114,
+        "id": 81136,
+        "desc": "Cultivate Surefire - Zenkibo Tengu in Idol Competition %s time(s).",
+        "params": [
+            1148
         ]
     },
     "81302": {
@@ -3649,6 +3844,24 @@
             1042
         ]
     },
+    "51024": {
+        "progress_show": 0,
+        "type": 5001,
+        "id": 51024,
+        "desc": "Complete Anubis's Heart Link Event \"%s.\"",
+        "params": [
+            1024
+        ]
+    },
+    "51094": {
+        "progress_show": 0,
+        "type": 5001,
+        "id": 51094,
+        "desc": "Complete Hel's Heart Link Event \"%s.\"",
+        "params": [
+            1094
+        ]
+    },
     "60001": {
         "progress_show": 0,
         "type": 2501,
@@ -4903,6 +5116,36 @@
             8
         ]
     },
+    "113041": {
+        "progress_show": 1,
+        "type": 11304,
+        "id": 113041,
+        "desc": "Rank 1 in the final ranking.",
+        "params": [
+            1,
+            1
+        ]
+    },
+    "113042": {
+        "progress_show": 1,
+        "type": 11304,
+        "id": 113042,
+        "desc": "Rank 2-10 in the final ranking.",
+        "params": [
+            2,
+            10
+        ]
+    },
+    "113043": {
+        "progress_show": 1,
+        "type": 11304,
+        "id": 113043,
+        "desc": "Rank 11-100 in the final ranking.",
+        "params": [
+            11,
+            100
+        ]
+    },
     "114001": {
         "progress_show": 0,
         "type": 11401,
@@ -5047,6 +5290,422 @@
             5170334
         ]
     },
+    "1150101": {
+        "progress_show": 0,
+        "type": 11501,
+        "id": 1150101,
+        "desc": "Complete Summertime Spree: Wharf Area Prologue.",
+        "params": [
+            4080101
+        ]
+    },
+    "1150102": {
+        "progress_show": 0,
+        "type": 11501,
+        "id": 1150102,
+        "desc": "Complete Summertime Spree: Wharf Area I.",
+        "params": [
+            4080102
+        ]
+    },
+    "1150103": {
+        "progress_show": 0,
+        "type": 11501,
+        "id": 1150103,
+        "desc": "Complete Summertime Spree: Beach Zone Prologue.",
+        "params": [
+            4080201
+        ]
+    },
+    "1150104": {
+        "progress_show": 0,
+        "type": 11501,
+        "id": 1150104,
+        "desc": "Complete Summertime Spree: Beach Zone I.",
+        "params": [
+            4080202
+        ]
+    },
+    "1150105": {
+        "progress_show": 0,
+        "type": 11501,
+        "id": 1150105,
+        "desc": "Complete Summertime Spree: Beach Zone II.",
+        "params": [
+            4080203
+        ]
+    },
+    "1150106": {
+        "progress_show": 0,
+        "type": 11501,
+        "id": 1150106,
+        "desc": "Complete Summertime Spree: Shopping Area Prologue.",
+        "params": [
+            4080301
+        ]
+    },
+    "1150107": {
+        "progress_show": 0,
+        "type": 11501,
+        "id": 1150107,
+        "desc": "Complete Summertime Spree: Shopping Area I.",
+        "params": [
+            4080302
+        ]
+    },
+    "1150108": {
+        "progress_show": 0,
+        "type": 11501,
+        "id": 1150108,
+        "desc": "Complete Summertime Spree: Shopping Area II.",
+        "params": [
+            4080303
+        ]
+    },
+    "1150109": {
+        "progress_show": 0,
+        "type": 11503,
+        "id": 1150109,
+        "desc": "Clear Midsummer Concert: Regular Irregular #2.",
+        "params": [
+            5190302
+        ]
+    },
+    "1150110": {
+        "progress_show": 0,
+        "type": 11503,
+        "id": 1150110,
+        "desc": "Clear Midsummer Concert: Wonderful Moment #2.",
+        "params": [
+            5190312
+        ]
+    },
+    "1150111": {
+        "progress_show": 0,
+        "type": 11501,
+        "id": 1150111,
+        "desc": "Complete Summertime Spree: Park Zone Prologue.",
+        "params": [
+            4080401
+        ]
+    },
+    "1150112": {
+        "progress_show": 0,
+        "type": 11501,
+        "id": 1150112,
+        "desc": "Complete Summertime Spree: Park Zone I.",
+        "params": [
+            4080402
+        ]
+    },
+    "1150113": {
+        "progress_show": 0,
+        "type": 11501,
+        "id": 1150113,
+        "desc": "Complete Summertime Spree: Park Zone II.",
+        "params": [
+            4080403
+        ]
+    },
+    "1150114": {
+        "progress_show": 0,
+        "type": 11501,
+        "id": 1150114,
+        "desc": "Complete Summertime Spree: Stage Area Prologue.",
+        "params": [
+            4080501
+        ]
+    },
+    "1150115": {
+        "progress_show": 0,
+        "type": 11501,
+        "id": 1150115,
+        "desc": "Complete Summertime Spree: Stage Area I.",
+        "params": [
+            4080502
+        ]
+    },
+    "1150117": {
+        "progress_show": 0,
+        "type": 11502,
+        "id": 1150117,
+        "desc": "Clear Iron Gladiator: Opening Battle V.",
+        "params": [
+            5190705
+        ]
+    },
+    "1150118": {
+        "progress_show": 0,
+        "type": 11502,
+        "id": 1150118,
+        "desc": "Clear Iron Gladiator: Counter Blade V.",
+        "params": [
+            5190710
+        ]
+    },
+    "1150119": {
+        "progress_show": 0,
+        "type": 11502,
+        "id": 1150119,
+        "desc": "Clear Iron Gladiator: Return Battle V.",
+        "params": [
+            5190725
+        ]
+    },
+    "114017": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114017,
+        "desc": "Clear Battle Simulation I with Serene Moon - Selene.",
+        "params": [
+            5191401
+        ]
+    },
+    "114018": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114018,
+        "desc": "Clear Battle Simulation II with Serene Moon - Selene.",
+        "params": [
+            5191402
+        ]
+    },
+    "114019": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114019,
+        "desc": "Clear Battle Simulation III with Serene Moon - Selene.",
+        "params": [
+            5191403
+        ]
+    },
+    "114020": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114020,
+        "desc": "Clear Battle Simulation IV with Serene Moon - Selene.",
+        "params": [
+            5191404
+        ]
+    },
+    "114021": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114021,
+        "desc": "Clear Battle Simulation I with Arctic Abyss - Poseidon.",
+        "params": [
+            5191411
+        ]
+    },
+    "114022": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114022,
+        "desc": "Clear Battle Simulation II with Arctic Abyss - Poseidon.",
+        "params": [
+            5191412
+        ]
+    },
+    "114023": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114023,
+        "desc": "Clear Battle Simulation III with Arctic Abyss - Poseidon.",
+        "params": [
+            5191413
+        ]
+    },
+    "114024": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114024,
+        "desc": "Clear Battle Simulation IV with Arctic Abyss - Poseidon.",
+        "params": [
+            5191414
+        ]
+    },
+    "114025": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114025,
+        "desc": "Clear Battle Simulation I with Flower of Yomi - Izanami.",
+        "params": [
+            5191421
+        ]
+    },
+    "114026": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114026,
+        "desc": "Clear Battle Simulation II with Flower of Yomi - Izanami.",
+        "params": [
+            5191422
+        ]
+    },
+    "114027": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114027,
+        "desc": "Clear Battle Simulation III with Flower of Yomi - Izanami.",
+        "params": [
+            5191423
+        ]
+    },
+    "114028": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114028,
+        "desc": "Clear Battle Simulation IV with Flower of Yomi - Izanami.",
+        "params": [
+            5191424
+        ]
+    },
+    "114029": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114029,
+        "desc": "Clear Battle Simulation I with Puppet Master - Hades.",
+        "params": [
+            5191431
+        ]
+    },
+    "114030": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114030,
+        "desc": "Clear Battle Simulation II with Puppet Master - Hades.",
+        "params": [
+            5191432
+        ]
+    },
+    "114031": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114031,
+        "desc": "Clear Battle Simulation III with Puppet Master - Hades.",
+        "params": [
+            5191433
+        ]
+    },
+    "114032": {
+        "progress_show": 0,
+        "type": 11401,
+        "id": 114032,
+        "desc": "Clear Battle Simulation IV with Puppet Master - Hades.",
+        "params": [
+            5191434
+        ]
+    },
+    "1200101": {
+        "progress_show": 0,
+        "type": 12001,
+        "id": 1200101,
+        "desc": "Complete a Deduction on difficulty level I 1 time.",
+        "params": [
+            100001,
+            1,
+            1
+        ]
+    },
+    "1200102": {
+        "progress_show": 0,
+        "type": 12001,
+        "id": 1200102,
+        "desc": "Complete a Deduction on difficulty level II 1 time.",
+        "params": [
+            100001,
+            2,
+            1
+        ]
+    },
+    "1200103": {
+        "progress_show": 0,
+        "type": 12001,
+        "id": 1200103,
+        "desc": "Complete a Deduction on difficulty level III 1 time.",
+        "params": [
+            100001,
+            3,
+            1
+        ]
+    },
+    "1200104": {
+        "progress_show": 0,
+        "type": 12001,
+        "id": 1200104,
+        "desc": "Complete a Deduction on difficulty level IV 1 time.",
+        "params": [
+            100001,
+            4,
+            1
+        ]
+    },
+    "1200201": {
+        "progress_show": 0,
+        "type": 12002,
+        "id": 1200201,
+        "desc": "Complete the ending stage of Emergency Evacuation 1 time.",
+        "params": [
+            100001,
+            1,
+            1
+        ]
+    },
+    "1200202": {
+        "progress_show": 0,
+        "type": 12002,
+        "id": 1200202,
+        "desc": "Complete the ending stage of Double Clouds 1 time.",
+        "params": [
+            100001,
+            2,
+            1
+        ]
+    },
+    "1200203": {
+        "progress_show": 0,
+        "type": 12002,
+        "id": 1200203,
+        "desc": "Complete the ending stage of Temporary Peace 1 time.",
+        "params": [
+            100001,
+            3,
+            1
+        ]
+    },
+    "1200205": {
+        "progress_show": 0,
+        "type": 12002,
+        "id": 1200205,
+        "desc": "Complete the ending stage of Emergency Evacuation 2 times.",
+        "params": [
+            100001,
+            1,
+            2
+        ]
+    },
+    "1200206": {
+        "progress_show": 0,
+        "type": 12002,
+        "id": 1200206,
+        "desc": "Complete the ending stage of Double Clouds 2 times.",
+        "params": [
+            100001,
+            2,
+            2
+        ]
+    },
+    "1200207": {
+        "progress_show": 0,
+        "type": 12002,
+        "id": 1200207,
+        "desc": "Complete the ending stage of Temporary Peace 2 times.",
+        "params": [
+            100001,
+            3,
+            2
+        ]
+    },
     "all": [
         1101,
         1102,
@@ -5135,6 +5794,9 @@
         5101601,
         5101701,
         5101901,
+        5102001,
+        5102101,
+        5102201,
         5102401,
         5102601,
         5102701,
@@ -5200,10 +5862,12 @@
         5113902,
         5114801,
         5115001,
+        5115601,
         5115801,
         5118401,
         5118402,
         5119701,
+        5108901,
         5119901,
         5119902,
         5128401,
@@ -5222,7 +5886,14 @@
         101708,
         101709,
         101710,
+        101711,
         101712,
+        101713,
+        101714,
+        101715,
+        101716,
+        101717,
+        101718,
         101801,
         101901,
         101902,
@@ -5279,6 +5950,15 @@
         81003,
         81004,
         81005,
+        81101,
+        81111,
+        81121,
+        81131,
+        81132,
+        81133,
+        81134,
+        81135,
+        81136,
         81302,
         81303,
         81502,
@@ -5429,6 +6109,8 @@
         51028,
         51033,
         51042,
+        51024,
+        51094,
         60001,
         60002,
         60003,
@@ -5560,6 +6242,9 @@
         130316,
         130317,
         130318,
+        113041,
+        113042,
+        113043,
         114001,
         114002,
         114003,
@@ -5575,6 +6260,50 @@
         114013,
         114014,
         114015,
-        114016
+        114016,
+        1150101,
+        1150102,
+        1150103,
+        1150104,
+        1150105,
+        1150106,
+        1150107,
+        1150108,
+        1150109,
+        1150110,
+        1150111,
+        1150112,
+        1150113,
+        1150114,
+        1150115,
+        1150117,
+        1150118,
+        1150119,
+        114017,
+        114018,
+        114019,
+        114020,
+        114021,
+        114022,
+        114023,
+        114024,
+        114025,
+        114026,
+        114027,
+        114028,
+        114029,
+        114030,
+        114031,
+        114032,
+        1200101,
+        1200102,
+        1200103,
+        1200104,
+        1200201,
+        1200202,
+        1200203,
+        1200205,
+        1200206,
+        1200207
     ]
 }

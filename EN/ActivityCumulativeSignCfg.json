@@ -580,10 +580,180 @@
             7507
         ]
     },
+    "270012": {
+        "cost_item_list": "",
+        "type": 0,
+        "id": 270012,
+        "title": "Limited Sign-In",
+        "ui_path": "Widget/Version/SummerUI_3_3/SummerUI_3_3_SevenDaySignUI/SummerUI_3_3_SevenDaySignUI",
+        "limit_level": 0,
+        "config_list": [
+            7501,
+            7502,
+            7503,
+            7504,
+            7505,
+            7506,
+            7507
+        ]
+    },
     "270013": {
         "cost_item_list": "",
         "type": 0,
         "id": 270013,
+        "title": "Impending Heat Wave",
+        "ui_path": "Widget/Version/NorseUI_3_2/NorseUI_3_2_SevenDaySignUI/NorseUI_3_2_FourteenDaySignUI",
+        "limit_level": 0,
+        "config_list": [
+            21001,
+            21002,
+            21003,
+            21004,
+            21005,
+            21006,
+            21007,
+            21008,
+            21009,
+            21010,
+            21011,
+            21012,
+            21013,
+            21014
+        ]
+    },
+    "280011": {
+        "cost_item_list": "",
+        "type": 0,
+        "id": 280011,
+        "title": "Limited Sign-In",
+        "ui_path": "Widget/Version/SummerUI_3_4/SummerUI_3_4_SevenDaySignUI/SummerUI_3_4_SevenDaySignUI",
+        "limit_level": 0,
+        "config_list": [
+            7501,
+            7502,
+            7503,
+            7504,
+            7505,
+            7506,
+            7507
+        ]
+    },
+    "282491": {
+        "type": 1,
+        "id": 282491,
+        "title": "Limited Sign-In",
+        "ui_path": "Widget/Version/SummerUI_3_4/SummerUI_3_4_SevenSkinUI/SummerUI_3_4_SevenSkinUI",
+        "limit_level": 0,
+        "config_list": [
+            306101,
+            306102,
+            306103,
+            306104,
+            306105,
+            306106,
+            306107
+        ],
+        "cost_item_list": [
+            [
+                1,
+                100
+            ]
+        ]
+    },
+    "280012": {
+        "cost_item_list": "",
+        "type": 0,
+        "id": 280012,
+        "title": "Limited Sign-In",
+        "ui_path": "Widget/Version/SummerUI_3_5/SummerUI_3_5_SevenDaySignUI/SummerUI_3_5_SevenDaySignUI",
+        "limit_level": 0,
+        "config_list": [
+            7501,
+            7502,
+            7503,
+            7504,
+            7505,
+            7506,
+            7507
+        ]
+    },
+    "293401": {
+        "type": 1,
+        "id": 293401,
+        "title": "Limited Sign-In",
+        "ui_path": "Widget/Version/ShashwatUI_3_6/ShashwatUI_3_6_SevenSkinUI/ShashwatUI_3_6_SevenSkinUI",
+        "limit_level": 0,
+        "config_list": [
+            306101,
+            306102,
+            306103,
+            306104,
+            306105,
+            306106,
+            306107
+        ],
+        "cost_item_list": [
+            [
+                1,
+                100
+            ]
+        ]
+    },
+    "290011": {
+        "cost_item_list": "",
+        "type": 0,
+        "id": 290011,
+        "title": "Limited Sign-In",
+        "ui_path": "Widget/Version/ShashwatUI_3_6/ShashwatUI_3_6_SevenDaySignUI/ShashwatUI_3_6_SevenDaySignUI",
+        "limit_level": 0,
+        "config_list": [
+            7501,
+            7502,
+            7503,
+            7504,
+            7505,
+            7506,
+            7507
+        ]
+    },
+    "290012": {
+        "cost_item_list": "",
+        "type": 0,
+        "id": 290012,
+        "title": "Limited Sign-In",
+        "ui_path": "Widget/Version/ShashwatUI_3_7/ShashwatUI_3_7_SevenDaySignUI/ShashwatUI_3_7_SevenDaySignUI",
+        "limit_level": 0,
+        "config_list": [
+            7501,
+            7502,
+            7503,
+            7504,
+            7505,
+            7506,
+            7507
+        ]
+    },
+    "280013": {
+        "cost_item_list": "",
+        "type": 0,
+        "id": 280013,
+        "title": "Limited Sign-In",
+        "ui_path": "Widget/Version/SummerUI_3_3/SummerUI_3_3_SevenDaySignUI/SummerUI_3_3_SevenDaySignUI",
+        "limit_level": 0,
+        "config_list": [
+            7501,
+            7502,
+            7503,
+            7504,
+            7505,
+            7506,
+            7507
+        ]
+    },
+    "280014": {
+        "cost_item_list": "",
+        "type": 0,
+        "id": 280014,
         "title": "Impending Heat Wave",
         "ui_path": "Widget/Version/NorseUI_3_2/NorseUI_3_2_SevenDaySignUI/NorseUI_3_2_FourteenDaySignUI",
         "limit_level": 0,
@@ -637,6 +807,15 @@
         240012,
         240013,
         270011,
-        270013
+        270012,
+        270013,
+        280011,
+        282491,
+        280012,
+        293401,
+        290011,
+        290012,
+        280013,
+        280014
     ]
 }

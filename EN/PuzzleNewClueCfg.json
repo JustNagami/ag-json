@@ -71,7 +71,44 @@
         "clue_desc": "\"I have never drawn 'Sakuragiri.' I get a strange feeling whenever I touch its scabbard...\" ",
         "area_type": 0
     },
+    "2822601": {
+        "main_activity_id": 282261,
+        "int": 2822601,
+        "clue_desc": "The Midnight Thorns gang in northern Gharpur\nhas absorbed the remaining members of other gangs and grown into a powerful force.",
+        "area_type": 2
+    },
+    "2822602": {
+        "main_activity_id": 282261,
+        "int": 2822602,
+        "clue_desc": "Meruism keeps Gharpur's fragile balance, but to the evil ones, this\nbalance is just another obstacle...",
+        "area_type": 2
+    },
+    "2822603": {
+        "main_activity_id": 282261,
+        "int": 2822603,
+        "clue_desc": "Biotech, a leading biological researcher, holds\nvast capital and power and is rumored to be engaged in forbidden research.",
+        "area_type": 1
+    },
+    "2822604": {
+        "main_activity_id": 282261,
+        "int": 2822604,
+        "clue_desc": "Infinite Power got its start in popular fighting events\nand developed many heavy factories and armed forces for security purposes.",
+        "area_type": 1
+    },
+    "2822605": {
+        "main_activity_id": 282261,
+        "int": 2822605,
+        "clue_desc": "The leader of the Burning Scars, a large gang in western Gharpur,\ncraves chaos, and the expansion of his armaments is a reflection of his ambition.",
+        "area_type": 1
+    },
     "get_id_list_by_main_activity_id": {
+        "282261": [
+            2822601,
+            2822602,
+            2822603,
+            2822604,
+            2822605
+        ],
         "222141": [
             2221401,
             2221402,
@@ -103,6 +140,11 @@
         2221401,
         2221402,
         2221403,
-        2221404
+        2221404,
+        2822601,
+        2822602,
+        2822603,
+        2822604,
+        2822605
     ]
 }

@@ -1,0 +1,142 @@
+{
+    "1001": {
+        "skill_cd": "0",
+        "skill_new_icon": "6108216",
+        "skill_new_description": "Tap to fire a missile. Long press to fire bullets.",
+        "skill_start_description": "Swing your weapon to attack and deal DMG.",
+        "skill_start_icon": "6108101",
+        "affix_effect_skill_desc": "",
+        "id": 1001,
+        "skill_index": "Normal Attack",
+        "skill_name": "Steel-Breaking Slice",
+        "affix_effect_skill_list": []
+    },
+    "1002": {
+        "skill_cd": "12",
+        "skill_new_icon": "6108214",
+        "skill_new_description": "Shoot lasers at the locked target.",
+        "skill_start_description": "Use the bio weapon to shoot three times in a row.",
+        "skill_start_icon": "6108104",
+        "affix_effect_skill_desc": "",
+        "id": 1002,
+        "skill_index": "Skill 1",
+        "skill_name": "Triple Wisdom",
+        "affix_effect_skill_list": []
+    },
+    "1003": {
+        "skill_cd": "12",
+        "skill_new_icon": "6108215",
+        "skill_new_description": "Begin to fly while shooting multiple volleys of bullets.",
+        "skill_start_description": "Starts the acceleration engine and sprints forward, generating a shock wave after landing.",
+        "skill_start_icon": "6108205",
+        "affix_effect_skill_desc": "",
+        "id": 1003,
+        "skill_index": "Skill 2",
+        "skill_name": "Blazing Ambush",
+        "affix_effect_skill_list": []
+    },
+    "1004": {
+        "skill_cd": "12",
+        "skill_new_icon": "6108201",
+        "skill_new_description": "Swipes at the locked target.",
+        "skill_start_description": "Flies into the air and swipes at enemies upon hitting the ground, expending all Rage to fire thunderbolts.",
+        "skill_start_icon": "6108212",
+        "affix_effect_skill_desc": "Flying costs Rage. If you run out of Rage, your midair swipe skill will activate automatically, and you will fall to the ground.",
+        "id": 1004,
+        "skill_index": "Skill 3",
+        "skill_name": "Bright Comet",
+        "affix_effect_skill_list": [
+            1001,
+            1002,
+            1003,
+            1004
+        ]
+    },
+    "1005": {
+        "skill_cd": "0",
+        "skill_new_icon": "",
+        "skill_new_description": "",
+        "skill_start_description": "Dodge enemy attacks.\nUse Non-mobile Dodge to block and earn Rage. Blocking eliminates all DMG and stuns the enemy.\nLong press to keep blocking, which will cost Dodge Energy.",
+        "skill_start_icon": "6108305",
+        "affix_effect_skill_desc": "",
+        "id": 1005,
+        "skill_index": "Dodge",
+        "skill_name": "Reaction Mode",
+        "affix_effect_skill_list": []
+    },
+    "2001": {
+        "skill_cd": "0",
+        "skill_new_icon": "",
+        "skill_new_description": "",
+        "skill_start_description": "Swing your weapon to attack and deal DMG.",
+        "skill_start_icon": "6109101",
+        "affix_effect_skill_desc": "",
+        "id": 2001,
+        "skill_index": "Normal Attack",
+        "skill_name": "Power Brandish",
+        "affix_effect_skill_list": []
+    },
+    "2002": {
+        "skill_cd": "6",
+        "skill_new_icon": "6109201",
+        "skill_new_description": "You rush forth, damaging enemies you hit.",
+        "skill_start_description": "You stomp the ground, dealing DMG to enemies.",
+        "skill_start_icon": "6109206",
+        "affix_effect_skill_desc": "",
+        "id": 2002,
+        "skill_index": "Skill 1",
+        "skill_name": "Seismic Wave",
+        "affix_effect_skill_list": []
+    },
+    "2003": {
+        "skill_cd": "6",
+        "skill_new_icon": "6109261",
+        "skill_new_description": "Spins her halberd, pulling nearby enemies in front of her and blasting them with bullets.",
+        "skill_start_description": "You jump into the air and land back where you started, damaging enemies.",
+        "skill_start_icon": "6109205",
+        "affix_effect_skill_desc": "",
+        "id": 2003,
+        "skill_index": "Skill 2",
+        "skill_name": "Heavenly Patrol",
+        "affix_effect_skill_list": []
+    },
+    "2004": {
+        "skill_cd": "0",
+        "skill_new_icon": "",
+        "skill_new_description": "",
+        "skill_start_description": "Long press this skill to fire missiles while sprinting.",
+        "skill_start_icon": "6109242",
+        "affix_effect_skill_desc": "Gather Rage by running. When Rage is full, you will enter Rampage mode.",
+        "id": 2004,
+        "skill_index": "Skill 3",
+        "skill_name": "Crimson Charge",
+        "affix_effect_skill_list": [
+            2002,
+            2003
+        ]
+    },
+    "2005": {
+        "skill_cd": "0",
+        "skill_new_icon": "",
+        "skill_new_description": "",
+        "skill_start_description": "Quickly dodge enemy attacks.",
+        "skill_start_icon": "6109305",
+        "affix_effect_skill_desc": "",
+        "id": 2005,
+        "skill_index": "Dodge",
+        "skill_name": "Shattering Step",
+        "affix_effect_skill_list": []
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+    ]
+}

@@ -2868,18 +2868,6 @@
         "initAISAC": "",
         "detail": "Composer: Polymath9\nArranger: LousikAEy"
     },
-    "233": {
-        "cueName": "bgm_activity_3_0_story_return_song",
-        "authorName": "\u300c\u6df1\u7a7a\u4e4b\u773c\u300d\u4fee\u6b63\u8005",
-        "ableBGM": 1,
-        "album": 17,
-        "cuesheet": "bgm_activity_3_0_story_return_song",
-        "musicName": "Sing For You",
-        "id": 233,
-        "awbName": "bgm_activity_3_0_story_return_song",
-        "initAISAC": "",
-        "detail": "Welcome back, Admin.\n\nComposer: LousikAEy\nCV List:\nVerthandi - \u725b\u5976\u541b\nOsiris - \u769b\u56db\u767d\nLeviathan - \u5218\u96ef\nVidar - \u5218\u96ef\nZenkibo Tengu - \u97e9\u5a07\u5a07"
-    },
     "234": {
         "cueName": "bgm_activity_3_2_ui",
         "authorName": "Polymath9/LousikAEy",
@@ -3217,8 +3205,7 @@
             229,
             230,
             231,
-            232,
-            233
+            232
         ],
         [
             234,
@@ -3462,7 +3449,6 @@
         230,
         231,
         232,
-        233,
         234,
         235,
         236,

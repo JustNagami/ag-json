@@ -1,0 +1,82 @@
+{
+    "1001": {
+        "template": 1,
+        "params": "",
+        "id": 1001,
+        "title": "Restaurant",
+        "desc": "Modifier who spent the most Stamina: %s\nMost-sold dish: %s\nTotal dishes sold: %s\nTotal Jobs completed: %s\nCurrency earned: %s\nModifier who handled the most Jobs: %s\nTotal no. of Modifiers who handled Jobs: %s",
+        "marquee": [
+            "The Modifier who spent the most Stamina was %s. Remember to remind each other that all work and no play makes Jane a really, really dull girl.",
+            "The most-sold dish was %s.",
+            "A total of %s dish(es) was/were sold at the Restaurant last week. Tweaking your supply plan based on past sales can help you increase your profits.",
+            "A total of %s Job(s) was/were completed last week. Surely the customers trust the restaurant even more now.",
+            "You obtained a total of %s Park Stamp(s) last week. Use them wisely to improve your Modifiers' stay.",
+            "%s handled the most Jobs last week. This surely calls for a treat or two for this Modifier!",
+            "A total of %s Modifier(s) handled Jobs last week. Looks like you're getting better at the art of manpower deployment, Admin."
+        ]
+    },
+    "2001": {
+        "template": 2,
+        "params": "",
+        "id": 2001,
+        "title": "Idol Competition",
+        "desc": "Modifier that was cultivated the most: %s %s\nStat that was cultivated the most: %s\nTotal battles against other Admins: %s\nTotal wins against other Admins: %s",
+        "marquee": [
+            "The Modifier that was cultivated the most number of times last week was %s. Looks like someone is gonna hit the big time soon!",
+            "The stat that was cultivated the most last week was %s. Take care to ensure balanced growth for your Modifiers!",
+            "Total number of battles played with other Admins last week: %s.",
+            "Total wins against other Admins last week: %s."
+        ]
+    },
+    "3001": {
+        "template": 3,
+        "id": 3001,
+        "title": "New Furniture",
+        "desc": "New Furniture %s",
+        "params": [
+            951015,
+            951016
+        ],
+        "marquee": []
+    },
+    "4001": {
+        "template": 4,
+        "id": 4001,
+        "title": "Modifiers",
+        "desc": "New Characters %s",
+        "params": [
+            1084,
+            1148
+        ],
+        "marquee": []
+    },
+    "5001": {
+        "template": 5,
+        "id": 5001,
+        "title": "Dance Moves",
+        "desc": "New Dance Moves %s",
+        "params": [
+            101,
+            102
+        ],
+        "marquee": []
+    },
+    "6001": {
+        "template": 6,
+        "id": 6001,
+        "title": "Exclusive Furniture",
+        "desc": "New Exclusive Furniture %s",
+        "params": [
+            950021
+        ],
+        "marquee": []
+    },
+    "all": [
+        1001,
+        2001,
+        3001,
+        4001,
+        5001,
+        6001
+    ]
+}

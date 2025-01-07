@@ -8495,7 +8495,802 @@
             ]
         ]
     },
+    "10220011": {
+        "name": "Brightglow",
+        "suit_name": "Full Moon Aura",
+        "unlock_condition": 2101,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1022001,
+        "id": 10220011,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10220012": {
+        "name": "Moondew",
+        "suit_name": "Full Moon Aura",
+        "unlock_condition": 2102,
+        "pre_astrolabe_id": 10220011,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1022001,
+        "id": 10220012,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10220013": {
+        "name": "Dusk",
+        "suit_name": "Full Moon Aura",
+        "unlock_condition": 2103,
+        "pre_astrolabe_id": 10220012,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1022001,
+        "id": 10220013,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10220021": {
+        "name": "New Moon",
+        "suit_name": "New Moon Aloft",
+        "unlock_condition": 2201,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1022002,
+        "id": 10220021,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10220022": {
+        "name": "Hidden Moon",
+        "suit_name": "New Moon Aloft",
+        "unlock_condition": 2202,
+        "pre_astrolabe_id": 10220021,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1022002,
+        "id": 10220022,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10220023": {
+        "name": "Lunar Wreath",
+        "suit_name": "New Moon Aloft",
+        "unlock_condition": 2203,
+        "pre_astrolabe_id": 10220022,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1022002,
+        "id": 10220023,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10220031": {
+        "name": "Secret Song",
+        "suit_name": "Moonlight Ode",
+        "unlock_condition": 2301,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1022003,
+        "id": 10220031,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10220032": {
+        "name": "Silent Moon",
+        "suit_name": "Moonlight Ode",
+        "unlock_condition": 2302,
+        "pre_astrolabe_id": 10220031,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1022003,
+        "id": 10220032,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10220033": {
+        "name": "Radiant Glow",
+        "suit_name": "Moonlight Ode",
+        "unlock_condition": 2303,
+        "pre_astrolabe_id": 10220032,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1022003,
+        "id": 10220033,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10210011": {
+        "name": "Hunter's Woods",
+        "suit_name": "Wilderness Hunter",
+        "unlock_condition": 2101,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1021001,
+        "id": 10210011,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10210012": {
+        "name": "Nighthunt",
+        "suit_name": "Wilderness Hunter",
+        "unlock_condition": 2102,
+        "pre_astrolabe_id": 10210011,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1021001,
+        "id": 10210012,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10210013": {
+        "name": "Golden Arrow",
+        "suit_name": "Wilderness Hunter",
+        "unlock_condition": 2103,
+        "pre_astrolabe_id": 10210012,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1021001,
+        "id": 10210013,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10210021": {
+        "name": "Player",
+        "suit_name": "Lighthouse Harmony",
+        "unlock_condition": 2201,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1021002,
+        "id": 10210021,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10210022": {
+        "name": "On Guard",
+        "suit_name": "Lighthouse Harmony",
+        "unlock_condition": 2202,
+        "pre_astrolabe_id": 10210021,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1021002,
+        "id": 10210022,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10210023": {
+        "name": "Tune Melodious",
+        "suit_name": "Lighthouse Harmony",
+        "unlock_condition": 2203,
+        "pre_astrolabe_id": 10210022,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1021002,
+        "id": 10210023,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10210031": {
+        "name": "Coordination",
+        "suit_name": "Musical Warrior",
+        "unlock_condition": 2301,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1021003,
+        "id": 10210031,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10210032": {
+        "name": "Sword Resonance",
+        "suit_name": "Musical Warrior",
+        "unlock_condition": 2302,
+        "pre_astrolabe_id": 10210031,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1021003,
+        "id": 10210032,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10210033": {
+        "name": "String Music",
+        "suit_name": "Musical Warrior",
+        "unlock_condition": 2303,
+        "pre_astrolabe_id": 10210032,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1021003,
+        "id": 10210033,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10200011": {
+        "name": "Rika",
+        "suit_name": "God of Destruction",
+        "unlock_condition": 2101,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1020001,
+        "id": 10200011,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10200012": {
+        "name": "Devastation",
+        "suit_name": "God of Destruction",
+        "unlock_condition": 2102,
+        "pre_astrolabe_id": 10200011,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1020001,
+        "id": 10200012,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10200013": {
+        "name": "Sacred Dance",
+        "suit_name": "God of Destruction",
+        "unlock_condition": 2103,
+        "pre_astrolabe_id": 10200012,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1020001,
+        "id": 10200013,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10200021": {
+        "name": "Lotus Blossom",
+        "suit_name": "God of Creation",
+        "unlock_condition": 2201,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1020002,
+        "id": 10200021,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10200022": {
+        "name": "Golden Egg",
+        "suit_name": "God of Creation",
+        "unlock_condition": 2202,
+        "pre_astrolabe_id": 10200021,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1020002,
+        "id": 10200022,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10200023": {
+        "name": "Promise",
+        "suit_name": "God of Creation",
+        "unlock_condition": 2203,
+        "pre_astrolabe_id": 10200022,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1020002,
+        "id": 10200023,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10200031": {
+        "name": "Creation",
+        "suit_name": "Trimurti Unity",
+        "unlock_condition": 2301,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1020003,
+        "id": 10200031,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10200032": {
+        "name": "Protection",
+        "suit_name": "Trimurti Unity",
+        "unlock_condition": 2302,
+        "pre_astrolabe_id": 10200031,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1020003,
+        "id": 10200032,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10200033": {
+        "name": "Damage",
+        "suit_name": "Trimurti Unity",
+        "unlock_condition": 2303,
+        "pre_astrolabe_id": 10200032,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1020003,
+        "id": 10200033,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "11560011": {
+        "name": "Stolen Thunder",
+        "suit_name": "Lofty Goddess",
+        "unlock_condition": 2101,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1156001,
+        "id": 11560011,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "11560012": {
+        "name": "Extermination",
+        "suit_name": "Lofty Goddess",
+        "unlock_condition": 2102,
+        "pre_astrolabe_id": 11560011,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1156001,
+        "id": 11560012,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "11560013": {
+        "name": "Exorcism",
+        "suit_name": "Lofty Goddess",
+        "unlock_condition": 2103,
+        "pre_astrolabe_id": 11560012,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1156001,
+        "id": 11560013,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "11560021": {
+        "name": "Thunderous Pause",
+        "suit_name": "Eternal Thunder",
+        "unlock_condition": 2201,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1156002,
+        "id": 11560021,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "11560022": {
+        "name": "Thundercall",
+        "suit_name": "Eternal Thunder",
+        "unlock_condition": 2202,
+        "pre_astrolabe_id": 11560021,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1156002,
+        "id": 11560022,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "11560023": {
+        "name": "Thunderclap",
+        "suit_name": "Eternal Thunder",
+        "unlock_condition": 2203,
+        "pre_astrolabe_id": 11560022,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1156002,
+        "id": 11560023,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "11560031": {
+        "name": "Threshold",
+        "suit_name": "God of Wrath",
+        "unlock_condition": 2301,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1156003,
+        "id": 11560031,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "11560032": {
+        "name": "Dark Lord",
+        "suit_name": "God of Wrath",
+        "unlock_condition": 2302,
+        "pre_astrolabe_id": 11560031,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1156003,
+        "id": 11560032,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "11560033": {
+        "name": "Resentment",
+        "suit_name": "God of Wrath",
+        "unlock_condition": 2303,
+        "pre_astrolabe_id": 11560032,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1156003,
+        "id": 11560033,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10890011": {
+        "name": "Cycle",
+        "suit_name": "Cyclic Peak",
+        "unlock_condition": 2101,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1089001,
+        "id": 10890011,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10890012": {
+        "name": "Cleansing",
+        "suit_name": "Cyclic Peak",
+        "unlock_condition": 2102,
+        "pre_astrolabe_id": 10890011,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1089001,
+        "id": 10890012,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10890013": {
+        "name": "Immolation",
+        "suit_name": "Cyclic Peak",
+        "unlock_condition": 2103,
+        "pre_astrolabe_id": 10890012,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1089001,
+        "id": 10890013,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10890021": {
+        "name": "Crossed Ridge",
+        "suit_name": "God of the Mountain",
+        "unlock_condition": 2201,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1089002,
+        "id": 10890021,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10890022": {
+        "name": "Polar Peak",
+        "suit_name": "God of the Mountain",
+        "unlock_condition": 2202,
+        "pre_astrolabe_id": 10890021,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1089002,
+        "id": 10890022,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10890023": {
+        "name": "Wind Turbine",
+        "suit_name": "God of the Mountain",
+        "unlock_condition": 2203,
+        "pre_astrolabe_id": 10890022,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1089002,
+        "id": 10890023,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10890031": {
+        "name": "Gust",
+        "suit_name": "Tempest Gale",
+        "unlock_condition": 2301,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1089003,
+        "id": 10890031,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10890032": {
+        "name": "Hurricane",
+        "suit_name": "Tempest Gale",
+        "unlock_condition": 2302,
+        "pre_astrolabe_id": 10890031,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1089003,
+        "id": 10890032,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10890033": {
+        "name": "Wild Mist",
+        "suit_name": "Tempest Gale",
+        "unlock_condition": 2303,
+        "pre_astrolabe_id": 10890032,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1089003,
+        "id": 10890033,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
     "get_id_list_by_hero_astrolabe_suit_id": {
+        "1089003": [
+            10890031,
+            10890032,
+            10890033
+        ],
+        "1089002": [
+            10890021,
+            10890022,
+            10890023
+        ],
+        "1089001": [
+            10890011,
+            10890012,
+            10890013
+        ],
+        "1156003": [
+            11560031,
+            11560032,
+            11560033
+        ],
+        "1156002": [
+            11560021,
+            11560022,
+            11560023
+        ],
+        "1156001": [
+            11560011,
+            11560012,
+            11560013
+        ],
+        "1020003": [
+            10200031,
+            10200032,
+            10200033
+        ],
+        "1020002": [
+            10200021,
+            10200022,
+            10200023
+        ],
+        "1020001": [
+            10200011,
+            10200012,
+            10200013
+        ],
+        "1021003": [
+            10210031,
+            10210032,
+            10210033
+        ],
+        "1021002": [
+            10210021,
+            10210022,
+            10210023
+        ],
+        "1021001": [
+            10210011,
+            10210012,
+            10210013
+        ],
+        "1022003": [
+            10220031,
+            10220032,
+            10220033
+        ],
+        "1022002": [
+            10220021,
+            10220022,
+            10220023
+        ],
+        "1022001": [
+            10220011,
+            10220012,
+            10220013
+        ],
         "1197003": [
             11970031,
             11970032,
@@ -9383,6 +10178,96 @@
         ]
     },
     "get_id_list_by_pre_astrolabe_id": {
+        "10890032": [
+            10890033
+        ],
+        "10890031": [
+            10890032
+        ],
+        "10890022": [
+            10890023
+        ],
+        "10890021": [
+            10890022
+        ],
+        "10890012": [
+            10890013
+        ],
+        "10890011": [
+            10890012
+        ],
+        "11560032": [
+            11560033
+        ],
+        "11560031": [
+            11560032
+        ],
+        "11560022": [
+            11560023
+        ],
+        "11560021": [
+            11560022
+        ],
+        "11560012": [
+            11560013
+        ],
+        "11560011": [
+            11560012
+        ],
+        "10200032": [
+            10200033
+        ],
+        "10200031": [
+            10200032
+        ],
+        "10200022": [
+            10200023
+        ],
+        "10200021": [
+            10200022
+        ],
+        "10200012": [
+            10200013
+        ],
+        "10200011": [
+            10200012
+        ],
+        "10210032": [
+            10210033
+        ],
+        "10210031": [
+            10210032
+        ],
+        "10210022": [
+            10210023
+        ],
+        "10210021": [
+            10210022
+        ],
+        "10210012": [
+            10210013
+        ],
+        "10210011": [
+            10210012
+        ],
+        "10220032": [
+            10220033
+        ],
+        "10220031": [
+            10220032
+        ],
+        "10220022": [
+            10220023
+        ],
+        "10220021": [
+            10220022
+        ],
+        "10220012": [
+            10220013
+        ],
+        "10220011": [
+            10220012
+        ],
         "11970032": [
             11970033
         ],
@@ -10622,7 +11507,22 @@
             12840031,
             11970011,
             11970021,
-            11970031
+            11970031,
+            10220011,
+            10220021,
+            10220031,
+            10210011,
+            10210021,
+            10210031,
+            10200011,
+            10200021,
+            10200031,
+            11560011,
+            11560021,
+            11560031,
+            10890011,
+            10890021,
+            10890031
         ]
     },
     "all": [
@@ -11156,6 +12056,51 @@
         11970023,
         11970031,
         11970032,
-        11970033
+        11970033,
+        10220011,
+        10220012,
+        10220013,
+        10220021,
+        10220022,
+        10220023,
+        10220031,
+        10220032,
+        10220033,
+        10210011,
+        10210012,
+        10210013,
+        10210021,
+        10210022,
+        10210023,
+        10210031,
+        10210032,
+        10210033,
+        10200011,
+        10200012,
+        10200013,
+        10200021,
+        10200022,
+        10200023,
+        10200031,
+        10200032,
+        10200033,
+        11560011,
+        11560012,
+        11560013,
+        11560021,
+        11560022,
+        11560023,
+        11560031,
+        11560032,
+        11560033,
+        10890011,
+        10890012,
+        10890013,
+        10890021,
+        10890022,
+        10890023,
+        10890031,
+        10890032,
+        10890033
     ]
 }

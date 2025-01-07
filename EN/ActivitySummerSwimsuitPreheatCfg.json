@@ -1,0 +1,168 @@
+{
+    "1001": {
+        "activity_id": 2831601,
+        "comment_desc": "The sound of the waves whispers in my ears, and the blue before my eyes sparkles in the sun.",
+        "type": 1,
+        "preview_desc": "\"It's nice to take a nap to the sound of the waves. Would you like to try it, Admin?\"",
+        "pic_name": "1",
+        "id": 1001,
+        "settings": "5",
+        "reward_list": [
+            [
+                1,
+                25
+            ],
+            [
+                40103,
+                5
+            ],
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "1002": {
+        "activity_id": 2831602,
+        "comment_desc": "The ocean, the breeze, the seagulls, and... a French fry. Perhaps the meaning of life is that simple.",
+        "type": 1,
+        "preview_desc": "\"This position? Okay, as you say.\"",
+        "pic_name": "2",
+        "id": 1002,
+        "settings": "5",
+        "reward_list": [
+            [
+                1,
+                25
+            ],
+            [
+                40203,
+                5
+            ],
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "1003": {
+        "activity_id": 2831603,
+        "comment_desc": "This is probably the photo Artemis wants to delete the most, but fortunately it's been backed up.",
+        "type": 1,
+        "preview_desc": "\"Woah! This isn't your food! Wait, stop taking pictures!\"",
+        "pic_name": "3",
+        "id": 1003,
+        "settings": "5",
+        "reward_list": [
+            [
+                1,
+                50
+            ],
+            [
+                40803,
+                5
+            ],
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "1004": {
+        "activity_id": 2831604,
+        "comment_desc": "Oceanstar Park opens every three years, and you might see a lot of familiar faces there.",
+        "type": 2,
+        "preview_desc": "\"The summer's hottest destination, Oceanstar Park, is open! Will it be hard to get tickets this year?\"",
+        "pic_name": "4",
+        "id": 1004,
+        "settings": "3",
+        "reward_list": [
+            [
+                1,
+                25
+            ],
+            [
+                40701,
+                5
+            ],
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "1005": {
+        "activity_id": 2831605,
+        "comment_desc": "Apparently Senba has actually never had coconut milk before... I'll take her to try some other snacks later.",
+        "type": 2,
+        "preview_desc": "\"Coconut milk... not bad. The food that the Questioner brought is good too.\"",
+        "pic_name": "5",
+        "id": 1005,
+        "settings": "3",
+        "reward_list": [
+            [
+                1,
+                25
+            ],
+            [
+                40504,
+                10
+            ],
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "1006": {
+        "activity_id": 2831606,
+        "comment_desc": "I heard that the theme of this amusement park is music and competition. Would it be better to prepare a song?",
+        "type": 2,
+        "preview_desc": "\"A music and sports event? That's interesting. Let's go together.\"",
+        "pic_name": "6",
+        "id": 1006,
+        "settings": "3",
+        "reward_list": [
+            [
+                1,
+                50
+            ],
+            [
+                40603,
+                10
+            ],
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "get_id_list_by_activity_id": {
+        "2831606": [
+            1006
+        ],
+        "2831605": [
+            1005
+        ],
+        "2831604": [
+            1004
+        ],
+        "2831603": [
+            1003
+        ],
+        "2831602": [
+            1002
+        ],
+        "2831601": [
+            1001
+        ]
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006
+    ]
+}

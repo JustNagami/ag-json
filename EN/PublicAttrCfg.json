@@ -473,6 +473,12 @@
         "percent": 1,
         "icon": ""
     },
+    "204": {
+        "id": 204,
+        "name": "DMG Bonus vs Other Monster Types",
+        "percent": 1,
+        "icon": ""
+    },
     "211": {
         "id": 211,
         "name": "Humanoid Resistance (Defender)",
@@ -488,6 +494,12 @@
     "213": {
         "id": 213,
         "name": "Visbane Resistance (Defender)",
+        "percent": 1,
+        "icon": ""
+    },
+    "214": {
+        "id": 214,
+        "name": "Other Monster Type Physical RES",
         "percent": 1,
         "icon": ""
     },
@@ -674,6 +686,12 @@
     "513": {
         "id": 513,
         "name": "Visbane Resistance",
+        "percent": 1,
+        "icon": ""
+    },
+    "514": {
+        "id": 514,
+        "name": "Other Monster RES",
         "percent": 1,
         "icon": ""
     },
@@ -937,9 +955,11 @@
         201,
         202,
         203,
+        204,
         211,
         212,
         213,
+        214,
         221,
         222,
         231,
@@ -971,6 +991,7 @@
         511,
         512,
         513,
+        514,
         521,
         522,
         600,

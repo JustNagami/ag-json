@@ -76,9 +76,177 @@
             91480102
         ]
     },
+    "950101": {
+        "name": "Student Who Likes to Sing and Dance",
+        "race": 5,
+        "model": "",
+        "id": 950101,
+        "icon": "9501",
+        "attribute": [
+            20,
+            20,
+            20,
+            20,
+            20
+        ],
+        "idol_weight": [
+            20,
+            15,
+            15,
+            25,
+            25
+        ],
+        "idol_active_skill_list": [],
+        "idol_passive_skill_list": []
+    },
+    "950102": {
+        "name": "Modern Dancer",
+        "race": 5,
+        "model": "",
+        "id": 950102,
+        "icon": "9502",
+        "attribute": [
+            20,
+            20,
+            20,
+            20,
+            20
+        ],
+        "idol_weight": [
+            20,
+            15,
+            15,
+            25,
+            25
+        ],
+        "idol_active_skill_list": [],
+        "idol_passive_skill_list": []
+    },
+    "950103": {
+        "name": "Pop Singer",
+        "race": 5,
+        "model": "",
+        "id": 950103,
+        "icon": "9503",
+        "attribute": [
+            20,
+            20,
+            20,
+            20,
+            20
+        ],
+        "idol_weight": [
+            20,
+            15,
+            15,
+            25,
+            25
+        ],
+        "idol_active_skill_list": [],
+        "idol_passive_skill_list": []
+    },
+    "950104": {
+        "name": "Fast Rapper",
+        "race": 5,
+        "model": "",
+        "id": 950104,
+        "icon": "9504",
+        "attribute": [
+            20,
+            20,
+            20,
+            20,
+            20
+        ],
+        "idol_weight": [
+            20,
+            15,
+            15,
+            25,
+            25
+        ],
+        "idol_active_skill_list": [],
+        "idol_passive_skill_list": []
+    },
+    "950105": {
+        "name": "Fashionable Model",
+        "race": 5,
+        "model": "",
+        "id": 950105,
+        "icon": "9501",
+        "attribute": [
+            20,
+            20,
+            20,
+            20,
+            20
+        ],
+        "idol_weight": [
+            20,
+            15,
+            15,
+            25,
+            25
+        ],
+        "idol_active_skill_list": [],
+        "idol_passive_skill_list": []
+    },
+    "950106": {
+        "name": "Has-Been Celebrity",
+        "race": 5,
+        "model": "",
+        "id": 950106,
+        "icon": "9502",
+        "attribute": [
+            20,
+            20,
+            20,
+            20,
+            20
+        ],
+        "idol_weight": [
+            20,
+            15,
+            15,
+            25,
+            25
+        ],
+        "idol_active_skill_list": [],
+        "idol_passive_skill_list": []
+    },
+    "950107": {
+        "name": "Unknown Actor",
+        "race": 5,
+        "model": "",
+        "id": 950107,
+        "icon": "9503",
+        "attribute": [
+            20,
+            20,
+            20,
+            20,
+            20
+        ],
+        "idol_weight": [
+            20,
+            15,
+            15,
+            25,
+            25
+        ],
+        "idol_active_skill_list": [],
+        "idol_passive_skill_list": []
+    },
     "all": [
         903901,
         908401,
-        914801
+        914801,
+        950101,
+        950102,
+        950103,
+        950104,
+        950105,
+        950106,
+        950107
     ]
 }

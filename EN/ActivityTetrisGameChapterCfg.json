@@ -1,0 +1,66 @@
+{
+    "1": {
+        "chapterID": 1,
+        "name": "Limited-Time Integration Test",
+        "activityID": 293231,
+        "type": 1,
+        "tetris_stage_list": [
+            1
+        ]
+    },
+    "2": {
+        "chapterID": 2,
+        "name": "Integration Test A",
+        "activityID": 293251,
+        "type": 2,
+        "tetris_stage_list": [
+            2,
+            3,
+            4
+        ]
+    },
+    "3": {
+        "chapterID": 3,
+        "name": "Integration Test B",
+        "activityID": 293252,
+        "type": 2,
+        "tetris_stage_list": [
+            5,
+            6
+        ]
+    },
+    "get_id_list_by_tetris_stage_list": [
+        [
+            1
+        ],
+        [
+            2
+        ],
+        [
+            2
+        ],
+        [
+            2
+        ],
+        [
+            3
+        ],
+        [
+            3
+        ]
+    ],
+    "get_id_list_by_type": [
+        [
+            1
+        ],
+        [
+            2,
+            3
+        ]
+    ],
+    "all": [
+        1,
+        2,
+        3
+    ]
+}

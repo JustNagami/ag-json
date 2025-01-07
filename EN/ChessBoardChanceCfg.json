@@ -1,0 +1,3030 @@
+{
+    "101030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ]
+        ],
+        "params_title": [
+            "Honesty Pays",
+            "Punish the Ducks",
+            "Street Performer",
+            "Unexpected Wealth",
+            "Park Merch",
+            "Primo Playa",
+            "Primo Playa",
+            "Primo Playa"
+        ],
+        "params_des": [
+            "Your honesty earns you the gratitude of the owner of the lost item.\n\nYou get 5 Duckie Coins.",
+            "You catch the troublemaking ducky and get all of its Duckie Coins.\n\nYou get 10 Duckie Coins.",
+            "You are invited to join a street performance, which garners you some unexpected applause and cheers.\n\nYou get 5 Duckie Coins.",
+            "You lose some coins to a malfunctioning machine at the park, which gives you some compensation for the unfortunate occurrence.\n\nYou get 5 Duckie Coins.",
+            "You win some souvenirs at a park event. This park merch seems to have some special purpose.\n\nYou get 2 random items.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item."
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp"
+        ]
+    },
+    "101031": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101031,
+        "params": [
+            [
+                2,
+                1,
+                [
+                    10003
+                ]
+            ]
+        ],
+        "params_title": [
+            "Primo Playa"
+        ],
+        "params_des": [
+            "You win in a contest and receive a prize.\n\nYou get 1 random item."
+        ],
+        "params_image": [
+            "random_AddProp"
+        ]
+    },
+    "101033": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101033,
+        "params": [
+            [
+                1,
+                10
+            ]
+        ],
+        "params_title": [
+            "Punish the Ducks"
+        ],
+        "params_des": [
+            "You catch the troublemaking ducky and get all of its Duckie Coins.\n\nYou get 10 Duckie Coins."
+        ],
+        "params_image": [
+            "random_AddMoney"
+        ]
+    },
+    "101035": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101035,
+        "params": [
+            [
+                2,
+                1,
+                [
+                    10002
+                ]
+            ]
+        ],
+        "params_title": [
+            "Primo Playa"
+        ],
+        "params_des": [
+            "You win in a contest and receive a prize.\n\nYou get 1 random item."
+        ],
+        "params_image": [
+            "random_AddProp"
+        ]
+    },
+    "101040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101040,
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10003,
+                10005,
+                10006
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "101041": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101041,
+        "params": [
+            2,
+            [
+                10002,
+                10003
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "101050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101050,
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10003,
+                10005,
+                10006
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "101080": {
+        "cost": 0,
+        "name": "Getting up There",
+        "chance_event": 101081,
+        "type": 4,
+        "description": "There's a path here, so let's just use this quietly to get up there without disturbing it.",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101080,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "transfer_1_2_1"
+        ]
+    },
+    "101090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101090,
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "101091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101091,
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10001,
+                10002,
+                10003,
+                10004,
+                10005,
+                10006,
+                10007,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "102030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 102030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10005,
+                    10006
+                ]
+            ]
+        ],
+        "params_title": [
+            "Honesty Pays",
+            "Punish the Ducks",
+            "Street Performer",
+            "Unexpected Wealth",
+            "Park Merch",
+            "Primo Playa",
+            "Primo Playa",
+            "Primo Playa"
+        ],
+        "params_des": [
+            "Your honesty earns you the gratitude of the owner of the lost item.\n\nYou get 5 Duckie Coins.",
+            "You catch the troublemaking ducky and get all of its Duckie Coins.\n\nYou get 10 Duckie Coins.",
+            "You are invited to join a street performance, which garners you some unexpected applause and cheers.\n\nYou get 5 Duckie Coins.",
+            "You lose some coins to a malfunctioning machine at the park, which gives you some compensation for the unfortunate occurrence.\n\nYou get 5 Duckie Coins.",
+            "You win some souvenirs at a park event. This park merch seems to have some special purpose.\n\nYou get 2 random items.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item."
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp"
+        ]
+    },
+    "102040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 102040,
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10003,
+                10005,
+                10006
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "102050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 102050,
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10003,
+                10005,
+                10006
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "201030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10008,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10008,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10008,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10008,
+                    10012
+                ]
+            ],
+            [
+                4,
+                20003
+            ],
+            [
+                4,
+                10104
+            ],
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                10103
+            ]
+        ],
+        "params_title": [
+            "Honesty Pays",
+            "Punish the Ducks",
+            "Street Performer",
+            "Unexpected Wealth",
+            "Park Merch",
+            "Primo Playa",
+            "Primo Playa",
+            "Primo Playa",
+            "So Hot, So Hot",
+            "There's Someone Above Me",
+            "They Say Quack And You Say...",
+            "Total Victory"
+        ],
+        "params_des": [
+            "Your honesty earns you the gratitude of the owner of the lost item.\n\nYou get 5 Duckie Coins.",
+            "You catch the troublemaking ducky and get all of its Duckie Coins.\n\nYou get 10 Duckie Coins.",
+            "You are invited to join a street performance, which garners you some unexpected applause and cheers.\n\nYou get 5 Duckie Coins.",
+            "You lose some coins to a malfunctioning machine at the park, which gives you some compensation for the unfortunate occurrence.\n\nYou get 5 Duckie Coins.",
+            "You win some souvenirs at a park event. This park merch seems to have some special purpose.\n\nYou get 2 random items.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "The scorching sun has drained you of all your physical strength. Now you'll have to move a little more slowly while you recover.\n\nYou get the Mercury Retrograde status.",
+            "A break in the competition has just been announced on the park broadcast. This gives you the protection of the patrol AGI Mechas for the time being.\n\nYou gain the Invincible status.",
+            "You beat a ducky that you ran into by chance in a heated argument. The ducky is now reflecting on the error of its ways.\n\nAll duckies on the field stop moving for 3 rounds.",
+            "You get a super prize from a gift vending machine in the park.\n\nYou gain the Moneymaker status."
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_GetCurse",
+            "random_GetPower",
+            "random_DuckStop",
+            "random_AddMoneyBuff"
+        ]
+    },
+    "201040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201040,
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10003,
+                10007,
+                10008,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "201050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201050,
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10003,
+                10007,
+                10008,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "201090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201090,
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "201091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201091,
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10001,
+                10002,
+                10003,
+                10007,
+                10008,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "301030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10011
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10011
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10011
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10011
+                ]
+            ],
+            [
+                4,
+                20003
+            ],
+            [
+                4,
+                10104
+            ],
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                10103
+            ]
+        ],
+        "params_title": [
+            "Honesty Pays",
+            "Punish the Ducks",
+            "Street Performer",
+            "Unexpected Wealth",
+            "Park Merch",
+            "Primo Playa",
+            "Primo Playa",
+            "Primo Playa",
+            "So Hot, So Hot",
+            "There's Someone Above Me",
+            "They Say Quack And You Say...",
+            "Total Victory"
+        ],
+        "params_des": [
+            "Your honesty earns you the gratitude of the owner of the lost item.\n\nYou get 5 Duckie Coins.",
+            "You catch the troublemaking ducky and get all of its Duckie Coins.\n\nYou get 10 Duckie Coins.",
+            "You are invited to join a street performance, which garners you some unexpected applause and cheers.\n\nYou get 5 Duckie Coins.",
+            "You lose some coins to a malfunctioning machine at the park, which gives you some compensation for the unfortunate occurrence.\n\nYou get 5 Duckie Coins.",
+            "You win some souvenirs at a park event. This park merch seems to have some special purpose.\n\nYou get 2 random items.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "The scorching sun has drained you of all your physical strength. Now you'll have to move a little more slowly while you recover.\n\nYou get the Mercury Retrograde status.",
+            "A break in the competition has just been announced on the park broadcast. This gives you the protection of the patrol AGI Mechas for the time being.\n\nYou gain the Invincible status.",
+            "You beat a ducky that you ran into by chance in a heated argument. The ducky is now reflecting on the error of its ways.\n\nAll duckies on the field stop moving for 3 rounds.",
+            "You get a super prize from a gift vending machine in the park.\n\nYou gain the Moneymaker status."
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_GetCurse",
+            "random_GetPower",
+            "random_DuckStop",
+            "random_AddMoneyBuff"
+        ]
+    },
+    "301040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301040,
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10003,
+                10011
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "301050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301050,
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10003,
+                10011
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "301090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301090,
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "301091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301091,
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10001,
+                10002,
+                10003,
+                10011
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "302030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 302030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10002,
+                    10006,
+                    10008,
+                    10010,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10006,
+                    10008,
+                    10010,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10006,
+                    10008,
+                    10010,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10006,
+                    10008,
+                    10010,
+                    10012
+                ]
+            ],
+            [
+                4,
+                20003
+            ],
+            [
+                4,
+                10104
+            ],
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                10103
+            ]
+        ],
+        "params_title": [
+            "Honesty Pays",
+            "Punish the Ducks",
+            "Street Performer",
+            "Unexpected Wealth",
+            "Park Merch",
+            "Primo Playa",
+            "Primo Playa",
+            "Primo Playa",
+            "So Hot, So Hot",
+            "There's Someone Above Me",
+            "They Say Quack And You Say...",
+            "Total Victory"
+        ],
+        "params_des": [
+            "Your honesty earns you the gratitude of the owner of the lost item.\n\nYou get 5 Duckie Coins.",
+            "You catch the troublemaking ducky and get all of its Duckie Coins.\n\nYou get 10 Duckie Coins.",
+            "You are invited to join a street performance, which garners you some unexpected applause and cheers.\n\nYou get 5 Duckie Coins.",
+            "You lose some coins to a malfunctioning machine at the park, which gives you some compensation for the unfortunate occurrence.\n\nYou get 5 Duckie Coins.",
+            "You win some souvenirs at a park event. This park merch seems to have some special purpose.\n\nYou get 2 random items.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "The scorching sun has drained you of all your physical strength. Now you'll have to move a little more slowly while you recover.\n\nYou get the Mercury Retrograde status.",
+            "A break in the competition has just been announced on the park broadcast. This gives you the protection of the patrol AGI Mechas for the time being.\n\nYou gain the Invincible status.",
+            "You beat a ducky that you ran into by chance in a heated argument. The ducky is now reflecting on the error of its ways.\n\nAll duckies on the field stop moving for 3 rounds.",
+            "You get a super prize from a gift vending machine in the park.\n\nYou gain the Moneymaker status."
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_GetCurse",
+            "random_GetPower",
+            "random_DuckStop",
+            "random_AddMoneyBuff"
+        ]
+    },
+    "302040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 302040,
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10006,
+                10008,
+                10010,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "302050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 302050,
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10006,
+                10008,
+                10010,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "302090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 302090,
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "302091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 302091,
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10001,
+                10002,
+                10006,
+                10008,
+                10010,
+                10012
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": []
+    },
+    "401030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 401030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                8
+            ],
+            [
+                1,
+                8
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                2,
+                2,
+                [
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                4,
+                20003
+            ],
+            [
+                4,
+                10104
+            ],
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                10103
+            ],
+            [
+                4,
+                20001
+            ]
+        ],
+        "params_title": [
+            "Honesty Pays",
+            "Punish the Ducks",
+            "Street Performer",
+            "Unexpected Wealth",
+            "Good Begets Good",
+            "Lady Luck Smiling",
+            "Surfing Contest",
+            "Park Merch",
+            "A Friendly Worker",
+            "A Friendly Worker",
+            "Primo Playa",
+            "A Noisome Tune",
+            "Thomas slalom",
+            "They Say Quack And You Say...",
+            "Total Victory",
+            "Unintended Jettisoning"
+        ],
+        "params_des": [
+            "Your honesty earns you the gratitude of the owner of the lost item.\n\nYou get 5 Duckie Coins.",
+            "You catch the troublemaking ducky and get all of its Duckie Coins.\n\nYou get 10 Duckie Coins.",
+            "You are invited to join a street performance, which garners you some unexpected applause and cheers.\n\nYou get 5 Duckie Coins.",
+            "You lose some coins to a malfunctioning machine at the park, which gives you some compensation for the unfortunate occurrence.\n\nYou get 5 Duckie Coins.",
+            "You manage to soothe some lost children who are crying thanks to your park merch, and take them to the park's customer service counter. Their parents are so, so grateful to you.\n\nYou get 8 Duckie Coins.",
+            "You pick up some Duckie Coins at a deserted corner, and no one's come back for them.\n\nYou get 8 Duckie Coins.",
+            "You emerge as winner of the surfing contest and receive a prize from the park.\n\nYou get 10 Duckie Coins.",
+            "You win some souvenirs at a park event. This park merch seems to have some special purpose.\n\nYou get 2 random items.",
+            "You run into Apollo, who's moonlighting at the park. He very generously gifts you a portion of the food item he's vending.\n\nYou get 1 random item.",
+            "You run into Apollo, who's moonlighting at the park. He very generously gifts you a portion of the food item he's vending.\n\nYou get 1 random item.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "That background music they're playing at the park is really rubbing you the wrong way. Move a little more slowly to calm down.\n\nYou get the Mercury Retrograde status.",
+            "That you've attempted diving three times now has made you absolutely fearless.\n\nYou gain the Invincible status.",
+            "You beat a ducky that you ran into by chance in a heated argument. The ducky is now reflecting on the error of its ways.\n\nAll duckies on the field stop moving for 3 rounds.",
+            "You get a super prize from a gift vending machine in the park.\n\nYou gain the Moneymaker status.",
+            "You tear your backpack during the scuffle with the duckies, and the contents of the backpack are now dropping everywhere.\n\nYou get the Money Drain status."
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_GetCurse",
+            "random_GetPower",
+            "random_DuckStop",
+            "random_AddMoneyBuff",
+            "random_GetPoverty"
+        ]
+    },
+    "401040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 401040,
+        "params_image": "",
+        "params": [
+            2,
+            [
+                10002,
+                10003,
+                10007,
+                10006,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ]
+    },
+    "401050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 401050,
+        "params_image": "",
+        "params": [
+            3,
+            [
+                10002,
+                10003,
+                10007,
+                10006,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ]
+    },
+    "401090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 401090,
+        "params_image": "",
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ]
+    },
+    "401091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 401091,
+        "params_image": "",
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10002,
+                10003,
+                10007,
+                10006,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ]
+    },
+    "501030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 501030,
+        "params": [
+            [
+                1,
+                8
+            ],
+            [
+                1,
+                8
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10008
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10008
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10008
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10008
+                ]
+            ],
+            [
+                4,
+                20003
+            ],
+            [
+                5,
+                3
+            ]
+        ],
+        "params_title": [
+            "Good Begets Good",
+            "Lady Luck Smiling",
+            "Surfing Contest",
+            "Park Merch",
+            "A Friendly Worker",
+            "A Friendly Worker",
+            "Primo Playa",
+            "A Noisome Tune",
+            "They Say Quack And You Say..."
+        ],
+        "params_des": [
+            "You manage to soothe some lost children who are crying thanks to your park merch, and take them to the park's customer service counter. Their parents are so, so grateful to you.\n\nYou get 8 Duckie Coins.",
+            "You pick up some Duckie Coins at a deserted corner, and no one's come back for them.\n\nYou get 8 Duckie Coins.",
+            "You emerge as winner of the surfing contest and receive a prize from the park.\n\nYou get 10 Duckie Coins.",
+            "You win some souvenirs at a park event. This park merch seems to have some special purpose.\n\nYou get 2 random items.",
+            "You run into Apollo, who's moonlighting at the park. He very generously gifts you a portion of the food item he's vending.\n\nYou get 1 random item.",
+            "You run into Apollo, who's moonlighting at the park. He very generously gifts you a portion of the food item he's vending.\n\nYou get 1 random item.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "That background music they're playing at the park is really rubbing you the wrong way. Move a little more slowly to calm down.\n\nYou get the Mercury Retrograde status.",
+            "You beat a ducky that you ran into by chance in a heated argument. The ducky is now reflecting on the error of its ways.\n\nAll duckies on the field stop moving for 3 rounds."
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_GetCurse",
+            "random_DuckStop"
+        ]
+    },
+    "501040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 501040,
+        "params_image": "",
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10003,
+                10008
+            ]
+        ]
+    },
+    "501050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 501050,
+        "params_image": "",
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10003,
+                10008
+            ]
+        ]
+    },
+    "501090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 501090,
+        "params_image": "",
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ]
+    },
+    "501091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 501091,
+        "params_image": "",
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10001,
+                10002,
+                10003,
+                10008
+            ]
+        ]
+    },
+    "502030": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 5,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 502030,
+        "params": [
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                5
+            ],
+            [
+                1,
+                8
+            ],
+            [
+                1,
+                8
+            ],
+            [
+                1,
+                10
+            ],
+            [
+                2,
+                2,
+                [
+                    10001,
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                2,
+                1,
+                [
+                    10001,
+                    10002,
+                    10003,
+                    10007,
+                    10006,
+                    10008,
+                    10009,
+                    10010,
+                    10011,
+                    10012
+                ]
+            ],
+            [
+                4,
+                20003
+            ],
+            [
+                4,
+                10104
+            ],
+            [
+                5,
+                3
+            ],
+            [
+                4,
+                10103
+            ],
+            [
+                4,
+                20001
+            ]
+        ],
+        "params_title": [
+            "Honesty Pays",
+            "Punish the Ducks",
+            "Street Performer",
+            "Unexpected Wealth",
+            "Good Begets Good",
+            "Lady Luck Smiling",
+            "Surfing Contest",
+            "Park Merch",
+            "A Friendly Worker",
+            "A Friendly Worker",
+            "Primo Playa",
+            "A Noisome Tune",
+            "Thomas slalom",
+            "They Say Quack And You Say...",
+            "Total Victory",
+            "Unintended Jettisoning"
+        ],
+        "params_des": [
+            "Your honesty earns you the gratitude of the owner of the lost item.\n\nYou get 5 Duckie Coins.",
+            "You catch the troublemaking ducky and get all of its Duckie Coins.\n\nYou get 10 Duckie Coins.",
+            "You are invited to join a street performance, which garners you some unexpected applause and cheers.\n\nYou get 5 Duckie Coins.",
+            "You lose some coins to a malfunctioning machine at the park, which gives you some compensation for the unfortunate occurrence.\n\nYou get 5 Duckie Coins.",
+            "You manage to soothe some lost children who are crying thanks to your park merch, and take them to the park's customer service counter. Their parents are so, so grateful to you.\n\nYou get 8 Duckie Coins.",
+            "You pick up some Duckie Coins at a deserted corner, and no one's come back for them.\n\nYou get 8 Duckie Coins.",
+            "You emerge as winner of the surfing contest and receive a prize from the park.\n\nYou get 10 Duckie Coins.",
+            "You win some souvenirs at a park event. This park merch seems to have some special purpose.\n\nYou get 2 random items.",
+            "You run into Apollo, who's moonlighting at the park. He very generously gifts you a portion of the food item he's vending.\n\nYou get 1 random item.",
+            "You run into Apollo, who's moonlighting at the park. He very generously gifts you a portion of the food item he's vending.\n\nYou get 1 random item.",
+            "You win in a contest and receive a prize.\n\nYou get 1 random item.",
+            "That background music they're playing at the park is really rubbing you the wrong way. Move a little more slowly to calm down.\n\nYou get the Mercury Retrograde status.",
+            "That you've attempted diving three times now has made you absolutely fearless.\n\nYou gain the Invincible status.",
+            "You beat a ducky that you ran into by chance in a heated argument. The ducky is now reflecting on the error of its ways.\n\nAll duckies on the field stop moving for 3 rounds.",
+            "You get a super prize from a gift vending machine in the park.\n\nYou gain the Moneymaker status.",
+            "You tear your backpack during the scuffle with the duckies, and the contents of the backpack are now dropping everywhere.\n\nYou get the Money Drain status."
+        ],
+        "params_image": [
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddMoney",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_AddProp",
+            "random_GetCurse",
+            "random_GetPower",
+            "random_DuckStop",
+            "random_AddMoneyBuff",
+            "random_GetPoverty"
+        ]
+    },
+    "502040": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 2,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 502040,
+        "params_image": "",
+        "params": [
+            2,
+            [
+                10001,
+                10002,
+                10003,
+                10007,
+                10006,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ]
+    },
+    "502050": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 1,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 502050,
+        "params_image": "",
+        "params": [
+            3,
+            [
+                10001,
+                10002,
+                10003,
+                10007,
+                10006,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ]
+    },
+    "502090": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 502090,
+        "params_image": "",
+        "params": [
+            1,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    7
+                ],
+                [
+                    3,
+                    15
+                ]
+            ]
+        ]
+    },
+    "502091": {
+        "cost": 0,
+        "name": "",
+        "chance_event": 0,
+        "type": 9,
+        "description": "",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 502091,
+        "params_image": "",
+        "params": [
+            2,
+            [
+                [
+                    1,
+                    1
+                ],
+                [
+                    2,
+                    2
+                ],
+                [
+                    3,
+                    3
+                ]
+            ],
+            [
+                10001,
+                10002,
+                10003,
+                10007,
+                10006,
+                10008,
+                10009,
+                10010,
+                10011,
+                10012
+            ]
+        ]
+    },
+    "101111": {
+        "cost": 5,
+        "name": "Summer Starts Now I",
+        "chance_event": 101991,
+        "type": 6,
+        "description": "Ducks? Ducks!",
+        "unlock_story": 104140201,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101111,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_1_1_1"
+        ]
+    },
+    "101112": {
+        "cost": 10,
+        "name": "Summer Starts Now II",
+        "chance_event": 101992,
+        "type": 6,
+        "description": "It's clearly a holiday, but you see folks at work everywhere.",
+        "unlock_story": 104140401,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101112,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_1_1_2"
+        ]
+    },
+    "101113": {
+        "cost": 15,
+        "name": "Summer Starts Now III",
+        "chance_event": 101993,
+        "type": 6,
+        "description": "A coconut tree that bears eggs? Then we should call it...",
+        "unlock_story": 104140501,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 101113,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_1_1_3"
+        ]
+    },
+    "102080": {
+        "cost": 0,
+        "name": "Getting up There",
+        "chance_event": 102081,
+        "type": 4,
+        "description": "There's a path here, so let's just use this quietly to get up there without disturbing it.",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 102080,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "transfer_1_2_1"
+        ]
+    },
+    "102111": {
+        "cost": 5,
+        "name": "Mystery Easter Egg I",
+        "chance_event": 102991,
+        "type": 3,
+        "description": "Help! Is there anyone out there?!",
+        "unlock_story": 104140601,
+        "play_success_story": 0,
+        "target_des": "Get 1,500 points or more.",
+        "play_start_story": 0,
+        "id": 102111,
+        "params": [
+            1
+        ],
+        "params_title": [
+            "Crazy Duck"
+        ],
+        "params_des": [
+            "Defeat duckies with the hammer to get points."
+        ],
+        "params_image": [
+            "target_1_2_1"
+        ]
+    },
+    "102112": {
+        "cost": 10,
+        "name": "Mystery Easter Egg II",
+        "chance_event": 102992,
+        "type": 6,
+        "description": "Captain Sekhmet, the Administrator of Aether Gazer is looking for you. Please respond as soon as you hear this broadcast.",
+        "unlock_story": 104140701,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 102112,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_1_2_2"
+        ]
+    },
+    "102113": {
+        "cost": 15,
+        "name": "Mystery Easter Egg III",
+        "chance_event": 102993,
+        "type": 6,
+        "description": "Just what do cats make of the beach when they see one...? I mean, there's both sand and water here.",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 102113,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_1_2_3"
+        ]
+    },
+    "201080": {
+        "cost": 0,
+        "name": "On That Side of the Sea",
+        "chance_event": 201081,
+        "type": 4,
+        "description": "There's a path here, so let's just use this quietly to get over to the other side without disturbing it.",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201080,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "transfer_2_1_1"
+        ]
+    },
+    "201082": {
+        "cost": 0,
+        "name": "On That Side of the Sea",
+        "chance_event": 201083,
+        "type": 4,
+        "description": "There's a path here, so let's just use this quietly to get over to the other side without disturbing it.",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201082,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "transfer_2_1_1"
+        ]
+    },
+    "201111": {
+        "cost": 5,
+        "name": "Great Nautical Race I",
+        "chance_event": 201991,
+        "type": 7,
+        "description": "Suddenly... something pokes out of the bushes: a crocodile head!",
+        "unlock_story": 104141001,
+        "play_success_story": 0,
+        "target_des": "Get 3,000 points or more.",
+        "play_start_story": 0,
+        "id": 201111,
+        "params": [
+            101
+        ],
+        "params_title": [
+            "Bubble Crisis"
+        ],
+        "params_des": [
+            "Tap on the bubbles and eliminate all bubbles to get points."
+        ],
+        "params_image": [
+            "target_2_1_1"
+        ]
+    },
+    "201112": {
+        "cost": 10,
+        "name": "Great Nautical Race II",
+        "chance_event": 201992,
+        "type": 10,
+        "description": "What? The head coach is warming up right now?!",
+        "unlock_story": 104141101,
+        "play_success_story": 0,
+        "target_des": "You Have Reached the Endpoint",
+        "play_start_story": 0,
+        "id": 201112,
+        "params": [
+            5190901
+        ],
+        "params_title": [
+            "Great Nautical Race"
+        ],
+        "params_des": [
+            "Drive the speedboat and reach the endpoint within the time given."
+        ],
+        "params_image": [
+            "target_2_1_2"
+        ]
+    },
+    "201113": {
+        "cost": 15,
+        "name": "Great Nautical Race III",
+        "chance_event": 201993,
+        "type": 6,
+        "description": "The real competition continues even after the race!",
+        "unlock_story": 104141201,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 201113,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_2_1_3"
+        ]
+    },
+    "202111": {
+        "cost": 5,
+        "name": "Fugitive Sun I",
+        "chance_event": 202991,
+        "type": 3,
+        "description": "When the woods start to go quack, quack...",
+        "unlock_story": 104141401,
+        "play_success_story": 0,
+        "target_des": "Get 1,500 points or more.",
+        "play_start_story": 0,
+        "id": 202111,
+        "params": [
+            10
+        ],
+        "params_title": [
+            "Crazy Duck"
+        ],
+        "params_des": [
+            "Defeat duckies with the hammer to get points."
+        ],
+        "params_image": [
+            "target_2_2_1"
+        ]
+    },
+    "202112": {
+        "cost": 10,
+        "name": "Fugitive Sun II",
+        "chance_event": 202992,
+        "type": 8,
+        "description": "Sometimes, it's not a good thing to be too popular.",
+        "unlock_story": 104141501,
+        "play_success_story": 0,
+        "target_des": "Defeat all enemies.",
+        "play_start_story": 0,
+        "id": 202112,
+        "params": [
+            5190321
+        ],
+        "params_title": [
+            "Midsummer Concert"
+        ],
+        "params_des": [
+            "Play notes according to the beat to defeat the enemy."
+        ],
+        "params_image": [
+            "target_2_2_2"
+        ]
+    },
+    "203111": {
+        "cost": 5,
+        "name": "The Ducky & AGI Mecha Crisis I",
+        "chance_event": 203991,
+        "type": 6,
+        "description": "Our highly advanced ducky has totally surpassed those outdated AGI Mechas!",
+        "unlock_story": 104141701,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 203111,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_2_3_1"
+        ]
+    },
+    "203112": {
+        "cost": 10,
+        "name": "The Ducky & AGI Mecha Crisis II",
+        "chance_event": 203992,
+        "type": 8,
+        "description": "Stop it! Stop fighting now, all of you!!!",
+        "unlock_story": 104141801,
+        "play_success_story": 0,
+        "target_des": "Defeat all enemies.",
+        "play_start_story": 0,
+        "id": 203112,
+        "params": [
+            5190322
+        ],
+        "params_title": [
+            "Midsummer Concert"
+        ],
+        "params_des": [
+            "Play notes according to the beat to defeat the enemy."
+        ],
+        "params_image": [
+            "target_2_3_2"
+        ]
+    },
+    "301070": {
+        "cost": 5,
+        "name": "Park CS Counter",
+        "chance_event": 301071,
+        "type": 4,
+        "description": "You know, the business paid to advertise, so we can't exactly ask them to move to another spot without a really good reason.",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301070,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "office_3_1_1"
+        ]
+    },
+    "301073": {
+        "cost": 5,
+        "name": "Park CS Counter",
+        "chance_event": 301074,
+        "type": 4,
+        "description": "You know, the business paid to advertise, so we can't exactly ask them to move to another spot without a really good reason.",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301073,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "office_3_1_1"
+        ]
+    },
+    "301111": {
+        "cost": 5,
+        "name": "The Sound of Music I",
+        "chance_event": 301991,
+        "type": 6,
+        "description": "Once you eliminate all the wrong answers, only the correct one will be left!",
+        "unlock_story": 104142001,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301111,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_3_1_1"
+        ]
+    },
+    "301112": {
+        "cost": 10,
+        "name": "The Sound of Music II",
+        "chance_event": 301992,
+        "type": 6,
+        "description": "Listen to the tune below and choose the correct answer. E.g.: The price of the shirt is...?",
+        "unlock_story": 104142101,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301112,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_3_1_2"
+        ]
+    },
+    "301113": {
+        "cost": 15,
+        "name": "The Sound of Music III",
+        "chance_event": 301993,
+        "type": 8,
+        "description": "You ask what's so great about Ducky? Well, Ducky is... Um... what's so great about Ducky again?",
+        "unlock_story": 104142201,
+        "play_success_story": 0,
+        "target_des": "Defeat all enemies.",
+        "play_start_story": 0,
+        "id": 301113,
+        "params": [
+            5190324
+        ],
+        "params_title": [
+            "Midsummer Concert"
+        ],
+        "params_des": [
+            "Play notes according to the beat to defeat the enemy."
+        ],
+        "params_image": [
+            "target_3_1_3"
+        ]
+    },
+    "301114": {
+        "cost": 20,
+        "name": "The Sound of Music IV",
+        "chance_event": 301994,
+        "type": 6,
+        "description": "\"Ugh, I hate this feeling...\"",
+        "unlock_story": 104142301,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 301114,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_3_1_1"
+        ]
+    },
+    "302111": {
+        "cost": 10,
+        "name": "Fugitive Duck I",
+        "chance_event": 302991,
+        "type": 6,
+        "description": "AHHHH! Those wild thieving ducks have made their way out!\nCharge, my knights!!!",
+        "unlock_story": 104142501,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 302111,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_3_2_1"
+        ]
+    },
+    "302112": {
+        "cost": 15,
+        "name": "Fugitive Duck II",
+        "chance_event": 302992,
+        "type": 8,
+        "description": "You can stop right here, ducky. You're surrounded, there are knights everywhere outside.",
+        "unlock_story": 104142601,
+        "play_success_story": 0,
+        "target_des": "Defeat all enemies.",
+        "play_start_story": 0,
+        "id": 302112,
+        "params": [
+            5190326
+        ],
+        "params_title": [
+            "Midsummer Concert"
+        ],
+        "params_des": [
+            "Play notes according to the beat to defeat the enemy."
+        ],
+        "params_image": [
+            "target_1_1_1"
+        ]
+    },
+    "303111": {
+        "cost": 10,
+        "name": "The Great Thievers I",
+        "chance_event": 303991,
+        "type": 7,
+        "description": "Come on, Zero One! Give everyone a reason to gasp!",
+        "unlock_story": 104142801,
+        "play_success_story": 0,
+        "target_des": "Get 3,000 points or more.",
+        "play_start_story": 0,
+        "id": 303111,
+        "params": [
+            102
+        ],
+        "params_title": [
+            "Bubble Crisis"
+        ],
+        "params_des": [
+            "Tap on the bubbles and eliminate all bubbles to get points."
+        ],
+        "params_image": [
+            "target_3_1_2"
+        ]
+    },
+    "303112": {
+        "cost": 15,
+        "name": "The Great Thievers \u2160I",
+        "chance_event": 303992,
+        "type": 8,
+        "description": "Surrender is out of the question. Not today, not in this lifetime.",
+        "unlock_story": 104142901,
+        "play_success_story": 0,
+        "target_des": "Defeat all enemies.",
+        "play_start_story": 0,
+        "id": 303112,
+        "params": [
+            5190327
+        ],
+        "params_title": [
+            "Midsummer Concert"
+        ],
+        "params_des": [
+            "Play notes according to the beat to defeat the enemy."
+        ],
+        "params_image": [
+            "target_3_2_1"
+        ]
+    },
+    "401111": {
+        "cost": 5,
+        "name": "Water Cannon Battle I",
+        "chance_event": 401991,
+        "type": 6,
+        "description": "Why aren't you eliminated yet???\nMeat shields, kiddo.",
+        "unlock_story": 104143101,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 401111,
+        "params": [],
+        "params_image": [
+            "target_4_1_1"
+        ]
+    },
+    "401112": {
+        "cost": 10,
+        "name": "Water Cannon Battle II",
+        "chance_event": 401992,
+        "type": 12,
+        "description": "You've got your weapon, now come with me.\nIt's time to grab us some treasures.",
+        "unlock_story": 104143201,
+        "play_success_story": 104143202,
+        "target_des": "Piece the Puzzle",
+        "play_start_story": 0,
+        "id": 401112,
+        "params": [
+            3001
+        ],
+        "params_title": [
+            "Suspicious Trace"
+        ],
+        "params_des": [
+            "Piece together the puzzle pieces to produce the puzzle image."
+        ],
+        "params_image": [
+            "target_4_1_2"
+        ]
+    },
+    "401113": {
+        "cost": 15,
+        "name": "Water Cannon Battle III",
+        "chance_event": 401993,
+        "type": 10,
+        "description": "First, do not deliberate and do the absolute first thing that comes to mind; second, the refs won't see the bad parts; and third, the refereeing won't be fair at all. Captain of the AGI Mecha Referees requests a meeting with you!",
+        "unlock_story": 104143301,
+        "play_success_story": 0,
+        "target_des": "You Have Reached the Endpoint",
+        "play_start_story": 0,
+        "id": 401113,
+        "params": [
+            5190902
+        ],
+        "params_title": [
+            "Water Cannon Battle"
+        ],
+        "params_des": [
+            "Use the water weapon to fire at the enemy and break out."
+        ],
+        "params_image": [
+            "target_4_1_3"
+        ]
+    },
+    "401114": {
+        "cost": 20,
+        "name": "Water Cannon Battle IV",
+        "chance_event": 401994,
+        "type": 11,
+        "description": "Battling is the only way to survive!\nTo win, use the steel fist against the duckies!",
+        "unlock_story": 104143401,
+        "play_success_story": 0,
+        "target_des": "Defeat all enemies.",
+        "play_start_story": 0,
+        "id": 401114,
+        "params": [
+            5190741,
+            6108
+        ],
+        "params_title": [
+            "Iron Gladiator"
+        ],
+        "params_des": [
+            "Use SkyNova to destroy the giant duck."
+        ],
+        "params_image": [
+            "target_4_1_4"
+        ]
+    },
+    "402111": {
+        "cost": 10,
+        "name": "Mecha Rumble I",
+        "chance_event": 402991,
+        "type": 6,
+        "description": "Yell out the moves to battle the AGI Mechas? It may sound a little childish to the kids, but it works just fine for us.",
+        "unlock_story": 104143601,
+        "play_success_story": 0,
+        "target_des": "",
+        "params_title": "",
+        "play_start_story": 0,
+        "params_des": "",
+        "id": 402111,
+        "params": [],
+        "params_image": [
+            "target_4_2_1"
+        ]
+    },
+    "402112": {
+        "cost": 20,
+        "name": "Mecha Rumble II",
+        "chance_event": 402992,
+        "type": 13,
+        "description": "Seriously, one should know when to stop fooling around.",
+        "unlock_story": 104143701,
+        "play_success_story": 0,
+        "target_des": "Catch all the troublemaking duckies.",
+        "play_start_story": 0,
+        "id": 402112,
+        "params": [
+            5190801
+        ],
+        "params_title": [
+            "Ducky Party"
+        ],
+        "params_des": [
+            "Catch the troublemaking duckies and take them to the designated area within the time given."
+        ],
+        "params_image": [
+            "target_4_2_2"
+        ]
+    },
+    "403111": {
+        "cost": 10,
+        "name": "Moment of Peace and Love I",
+        "chance_event": 403991,
+        "type": 6,
+        "description": "This image is titled \"Admin and Senba on Vacation.\" But where are Admin and Senba?\nAdmin and Senba are standing in line.",
+        "unlock_story": 104143901,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 403111,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_4_3_1"
+        ]
+    },
+    "403112": {
+        "cost": 20,
+        "name": "Moment of Peace and Love II",
+        "chance_event": 403992,
+        "type": 6,
+        "description": "It's over now! You stood in line for two hours just to surf for five minutes!",
+        "unlock_story": 104144001,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 403112,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_4_3_1"
+        ]
+    },
+    "501111": {
+        "cost": 5,
+        "name": "Just One More Step I",
+        "chance_event": 501991,
+        "type": 14,
+        "description": "My friends, I've missed you so much!!!",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 501111,
+        "params": [
+            15,
+            104144401,
+            [
+                104144201,
+                104144501,
+                104144601
+            ]
+        ],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_5_1_1"
+        ]
+    },
+    "501112": {
+        "cost": 10,
+        "name": "Just One More Step II",
+        "chance_event": 501992,
+        "type": 12,
+        "description": "No matter if it's a big hammer or a small hammer, now it's hammer time!",
+        "unlock_story": 104144701,
+        "play_success_story": 104144702,
+        "target_des": "Piece the Puzzle",
+        "play_start_story": 0,
+        "id": 501112,
+        "params": [
+            3002
+        ],
+        "params_title": [
+            "Suspicious Trace"
+        ],
+        "params_des": [
+            "Piece together the puzzle pieces to produce the puzzle image."
+        ],
+        "params_image": [
+            "target_5_1_2"
+        ]
+    },
+    "501114": {
+        "cost": 15,
+        "name": "Just One More Step IV",
+        "chance_event": 501994,
+        "type": 11,
+        "description": "Enough chatter about friendship, bonds, the future, and all that. Just charge!!!",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "Defeat the Mecha Centaur.",
+        "play_start_story": 0,
+        "id": 501114,
+        "params": [
+            5190740,
+            6109
+        ],
+        "params_title": [
+            "Iron Gladiator"
+        ],
+        "params_des": [
+            "Use SkyNova to destroy the Mecha Centaur."
+        ],
+        "params_image": [
+            "target_5_1_3"
+        ]
+    },
+    "502111": {
+        "cost": 10,
+        "name": "Mystery Gift I",
+        "chance_event": 502991,
+        "type": 13,
+        "description": "Ducky, times have changed.",
+        "unlock_story": 0,
+        "play_success_story": 0,
+        "target_des": "Catch all the troublemaking duckies.",
+        "play_start_story": 0,
+        "id": 502111,
+        "params": [
+            5190811
+        ],
+        "params_title": [
+            "Ducky Party"
+        ],
+        "params_des": [
+            "Catch the troublemaking duckies and take them to the designated area within the time given."
+        ],
+        "params_image": [
+            "target_5_2_1"
+        ]
+    },
+    "502112": {
+        "cost": 20,
+        "name": "Mystery Gift II",
+        "chance_event": 502992,
+        "type": 6,
+        "description": "All the dazzling moments you've ever had in your life will become precious, shining memories that last forever.",
+        "unlock_story": 104145201,
+        "play_success_story": 0,
+        "target_des": "",
+        "play_start_story": 0,
+        "id": 502112,
+        "params": [],
+        "params_title": [],
+        "params_des": [],
+        "params_image": [
+            "target_5_2_2"
+        ]
+    },
+    "all": [
+        101030,
+        101031,
+        101033,
+        101035,
+        101040,
+        101041,
+        101050,
+        101080,
+        101090,
+        101091,
+        102030,
+        102040,
+        102050,
+        201030,
+        201040,
+        201050,
+        201090,
+        201091,
+        301030,
+        301040,
+        301050,
+        301090,
+        301091,
+        302030,
+        302040,
+        302050,
+        302090,
+        302091,
+        401030,
+        401040,
+        401050,
+        401090,
+        401091,
+        501030,
+        501040,
+        501050,
+        501090,
+        501091,
+        502030,
+        502040,
+        502050,
+        502090,
+        502091,
+        101111,
+        101112,
+        101113,
+        102080,
+        102111,
+        102112,
+        102113,
+        201080,
+        201082,
+        201111,
+        201112,
+        201113,
+        202111,
+        202112,
+        203111,
+        203112,
+        301070,
+        301073,
+        301111,
+        301112,
+        301113,
+        301114,
+        302111,
+        302112,
+        303111,
+        303112,
+        401111,
+        401112,
+        401113,
+        401114,
+        402111,
+        402112,
+        403111,
+        403112,
+        501111,
+        501112,
+        501114,
+        502111,
+        502112
+    ]
+}

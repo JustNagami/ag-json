@@ -4527,6 +4527,798 @@
         "id": 625021,
         "desc": "Quit"
     },
+    "701000": {
+        "id": 701000,
+        "desc": "\"Yo, that girl over there looks like easy pickings. *HICCUP* Just look at her...\"\nThe drunken young man walked up with his partner and blocked her path, then tossed down some dice as he appeared to try to pry some cash with his \"little game\"."
+    },
+    "701001": {
+        "id": 701001,
+        "desc": "Be Cautious: High success rate to obtain a medium amount of Enduring Sounds."
+    },
+    "701002": {
+        "id": 701002,
+        "desc": "Bet Big: Low success rate to obtain a large amount of Enduring Sounds."
+    },
+    "701010": {
+        "id": 701010,
+        "desc": "The dice made a rattling sound as they bounced around inside the cup, making it difficult to discern the road ahead. Even still, it could not deceive your eyes."
+    },
+    "701011": {
+        "id": 701011,
+        "desc": "Leave: Obtain a medium amount of Enduring Sounds."
+    },
+    "701020": {
+        "id": 701020,
+        "desc": "The dice settle and the man covers the cup with his hand, obscuring your judgment."
+    },
+    "701021": {
+        "id": 701021,
+        "desc": "Leave."
+    },
+    "701030": {
+        "id": 701030,
+        "desc": "The rattling of the dice is unsettling, but a sudden feeling appears in your mind and guides you to the correct answer."
+    },
+    "701031": {
+        "id": 701031,
+        "desc": "Leave: Obtain a large amount of Enduring Sounds."
+    },
+    "701040": {
+        "id": 701040,
+        "desc": "The man's grin\u2014brimming with yellowed teeth\u2014is a clear sign that you failed. These guys are experienced cheaters, so it won't be easy to fool them."
+    },
+    "701041": {
+        "id": 701041,
+        "desc": "Leave."
+    },
+    "702000": {
+        "id": 702000,
+        "desc": "There's some kind of gift on the desk, and on the underside is written \"Thanks for your dedication to the Knights\". Hmm... Who could it be from? And how did it end up on your desk?"
+    },
+    "702001": {
+        "id": 702001,
+        "desc": "Accept: Obtain Sigil."
+    },
+    "702002": {
+        "id": 702002,
+        "desc": "Refuse: Obtain Aether Code."
+    },
+    "702010": {
+        "id": 702010,
+        "desc": "You accepted the gift. The inside of the silky white box seemed to smell of roses."
+    },
+    "702011": {
+        "id": 702011,
+        "desc": "Leave."
+    },
+    "702020": {
+        "id": 702020,
+        "desc": "\"Cleanliness is a knightly virtue.\""
+    },
+    "702021": {
+        "id": 702021,
+        "desc": "Leave."
+    },
+    "703000": {
+        "id": 703000,
+        "desc": "Recently, an occult organization calling themselves Silver Twilight has appeared in a quiet fishing town. While they seem to be only preaching their ideals... Something seems extra fishy."
+    },
+    "703001": {
+        "id": 703001,
+        "desc": "Investigate covertly, beating around the bush."
+    },
+    "703002": {
+        "id": 703002,
+        "desc": "Investigate openly, asking direct questions."
+    },
+    "703010": {
+        "id": 703010,
+        "desc": "The Silver Twilight member was especially alert and immediately called for the others to surround you."
+    },
+    "703011": {
+        "id": 703011,
+        "desc": "Prepare for battle."
+    },
+    "703020": {
+        "id": 703020,
+        "desc": "The Silver Twilight member was unaware of your aims and quite the chatterbox, even gifting you some of the organization's herbs."
+    },
+    "703021": {
+        "id": 703021,
+        "desc": "Leave."
+    },
+    "703030": {
+        "id": 703030,
+        "desc": "\"What, you take me for a fool?!\""
+    },
+    "703031": {
+        "id": 703031,
+        "desc": "Prepare for battle."
+    },
+    "703040": {
+        "id": 703040,
+        "desc": "The Silver Twilight member eyed you warily, but after some carefully chosen words, they revealed some information that didn't seem important."
+    },
+    "703041": {
+        "id": 703041,
+        "desc": "Leave."
+    },
+    "704000": {
+        "id": 704000,
+        "desc": "After leaving the Knights of Convallaria, Athena's communications always came on schedule, around the middle of each month. Talking to her always seemed to ease the nerves.\n\u2014Unfortunately, the communication signal was terrible on Krete, and you never knew if you'd finish the session before it disconnected."
+    },
+    "704001": {
+        "id": 704001,
+        "desc": "Constant static during the communication: You obtain a random common treasure, but Movement SPD is reduced for the next 5 battles."
+    },
+    "704002": {
+        "id": 704002,
+        "desc": "Communication abruptly disconnected: You obtain a random rare treasure, but lose a certain amount of Max HP."
+    },
+    "704003": {
+        "id": 704003,
+        "desc": "Inspect the communications equipment."
+    },
+    "704010": {
+        "id": 704010,
+        "desc": "The persistent static during the communication was so distracting that you aggressively clean each and every communication device."
+    },
+    "704011": {
+        "id": 704011,
+        "desc": "Leave."
+    },
+    "704020": {
+        "id": 704020,
+        "desc": "Athena was just getting to her point when the communication suddenly disconnected... Hey, so what was the result of my Knights of Convallaria Rookie Evaluation?"
+    },
+    "704021": {
+        "id": 704021,
+        "desc": "Leave."
+    },
+    "704030": {
+        "id": 704030,
+        "desc": "Learning from past mistakes, you double-check the communication devices before using them."
+    },
+    "704031": {
+        "id": 704031,
+        "desc": "Stores like this are only full of junk and dust: Leave."
+    },
+    "705000": {
+        "id": 705000,
+        "desc": "It's your lucky day! Come and try some treats! These are the latest creations of the dessert shop's boss!"
+    },
+    "705001": {
+        "id": 705001,
+        "desc": "Melon Mousse: Recover full HP."
+    },
+    "705002": {
+        "id": 705002,
+        "desc": "Chocolate Phyllo: Gain a small boost to Max HP."
+    },
+    "706000": {
+        "id": 706000,
+        "desc": "Cleaning the warehouse yourself isn't strictly necessary, but... What if someone careless tosses out something good?"
+    },
+    "706001": {
+        "id": 706001,
+        "desc": "Accidentally cut your hand on something sharp: Lose 10% HP, with a 15% chance to obtain a clue."
+    },
+    "706002": {
+        "id": 706002,
+        "desc": "I don't do manual work."
+    },
+    "706010": {
+        "id": 706010,
+        "desc": "I can't believe the Knights of the Lighthouse just leave their paperwork lying around everywhere! So lazy! Don't try to weasel out of it!"
+    },
+    "706011": {
+        "id": 706011,
+        "desc": "Pick up the documents: Lose 10% HP, with a 25% chance to find a clue."
+    },
+    "706012": {
+        "id": 706012,
+        "desc": "Give up on cleaning."
+    },
+    "706020": {
+        "id": 706020,
+        "desc": "Piecing together the clue in the documents, there seems to be some kind of little scheme going on..."
+    },
+    "706021": {
+        "id": 706021,
+        "desc": "Investigate thoroughly: Lose 10% HP, with a 40% chance to obtain a precious treasure."
+    },
+    "706022": {
+        "id": 706022,
+        "desc": "Give up on investigating."
+    },
+    "706030": {
+        "id": 706030,
+        "desc": "To carry out the investigation smoothly, it's wise to choose an outfit that blends in... What, you say a noblewoman's dress is too conspicuous? Well who asked you, anyway?!"
+    },
+    "706031": {
+        "id": 706031,
+        "desc": "Change clothes: Lose 10% HP, with a 65% chance to obtain a precious treasure."
+    },
+    "706032": {
+        "id": 706032,
+        "desc": "Give up on investigating."
+    },
+    "706040": {
+        "id": 706040,
+        "desc": "The accomplices were brought to justice but the mastermind got away... Hey, stop running!"
+    },
+    "706041": {
+        "id": 706041,
+        "desc": "Chase the mastermind: Lose 10% HP, with a 100% chance to obtain a precious treasure."
+    },
+    "706042": {
+        "id": 706042,
+        "desc": "Put out a wanted notice: Leave it to the Knights to handle."
+    },
+    "706050": {
+        "id": 706050,
+        "desc": "Nice job, hah! Perfect solution!"
+    },
+    "706051": {
+        "id": 706051,
+        "desc": "Leave this place."
+    },
+    "707000": {
+        "id": 707000,
+        "desc": "For a knight, you've got to have it all: strength, agility, and toughness! If you want to stand on your own two feet, you'd better hurry up and train!\n\"Hey, isn't that a bit rude? Mind your own business!\""
+    },
+    "707001": {
+        "id": 707001,
+        "desc": "Hearty Constitution: ATK +15%."
+    },
+    "707002": {
+        "id": 707002,
+        "desc": "Nimble Feet: Max Dodge Energy +30%."
+    },
+    "707003": {
+        "id": 707003,
+        "desc": "Rock-Like Resilience: DEF +15%."
+    },
+    "708000": {
+        "id": 708000,
+        "desc": "Merchants have crossed the seas to bring you the latest, most popular goods in Omorfies\u2014and not just artwork! Take a look; you might find something you like!"
+    },
+    "708001": {
+        "id": 708001,
+        "desc": "Item Inspector: Shop selection +5."
+    },
+    "708002": {
+        "id": 708002,
+        "desc": "Hardcore Haggler: First item is 50% off."
+    },
+    "708003": {
+        "id": 708003,
+        "desc": "This Is It?: 5 free shop refreshes."
+    },
+    "709000": {
+        "id": 709000,
+        "desc": "Those fishermen went out to sea but didn't come back. Their children are weeping and begging you to bring back their mom and dad. After some investigation, you discover that they've been captured by pirates."
+    },
+    "709001": {
+        "id": 709001,
+        "desc": "Crush the pirates and retrieve the hostages."
+    },
+    "709002": {
+        "id": 709002,
+        "desc": "Pay the ransom to retrieve the hostages: Lose a small amount of Enduring Sounds."
+    },
+    "709003": {
+        "id": 709003,
+        "desc": "Leave this job to the Knights to handle."
+    },
+    "709010": {
+        "id": 709010,
+        "desc": "Both you and the pirates aren't yielding an inch. Conflict is inevitable."
+    },
+    "709011": {
+        "id": 709011,
+        "desc": "Prepare for battle."
+    },
+    "709020": {
+        "id": 709020,
+        "desc": "After paying the ransom and retrieving the hostages, the children gift you some cake and flowers."
+    },
+    "709021": {
+        "id": 709021,
+        "desc": "Leave."
+    },
+    "709030": {
+        "id": 709030,
+        "desc": "\"Pirates these days! They don't just bully the weak\u2014they're proud of it, too! Shameful!\""
+    },
+    "709031": {
+        "id": 709031,
+        "desc": "Leave."
+    },
+    "710000": {
+        "id": 710000,
+        "desc": "While recalling some team members, you got roped into sitting at a card table.\nNow, you've lost more at cards than you've ever won, but... It's not every day the team invites you to play, so you can't spoil their fun!"
+    },
+    "710001": {
+        "id": 710001,
+        "desc": "Try your luck a bit: Chance to obtain Enduring Sound \u00d7 100."
+    },
+    "710002": {
+        "id": 710002,
+        "desc": "I'm not playing!"
+    },
+    "710010": {
+        "id": 710010,
+        "desc": "Whoa, a lucky hand!"
+    },
+    "710011": {
+        "id": 710011,
+        "desc": "Play again: Chance to obtain Enduring Sound \u00d7 200."
+    },
+    "710012": {
+        "id": 710012,
+        "desc": "Forget it, I'm done!"
+    },
+    "710020": {
+        "id": 710020,
+        "desc": "Hey, lady luck is on my side tonight!"
+    },
+    "710021": {
+        "id": 710021,
+        "desc": "Play again, you lucky dog: Chance to obtain Enduring Sound \u00d7 400."
+    },
+    "710022": {
+        "id": 710022,
+        "desc": "Luck... You can't rely on it."
+    },
+    "710030": {
+        "id": 710030,
+        "desc": "You can't be unlucky forever, right? That's just statistics!"
+    },
+    "710031": {
+        "id": 710031,
+        "desc": "Maybe you're on a winning streak: Chance to obtain Enduring Sound \u00d7 800."
+    },
+    "710032": {
+        "id": 710032,
+        "desc": "Take your winnings and leave while you're ahead."
+    },
+    "710040": {
+        "id": 710040,
+        "desc": "\"How dare you cheat on our premises, lady? Trying to get your hand lopped off?!\" The meat-faced thugs suddenly surround you.\nYour quiet retort is muffled by the mere sound of the chips hitting the floor. To put it simply, you're not talking your way out of this."
+    },
+    "710041": {
+        "id": 710041,
+        "desc": "Prepare for battle."
+    },
+    "710050": {
+        "id": 710050,
+        "desc": "Luck is just statistics, for sure... But yours has just hit zero!"
+    },
+    "710051": {
+        "id": 710051,
+        "desc": "You come away empty-handed."
+    },
+    "711000": {
+        "id": 711000,
+        "desc": "Ever since the lady of the Society of Muses drove by here, she's been busy entertaining celebrities and organizing daily tea parties. You want to ask Athena for advice, but... Looking at the gold-embossed invitation in your hand, you find yourself lost in thought."
+    },
+    "711001": {
+        "id": 711001,
+        "desc": "Orange blossom tea: Gain increased HP Recovery after battles."
+    },
+    "711002": {
+        "id": 711002,
+        "desc": "Caramel rose tea: Recover full HP."
+    },
+    "712000": {
+        "id": 712000,
+        "desc": "After a failed investment, the bankrupt artist cowered in the freezing wind as the fishing town's humid, salty sea air dampened his hair. He organized his last remaining belongings as if trying to hold onto the tatters of his dignity."
+    },
+    "712001": {
+        "id": 712001,
+        "desc": "Things will get better: Lose 1 random Sigil and obtain 2 treasures."
+    },
+    "712002": {
+        "id": 712002,
+        "desc": "Buy them all: Lose 1 random treasure and obtain a large amount of Enduring Sounds."
+    },
+    "712003": {
+        "id": 712003,
+        "desc": "Leave silently."
+    },
+    "713000": {
+        "id": 713000,
+        "desc": "The sea is shrouded in fog as a singing voice sounds from what seems to be shifting directions. The fog disappears, but for some reason, I'm feeling kinda dizzy..."
+    },
+    "713001": {
+        "id": 713001,
+        "desc": "Soul-searching wail: Obtain the Ancient Folksong treasure, but enemies will carry the Maim Indicia during the next 5 battles."
+    },
+    "713002": {
+        "id": 713002,
+        "desc": "Distorted vision: Obtain the Between Fact and Fiction treasure, but enemies will carry the Tinder Indicia during the next 5 battles."
+    },
+    "714000": {
+        "id": 714000,
+        "desc": "\"Huh? Why's the afternoon tea taste like grapes today?\"\nLooking down at the gilded chalice, you hesitate to take another sip."
+    },
+    "714001": {
+        "id": 714001,
+        "desc": "Have another sip?"
+    },
+    "714002": {
+        "id": 714002,
+        "desc": "No more."
+    },
+    "714010": {
+        "id": 714010,
+        "desc": "You feel a little tipsy, but it's nice. You haven't felt this way in a long time."
+    },
+    "714011": {
+        "id": 714011,
+        "desc": "Obtain Ros\u00e9 Wine, but your Max HP slightly decreases."
+    },
+    "715000": {
+        "id": 715000,
+        "desc": "The energetic music students of Stellaris Academy are at one another's throats arguing over the theme of a street performance. You approach to help settle things down, but now you've got to decide the winning idea."
+    },
+    "715001": {
+        "id": 715001,
+        "desc": "Rock music: Enter the next 5 battles with full Ultimate Skill charge."
+    },
+    "715002": {
+        "id": 715002,
+        "desc": "Classical music: Enter the next 5 battles with full Combat Resources."
+    },
+    "716000": {
+        "id": 716000,
+        "desc": "While patrolling the streets, you notice droves of pigeons in the plaza. Perhaps someone is feeding them too much? It's like they're too fat to even fly anymore..."
+    },
+    "716001": {
+        "id": 716001,
+        "desc": "Scare them: Spend Enduring Sound \u00d7 100 and obtain a rare treasure."
+    },
+    "716002": {
+        "id": 716002,
+        "desc": "Feed them: Spend Enduring Sound \u00d7 400 and obtain a precious treasure."
+    },
+    "716003": {
+        "id": 716003,
+        "desc": "Watch for a while and leave."
+    },
+    "717000": {
+        "id": 717000,
+        "desc": "Those seagulls that circle the lighthouse can be quite cunning thieves. Stealing a knight's lunch, bullying a lone pigeon, snatching up a child's snack... Nothing's below them!"
+    },
+    "717001": {
+        "id": 717001,
+        "desc": "Shoo away the seagulls: Obtain a medium amount of Enduring Sounds."
+    },
+    "717002": {
+        "id": 717002,
+        "desc": "Scare them away: Obtain a common treasure."
+    },
+    "717010": {
+        "id": 717010,
+        "desc": "The seagulls flap their wings and scatter away in a hurry."
+    },
+    "717011": {
+        "id": 717011,
+        "desc": "Quit"
+    },
+    "717020": {
+        "id": 717020,
+        "desc": "The seagulls panic and let out an annoyed screech."
+    },
+    "717021": {
+        "id": 717021,
+        "desc": "Quit"
+    },
+    "718000": {
+        "id": 718000,
+        "desc": "\"I'm not trying to be bossy, but Apollo...\"\nThe good-for-nothing young man leans on the side of the boat, looking up at the birds circling in the air.\nYou hesitate, but still speak sharply."
+    },
+    "718001": {
+        "id": 718001,
+        "desc": "Why've you got to be so negative?"
+    },
+    "718002": {
+        "id": 718002,
+        "desc": "Is this what the Knights mean by \"chivalry\"?"
+    },
+    "718003": {
+        "id": 718003,
+        "desc": "Like the Commander says, a Knight should be sunny toward everyone."
+    },
+    "718010": {
+        "id": 718010,
+        "desc": "\"Oh, so anything goes then?\""
+    },
+    "718011": {
+        "id": 718011,
+        "desc": "Leave."
+    },
+    "718020": {
+        "id": 718020,
+        "desc": "\"The sunshine will light the way forward in the end, right?\""
+    },
+    "718021": {
+        "id": 718021,
+        "desc": "Obtain a treasure."
+    },
+    "719000": {
+        "id": 719000,
+        "desc": "Among the very few sights in Krete, the Fountain of Truth holds its mouth open, waiting for visitors to place their hands inside. The chance of being bitten... It's fifty-fifty, right? As for whether it's alive or not... Who's to say?"
+    },
+    "719001": {
+        "id": 719001,
+        "desc": "Carefully extend your hand: Obtain a medium amount of Enduring Sounds."
+    },
+    "719002": {
+        "id": 719002,
+        "desc": "I'm not scared!: Obtain a large amount of Enduring Sounds, but unable to trigger Extremity Dodge for the next 5 battles."
+    },
+    "720000": {
+        "id": 720000,
+        "desc": "The sea comms channel flashes an SOS distress signal, plus a long string of emojis. The message is: \"Aaaahh! We've been surrounded by sea monsters for three or four days! Anybody! Please come and help us!!!\"\nUgh... Some people are such drama queens these days!"
+    },
+    "720001": {
+        "id": 720001,
+        "desc": "Destroy it."
+    },
+    "720002": {
+        "id": 720002,
+        "desc": "Consider your options."
+    },
+    "720010": {
+        "id": 720010,
+        "desc": "To do nothing would be against the Knight's Code. You can't turn your back on the defenseless."
+    },
+    "720011": {
+        "id": 720011,
+        "desc": "Prepare for battle."
+    },
+    "720020": {
+        "id": 720020,
+        "desc": "Seems kinda fishy... Surrounded by monsters for days, but you send such a silly, emoji-laden message?"
+    },
+    "720021": {
+        "id": 720021,
+        "desc": "Leave."
+    },
+    "721000": {
+        "id": 721000,
+        "desc": "You'd just settled into the idea that you didn't have anything to do today, and you even had time to make a pot of tea. But then a member of the Knights burst through the door and shouted at you in a panic, \"The Commander and Apollo are being detained at the tavern!\""
+    },
+    "721001": {
+        "id": 721001,
+        "desc": "Go and get them out: Spend a small amount of Enduring Sounds."
+    },
+    "721002": {
+        "id": 721002,
+        "desc": "Bribe the thugs at the tavern: Spend a common treasure."
+    },
+    "721003": {
+        "id": 721003,
+        "desc": "Forget them: Leave."
+    },
+    "721010": {
+        "id": 721010,
+        "desc": "Apollo's eyes were downcast while the commander giggled and hid the damaged playing cards behind her back."
+    },
+    "721011": {
+        "id": 721011,
+        "desc": "Leave."
+    },
+    "721020": {
+        "id": 721020,
+        "desc": "The thugs tried to pry some extra bribes from you, but after seeing your grin as you gently placed your hand on the hilt of your sword, they scattered like cockroaches."
+    },
+    "721021": {
+        "id": 721021,
+        "desc": "Leave."
+    },
+    "722000": {
+        "id": 722000,
+        "desc": "A thin, frail young lady wandered the streets, timidly approaching passersby and asking them in a weak voice if they'd like a sketch... or to look at her drawings. All she seemed to carry in her bag were stacks of paper and a worn-out old drawing board."
+    },
+    "722001": {
+        "id": 722001,
+        "desc": "Draw me a sketch, please: Spend a medium amount of Enduring Sounds and obtain a large boost to Max HP."
+    },
+    "722002": {
+        "id": 722002,
+        "desc": "Buy one of her drawings: Spend a random treasure and obtain a large boost to Max HP."
+    },
+    "722003": {
+        "id": 722003,
+        "desc": "Oh... But...: Leave."
+    },
+    "723000": {
+        "id": 723000,
+        "desc": "You're in luck, my guest! We've got quite a haul from our day out at sea. Fancy a look?"
+    },
+    "723001": {
+        "id": 723001,
+        "desc": "Spend Enduring Sound \u00d7 100 and buy some fish."
+    },
+    "723002": {
+        "id": 723002,
+        "desc": "No, thank you."
+    },
+    "723010": {
+        "id": 723010,
+        "desc": "The seafood all looks so fresh! Let's buy some and cook a meal for the Knights!"
+    },
+    "723011": {
+        "id": 723011,
+        "desc": "Obtain a medium amount of Enduring Sounds."
+    },
+    "723020": {
+        "id": 723020,
+        "desc": "The seafood all looks so fresh! Let's buy some and cook a meal for the Knights!"
+    },
+    "723021": {
+        "id": 723021,
+        "desc": "Obtain a common treasure."
+    },
+    "723030": {
+        "id": 723030,
+        "desc": "The seafood all looks so fresh! Let's buy some and cook a meal for the Knights!"
+    },
+    "723031": {
+        "id": 723031,
+        "desc": "Obtain a large amount of Enduring Sounds."
+    },
+    "723040": {
+        "id": 723040,
+        "desc": "The seafood all looks so fresh! Let's buy some and cook a meal for the Knights!"
+    },
+    "723041": {
+        "id": 723041,
+        "desc": "Obtain a precious treasure."
+    },
+    "724000": {
+        "id": 724000,
+        "desc": "Snacks from other Sephirah Zones have become popular among the Knights lately. Why don't you buy some to try?"
+    },
+    "724001": {
+        "id": 724001,
+        "desc": "Explosive cake: Obtain a rare treasure, but enter the next 5 battles with the Fuel Burn Indicia."
+    },
+    "724002": {
+        "id": 724002,
+        "desc": "Man-eating crocodile: Obtain a rare treasure, but enemies will carry the Canopy Indicia during the next 5 battles."
+    },
+    "724003": {
+        "id": 724003,
+        "desc": "What the heck is all this?: Leave."
+    },
+    "725000": {
+        "id": 725000,
+        "desc": "The Knights of the Lighthouse have been low on cash lately, and payday is still several days off. No good! As Deputy Commander, I've got to find a way to earn some extra money!"
+    },
+    "725001": {
+        "id": 725001,
+        "desc": "Outdoor concert: Obtain a large amount of Enduring Sounds."
+    },
+    "725002": {
+        "id": 725002,
+        "desc": "Street stall: Obtain extra Enduring Sounds after every battle."
+    },
+    "726000": {
+        "id": 726000,
+        "desc": "The Knights of the Lighthouse's gear is in need of some updating... Hey, this low-frequency weapon is nice! Oh? That high-frequency ion cannon is even better! And over there... Sheesh, I want it all! What do I do?"
+    },
+    "726001": {
+        "id": 726001,
+        "desc": "Think of a way: Obtain Goddess's Bow, but lose all Enduring Sounds."
+    },
+    "726002": {
+        "id": 726002,
+        "desc": "Forget it."
+    },
+    "727000": {
+        "id": 727000,
+        "desc": "The Knights' weapon suppliers have been running a recycling program for old weaponry lately, but... How can you trade an old weapon for a new one?!"
+    },
+    "727001": {
+        "id": 727001,
+        "desc": "Recycle everything: After deleting all your Aether Codes, obtain 3 new ones."
+    },
+    "727002": {
+        "id": 727002,
+        "desc": "Nah, not interested: Leave."
+    },
+    "728000": {
+        "id": 728000,
+        "desc": "This drink seems extra bitter today... Is something wrong with it?"
+    },
+    "728001": {
+        "id": 728001,
+        "desc": "Double dose of caffeine: Obtain +100% Movement SPD for the next 5 battles."
+    },
+    "728002": {
+        "id": 728002,
+        "desc": "Lethal dose of theophylline: Obtain +100% Dodge Recovery SPD for the next 5 battles."
+    },
+    "729000": {
+        "id": 729000,
+        "desc": "Hmm, am I seeing things? Senator Hades is on Krete? Is he here to see his teacher? Should I go and say hello? I probably shouldn't... Ack! I've been spotted!"
+    },
+    "729001": {
+        "id": 729001,
+        "desc": "Seaside scenery tour: Lose 1 common treasure and obtain 1 rare treasure."
+    },
+    "729002": {
+        "id": 729002,
+        "desc": "Explore the amusement facilities: Increase Functor level by 2."
+    },
+    "730000": {
+        "id": 730000,
+        "desc": "It's hard to find anything spooky on Krete when there just aren't many surprises here. There are a few shipwrecks, but they don't have much of an effect. Although... Regular patrols are still required to keep the citizens safe."
+    },
+    "730001": {
+        "id": 730001,
+        "desc": "Fishing pier: Chance to obtain a medium amount of Enduring Sounds."
+    },
+    "730002": {
+        "id": 730002,
+        "desc": "Lighthouse: Chance to obtain a common treasure."
+    },
+    "730003": {
+        "id": 730003,
+        "desc": "Deck: Chance to encounter combat."
+    },
+    "730010": {
+        "id": 730010,
+        "desc": "The skies are clear and the fishermen are coming back with hefty hauls. You stuff your mouth with fresh seafood as you stroll along the harbor."
+    },
+    "730011": {
+        "id": 730011,
+        "desc": "Leave."
+    },
+    "730020": {
+        "id": 730020,
+        "desc": "The season is right for fishing, but a thunderstorm struck the harbor, keeping all the ships from sailing."
+    },
+    "730021": {
+        "id": 730021,
+        "desc": "Leave."
+    },
+    "730030": {
+        "id": 730030,
+        "desc": "Fog stretched out across the sea, and amidst the mist, massive figures seemed to loom... Fortunately, the lighthouse could illuminate the way forward."
+    },
+    "730031": {
+        "id": 730031,
+        "desc": "Leave."
+    },
+    "730040": {
+        "id": 730040,
+        "desc": "The moment the fog cleared, the light flickered and went out."
+    },
+    "730041": {
+        "id": 730041,
+        "desc": "Obtained nothing."
+    },
+    "730050": {
+        "id": 730050,
+        "desc": "Aboard the lurching fishing boat, Visbanes leaped onto the deck and let out a roar\u2014about what, it wasn't clear."
+    },
+    "730051": {
+        "id": 730051,
+        "desc": "Prepare for battle."
+    },
+    "730060": {
+        "id": 730060,
+        "desc": "Amidst the raging storm, the sound of waves lapping against the side of the boat muffled every sound."
+    },
+    "730061": {
+        "id": 730061,
+        "desc": "Leave."
+    },
     "all": [
         1000,
         1001,
@@ -5659,6 +6451,204 @@
         625010,
         625011,
         625020,
-        625021
+        625021,
+        701000,
+        701001,
+        701002,
+        701010,
+        701011,
+        701020,
+        701021,
+        701030,
+        701031,
+        701040,
+        701041,
+        702000,
+        702001,
+        702002,
+        702010,
+        702011,
+        702020,
+        702021,
+        703000,
+        703001,
+        703002,
+        703010,
+        703011,
+        703020,
+        703021,
+        703030,
+        703031,
+        703040,
+        703041,
+        704000,
+        704001,
+        704002,
+        704003,
+        704010,
+        704011,
+        704020,
+        704021,
+        704030,
+        704031,
+        705000,
+        705001,
+        705002,
+        706000,
+        706001,
+        706002,
+        706010,
+        706011,
+        706012,
+        706020,
+        706021,
+        706022,
+        706030,
+        706031,
+        706032,
+        706040,
+        706041,
+        706042,
+        706050,
+        706051,
+        707000,
+        707001,
+        707002,
+        707003,
+        708000,
+        708001,
+        708002,
+        708003,
+        709000,
+        709001,
+        709002,
+        709003,
+        709010,
+        709011,
+        709020,
+        709021,
+        709030,
+        709031,
+        710000,
+        710001,
+        710002,
+        710010,
+        710011,
+        710012,
+        710020,
+        710021,
+        710022,
+        710030,
+        710031,
+        710032,
+        710040,
+        710041,
+        710050,
+        710051,
+        711000,
+        711001,
+        711002,
+        712000,
+        712001,
+        712002,
+        712003,
+        713000,
+        713001,
+        713002,
+        714000,
+        714001,
+        714002,
+        714010,
+        714011,
+        715000,
+        715001,
+        715002,
+        716000,
+        716001,
+        716002,
+        716003,
+        717000,
+        717001,
+        717002,
+        717010,
+        717011,
+        717020,
+        717021,
+        718000,
+        718001,
+        718002,
+        718003,
+        718010,
+        718011,
+        718020,
+        718021,
+        719000,
+        719001,
+        719002,
+        720000,
+        720001,
+        720002,
+        720010,
+        720011,
+        720020,
+        720021,
+        721000,
+        721001,
+        721002,
+        721003,
+        721010,
+        721011,
+        721020,
+        721021,
+        722000,
+        722001,
+        722002,
+        722003,
+        723000,
+        723001,
+        723002,
+        723010,
+        723011,
+        723020,
+        723021,
+        723030,
+        723031,
+        723040,
+        723041,
+        724000,
+        724001,
+        724002,
+        724003,
+        725000,
+        725001,
+        725002,
+        726000,
+        726001,
+        726002,
+        727000,
+        727001,
+        727002,
+        728000,
+        728001,
+        728002,
+        729000,
+        729001,
+        729002,
+        730000,
+        730001,
+        730002,
+        730003,
+        730010,
+        730011,
+        730020,
+        730021,
+        730030,
+        730031,
+        730040,
+        730041,
+        730050,
+        730051,
+        730060,
+        730061
     ]
 }

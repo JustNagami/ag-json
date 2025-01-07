@@ -59,6 +59,26 @@
         "name": "War Master",
         "type": 2
     },
+    "7013": {
+        "id": 7013,
+        "name": "Duck Power",
+        "type": 2
+    },
+    "7014": {
+        "id": 7014,
+        "name": "Lens Master",
+        "type": 2
+    },
+    "7015": {
+        "id": 7015,
+        "name": "Duck-Land Destroyer",
+        "type": 2
+    },
+    "7016": {
+        "id": 7016,
+        "name": "Gharpur Investigator",
+        "type": 2
+    },
     "7100": {
         "id": 7100,
         "name": "Shepherd of the Underworld",
@@ -104,6 +124,21 @@
         "name": "Dancing Kites",
         "type": 4
     },
+    "7109": {
+        "id": 7109,
+        "name": "Best Partner",
+        "type": 4
+    },
+    "7110": {
+        "id": 7110,
+        "name": "Travelers from Afar",
+        "type": 4
+    },
+    "7111": {
+        "id": 7111,
+        "name": "Counting Stars",
+        "type": 4
+    },
     "all": [
         7001,
         7002,
@@ -117,6 +152,10 @@
         7010,
         7011,
         7012,
+        7013,
+        7014,
+        7015,
+        7016,
         7100,
         7101,
         7102,
@@ -125,6 +164,9 @@
         7105,
         7106,
         7107,
-        7108
+        7108,
+        7109,
+        7110,
+        7111
     ]
 }

@@ -35,6 +35,12 @@
         "EnergyType": 3,
         "RangeType": 0
     },
+    "1020": {
+        "ID": 1020,
+        "Name": "Brahm\u0101",
+        "EnergyType": 4,
+        "RangeType": 0
+    },
     "1111": {
         "ID": 1111,
         "Name": "Living Soul - Osiris",
@@ -45,6 +51,18 @@
         "ID": 1119,
         "Name": "Flowfly Mist - Shu",
         "EnergyType": 1,
+        "RangeType": 0
+    },
+    "1021": {
+        "ID": 1021,
+        "Name": "Dawnray - Artemis",
+        "EnergyType": 1,
+        "RangeType": 0
+    },
+    "1022": {
+        "ID": 1022,
+        "Name": "Selene",
+        "EnergyType": 4,
         "RangeType": 0
     },
     "1024": {
@@ -203,6 +221,12 @@
         "EnergyType": 2,
         "RangeType": 0
     },
+    "1156": {
+        "ID": 1156,
+        "Name": "Annihilator - Kali",
+        "EnergyType": 1,
+        "RangeType": 0
+    },
     "1058": {
         "ID": 1058,
         "Name": "Ryugiri - Kagutsuchi",
@@ -304,6 +328,12 @@
         "Name": "New Pact - Verthandi",
         "EnergyType": 4,
         "RangeType": 0
+    },
+    "1089": {
+        "ID": 1089,
+        "Name": "Tempest - Parvati",
+        "EnergyType": 4,
+        "RangeType": 1
     },
     "1184": {
         "ID": 1184,
@@ -911,6 +941,48 @@
         "EnergyType": 0,
         "RangeType": 0
     },
+    "2119": {
+        "ID": 2119,
+        "Name": "Oceanstar Park <Competitive Duck - Assault>",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
+    "2120": {
+        "ID": 2120,
+        "Name": "Oceanstar Park <30-A, Not Popper>",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
+    "2121": {
+        "ID": 2121,
+        "Name": "Oceanstar Park <Cheeky Vanguard Duck - Strike>",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
+    "2122": {
+        "ID": 2122,
+        "Name": "Polluter Archetype <Pile of Visbanes>",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
+    "2123": {
+        "ID": 2123,
+        "Name": "Alienated Archetype <Pile of White>",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
+    "2124": {
+        "ID": 2124,
+        "Name": "Joint Arbitration <The Filthy One>",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
+    "2125": {
+        "ID": 2125,
+        "Name": "Encroacher <Naga>",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
     "3002": {
         "ID": 3002,
         "Name": "3002",
@@ -1031,6 +1103,12 @@
         "EnergyType": 0,
         "RangeType": 0
     },
+    "3026": {
+        "ID": 3026,
+        "Name": "Polymerized Type <Metabane - Wild Beast>",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
     "3027": {
         "ID": 3027,
         "Name": "PLMT <Metabane - Star Plunder>",
@@ -1133,6 +1211,24 @@
         "EnergyType": 0,
         "RangeType": 0
     },
+    "3047": {
+        "ID": 3047,
+        "Name": "Polluter Archetype <Pillar of Visbanes>",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
+    "3048": {
+        "ID": 3048,
+        "Name": "Alienated Archetype <Pillar of White>",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
+    "3049": {
+        "ID": 3049,
+        "Name": "AGI Mecha <J\u012bvaj\u012bvaka>",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
     "3501": {
         "ID": 3501,
         "Name": "AGI Mecha <Robot Arm>",
@@ -1142,6 +1238,12 @@
     "3517": {
         "ID": 3517,
         "Name": "The Structure",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
+    "3528": {
+        "ID": 3528,
+        "Name": "Turret",
         "EnergyType": 0,
         "RangeType": 0
     },
@@ -1307,10 +1409,34 @@
         "EnergyType": 0,
         "RangeType": 0
     },
+    "4042": {
+        "ID": 4042,
+        "Name": "Polluter Archetype <Befouling - Lilith>",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
+    "4043": {
+        "ID": 4043,
+        "Name": "Rules of Nature <Daitya - Kalan>",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
     "5011": {
         "ID": 5011,
         "Name": "The Innocence - Osiris",
         "EnergyType": 3,
+        "RangeType": 0
+    },
+    "5013": {
+        "ID": 5013,
+        "Name": "R\u0101hu - Asura",
+        "EnergyType": 2,
+        "RangeType": 0
+    },
+    "5015": {
+        "ID": 5015,
+        "Name": "The Lioness - Sekhmet",
+        "EnergyType": 4,
         "RangeType": 0
     },
     "5016": {
@@ -1366,6 +1492,12 @@
         "Name": "Ryugiri - Kagutsuchi",
         "EnergyType": 2,
         "RangeType": 0
+    },
+    "5061": {
+        "ID": 5061,
+        "Name": "Ethereal Enigma - Zhiming",
+        "EnergyType": 4,
+        "RangeType": 1
     },
     "5067": {
         "ID": 5067,
@@ -1431,6 +1563,12 @@
         "ID": 5094,
         "Name": "Darkstar - Hel",
         "EnergyType": 4,
+        "RangeType": 1
+    },
+    "5095": {
+        "ID": 5095,
+        "Name": "Gray Ibis - Thoth",
+        "EnergyType": 2,
         "RangeType": 1
     },
     "5074": {
@@ -1527,6 +1665,12 @@
         "ID": 6053,
         "Name": "Judge of the Underworld - Osiris",
         "EnergyType": 3,
+        "RangeType": 0
+    },
+    "6056": {
+        "ID": 6056,
+        "Name": "Brahm\u0101",
+        "EnergyType": 4,
         "RangeType": 0
     },
     "6073": {
@@ -1661,6 +1805,18 @@
         "EnergyType": 0,
         "RangeType": 0
     },
+    "6118": {
+        "ID": 6118,
+        "Name": "Full Moon Pillar",
+        "EnergyType": 0,
+        "RangeType": 1
+    },
+    "6119": {
+        "ID": 6119,
+        "Name": "New Moon Pillar",
+        "EnergyType": 0,
+        "RangeType": 1
+    },
     "6105": {
         "ID": 6105,
         "Name": "New Pact - Verthandi",
@@ -1677,6 +1833,60 @@
         "ID": 6107,
         "Name": "Dimglare - Verthandi",
         "EnergyType": 4,
+        "RangeType": 0
+    },
+    "6112": {
+        "ID": 6112,
+        "Name": "Izanami",
+        "EnergyType": 1,
+        "RangeType": 0
+    },
+    "6113": {
+        "ID": 6113,
+        "Name": "Mini Ducky",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
+    "6116": {
+        "ID": 6116,
+        "Name": "Visitors",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
+    "6117": {
+        "ID": 6117,
+        "Name": "Izanami",
+        "EnergyType": 1,
+        "RangeType": 0
+    },
+    "6108": {
+        "ID": 6108,
+        "Name": "AGI Mecha <Dark Metal>",
+        "EnergyType": 1,
+        "RangeType": 0
+    },
+    "6109": {
+        "ID": 6109,
+        "Name": "AGI Mecha V-03 <Kusherfang>",
+        "EnergyType": 1,
+        "RangeType": 0
+    },
+    "6110": {
+        "ID": 6110,
+        "Name": "Flower of Yomi - Izanami",
+        "EnergyType": 1,
+        "RangeType": 0
+    },
+    "6111": {
+        "ID": 6111,
+        "Name": "Selene",
+        "EnergyType": 4,
+        "RangeType": 0
+    },
+    "6121": {
+        "ID": 6121,
+        "Name": "Surge Structure",
+        "EnergyType": 1,
         "RangeType": 0
     },
     "10025": {
@@ -1757,6 +1967,12 @@
         "EnergyType": 2,
         "RangeType": 1
     },
+    "10105": {
+        "ID": 10105,
+        "Name": "Researcher (Male)",
+        "EnergyType": 0,
+        "RangeType": 0
+    },
     "all": [
         1011,
         1013,
@@ -1764,8 +1980,11 @@
         1016,
         1017,
         1019,
+        1020,
         1111,
         1119,
+        1021,
+        1022,
         1024,
         1026,
         1027,
@@ -1792,6 +2011,7 @@
         1052,
         1055,
         1056,
+        1156,
         1058,
         1158,
         1059,
@@ -1809,6 +2029,7 @@
         1080,
         1081,
         1084,
+        1089,
         1184,
         1284,
         1093,
@@ -1910,6 +2131,13 @@
         2114,
         2117,
         2118,
+        2119,
+        2120,
+        2121,
+        2122,
+        2123,
+        2124,
+        2125,
         3002,
         3004,
         3005,
@@ -1930,6 +2158,7 @@
         3023,
         3024,
         3025,
+        3026,
         3027,
         3028,
         3029,
@@ -1947,8 +2176,12 @@
         3044,
         3045,
         3046,
+        3047,
+        3048,
+        3049,
         3501,
         3517,
+        3528,
         4010,
         4011,
         4012,
@@ -1976,7 +2209,11 @@
         4039,
         4040,
         4041,
+        4042,
+        4043,
         5011,
+        5013,
+        5015,
         5016,
         5019,
         5028,
@@ -1986,6 +2223,7 @@
         5055,
         5052,
         5058,
+        5061,
         5067,
         5070,
         5071,
@@ -1997,6 +2235,7 @@
         5084,
         5093,
         5094,
+        5095,
         5074,
         5096,
         5111,
@@ -2013,6 +2252,7 @@
         6051,
         6052,
         6053,
+        6056,
         6073,
         6079,
         6080,
@@ -2035,9 +2275,20 @@
         6103,
         6104,
         6115,
+        6118,
+        6119,
         6105,
         6106,
         6107,
+        6112,
+        6113,
+        6116,
+        6117,
+        6108,
+        6109,
+        6110,
+        6111,
+        6121,
         10025,
         65535,
         10006,
@@ -2050,6 +2301,7 @@
         10078,
         10079,
         10083,
-        10097
+        10097,
+        10105
     ]
 }

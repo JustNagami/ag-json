@@ -1,0 +1,155 @@
+{
+    "10001": {
+        "cost": 10,
+        "name": "2x Die",
+        "type": 10006,
+        "id": 10001,
+        "icon": "prop_01",
+        "use_description": "You can roll 2 dice.",
+        "prop_description": "Um... It means it's a die you can roll twice.",
+        "params": [
+            2,
+            1
+        ]
+    },
+    "10002": {
+        "cost": 12,
+        "name": "Perfect Die",
+        "type": 10004,
+        "id": 10002,
+        "icon": "prop_02",
+        "use_description": "You can specify the number you need.",
+        "prop_description": "It's a die that results in the number you want upon roll.",
+        "params": [
+            3
+        ]
+    },
+    "10003": {
+        "cost": 5,
+        "name": "Magician's Top Hat",
+        "type": 10001,
+        "id": 10003,
+        "icon": "prop_03",
+        "use_description": "You gain the Moneymaker status for 2 rounds.\n\nMoneymaker: Get 1 Duckie Coin for every step moved.",
+        "prop_description": "Magicians performing at the plaza usually place a top hat in front of them. It's a signal to the audience to do the polite and necessary.",
+        "params": [
+            10003
+        ]
+    },
+    "10004": {
+        "cost": 10,
+        "name": "Oceanstar Park Entry Ticket",
+        "type": 10001,
+        "id": 10004,
+        "icon": "prop_04",
+        "use_description": "You gain the Invincible status for 3 rounds.\n\nInvincible: Coming into contact with the little yellow ducky will destroy it and give you 5 Duckie Coins.",
+        "prop_description": "To have this to be the Big Kahuna here.",
+        "params": [
+            10004
+        ]
+    },
+    "10005": {
+        "cost": 8,
+        "name": "Ducky Hunting Gun",
+        "type": 10002,
+        "id": 10005,
+        "icon": "prop_05",
+        "use_description": "Can destroy any duck on the board.",
+        "prop_description": "The best tool with which to really punish those troublemaking ducks.",
+        "params": []
+    },
+    "10006": {
+        "cost": 5,
+        "name": "Mysterious Controller",
+        "type": 10003,
+        "id": 10006,
+        "icon": "prop_06",
+        "use_description": "You can choose to switch positions with any ducky on the board.\n\nPosition switch does not trigger terrain effects.",
+        "prop_description": "Emits a piece of audio that sends duckies into a state of confusion.",
+        "params": []
+    },
+    "10007": {
+        "cost": 3,
+        "name": "Wear Sunscreen",
+        "type": 10001,
+        "id": 10007,
+        "icon": "prop_07",
+        "use_description": "You gain the Protected status.\n\nProtected: Coming into contact with the little yellow ducky will destroy it and give you 5 Duckie Coins. Status expires upon occurrence.",
+        "prop_description": "The first rule of beach-going: \"If I could offer you only one tip for the future, sunscreen would be it.\"",
+        "params": [
+            10007
+        ]
+    },
+    "10008": {
+        "cost": 5,
+        "name": "Just An Ordinary Obstacle",
+        "type": 10007,
+        "id": 10008,
+        "icon": "prop_08",
+        "use_description": "You can choose to place an obstacle anywhere that isn't occupied by an item or character.",
+        "prop_description": "Just an ordinary obstacle that's in everyone's way.",
+        "params": [
+            2
+        ]
+    },
+    "10009": {
+        "cost": 3,
+        "name": "Exploding Balloon",
+        "type": 10007,
+        "id": 10009,
+        "icon": "prop_09",
+        "use_description": "You can choose to place an exploding balloon anywhere that isn't occupied by an item or character.",
+        "prop_description": "A balloon shaped like a bomb. Pro tip: Do not light the string on the balloon with a flame, for it WILL explode!",
+        "params": [
+            3
+        ]
+    },
+    "10010": {
+        "cost": 3,
+        "name": "The Pain of the Working Man",
+        "type": 10010,
+        "id": 10010,
+        "icon": "prop_10",
+        "use_description": "You can choose any ducky or character. You can only roll 1s each time for 2 rounds.",
+        "prop_description": "Is that what hurts, the weight of the pack on his back? No, it's the pain of having to pay attention to one's work even when they're on vacation.",
+        "params": [
+            10010
+        ]
+    },
+    "10011": {
+        "cost": 5,
+        "name": "Master Repair Technician",
+        "type": 10008,
+        "id": 10011,
+        "icon": "prop_11",
+        "use_description": "Dismantles the selected item on the field, or removes an effect on you.",
+        "prop_description": "\"How can I fix it if I can't take it apart? Please, relax. I know what I'm doing.\"",
+        "params": []
+    },
+    "10012": {
+        "cost": 8,
+        "name": "Voice Control Ducky Horn",
+        "type": 10009,
+        "id": 10012,
+        "icon": "prop_12",
+        "use_description": "All duckies on the map stop moving for 3 rounds.",
+        "prop_description": "Listen to me! All units on the field, look to me! Wooden figure no. 321, you are not to speak or move!",
+        "params": [
+            3
+        ]
+    },
+    "all": [
+        10001,
+        10002,
+        10003,
+        10004,
+        10005,
+        10006,
+        10007,
+        10008,
+        10009,
+        10010,
+        10011,
+        10012
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "101": {
+        "name": "Escape",
+        "pre_chapter": 0,
+        "chapterID": 101,
+        "activityID": 283121,
+        "conclusion_tips": "Let's reconstruct his itinerary and then figure out where he went...",
+        "chapter_desc": "Off camera, Artemis seemed to meet a familiar figure by chance. Where did he go?",
+        "tips_num": 1,
+        "chapter_question": "Tap the clues to sort them, deduce the deliveryman's route, and figure out where he went.",
+        "puzzle_stage_list": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006
+        ],
+        "inference_stage_list": [
+            1007
+        ],
+        "unlock_condition_list": [
+            1150111
+        ]
+    },
+    "102": {
+        "name": "Hidden Trail",
+        "pre_chapter": 0,
+        "chapterID": 102,
+        "activityID": 283122,
+        "conclusion_tips": "The chronological order seems to answer the question...",
+        "chapter_desc": "The delivery man doesn't seem to be in the store. Where is he now?",
+        "tips_num": 1,
+        "chapter_question": "Tap the clues to sort them and deduce Apollo's route in the amusement park.",
+        "puzzle_stage_list": [
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006
+        ],
+        "inference_stage_list": [
+            2007
+        ],
+        "unlock_condition_list": [
+            1150114
+        ]
+    },
+    "get_id_list_by_puzzle_stage_list": {
+        "2006": [
+            102
+        ],
+        "2005": [
+            102
+        ],
+        "2004": [
+            102
+        ],
+        "2003": [
+            102
+        ],
+        "2002": [
+            102
+        ],
+        "2001": [
+            102
+        ],
+        "1006": [
+            101
+        ],
+        "1005": [
+            101
+        ],
+        "1004": [
+            101
+        ],
+        "1003": [
+            101
+        ],
+        "1002": [
+            101
+        ],
+        "1001": [
+            101
+        ]
+    },
+    "get_id_list_by_inference_stage_list": {
+        "2007": [
+            102
+        ],
+        "1007": [
+            101
+        ]
+    },
+    "all": [
+        101,
+        102
+    ]
+}

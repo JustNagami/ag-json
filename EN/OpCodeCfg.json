@@ -351,6 +351,10 @@
         "id": 1907,
         "name": "Dorm Mini-game Obtain Rewards"
     },
+    "1908": {
+        "id": 1908,
+        "name": "Dorm: Claim Visitor's Gift"
+    },
     "2000": {
         "id": 2000,
         "name": "Flip Unlimited Pool Rewards"
@@ -438,6 +442,18 @@
     "4900": {
         "id": 4900,
         "name": "Use the pouch to obtain a Modifier clue."
+    },
+    "5001": {
+        "id": 5001,
+        "name": "Simulated Operations: Unlock Shop Cost"
+    },
+    "5002": {
+        "id": 5002,
+        "name": "Simulated Operations: Shelf Upgrade Cost"
+    },
+    "5003": {
+        "id": 5003,
+        "name": "Simulated Operations: Save Edits"
     },
     "7900": {
         "id": 7900,
@@ -695,6 +711,14 @@
         "id": 28601,
         "name": "Iterative Testing: Attribute Challenge Rewards"
     },
+    "28701": {
+        "id": 28701,
+        "name": "Online Item Return"
+    },
+    "28801": {
+        "id": 28801,
+        "name": "Searching All Over: Point Item"
+    },
     "all": [
         1,
         100,
@@ -784,6 +808,7 @@
         1905,
         1906,
         1907,
+        1908,
         2000,
         2001,
         2100,
@@ -806,6 +831,9 @@
         4802,
         4805,
         4900,
+        5001,
+        5002,
+        5003,
         7900,
         8000,
         8001,
@@ -869,6 +897,8 @@
         28502,
         28503,
         28504,
-        28601
+        28601,
+        28701,
+        28801
     ]
 }

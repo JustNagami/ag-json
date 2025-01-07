@@ -244,19 +244,64 @@
         "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_7",
         "is_full_info": false
     },
-    "BUFF_EFFECT_8": {
-        "pattern": "{6} stat becomes {1}% of its base value.",
-        "format_str_key": "BUFF_EFFECT_8",
+    "BUFF_EFFECT_POS_8": {
+        "pattern": "Move score increases {6} by an extra {1}%.",
+        "format_str_key": "BUFF_EFFECT_POS_8",
         "is_full_info": false
     },
-    "BUFF_EFFECT_ROUND_8": {
-        "pattern": "{0}'s {6} stat becomes {1}% of its base value.",
-        "format_str_key": "BUFF_EFFECT_ROUND_8",
+    "BUFF_EFFECT_NEG_8": {
+        "pattern": "Move score reduces {6} by {1}%.",
+        "format_str_key": "BUFF_EFFECT_NEG_8",
         "is_full_info": false
     },
-    "BUFF_EFFECT_DELAY_ROUND_8": {
-        "pattern": "{0}'s {6} stat becomes {1}% of its base value after {4} round(s).",
-        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_8",
+    "BUFF_EFFECT_ROUND_POS_8": {
+        "pattern": "{0}'s move score increases {6} by an extra {1}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_8",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_8": {
+        "pattern": "{0}'s move score reduces {6} by {1}%.",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_8",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_8": {
+        "pattern": "{0}'s move score increases {6} by an extra {1}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_8",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_8": {
+        "pattern": "{0}'s move score reduces {6} by {1}% after {4} round(s).",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_8",
+        "is_full_info": false
+    },
+    "DEFAULT_CONDITION_1": {
+        "pattern": "When %s is %s",
+        "format_str_key": "DEFAULT_CONDITION_1",
+        "is_full_info": false
+    },
+    "DEFAULT_CONDITION_2": {
+        "pattern": "When %s has %s or more status effects",
+        "format_str_key": "DEFAULT_CONDITION_2",
+        "is_full_info": false
+    },
+    "DEFAULT_CONDITION_3": {
+        "pattern": "When %s triggers a skill effect this round",
+        "format_str_key": "DEFAULT_CONDITION_3",
+        "is_full_info": false
+    },
+    "DEFAULT_CONDITION_4": {
+        "pattern": "When %s triggers a skill effect %s time(s)",
+        "format_str_key": "DEFAULT_CONDITION_4",
+        "is_full_info": false
+    },
+    "DEFAULT_CONDITION_5": {
+        "pattern": "When %s uses a %s style move",
+        "format_str_key": "DEFAULT_CONDITION_5",
+        "is_full_info": false
+    },
+    "DEFAULT_ROUND_PROBABILITY": {
+        "pattern": "%s%% trigger chance per round",
+        "format_str_key": "DEFAULT_ROUND_PROBABILITY",
         "is_full_info": false
     },
     "all": [
@@ -309,8 +354,17 @@
         "BUFF_EFFECT_ROUND_NEG_7",
         "BUFF_EFFECT_DELAY_ROUND_POS_7",
         "BUFF_EFFECT_DELAY_ROUND_NEG_7",
-        "BUFF_EFFECT_8",
-        "BUFF_EFFECT_ROUND_8",
-        "BUFF_EFFECT_DELAY_ROUND_8"
+        "BUFF_EFFECT_POS_8",
+        "BUFF_EFFECT_NEG_8",
+        "BUFF_EFFECT_ROUND_POS_8",
+        "BUFF_EFFECT_ROUND_NEG_8",
+        "BUFF_EFFECT_DELAY_ROUND_POS_8",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_8",
+        "DEFAULT_CONDITION_1",
+        "DEFAULT_CONDITION_2",
+        "DEFAULT_CONDITION_3",
+        "DEFAULT_CONDITION_4",
+        "DEFAULT_CONDITION_5",
+        "DEFAULT_ROUND_PROBABILITY"
     ]
 }

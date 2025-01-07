@@ -1,0 +1,39 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Screaming Duck",
+        "icon": "TextureConfig/Summer2024/Summer2024_DuckParty/DuckParty_monster_01",
+        "desc": "The siren will sound during High Alert. Hit players to confuse them and advance in the direction opposite of where you're pointing."
+    },
+    "2": {
+        "id": 2,
+        "name": "Bubble Duck",
+        "icon": "TextureConfig/Summer2024/Summer2024_DuckParty/DuckParty_monster_02",
+        "desc": "Fires bubbles during High Alert. The bubbles immobilize players. Use the Sound Wave skill to burst the bubbles."
+    },
+    "3": {
+        "id": 3,
+        "name": "Crowned Duck",
+        "icon": "TextureConfig/Summer2024/Summer2024_DuckParty/DuckParty_monster_03",
+        "desc": "The duck does not run away but escapes faster by struggling. If it is not captured, it teleports back where it started. Pick up the dropped crown to reset its escape progress. Capture it to get the crown buff. Crown buff: Stamina Recovery speed is greatly increased, and the CD of Sound Wave is greatly reduced."
+    },
+    "4": {
+        "id": 4,
+        "name": "Wave Duck",
+        "icon": "TextureConfig/Summer2024/Summer2024_DuckParty/DuckParty_monster_04",
+        "desc": "Three waterspouts are created during High Alert, slowing the player if they hit."
+    },
+    "5": {
+        "id": 5,
+        "name": "Rush Duck",
+        "icon": "TextureConfig/Summer2024/Summer2024_DuckParty/DuckParty_monster_05",
+        "desc": "Shoots straight at fleeing players during High Alert."
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ]
+}

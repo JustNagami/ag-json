@@ -37,7 +37,7 @@
     "101702": {
         "id": 101702,
         "word": "Moontrail Mark",
-        "desc": "A status inflicted on enemies by Aether Code: Sekhmet's Doppelganger - Execution.\nIncreases Crit DMG against enemies with this status."
+        "desc": "A state inflicted on enemies by Aether Code: Sekhmet's Doppelganger - Execution.\nDMG is increased against enemies in this state."
     },
     "101703": {
         "id": 101703,
@@ -48,6 +48,96 @@
         "id": 101901,
         "word": "Sacred Gale Crystals",
         "desc": "An additional attack summoned by Skill 1: Winged Lance or Aether Code: Skycleave Wings - Last Traces."
+    },
+    "102001": {
+        "id": 102001,
+        "word": "Translating:\u3010terminology$102001$word$0\u3011",
+        "desc": "A state granted by using an Ultimate Skill while in the Age of Destruction form."
+    },
+    "102002": {
+        "id": 102002,
+        "word": "Age of Destruction",
+        "desc": "A state granted by using an Ultimate Skill or Ultimate Skillchain while in the Age of Creation form."
+    },
+    "102003": {
+        "id": 102003,
+        "word": "Nirvana",
+        "desc": "Status points gained from normal attacks, Skill 2: Mah\u0101k\u0101la, or Dodge effects."
+    },
+    "102004": {
+        "id": 102004,
+        "word": "Lotus Shadow",
+        "desc": "A state granted by using Aether Code: Creator - Lotus Blossom.\nGrants invincibility when attacked."
+    },
+    "102101": {
+        "id": 102101,
+        "word": "Luminous Echo",
+        "desc": "Status points granted by using Skill 2: Dawn Finale or Skill 3: Sunrise Rhapsody to clear the Harmonizing Chord state from the enemy."
+    },
+    "102102": {
+        "id": 102102,
+        "word": "Dawnlight",
+        "desc": "A status granted by using an Ultimate Skill or Ultimate Skillchain."
+    },
+    "102103": {
+        "id": 102103,
+        "word": "Harmonizing Chord",
+        "desc": "A state inflicted on enemies by using Skill 1: Daybreak Quartet."
+    },
+    "102104": {
+        "id": 102104,
+        "word": "The Sonata",
+        "desc": "A state granted by using Aether Code: Lighthouse Harmony - Player."
+    },
+    "102201": {
+        "id": 102201,
+        "word": "\"New Moon\"",
+        "desc": "A state granted by using Skill 3: Lunar Cycle when Moonphase is empty."
+    },
+    "102202": {
+        "id": 102202,
+        "word": "Full Moon",
+        "desc": "A state granted by using Skill 3: Lunar Cycle when Moonphase is full."
+    },
+    "102203": {
+        "id": 102203,
+        "word": "Moonphase",
+        "desc": "Status points gained by using a normal attack or skill."
+    },
+    "102204": {
+        "id": 102204,
+        "word": "Harmony",
+        "desc": "The basic form of the skill, which will be replaced when switching forms."
+    },
+    "102205": {
+        "id": 102205,
+        "word": "Sonata",
+        "desc": "Replaced skill triggered after a specific number of normal attack strikes."
+    },
+    "102206": {
+        "id": 102206,
+        "word": "Dirge",
+        "desc": "Skill swapped to after using the corresponding skill's Sonata."
+    },
+    "102207": {
+        "id": 102207,
+        "word": "Veil Over The Full Moon",
+        "desc": "A state granted after switching to the Full Moon form."
+    },
+    "102208": {
+        "id": 102208,
+        "word": "New Moon Splendor",
+        "desc": "A pillar of light placed on the battlefield by using an Ultimate Skill or Ultimate Skillchain while in the New Moon form.\nWill continue to taunt normal and elite enemies."
+    },
+    "102209": {
+        "id": 102209,
+        "word": "Full Moon Brilliant",
+        "desc": "A pillar of light placed on the battlefield by using an Ultimate Skill or Ultimate Skillchain while in the Full Moon form.\nWill inflict Lunar Eclipse on enemies."
+    },
+    "102210": {
+        "id": 102210,
+        "word": "Lunar Eclipse",
+        "desc": "A state inflicted on enemies by using Full Moon Brilliant."
     },
     "102401": {
         "id": 102401,
@@ -377,7 +467,7 @@
     "107509": {
         "id": 107509,
         "word": "Afire",
-        "desc": "Gains this status after casting 4 skills within a set time limit.\nEffect: All skills are replaced with their Aflame form. If any of them are cast, all skills will return to their Start form."
+        "desc": "This state is entered after casting 4 skills within a set time limit.\nEffect: All skills are replaced with their Aflame form. When the status wears off, all skills will return to their Start form."
     },
     "107510": {
         "id": 107510,
@@ -397,12 +487,12 @@
     "107603": {
         "id": 107603,
         "word": "Apex: Xu",
-        "desc": "A status gained by using Skill 3: Antarctic Echo - Yang."
+        "desc": "A form entered by using Skill 3: Antarctic Echo - Yang."
     },
     "107604": {
         "id": 107604,
         "word": "Apex: Heng",
-        "desc": "A status gained by using Skill 3: Antarctic Echo - Yin."
+        "desc": "A form entered by using Skill 3: Antarctic Echo - Yin."
     },
     "107605": {
         "id": 107605,
@@ -423,6 +513,46 @@
         "id": 108401,
         "word": "Runic Mark",
         "desc": "A status inflicted on enemies by Skill 2: Swift Slash."
+    },
+    "108901": {
+        "id": 108901,
+        "word": "Aero Shot",
+        "desc": "A mark obtained by expending Divine Grace. Mark type can be switched by using Skill 3: Free Alsaid or Ultimate Skill: Wheel of Cleansing."
+    },
+    "108902": {
+        "id": 108902,
+        "word": "Aero Shot - Azure",
+        "desc": "A type of Aero Shot mark."
+    },
+    "108903": {
+        "id": 108903,
+        "word": "Aero Shot - Amber",
+        "desc": "A type of Aero Shot mark."
+    },
+    "108904": {
+        "id": 108904,
+        "word": "Aero Shot - Crimson",
+        "desc": "A type of Aero Shot mark."
+    },
+    "108905": {
+        "id": 108905,
+        "word": "Azure",
+        "desc": "Status granted by expending the Aero Shot - Azure mark with skills when HP is full.\nDMG taken is reduced."
+    },
+    "108906": {
+        "id": 108906,
+        "word": "Amber",
+        "desc": "Status granted by expending the Aero Shot - Amber mark with skills.\nDMG is increased."
+    },
+    "108907": {
+        "id": 108907,
+        "word": "Crimson",
+        "desc": "Status granted by expending the Amber status and Aero Shot - Crimson mark with skills.\nWind DMG is increased."
+    },
+    "108908": {
+        "id": 108908,
+        "word": "Snow Lotus",
+        "desc": "Status inflicted on enemies after hitting the same enemy six times with Petal Dance from Aether Code: Cyclic Peak - Immolation.\nWhen Petal Dance hits a seventh time, this status will be cleared and bonus DMG dealt."
     },
     "109301": {
         "id": 109301,
@@ -569,10 +699,25 @@
         "word": "Blossom",
         "desc": "A mark gained when the Mod has Divine Grace in the Sakuya state and uses Skill 1: Kata 1: Halt or Skill 2: Kata 3: Dance."
     },
+    "115601": {
+        "id": 115601,
+        "word": "Brilliant Bolt",
+        "desc": "A decision that presents itself when using some normal attacks and skills. Tap the corresponding normal attack or skill at the right moment to trigger different enhancement effects."
+    },
+    "115602": {
+        "id": 115602,
+        "word": "Thunderclap",
+        "desc": "Mark obtained from Extremity Dodge, Aether Code: God of Wrath - Dark Lord, or Aether Code: God of Wrath - Resentment."
+    },
+    "115603": {
+        "id": 115603,
+        "word": "Lightning Flash",
+        "desc": "Status points gained by using a normal attack or skill."
+    },
     "115801": {
         "id": 115801,
         "word": "Smelt",
-        "desc": "A status gained by dodging during Skill 2: Smoldering Heart, normal attacks, or Skill 1: Madoibi Flicker.\nDeals continuous DMG and Madoibi to the Mod and increases the level of Heartsear while this status is in effect."
+        "desc": "A status entered by dodging during Skill 2: Smoldering Heart, normal attacks, or Skill 1: Madoibi Flicker.\nContinuously deals DMG, accumulates Madoibi, and increases the level of Heartsear while this status is in effect."
     },
     "115802": {
         "id": 115802,
@@ -634,6 +779,81 @@
         "word": "Verdict",
         "desc": "A status gained by using Skill 3: Slash of Conviction when Daybreak is full."
     },
+    "1000001": {
+        "id": 1000001,
+        "word": "Locked On",
+        "desc": "When enemies are in this state, Overload will be triggered after a short time.\nWhen enemies that are in this state are locked on again, the trigger time will be reduced."
+    },
+    "1000002": {
+        "id": 1000002,
+        "word": "Overload",
+        "desc": "Summons lightning to strike the enemy, dealing Tactical DMG."
+    },
+    "1000003": {
+        "id": 1000003,
+        "word": "Tactical DMG",
+        "desc": "A fixed amount of DMG resulting from various tactical effects."
+    },
+    "1000011": {
+        "id": 1000011,
+        "word": "Hurricane",
+        "desc": "Can be fused to create an even bigger hurricane."
+    },
+    "1000021": {
+        "id": 1000021,
+        "word": "Energy Charge",
+        "desc": "Energy Charge has a max capacity of 1,000. When it is charged up to full, Electrical Arc will be triggered one time."
+    },
+    "1000022": {
+        "id": 1000022,
+        "word": "Electrical Arc",
+        "desc": "Radiates electrical currents outward, dealing Tactical DMG to enemies that are hit."
+    },
+    "1000023": {
+        "id": 1000023,
+        "word": "Impedance",
+        "desc": "A shield granted through Energy Charge. Can stack, and each stack duration is calculated individually.\nWhen a shield is granted, grants Energy Charge equal to the base shield amount."
+    },
+    "1000031": {
+        "id": 1000031,
+        "word": "Sharp Blade",
+        "desc": "Shoots 1 Sharp Blade in a straight line, dealing a small amount of Tactical DMG to the first enemy it hits. When Sharp Blade hits, there is a chance of dealing a large amount of extra Tactical DMG and generating 1 Chain Blade, which lasts for a period of time. The longer this effect doesn't trigger, the higher the chance it will trigger becomes. When it does trigger, the chance resets."
+    },
+    "1000032": {
+        "id": 1000032,
+        "word": "Chain Blade",
+        "desc": "A Chain Blade that spins around the Mod and stacks up to 4 times. Chain Blades deal Tactical DMG to enemies upon hit."
+    },
+    "1000041": {
+        "id": 1000041,
+        "word": "Corrosion",
+        "desc": "A stackable continuous damage effect. Enemies inflicted with Corrosion will take damage at regular intervals.\nThe amount of DMG at each interval will be based on the current number of Corrosion stacks on the enemy, while future Corrosion stacks are halved."
+    },
+    "1000042": {
+        "id": 1000042,
+        "word": "Energy Field",
+        "desc": "Enemies that remain in the Energy Field will be inflicted with the Corrosion state at regular intervals. Inflicts a progressively larger number of stacks each time, up to a maximum of 70 stacks at once.\nOnce an enemy leaves the Energy Field, stacks will restart from 1."
+    },
+    "1000051": {
+        "id": 1000051,
+        "word": "Icicle",
+        "desc": "Tracks the enemy and deals Tactical DMG upon hit, as well as inflicts 1 stack of Chill."
+    },
+    "1000052": {
+        "id": 1000052,
+        "word": "Chill",
+        "desc": "Enemies that are in this state will have their movement speed reduced by 1% for every stack. At 30 stacks, the Chill state will be cleared and replaced with Freeze, triggering Blizzard."
+    },
+    "1000053": {
+        "id": 1000053,
+        "word": "Blizzard",
+        "desc": "Deals a large amount of Tactical DMG over an area."
+    },
+    "1000054": {
+        "id": 1000054,
+        "word": "Frosty Terrain",
+        "desc": "Deals continuous Tactical DMG to enemies in range of Frosty Terrain and inflicts Chill."
+    },
     "all": [
         101301,
         101501,
@@ -645,6 +865,24 @@
         101702,
         101703,
         101901,
+        102001,
+        102002,
+        102003,
+        102004,
+        102101,
+        102102,
+        102103,
+        102104,
+        102201,
+        102202,
+        102203,
+        102204,
+        102205,
+        102206,
+        102207,
+        102208,
+        102209,
+        102210,
         102401,
         102402,
         102601,
@@ -720,6 +958,14 @@
         108101,
         108102,
         108401,
+        108901,
+        108902,
+        108903,
+        108904,
+        108905,
+        108906,
+        108907,
+        108908,
         109301,
         109501,
         109502,
@@ -749,6 +995,9 @@
         115001,
         115002,
         115003,
+        115601,
+        115602,
+        115603,
         115801,
         115802,
         115803,
@@ -761,6 +1010,21 @@
         119705,
         119901,
         128401,
-        128402
+        128402,
+        1000001,
+        1000002,
+        1000003,
+        1000011,
+        1000021,
+        1000022,
+        1000023,
+        1000031,
+        1000032,
+        1000041,
+        1000042,
+        1000051,
+        1000052,
+        1000053,
+        1000054
     ]
 }

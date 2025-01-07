@@ -629,6 +629,48 @@
             119701
         ]
     },
+    "2510013": {
+        "show_offset_y": "0",
+        "race": 1,
+        "type": 2,
+        "story": "\"Humans are so lucky to be able to look up at the moon and sing their songs about it. I'm so jealous.\"\nEndymion used to live in the heavenly palace, and only ever recalled the moon as being this pale oval shape at the end of a distant horizon, unable to conceive of that famous moon that humans described in their songs. Whether it was the full moon that they looked up at with longing, or the ghostly half moon that hung with an icy glow, theirs was a side of the moon that she had never been able to see with her own two eyes.\nThat is, until Endymion's curiosity led her to escape from the heavenly palace and run away to the valley where the moon rises and sets. There, the villagers who sang their praises to the moon each day welcomed her, and she finally understood the meaning behind their music, joining them in song whenever the moon rose in the sky.\nBut the gods did not forgive Endymion for leaving. Her punishment for running away was to be forever trapped on the swing that hung below the moon, like a captured canary, never able to leave her cage.\nThe image of her on that swing is reflected in the waters of the clear lakes below, free as the wind... or in a dream.\nBut this is a dream that she cannot wake up from, no matter how often the moon rises or sets.",
+        "effect_desc": "",
+        "show_offset_x": "0.02",
+        "desc": "A herald who escaped the heavenly palace out of love for the songs of men. When the moon rises, she can always be seen swinging underneath.",
+        "attrib_addition": 20,
+        "display_type": 0,
+        "starlevel": 5,
+        "show_tiling_scale": "1",
+        "id": 2510013,
+        "attribute": [
+            1,
+            100
+        ],
+        "effect": [
+            102201
+        ]
+    },
+    "2510014": {
+        "show_offset_y": "0",
+        "race": 1,
+        "type": 2,
+        "story": "\"You're looking for the Polestar Station? Take my hand, I'll show you.\"\nIn the rubble of a temple that had been destroyed by a stray comet, Callistos found some travelers who had become trapped.\nWhen they heard the voice of rescue and saw the girl it belonged to shining with stardust, they knew they would be alright.\n\"Hey, now that I'm here, you've got nothing to worry about. Now, how about I take you the rest of the way?\"\nThe girl raised the spear in her hand, and suddenly, the scattered bits of rubble turned into slabs of stone, paving the way to the stars.\n\"The Galaxy train is leaving the station. Come on, let's go!\"",
+        "effect_desc": "",
+        "show_offset_x": "-0.07",
+        "desc": "A guard who patrols the main road of the Milky Way, helping lost travelers to find their way.",
+        "attrib_addition": 20,
+        "display_type": 0,
+        "starlevel": 5,
+        "show_tiling_scale": "1.2",
+        "id": 2510014,
+        "attribute": [
+            1,
+            100
+        ],
+        "effect": [
+            102101
+        ]
+    },
     "2510999": {
         "show_offset_y": "-0.2",
         "race": 1,
@@ -1637,6 +1679,69 @@
             105201
         ]
     },
+    "2550010": {
+        "show_offset_y": "-0.23",
+        "race": 5,
+        "type": 2,
+        "story": "\"Hey, guys! This is your galactic idol... Gil!\nA pair of tabla drums hung in midair and played without a drummer, and fireworks appeared out of thin air and exploded, lighting up the lonely, starry sky.\n\"Look, it's Gil!\" \"Gil the Angel!\" \"Gil... I'm your biggest fan!\"\nDistant voices rang out clearly from the glittering Stardome... the voices of people calling out to their beloved idol from their own, individual stars.\nI can hear you all loud and clear!\nThe sound from each star was small and distant, but every single one filled Gil's heart with courage.\n\"Now, listen to this!\"\nOut of nowhere, a melody from all sorts of different instruments began to fill the night sky.\nAnd the sound of each of those notes and of Gil's voice would find its way across the cold, lonely stars to reach every ear that would listen.",
+        "effect_desc": "",
+        "show_offset_x": "-0.1",
+        "desc": "The most popular idol in the galaxy\u2014according to her, at least. Even distances measured in light-years aren't enough to keep her from the stage.",
+        "attrib_addition": 20,
+        "display_type": 0,
+        "starlevel": 5,
+        "show_tiling_scale": "1.4",
+        "id": 2550010,
+        "attribute": [
+            1,
+            100
+        ],
+        "effect": [
+            102001
+        ]
+    },
+    "2550011": {
+        "show_offset_y": "-0.23",
+        "race": 5,
+        "type": 2,
+        "story": "\"Everyone, over here!\"\nIn the depths of a mist-filled forest, the distant sound of a girl's laughter rang out like a silver bell.\nAs the little girl leaped down from the treetop, the mist in the branches suddenly congealed into a rubbery substance to catch her safely, then catapult her in the direction of another patch of mist some distance away. After a few trips back and forth, the girl sat herself down on a strong branch, and the mist gathered around her again, revealing its true form.\n\"Hey, you wanna know why Alvin gets to lie down here? Because they helped someone out of the forest when they got lost. Good elves deserve a reward!\"\nThe Mist Elf happily stretched out on her lap with a proud look on its face, while the other elves groaned with annoyance. Suddenly, Manasvin remembered something, and shot a stern look at another elf.\n\"Big Ears, you played a prank on that one traveler while he was asleep under that tree! Naughty elves get punished!\"\nBefore the other elf could turn into mist and escape, the rain suddenly turned into a small cage and trapped them.\n\"Now, you stay here and think about what you did! We'll find somewhere else to play!\"\nThe girl got down from the branch and felt the vapor in the air send out a slight tremor. Hmm... Looks like another lost soul was running through their forest.\nManasvin stopped in her tracks and spun around.\n\"Alright, guys, new plan! Someone needs our help!!\"\nThe elves around her looked at each other and nodded, following Manasvin as she ran off toward the tremor in the mist.\nIn the not-too-distant future, the Misty Forest of No Return might need a new name, while its old one fades away like rain into the fog.",
+        "effect_desc": "",
+        "show_offset_x": "-0.1",
+        "desc": "This young lady who made her appearance in the Misty Forest of No Return is small, but majestic.",
+        "attrib_addition": 20,
+        "display_type": 0,
+        "starlevel": 5,
+        "show_tiling_scale": "1.4",
+        "id": 2550011,
+        "attribute": [
+            1,
+            100
+        ],
+        "effect": [
+            115601
+        ]
+    },
+    "2550012": {
+        "show_offset_y": "-0.23",
+        "race": 5,
+        "type": 2,
+        "story": "\"Heavenly Dragon, my Lady! Please, help me. My wife just passed away in an accident, and my daughter's sick again... Please, you're my last hope!\"\nThe man fell to his knees in the middle of the round square, not even noticing the cold stone which hurt his hands and feet.\n\"Is that so?\"\nA finely dressed woman looked down at him coldly, her beautiful face frozen in place. \"Go, then. What you seek will be in the mirror.\"\nOverjoyed, the man sprang up, ran to the top of the steps, and reached out to grasp the mirror. Suddenly, the clear picture reflected in the mirror changed... He saw himself standing in a darkened room, his hands filled with blood-spattered jewelry... a woman and child lying dead at his feet.\n\"No... That's not! I just...!!\"\nHe stepped back in horror, trying to make sense of what he saw, as his reflection in the mirror turned and gave him a sinister smile.\nSuddenly, countless shadowy hands reached out from the mirror and grabbed the man.\n\"Heavenly Mother! Please, forgive me!! Save me, I don't want to... AGHHHH!!!\"\nThe woman said nothing, watching with indifference as he was swallowed by the dark shadow.\nAfter everything had become calm, she walked up to the mirror. Its surface was bright and smooth once more, and in it, she saw... an enormous, black dragon.\n\"Fool. The Ice Mirror can only reflect the truth... Where on earth did such an absurd rumor start?\"\nShe sighed, and then turned, as if sensing something. The violet dragon eyes in the mirror turned with her as she looked toward the foot of the mountain.\n\"Forget it... Let's see what the next climber seeks...\"",
+        "effect_desc": "",
+        "show_offset_x": "-0.1",
+        "desc": "Deep in the mountain tundra, there's a temple on an icy lake. Legend has it that anyone who manages to meet the lady within will have all their wishes granted...",
+        "attrib_addition": 20,
+        "display_type": 0,
+        "starlevel": 5,
+        "show_tiling_scale": "1.4",
+        "id": 2550012,
+        "attribute": [
+            1,
+            100
+        ],
+        "effect": [
+            108901
+        ]
+    },
     "2550998": {
         "show_offset_y": "-0.13",
         "race": 5,
@@ -1918,6 +2023,9 @@
             2550007,
             2550008,
             2550009,
+            2550010,
+            2550011,
+            2550012,
             2550998,
             2550999
         ],
@@ -1990,6 +2098,8 @@
             2510009,
             2510010,
             2510012,
+            2510013,
+            2510014,
             2510999
         ]
     },
@@ -2026,6 +2136,15 @@
         ],
         "421": [
             2550998
+        ],
+        "108901": [
+            2550012
+        ],
+        "115601": [
+            2550011
+        ],
+        "102001": [
+            2550010
         ],
         "105201": [
             2550009
@@ -2159,6 +2278,12 @@
         "416": [
             2510999
         ],
+        "102101": [
+            2510014
+        ],
+        "102201": [
+            2510013
+        ],
         "119701": [
             2510012
         ],
@@ -2286,6 +2411,8 @@
         2510009,
         2510010,
         2510012,
+        2510013,
+        2510014,
         2510999,
         2520000,
         2520001,
@@ -2334,6 +2461,9 @@
         2550007,
         2550008,
         2550009,
+        2550010,
+        2550011,
+        2550012,
         2550998,
         2550999,
         2590000,

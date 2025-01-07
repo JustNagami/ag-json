@@ -13103,6 +13103,972 @@
             ]
         ]
     },
+    "760002": {
+        "name": "Extra Enduring Sound Drops",
+        "show_altas": false,
+        "rare": 2,
+        "desc": "Obtain an extra <color=#FF9500>20</color> Enduring Sounds after every battle.",
+        "matrix_item_type": 6,
+        "id": 760002,
+        "icon": "2",
+        "params": [
+            212001
+        ],
+        "price": []
+    },
+    "760003": {
+        "name": "Extra Enduring Sound Drops",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Obtain an extra <color=#FF9500>10</color> Enduring Sounds after every battle.",
+        "matrix_item_type": 6,
+        "id": 760003,
+        "icon": "2",
+        "params": [
+            212002
+        ],
+        "price": []
+    },
+    "710761": {
+        "name": "Wilderness Hunter",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Aether Code: Wilderness Hunter obtained",
+        "matrix_item_type": 1,
+        "id": 710761,
+        "icon": "yellow",
+        "params": [
+            1021001
+        ],
+        "price": [
+            [
+                26,
+                240
+            ]
+        ]
+    },
+    "710763": {
+        "name": "Musical Warrior",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Aether Code: Musical Warrior obtained",
+        "matrix_item_type": 1,
+        "id": 710763,
+        "icon": "blue",
+        "params": [
+            1021003
+        ],
+        "price": [
+            [
+                26,
+                240
+            ]
+        ]
+    },
+    "720001": {
+        "name": "Saintess' Banner",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Saintess' Banner obtained",
+        "matrix_item_type": 2,
+        "id": 720001,
+        "icon": "1",
+        "params": [
+            1
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720002": {
+        "name": "Lance of Destruction",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Lance of Destruction obtained",
+        "matrix_item_type": 2,
+        "id": 720002,
+        "icon": "2",
+        "params": [
+            2
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720003": {
+        "name": "Envoy of Valhalla",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Envoy of Valhalla obtained",
+        "matrix_item_type": 2,
+        "id": 720003,
+        "icon": "3",
+        "params": [
+            3
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720004": {
+        "name": "Orpheus' Harp",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Orpheus' Harp obtained",
+        "matrix_item_type": 2,
+        "id": 720004,
+        "icon": "4",
+        "params": [
+            4
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720005": {
+        "name": "Witch's Judgment",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Witch's Judgment obtained",
+        "matrix_item_type": 2,
+        "id": 720005,
+        "icon": "5",
+        "params": [
+            5
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720006": {
+        "name": "Blazing Scarab",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Blazing Scarab obtained",
+        "matrix_item_type": 2,
+        "id": 720006,
+        "icon": "7",
+        "params": [
+            7
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720007": {
+        "name": "Sword of Roland",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Sword of Roland obtained",
+        "matrix_item_type": 2,
+        "id": 720007,
+        "icon": "16",
+        "params": [
+            16
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720008": {
+        "name": "Golden Fleece",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Golden Fleece obtained",
+        "matrix_item_type": 2,
+        "id": 720008,
+        "icon": "17",
+        "params": [
+            17
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720009": {
+        "name": "Swordsman's Creed",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Swordsman's Creed obtained",
+        "matrix_item_type": 2,
+        "id": 720009,
+        "icon": "18",
+        "params": [
+            18
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720010": {
+        "name": "Griffins' Pride",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Griffins' Pride obtained",
+        "matrix_item_type": 2,
+        "id": 720010,
+        "icon": "19",
+        "params": [
+            19
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720011": {
+        "name": "Nibelungenlied",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Nibelungenlied obtained",
+        "matrix_item_type": 2,
+        "id": 720011,
+        "icon": "20",
+        "params": [
+            20
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720012": {
+        "name": "Fountain of Youth",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Fountain of Youth obtained",
+        "matrix_item_type": 2,
+        "id": 720012,
+        "icon": "21",
+        "params": [
+            21
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720013": {
+        "name": "Calydonian Rage",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Calydonian Rage obtained",
+        "matrix_item_type": 2,
+        "id": 720013,
+        "icon": "22",
+        "params": [
+            22
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720014": {
+        "name": "Spartan Battlecry",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Spartan Battlecry obtained",
+        "matrix_item_type": 2,
+        "id": 720014,
+        "icon": "26",
+        "params": [
+            26
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720015": {
+        "name": "Virgo's Meteor",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Virgo's Meteor obtained",
+        "matrix_item_type": 2,
+        "id": 720015,
+        "icon": "31",
+        "params": [
+            31
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720016": {
+        "name": "Feather of the Pacifier",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Feather of the Pacifier obtained",
+        "matrix_item_type": 2,
+        "id": 720016,
+        "icon": "35",
+        "params": [
+            35
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720017": {
+        "name": "Ambush of the Owl",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Ambush of the Owl obtained",
+        "matrix_item_type": 2,
+        "id": 720017,
+        "icon": "36",
+        "params": [
+            36
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720018": {
+        "name": "Scale of Maat",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Scale of Maat obtained",
+        "matrix_item_type": 2,
+        "id": 720018,
+        "icon": "39",
+        "params": [
+            39
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720019": {
+        "name": "Peacekeeper's Blessing",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Peacekeeper's Blessing obtained",
+        "matrix_item_type": 2,
+        "id": 720019,
+        "icon": "41",
+        "params": [
+            41
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720020": {
+        "name": "Immortal Blackbird",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Immortal Blackbird obtained.",
+        "matrix_item_type": 2,
+        "id": 720020,
+        "icon": "42",
+        "params": [
+            42
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "720021": {
+        "name": "Grove Whispers",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Sigil: Grove Whispers obtained",
+        "matrix_item_type": 2,
+        "id": 720021,
+        "icon": "59",
+        "params": [
+            59
+        ],
+        "price": [
+            [
+                26,
+                180
+            ]
+        ]
+    },
+    "730001": {
+        "name": "Callistos",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Functor: Callistos obtained",
+        "matrix_item_type": 3,
+        "id": 730001,
+        "icon": "2510014",
+        "params": [
+            2510014
+        ],
+        "price": [
+            [
+                26,
+                800
+            ]
+        ]
+    },
+    "731001": {
+        "name": "Laelaps",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Functor: Laelaps obtained",
+        "matrix_item_type": 3,
+        "id": 731001,
+        "icon": "2410001",
+        "params": [
+            2410001
+        ],
+        "price": [
+            [
+                26,
+                200
+            ]
+        ]
+    },
+    "731002": {
+        "name": "Melampus",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Functor: Melampus obtained",
+        "matrix_item_type": 3,
+        "id": 731002,
+        "icon": "2410002",
+        "params": [
+            2410002
+        ],
+        "price": [
+            [
+                26,
+                200
+            ]
+        ]
+    },
+    "731003": {
+        "name": "Hydra",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Functor: Hydra obtained",
+        "matrix_item_type": 3,
+        "id": 731003,
+        "icon": "2510999",
+        "params": [
+            2510999
+        ],
+        "price": [
+            [
+                26,
+                200
+            ]
+        ]
+    },
+    "731004": {
+        "name": "Hippo",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Functor: Hippo obtained",
+        "matrix_item_type": 3,
+        "id": 731004,
+        "icon": "2310001",
+        "params": [
+            2310001
+        ],
+        "price": [
+            [
+                26,
+                125
+            ]
+        ]
+    },
+    "740004": {
+        "name": "Enduring Sound",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Obtain Enduring Sound \u00d7 40.",
+        "matrix_item_type": 4,
+        "id": 740004,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                40
+            ]
+        ],
+        "price": []
+    },
+    "740005": {
+        "name": "Enduring Sound",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Obtain Enduring Sound \u00d7 30.",
+        "matrix_item_type": 4,
+        "id": 740005,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                30
+            ]
+        ],
+        "price": []
+    },
+    "740006": {
+        "name": "Enduring Sound",
+        "show_altas": false,
+        "rare": 2,
+        "desc": "Obtain Enduring Sound \u00d7 30.",
+        "matrix_item_type": 4,
+        "id": 740006,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                30
+            ]
+        ],
+        "price": []
+    },
+    "740007": {
+        "name": "Enduring Sound",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Obtain Enduring Sound \u00d7 30.",
+        "matrix_item_type": 4,
+        "id": 740007,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                30
+            ]
+        ],
+        "price": []
+    },
+    "740008": {
+        "name": "Enduring Sound",
+        "show_altas": false,
+        "rare": 2,
+        "desc": "Obtain Enduring Sound \u00d7 50.",
+        "matrix_item_type": 4,
+        "id": 740008,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                50
+            ]
+        ],
+        "price": []
+    },
+    "740009": {
+        "name": "Enduring Sound",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Obtain Enduring Sound \u00d7 80.",
+        "matrix_item_type": 4,
+        "id": 740009,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                80
+            ]
+        ],
+        "price": []
+    },
+    "740010": {
+        "name": "Enduring Sound",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Obtain Enduring Sound \u00d7 40.",
+        "matrix_item_type": 4,
+        "id": 740010,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                40
+            ]
+        ],
+        "price": []
+    },
+    "740011": {
+        "name": "Enduring Sound",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Obtain Enduring Sound \u00d7 100.",
+        "matrix_item_type": 4,
+        "id": 740011,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                100
+            ]
+        ],
+        "price": []
+    },
+    "740012": {
+        "name": "Enduring Sound",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Obtain Enduring Sound \u00d7 40.",
+        "matrix_item_type": 4,
+        "id": 740012,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                40
+            ]
+        ],
+        "price": []
+    },
+    "740013": {
+        "name": "Enduring Sound",
+        "show_altas": false,
+        "rare": 2,
+        "desc": "Obtain Enduring Sound \u00d7 250.",
+        "matrix_item_type": 4,
+        "id": 740013,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                250
+            ]
+        ],
+        "price": []
+    },
+    "740014": {
+        "name": "Enduring Sound",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Obtain Enduring Sound \u00d7 500.",
+        "matrix_item_type": 4,
+        "id": 740014,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                500
+            ]
+        ],
+        "price": []
+    },
+    "740101": {
+        "name": "Enduring Sound (Small)",
+        "show_altas": false,
+        "rare": 1,
+        "desc": "Obtain Enduring Sound \u00d7 100.",
+        "matrix_item_type": 4,
+        "id": 740101,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                100
+            ]
+        ],
+        "price": []
+    },
+    "740102": {
+        "name": "Enduring Sound (Medium)",
+        "show_altas": false,
+        "rare": 2,
+        "desc": "Obtain Enduring Sound \u00d7 300.",
+        "matrix_item_type": 4,
+        "id": 740102,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                300
+            ]
+        ],
+        "price": []
+    },
+    "740103": {
+        "name": "Enduring Sound (Medium)",
+        "show_altas": false,
+        "rare": 2,
+        "desc": "Obtain Enduring Sound \u00d7 500.",
+        "matrix_item_type": 4,
+        "id": 740103,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                500
+            ]
+        ],
+        "price": []
+    },
+    "740104": {
+        "name": "Enduring Sound (Large)",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Obtain Enduring Sound \u00d7 800.",
+        "matrix_item_type": 4,
+        "id": 740104,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                800
+            ]
+        ],
+        "price": []
+    },
+    "740105": {
+        "name": "Enduring Sound (Large)",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Obtain Enduring Sound \u00d7 1,200.",
+        "matrix_item_type": 4,
+        "id": 740105,
+        "icon": "53115",
+        "params": [
+            [
+                26,
+                1200
+            ]
+        ],
+        "price": []
+    },
+    "753001": {
+        "name": "Cave Moon",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Memory Treasure: Cave Moon obtained.",
+        "matrix_item_type": 5,
+        "id": 753001,
+        "icon": "753001",
+        "params": [
+            744101
+        ],
+        "price": [
+            [
+                26,
+                500
+            ]
+        ]
+    },
+    "753002": {
+        "name": "Goddess's Bow",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Memory Treasure: Goddess's Bow obtained.",
+        "matrix_item_type": 5,
+        "id": 753002,
+        "icon": "753002",
+        "params": [
+            744102
+        ],
+        "price": [
+            [
+                26,
+                500
+            ]
+        ]
+    },
+    "753003": {
+        "name": "Between Fact and Fiction",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Memory Treasure: Between Fact and Fiction obtained.",
+        "matrix_item_type": 5,
+        "id": 753003,
+        "icon": "753003",
+        "params": [
+            744103
+        ],
+        "price": [
+            [
+                26,
+                500
+            ]
+        ]
+    },
+    "753004": {
+        "name": "From Afar",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Memory Treasure: From Afar obtained.",
+        "matrix_item_type": 5,
+        "id": 753004,
+        "icon": "753004",
+        "params": [
+            744104
+        ],
+        "price": [
+            [
+                26,
+                500
+            ]
+        ]
+    },
+    "753005": {
+        "name": "Ancient Folksong",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Memory Treasure: Ancient Folksong obtained.",
+        "matrix_item_type": 5,
+        "id": 753005,
+        "icon": "753005",
+        "params": [
+            744105
+        ],
+        "price": [
+            [
+                26,
+                500
+            ]
+        ]
+    },
+    "753006": {
+        "name": "Frozen Memories",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Memory Treasure: Frozen Memories obtained.",
+        "matrix_item_type": 5,
+        "id": 753006,
+        "icon": "753006",
+        "params": [
+            744106
+        ],
+        "price": [
+            [
+                26,
+                500
+            ]
+        ]
+    },
+    "753007": {
+        "name": "Secret Return",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Memory Treasure: Secret Return obtained.",
+        "matrix_item_type": 5,
+        "id": 753007,
+        "icon": "753007",
+        "params": [
+            744107
+        ],
+        "price": [
+            [
+                26,
+                500
+            ]
+        ]
+    },
+    "753008": {
+        "name": "Moonlit Sprout",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Memory Treasure: Moonlit Sprout obtained.",
+        "matrix_item_type": 5,
+        "id": 753008,
+        "icon": "753008",
+        "params": [
+            744108
+        ],
+        "price": [
+            [
+                26,
+                500
+            ]
+        ]
+    },
+    "753009": {
+        "name": "Lighthouse Ray",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Memory Treasure: Lighthouse Ray obtained.",
+        "matrix_item_type": 5,
+        "id": 753009,
+        "icon": "753009",
+        "params": [
+            744109
+        ],
+        "price": [
+            [
+                26,
+                500
+            ]
+        ]
+    },
+    "753010": {
+        "name": "Skewed Scales",
+        "show_altas": false,
+        "rare": 3,
+        "desc": "Memory Treasure: Skewed Scales obtained.",
+        "matrix_item_type": 5,
+        "id": 753010,
+        "icon": "753010",
+        "params": [
+            744110
+        ],
+        "price": [
+            [
+                26,
+                500
+            ]
+        ]
+    },
     "get_id_list_by_matrix_item_type": [
         [
             10191,
@@ -13245,7 +14211,9 @@
             510763,
             610761,
             610762,
-            610763
+            610763,
+            710761,
+            710763
         ],
         [
             20005,
@@ -13354,7 +14322,28 @@
             620020,
             620021,
             620022,
-            620023
+            620023,
+            720001,
+            720002,
+            720003,
+            720004,
+            720005,
+            720006,
+            720007,
+            720008,
+            720009,
+            720010,
+            720011,
+            720012,
+            720013,
+            720014,
+            720015,
+            720016,
+            720017,
+            720018,
+            720019,
+            720020,
+            720021
         ],
         [
             30001,
@@ -13450,7 +14439,12 @@
             631001,
             631002,
             631003,
-            631004
+            631004,
+            730001,
+            731001,
+            731002,
+            731003,
+            731004
         ],
         [
             40001,
@@ -13559,7 +14553,23 @@
             640102,
             640103,
             640104,
-            640105
+            640105,
+            740004,
+            740005,
+            740006,
+            740007,
+            740008,
+            740009,
+            740010,
+            740011,
+            740012,
+            740013,
+            740014,
+            740101,
+            740102,
+            740103,
+            740104,
+            740105
         ],
         [
             51001,
@@ -13824,7 +14834,17 @@
             653007,
             653008,
             653009,
-            653010
+            653010,
+            753001,
+            753002,
+            753003,
+            753004,
+            753005,
+            753006,
+            753007,
+            753008,
+            753009,
+            753010
         ],
         [
             60001,
@@ -13860,7 +14880,9 @@
             560002,
             560003,
             660002,
-            660003
+            660003,
+            760002,
+            760003
         ]
     ],
     "all": [
@@ -14609,6 +15631,62 @@
         653007,
         653008,
         653009,
-        653010
+        653010,
+        760002,
+        760003,
+        710761,
+        710763,
+        720001,
+        720002,
+        720003,
+        720004,
+        720005,
+        720006,
+        720007,
+        720008,
+        720009,
+        720010,
+        720011,
+        720012,
+        720013,
+        720014,
+        720015,
+        720016,
+        720017,
+        720018,
+        720019,
+        720020,
+        720021,
+        730001,
+        731001,
+        731002,
+        731003,
+        731004,
+        740004,
+        740005,
+        740006,
+        740007,
+        740008,
+        740009,
+        740010,
+        740011,
+        740012,
+        740013,
+        740014,
+        740101,
+        740102,
+        740103,
+        740104,
+        740105,
+        753001,
+        753002,
+        753003,
+        753004,
+        753005,
+        753006,
+        753007,
+        753008,
+        753009,
+        753010
     ]
 }

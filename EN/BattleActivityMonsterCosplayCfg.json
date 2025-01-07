@@ -1,0 +1,1268 @@
+{
+    "5190701": {
+        "monster_level": 80,
+        "name": "Opening Battle I",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190701",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "The AGI Mechas, controlled by Bill, are rampaging through the place. Use Dark Metal to resolve this fracas.",
+        "team_type": "",
+        "id": 5190701,
+        "next_unlock_id_list": [
+            5190702
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150111
+        ]
+    },
+    "5190702": {
+        "monster_level": 80,
+        "name": "Opening Battle II",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H09",
+        "map": "5190702",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "Bill is not quite adept at controlling the AGI Mechas yet. The problem is, he plays by nobody's rules but his.",
+        "team_type": "",
+        "id": 5190702,
+        "next_unlock_id_list": [
+            5190703
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150111
+        ]
+    },
+    "5190703": {
+        "monster_level": 80,
+        "name": "Opening Battle III",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H09",
+        "map": "5190703",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "The visitors erupt into cheers. Looks like they've mistaken the disturbance for some special contest.",
+        "team_type": "",
+        "id": 5190703,
+        "next_unlock_id_list": [
+            5190704
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150111
+        ]
+    },
+    "5190704": {
+        "monster_level": 80,
+        "name": "Opening Battle IV",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190704",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "You're doing pretty well for someone new at this. Keep going.",
+        "team_type": "",
+        "id": 5190704,
+        "next_unlock_id_list": [
+            5190705
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150111
+        ]
+    },
+    "5190705": {
+        "monster_level": 80,
+        "name": "Opening Battle V",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190705",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "Kusherfang is at the center of this fracas. Defeat it, and the threat to the park will be vastly reduced.",
+        "team_type": "",
+        "id": 5190705,
+        "next_unlock_id_list": [
+            5190706
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150111
+        ]
+    },
+    "5190706": {
+        "monster_level": 80,
+        "name": "Counter Blade I",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190706",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "The crisis has been averted. Now, use your newfound power to clear out the remaining enemy AGI Mechas.",
+        "team_type": "",
+        "id": 5190706,
+        "next_unlock_id_list": [
+            5190707
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150112
+        ]
+    },
+    "5190707": {
+        "monster_level": 80,
+        "name": "Counter Blade II",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H09",
+        "map": "5190707",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "The good news: the enemy AGI Mechas are no longer controlled by Bill. The bad news: now, no one can control them!",
+        "team_type": "",
+        "id": 5190707,
+        "next_unlock_id_list": [
+            5190708
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150112
+        ]
+    },
+    "5190708": {
+        "monster_level": 80,
+        "name": "Counter Blade III",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190708",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "The out-of-control AGI Mechas have the Dark Metal in their sights. But at least this is better than them rampaging all over the place.",
+        "team_type": "",
+        "id": 5190708,
+        "next_unlock_id_list": [
+            5190709
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150112
+        ]
+    },
+    "5190709": {
+        "monster_level": 80,
+        "name": "Counter Blade IV",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190709",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "The organizers have regained some control over the AGI Mechas. Continue battling while they keep on working.",
+        "team_type": "",
+        "id": 5190709,
+        "next_unlock_id_list": [
+            5190710
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150112
+        ]
+    },
+    "5190710": {
+        "monster_level": 80,
+        "name": "Counter Blade V",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190710",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "The upgraded component is ready. Now, you have to break out to get your hands on it.",
+        "team_type": "",
+        "id": 5190710,
+        "next_unlock_id_list": [
+            5190711
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150112
+        ]
+    },
+    "5190711": {
+        "monster_level": 80,
+        "name": "In Cruise I",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190711",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "The murky days of Dark Metal are over. Now, it can own the skies.",
+        "team_type": "",
+        "id": 5190711,
+        "next_unlock_id_list": [
+            5190712
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150113
+        ]
+    },
+    "5190712": {
+        "monster_level": 80,
+        "name": "In Cruise II",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190712",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "No AGI Mecha that is operating normally would have Dark Metal in its sights. However...",
+        "team_type": "",
+        "id": 5190712,
+        "next_unlock_id_list": [
+            5190713
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150113
+        ]
+    },
+    "5190713": {
+        "monster_level": 80,
+        "name": "In Cruise III",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H08",
+        "map": "5190713",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "If only the enemy AGI Mechas were capable of flight too\u2014what a sight that'd be!",
+        "team_type": "",
+        "id": 5190713,
+        "next_unlock_id_list": [
+            5190714
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150113
+        ]
+    },
+    "5190714": {
+        "monster_level": 80,
+        "name": "In Cruise IV",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H08",
+        "map": "5190714",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "No one in the stands seems to have noticed this, but Dark Metal's battle specs have gone way beyond what is appropriate for this contest.",
+        "team_type": "",
+        "id": 5190714,
+        "next_unlock_id_list": [
+            5190715
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150113
+        ]
+    },
+    "5190715": {
+        "monster_level": 80,
+        "name": "In Cruise V",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H08",
+        "map": "5190715",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "It's time to end this ruckus.",
+        "team_type": "",
+        "id": 5190715,
+        "next_unlock_id_list": [
+            5190716
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            600
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150113
+        ]
+    },
+    "5190716": {
+        "monster_level": 80,
+        "name": "Sky Proclamation",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190716",
+        "sub_type": 2,
+        "tag": 0,
+        "level": 1,
+        "tips": "After all's said and done, Dark Metal is now the champion. Now it's time for even more honor and glory!",
+        "next_unlock_id_list": "",
+        "team_type": "",
+        "id": 5190716,
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150113
+        ]
+    },
+    "5190721": {
+        "monster_level": 80,
+        "name": "Return Battle I",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H09",
+        "map": "5190721",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "The crisis has ended, though a new war will soon ignite on the battlefield. But this time, Kusherfang is at your disposal.",
+        "team_type": "",
+        "id": 5190721,
+        "next_unlock_id_list": [
+            5190722
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6109,
+                610901
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150114
+        ]
+    },
+    "5190722": {
+        "monster_level": 80,
+        "name": "Return Battle II",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190722",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "When Kusherfang's iron hoof falls, its opponent will have no means to resist.",
+        "team_type": "",
+        "id": 5190722,
+        "next_unlock_id_list": [
+            5190723
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6109,
+                610901
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150114
+        ]
+    },
+    "5190723": {
+        "monster_level": 80,
+        "name": "Return Battle III",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H09",
+        "map": "5190723",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "Some very skillful Admins have already entered the fray. With their deftness of command, even the most ordinary AGI Mechas can become quite the problem.",
+        "team_type": "",
+        "id": 5190723,
+        "next_unlock_id_list": [
+            5190724
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6109,
+                610901
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150114
+        ]
+    },
+    "5190724": {
+        "monster_level": 80,
+        "name": "Return Battle IV",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190724",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "Keep on going. Kusherfang isn't at its limits yet.",
+        "team_type": "",
+        "id": 5190724,
+        "next_unlock_id_list": [
+            5190725
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6109,
+                610901
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150114
+        ]
+    },
+    "5190725": {
+        "monster_level": 80,
+        "name": "Return Battle V",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190725",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "The winner will get everything. Get your spot in the finals to obtain the legendary upgraded component.",
+        "team_type": "",
+        "id": 5190725,
+        "next_unlock_id_list": [
+            5190726
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6109,
+                610901
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150114
+        ]
+    },
+    "5190726": {
+        "monster_level": 80,
+        "name": "Breaking Boundaries I",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190726",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "The surging energy accumulated with the advance turns into a storm sweeping across the battlefield.",
+        "team_type": "",
+        "id": 5190726,
+        "next_unlock_id_list": [
+            5190727
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6109,
+                610901
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150115
+        ]
+    },
+    "5190727": {
+        "monster_level": 80,
+        "name": "Breaking Boundaries II",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190727",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "First you charge, then you charge, then you charge some more.",
+        "team_type": "",
+        "id": 5190727,
+        "next_unlock_id_list": [
+            5190728
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6109,
+                610901
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150115
+        ]
+    },
+    "5190728": {
+        "monster_level": 80,
+        "name": "Breaking Boundaries III",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H08",
+        "map": "5190728",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "Sparks are flying everywhere, along with various AGI Mecha parts. There are cheers all around.",
+        "team_type": "",
+        "id": 5190728,
+        "next_unlock_id_list": [
+            5190729
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6109,
+                610901
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150115
+        ]
+    },
+    "5190729": {
+        "monster_level": 80,
+        "name": "Breaking Boundaries IV",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H08",
+        "map": "5190729",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "The final upgrade is now complete. All eyes are on Kusherfang.",
+        "team_type": "",
+        "id": 5190729,
+        "next_unlock_id_list": [
+            5190730
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6109,
+                610901
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150115
+        ]
+    },
+    "5190730": {
+        "monster_level": 80,
+        "name": "Breaking Boundaries V",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190730",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "This isn't a battle, it's a conquest.",
+        "team_type": "",
+        "id": 5190730,
+        "next_unlock_id_list": [
+            5190731
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6109,
+                610901
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150115
+        ]
+    },
+    "5190731": {
+        "monster_level": 80,
+        "name": "Crimson Triumph",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190731",
+        "sub_type": 2,
+        "tag": 0,
+        "level": 1,
+        "tips": "As the victor, Kusherfang will face an endless stream of challengers. Time to show your opponents why you're the champ!",
+        "next_unlock_id_list": "",
+        "team_type": "",
+        "id": 5190731,
+        "attribute_factor": [
+            500,
+            1000,
+            400
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6109,
+                610901
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1150115
+        ]
+    },
+    "5190740": {
+        "monster_level": 80,
+        "name": "Decisive Battle",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H08",
+        "map": "5190740",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "",
+        "unlock_condition": "",
+        "next_unlock_id_list": "",
+        "team_type": "",
+        "id": 5190740,
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    "5190741": {
+        "monster_level": 80,
+        "name": "The Curtain Rises",
+        "type": 72,
+        "ai_level": 13,
+        "background_1": "H07",
+        "map": "5190741",
+        "sub_type": 1,
+        "tag": 0,
+        "level": 1,
+        "tips": "",
+        "unlock_condition": "",
+        "next_unlock_id_list": "",
+        "team_type": "",
+        "id": 5190741,
+        "attribute_factor": [
+            500,
+            1000,
+            700
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                6108,
+                610801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ]
+    },
+    "all": [
+        5190701,
+        5190702,
+        5190703,
+        5190704,
+        5190705,
+        5190706,
+        5190707,
+        5190708,
+        5190709,
+        5190710,
+        5190711,
+        5190712,
+        5190713,
+        5190714,
+        5190715,
+        5190716,
+        5190721,
+        5190722,
+        5190723,
+        5190724,
+        5190725,
+        5190726,
+        5190727,
+        5190728,
+        5190729,
+        5190730,
+        5190731,
+        5190740,
+        5190741
+    ]
+}

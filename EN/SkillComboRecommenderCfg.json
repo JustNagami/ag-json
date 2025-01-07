@@ -42,6 +42,22 @@
         "id": 101901,
         "desc": "The more Traces expended with Skill 3, the greater the DMG dealt."
     },
+    "102001": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 102001,
+        "desc": "Skill 1 is unlocked at full charge and Skill 3 is unlocked at full Divine Grace. Use Ultimate Skill to switch form."
+    },
+    "102101": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 102101,
+        "desc": "In the Dawnlight state, the fourth strike of the normal attack can be held down to follow up directly with a charge attack."
+    },
     "102701": {
         "list_icon": "",
         "name": "Tips",
@@ -1199,6 +1215,14 @@
         "id": 119701,
         "desc": "Try to use the Ultimate Skill when Energy level is high."
     },
+    "108901": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 108901,
+        "desc": "Keep using skills while receiving the Divine Grace restoration bonus of your normal attack."
+    },
     "128401": {
         "list_icon": "",
         "name": "Tips",
@@ -1238,6 +1262,14 @@
         "combine_char": "",
         "id": 609001,
         "desc": "Keep an eye on the amount of water present. When the water level is too low, you won't be able to launch Normal Attacks, Skill Attacks, or Counters."
+    },
+    "611001": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 611001,
+        "desc": "Pay attention to the background music, character movements, and on-screen prompts, and try to match the rhythm to gain additional bonus effects. Be aware of the Modulate mechanics of monsters, who will display the correct note on the final beat."
     },
     "904901": {
         "list_icon": "",
@@ -1279,11 +1311,29 @@
         "id": 109501,
         "desc": "When there are fewer enemies on the field, try to use Featherblade and the Skill 3 that expends Featherblade marks. When there are more enemies around, use Silverthread and the Skill 3 that expends Silverthread marks more instead. Skill use does not interrupt normal attacks. Where conditions permit, you can alternate skills with normal attack strikes."
     },
+    "102201": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 102201,
+        "desc": "Try your best to stay above 50 Divine Grace before using the Elegy skill. When in Full Moon, dodging will not interrupt the successive strikes of your normal attack."
+    },
+    "115601": {
+        "list_icon": "",
+        "name": "Tips",
+        "list_name": "",
+        "combine_char": "",
+        "id": 115601,
+        "desc": "Try to trigger Brilliant Bolt at the right moment to deal higher DMG."
+    },
     "all": [
         101101,
         101102,
         101501,
         101901,
+        102001,
+        102101,
         102701,
         102702,
         103601,
@@ -1370,15 +1420,19 @@
         106101,
         115001,
         119701,
+        108901,
         128401,
         608701,
         608801,
         608901,
         609001,
+        611001,
         904901,
         905501,
         906001,
         906101,
-        109501
+        109501,
+        102201,
+        115601
     ]
 }

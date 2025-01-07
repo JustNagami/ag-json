@@ -1,0 +1,16 @@
+{
+    "1": {
+        "description": "Bloom",
+        "lensId": 1,
+        "imgPath": "light"
+    },
+    "2": {
+        "description": "Vignette",
+        "lensId": 2,
+        "imgPath": "dark"
+    },
+    "all": [
+        1,
+        2
+    ]
+}

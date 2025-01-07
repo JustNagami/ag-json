@@ -1037,7 +1037,8 @@
                 108021,
                 108022,
                 108023,
-                108024
+                108024,
+                108025
             ],
             [
                 108031,
@@ -3526,6 +3527,242 @@
             1011118
         ]
     },
+    "1024": {
+        "name": "Farewell",
+        "story": "My adoptive father was a police officer. He'd sometimes talk to me about his important cases, and whenever he talked about big ones that hadn't been solved, he always spoke with determination and drive. Then, after realizing that he'd said too much, he'd suddenly go back to his usual kind and caring self. You can really see the integrity in a person like that, and there's no one that I admired more.\nI didn't know exactly what my father did at first. For a long time, I just thought he was \"keeping the peace.\" During the holidays, my father would often take me out for dinner with his friends. We usually sat in a small place outside while his friends made small talk, and sometimes, they'd throw a question or two in my direction, like what I wanted to be when I grew up. When I said that I wanted to be a police officer like my father, they went quiet for a minute, then burst out laughing. The man next to me patted me on the back and they left it there.\nMy father was always busy with work, and for my whole time at school, he only picked me up a handful of times. Those were the only days when I didn't have to spend ages waiting at the bus stop. There was a flower shop across the road from my school, and every time my father came to get me, he'd stop in there for a bunch of lilies. I never understood why such white flowers would be wrapped up in such dark paper, but my father never explained. Back then, he still had this warmth emanating from inside him, but there was also a hint of sadness which I couldn't quite grasp.\nAt dinner, an uncle once asked my father when he would build the garden he'd talked about putting in front of the house. It sounded like something my father had said after a few drinks, and he politely changed the subject, but when I looked at the bouquets of flowers he'd bought, I thought it wouldn't be too long before there could be a whole field of them outside our front door. I don't really like flowers, but they'd be much better than the bare soil.\nI never did see the new garden, nor did I see the man who'd laughed and patted me on the back. I asked my father where he was, and he told me the truth. He said that the man had died, and I could sense my father's grief as clearly as the lilies that he held in his hands.\nThat's how I found out that a bouquet of flowers could be used as an offering when someone died, and I realized why everyone had gone silent when I said I wanted to be a police officer like my father.\n...\nThey brought news of my father's death, saying that he'd been involved in a big smuggling operation in Rostach and had died a hero. I could tell they were lying, but I didn't argue. It was up to me to find the hard truth on my own.\nThe flower shop opposite my school had closed down, and my father's car would never be there to pick me up again. I took a bus ride around the whole city before I finally managed to buy a bunch of lilies.\nThe Egregious Crimes Department. I retraced my father's steps and that's where I ended up.\nWhen they heard the news of my father's death, they gave me his name tag, \"Jackal.\" That became my code name from that day forward.",
+        "task_desc": "Use Spirit Guide at least one time in The Jackal's Choice stage of the Father, Son, Duel - Part I side story, and complete the stage.",
+        "id": 1024,
+        "condition": [
+            [
+                50001,
+                50002,
+                51024
+            ],
+            [],
+            [
+                50003
+            ]
+        ],
+        "condition_source": [
+            [
+                [
+                    203,
+                    1024
+                ],
+                [
+                    208,
+                    1024
+                ],
+                [
+                    231,
+                    1024
+                ]
+            ],
+            [],
+            [
+                [
+                    204,
+                    1024
+                ]
+            ]
+        ],
+        "cost": [
+            [
+                [
+                    40504,
+                    30
+                ],
+                [
+                    2,
+                    50000
+                ],
+                [
+                    41501,
+                    10
+                ],
+                [
+                    81024,
+                    5
+                ]
+            ],
+            [
+                [
+                    40203,
+                    30
+                ],
+                [
+                    2,
+                    150000
+                ],
+                [
+                    41501,
+                    20
+                ],
+                [
+                    81024,
+                    10
+                ]
+            ],
+            [
+                [
+                    40203,
+                    50
+                ],
+                [
+                    2,
+                    200000
+                ],
+                [
+                    41501,
+                    30
+                ],
+                [
+                    81024,
+                    15
+                ]
+            ]
+        ],
+        "skill": [
+            [
+                102421,
+                102422,
+                102423,
+                102424
+            ],
+            [
+                102431,
+                102432,
+                102433,
+                102434
+            ],
+            [
+                102441
+            ]
+        ],
+        "source": [
+            331,
+            6010110,
+            5060107
+        ]
+    },
+    "1094": {
+        "name": "The Bird Box",
+        "story": "The old gun blasted, and the face of the woman who had just been begging for mercy suddenly shattered, the cracks spreading like a spider web across her entire face, then breaking apart like a jigsaw puzzle that had been put together wrong. Beneath the cracks, the disjointed body of a Visbane was revealed.\nA string of incorrect code began to squirm, and sharp objects drawn from the darkness with both malice and madness came to slash down the young woman's delicate face.\nThe black coffin quickly transformed and rushed to the monster before it could fully mutate. Like a heavy shield, it forced the attacking monster back into a corner.\n\"The new defense system works, Miss Hel.\"\nThe woman nodded, reactivated her Divine Grace, and pointed the gun at the monster. Curling flames lit up the room, and dark purple energy poured out, engulfing the monster from head to toe.\nThen, everything went quiet, and the small woman waved her arms in her sleeves, holding her Access Key tightly in her hands. She strained her little legs slightly, and sat herself up on the side of the heavy, black coffin.\nPeople who made trouble for no reason, people who said the vilest things, and people who begged for their lives. Before they turned into monsters, all of these people, without exception, would glare at Hel with those bloodshot eyes full of hate.\n...\nBut scenes like this were an everyday occurrence for girls like her dealing with the Encroacher Types.\nThe cold, empty streets were covered with a white fog, and the chiming of a distant church sounded like a death knell.\nShe knew that those things could no longer be considered human, but the cold road back from doing her job still felt exceptionally bitter. Hel crossed her arms in her sleeves, trying to ease the fatigue of battle with their warmth.\nShe should have left to find her next target, but something made her turn her head. Behind her, a little girl was having her memories erased... a picture of the young woman held in her hands.\nMaybe she was lucky to forget all those painful memories... but she had to forget all the past joys as well, as if nothing had happened in the first place.\nFlesh and blood, feelings, memories... The darkness in the world swallowed everything it touched.\nAnd if the darkness was going to swallow everything, if everything was soon to be lost anyway, then what should they do?\n\"Never have anything to start with.\" That used to be her answer, but since arriving at Aether Gazer, Hel couldn't help feeling that there was a better answer to be found.\nBack from her duties, Hel sat by the window, replaying the question in her mind as she started taking the small box from Ganglati.\n\"What's on your mind, Miss Hel?\"\n\"Ganglati, is it better to never have something in the first place, if you're just going to lose it anyway?\"\n\"I'm sorry, but I'm just an ordinary Access Key interface, so I'm not really capable of answering such a complex question. That said, I'm better at understanding people than most, and my guess is that that \"something\" is something you need right now.\"\nSomewhere to the side of Ganglati, a dark square opened and a small, black box popped out.\nIgnoring the black coffin as it continued mumbling proudly to itself, Hel's pale hands clutched the box in her arms and slowly opened it.\nThis is where she stored the things that were important to her or that she found beautiful, things like her butterfly, her cat toy, her crystal, and more.\nThe cheap, man-made crystal reflected the clear moonlight, the butterfly hairpin that hadn't been worn for a long time sat quietly next to it, and now that it was fixed, the black cat had stopped shaking. When she held it in her arms, Hel felt just a bit warmer.\nUnder the dark night sky, the young woman's daily duties were about to start once more.",
+        "task_desc": "In Main Story 4-12: Strongest Creation (Normal), defeat Kusherfang by yourself with Darkstar - Hel, use Execution at least 1 time during the battle, and clear the stage.",
+        "id": 1094,
+        "condition": [
+            [
+                50001,
+                50002,
+                51094
+            ],
+            [],
+            [
+                50003
+            ]
+        ],
+        "condition_source": [
+            [
+                [
+                    203,
+                    1094
+                ],
+                [
+                    208,
+                    1094
+                ],
+                [
+                    231,
+                    1094
+                ]
+            ],
+            [],
+            [
+                [
+                    204,
+                    1094
+                ]
+            ]
+        ],
+        "cost": [
+            [
+                [
+                    40504,
+                    30
+                ],
+                [
+                    2,
+                    50000
+                ],
+                [
+                    41501,
+                    10
+                ],
+                [
+                    81094,
+                    5
+                ]
+            ],
+            [
+                [
+                    40203,
+                    30
+                ],
+                [
+                    2,
+                    150000
+                ],
+                [
+                    41501,
+                    20
+                ],
+                [
+                    81094,
+                    10
+                ]
+            ],
+            [
+                [
+                    40203,
+                    50
+                ],
+                [
+                    2,
+                    200000
+                ],
+                [
+                    41501,
+                    30
+                ],
+                [
+                    81094,
+                    15
+                ]
+            ]
+        ],
+        "skill": [
+            [
+                109421,
+                109422,
+                109423,
+                109424
+            ],
+            [
+                109431,
+                109432,
+                109433,
+                109434
+            ],
+            [
+                109441
+            ]
+        ],
+        "source": [
+            309,
+            10104,
+            1010412
+        ]
+    },
     "all": [
         1084,
         1050,
@@ -3556,6 +3793,8 @@
         1139,
         1184,
         1033,
-        1042
+        1042,
+        1024,
+        1094
     ]
 }

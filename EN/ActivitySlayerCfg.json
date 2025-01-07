@@ -501,6 +501,110 @@
             "Extra Effect 4: Refreshes all buffs above."
         ]
     },
+    "291151": {
+        "name": "Short-Range Help I",
+        "stage_id": 5200301,
+        "activity_id": 291151,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Gains more Traces. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Reduces Dodge cost.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "291152": {
+        "name": "Short-Range Help \u2160I",
+        "stage_id": 5200302,
+        "activity_id": 291152,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Gains more Traces. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit DMG. Reduces Dodge cost.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "291153": {
+        "name": "Routine Help I",
+        "stage_id": 5200303,
+        "activity_id": 291153,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Reduces Rage cost. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Increases DMG dealt to normal enemies.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "291154": {
+        "name": "Routine Help I",
+        "stage_id": 5200304,
+        "activity_id": 291154,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Reduces Rage cost. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Increases Crit DMG. Increases DMG dealt to elite enemies.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "291155": {
+        "name": "High-Risk Help I",
+        "stage_id": 5200305,
+        "activity_id": 291155,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Increases Divine Grace charge speed. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Increases Normal Attack DMG.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "291156": {
+        "name": "High-Risk Help II",
+        "stage_id": 5200306,
+        "activity_id": 291156,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Increases Divine Grace charge speed. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit Rate. Increases Normal Attack DMG. Increases Skill DMG.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "291157": {
+        "name": "Critical Help I",
+        "stage_id": 5200307,
+        "activity_id": 291157,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Reduces Energy cost. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit DMG. Increases Ultimate Skill charge speed.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
+    "291158": {
+        "name": "Critical Help II",
+        "stage_id": 5200308,
+        "activity_id": 291158,
+        "icon": "",
+        "buff_desc": [
+            "Initial Effect: Resets and shortens skill CD. Increases ATK. Reduces Energy cost. Restores HP continuously.",
+            "Extra Effect 1: Increases Crit DMG. Increases Ultimate Skill charge speed. Increases Ultimate Skill DMG.",
+            "Extra Effect 2: Gains Super Armor.",
+            "Extra Effect 3: Restores Combat Resources to max.",
+            "Extra Effect 4: Refreshes all buffs above."
+        ]
+    },
     "all": [
         61091,
         61092,
@@ -539,6 +643,14 @@
         191155,
         191156,
         191157,
-        191158
+        191158,
+        291151,
+        291152,
+        291153,
+        291154,
+        291155,
+        291156,
+        291157,
+        291158
     ]
 }

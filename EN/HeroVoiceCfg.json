@@ -5,7 +5,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Login Greeting"
+        "title": "Login Greeting",
+        "tag_id": 4
     },
     "1012": {
         "id": 1012,
@@ -13,7 +14,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Login Greeting 2"
+        "title": "Login Greeting 2",
+        "tag_id": 4
     },
     "1013": {
         "id": 1013,
@@ -21,7 +23,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Login Greeting 3"
+        "title": "Login Greeting 3",
+        "tag_id": 4
     },
     "1014": {
         "id": 1014,
@@ -29,7 +32,26 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Login Greeting 2_2"
+        "title": "Login Greeting 2_2",
+        "tag_id": 4
+    },
+    "101101": {
+        "id": 101101,
+        "file": "greet_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Login Greeting 1",
+        "tag_id": 3
+    },
+    "101102": {
+        "id": 101102,
+        "file": "greet_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Login Greeting 2",
+        "tag_id": 3
     },
     "1021": {
         "id": 1021,
@@ -37,7 +59,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Character Selection"
+        "title": "Character Selection",
+        "tag_id": 1
     },
     "1031": {
         "id": 1031,
@@ -45,7 +68,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Character Obtained"
+        "title": "Character Obtained",
+        "tag_id": 2
     },
     "1041": {
         "id": 1041,
@@ -53,7 +77,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Added to Team"
+        "title": "Added to Team",
+        "tag_id": 1
     },
     "1051": {
         "id": 1051,
@@ -61,7 +86,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Set as Team Leader"
+        "title": "Set as Team Leader",
+        "tag_id": 1
     },
     "1061": {
         "id": 1061,
@@ -69,7 +95,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "EXP Increased"
+        "title": "EXP Increased",
+        "tag_id": 2
     },
     "1071": {
         "id": 1071,
@@ -77,7 +104,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 3021,
-        "title": "Transcendence 1"
+        "title": "Transcendence 1",
+        "tag_id": 2
     },
     "1081": {
         "id": 1081,
@@ -85,7 +113,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 3022,
-        "title": "Transcendence 2"
+        "title": "Transcendence 2",
+        "tag_id": 2
     },
     "1091": {
         "id": 1091,
@@ -93,7 +122,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 3023,
-        "title": "Transcendence 3"
+        "title": "Transcendence 3",
+        "tag_id": 2
     },
     "1101": {
         "id": 1101,
@@ -101,7 +131,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Skill Upgraded"
+        "title": "Skill Upgraded",
+        "tag_id": 2
     },
     "1111": {
         "id": 1111,
@@ -109,7 +140,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Functor Equipped"
+        "title": "Functor Equipped",
+        "tag_id": 2
     },
     "1121": {
         "id": 1121,
@@ -117,7 +149,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Code Imprint"
+        "title": "Code Imprint",
+        "tag_id": 2
     },
     "1131": {
         "id": 1131,
@@ -125,7 +158,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Appointed as Assistant"
+        "title": "Appointed as Assistant",
+        "tag_id": 4
     },
     "1141": {
         "id": 1141,
@@ -133,7 +167,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Interaction 1"
+        "title": "Interaction 1",
+        "tag_id": 4
     },
     "114102": {
         "id": 114102,
@@ -141,7 +176,8 @@
         "use_skin_id": 107602,
         "type": 1,
         "unlock_condition": 101701,
-        "title": "Whispering Waves Dialogue 1"
+        "title": "Whispering Waves Dialogue 1",
+        "tag_id": 3
     },
     "114103": {
         "id": 114103,
@@ -149,7 +185,8 @@
         "use_skin_id": 109304,
         "type": 1,
         "unlock_condition": 101702,
-        "title": "Personal Care Time Dialogue 1"
+        "title": "Personal Care Time Dialogue 1",
+        "tag_id": 3
     },
     "114104": {
         "id": 114104,
@@ -157,7 +194,8 @@
         "use_skin_id": 107501,
         "type": 1,
         "unlock_condition": 101703,
-        "title": "The Reanimated Dialogue 1"
+        "title": "The Reanimated Dialogue 1",
+        "tag_id": 3
     },
     "114105": {
         "id": 114105,
@@ -165,7 +203,8 @@
         "use_skin_id": 106101,
         "type": 1,
         "unlock_condition": 101704,
-        "title": "Cloud and Mist Dialogue 1"
+        "title": "Cloud and Mist Dialogue 1",
+        "tag_id": 3
     },
     "114106": {
         "id": 114106,
@@ -173,7 +212,8 @@
         "use_skin_id": 111102,
         "type": 1,
         "unlock_condition": 101705,
-        "title": "Dragon Chant Dialogue 1"
+        "title": "Dragon Chant Dialogue 1",
+        "tag_id": 3
     },
     "114107": {
         "id": 114107,
@@ -181,7 +221,8 @@
         "use_skin_id": 109501,
         "type": 1,
         "unlock_condition": 101706,
-        "title": "Poem of Eventide Dialogue 1"
+        "title": "Poem of Eventide Dialogue 1",
+        "tag_id": 3
     },
     "114108": {
         "id": 114108,
@@ -189,7 +230,8 @@
         "use_skin_id": 107502,
         "type": 1,
         "unlock_condition": 101707,
-        "title": "Yearning of a Dancing Sunset Dialogue 1"
+        "title": "Yearning of a Dancing Sunset Dialogue 1",
+        "tag_id": 3
     },
     "114109": {
         "id": 114109,
@@ -197,7 +239,8 @@
         "use_skin_id": 107601,
         "type": 1,
         "unlock_condition": 101708,
-        "title": "All Business Dialogue 1"
+        "title": "All Business Dialogue 1",
+        "tag_id": 3
     },
     "114110": {
         "id": 114110,
@@ -205,7 +248,8 @@
         "use_skin_id": 107402,
         "type": 1,
         "unlock_condition": 101709,
-        "title": "Efficiency First Dialogue 1"
+        "title": "Efficiency First Dialogue 1",
+        "tag_id": 3
     },
     "114111": {
         "id": 114111,
@@ -213,7 +257,17 @@
         "use_skin_id": 119701,
         "type": 1,
         "unlock_condition": 101710,
-        "title": "Sleepwalker Dialogue 1"
+        "title": "Sleepwalker Dialogue 1",
+        "tag_id": 3
+    },
+    "114112": {
+        "id": 114112,
+        "file": "talk1",
+        "use_skin_id": 104902,
+        "type": 1,
+        "unlock_condition": 101711,
+        "title": "That First Glimmer of Light Dialogue 1",
+        "tag_id": 3
     },
     "114113": {
         "id": 114113,
@@ -221,7 +275,44 @@
         "use_skin_id": 113907,
         "type": 1,
         "unlock_condition": 101712,
-        "title": "Gentle Echo Outfit Dialog 1"
+        "title": "Gentle Echo Outfit Dialog 1",
+        "tag_id": 3
+    },
+    "114114": {
+        "id": 114114,
+        "file": "talk1",
+        "use_skin_id": 102201,
+        "type": 1,
+        "unlock_condition": 101713,
+        "title": "Amid Moonlight Outfit Dialog 1",
+        "tag_id": 3
+    },
+    "114115": {
+        "id": 114115,
+        "file": "talk1",
+        "use_skin_id": 102101,
+        "type": 1,
+        "unlock_condition": 101714,
+        "title": "Maiden's Daydream Outfit Talk 1",
+        "tag_id": 3
+    },
+    "114116": {
+        "id": 114116,
+        "file": "talk1",
+        "use_skin_id": 102001,
+        "type": 1,
+        "unlock_condition": 101715,
+        "title": "Veiled Dreams Outfit Talk 1",
+        "tag_id": 3
+    },
+    "114117": {
+        "id": 114117,
+        "file": "talk1",
+        "use_skin_id": 108901,
+        "type": 1,
+        "unlock_condition": 101716,
+        "title": "When the City Lights Up Outfit Talk 1",
+        "tag_id": 3
     },
     "1151": {
         "id": 1151,
@@ -229,7 +320,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Interaction 2"
+        "title": "Interaction 2",
+        "tag_id": 4
     },
     "115102": {
         "id": 115102,
@@ -237,7 +329,8 @@
         "use_skin_id": 107602,
         "type": 1,
         "unlock_condition": 101701,
-        "title": "Whispering Waves Dialogue 2"
+        "title": "Whispering Waves Dialogue 2",
+        "tag_id": 3
     },
     "115103": {
         "id": 115103,
@@ -245,7 +338,8 @@
         "use_skin_id": 109304,
         "type": 1,
         "unlock_condition": 101702,
-        "title": "Personal Care Time Dialogue 2"
+        "title": "Personal Care Time Dialogue 2",
+        "tag_id": 3
     },
     "115104": {
         "id": 115104,
@@ -253,7 +347,8 @@
         "use_skin_id": 107501,
         "type": 1,
         "unlock_condition": 101703,
-        "title": "The Reanimated Dialogue 2"
+        "title": "The Reanimated Dialogue 2",
+        "tag_id": 3
     },
     "115105": {
         "id": 115105,
@@ -261,7 +356,8 @@
         "use_skin_id": 106101,
         "type": 1,
         "unlock_condition": 101704,
-        "title": "Cloud and Mist Dialogue 2"
+        "title": "Cloud and Mist Dialogue 2",
+        "tag_id": 3
     },
     "115106": {
         "id": 115106,
@@ -269,7 +365,8 @@
         "use_skin_id": 111102,
         "type": 1,
         "unlock_condition": 101705,
-        "title": "Dragon Chant Dialogue 2"
+        "title": "Dragon Chant Dialogue 2",
+        "tag_id": 3
     },
     "115107": {
         "id": 115107,
@@ -277,7 +374,8 @@
         "use_skin_id": 109501,
         "type": 1,
         "unlock_condition": 101706,
-        "title": "Poem of Eventide Dialogue 2"
+        "title": "Poem of Eventide Dialogue 2",
+        "tag_id": 3
     },
     "115108": {
         "id": 115108,
@@ -285,7 +383,8 @@
         "use_skin_id": 107502,
         "type": 1,
         "unlock_condition": 101707,
-        "title": "Yearning of a Dancing Sunset Dialogue 2"
+        "title": "Yearning of a Dancing Sunset Dialogue 2",
+        "tag_id": 3
     },
     "115109": {
         "id": 115109,
@@ -293,7 +392,8 @@
         "use_skin_id": 107601,
         "type": 1,
         "unlock_condition": 101708,
-        "title": "All Business Dialogue 2"
+        "title": "All Business Dialogue 2",
+        "tag_id": 3
     },
     "115110": {
         "id": 115110,
@@ -301,7 +401,8 @@
         "use_skin_id": 107402,
         "type": 1,
         "unlock_condition": 101709,
-        "title": "Efficiency First Dialogue 2"
+        "title": "Efficiency First Dialogue 2",
+        "tag_id": 3
     },
     "115111": {
         "id": 115111,
@@ -309,7 +410,17 @@
         "use_skin_id": 119701,
         "type": 1,
         "unlock_condition": 101710,
-        "title": "Sleepwalker Dialogue 2"
+        "title": "Sleepwalker Dialogue 2",
+        "tag_id": 3
+    },
+    "115112": {
+        "id": 115112,
+        "file": "talk2",
+        "use_skin_id": 104902,
+        "type": 1,
+        "unlock_condition": 101711,
+        "title": "That First Glimmer of Light Dialogue 2",
+        "tag_id": 3
     },
     "115113": {
         "id": 115113,
@@ -317,7 +428,44 @@
         "use_skin_id": 113907,
         "type": 1,
         "unlock_condition": 101712,
-        "title": "Gentle Echo Outfit Talk 2"
+        "title": "Gentle Echo Outfit Talk 2",
+        "tag_id": 3
+    },
+    "115114": {
+        "id": 115114,
+        "file": "talk2",
+        "use_skin_id": 102201,
+        "type": 1,
+        "unlock_condition": 101713,
+        "title": "Amid Moonlight Outfit Dialog 2",
+        "tag_id": 3
+    },
+    "115115": {
+        "id": 115115,
+        "file": "talk2",
+        "use_skin_id": 102101,
+        "type": 1,
+        "unlock_condition": 101714,
+        "title": "Maiden's Daydream Outfit Talk 2",
+        "tag_id": 3
+    },
+    "115116": {
+        "id": 115116,
+        "file": "talk2",
+        "use_skin_id": 102001,
+        "type": 1,
+        "unlock_condition": 101715,
+        "title": "Veiled Dreams Outfit Talk 2",
+        "tag_id": 3
+    },
+    "115117": {
+        "id": 115117,
+        "file": "talk2",
+        "use_skin_id": 108901,
+        "type": 1,
+        "unlock_condition": 101716,
+        "title": "When the City Lights Up Outfit Talk 2",
+        "tag_id": 3
     },
     "1161": {
         "id": 1161,
@@ -325,7 +473,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 3001,
-        "title": "Interaction 3"
+        "title": "Interaction 3",
+        "tag_id": 4
     },
     "116101": {
         "id": 116101,
@@ -333,7 +482,8 @@
         "use_skin_id": 107602,
         "type": 1,
         "unlock_condition": 101701,
-        "title": "Whispering Waves Dialogue 3"
+        "title": "Whispering Waves Dialogue 3",
+        "tag_id": 3
     },
     "1162": {
         "id": 1162,
@@ -341,7 +491,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Interaction 4"
+        "title": "Interaction 4",
+        "tag_id": 4
     },
     "1163": {
         "id": 1163,
@@ -349,7 +500,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Interaction 5"
+        "title": "Interaction 5",
+        "tag_id": 4
     },
     "1164": {
         "id": 1164,
@@ -357,7 +509,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Interaction 2_2"
+        "title": "Interaction 2_2",
+        "tag_id": 4
     },
     "1165": {
         "id": 1165,
@@ -365,7 +518,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Interaction 3_2"
+        "title": "Interaction 3_2",
+        "tag_id": 4
     },
     "1171": {
         "id": 1171,
@@ -373,7 +527,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Idle"
+        "title": "Idle",
+        "tag_id": 4
     },
     "117102": {
         "id": 117102,
@@ -381,7 +536,152 @@
         "use_skin_id": 107602,
         "type": 1,
         "unlock_condition": 101701,
-        "title": "Whispering Waves (Idle)"
+        "title": "Whispering Waves (Idle)",
+        "tag_id": 3
+    },
+    "117103": {
+        "id": 117103,
+        "file": "idle_sofa01_1_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Idle 1",
+        "tag_id": 3
+    },
+    "117104": {
+        "id": 117104,
+        "file": "idle_sofa01_2_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Idle 2",
+        "tag_id": 3
+    },
+    "117105": {
+        "id": 117105,
+        "file": "idle_sofa02_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Idle 3",
+        "tag_id": 3
+    },
+    "117106": {
+        "id": 117106,
+        "file": "idle_shelf01_1_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Idle 4",
+        "tag_id": 3
+    },
+    "117107": {
+        "id": 117107,
+        "file": "idle_shelf01_2_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Idle 5",
+        "tag_id": 3
+    },
+    "117108": {
+        "id": 117108,
+        "file": "idle_bed01_1_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Idle 6",
+        "tag_id": 3
+    },
+    "117109": {
+        "id": 117109,
+        "file": "idle_bed01_2_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Idle 7",
+        "tag_id": 3
+    },
+    "117110": {
+        "id": 117110,
+        "file": "idle_bed02_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Idle 8",
+        "tag_id": 3
+    },
+    "117111": {
+        "id": 117111,
+        "file": "idle_bed01_1_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Idle 9",
+        "tag_id": 3
+    },
+    "117112": {
+        "id": 117112,
+        "file": "idle_bed01_2_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Idle 10",
+        "tag_id": 3
+    },
+    "117113": {
+        "id": 117113,
+        "file": "idle_bed02_1_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Idle 11",
+        "tag_id": 3
+    },
+    "117114": {
+        "id": 117114,
+        "file": "idle_bed02_2_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Idle 12",
+        "tag_id": 3
+    },
+    "117115": {
+        "id": 117115,
+        "file": "idle_sofa01_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Idle 13",
+        "tag_id": 3
+    },
+    "117116": {
+        "id": 117116,
+        "file": "idle_sofa02_1_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Idle 14",
+        "tag_id": 3
+    },
+    "117117": {
+        "id": 117117,
+        "file": "idle_sofa02_2_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Idle 15",
+        "tag_id": 3
+    },
+    "117118": {
+        "id": 117118,
+        "file": "idle_window_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Idle 16",
+        "tag_id": 3
     },
     "1172": {
         "id": 1172,
@@ -389,7 +689,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Idle 2"
+        "title": "Idle 2",
+        "tag_id": 4
     },
     "1173": {
         "id": 1173,
@@ -397,7 +698,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Idle 3"
+        "title": "Idle 3",
+        "tag_id": 4
     },
     "1174": {
         "id": 1174,
@@ -405,7 +707,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Idle 2_2"
+        "title": "Idle 2_2",
+        "tag_id": 4
     },
     "1181": {
         "id": 1181,
@@ -413,7 +716,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Quick Taps"
+        "title": "Quick Taps",
+        "tag_id": 4
     },
     "118102": {
         "id": 118102,
@@ -421,7 +725,8 @@
         "use_skin_id": 107602,
         "type": 1,
         "unlock_condition": 101701,
-        "title": "Whispering Waves (Tap)"
+        "title": "Whispering Waves (Tap)",
+        "tag_id": 3
     },
     "1191": {
         "id": 1191,
@@ -429,7 +734,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Shaking Device"
+        "title": "Shaking Device",
+        "tag_id": 4
     },
     "119102": {
         "id": 119102,
@@ -437,7 +743,8 @@
         "use_skin_id": 107602,
         "type": 1,
         "unlock_condition": 101701,
-        "title": "Whispering Waves (Shake)"
+        "title": "Whispering Waves (Shake)",
+        "tag_id": 3
     },
     "1201": {
         "id": 1201,
@@ -445,7 +752,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Gift Received"
+        "title": "Gift Received",
+        "tag_id": 5
     },
     "1211": {
         "id": 1211,
@@ -453,7 +761,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 101601,
-        "title": "Heart Link Talk 1"
+        "title": "Heart Link Talk 1",
+        "tag_id": 5
     },
     "1221": {
         "id": 1221,
@@ -461,7 +770,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 101602,
-        "title": "Heart Link Talk 2"
+        "title": "Heart Link Talk 2",
+        "tag_id": 5
     },
     "1231": {
         "id": 1231,
@@ -469,7 +779,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 101603,
-        "title": "Heart Link Talk 3"
+        "title": "Heart Link Talk 3",
+        "tag_id": 5
     },
     "1241": {
         "id": 1241,
@@ -477,7 +788,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 101604,
-        "title": "Heart Link Talk 4"
+        "title": "Heart Link Talk 4",
+        "tag_id": 5
     },
     "1251": {
         "id": 1251,
@@ -485,7 +797,215 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 101605,
-        "title": "Heart Link Talk 5"
+        "title": "Heart Link Talk 5",
+        "tag_id": 5
+    },
+    "1261": {
+        "id": 1261,
+        "file": "touch",
+        "use_skin_id": 0,
+        "type": 1,
+        "unlock_condition": 0,
+        "title": "T0 Outfit Interaction",
+        "tag_id": 3
+    },
+    "126102": {
+        "id": 126102,
+        "file": "touch_sofa01_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Interaction 1",
+        "tag_id": 3
+    },
+    "126103": {
+        "id": 126103,
+        "file": "touch_sofa02_1_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Interaction 2",
+        "tag_id": 3
+    },
+    "126104": {
+        "id": 126104,
+        "file": "touch_sofa02_2_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Interaction 3",
+        "tag_id": 3
+    },
+    "126105": {
+        "id": 126105,
+        "file": "touch_sofa03_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Interaction 4",
+        "tag_id": 3
+    },
+    "126106": {
+        "id": 126106,
+        "file": "touch_bed01_1_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Interaction 5",
+        "tag_id": 3
+    },
+    "126107": {
+        "id": 126107,
+        "file": "touch_bed01_2_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Interaction 6",
+        "tag_id": 3
+    },
+    "126108": {
+        "id": 126108,
+        "file": "touch_bed02_1_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Interaction 7",
+        "tag_id": 3
+    },
+    "126109": {
+        "id": 126109,
+        "file": "touch_bed02_2_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Interaction 8",
+        "tag_id": 3
+    },
+    "126110": {
+        "id": 126110,
+        "file": "touch_shelf01_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Interaction 9",
+        "tag_id": 3
+    },
+    "126111": {
+        "id": 126111,
+        "file": "touch_shelf02_1_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Interaction 10",
+        "tag_id": 3
+    },
+    "126112": {
+        "id": 126112,
+        "file": "touch_shelf02_2_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Interaction 11",
+        "tag_id": 3
+    },
+    "126113": {
+        "id": 126113,
+        "file": "touch_sofa01_1_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Interaction 12",
+        "tag_id": 3
+    },
+    "126114": {
+        "id": 126114,
+        "file": "touch_sofa01_2_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Interaction 13",
+        "tag_id": 3
+    },
+    "126115": {
+        "id": 126115,
+        "file": "touch_sofa02_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Interaction 14",
+        "tag_id": 3
+    },
+    "126116": {
+        "id": 126116,
+        "file": "touch_bed01_1_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Interaction 15",
+        "tag_id": 3
+    },
+    "126117": {
+        "id": 126117,
+        "file": "touch_bed01_2_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Interaction 16",
+        "tag_id": 3
+    },
+    "126118": {
+        "id": 126118,
+        "file": "touch_bed02_1_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Interaction 17",
+        "tag_id": 3
+    },
+    "126119": {
+        "id": 126119,
+        "file": "touch_bed02_2_day",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Nighttime Romance Interaction 18",
+        "tag_id": 3
+    },
+    "126120": {
+        "id": 126120,
+        "file": "touch_window01_1_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Interaction 19",
+        "tag_id": 3
+    },
+    "126121": {
+        "id": 126121,
+        "file": "touch_window01_2_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Interaction 20",
+        "tag_id": 3
+    },
+    "126122": {
+        "id": 126122,
+        "file": "touch_window02_1_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Interaction 21",
+        "tag_id": 3
+    },
+    "126123": {
+        "id": 126123,
+        "file": "touch_window02_2_night",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Nighttime Romance Interaction 22",
+        "tag_id": 3
     },
     "1301": {
         "id": 1301,
@@ -493,7 +1013,8 @@
         "use_skin_id": 0,
         "type": 1,
         "unlock_condition": 0,
-        "title": "Outfit Changed"
+        "title": "Outfit Changed",
+        "tag_id": 3
     },
     "1401": {
         "id": 1401,
@@ -501,7 +1022,8 @@
         "use_skin_id": 107602,
         "type": 1,
         "unlock_condition": 101701,
-        "title": "Go to Ship's Rail"
+        "title": "Go to Ship's Rail",
+        "tag_id": 3
     },
     "1402": {
         "id": 1402,
@@ -509,7 +1031,44 @@
         "use_skin_id": 107602,
         "type": 1,
         "unlock_condition": 101701,
-        "title": "Go to Bar Counter"
+        "title": "Go to Bar Counter",
+        "tag_id": 3
+    },
+    "140101": {
+        "id": 140101,
+        "file": "enter1",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Go Left",
+        "tag_id": 3
+    },
+    "140201": {
+        "id": 140201,
+        "file": "enter2",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101717,
+        "title": "Go Right",
+        "tag_id": 3
+    },
+    "140102": {
+        "id": 140102,
+        "file": "enter3",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Go Left",
+        "tag_id": 3
+    },
+    "140202": {
+        "id": 140202,
+        "file": "enter4",
+        "use_skin_id": 109502,
+        "type": 1,
+        "unlock_condition": 101718,
+        "title": "Go Right",
+        "tag_id": 3
     },
     "2011": {
         "id": 2011,
@@ -517,7 +1076,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Entered the Fight"
+        "title": "Entered the Fight",
+        "tag_id": 6
     },
     "2012": {
         "id": 2012,
@@ -525,7 +1085,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Entered the Fight 2"
+        "title": "Entered the Fight 2",
+        "tag_id": 6
     },
     "2021": {
         "id": 2021,
@@ -533,7 +1094,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "In Combat 1"
+        "title": "In Combat 1",
+        "tag_id": 6
     },
     "2031": {
         "id": 2031,
@@ -541,7 +1103,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "In Combat 2"
+        "title": "In Combat 2",
+        "tag_id": 6
     },
     "2041": {
         "id": 2041,
@@ -549,7 +1112,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "In Combat 3"
+        "title": "In Combat 3",
+        "tag_id": 6
     },
     "2051": {
         "id": 2051,
@@ -557,7 +1121,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Low HP"
+        "title": "Low HP",
+        "tag_id": 6
     },
     "2061": {
         "id": 2061,
@@ -565,7 +1130,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Exhausted"
+        "title": "Exhausted",
+        "tag_id": 6
     },
     "2071": {
         "id": 2071,
@@ -573,7 +1139,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Standby"
+        "title": "Standby",
+        "tag_id": 6
     },
     "2081": {
         "id": 2081,
@@ -581,7 +1148,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Monster Defeated 1"
+        "title": "Monster Defeated 1",
+        "tag_id": 6
     },
     "2091": {
         "id": 2091,
@@ -589,7 +1157,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Monster Defeated 2"
+        "title": "Monster Defeated 2",
+        "tag_id": 6
     },
     "2101": {
         "id": 2101,
@@ -597,7 +1166,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Victory"
+        "title": "Victory",
+        "tag_id": 6
     },
     "2102": {
         "id": 2102,
@@ -605,7 +1175,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Victory 2"
+        "title": "Victory 2",
+        "tag_id": 6
     },
     "2103": {
         "id": 2103,
@@ -613,7 +1184,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Victory 2"
+        "title": "Victory 2",
+        "tag_id": 6
     },
     "2111": {
         "id": 2111,
@@ -621,7 +1193,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Core Skill"
+        "title": "Core Skill",
+        "tag_id": 6
     },
     "2112": {
         "id": 2112,
@@ -629,7 +1202,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Core Skill 2"
+        "title": "Core Skill 2",
+        "tag_id": 6
     },
     "2113": {
         "id": 2113,
@@ -637,7 +1211,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Core Skill 3"
+        "title": "Core Skill 3",
+        "tag_id": 6
     },
     "2121": {
         "id": 2121,
@@ -645,7 +1220,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Modifier's Combat Resources Full"
+        "title": "Modifier's Combat Resources Full",
+        "tag_id": 6
     },
     "2131": {
         "id": 2131,
@@ -653,7 +1229,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Ultimate Skill Ready"
+        "title": "Ultimate Skill Ready",
+        "tag_id": 6
     },
     "2141": {
         "id": 2141,
@@ -661,7 +1238,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Modifier Using Ultimate Skill"
+        "title": "Modifier Using Ultimate Skill",
+        "tag_id": 6
     },
     "2142": {
         "id": 2142,
@@ -669,7 +1247,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Modifier Using Ultimate Skill 2"
+        "title": "Modifier Using Ultimate Skill 2",
+        "tag_id": 6
     },
     "2151": {
         "id": 2151,
@@ -677,7 +1256,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Extremity Dodge"
+        "title": "Extremity Dodge",
+        "tag_id": 6
     },
     "2161": {
         "id": 2161,
@@ -685,7 +1265,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Entered Modified Mode"
+        "title": "Entered Modified Mode",
+        "tag_id": 6
     },
     "2171": {
         "id": 2171,
@@ -693,7 +1274,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Low HP Reminder (Teammate)"
+        "title": "Low HP Reminder (Teammate)",
+        "tag_id": 6
     },
     "2181": {
         "id": 2181,
@@ -701,7 +1283,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Ultimate Skill Ready (Teammate)"
+        "title": "Ultimate Skill Ready (Teammate)",
+        "tag_id": 6
     },
     "2191": {
         "id": 2191,
@@ -709,7 +1292,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Entered Modified Mode (Teammate)"
+        "title": "Entered Modified Mode (Teammate)",
+        "tag_id": 6
     },
     "2201": {
         "id": 2201,
@@ -717,7 +1301,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Enemy Appeared"
+        "title": "Enemy Appeared",
+        "tag_id": 6
     },
     "2202": {
         "id": 2202,
@@ -725,7 +1310,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Strong Enemy Appearance"
+        "title": "Strong Enemy Appearance",
+        "tag_id": 6
     },
     "2211": {
         "id": 2211,
@@ -733,7 +1319,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Buff Obtained"
+        "title": "Buff Obtained",
+        "tag_id": 6
     },
     "2221": {
         "id": 2221,
@@ -741,7 +1328,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Recover HP"
+        "title": "Recover HP",
+        "tag_id": 6
     },
     "2231": {
         "id": 2231,
@@ -749,7 +1337,8 @@
         "use_skin_id": 0,
         "type": 2,
         "unlock_condition": 0,
-        "title": "Quick Recover"
+        "title": "Quick Recover",
+        "tag_id": 6
     },
     "get_id_list_by_file": {
         "down": [
@@ -842,14 +1431,91 @@
         "appear": [
             2011
         ],
+        "enter4": [
+            140202
+        ],
+        "enter3": [
+            140102
+        ],
         "enter2": [
-            1402
+            1402,
+            140201
         ],
         "enter1": [
-            1401
+            1401,
+            140101
         ],
         "cloth": [
             1301
+        ],
+        "touch_window02_2_night": [
+            126123
+        ],
+        "touch_window02_1_night": [
+            126122
+        ],
+        "touch_window01_2_night": [
+            126121
+        ],
+        "touch_window01_1_night": [
+            126120
+        ],
+        "touch_bed02_2_day": [
+            126119
+        ],
+        "touch_bed02_1_day": [
+            126118
+        ],
+        "touch_bed01_2_day": [
+            126117
+        ],
+        "touch_bed01_1_day": [
+            126116
+        ],
+        "touch_sofa02_night": [
+            126115
+        ],
+        "touch_sofa01_2_night": [
+            126114
+        ],
+        "touch_sofa01_1_night": [
+            126113
+        ],
+        "touch_shelf02_2_day": [
+            126112
+        ],
+        "touch_shelf02_1_day": [
+            126111
+        ],
+        "touch_shelf01_day": [
+            126110
+        ],
+        "touch_bed02_2_night": [
+            126109
+        ],
+        "touch_bed02_1_night": [
+            126108
+        ],
+        "touch_bed01_2_night": [
+            126107
+        ],
+        "touch_bed01_1_night": [
+            126106
+        ],
+        "touch_sofa03_day": [
+            126105
+        ],
+        "touch_sofa02_2_day": [
+            126104
+        ],
+        "touch_sofa02_1_day": [
+            126103
+        ],
+        "touch_sofa01_day": [
+            126102
+        ],
+        "touch": [
+            1261
         ],
         "trust5": [
             1251
@@ -886,6 +1552,54 @@
         "idle2": [
             1172
         ],
+        "idle_window_night": [
+            117118
+        ],
+        "idle_sofa02_2_night": [
+            117117
+        ],
+        "idle_sofa02_1_night": [
+            117116
+        ],
+        "idle_sofa01_night": [
+            117115
+        ],
+        "idle_bed02_2_night": [
+            117114
+        ],
+        "idle_bed02_1_night": [
+            117113
+        ],
+        "idle_bed01_2_night": [
+            117112
+        ],
+        "idle_bed01_1_night": [
+            117111
+        ],
+        "idle_bed02_day": [
+            117110
+        ],
+        "idle_bed01_2_day": [
+            117109
+        ],
+        "idle_bed01_1_day": [
+            117108
+        ],
+        "idle_shelf01_2_day": [
+            117107
+        ],
+        "idle_shelf01_1_day": [
+            117106
+        ],
+        "idle_sofa02_day": [
+            117105
+        ],
+        "idle_sofa01_2_day": [
+            117104
+        ],
+        "idle_sofa01_1_day": [
+            117103
+        ],
         "idle": [
             1171,
             117102
@@ -920,7 +1634,12 @@
             115109,
             115110,
             115111,
-            115113
+            115112,
+            115113,
+            115114,
+            115115,
+            115116,
+            115117
         ],
         "talk1": [
             1141,
@@ -934,7 +1653,12 @@
             114109,
             114110,
             114111,
-            114113
+            114112,
+            114113,
+            114114,
+            114115,
+            114116,
+            114117
         ],
         "assistant": [
             1131
@@ -972,6 +1696,12 @@
         "choose": [
             1021
         ],
+        "greet_night": [
+            101102
+        ],
+        "greet_day": [
+            101101
+        ],
         "greet202": [
             1014
         ],
@@ -985,11 +1715,176 @@
             1011
         ]
     },
+    "get_id_list_by_tag_id": [
+        [
+            1021,
+            1041,
+            1051
+        ],
+        [
+            1031,
+            1061,
+            1071,
+            1081,
+            1091,
+            1101,
+            1111,
+            1121
+        ],
+        [
+            101101,
+            101102,
+            114102,
+            114103,
+            114104,
+            114105,
+            114106,
+            114107,
+            114108,
+            114109,
+            114110,
+            114111,
+            114112,
+            114113,
+            114114,
+            114115,
+            114116,
+            114117,
+            115102,
+            115103,
+            115104,
+            115105,
+            115106,
+            115107,
+            115108,
+            115109,
+            115110,
+            115111,
+            115112,
+            115113,
+            115114,
+            115115,
+            115116,
+            115117,
+            116101,
+            117102,
+            117103,
+            117104,
+            117105,
+            117106,
+            117107,
+            117108,
+            117109,
+            117110,
+            117111,
+            117112,
+            117113,
+            117114,
+            117115,
+            117116,
+            117117,
+            117118,
+            118102,
+            119102,
+            1261,
+            126102,
+            126103,
+            126104,
+            126105,
+            126106,
+            126107,
+            126108,
+            126109,
+            126110,
+            126111,
+            126112,
+            126113,
+            126114,
+            126115,
+            126116,
+            126117,
+            126118,
+            126119,
+            126120,
+            126121,
+            126122,
+            126123,
+            1301,
+            1401,
+            1402,
+            140101,
+            140201,
+            140102,
+            140202
+        ],
+        [
+            1011,
+            1012,
+            1013,
+            1014,
+            1131,
+            1141,
+            1151,
+            1161,
+            1162,
+            1163,
+            1164,
+            1165,
+            1171,
+            1172,
+            1173,
+            1174,
+            1181,
+            1191
+        ],
+        [
+            1201,
+            1211,
+            1221,
+            1231,
+            1241,
+            1251
+        ],
+        [
+            2011,
+            2012,
+            2021,
+            2031,
+            2041,
+            2051,
+            2061,
+            2071,
+            2081,
+            2091,
+            2101,
+            2102,
+            2103,
+            2111,
+            2112,
+            2113,
+            2121,
+            2131,
+            2141,
+            2142,
+            2151,
+            2161,
+            2171,
+            2181,
+            2191,
+            2201,
+            2202,
+            2211,
+            2221,
+            2231
+        ]
+    ],
     "all": [
         1011,
         1012,
         1013,
         1014,
+        101101,
+        101102,
         1021,
         1031,
         1041,
@@ -1013,7 +1908,12 @@
         114109,
         114110,
         114111,
+        114112,
         114113,
+        114114,
+        114115,
+        114116,
+        114117,
         1151,
         115102,
         115103,
@@ -1025,7 +1925,12 @@
         115109,
         115110,
         115111,
+        115112,
         115113,
+        115114,
+        115115,
+        115116,
+        115117,
         1161,
         116101,
         1162,
@@ -1034,6 +1939,22 @@
         1165,
         1171,
         117102,
+        117103,
+        117104,
+        117105,
+        117106,
+        117107,
+        117108,
+        117109,
+        117110,
+        117111,
+        117112,
+        117113,
+        117114,
+        117115,
+        117116,
+        117117,
+        117118,
         1172,
         1173,
         1174,
@@ -1047,9 +1968,36 @@
         1231,
         1241,
         1251,
+        1261,
+        126102,
+        126103,
+        126104,
+        126105,
+        126106,
+        126107,
+        126108,
+        126109,
+        126110,
+        126111,
+        126112,
+        126113,
+        126114,
+        126115,
+        126116,
+        126117,
+        126118,
+        126119,
+        126120,
+        126121,
+        126122,
+        126123,
         1301,
         1401,
         1402,
+        140101,
+        140201,
+        140102,
+        140202,
         2011,
         2012,
         2021,

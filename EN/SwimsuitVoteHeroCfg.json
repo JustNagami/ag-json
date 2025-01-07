@@ -1,0 +1,94 @@
+{
+    "1": {
+        "activity_id": 282961,
+        "show_image": "113907",
+        "hero_id": 1139,
+        "id": 1,
+        "vote_support": "It's been a while since I've seen you so energetic. I guess I'll have to work harder. Let's work together, Administrator!"
+    },
+    "2": {
+        "activity_id": 282961,
+        "show_image": "102201",
+        "hero_id": 1022,
+        "id": 2,
+        "vote_support": "I've received many honors, and rank is not important to me... But if participating in this event will make us happy, then it's worth a try."
+    },
+    "3": {
+        "activity_id": 282961,
+        "show_image": "104902",
+        "hero_id": 1049,
+        "id": 3,
+        "vote_support": "Questioner, do you want me to be number one? If so, I'll accomplish my goal... But I still need a little help with the first step."
+    },
+    "4": {
+        "activity_id": 282961,
+        "show_image": "107602",
+        "hero_id": 1076,
+        "id": 4,
+        "vote_support": "It's a bustling scene, and I hope this peace will continue forever... Since it's just for fun, do as you like."
+    },
+    "5": {
+        "activity_id": 282961,
+        "show_image": "107001",
+        "hero_id": 1070,
+        "id": 5,
+        "vote_support": "Is this part of the training, too? You're my partner, Admin, so let's train together!"
+    },
+    "6": {
+        "activity_id": 282961,
+        "show_image": "107401",
+        "hero_id": 1074,
+        "id": 6,
+        "vote_support": "Since it's the holidays, having fun should be more important than efficiency."
+    },
+    "7": {
+        "activity_id": 282961,
+        "show_image": "104205",
+        "hero_id": 1042,
+        "id": 7,
+        "vote_support": "Sheep, is this throne reserved for me? I'll let you hold my hand as I go up to the podium."
+    },
+    "8": {
+        "activity_id": 282961,
+        "show_image": "102101",
+        "hero_id": 1021,
+        "id": 8,
+        "vote_support": "Will you vote for me? I don't care if I win first place. I just want the chance to perform professionally for once..."
+    },
+    "get_id_list_by_hero_id": {
+        "1021": [
+            8
+        ],
+        "1042": [
+            7
+        ],
+        "1074": [
+            6
+        ],
+        "1070": [
+            5
+        ],
+        "1076": [
+            4
+        ],
+        "1049": [
+            3
+        ],
+        "1022": [
+            2
+        ],
+        "1139": [
+            1
+        ]
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ]
+}

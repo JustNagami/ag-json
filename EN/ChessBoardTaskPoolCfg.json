@@ -1,0 +1,561 @@
+{
+    "10101": {
+        "description": "Look for Easter eggs in the wharf area.",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 10101,
+        "title": "Summer Starts Now I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 10101,
+        "camera_move": [
+            12,
+            12
+        ]
+    },
+    "10102": {
+        "description": "Go up to Apollo and speak to him.",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 10102,
+        "title": "Summer Starts Now II",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 10102,
+        "camera_move": [
+            6,
+            9
+        ]
+    },
+    "10103": {
+        "description": "Go to the location marked by Apollo.",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 10103,
+        "title": "Summer Starts Now III",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 10103,
+        "camera_move": [
+            8,
+            3
+        ]
+    },
+    "10201": {
+        "description": "Someone's yelling for help up ahead.",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 10201,
+        "title": "Mystery Easter Egg I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 10201,
+        "camera_move": [
+            12,
+            9
+        ]
+    },
+    "10202": {
+        "description": "Seek out clues to Sekhmet's whereabouts.",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 10202,
+        "title": "Mystery Easter Egg II",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 10202,
+        "camera_move": [
+            9,
+            14
+        ]
+    },
+    "10203": {
+        "description": "Go up to Bastet and speak to her.",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 10203,
+        "title": "Mystery Easter Egg III",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 10203,
+        "camera_move": [
+            11,
+            10
+        ]
+    },
+    "20101": {
+        "description": "Look for Kingu and Sobek.",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 20101,
+        "title": "Great Nautical Race I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20101,
+        "camera_move": [
+            6,
+            4
+        ]
+    },
+    "20102": {
+        "description": "Take part in the speedboat race in the distance.",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 20102,
+        "title": "Great Nautical Race II",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20102,
+        "camera_move": [
+            13,
+            15
+        ]
+    },
+    "20103": {
+        "description": "Take part in the speedboat race prize ceremony.",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 20103,
+        "title": "Great Nautical Race III",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20103,
+        "camera_move": [
+            12,
+            11
+        ]
+    },
+    "20201": {
+        "description": "Catch up to the ducky that's been watching you.",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 20201,
+        "title": "Fugitive Sun I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20201,
+        "camera_move": [
+            13,
+            15
+        ]
+    },
+    "20202": {
+        "description": "There's an altercation up ahead.",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 20202,
+        "title": "Fugitive Sun II",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20202,
+        "camera_move": [
+            5,
+            4
+        ]
+    },
+    "20301": {
+        "description": "Go up to see what is happening.",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 20301,
+        "title": "The Ducky & AGI Mecha Crisis I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20301,
+        "camera_move": [
+            6,
+            4
+        ]
+    },
+    "20302": {
+        "description": "Go up there to stop the argument.",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 20302,
+        "title": "The Ducky & AGI Mecha Crisis II",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20302,
+        "camera_move": [
+            12,
+            11
+        ]
+    },
+    "30101": {
+        "description": "Go to Ives Music Instruments.",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 30101,
+        "title": "The Sound of Music I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30101,
+        "camera_move": [
+            11,
+            7
+        ]
+    },
+    "30102": {
+        "description": "Go to the florist you remember.",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 30102,
+        "title": "The Sound of Music II",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30102,
+        "camera_move": [
+            14,
+            13
+        ]
+    },
+    "30103": {
+        "description": "Go to the boutique and change into another outfit.",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 30103,
+        "title": "The Sound of Music III",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30103,
+        "camera_move": [
+            10,
+            10
+        ]
+    },
+    "30104": {
+        "description": "Collect your reward for winning the second round of the contest.",
+        "cost": 20,
+        "type": 1,
+        "condition_type": 30104,
+        "title": "The Sound of Music IV",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30104,
+        "camera_move": [
+            4,
+            8
+        ]
+    },
+    "30201": {
+        "description": "Catch up to the Knights of Convallaria.",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 30201,
+        "title": "Fugitive Duck I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30201,
+        "camera_move": [
+            11,
+            7
+        ]
+    },
+    "30202": {
+        "description": "Catch those thieving ducks.",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 30202,
+        "title": "Fugitive Duck II",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30202,
+        "camera_move": [
+            4,
+            7
+        ]
+    },
+    "30301": {
+        "description": "Catch up to the figure.",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 30301,
+        "title": "The Great Thievers I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30301,
+        "camera_move": [
+            14,
+            11
+        ]
+    },
+    "30302": {
+        "description": "Catch up to Zero One and get the record back.",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 30302,
+        "title": "The Great Thievers \u2160I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30302,
+        "camera_move": [
+            4,
+            7
+        ]
+    },
+    "40101": {
+        "description": "Go to Claysville Plaza.",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 40101,
+        "title": "Water Cannon Battle I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40101,
+        "camera_move": [
+            13,
+            9
+        ]
+    },
+    "40102": {
+        "description": "Locate the special paint.",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 40102,
+        "title": "Water Cannon Battle II",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40102,
+        "camera_move": [
+            4,
+            7
+        ]
+    },
+    "40103": {
+        "description": "Return to the battleground.",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 40103,
+        "title": "Water Cannon Battle III",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40103,
+        "camera_move": [
+            11,
+            13
+        ]
+    },
+    "40104": {
+        "description": "Prevent the giant duck from wreaking havoc everywhere.",
+        "cost": 20,
+        "type": 1,
+        "condition_type": 40104,
+        "title": "Water Cannon Battle IV",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40104,
+        "camera_move": [
+            3,
+            8
+        ]
+    },
+    "40201": {
+        "description": "Go watch the battle between the two youths.",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 40201,
+        "title": "Mecha Rumble I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40201,
+        "camera_move": [
+            8,
+            6
+        ]
+    },
+    "40202": {
+        "description": "Go up to Poseidon and say hi to her.",
+        "cost": 20,
+        "type": 1,
+        "condition_type": 40202,
+        "title": "Mecha Rumble II",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40202,
+        "camera_move": [
+            12,
+            15
+        ]
+    },
+    "40301": {
+        "description": "Get ready for a fun, fun time.",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 40301,
+        "title": "Moment of Peace and Love I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40301,
+        "camera_move": [
+            14,
+            11
+        ]
+    },
+    "40302": {
+        "description": "Go to the water slide start point.",
+        "cost": 20,
+        "type": 1,
+        "condition_type": 40302,
+        "title": "Moment of Peace and Love II",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40302,
+        "camera_move": [
+            5,
+            6
+        ]
+    },
+    "50101": {
+        "description": "Head to the Buzz Score office.",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 50101,
+        "title": "Bring on the Buzz I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 50101,
+        "camera_move": [
+            7,
+            11
+        ]
+    },
+    "50102": {
+        "description": "Place the treasures on the stage.",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 50102,
+        "title": "Just One More Step I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 50102,
+        "camera_move": [
+            5,
+            13
+        ]
+    },
+    "50103": {
+        "description": "Catch up to the ducks and get the controller back.",
+        "cost": 0,
+        "type": 1,
+        "condition_type": 50103,
+        "title": "Just One More Step II",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 50103,
+        "camera_move": []
+    },
+    "50104": {
+        "description": "Return to the stage.",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 50104,
+        "title": "Just One More Step III",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 50104,
+        "camera_move": [
+            5,
+            13
+        ]
+    },
+    "50201": {
+        "description": "Teach the ducks nearby a good lesson.",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 50201,
+        "title": "Mystery Gift I",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 50201,
+        "camera_move": [
+            5,
+            13
+        ]
+    },
+    "50202": {
+        "description": "Track down the mystery person.",
+        "cost": 20,
+        "type": 1,
+        "condition_type": 50202,
+        "title": "Mystery Gift II",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 50202,
+        "camera_move": [
+            5,
+            3
+        ]
+    },
+    "all": [
+        10101,
+        10102,
+        10103,
+        10201,
+        10202,
+        10203,
+        20101,
+        20102,
+        20103,
+        20201,
+        20202,
+        20301,
+        20302,
+        30101,
+        30102,
+        30103,
+        30104,
+        30201,
+        30202,
+        30301,
+        30302,
+        40101,
+        40102,
+        40103,
+        40104,
+        40201,
+        40202,
+        40301,
+        40302,
+        50101,
+        50102,
+        50103,
+        50104,
+        50201,
+        50202
+    ]
+}

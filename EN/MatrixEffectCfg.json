@@ -146,7 +146,7 @@
         "moment": 1,
         "params": [
             9,
-            96
+            99
         ]
     },
     "11016": {
@@ -3569,6 +3569,226 @@
             3
         ]
     },
+    "744101": {
+        "remarks": "Cave Moon",
+        "action": 4,
+        "id": 744101,
+        "moment": 4,
+        "params": [
+            9340,
+            1,
+            3
+        ]
+    },
+    "744102": {
+        "remarks": "Goddess's Bow",
+        "action": 4,
+        "id": 744102,
+        "moment": 4,
+        "params": [
+            9341,
+            1,
+            3
+        ]
+    },
+    "744103": {
+        "remarks": "Between Fact and Fiction",
+        "action": 4,
+        "id": 744103,
+        "moment": 4,
+        "params": [
+            9342,
+            1,
+            3
+        ]
+    },
+    "744104": {
+        "remarks": "From Afar",
+        "action": 4,
+        "id": 744104,
+        "moment": 4,
+        "params": [
+            9343,
+            1,
+            3
+        ]
+    },
+    "744105": {
+        "remarks": "Ancient Folksong",
+        "action": 4,
+        "id": 744105,
+        "moment": 4,
+        "params": [
+            9344,
+            1,
+            3
+        ]
+    },
+    "744106": {
+        "remarks": "Frozen Memories",
+        "action": 4,
+        "id": 744106,
+        "moment": 4,
+        "params": [
+            9345,
+            1,
+            3
+        ]
+    },
+    "744107": {
+        "remarks": "Secret Return",
+        "action": 4,
+        "id": 744107,
+        "moment": 4,
+        "params": [
+            9346,
+            1,
+            3
+        ]
+    },
+    "744108": {
+        "remarks": "Moonlit Sprout",
+        "action": 4,
+        "id": 744108,
+        "moment": 4,
+        "params": [
+            9347,
+            1,
+            3
+        ]
+    },
+    "744109": {
+        "remarks": "Lighthouse Ray",
+        "action": 4,
+        "id": 744109,
+        "moment": 4,
+        "params": [
+            9348,
+            1,
+            3
+        ]
+    },
+    "744110": {
+        "remarks": "Skewed Scales",
+        "action": 4,
+        "id": 744110,
+        "moment": 4,
+        "params": [
+            9349,
+            1,
+            3
+        ]
+    },
+    "744114": {
+        "remarks": "Opportunity: Mod carries Slow Indicia for 5 battles",
+        "action": 4,
+        "id": 744114,
+        "moment": 4,
+        "params": [
+            9127,
+            1,
+            3
+        ]
+    },
+    "744115": {
+        "remarks": "Opportunity: Enemies carry Tinder Indicia for 5 battles",
+        "action": 4,
+        "id": 744115,
+        "moment": 4,
+        "params": [
+            9128,
+            1,
+            3
+        ]
+    },
+    "744116": {
+        "remarks": "Opportunity: Enemies carry Canopy Indicia for 5 battles",
+        "action": 4,
+        "id": 744116,
+        "moment": 4,
+        "params": [
+            9129,
+            1,
+            3
+        ]
+    },
+    "744117": {
+        "remarks": "Opportunity: Enemies carry Maim Indicia Lv. 3 for 5 battles",
+        "action": 4,
+        "id": 744117,
+        "moment": 4,
+        "params": [
+            9130,
+            1,
+            3
+        ]
+    },
+    "744118": {
+        "remarks": "Opportunity: Mod carries Fuel Burn Indicia for 5 battles",
+        "action": 4,
+        "id": 744118,
+        "moment": 4,
+        "params": [
+            9131,
+            1,
+            3
+        ]
+    },
+    "744119": {
+        "remarks": "Opportunity: Mod cannot trigger Extremity Dodge for 5 battles",
+        "action": 4,
+        "id": 744119,
+        "moment": 4,
+        "params": [
+            9132,
+            1,
+            3
+        ]
+    },
+    "744120": {
+        "remarks": "Opportunity: Mod starts with full Ultimate Skill charge for 5 battles",
+        "action": 4,
+        "id": 744120,
+        "moment": 4,
+        "params": [
+            9133,
+            1,
+            3
+        ]
+    },
+    "744121": {
+        "remarks": "Opportunity: Mod starts with full Combat Resources for 5 battles",
+        "action": 4,
+        "id": 744121,
+        "moment": 4,
+        "params": [
+            9019,
+            1,
+            3
+        ]
+    },
+    "744122": {
+        "remarks": "Opportunity: Mod's movement speed +100% for 5 battles",
+        "action": 4,
+        "id": 744122,
+        "moment": 4,
+        "params": [
+            9135,
+            1,
+            3
+        ]
+    },
+    "744123": {
+        "remarks": "Opportunity: Mod's Dodge Energy charge speed +100% for 5 battles",
+        "action": 4,
+        "id": 744123,
+        "moment": 4,
+        "params": [
+            9136,
+            1,
+            3
+        ]
+    },
     "all": [
         11001,
         11002,
@@ -3897,6 +4117,26 @@
         644120,
         644121,
         644122,
-        644123
+        644123,
+        744101,
+        744102,
+        744103,
+        744104,
+        744105,
+        744106,
+        744107,
+        744108,
+        744109,
+        744110,
+        744114,
+        744115,
+        744116,
+        744117,
+        744118,
+        744119,
+        744120,
+        744121,
+        744122,
+        744123
     ]
 }
