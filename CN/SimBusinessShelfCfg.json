@@ -1,7 +1,7 @@
 {
     "1001": {
         "cost": 100,
-        "name": "\u5355\u9762\u552e\u8d27\u67dc",
+        "name": "单面售货柜",
         "sell_direction": 1,
         "model": "Dorm/Dormitory/HZ07_monijingying1_huojia1_1",
         "id": 1001,
@@ -26,7 +26,7 @@
     },
     "1002": {
         "cost": 200,
-        "name": "\u53cc\u5411\u552e\u8d27\u67dc",
+        "name": "双向售货柜",
         "sell_direction": 2,
         "model": "Dorm/Dormitory/HZ07_monijingying1_huojia1_2",
         "id": 1002,
@@ -51,7 +51,7 @@
     },
     "1003": {
         "cost": 400,
-        "name": "\u5168\u89d2\u5ea6\u552e\u8d27\u67dc",
+        "name": "全角度售货柜",
         "sell_direction": 3,
         "model": "Dorm/Dormitory/HZ07_monijingying1_huojia1_3",
         "id": 1003,
@@ -76,7 +76,7 @@
     },
     "2001": {
         "cost": 150,
-        "name": "\u5355\u9762\u552e\u8d27\u67b6",
+        "name": "单面售货架",
         "sell_direction": 1,
         "model": "Dorm/Dormitory/HZ07_monijingying1_huojia2_1",
         "id": 2001,
@@ -100,7 +100,7 @@
     },
     "2002": {
         "cost": 300,
-        "name": "\u53cc\u5411\u552e\u8d27\u67b6",
+        "name": "双向售货架",
         "sell_direction": 2,
         "model": "Dorm/Dormitory/HZ07_monijingying1_huojia2_2",
         "id": 2002,
@@ -124,7 +124,7 @@
     },
     "2003": {
         "cost": 600,
-        "name": "\u5168\u89d2\u5ea6\u552e\u8d27\u67b6",
+        "name": "全角度售货架",
         "sell_direction": 3,
         "model": "Dorm/Dormitory/HZ07_monijingying1_huojia2_3",
         "id": 2003,
@@ -148,7 +148,7 @@
     },
     "3001": {
         "cost": 200,
-        "name": "\u5355\u9762\u552e\u8d27\u7ad9",
+        "name": "单面售货站",
         "sell_direction": 1,
         "model": "Dorm/Dormitory/HZ07_monijingying1_huojia3_1",
         "id": 3001,
@@ -172,7 +172,7 @@
     },
     "3002": {
         "cost": 400,
-        "name": "\u53cc\u5411\u552e\u8d27\u7ad9",
+        "name": "双向售货站",
         "sell_direction": 2,
         "model": "Dorm/Dormitory/HZ07_monijingying1_huojia3_2",
         "id": 3002,
@@ -196,7 +196,7 @@
     },
     "3003": {
         "cost": 800,
-        "name": "\u5168\u89d2\u5ea6\u552e\u8d27\u7ad9",
+        "name": "全角度售货站",
         "sell_direction": 3,
         "model": "Dorm/Dormitory/HZ07_monijingying1_huojia3_3",
         "id": 3003,

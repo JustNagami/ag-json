@@ -1,12 +1,12 @@
 {
     "1001": {
         "item_rare": 1,
-        "name": "\u865a\u65f6\u56de\u6eaf\u00b7\u8fd8\u539f",
+        "name": "虚时回溯·还原",
         "icon": "21",
         "id": 1001,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u8fdb\u5165\u4fee\u6b63\u6a21\u5f0f\u65f6\uff0c\u5168\u961f\u7684\u673a\u5236\u503c\uff08\u5370\u8bb0\u3001\u6012\u6c14\u3001\u80fd\u91cf\u3001\u795e\u80fd\uff09\u53d8\u4e3a\u6ee1\u503c\u3002",
+        "desc": "进入修正模式时，全队的机制值（印记、怒气、能量、神能）变为满值。",
         "params": [
             [
                 517,
@@ -16,12 +16,12 @@
     },
     "1002": {
         "item_rare": 1,
-        "name": "\u865a\u65f6\u56de\u6eaf\u00b7\u8bfb\u53d6",
+        "name": "虚时回溯·读取",
         "icon": "21",
         "id": 1002,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u9000\u51fa\u4fee\u6b63\u6a21\u5f0f\u540e\uff0c\u5168\u961f\u7684\u673a\u5236\u503c\uff08\u5370\u8bb0\u3001\u6012\u6c14\u3001\u80fd\u91cf\u3001\u795e\u80fd\uff09\u53d8\u4e3a\u6ee1\u503c\u3002",
+        "desc": "退出修正模式后，全队的机制值（印记、怒气、能量、神能）变为满值。",
         "params": [
             [
                 518,
@@ -31,12 +31,12 @@
     },
     "1003": {
         "item_rare": 1,
-        "name": "\u52a8\u91cf\u91cd\u7f6e\u00b7\u5168\u57df",
+        "name": "动量重置·全域",
         "icon": "6",
         "id": 1003,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u6218\u6597\u5f00\u59cb\u65f6\uff0c\u5168\u961f\u4fee\u6b63\u8005\u7684\u673a\u5236\u503c\uff08\u5370\u8bb0\u3001\u6012\u6c14\u3001\u80fd\u91cf\u3001\u795e\u80fd\uff09\u53d8\u4e3a\u6ee1\u503c\u3002",
+        "desc": "战斗开始时，全队修正者的机制值（印记、怒气、能量、神能）变为满值。",
         "params": [
             [
                 501,
@@ -46,12 +46,12 @@
     },
     "1004": {
         "item_rare": 1,
-        "name": "\u52a8\u91cf\u91cd\u7f6e\u00b7\u5965\u4e49",
+        "name": "动量重置·奥义",
         "icon": "6",
         "id": 1004,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u6218\u6597\u5f00\u59cb\u65f6\uff0c\u5168\u961f\u4fee\u6b63\u8005\u7684\u5965\u4e49\u503c\u53d8\u4e3a\u6ee1\u503c\u3002",
+        "desc": "战斗开始时，全队修正者的奥义值变为满值。",
         "params": [
             [
                 502,
@@ -61,12 +61,12 @@
     },
     "1005": {
         "item_rare": 1,
-        "name": "\u52a8\u91cf\u91cd\u7f6e\u00b7\u795e\u683c",
+        "name": "动量重置·神格",
         "icon": "6",
         "id": 1005,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u6218\u6597\u5f00\u59cb\u65f6\uff0c\u4fee\u6b63\u7b49\u7ea7\u7acb\u5373\u5230\u8fbeS\u7ea7\u3002",
+        "desc": "战斗开始时，修正等级立即到达S级。",
         "params": [
             [
                 503,
@@ -76,12 +76,12 @@
     },
     "1006": {
         "item_rare": 1,
-        "name": "\u52a8\u91cf\u91cd\u7f6e\u00b7\u7edd\u7f18",
+        "name": "动量重置·绝缘",
         "icon": "6",
         "id": 1006,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u6218\u6597\u5f00\u59cb\u65f6\uff0c\u5168\u961f\u4fee\u6b63\u8005\u83b7\u5f97{1}\u79d2\u7684\u9738\u4f53\u3002",
+        "desc": "战斗开始时，全队修正者获得{1}秒的霸体。",
         "params": [
             [
                 504,
@@ -91,12 +91,12 @@
     },
     "1007": {
         "item_rare": 1,
-        "name": "\u52a8\u91cf\u91cd\u7f6e\u00b7\u8679\u5438",
+        "name": "动量重置·虹吸",
         "icon": "6",
         "id": 1007,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5c0f\u961f\u6210\u5458\u91ca\u653e\u5965\u4e49\u653b\u51fb\u547d\u4e2d\u654c\u4eba\u65f6\uff0c\u5c06\u989d\u5916\u56de\u590d\u5168\u961f{1}%\u7684\u751f\u547d\u503c\u3002",
+        "desc": "小队成员释放奥义攻击命中敌人时，将额外回复全队{1}%的生命值。",
         "params": [
             [
                 529,
@@ -106,12 +106,12 @@
     },
     "2001": {
         "item_rare": 2,
-        "name": "\u591a\u7ef4\u5171\u9e23\u00b7\u5965\u5c71",
+        "name": "多维共鸣·奥山",
         "icon": "17",
         "id": 2001,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5965\u5c71\u7cfb\u4fee\u6b63\u8005\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad8\u3002",
+        "desc": "奥山系修正者造成的伤害提高。",
         "params": [
             [
                 198,
@@ -121,12 +121,12 @@
     },
     "2002": {
         "item_rare": 2,
-        "name": "\u591a\u7ef4\u5171\u9e23\u00b7\u5c3c\u7f57",
+        "name": "多维共鸣·尼罗",
         "icon": "17",
         "id": 2002,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5c3c\u7f57\u7cfb\u4fee\u6b63\u8005\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad8\u3002",
+        "desc": "尼罗系修正者造成的伤害提高。",
         "params": [
             [
                 199,
@@ -136,12 +136,12 @@
     },
     "2003": {
         "item_rare": 2,
-        "name": "\u591a\u7ef4\u5171\u9e23\u00b7\u771f\u6a31",
+        "name": "多维共鸣·真樱",
         "icon": "17",
         "id": 2003,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u771f\u6a31\u7cfb\u4fee\u6b63\u8005\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad8\u3002",
+        "desc": "真樱系修正者造成的伤害提高。",
         "params": [
             [
                 200,
@@ -151,12 +151,12 @@
     },
     "2004": {
         "item_rare": 2,
-        "name": "\u591a\u7ef4\u5171\u9e23\u00b7\u5723\u6811",
+        "name": "多维共鸣·圣树",
         "icon": "17",
         "id": 2004,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5723\u6811\u7cfb\u4fee\u6b63\u8005\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad8\u3002",
+        "desc": "圣树系修正者造成的伤害提高。",
         "params": [
             [
                 201,
@@ -166,12 +166,12 @@
     },
     "2005": {
         "item_rare": 2,
-        "name": "\u591a\u7ef4\u5171\u9e23\u00b7\u4f17\u661f",
+        "name": "多维共鸣·众星",
         "icon": "17",
         "id": 2005,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u4f17\u661f\u7cfb\u4fee\u6b63\u8005\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad8\u3002",
+        "desc": "众星系修正者造成的伤害提高。",
         "params": [
             [
                 202,
@@ -181,12 +181,12 @@
     },
     "2006": {
         "item_rare": 2,
-        "name": "\u5b8c\u7f8e\u6d41\u4f53\u00b7\u6012\u6d41",
+        "name": "完美流体·怒流",
         "icon": "20",
         "id": 2006,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u961f\u5185\u6012\u6c14\u7c7b\u578b\u4fee\u6b63\u8005\u89e6\u53d1\u95ea\u907f\u6280\u80fd\u540e\uff0c\u8be5\u4fee\u6b63\u8005\u5728{1}\u79d2\u5185\u63d0\u9ad8{2}%\u7684\u6012\u6c14\u83b7\u53d6\u503c\u3002",
+        "desc": "队内怒气类型修正者触发闪避技能后，该修正者在{1}秒内提高{2}%的怒气获取值。",
         "params": [
             [
                 506,
@@ -196,12 +196,12 @@
     },
     "2007": {
         "item_rare": 2,
-        "name": "\u5b8c\u7f8e\u6d41\u4f53\u00b7\u5145\u80fd",
+        "name": "完美流体·充能",
         "icon": "20",
         "id": 2007,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u961f\u5185\u80fd\u91cf\u7c7b\u578b\u4fee\u6b63\u8005\u89e6\u53d1\u95ea\u907f\u6280\u80fd\u540e\uff0c\u56de\u590d\u8be5\u4fee\u6b63\u8005{1}\u70b9\u80fd\u91cf\u503c\u3002",
+        "desc": "队内能量类型修正者触发闪避技能后，回复该修正者{1}点能量值。",
         "params": [
             [
                 507,
@@ -211,12 +211,12 @@
     },
     "2008": {
         "item_rare": 2,
-        "name": "\u5b8c\u7f8e\u6d41\u4f53\u00b7\u56de\u8fd4",
+        "name": "完美流体·回返",
         "icon": "20",
         "id": 2008,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u961f\u5185\u5370\u8bb0\u7c7b\u578b\u4fee\u6b63\u8005\u89e6\u53d1\u95ea\u907f\u6280\u80fd\u540e\uff0c\u8be5\u4fee\u6b63\u8005\u5728\u4e0b\u6b21\u91ca\u653e\u76f8\u5e94\u6280\u80fd\u540e\uff0c\u8fd4\u8fd8\u8be5\u6280\u80fd\u6d88\u8017\u7684\u6240\u6709\u5370\u8bb0\u3002",
+        "desc": "队内印记类型修正者触发闪避技能后，该修正者在下次释放相应技能后，返还该技能消耗的所有印记。",
         "params": [
             [
                 508,
@@ -226,12 +226,12 @@
     },
     "2009": {
         "item_rare": 2,
-        "name": "\u5b8c\u7f8e\u6d41\u4f53\u00b7\u8865\u5168",
+        "name": "完美流体·补全",
         "icon": "20",
         "id": 2009,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u961f\u5185\u795e\u80fd\u7c7b\u578b\u4fee\u6b63\u8005\u89e6\u53d1\u95ea\u907f\u6280\u80fd\u540e\uff0c\u56de\u590d\u8be5\u4fee\u6b63\u8005\u6240\u6709\u795e\u80fd\u3002",
+        "desc": "队内神能类型修正者触发闪避技能后，回复该修正者所有神能。",
         "params": [
             [
                 509,
@@ -241,12 +241,12 @@
     },
     "2010": {
         "item_rare": 2,
-        "name": "\u5b8c\u7f8e\u6d41\u4f53\u00b7\u88c2\u53d8",
+        "name": "完美流体·裂变",
         "icon": "20",
         "id": 2010,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5c0f\u961f\u4fee\u6b63\u8005\u89e6\u53d1\u95ea\u907f\u6280\u80fd\u540e\uff0c\u5237\u65b0\u89e6\u53d1\u8005\u81ea\u8eab\u6280\u80fd\u4e09\u7684\u51b7\u5374\u65f6\u95f4\u3002",
+        "desc": "小队修正者触发闪避技能后，刷新触发者自身技能三的冷却时间。",
         "params": [
             [
                 510,
@@ -256,12 +256,12 @@
     },
     "2011": {
         "item_rare": 2,
-        "name": "\u51cf\u653b",
+        "name": "减攻",
         "icon": "20",
         "id": 2011,
         "sub_affix_type": 3,
         "identify_buff": 1,
-        "desc": "\u5168\u961f\u4fee\u6b63\u8005\u81ea\u8eab\u7684\u653b\u51fb\u529b\u964d\u4f4e30%\u3002",
+        "desc": "全队修正者自身的攻击力降低30%。",
         "params": [
             [
                 158,
@@ -271,12 +271,12 @@
     },
     "2012": {
         "item_rare": 2,
-        "name": "\u6613\u4f24",
+        "name": "易伤",
         "icon": "20",
         "id": 2012,
         "sub_affix_type": 3,
         "identify_buff": 1,
-        "desc": "\u73a9\u5bb6\u9635\u8425\u4fee\u6b63\u8005\u81ea\u8eab\u53d7\u5230\u7684\u4f24\u5bb3\u63d0\u9ad830%\u3002",
+        "desc": "玩家阵营修正者自身受到的伤害提高30%。",
         "params": [
             [
                 159,
@@ -286,12 +286,12 @@
     },
     "2013": {
         "item_rare": 2,
-        "name": "\u70bc\u72f1\u6263\u8840",
+        "name": "炼狱扣血",
         "icon": "20",
         "id": 2013,
         "sub_affix_type": 3,
         "identify_buff": 1,
-        "desc": "\u73a9\u5bb6\u9635\u8425\u4fee\u6b63\u8005\u6bcf\u79d2\u63891%\u6700\u5927\u751f\u547d\u503c\u7684\u8840\u3002",
+        "desc": "玩家阵营修正者每秒掉1%最大生命值的血。",
         "params": [
             [
                 160,
@@ -301,12 +301,12 @@
     },
     "3001": {
         "item_rare": 3,
-        "name": "\u77e2\u91cf\u529b\u573a",
+        "name": "矢量力场",
         "icon": "5",
         "id": 3001,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u653b\u51fb\u529b\u5c0f\u5e45\u63d0\u9ad8\u3002",
+        "desc": "攻击力小幅提高。",
         "params": [
             [
                 236,
@@ -316,12 +316,12 @@
     },
     "3002": {
         "item_rare": 3,
-        "name": "\u7b97\u529b\u7a81\u7834",
+        "name": "算力突破",
         "icon": "2",
         "id": 3002,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u66b4\u51fb\u7387\u5c0f\u5e45\u63d0\u9ad8\u3002",
+        "desc": "暴击率小幅提高。",
         "params": [
             [
                 178,
@@ -331,12 +331,12 @@
     },
     "3003": {
         "item_rare": 3,
-        "name": "\u7535\u78c1\u6e4d\u6d41",
+        "name": "电磁湍流",
         "icon": "3",
         "id": 3003,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u66b4\u51fb\u4f24\u5bb3\u5c0f\u5e45\u63d0\u9ad8\u3002",
+        "desc": "暴击伤害小幅提高。",
         "params": [
             [
                 234,
@@ -346,12 +346,12 @@
     },
     "3004": {
         "item_rare": 3,
-        "name": "\u805a\u53d8\u53cd\u5e94",
+        "name": "聚变反应",
         "icon": "9",
         "id": 3004,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5965\u4e49\u503c\u83b7\u53d6\u7387\u663e\u8457\u63d0\u9ad8\u3002",
+        "desc": "奥义值获取率显著提高。",
         "params": [
             [
                 239,
@@ -361,12 +361,12 @@
     },
     "3005": {
         "item_rare": 3,
-        "name": "\u5e7f\u57df\u71b5\u589e",
+        "name": "广域熵增",
         "icon": "10",
         "id": 3005,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u6012\u6c14\u83b7\u53d6\u6548\u7387\u663e\u8457\u63d0\u9ad8\u3002",
+        "desc": "怒气获取效率显著提高。",
         "params": [
             [
                 179,
@@ -376,12 +376,12 @@
     },
     "3006": {
         "item_rare": 3,
-        "name": "\u8d28\u80fd\u8f6c\u6362",
+        "name": "质能转换",
         "icon": "11",
         "id": 3006,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u80fd\u91cf\u83b7\u53d6\u6548\u7387\u663e\u8457\u63d0\u9ad8\u3002",
+        "desc": "能量获取效率显著提高。",
         "params": [
             [
                 180,
@@ -391,12 +391,12 @@
     },
     "3007": {
         "item_rare": 3,
-        "name": "\u4ee5\u592a\u6d6a\u6f6e",
+        "name": "以太浪潮",
         "icon": "13",
         "id": 3007,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u795e\u80fd\u83b7\u53d6\u6548\u7387\u663e\u8457\u63d0\u9ad8\u3002",
+        "desc": "神能获取效率显著提高。",
         "params": [
             [
                 181,
@@ -406,12 +406,12 @@
     },
     "3008": {
         "item_rare": 3,
-        "name": "\u8d85\u91cf\u6f14\u7b97",
+        "name": "超量演算",
         "icon": "12",
         "id": 3008,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5370\u8bb0\u83b7\u53d6\u7387\u663e\u8457\u63d0\u9ad8\u3002",
+        "desc": "印记获取率显著提高。",
         "params": [
             [
                 182,
@@ -421,12 +421,12 @@
     },
     "3009": {
         "item_rare": 3,
-        "name": "\u6563\u5c04\u5149\u8c31",
+        "name": "散射光谱",
         "icon": "16",
         "id": 3009,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u53d7\u5230\u6cbb\u7597\u91cf\u663e\u8457\u63d0\u9ad8\u3002",
+        "desc": "受到治疗量显著提高。",
         "params": [
             [
                 235,
@@ -436,12 +436,12 @@
     },
     "3010": {
         "item_rare": 3,
-        "name": "\u9759\u6b62\u7535\u573a",
+        "name": "静止电场",
         "icon": "18",
         "id": 3010,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u95ea\u907f\u6d88\u8017\u663e\u8457\u51cf\u5c11\u3002",
+        "desc": "闪避消耗显著减少。",
         "params": [
             [
                 177,
@@ -451,12 +451,12 @@
     },
     "3011": {
         "item_rare": 3,
-        "name": "\u8d85\u5bfc\u78c1\u5171\u632f",
+        "name": "超导磁共振",
         "icon": "19",
         "id": 3011,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u95ea\u907f\u6d88\u8017\u56de\u590d\u901f\u5ea6\u663e\u8457\u63d0\u9ad8\u3002",
+        "desc": "闪避消耗回复速度显著提高。",
         "params": [
             [
                 547,
@@ -466,12 +466,12 @@
     },
     "3012": {
         "item_rare": 3,
-        "name": "\u6025\u901f\u8d85\u7b97",
+        "name": "急速超算",
         "icon": "20",
         "id": 3012,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u89e6\u53d1\u6781\u9650\u95ea\u907f\u540e\uff0c\u5168\u961f\u56de\u590d{1}%\u7684\u6700\u5927\u751f\u547d\u503c\u3002",
+        "desc": "触发极限闪避后，全队回复{1}%的最大生命值。",
         "params": [
             [
                 512,
@@ -481,12 +481,12 @@
     },
     "3013": {
         "item_rare": 3,
-        "name": "\u5373\u65f6\u6a21\u62df",
+        "name": "即时模拟",
         "icon": "21",
         "id": 3013,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5c0f\u961f\u6210\u5458\u91ca\u653e\u5965\u4e49\u6280\u80fd\u540e\uff0c\u5c06\u968f\u673a\u5237\u65b0\u81ea\u8eab\u4e00\u4e2a\u5904\u4e8e\u51b7\u5374\u4e2d\u6280\u80fd\u7684\u51b7\u5374\u65f6\u95f4\u3002",
+        "desc": "小队成员释放奥义技能后，将随机刷新自身一个处于冷却中技能的冷却时间。",
         "params": [
             [
                 530,
@@ -496,12 +496,12 @@
     },
     "4001": {
         "item_rare": 4,
-        "name": "\u87ba\u65cb\u6ee4\u7f51",
+        "name": "螺旋滤网",
         "icon": "8",
         "id": 4001,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u8bc4\u5206\u503c\u83b7\u53d6\u7387\u63d0\u9ad830%\u3002",
+        "desc": "评分值获取率提高30%。",
         "params": [
             [
                 230,
@@ -511,12 +511,12 @@
     },
     "4002": {
         "item_rare": 4,
-        "name": "\u6ce2\u51fd\u6570\u574d\u7f29",
+        "name": "波函数坍缩",
         "icon": "4",
         "id": 4002,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u6700\u7ec8\u4f24\u5bb3\u6307\u6570\u7ea7\u63d0\u9ad8\u3002",
+        "desc": "最终伤害指数级提高。",
         "params": [
             [
                 237,
@@ -526,12 +526,12 @@
     },
     "4003": {
         "item_rare": 4,
-        "name": "\u865a\u65f6\u56de\u6eaf\u00b7\u66f4\u65b0",
+        "name": "虚时回溯·更新",
         "icon": "21",
         "id": 4003,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u8fdb\u5165\u4fee\u6b63\u6a21\u5f0f\u65f6\uff0c\u5168\u961f\u4fee\u6b63\u8005\u7684\u5965\u4e49\u503c\u53d8\u4e3a\u6ee1\u503c\u3002",
+        "desc": "进入修正模式时，全队修正者的奥义值变为满值。",
         "params": [
             [
                 519,
@@ -541,12 +541,12 @@
     },
     "4004": {
         "item_rare": 4,
-        "name": "\u865a\u65f6\u56de\u6eaf\u00b7\u91cd\u7f6e",
+        "name": "虚时回溯·重置",
         "icon": "21",
         "id": 4004,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u8fdb\u5165\u4fee\u6b63\u6a21\u5f0f\u65f6\uff0c\u7acb\u5373\u5237\u65b0\u5168\u961f\u4fee\u6b63\u8005\u6240\u6709\u6280\u80fd\u548c\u5965\u4e49\u7684\u51b7\u5374\u65f6\u95f4\u3002",
+        "desc": "进入修正模式时，立即刷新全队修正者所有技能和奥义的冷却时间。",
         "params": [
             [
                 520,
@@ -556,12 +556,12 @@
     },
     "4005": {
         "item_rare": 4,
-        "name": "\u865a\u65f6\u56de\u6eaf\u00b7\u540c\u8c03",
+        "name": "虚时回溯·同调",
         "icon": "21",
         "id": 4005,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u9000\u51fa\u4fee\u6b63\u6a21\u5f0f\u540e\uff0c\u5237\u65b0\u5168\u961f\u4fee\u6b63\u8005\u6240\u6709\u6280\u80fd\u548c\u5965\u4e49\u7684\u51b7\u5374\u65f6\u95f4\u3002",
+        "desc": "退出修正模式后，刷新全队修正者所有技能和奥义的冷却时间。",
         "params": [
             [
                 521,
@@ -571,12 +571,12 @@
     },
     "4006": {
         "item_rare": 4,
-        "name": "\u865a\u65f6\u56de\u6eaf\u00b7\u50a8\u80fd",
+        "name": "虚时回溯·储能",
         "icon": "21",
         "id": 4006,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u8fdb\u5165\u4fee\u6b63\u6a21\u5f0f\u65f6\uff0c\u5168\u961f\u4fee\u6b63\u8005\u7acb\u5373\u6062\u590d\u81ea\u8eab\u6700\u5927\u751f\u547d\u503c\u7684{1}%\u3002",
+        "desc": "进入修正模式时，全队修正者立即恢复自身最大生命值的{1}%。",
         "params": [
             [
                 522,
@@ -586,12 +586,12 @@
     },
     "4007": {
         "item_rare": 4,
-        "name": "\u865a\u65f6\u56de\u6eaf\u00b7\u89e3\u653e",
+        "name": "虚时回溯·解放",
         "icon": "21",
         "id": 4007,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u9000\u51fa\u4fee\u6b63\u6a21\u5f0f\u540e\uff0c\u6839\u636e\u654c\u4eba\u5728\u4fee\u6b63\u6a21\u5f0f\u4e2d\u53d7\u5230\u7684\u4f24\u5bb3\u603b\u91cf\uff0c\u6062\u590d\u5168\u961f\u4fee\u6b63\u8005\u5bf9\u5e94\u767e\u5206\u6bd4\u7684\u751f\u547d\u503c\u3002",
+        "desc": "退出修正模式后，根据敌人在修正模式中受到的伤害总量，恢复全队修正者对应百分比的生命值。",
         "params": [
             [
                 523,
@@ -601,12 +601,12 @@
     },
     "4008": {
         "item_rare": 4,
-        "name": "\u865a\u65f6\u56de\u6eaf\u00b7\u518d\u9a71\u52a8",
+        "name": "虚时回溯·再驱动",
         "icon": "21",
         "id": 4008,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u4fee\u6b63\u6a21\u5f0f\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f6\u79d2\u3002",
+        "desc": "修正模式的持续时间延长6秒。",
         "params": [
             [
                 524,
@@ -616,12 +616,12 @@
     },
     "4009": {
         "item_rare": 4,
-        "name": "\u865a\u65f6\u56de\u6eaf\u00b7\u5f52\u6863",
+        "name": "虚时回溯·归档",
         "icon": "21",
         "id": 4009,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u9000\u51fa\u4fee\u6b63\u6a21\u5f0f\u540e\uff0c\u518d\u5bf9\u654c\u4eba\u9020\u6210\u4e00\u6b21\u76f8\u5f53\u4e8e\u654c\u4eba\u5728\u8be5\u6b21\u4fee\u6b63\u6a21\u5f0f\u4e2d\u53d7\u5230\u4f24\u5bb3\u603b\u91cf20%\u7684\u8ffd\u52a0\u4f24\u5bb3\u3002",
+        "desc": "退出修正模式后，再对敌人造成一次相当于敌人在该次修正模式中受到伤害总量20%的追加伤害。",
         "params": [
             [
                 525,
@@ -631,12 +631,12 @@
     },
     "4010": {
         "item_rare": 4,
-        "name": "\u5b8c\u7f8e\u6d41\u4f53\u00b7\u8dc3\u5347",
+        "name": "完美流体·跃升",
         "icon": "20",
         "id": 4010,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5c0f\u961f\u4fee\u6b63\u8005\u89e6\u53d1\u95ea\u907f\u6280\u80fd\u540e\uff0c\u5c40\u5185\u4fee\u6b63\u7b49\u7ea7\u7acb\u5373\u63d0\u5347\u81f3\u03a9\u7ea7\u3002",
+        "desc": "小队修正者触发闪避技能后，局内修正等级立即提升至Ω级。",
         "params": [
             [
                 515,
@@ -646,12 +646,12 @@
     },
     "4011": {
         "item_rare": 4,
-        "name": "\u5b8c\u7f8e\u6d41\u4f53\u00b7\u5fae\u6ce2",
+        "name": "完美流体·微波",
         "icon": "20",
         "id": 4011,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5c0f\u961f\u4fee\u6b63\u8005\u89e6\u53d1\u95ea\u907f\u6280\u80fd\u540e\uff0c\u8be5\u4fee\u6b63\u8005\u6301\u7eed\u84c4\u529b\u7c7b\u6280\u80fd\u7684\u84c4\u529b\u65f6\u95f4\u7f29\u77ed{1}%\uff0c\u4fdd\u6301\u5230\u6218\u6597\u7ed3\u675f\uff0c\u6700\u591a\u53e0\u52a03\u6b21\u3002",
+        "desc": "小队修正者触发闪避技能后，该修正者持续蓄力类技能的蓄力时间缩短{1}%，保持到战斗结束，最多叠加3次。",
         "params": [
             [
                 516,
@@ -661,12 +661,12 @@
     },
     "4012": {
         "item_rare": 4,
-        "name": "\u5149\u5b50\u8dc3\u8fc1\u00b7\u529f\u7387",
+        "name": "光子跃迁·功率",
         "icon": "1",
         "id": 4012,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5168\u961f\u6012\u6c14\u7c7b\u578b\u4fee\u6b63\u8005\u6240\u6709\u6280\u80fd\u7684\u6012\u6c14\u6d88\u8017\u964d\u4f4e{1}%\u3002",
+        "desc": "全队怒气类型修正者所有技能的怒气消耗降低{1}%。",
         "params": [
             [
                 535,
@@ -676,12 +676,12 @@
     },
     "4013": {
         "item_rare": 4,
-        "name": "\u5149\u5b50\u8dc3\u8fc1\u00b7\u6781\u901f",
+        "name": "光子跃迁·极速",
         "icon": "1",
         "id": 4013,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5168\u961f\u6012\u6c14\u7c7b\u578b\u4fee\u6b63\u8005\u6bcf\u79d2\u83b7\u5f97{1}\u70b9\u6012\u6c14\u3002",
+        "desc": "全队怒气类型修正者每秒获得{1}点怒气。",
         "params": [
             [
                 536,
@@ -691,12 +691,12 @@
     },
     "4014": {
         "item_rare": 4,
-        "name": "\u5149\u5b50\u8dc3\u8fc1\u00b7\u78c1\u66b4",
+        "name": "光子跃迁·磁暴",
         "icon": "1",
         "id": 4014,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5168\u961f\u80fd\u91cf\u7c7b\u578b\u4fee\u6b63\u8005\u63d0\u9ad830%\u7684\u80fd\u91cf\u81ea\u52a8\u6062\u590d\u901f\u5ea6\u3002",
+        "desc": "全队能量类型修正者提高30%的能量自动恢复速度。",
         "params": [
             [
                 537,
@@ -706,12 +706,12 @@
     },
     "4015": {
         "item_rare": 4,
-        "name": "\u5149\u5b50\u8dc3\u8fc1\u00b7\u7194\u8680",
+        "name": "光子跃迁·熔蚀",
         "icon": "1",
         "id": 4015,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5168\u961f\u80fd\u91cf\u7c7b\u578b\u4fee\u6b63\u8005\u6240\u6709\u6280\u80fd\u7684\u80fd\u6d88\u8017\u964d\u4f4e{1}%\u3002",
+        "desc": "全队能量类型修正者所有技能的能消耗降低{1}%。",
         "params": [
             [
                 538,
@@ -721,12 +721,12 @@
     },
     "4016": {
         "item_rare": 4,
-        "name": "\u5149\u5b50\u8dc3\u8fc1\u00b7\u9608\u503c",
+        "name": "光子跃迁·阈值",
         "icon": "1",
         "id": 4016,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5168\u961f\u5370\u8bb0\u7c7b\u578b\u4fee\u6b63\u8005\u4f7f\u7528\u83b7\u5f97\u5370\u8bb0\u7684\u6280\u80fd\u65f6\uff0c\u5c06\u989d\u5916\u83b7\u53d61\u4e2a\u5370\u8bb0\u3002",
+        "desc": "全队印记类型修正者使用获得印记的技能时，将额外获取1个印记。",
         "params": [
             [
                 539,
@@ -736,12 +736,12 @@
     },
     "4017": {
         "item_rare": 4,
-        "name": "\u5149\u5b50\u8dc3\u8fc1\u00b7\u8d4b\u5370",
+        "name": "光子跃迁·赋印",
         "icon": "1",
         "id": 4017,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5168\u961f\u5370\u8bb0\u7c7b\u578b\u4fee\u6b63\u8005\u4f7f\u7528\u6d88\u8017\u5370\u8bb0\u7684\u6280\u80fd\u540e\uff0c\u7acb\u5373\u56de\u590d{1}\u4e2a\u5370\u8bb0\uff0c\u8be5\u6548\u679c\u6bcf7\u79d2\u89e6\u53d1\u4e00\u6b21\u3002",
+        "desc": "全队印记类型修正者使用消耗印记的技能后，立即回复{1}个印记，该效果每7秒触发一次。",
         "params": [
             [
                 540,
@@ -751,12 +751,12 @@
     },
     "4018": {
         "item_rare": 4,
-        "name": "\u5149\u5b50\u8dc3\u8fc1\u00b7\u9aa4\u96f7",
+        "name": "光子跃迁·骤雷",
         "icon": "1",
         "id": 4018,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5168\u961f\u795e\u80fd\u7c7b\u578b\u4fee\u6b63\u8005\u7684\u795e\u80fd\u83b7\u53d6\u503c\u63d0\u9ad8{1}%\u3002",
+        "desc": "全队神能类型修正者的神能获取值提高{1}%。",
         "params": [
             [
                 541,
@@ -766,12 +766,12 @@
     },
     "4019": {
         "item_rare": 4,
-        "name": "\u5149\u5b50\u8dc3\u8fc1\u00b7\u795e\u94ed",
+        "name": "光子跃迁·神铭",
         "icon": "1",
         "id": 4019,
         "sub_affix_type": 3,
         "identify_buff": 0,
-        "desc": "\u5168\u961f\u795e\u80fd\u7c7b\u578b\u4fee\u6b63\u8005\u6240\u6709\u6280\u80fd\u7684\u795e\u80fd\u6d88\u8017\u964d\u4f4e30\u70b9\u3002",
+        "desc": "全队神能类型修正者所有技能的神能消耗降低30点。",
         "params": [
             [
                 542,

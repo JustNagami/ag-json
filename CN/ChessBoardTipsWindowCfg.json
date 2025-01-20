@@ -1,66 +1,66 @@
 {
     "1101": {
-        "description": "\u6bcf\u5f53\u9e2d\u9e2d\u683c<color=#F48800>\u88ab\u8e29\u4e2d</color>\uff0c\u4e0b\u4e00\u56de\u5408\u5c06\u5728\u539f\u5730<color=#F48800>\u751f\u6210\u4e00\u53ea\u9e2d\u9e2d</color>\n\n\u6ce8\u610f\uff0c\u9e2d\u9e2d\u4e5f\u4f1a\u89e6\u53d1\u8be5\u6548\u679c\uff01",
+        "description": "每当鸭鸭格<color=#F48800>被踩中</color>，下一回合将在原地<color=#F48800>生成一只鸭鸭</color>\n\n注意，鸭鸭也会触发该效果！",
         "icon": "mimier",
-        "tips": "\u9009\u62e9\u9003\u907f\uff0c\u6216\u8005\u4e3b\u52a8\u51fa\u51fb\uff01",
+        "tips": "选择逃避，或者主动出击！",
         "id": 1101,
-        "title": "\u9e2d\u9e2d\u683c\u673a\u5236\u8bf4\u660e"
+        "title": "鸭鸭格机制说明"
     },
     "1102": {
-        "description": "\u9e2d\u9e2d<color=#F48800>\u8ffd\u4e0a\u73a9\u5bb6</color>\u65f6\uff0c\u4f1a<color=#F48800>\u593a\u53d6\u73a9\u5bb6</color>\u4e00\u5b9a\u6570\u989d\u7684\u9e2d\u9e2d\u5e01\n\n\u5c3d\u91cf\u907f\u514d\u8d70\u5728\u9e2d\u9e2d\u7684\u524d\u65b9\uff01",
+        "description": "鸭鸭<color=#F48800>追上玩家</color>时，会<color=#F48800>夺取玩家</color>一定数额的鸭鸭币\n\n尽量避免走在鸭鸭的前方！",
         "icon": "mimier",
-        "tips": "\u8981\u662f\u6b63\u597d\u88ab\u9e2d\u9e2d\u8e29\u4e2d\uff0c\u4f3c\u4e4e\u4f1a\u6709\u66f4\u7cdf\u7cd5\u7684\u4e8b\u60c5\u53d1\u751f\u2026\u2026",
+        "tips": "要是正好被鸭鸭踩中，似乎会有更糟糕的事情发生……",
         "id": 1102,
-        "title": "\u9e2d\u9e2d\u673a\u5236\u8bf4\u660e"
+        "title": "鸭鸭机制说明"
     },
     "1103": {
-        "description": "\u73a9\u5bb6<color=#F48800>\u8e29\u4e2d\u9e2d\u9e2d</color>\u65f6\uff0c\u80fd\u5c06\u5176<color=#F48800>\u6d88\u706d</color>\u5e76\u83b7\u5f97\u5927\u91cf\u7684\u9e2d\u9e2d\u5e01",
+        "description": "玩家<color=#F48800>踩中鸭鸭</color>时，能将其<color=#F48800>消灭</color>并获得大量的鸭鸭币",
         "icon": "mimier",
-        "tips": "\u8fd0\u7528\u4f60\u7684\u667a\u6167\uff0c\u6216\u8005\u2026\u4e00\u70b9\u70b9\u7684\u8fd0\u6c14",
+        "tips": "运用你的智慧，或者…一点点的运气",
         "id": 1103,
-        "title": "\u9e2d\u9e2d\u673a\u5236\u8bf4\u660e"
+        "title": "鸭鸭机制说明"
     },
     "1104": {
-        "description": "\u6bcf<color=#F48800>\u5b8c\u6210\u4e00\u4e2a\u76ee\u6807\u683c</color>\uff0c\u5c06\u5728\u5730\u56fe\u7684\u5176\u4ed6\u4f4d\u7f6e<color=#F48800>\u751f\u6210\u4e00\u4e2a\u65b0\u7684\u76ee\u6807\u683c</color>\n\n<color=#F48800>\u5b8c\u6210\u6240\u6709\u76ee\u6807\u683c</color>\u540e\u5373\u53ef\u901a\u5173\u8be5\u5730\u56fe\uff01",
+        "description": "每<color=#F48800>完成一个目标格</color>，将在地图的其他位置<color=#F48800>生成一个新的目标格</color>\n\n<color=#F48800>完成所有目标格</color>后即可通关该地图！",
         "icon": "mimier",
-        "tips": "\u522b\u5fd8\u4e86\u5e26\u4e0a\u8db3\u591f\u7684\u9e2d\u9e2d\u5e01\uff01",
+        "tips": "别忘了带上足够的鸭鸭币！",
         "id": 1104,
-        "title": "\u76ee\u6807\u683c\u673a\u5236\u8bf4\u660e"
+        "title": "目标格机制说明"
     },
     "2101": {
-        "description": "\u90e8\u5206\u5730\u56fe\u4e0a\u5b58\u5728<color=#F48800>\u673a\u5173\u5730\u5f62</color>\uff0c\u505c\u7559\u5728<color=#F48800>\u673a\u5173\u683c</color>\u65f6\uff0c\u5c06\u89e6\u53d1<color=#F48800>\u5730\u5f62\u53d8\u5316</color>\u6548\u679c",
+        "description": "部分地图上存在<color=#F48800>机关地形</color>，停留在<color=#F48800>机关格</color>时，将触发<color=#F48800>地形变化</color>效果",
         "icon": "mimier",
-        "tips": "\u6ce8\u610f\u673a\u5173\u4ea7\u751f\u7684\u5730\u5f62\u53d8\u5316\uff01",
+        "tips": "注意机关产生的地形变化！",
         "id": 2101,
-        "title": "\u5730\u56fe\u673a\u5236\u8bf4\u660e"
+        "title": "地图机制说明"
     },
     "2102": {
-        "description": "\u505c\u7559\u5728<color=#F48800>\u6e38\u620f\u683c</color>\u65f6\uff0c\u5c06\u73a9\u4e00\u5c40<color=#F48800>\u5c0f\u6e38\u620f</color>\uff0c\u52aa\u529b\u8d62\u5f97\u5927\u5956\u5427\uff01",
+        "description": "停留在<color=#F48800>游戏格</color>时，将玩一局<color=#F48800>小游戏</color>，努力赢得大奖吧！",
         "icon": "mimier",
-        "tips": "\u653e\u5f03\u601d\u8003\uff0c\u5168\u51ed\u672c\u80fd",
+        "tips": "放弃思考，全凭本能",
         "id": 2102,
-        "title": "\u6e38\u620f\u683c\u8bf4\u660e"
+        "title": "游戏格说明"
     },
     "3101": {
-        "description": "\u505c\u7559\u5728<color=#F48800>\u673a\u5173\u683c</color>\u65f6\uff0c\u5c06\u4f7f\u6295\u5c4f\u5e7f\u544a\u8f66<color=#F48800>\u79fb\u52a8</color>\uff0c<color=#F48800>\u6539\u53d8\u73a9\u5bb6\u53ef\u884c\u8d70\u8def\u7ebf</color>",
+        "description": "停留在<color=#F48800>机关格</color>时，将使投屏广告车<color=#F48800>移动</color>，<color=#F48800>改变玩家可行走路线</color>",
         "icon": "mimier",
-        "tips": "\u6ce8\u610f\u673a\u5173\u4ea7\u751f\u7684\u5730\u5f62\u53d8\u5316\uff01",
+        "tips": "注意机关产生的地形变化！",
         "id": 3101,
-        "title": "\u5730\u56fe\u673a\u5236\u8bf4\u660e"
+        "title": "地图机制说明"
     },
     "4101": {
-        "description": "\u5728<color=#F48800>\u6e38\u56ed\u533a</color>\u4e2d\uff0c\u73a9\u5bb6\u548c\u9e2d\u9e2d\u9ed8\u8ba4\u4f7f\u7528<color=#F48800>\u53cc\u500d\u9ab0\u5b50</color>\u8fdb\u884c\u79fb\u52a8\uff01",
+        "description": "在<color=#F48800>游园区</color>中，玩家和鸭鸭默认使用<color=#F48800>双倍骰子</color>进行移动！",
         "icon": "mimier",
-        "tips": "\u51b2\u9e2d\uff01\uff01\uff01",
+        "tips": "冲鸭！！！",
         "id": 4101,
-        "title": "\u5730\u56fe\u673a\u5236\u8bf4\u660e"
+        "title": "地图机制说明"
     },
     "4102": {
-        "description": "\u505c\u7559\u5728<color=#F48800>\u673a\u5173\u683c</color>\u65f6\uff0c\u5c06\u4f7f\u65cb\u8f6c\u6ed1\u68af<color=#F48800>\u8f6c\u52a8</color>\uff0c<color=#F48800>\u6539\u53d8\u73a9\u5bb6\u53ef\u884c\u8d70\u8def\u7ebf</color>",
+        "description": "停留在<color=#F48800>机关格</color>时，将使旋转滑梯<color=#F48800>转动</color>，<color=#F48800>改变玩家可行走路线</color>",
         "icon": "mimier",
-        "tips": "\u6ce8\u610f\u673a\u5173\u4ea7\u751f\u7684\u5730\u5f62\u53d8\u5316\uff01",
+        "tips": "注意机关产生的地形变化！",
         "id": 4102,
-        "title": "\u5730\u56fe\u673a\u5236\u8bf4\u660e"
+        "title": "地图机制说明"
     },
     "all": [
         1101,

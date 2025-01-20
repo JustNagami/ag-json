@@ -6,8 +6,8 @@
         "love_type": 1,
         "id": 1001,
         "icon": "1039",
-        "name": "\u6ce2\u585e\u51ac",
-        "skill_desc": "\u559c\u597d<color=#EC85B8>\u300c\u5fc3\u610f\u5c0f\u7269\u300d</color>"
+        "name": "波塞冬",
+        "skill_desc": "喜好<color=#EC85B8>「心意小物」</color>"
     },
     "1002": {
         "special_effect": 0,
@@ -16,8 +16,8 @@
         "love_type": 1,
         "id": 1002,
         "icon": "1037",
-        "name": "\u970d\u5fb7\u5c14",
-        "skill_desc": "\u559c\u597d<color=#EC85B8>\u300c\u5fc3\u610f\u5c0f\u7269\u300d</color>"
+        "name": "霍德尔",
+        "skill_desc": "喜好<color=#EC85B8>「心意小物」</color>"
     },
     "1003": {
         "special_effect": 4,
@@ -25,8 +25,8 @@
         "love_type": 1,
         "id": 1003,
         "icon": "1084",
-        "name": "\u8587\u513f\u4e39\u8482",
-        "skill_desc": "\u559c\u597d<color=#EC85B8>\u300c\u5fc3\u610f\u5c0f\u7269\u300d</color>\n\n\u5546\u5e97\u4e2d\u51fa\u552e<color=#EC85B8>\u300c\u5fc3\u610f\u5c0f\u7269\u300d</color>\u7684\u8d27\u67b6\u6570\u91cf\u6700\u591a\u65f6\uff0c\u6240\u6709\u51fa\u552e<color=#EC85B8>\u300c\u5fc3\u610f\u5c0f\u7269\u300d</color>\u7684\u8d27\u67b6\u552e\u8d27\u80fd\u529b<color=#E78300>\u63d0\u534710</color>\n\n\u5426\u5219\uff0c\u6240\u6709\u51fa\u552e<color=#EC85B8>\u300c\u5fc3\u610f\u5c0f\u7269\u300d</color>\u7684\u8d27\u67b6\u552e\u8d27\u80fd\u529b<color=#E78300>\u964d\u4f4e30</color>",
+        "name": "薇儿丹蒂",
+        "skill_desc": "喜好<color=#EC85B8>「心意小物」</color>\n\n商店中出售<color=#EC85B8>「心意小物」</color>的货架数量最多时，所有出售<color=#EC85B8>「心意小物」</color>的货架售货能力<color=#E78300>提升10</color>\n\n否则，所有出售<color=#EC85B8>「心意小物」</color>的货架售货能力<color=#E78300>降低30</color>",
         "special_effect_args": [
             1,
             10,
@@ -40,8 +40,8 @@
         "love_type": 2,
         "id": 2001,
         "icon": "1093",
-        "name": "\u56fd\u5e38\u7acb",
-        "skill_desc": "\u559c\u597d<color=#7686A2>\u300c\u9038\u8da3\u826f\u54c1\u300d</color>"
+        "name": "国常立",
+        "skill_desc": "喜好<color=#7686A2>「逸趣良品」</color>"
     },
     "2002": {
         "special_effect": 2,
@@ -49,8 +49,8 @@
         "love_type": 2,
         "id": 2002,
         "icon": "1075",
-        "name": "\u9675\u5149",
-        "skill_desc": "\u559c\u597d<color=#7686A2>\u300c\u9038\u8da3\u826f\u54c1\u300d</color>\n\n\u5546\u5e97\u4e2d\u4ec5\u51fa\u552e\u4e00\u79cd<color=#7686A2>\u300c\u9038\u8da3\u826f\u54c1\u300d</color>\u65f6\uff0c\u6240\u6709\u51fa\u552e<color=#7686A2>\u300c\u9038\u8da3\u826f\u54c1\u300d</color>\u7684\u8d27\u67b6\u552e\u8d27\u80fd\u529b<color=#E78300>\u63d0\u534715</color>\n\n\u5426\u5219\uff0c\u6240\u6709\u51fa\u552e<color=#7686A2>\u300c\u9038\u8da3\u826f\u54c1\u300d</color>\u7684\u8d27\u67b6\u552e\u8d27\u80fd\u529b<color=#E78300>\u964d\u4f4e30</color>",
+        "name": "陵光",
+        "skill_desc": "喜好<color=#7686A2>「逸趣良品」</color>\n\n商店中仅出售一种<color=#7686A2>「逸趣良品」</color>时，所有出售<color=#7686A2>「逸趣良品」</color>的货架售货能力<color=#E78300>提升15</color>\n\n否则，所有出售<color=#7686A2>「逸趣良品」</color>的货架售货能力<color=#E78300>降低30</color>",
         "special_effect_args": [
             2,
             15,
@@ -63,8 +63,8 @@
         "love_type": 2,
         "id": 2003,
         "icon": "1071",
-        "name": "\u5b5f\u7ae0",
-        "skill_desc": "\u559c\u597d<color=#7686A2>\u300c\u9038\u8da3\u826f\u54c1\u300d</color>\n\n<color=#297DE0>\u8fde\u7eed\u8d2d\u4e70\u76f8\u540c\u5546\u54c1</color>\u65f6\uff0c\u8d27\u67b6\u7684\u552e\u8d27\u80fd\u529b\u9010\u6b21\u964d\u4f4e\uff0c\u6bcf\u6b21<color=#E78300>\u964d\u4f4e20</color>\n\n<color=#297DE0>\u8d2d\u4e70\u4e0d\u540c\u5546\u54c1\u540e\u91cd\u7f6e</color>",
+        "name": "孟章",
+        "skill_desc": "喜好<color=#7686A2>「逸趣良品」</color>\n\n<color=#297DE0>连续购买相同商品</color>时，货架的售货能力逐次降低，每次<color=#E78300>降低20</color>\n\n<color=#297DE0>购买不同商品后重置</color>",
         "special_effect_args": [
             -20
         ]
@@ -76,8 +76,8 @@
         "love_type": 3,
         "id": 3001,
         "icon": "1068",
-        "name": "\u6069\u5229\u5c14",
-        "skill_desc": "\u559c\u597d<color=#C3997E>\u300c\u5b9e\u7528\u7cbe\u9009\u300d</color>"
+        "name": "恩利尔",
+        "skill_desc": "喜好<color=#C3997E>「实用精选」</color>"
     },
     "3002": {
         "special_effect": 6,
@@ -85,8 +85,8 @@
         "love_type": 3,
         "id": 3002,
         "icon": "1081",
-        "name": "\u4e1d\u5361\u8482",
-        "skill_desc": "\u559c\u597d<color=#C3997E>\u300c\u5b9e\u7528\u7cbe\u9009\u300d</color>\n\n\u5546\u5e97\u4e2d<color=#297DE0>\u8d2d\u7269\u8def\u5f84\u957f\u5ea6</color>\u5927\u4e8e<color=#E78300>20</color>\u65f6\uff0c\u6240\u6709\u51fa\u552e<color=#C3997E>\u300c\u5b9e\u7528\u7cbe\u9009\u300d</color>\u7684\u8d27\u67b6\u552e\u8d27\u80fd\u529b<color=#E78300>\u63d0\u534730</color>\n\n\u5426\u5219\uff0c\u6240\u6709\u51fa\u552e<color=#C3997E>\u300c\u5b9e\u7528\u7cbe\u9009\u300d</color>\u7684\u8d27\u67b6\u552e\u8d27\u80fd\u529b<color=#E78300>\u964d\u4f4e30</color>",
+        "name": "丝卡蒂",
+        "skill_desc": "喜好<color=#C3997E>「实用精选」</color>\n\n商店中<color=#297DE0>购物路径长度</color>大于<color=#E78300>20</color>时，所有出售<color=#C3997E>「实用精选」</color>的货架售货能力<color=#E78300>提升30</color>\n\n否则，所有出售<color=#C3997E>「实用精选」</color>的货架售货能力<color=#E78300>降低30</color>",
         "special_effect_args": [
             20,
             3,
@@ -100,8 +100,8 @@
         "love_type": 3,
         "id": 3003,
         "icon": "1016",
-        "name": "\u91d1\u56fa",
-        "skill_desc": "\u559c\u597d<color=#C3997E>\u300c\u5b9e\u7528\u7cbe\u9009\u300d</color>\n\n\u5546\u5e97\u4e2d\u4ec5\u51fa\u552e\u4e00\u79cd<color=#C3997E>\u300c\u5b9e\u7528\u7cbe\u9009\u300d</color>\u65f6\uff0c\u6240\u6709\u51fa\u552e<color=#C3997E>\u300c\u5b9e\u7528\u7cbe\u9009\u300d</color>\u7684\u8d27\u67b6\u552e\u8d27\u80fd\u529b<color=#E78300>\u63d0\u534715</color>\n\n\u5426\u5219\uff0c\u6240\u6709\u51fa\u552e<color=#C3997E>\u300c\u5b9e\u7528\u7cbe\u9009\u300d</color>\u7684\u8d27\u67b6\u552e\u8d27\u80fd\u529b<color=#E78300>\u964d\u4f4e30</color>",
+        "name": "金固",
+        "skill_desc": "喜好<color=#C3997E>「实用精选」</color>\n\n商店中仅出售一种<color=#C3997E>「实用精选」</color>时，所有出售<color=#C3997E>「实用精选」</color>的货架售货能力<color=#E78300>提升15</color>\n\n否则，所有出售<color=#C3997E>「实用精选」</color>的货架售货能力<color=#E78300>降低30</color>",
         "special_effect_args": [
             3,
             15,
@@ -115,8 +115,8 @@
         "love_type": 4,
         "id": 4001,
         "icon": "1042",
-        "name": "\u54c8\u8fea\u65af",
-        "skill_desc": "\u559c\u597d<color=#949287>\u300c\u7ecf\u5178\u73cd\u85cf\u300d</color>"
+        "name": "哈迪斯",
+        "skill_desc": "喜好<color=#949287>「经典珍藏」</color>"
     },
     "4002": {
         "special_effect": 1,
@@ -124,8 +124,8 @@
         "love_type": 4,
         "id": 4002,
         "icon": "1038",
-        "name": "\u8d6b\u62c9",
-        "skill_desc": "\u559c\u597d<color=#949287>\u300c\u7ecf\u5178\u73cd\u85cf\u300d</color>\n\n\u8d2d\u4e70<color=#297DE0>\u9ad8\u7ea7\u9999\u6c34</color>\u65f6\uff0c\u8d27\u67b6\u7684\u552e\u8d27\u80fd\u529b<color=#E78300>\u63d0\u534720</color>",
+        "name": "赫拉",
+        "skill_desc": "喜好<color=#949287>「经典珍藏」</color>\n\n购买<color=#297DE0>高级香水</color>时，货架的售货能力<color=#E78300>提升20</color>",
         "special_effect_args": [
             [
                 4002
@@ -139,8 +139,8 @@
         "love_type": 4,
         "id": 4003,
         "icon": "1032",
-        "name": "\u63d0\u5c14",
-        "skill_desc": "\u559c\u597d<color=#949287>\u300c\u7ecf\u5178\u73cd\u85cf\u300d</color>\n\n\u5546\u5e97\u4e2d\u51fa\u552e<color=#949287>\u300c\u7ecf\u5178\u73cd\u85cf\u300d</color>\u8d27\u67b6\u7684\u552e\u8d27\u80fd\u529b<color=#E78300>\u63d0\u534730</color>\uff0c\u51fa\u552e<color=#297DE0>\u5176\u4ed6\u79cd\u7c7b\u5546\u54c1</color>\u8d27\u67b6\u7684\u552e\u8d27\u80fd\u529b<color=#E78300>\u964d\u4f4e15</color>",
+        "name": "提尔",
+        "skill_desc": "喜好<color=#949287>「经典珍藏」</color>\n\n商店中出售<color=#949287>「经典珍藏」</color>货架的售货能力<color=#E78300>提升30</color>，出售<color=#297DE0>其他种类商品</color>货架的售货能力<color=#E78300>降低15</color>",
         "special_effect_args": [
             4,
             30,

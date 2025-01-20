@@ -1,7 +1,7 @@
 {
     "1001": {
-        "description": "\u6bcf\u79fb\u52a8<color=#FF9500>40</color>\u683c\uff0c\u83b7\u5f97<color=#FF9500>1</color>\u4e2a\u9ab0\u5b50\uff0c\u8fd8\u9700\u79fb\u52a8<color=#FF9500>%s</color>\u683c",
-        "name": "\u7cbe\u5bc6\u5de5\u5177",
+        "description": "每移动<color=#FF9500>40</color>格，获得<color=#FF9500>1</color>个骰子，还需移动<color=#FF9500>%s</color>格",
+        "name": "精密工具",
         "type": 1001,
         "updateround": 40,
         "remainround": -1,
@@ -15,8 +15,8 @@
         ]
     },
     "1002": {
-        "description": "\u89c6\u91ce\u8303\u56f4<color=#FF9500>+3</color>",
-        "name": "\u6697\u9002\u5e94",
+        "description": "视野范围<color=#FF9500>+3</color>",
+        "name": "暗适应",
         "type": 1000,
         "updateround": -1,
         "des_params": "",
@@ -29,8 +29,8 @@
         ]
     },
     "1003": {
-        "description": "\u62e5\u6709\u5173\u95ed<color=#FF9500>\u300c\u56de\u6536\u7ba1\u9053\u300d</color>\u7684\u80fd\u529b",
-        "name": "\u5982\u5c65\u5e73\u5730",
+        "description": "拥有关闭<color=#FF9500>「回收管道」</color>的能力",
+        "name": "如履平地",
         "type": 1000,
         "updateround": -1,
         "des_params": "",
@@ -43,8 +43,8 @@
         ]
     },
     "1004": {
-        "description": "\u62e5\u6709\u7834\u574f<color=#FF9500>\u300c\u575a\u56fa\u8d27\u7bb1\u300d</color>\u7684\u80fd\u529b",
-        "name": "\u6e05\u626b\u969c\u788d",
+        "description": "拥有破坏<color=#FF9500>「坚固货箱」</color>的能力",
+        "name": "清扫障碍",
         "type": 1000,
         "updateround": -1,
         "des_params": "",
@@ -57,8 +57,8 @@
         ]
     },
     "1005": {
-        "description": "\u62e5\u6709\u8c03\u8282<color=#FF9500>\u300c\u63a8\u8fdb\u5668\u300d</color>\u7684\u80fd\u529b",
-        "name": "\u5f39\u6027\u52bf\u80fd",
+        "description": "拥有调节<color=#FF9500>「推进器」</color>的能力",
+        "name": "弹性势能",
         "type": 1000,
         "updateround": -1,
         "des_params": "",
@@ -71,8 +71,8 @@
         ]
     },
     "1006": {
-        "description": "\u62e5\u6709\u64cd\u4f5c<color=#FF9500>\u300c\u5347\u964d\u53f0\u300d</color>\u7684\u80fd\u529b",
-        "name": "\u9ad8\u7a0b\u53d8\u52a8",
+        "description": "拥有操作<color=#FF9500>「升降台」</color>的能力",
+        "name": "高程变动",
         "type": 1000,
         "updateround": -1,
         "des_params": "",
@@ -85,8 +85,8 @@
         ]
     },
     "1007": {
-        "description": "\u62e5\u6709\u64cd\u4f5c<color=#FF9500>\u300c\u603b\u64cd\u4f5c\u53f0\u300d</color>\u7684\u80fd\u529b",
-        "name": "\u8d1f\u5411\u91cf",
+        "description": "拥有操作<color=#FF9500>「总操作台」</color>的能力",
+        "name": "负向量",
         "type": 1000,
         "updateround": -1,
         "des_params": "",
@@ -99,8 +99,8 @@
         ]
     },
     "1008": {
-        "description": "\u62e5\u6709\u4e34\u65f6\u5173\u95ed<color=#FF9500>\u300c\u56de\u6536\u7ba1\u9053\u300d</color>\u7684\u80fd\u529b",
-        "name": "\u4e0d\u7a33\u5b9a\u5e73\u8861",
+        "description": "拥有临时关闭<color=#FF9500>「回收管道」</color>的能力",
+        "name": "不稳定平衡",
         "type": 1000,
         "updateround": -1,
         "des_params": "",
@@ -113,8 +113,8 @@
         ]
     },
     "1009": {
-        "description": "\u89c6\u91ce\u8303\u56f4<color=#FF9500>+2</color>",
-        "name": "\u6697\u9002\u5e94",
+        "description": "视野范围<color=#FF9500>+2</color>",
+        "name": "暗适应",
         "type": 1000,
         "updateround": -1,
         "des_params": "",
@@ -127,8 +127,8 @@
         ]
     },
     "2001": {
-        "description": "<color=#FF9500>%s</color>\u56de\u5408\u5185\uff0c\u89c6\u91ce\u8303\u56f4<color=#FF9500>+3</color>",
-        "name": "\u611f\u5b98\u8f85\u52a9",
+        "description": "<color=#FF9500>%s</color>回合内，视野范围<color=#FF9500>+3</color>",
+        "name": "感官辅助",
         "type": 1000,
         "updateround": -1,
         "remainround": 30,
@@ -143,8 +143,8 @@
         ]
     },
     "2002": {
-        "description": "<color=#FF9500>%s</color>\u56de\u5408\u5185\uff0c\u884c\u52a8\u503c<color=#FF9500>\u6d88\u8017\u7ffb\u500d</color>",
-        "name": "\u884c\u52a8\u51dd\u6ede",
+        "description": "<color=#FF9500>%s</color>回合内，行动值<color=#FF9500>消耗翻倍</color>",
+        "name": "行动凝滞",
         "type": 1000,
         "updateround": -1,
         "remainround": 10,
@@ -159,8 +159,8 @@
         ]
     },
     "2003": {
-        "description": "<color=#FF9500>%s</color>\u56de\u5408\u540e\uff0c\u56de\u5230\u539f\u70b9",
-        "name": "\u7cbe\u51c6\u76f4\u89c9",
+        "description": "<color=#FF9500>%s</color>回合后，回到原点",
+        "name": "精准直觉",
         "type": 1001,
         "updateround": 30,
         "remainround": 30,
@@ -174,8 +174,8 @@
         ]
     },
     "2004": {
-        "description": "<color=#FF9500>%s</color>\u56de\u5408\u540e\uff0c\u5931\u53bb<color=#FF9500>2</color>\u4e2a\u9ab0\u5b50",
-        "name": "\u7834\u635f\u9690\u60a3",
+        "description": "<color=#FF9500>%s</color>回合后，失去<color=#FF9500>2</color>个骰子",
+        "name": "破损隐患",
         "type": 1001,
         "updateround": 20,
         "remainround": 20,
@@ -189,8 +189,8 @@
         ]
     },
     "2005": {
-        "description": "<color=#FF9500>%s</color>\u56de\u5408\u540e\uff0c\u83b7\u5f97<color=#FF9500>2</color>\u4e2a\u9ab0\u5b50",
-        "name": "\u8fdf\u5230\u8c22\u793c",
+        "description": "<color=#FF9500>%s</color>回合后，获得<color=#FF9500>2</color>个骰子",
+        "name": "迟到谢礼",
         "type": 1001,
         "updateround": 20,
         "remainround": 20,
@@ -204,8 +204,8 @@
         ]
     },
     "2006": {
-        "description": "<color=#FF9500>%s</color>\u56de\u5408\u540e\uff0c\u56de\u5230\u539f\u70b9",
-        "name": "\u7cbe\u51c6\u76f4\u89c9",
+        "description": "<color=#FF9500>%s</color>回合后，回到原点",
+        "name": "精准直觉",
         "type": 1001,
         "updateround": 30,
         "remainround": 30,

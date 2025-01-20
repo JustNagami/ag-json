@@ -1,11 +1,11 @@
 {
     "1": {
-        "name": "\u300c\u5915\u300d",
+        "name": "「夕」",
         "icon": "",
         "stage_id": 5140709,
         "stage_type": 0,
         "round": 1,
-        "desc": "\u9192\u5c81\u8282\u81f3\uff0c\u300c\u5915\u300d\u7684\u5c01\u5370\u518d\u6b21\u677e\u52a8\uff0c\u300c\u5915\u300d\u662f\u6765\u81ea\u865a\u6052\u7684\u795e\u79d8\u89c6\u9ab8\uff0c\u950b\u5229\u7684\u722a\u7259\uff0c\u5934\u4e0a\u7684\u7284\u89d2\u662f\u4ed6\u7684\u5f3a\u529b\u6b66\u5668\uff0c\u62e5\u6709\u7740\u4ee5\u4e00\u654c\u767e\u7684\u91ce\u86ee\u529b\u91cf\u3002\n\u6bcf\u5f53\u300c\u5915\u300d\u9003\u8d70\u65f6\u4fbf\u4f1a\u5316\u51fa\u5206\u8eab\uff0c\u5f53\u5206\u8eab\u88ab\u5c01\u5370\u540e\uff0c\u65b9\u53ef\u518d\u6b21\u5bf9\u5176\u8fdb\u884c\u538b\u5236\u3002",
+        "desc": "醒岁节至，「夕」的封印再次松动，「夕」是来自虚恒的神秘视骸，锋利的爪牙，头上的犄角是他的强力武器，拥有着以一敌百的野蛮力量。\n每当「夕」逃走时便会化出分身，当分身被封印后，方可再次对其进行压制。",
         "activity_id": 222721,
         "boss_hp": 1000000,
         "id": 1,
@@ -18,12 +18,12 @@
         "affix_reward": []
     },
     "2": {
-        "name": "\u5206\u8eab\u00b7\u4e7e\u5149\u9eef\u6de1",
+        "name": "分身·乾光黯淡",
         "icon": "body_icon6",
         "stage_id": 5140706,
         "stage_type": 0,
         "round": 8,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u5149\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002\n\u5b8c\u6210\u5bf9\u5176\u7684\u5c01\u5370\u540e\uff0c\u53ef\u4ee5\u6d1e\u6089\u300c\u5915\u300d\u7684\u5f31\u70b9\uff1a\n\u4e0e\u300c\u5915\u300d\u7684\u672c\u4f53\u6218\u6597\u65f6\uff0c\u5965\u4e49\u4f24\u5bb3\u63d0\u5347\u3002",
+        "desc": "「夕」分化出的分身，似乎对光属性抗性较弱。\n完成对其的封印后，可以洞悉「夕」的弱点：\n与「夕」的本体战斗时，奥义伤害提升。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 2,
@@ -36,12 +36,12 @@
         "affix_reward": []
     },
     "3": {
-        "name": "\u5206\u8eab\u00b7\u4e7e\u5149\u9eef\u6de1",
+        "name": "分身·乾光黯淡",
         "icon": "",
         "stage_id": 5140716,
         "stage_type": 1,
         "round": 8,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u5149\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002",
+        "desc": "「夕」分化出的分身，似乎对光属性抗性较弱。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 3,
@@ -60,12 +60,12 @@
         ]
     },
     "4": {
-        "name": "\u5206\u8eab\u00b7\u6cfd\u6c34\u5151\u8f6c",
+        "name": "分身·泽水兑转",
         "icon": "body_icon5",
         "stage_id": 5140705,
         "stage_type": 0,
         "round": 4,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u6c34\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002\n\u5b8c\u6210\u5bf9\u5176\u7684\u5c01\u5370\u540e\uff0c\u53ef\u4ee5\u6d1e\u6089\u300c\u5915\u300d\u7684\u5f31\u70b9\uff1a\n\u4e0e\u300c\u5915\u300d\u7684\u672c\u4f53\u6218\u6597\u65f6\uff0c\u6700\u5927\u751f\u547d\u503c\u63d0\u5347\u3002",
+        "desc": "「夕」分化出的分身，似乎对水属性抗性较弱。\n完成对其的封印后，可以洞悉「夕」的弱点：\n与「夕」的本体战斗时，最大生命值提升。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 4,
@@ -78,12 +78,12 @@
         "affix_reward": []
     },
     "5": {
-        "name": "\u5206\u8eab\u00b7\u6cfd\u6c34\u5151\u8f6c",
+        "name": "分身·泽水兑转",
         "icon": "",
         "stage_id": 5140715,
         "stage_type": 1,
         "round": 4,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u6c34\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002",
+        "desc": "「夕」分化出的分身，似乎对水属性抗性较弱。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 5,
@@ -102,7 +102,7 @@
         ]
     },
     "6": {
-        "name": "\u300c\u5915\u300d",
+        "name": "「夕」",
         "icon": "",
         "stage_id": 5140709,
         "stage_type": 0,
@@ -120,12 +120,12 @@
         "affix_reward": []
     },
     "7": {
-        "name": "\u5206\u8eab\u00b7\u5dfd\u98ce\u533f\u8e2a",
+        "name": "分身·巽风匿踪",
         "icon": "body_icon2",
         "stage_id": 5140702,
         "stage_type": 0,
         "round": 4,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u98ce\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002\n\u5b8c\u6210\u5bf9\u5176\u7684\u5c01\u5370\u540e\uff0c\u53ef\u4ee5\u6d1e\u6089\u300c\u5915\u300d\u7684\u5f31\u70b9\uff1a\n\u4e0e\u300c\u5915\u300d\u7684\u672c\u4f53\u6218\u6597\u65f6\uff0c\u4f1a\u5fc3\u7387\u63d0\u5347\u3002",
+        "desc": "「夕」分化出的分身，似乎对风属性抗性较弱。\n完成对其的封印后，可以洞悉「夕」的弱点：\n与「夕」的本体战斗时，会心率提升。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 7,
@@ -138,12 +138,12 @@
         "affix_reward": []
     },
     "8": {
-        "name": "\u5206\u8eab\u00b7\u5dfd\u98ce\u533f\u8e2a",
+        "name": "分身·巽风匿踪",
         "icon": "",
         "stage_id": 5140712,
         "stage_type": 1,
         "round": 4,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u98ce\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002",
+        "desc": "「夕」分化出的分身，似乎对风属性抗性较弱。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 8,
@@ -162,12 +162,12 @@
         ]
     },
     "9": {
-        "name": "\u5206\u8eab\u00b7\u91cd\u96f7\u9707\u58f0",
+        "name": "分身·重雷震声",
         "icon": "body_icon1",
         "stage_id": 5140701,
         "stage_type": 0,
         "round": 2,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u96f7\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002\n\u5b8c\u6210\u5bf9\u5176\u7684\u5c01\u5370\u540e\uff0c\u53ef\u4ee5\u6d1e\u6089\u300c\u5915\u300d\u7684\u5f31\u70b9\uff1a\n\u4e0e\u300c\u5915\u300d\u7684\u672c\u4f53\u6218\u6597\u65f6\uff0c\u666e\u901a\u653b\u51fb\u4f24\u5bb3\u63d0\u5347\u3002",
+        "desc": "「夕」分化出的分身，似乎对雷属性抗性较弱。\n完成对其的封印后，可以洞悉「夕」的弱点：\n与「夕」的本体战斗时，普通攻击伤害提升。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 9,
@@ -180,12 +180,12 @@
         "affix_reward": []
     },
     "10": {
-        "name": "\u5206\u8eab\u00b7\u91cd\u96f7\u9707\u58f0",
+        "name": "分身·重雷震声",
         "icon": "",
         "stage_id": 5140711,
         "stage_type": 1,
         "round": 2,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u96f7\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002",
+        "desc": "「夕」分化出的分身，似乎对雷属性抗性较弱。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 10,
@@ -204,7 +204,7 @@
         ]
     },
     "11": {
-        "name": "\u300c\u5915\u300d",
+        "name": "「夕」",
         "icon": "",
         "stage_id": 5140709,
         "stage_type": 0,
@@ -222,12 +222,12 @@
         "affix_reward": []
     },
     "12": {
-        "name": "\u5206\u8eab\u00b7\u5c65\u51b0\u5764\u571f",
+        "name": "分身·履冰坤土",
         "icon": "body_icon4",
         "stage_id": 5140704,
         "stage_type": 0,
         "round": 6,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u51b0\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002\n\u5b8c\u6210\u5bf9\u5176\u7684\u5c01\u5370\u540e\uff0c\u53ef\u4ee5\u6d1e\u6089\u300c\u5915\u300d\u7684\u5f31\u70b9\uff1a\n\u4e0e\u300c\u5915\u300d\u7684\u672c\u4f53\u6218\u6597\u65f6\uff0c\u6280\u80fd\u4f24\u5bb3\u63d0\u5347\u3002",
+        "desc": "「夕」分化出的分身，似乎对冰属性抗性较弱。\n完成对其的封印后，可以洞悉「夕」的弱点：\n与「夕」的本体战斗时，技能伤害提升。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 12,
@@ -240,12 +240,12 @@
         "affix_reward": []
     },
     "13": {
-        "name": "\u5206\u8eab\u00b7\u5c65\u51b0\u5764\u571f",
+        "name": "分身·履冰坤土",
         "icon": "",
         "stage_id": 5140714,
         "stage_type": 1,
         "round": 6,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u51b0\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002",
+        "desc": "「夕」分化出的分身，似乎对冰属性抗性较弱。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 13,
@@ -264,12 +264,12 @@
         ]
     },
     "14": {
-        "name": "\u5206\u8eab\u00b7\u529b\u52a8\u826e\u5c71",
+        "name": "分身·力动艮山",
         "icon": "body_icon8",
         "stage_id": 5140708,
         "stage_type": 0,
         "round": 6,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u7269\u7406\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002\n\u5b8c\u6210\u5bf9\u5176\u7684\u5c01\u5370\u540e\uff0c\u53ef\u4ee5\u6d1e\u6089\u300c\u5915\u300d\u7684\u5f31\u70b9\uff1a\n\u4e0e\u300c\u5915\u300d\u7684\u672c\u4f53\u6218\u6597\u65f6\uff0c\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u5347\u3002",
+        "desc": "「夕」分化出的分身，似乎对物理属性抗性较弱。\n完成对其的封印后，可以洞悉「夕」的弱点：\n与「夕」的本体战斗时，会心伤害提升。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 14,
@@ -282,12 +282,12 @@
         "affix_reward": []
     },
     "15": {
-        "name": "\u5206\u8eab\u00b7\u529b\u52a8\u826e\u5c71",
+        "name": "分身·力动艮山",
         "icon": "",
         "stage_id": 5140718,
         "stage_type": 1,
         "round": 6,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u7269\u7406\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002",
+        "desc": "「夕」分化出的分身，似乎对物理属性抗性较弱。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 15,
@@ -306,7 +306,7 @@
         ]
     },
     "16": {
-        "name": "\u300c\u5915\u300d",
+        "name": "「夕」",
         "icon": "",
         "stage_id": 5140709,
         "stage_type": 0,
@@ -324,12 +324,12 @@
         "affix_reward": []
     },
     "17": {
-        "name": "\u5206\u8eab\u00b7\u79bb\u706b\u707c\u76ee",
+        "name": "分身·离火灼目",
         "icon": "body_icon3",
         "stage_id": 5140703,
         "stage_type": 0,
         "round": 2,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u706b\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002\n\u5b8c\u6210\u5bf9\u5176\u7684\u5c01\u5370\u540e\uff0c\u53ef\u4ee5\u6d1e\u6089\u300c\u5915\u300d\u7684\u5f31\u70b9\uff1a\n\u4e0e\u300c\u5915\u300d\u7684\u672c\u4f53\u6218\u6597\u65f6\uff0c\u653b\u51fb\u529b\u63d0\u5347\u3002",
+        "desc": "「夕」分化出的分身，似乎对火属性抗性较弱。\n完成对其的封印后，可以洞悉「夕」的弱点：\n与「夕」的本体战斗时，攻击力提升。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 17,
@@ -342,12 +342,12 @@
         "affix_reward": []
     },
     "18": {
-        "name": "\u5206\u8eab\u00b7\u79bb\u706b\u707c\u76ee",
+        "name": "分身·离火灼目",
         "icon": "",
         "stage_id": 5140713,
         "stage_type": 1,
         "round": 2,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u706b\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002",
+        "desc": "「夕」分化出的分身，似乎对火属性抗性较弱。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 18,
@@ -366,12 +366,12 @@
         ]
     },
     "19": {
-        "name": "\u5206\u8eab\u00b7\u6697\u6e0a\u574e\u6b62",
+        "name": "分身·暗渊坎止",
         "icon": "body_icon7",
         "stage_id": 5140707,
         "stage_type": 0,
         "round": 8,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u6697\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002\n\u5b8c\u6210\u5bf9\u5176\u7684\u5c01\u5370\u540e\uff0c\u53ef\u4ee5\u6d1e\u6089\u300c\u5915\u300d\u7684\u5f31\u70b9\uff1a\n\u4e0e\u300c\u5915\u300d\u7684\u672c\u4f53\u6218\u6597\u65f6\uff0c\u9632\u5fa1\u529b\u63d0\u5347\u3002",
+        "desc": "「夕」分化出的分身，似乎对暗属性抗性较弱。\n完成对其的封印后，可以洞悉「夕」的弱点：\n与「夕」的本体战斗时，防御力提升。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 19,
@@ -384,12 +384,12 @@
         "affix_reward": []
     },
     "20": {
-        "name": "\u5206\u8eab\u00b7\u6697\u6e0a\u574e\u6b62",
+        "name": "分身·暗渊坎止",
         "icon": "",
         "stage_id": 5140717,
         "stage_type": 1,
         "round": 8,
-        "desc": "\u300c\u5915\u300d\u5206\u5316\u51fa\u7684\u5206\u8eab\uff0c\u4f3c\u4e4e\u5bf9\u6697\u5c5e\u6027\u6297\u6027\u8f83\u5f31\u3002",
+        "desc": "「夕」分化出的分身，似乎对暗属性抗性较弱。",
         "activity_id": 222721,
         "boss_hp": 300000,
         "id": 20,
@@ -408,7 +408,7 @@
         ]
     },
     "21": {
-        "name": "\u300c\u5915\u300d",
+        "name": "「夕」",
         "icon": "",
         "stage_id": 5140709,
         "stage_type": 0,
@@ -426,7 +426,7 @@
         "affix_reward": []
     },
     "22": {
-        "name": "\u300c\u5915\u300d",
+        "name": "「夕」",
         "icon": "",
         "stage_id": 5140719,
         "stage_type": 1,

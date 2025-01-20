@@ -1,7 +1,7 @@
 {
     "101": {
         "object": 0,
-        "name": "\u5728\u573a\u65f6\uff0c\u7279\u6b8a\u6548\u679c\u573a\u5730\u5185\u5df1\u65b9\u4fa0\u58eb\u80fd\u529b+1",
+        "name": "在场时，特殊效果场地内己方侠士能力+1",
         "effect_object_time": 11,
         "type": 1,
         "id": 101,
@@ -13,7 +13,7 @@
     },
     "110": {
         "object": 0,
-        "name": "\u5728\u573a\u65f6\uff0c\u7279\u6b8a\u6548\u679c\u573a\u5730\u5185\u5df1\u65b9\u4fa0\u58eb\u80fd\u529b+2",
+        "name": "在场时，特殊效果场地内己方侠士能力+2",
         "effect_object_time": 11,
         "type": 1,
         "id": 110,
@@ -25,7 +25,7 @@
     },
     "111": {
         "object": 2,
-        "name": "\u653e\u7f6e\u540e\uff0c\u672c\u5361\u589e\u52a0\u7279\u6b8a\u6548\u679c\u573a\u5730\u5185\u7684\u4fa0\u58eb\u7684\u80fd\u529b",
+        "name": "放置后，本卡增加特殊效果场地内的侠士的能力",
         "effect_object_time": 11,
         "type": 4,
         "id": 111,
@@ -37,7 +37,7 @@
     },
     "112": {
         "object": 2,
-        "name": "\u5728\u573a\u65f6\uff0c\u6bcf\u6709\u4e00\u5f20\u7fa4\u4fa0\u724c\u6d88\u5931\uff0c\u4fa0\u58eb\u5a01\u529b+2",
+        "name": "在场时，每有一张群侠牌消失，侠士威力+2",
         "effect_object_time": 2,
         "type": 1,
         "id": 112,
@@ -49,7 +49,7 @@
     },
     "114": {
         "object": 2,
-        "name": "\u653e\u7f6e\u540e\uff0c\u4f7f\u7279\u6b8a\u6548\u679c\u533a\u57df\u5185\u9000\u573a",
+        "name": "放置后，使特殊效果区域内退场",
         "effect_object_time": 2,
         "type": 3,
         "id": 114,

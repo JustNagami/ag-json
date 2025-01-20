@@ -13,7 +13,7 @@
         "mini_tip": "",
         "id": 0,
         "icon": "0",
-        "title": "\u9009\u62e9\u65e0\u4eba\u673a\u7c7b\u578b",
+        "title": "选择无人机类型",
         "sub_array": [
             1001,
             1009
@@ -21,20 +21,20 @@
     },
     "1001": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1001",
-        "name": "\u63a7\u5236\u578b-A",
+        "name": "控制型-A",
         "type": 0,
         "dismantle_return": 160,
         "upgrade_cost": 160,
         "condition": 0,
-        "desc": "\u5c04\u7a0b<color=#FF9500>10</color>m\uff0c\u6bcf\u9694<color=#FF9500>3</color>\u79d2\uff0c\u9020\u6210\u4e00\u6b21<color=#FF9500>230%</color>\u7684\u5355\u4f53\u4f24\u5bb3\uff0c\u88ab\u547d\u4e2d\u7684\u654c\u4eba\u79fb\u901f\u964d\u4f4e<color=#FF9500>35%</color>\uff0c\u6301\u7eed<color=#FF9500>2.5</color>\u79d2",
+        "desc": "射程<color=#FF9500>10</color>m，每隔<color=#FF9500>3</color>秒，造成一次<color=#FF9500>230%</color>的单体伤害，被命中的敌人移速降低<color=#FF9500>35%</color>，持续<color=#FF9500>2.5</color>秒",
         "sub_type": 1,
         "activity_id": 101591,
-        "mini_tip": "\u5206\u652f",
+        "mini_tip": "分支",
         "id": 1001,
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1001",
-        "title": "\u5f3a\u5316\u65e0\u4eba\u673a",
+        "title": "强化无人机",
         "desc_battle": [
-            "\u8f83\u4f4e\u4f24\u5bb3\uff0c\u51cf\u901f"
+            "较低伤害，减速"
         ],
         "sub_array": [
             1002
@@ -42,20 +42,20 @@
     },
     "1002": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1002",
-        "name": "\u63a7\u5236\u578b-A1",
+        "name": "控制型-A1",
         "type": 0,
         "dismantle_return": 250,
         "upgrade_cost": 250,
         "condition": 0,
-        "desc": "\u5c04\u7a0b<color=#FF9500>12</color>m\uff0c\u6bcf\u9694<color=#FF9500>3</color>\u79d2\uff0c\u9020\u6210\u4e00\u6b21<color=#FF9500>350%</color>\u7684\u5355\u4f53\u4f24\u5bb3\uff0c\u4f7f\u547d\u4e2d\u7684\u654c\u4eba\u79fb\u901f\u964d\u4f4e<color=#FF9500>35%</color>\uff0c\u6301\u7eed<color=#FF9500>2.5</color>\u79d2",
+        "desc": "射程<color=#FF9500>12</color>m，每隔<color=#FF9500>3</color>秒，造成一次<color=#FF9500>350%</color>的单体伤害，使命中的敌人移速降低<color=#FF9500>35%</color>，持续<color=#FF9500>2.5</color>秒",
         "sub_type": 1,
         "activity_id": 101591,
-        "mini_tip": "\u5f3a\u5316",
+        "mini_tip": "强化",
         "id": 1002,
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1002",
-        "title": "\u9009\u62e9\u65e0\u4eba\u673a\u5206\u652f\u8def\u7ebf",
+        "title": "选择无人机分支路线",
         "desc_battle": [
-            "\u4e2d\u7b49\u4f24\u5bb3\uff0c\u51cf\u901f"
+            "中等伤害，减速"
         ],
         "sub_array": [
             1003,
@@ -64,20 +64,20 @@
     },
     "1003": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1003",
-        "name": "\u7fa4\u4f24\u578b\u5206\u652f",
+        "name": "群伤型分支",
         "type": 0,
         "dismantle_return": 300,
         "upgrade_cost": 300,
         "condition": 101601,
-        "desc": "\u5c04\u7a0b<color=#FF9500>12</color>m\uff0c\u6bcf\u79d2\u9020\u6210<color=#FF9500>50%</color>\u7684\u8303\u56f4\u4f24\u5bb3\uff0c\u8303\u56f4\u5185\u7684\u654c\u4eba\u79fb\u901f\u964d\u4f4e<color=#FF9500>35%</color>\uff0c\u6301\u7eed<color=#FF9500>2.5</color>\u79d2",
+        "desc": "射程<color=#FF9500>12</color>m，每秒造成<color=#FF9500>50%</color>的范围伤害，范围内的敌人移速降低<color=#FF9500>35%</color>，持续<color=#FF9500>2.5</color>秒",
         "sub_type": 1,
         "activity_id": 101591,
-        "mini_tip": "\u5206\u652f",
+        "mini_tip": "分支",
         "id": 1003,
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1003",
-        "title": "\u9009\u62e9\u65e0\u4eba\u673a\u6b66\u5668\u8fdb\u884c\u5f3a\u5316",
+        "title": "选择无人机武器进行强化",
         "desc_battle": [
-            "\u8303\u56f4\u4f24\u5bb3\uff0c\u51cf\u901f"
+            "范围伤害，减速"
         ],
         "sub_array": [
             1005,
@@ -86,20 +86,20 @@
     },
     "1004": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1004",
-        "name": "\u51b0\u51bb\u578b\u5206\u652f",
+        "name": "冰冻型分支",
         "type": 0,
         "dismantle_return": 300,
         "upgrade_cost": 300,
         "condition": 101602,
-        "desc": "\u5c04\u7a0b<color=#FF9500>12</color>m\uff0c\u6bcf\u9694<color=#FF9500>8</color>\u79d2\uff0c\u53d1\u5c04\u4e00\u679a\u51b0\u51bb\u5f39\uff0c\u547d\u4e2d\u65f6\u5728\u534a\u5f84<color=#FF9500>4</color>m\u5185\u9020\u6210<color=#FF9500>500%</color>\u7684\u8303\u56f4\u4f24\u5bb3\uff0c\u51b0\u51bb\u88ab\u547d\u4e2d\u7684\u654c\u4eba\uff0c\u6301\u7eed<color=#FF9500>3</color>\u79d2",
+        "desc": "射程<color=#FF9500>12</color>m，每隔<color=#FF9500>8</color>秒，发射一枚冰冻弹，命中时在半径<color=#FF9500>4</color>m内造成<color=#FF9500>500%</color>的范围伤害，冰冻被命中的敌人，持续<color=#FF9500>3</color>秒",
         "sub_type": 1,
         "activity_id": 101591,
-        "mini_tip": "\u5206\u652f",
+        "mini_tip": "分支",
         "id": 1004,
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1004",
-        "title": "\u9009\u62e9\u65e0\u4eba\u673a\u6b66\u5668\u8fdb\u884c\u5f3a\u5316",
+        "title": "选择无人机武器进行强化",
         "desc_battle": [
-            "\u53d1\u5c04\u51b0\u51bb\u5f39"
+            "发射冰冻弹"
         ],
         "sub_array": [
             1007,
@@ -108,12 +108,12 @@
     },
     "1005": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1005",
-        "name": "\u6eb6\u89e3\u88c5\u7f6e",
+        "name": "溶解装置",
         "type": 0,
         "dismantle_return": 200,
         "upgrade_cost": 200,
         "condition": 101601,
-        "desc": "\u88c5\u7f6e\u7b49\u7ea7\u4e0a\u9650<color=#FF9500>3</color>\uff0c\u654c\u4eba\u751f\u547d\u503c\u8d8a\u4f4e\u9020\u6210\u7684\u4f24\u5bb3\u8d8a\u9ad8\uff0c\u654c\u4eba\u6bcf\u635f\u5931<color=#FF9500>1%</color>\u7684\u8840\u91cf\uff0c\u989d\u5916\u53d7\u5230<color=#FF9500>1%</color>\u3001<color=#FF9500>2%</color>\u3001<color=#FF9500>3%</color>\u4f24\u5bb3",
+        "desc": "装置等级上限<color=#FF9500>3</color>，敌人生命值越低造成的伤害越高，敌人每损失<color=#FF9500>1%</color>的血量，额外受到<color=#FF9500>1%</color>、<color=#FF9500>2%</color>、<color=#FF9500>3%</color>伤害",
         "sub_type": 2,
         "activity_id": 101591,
         "mini_tip": "LV{0}",
@@ -121,20 +121,20 @@
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1005",
         "title": "",
         "desc_battle": [
-            "\u8840\u91cf\u8d8a\u4f4e\u4f24\u5bb3\u8d8a\u9ad8",
-            "\u8840\u91cf\u8d8a\u4f4e\u4f24\u5bb3\u8d8a\u9ad8",
-            "\u8840\u91cf\u8d8a\u4f4e\u4f24\u5bb3\u8d8a\u9ad8"
+            "血量越低伤害越高",
+            "血量越低伤害越高",
+            "血量越低伤害越高"
         ],
         "sub_array": []
     },
     "1006": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1006",
-        "name": "\u6df7\u4e71\u88c5\u7f6e",
+        "name": "混乱装置",
         "type": 0,
         "dismantle_return": 300,
         "upgrade_cost": 300,
         "condition": 101601,
-        "desc": "\u88c5\u7f6e\u7b49\u7ea7\u4e0a\u9650<color=#FF9500>2</color>\uff0c\u6bcf\u9694<color=#FF9500>25</color>\u3001<color=#FF9500>15</color>\u79d2\uff0c\u4f7f\u8303\u56f4\u5185\u7684\u654c\u4eba\u6df7\u4e71\uff0c\u6301\u7eed<color=#FF9500>5</color>\u79d2",
+        "desc": "装置等级上限<color=#FF9500>2</color>，每隔<color=#FF9500>25</color>、<color=#FF9500>15</color>秒，使范围内的敌人混乱，持续<color=#FF9500>5</color>秒",
         "sub_type": 2,
         "activity_id": 101591,
         "mini_tip": "LV{0}",
@@ -142,19 +142,19 @@
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1006",
         "title": "",
         "desc_battle": [
-            "\u6bcf25\u79d2\u6df7\u4e71\u654c\u4eba",
-            "\u6bcf15\u79d2\u6df7\u4e71\u654c\u4eba"
+            "每25秒混乱敌人",
+            "每15秒混乱敌人"
         ],
         "sub_array": []
     },
     "1007": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1007",
-        "name": "\u788e\u51b0\u88c5\u7f6e",
+        "name": "碎冰装置",
         "type": 0,
         "dismantle_return": 200,
         "upgrade_cost": 200,
         "condition": 101602,
-        "desc": "\u88c5\u7f6e\u7b49\u7ea7\u4e0a\u9650<color=#FF9500>3</color>\uff0c\u89e3\u9664\u51b0\u51bb\u65f6\uff0c\u989d\u5916\u53d7\u5230<color=#FF9500>300%</color>\u3001<color=#FF9500>600%</color>\u3001<color=#FF9500>900%</color>\u4f24\u5bb3",
+        "desc": "装置等级上限<color=#FF9500>3</color>，解除冰冻时，额外受到<color=#FF9500>300%</color>、<color=#FF9500>600%</color>、<color=#FF9500>900%</color>伤害",
         "sub_type": 2,
         "activity_id": 101591,
         "mini_tip": "LV{0}",
@@ -162,20 +162,20 @@
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1007",
         "title": "",
         "desc_battle": [
-            "\u89e3\u51bb\u65f6\u53d7\u4e2d\u7b49\u4f24\u5bb3",
-            "\u89e3\u51bb\u65f6\u53d7\u8f83\u9ad8\u4f24\u5bb3",
-            "\u89e3\u51bb\u65f6\u53d7\u9ad8\u989d\u4f24\u5bb3"
+            "解冻时受中等伤害",
+            "解冻时受较高伤害",
+            "解冻时受高额伤害"
         ],
         "sub_array": []
     },
     "1008": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1008",
-        "name": "\u6781\u5bd2\u88c5\u7f6e",
+        "name": "极寒装置",
         "type": 0,
         "dismantle_return": 300,
         "upgrade_cost": 300,
         "condition": 101602,
-        "desc": "\u88c5\u7f6e\u7b49\u7ea7\u4e0a\u9650<color=#FF9500>2</color>\uff0c\u51b0\u51bb\u5f39\u7684\u5f71\u54cd\u8303\u56f4\u6269\u5927\u81f3<color=#FF9500>6</color>m\u3001<color=#FF9500>8</color>m",
+        "desc": "装置等级上限<color=#FF9500>2</color>，冰冻弹的影响范围扩大至<color=#FF9500>6</color>m、<color=#FF9500>8</color>m",
         "sub_type": 2,
         "activity_id": 101591,
         "mini_tip": "LV{0}",
@@ -183,27 +183,27 @@
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1008",
         "title": "",
         "desc_battle": [
-            "\u51b0\u51bb\u8303\u56f4\u5c0f\u5e45\u63d0\u5347",
-            "\u51b0\u51bb\u8303\u56f4\u5927\u5e45\u63d0\u5347"
+            "冰冻范围小幅提升",
+            "冰冻范围大幅提升"
         ],
         "sub_array": []
     },
     "1009": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1009",
-        "name": "\u653b\u51fb\u578b-B",
+        "name": "攻击型-B",
         "type": 1,
         "dismantle_return": 110,
         "upgrade_cost": 110,
         "condition": 0,
-        "desc": "\u5c04\u7a0b<color=#FF9500>10</color>m\uff0c\u6bcf\u9694<color=#FF9500>1.5</color>\u79d2\uff0c\u9020\u6210\u4e00\u6b21<color=#FF9500>180%</color>\u7684\u5355\u4f53\u4f24\u5bb3",
+        "desc": "射程<color=#FF9500>10</color>m，每隔<color=#FF9500>1.5</color>秒，造成一次<color=#FF9500>180%</color>的单体伤害",
         "sub_type": 1,
         "activity_id": 101591,
-        "mini_tip": "\u5206\u652f",
+        "mini_tip": "分支",
         "id": 1009,
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1009",
-        "title": "\u5f3a\u5316\u65e0\u4eba\u673a",
+        "title": "强化无人机",
         "desc_battle": [
-            "\u4e2d\u7b49\u4f24\u5bb3"
+            "中等伤害"
         ],
         "sub_array": [
             1010
@@ -211,20 +211,20 @@
     },
     "1010": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1010",
-        "name": "\u653b\u51fb\u578b-B1",
+        "name": "攻击型-B1",
         "type": 1,
         "dismantle_return": 160,
         "upgrade_cost": 160,
         "condition": 0,
-        "desc": "\u5c04\u7a0b<color=#FF9500>12</color>m\uff0c\u6bcf\u9694<color=#FF9500>1.5</color>\u79d2\uff0c\u9020\u6210\u4e00\u6b21<color=#FF9500>250%</color>\u7684\u5355\u4f53\u4f24\u5bb3",
+        "desc": "射程<color=#FF9500>12</color>m，每隔<color=#FF9500>1.5</color>秒，造成一次<color=#FF9500>250%</color>的单体伤害",
         "sub_type": 1,
         "activity_id": 101591,
-        "mini_tip": "\u5f3a\u5316",
+        "mini_tip": "强化",
         "id": 1010,
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1010",
-        "title": "\u9009\u62e9\u65e0\u4eba\u673a\u5206\u652f\u8def\u7ebf",
+        "title": "选择无人机分支路线",
         "desc_battle": [
-            "\u8f83\u9ad8\u4f24\u5bb3"
+            "较高伤害"
         ],
         "sub_array": [
             1011,
@@ -233,20 +233,20 @@
     },
     "1011": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1011",
-        "name": "\u706b\u7130\u578b\u5206\u652f",
+        "name": "火焰型分支",
         "type": 1,
         "dismantle_return": 230,
         "upgrade_cost": 230,
         "condition": 101601,
-        "desc": "\u5c04\u7a0b<color=#FF9500>12</color>m\uff0c\u6bcf\u9694<color=#FF9500>6</color>\u79d2\uff0c\u53d1\u5c04\u4e00\u679a\u706b\u7130\u5f39\uff0c\u547d\u4e2d\u65f6\u5728\u534a\u5f84<color=#FF9500>5</color>m\u5185\u9020\u6210<color=#FF9500>500%</color>\u7684\u8303\u56f4\u4f24\u5bb3",
+        "desc": "射程<color=#FF9500>12</color>m，每隔<color=#FF9500>6</color>秒，发射一枚火焰弹，命中时在半径<color=#FF9500>5</color>m内造成<color=#FF9500>500%</color>的范围伤害",
         "sub_type": 1,
         "activity_id": 101591,
-        "mini_tip": "\u5206\u652f",
+        "mini_tip": "分支",
         "id": 1011,
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1011",
-        "title": "\u9009\u62e9\u65e0\u4eba\u673a\u6b66\u5668\u8fdb\u884c\u5f3a\u5316",
+        "title": "选择无人机武器进行强化",
         "desc_battle": [
-            "\u53d1\u5c04\u706b\u7130\u5f39"
+            "发射火焰弹"
         ],
         "sub_array": [
             1013,
@@ -255,20 +255,20 @@
     },
     "1012": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1012",
-        "name": "\u72d9\u51fb\u578b\u5206\u652f",
+        "name": "狙击型分支",
         "type": 1,
         "dismantle_return": 275,
         "upgrade_cost": 275,
         "condition": 101602,
-        "desc": "\u5c04\u7a0b<color=#FF9500>20</color>m\uff0c\u6bcf\u9694<color=#FF9500>8</color>\u79d2\uff0c\u72d9\u51fb\u654c\u4eba\uff0c\u4f18\u5148\u9009\u62e9\u7cbe\u82f1\u76ee\u6807\uff0c\u9020\u6210\u4e00\u6b21<color=#FF9500>2000%</color>\u7684\u5355\u4f53\u4f24\u5bb3",
+        "desc": "射程<color=#FF9500>20</color>m，每隔<color=#FF9500>8</color>秒，狙击敌人，优先选择精英目标，造成一次<color=#FF9500>2000%</color>的单体伤害",
         "sub_type": 1,
         "activity_id": 101591,
-        "mini_tip": "\u5206\u652f",
+        "mini_tip": "分支",
         "id": 1012,
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1012",
-        "title": "\u9009\u62e9\u65e0\u4eba\u673a\u6b66\u5668\u8fdb\u884c\u5f3a\u5316",
+        "title": "选择无人机武器进行强化",
         "desc_battle": [
-            "\u4f4e\u9891\u9ad8\u653b\u8d85\u8fdc\u5c04\u7a0b"
+            "低频高攻超远射程"
         ],
         "sub_array": [
             1015,
@@ -277,12 +277,12 @@
     },
     "1013": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1013",
-        "name": "\u71c3\u70e7\u88c5\u7f6e",
+        "name": "燃烧装置",
         "type": 1,
         "dismantle_return": 200,
         "upgrade_cost": 200,
         "condition": 101601,
-        "desc": "\u88c5\u7f6e\u7b49\u7ea7\u4e0a\u9650<color=#FF9500>3</color>\uff0c\u706b\u7130\u5f39\u547d\u4e2d\u654c\u4eba\u65f6\uff0c\u9644\u52a0<color=#FF9500>1</color>\u3001<color=#FF9500>2</color>\u3001<color=#FF9500>3</color>\u7ea7\u707c\u70e7\uff0c\u6301\u7eed<color=#FF9500>12</color>\u79d2",
+        "desc": "装置等级上限<color=#FF9500>3</color>，火焰弹命中敌人时，附加<color=#FF9500>1</color>、<color=#FF9500>2</color>、<color=#FF9500>3</color>级灼烧，持续<color=#FF9500>12</color>秒",
         "sub_type": 2,
         "activity_id": 101591,
         "mini_tip": "LV{0}",
@@ -290,20 +290,20 @@
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1013",
         "title": "",
         "desc_battle": [
-            "\u547d\u4e2d\u9644\u52a01\u7ea7\u707c\u70e7",
-            "\u547d\u4e2d\u9644\u52a02\u7ea7\u707c\u70e7",
-            "\u547d\u4e2d\u9644\u52a03\u7ea7\u707c\u70e7"
+            "命中附加1级灼烧",
+            "命中附加2级灼烧",
+            "命中附加3级灼烧"
         ],
         "sub_array": []
     },
     "1014": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1014",
-        "name": "\u591a\u53d1\u88c5\u7f6e",
+        "name": "多发装置",
         "type": 1,
         "dismantle_return": 300,
         "upgrade_cost": 300,
         "condition": 101601,
-        "desc": "\u88c5\u7f6e\u7b49\u7ea7\u4e0a\u9650<color=#FF9500>2</color>\uff0c\u989d\u5916\u53d1\u5c04<color=#FF9500>1</color>\u3001<color=#FF9500>2</color>\u4e2a\u706b\u7130\u5f39",
+        "desc": "装置等级上限<color=#FF9500>2</color>，额外发射<color=#FF9500>1</color>、<color=#FF9500>2</color>个火焰弹",
         "sub_type": 2,
         "activity_id": 101591,
         "mini_tip": "LV{0}",
@@ -311,19 +311,19 @@
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1014",
         "title": "",
         "desc_battle": [
-            "\u53d1\u5c042\u679a\u706b\u7130\u5f39",
-            "\u53d1\u5c043\u679a\u706b\u7130\u5f39"
+            "发射2枚火焰弹",
+            "发射3枚火焰弹"
         ],
         "sub_array": []
     },
     "1015": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1015",
-        "name": "\u8fc7\u8f7d\u88c5\u7f6e",
+        "name": "过载装置",
         "type": 1,
         "dismantle_return": 200,
         "upgrade_cost": 200,
         "condition": 101602,
-        "desc": "\u88c5\u7f6e\u7b49\u7ea7\u4e0a\u9650<color=#FF9500>3</color>\uff0c\u63d0\u5347\u72d9\u51fb\u901f\u5ea6\uff0c\u653b\u51fb\u95f4\u9694\u6539\u4e3a<color=#FF9500>7</color>\u3001<color=#FF9500>6</color>\u3001<color=#FF9500>5</color>\u79d2",
+        "desc": "装置等级上限<color=#FF9500>3</color>，提升狙击速度，攻击间隔改为<color=#FF9500>7</color>、<color=#FF9500>6</color>、<color=#FF9500>5</color>秒",
         "sub_type": 2,
         "activity_id": 101591,
         "mini_tip": "LV{0}",
@@ -331,20 +331,20 @@
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1015",
         "title": "",
         "desc_battle": [
-            "\u63d0\u5347\u5c04\u901f",
-            "\u63d0\u5347\u5c04\u901f",
-            "\u63d0\u5347\u5c04\u901f"
+            "提升射速",
+            "提升射速",
+            "提升射速"
         ],
         "sub_array": []
     },
     "1016": {
         "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1016",
-        "name": "\u6807\u8bb0\u88c5\u7f6e",
+        "name": "标记装置",
         "type": 1,
         "dismantle_return": 300,
         "upgrade_cost": 300,
         "condition": 101602,
-        "desc": "\u88c5\u7f6e\u7b49\u7ea7\u4e0a\u9650<color=#FF9500>2</color>\uff0c\u653b\u51fb\u4f1a\u6807\u8bb0\u76ee\u6807\uff0c\u4f7f\u5176\u53d7\u5230\u7684\u4f24\u5bb3\u63d0\u5347<color=#FF9500>50%</color>\u3001<color=#FF9500>100%</color>\uff0c\u6301\u7eed<color=#FF9500>3</color>\u79d2",
+        "desc": "装置等级上限<color=#FF9500>2</color>，攻击会标记目标，使其受到的伤害提升<color=#FF9500>50%</color>、<color=#FF9500>100%</color>，持续<color=#FF9500>3</color>秒",
         "sub_type": 2,
         "activity_id": 101591,
         "mini_tip": "LV{0}",
@@ -352,8 +352,8 @@
         "icon": "TextureConfig/MardukUI/boss/snakeactive/1016",
         "title": "",
         "desc_battle": [
-            "\u4f7f\u76ee\u680750%\u6613\u4f24",
-            "\u4f7f\u76ee\u6807100%\u6613\u4f24"
+            "使目标50%易伤",
+            "使目标100%易伤"
         ],
         "sub_array": []
     },

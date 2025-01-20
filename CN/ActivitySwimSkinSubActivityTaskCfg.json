@@ -1,6 +1,6 @@
 {
     "101": {
-        "description": "\u4f7f\u7528\u7ad9\u59ff\u8fdb\u884c\u62cd\u6444",
+        "description": "使用站姿进行拍摄",
         "type": 1006,
         "taskId": 101,
         "params": [
@@ -15,7 +15,7 @@
         ]
     },
     "104": {
-        "description": "\u62cd\u6444\u7279\u5199\u7167",
+        "description": "拍摄特写照",
         "type": 1007,
         "taskId": 104,
         "params": [
@@ -24,7 +24,7 @@
         ]
     },
     "107": {
-        "description": "\u62cd\u6444\u3010\u52a8\u4f5c3\u3011",
+        "description": "拍摄【动作3】",
         "type": 1006,
         "taskId": 107,
         "params": [
@@ -34,7 +34,7 @@
         ]
     },
     "108": {
-        "description": "\u4f7f\u7528\u3010\u6655\u5f71\u3011\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "description": "使用【晕影】滤镜进行拍摄",
         "type": 3001,
         "taskId": 108,
         "params": [
@@ -42,7 +42,7 @@
         ]
     },
     "109": {
-        "description": "\u4f7f\u7528\u5e73\u89c6\u89c6\u89d2\u62cd\u6444",
+        "description": "使用平视视角拍摄",
         "type": 1001,
         "taskId": 109,
         "params": [
@@ -50,7 +50,7 @@
         ]
     },
     "201": {
-        "description": "\u4f7f\u7528\u7ad9\u59ff\u8fdb\u884c\u62cd\u6444",
+        "description": "使用站姿进行拍摄",
         "type": 1006,
         "taskId": 201,
         "params": [
@@ -64,7 +64,7 @@
         ]
     },
     "204": {
-        "description": "\u62cd\u6444\u3010\u52a8\u4f5c4\u3011",
+        "description": "拍摄【动作4】",
         "type": 1006,
         "taskId": 204,
         "params": [
@@ -74,7 +74,7 @@
         ]
     },
     "205": {
-        "description": "\u62cd\u6444\u7279\u5199\u7167",
+        "description": "拍摄特写照",
         "type": 1007,
         "taskId": 205,
         "params": [
@@ -83,13 +83,13 @@
         ]
     },
     "207": {
-        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "description": "使用任意滤镜进行拍摄",
         "type": 3002,
         "taskId": 207,
         "params": []
     },
     "301": {
-        "description": "\u4f7f\u7528\u7ad9\u59ff\u8fdb\u884c\u62cd\u6444",
+        "description": "使用站姿进行拍摄",
         "type": 1006,
         "taskId": 301,
         "params": [
@@ -102,7 +102,7 @@
         ]
     },
     "304": {
-        "description": "\u4f7f\u7528\u5750\u59ff\u8fdb\u884c\u62cd\u6444",
+        "description": "使用坐姿进行拍摄",
         "type": 1006,
         "taskId": 304,
         "params": [
@@ -114,13 +114,13 @@
         ]
     },
     "305": {
-        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "description": "使用任意滤镜进行拍摄",
         "type": 3002,
         "taskId": 305,
         "params": []
     },
     "307": {
-        "description": "\u62cd\u6444\u7279\u5199\u7167",
+        "description": "拍摄特写照",
         "type": 1007,
         "taskId": 307,
         "params": [
@@ -129,7 +129,7 @@
         ]
     },
     "401": {
-        "description": "\u62cd\u6444\u5f00\u5fc3\u7684\u8868\u60c5",
+        "description": "拍摄开心的表情",
         "type": 1006,
         "taskId": 401,
         "params": [
@@ -139,7 +139,7 @@
         ]
     },
     "404": {
-        "description": "\u4f7f\u7528\u5750\u59ff\u8fdb\u884c\u62cd\u6444",
+        "description": "使用坐姿进行拍摄",
         "type": 1006,
         "taskId": 404,
         "params": [
@@ -150,7 +150,7 @@
         ]
     },
     "407": {
-        "description": "\u62cd\u6444\u7279\u5199\u7167",
+        "description": "拍摄特写照",
         "type": 1007,
         "taskId": 407,
         "params": [
@@ -159,13 +159,13 @@
         ]
     },
     "408": {
-        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "description": "使用任意滤镜进行拍摄",
         "type": 3002,
         "taskId": 408,
         "params": []
     },
     "501": {
-        "description": "\u548c\u996e\u54c1\u684c\u8fdb\u884c\u5408\u7167",
+        "description": "和饮品桌进行合照",
         "type": 1005,
         "taskId": 501,
         "params": [
@@ -173,7 +173,7 @@
         ]
     },
     "504": {
-        "description": "\u62cd\u6444\u7279\u5199\u7167",
+        "description": "拍摄特写照",
         "type": 1007,
         "taskId": 504,
         "params": [
@@ -182,7 +182,7 @@
         ]
     },
     "507": {
-        "description": "\u5bf9\u955c\u5934\u6253\u62db\u547c",
+        "description": "对镜头打招呼",
         "type": 1006,
         "taskId": 507,
         "params": [
@@ -192,7 +192,7 @@
         ]
     },
     "508": {
-        "description": "\u548c\u996e\u54c1\u684c\u8fdb\u884c\u5408\u7167",
+        "description": "和饮品桌进行合照",
         "type": 1005,
         "taskId": 508,
         "params": [
@@ -200,7 +200,7 @@
         ]
     },
     "509": {
-        "description": "\u4f7f\u7528\u5e73\u89c6\u89c6\u89d2\u62cd\u6444",
+        "description": "使用平视视角拍摄",
         "type": 1001,
         "taskId": 509,
         "params": [
@@ -208,7 +208,7 @@
         ]
     },
     "601": {
-        "description": "\u4f7f\u7528\u7ad9\u59ff\u8fdb\u884c\u62cd\u6444",
+        "description": "使用站姿进行拍摄",
         "type": 1006,
         "taskId": 601,
         "params": [
@@ -222,7 +222,7 @@
         ]
     },
     "602": {
-        "description": "\u548c\u544a\u793a\u724c\u8fdb\u884c\u5408\u7167",
+        "description": "和告示牌进行合照",
         "type": 1005,
         "taskId": 602,
         "params": [
@@ -230,7 +230,7 @@
         ]
     },
     "604": {
-        "description": "\u62cd\u6444\u3010\u52a8\u4f5c3\u3011",
+        "description": "拍摄【动作3】",
         "type": 1006,
         "taskId": 604,
         "params": [
@@ -240,7 +240,7 @@
         ]
     },
     "605": {
-        "description": "\u548c\u544a\u793a\u724c\u8fdb\u884c\u5408\u7167",
+        "description": "和告示牌进行合照",
         "type": 1005,
         "taskId": 605,
         "params": [
@@ -248,7 +248,7 @@
         ]
     },
     "607": {
-        "description": "\u62cd\u6444\u3010\u52a8\u4f5c5\u3011",
+        "description": "拍摄【动作5】",
         "type": 1006,
         "taskId": 607,
         "params": [
@@ -258,13 +258,13 @@
         ]
     },
     "608": {
-        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "description": "使用任意滤镜进行拍摄",
         "type": 3002,
         "taskId": 608,
         "params": []
     },
     "701": {
-        "description": "\u5bf9\u955c\u5934\u6253\u62db\u547c",
+        "description": "对镜头打招呼",
         "type": 1006,
         "taskId": 701,
         "params": [
@@ -274,7 +274,7 @@
         ]
     },
     "702": {
-        "description": "\u548c\u5c0f\u9cb8\u9c7c\u8fdb\u884c\u5408\u7167",
+        "description": "和小鲸鱼进行合照",
         "type": 1005,
         "taskId": 702,
         "params": [
@@ -282,7 +282,7 @@
         ]
     },
     "704": {
-        "description": "\u62cd\u6444\u7279\u5199\u7167",
+        "description": "拍摄特写照",
         "type": 1007,
         "taskId": 704,
         "params": [
@@ -291,13 +291,13 @@
         ]
     },
     "705": {
-        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "description": "使用任意滤镜进行拍摄",
         "type": 3002,
         "taskId": 705,
         "params": []
     },
     "707": {
-        "description": "\u548c\u5c0f\u9cb8\u9c7c\u8fdb\u884c\u5408\u7167",
+        "description": "和小鲸鱼进行合照",
         "type": 1005,
         "taskId": 707,
         "params": [
@@ -305,7 +305,7 @@
         ]
     },
     "708": {
-        "description": "\u4f7f\u7528\u8e72\u59ff\u6216\u5750\u59ff\u8fdb\u884c\u62cd\u6444",
+        "description": "使用蹲姿或坐姿进行拍摄",
         "type": 1006,
         "taskId": 708,
         "params": [
@@ -317,7 +317,7 @@
         ]
     },
     "709": {
-        "description": "\u4f7f\u7528\u5e73\u89c6\u89c6\u89d2\u62cd\u6444",
+        "description": "使用平视视角拍摄",
         "type": 1001,
         "taskId": 709,
         "params": [
@@ -325,13 +325,13 @@
         ]
     },
     "5101": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5101,
         "params": []
     },
     "5102": {
-        "description": "\u62cd\u6444\u585e\u52d2\u6d85\u3010\u52a8\u4f5c5\u3011",
+        "description": "拍摄塞勒涅【动作5】",
         "type": 2002,
         "taskId": 5102,
         "params": [
@@ -344,7 +344,7 @@
         ]
     },
     "5103": {
-        "description": "\u585e\u52d2\u6d85\u4f4d\u4e8e\u6700\u53f3\u4fa7",
+        "description": "塞勒涅位于最右侧",
         "type": 2003,
         "taskId": 5103,
         "params": [
@@ -357,25 +357,25 @@
         ]
     },
     "5105": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5105,
         "params": []
     },
     "5106": {
-        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "description": "使用任意滤镜进行拍摄",
         "type": 3002,
         "taskId": 5106,
         "params": []
     },
     "5201": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5201,
         "params": []
     },
     "5202": {
-        "description": "\u54c8\u8fea\u65af\u5750\u5728\u996e\u54c1\u684c\u8fb9",
+        "description": "哈迪斯坐在饮品桌边",
         "type": 2004,
         "taskId": 5202,
         "params": [
@@ -391,7 +391,7 @@
         ]
     },
     "5203": {
-        "description": "\u585e\u52d2\u6d85\u5750\u5728\u9f13\u624b\u4f4d\u7f6e",
+        "description": "塞勒涅坐在鼓手位置",
         "type": 2004,
         "taskId": 5203,
         "params": [
@@ -407,7 +407,7 @@
         ]
     },
     "5204": {
-        "description": "\u62cd\u6444\u6ce2\u585e\u51ac\u3010\u52a8\u4f5c1\u3011",
+        "description": "拍摄波塞冬【动作1】",
         "type": 2002,
         "taskId": 5204,
         "params": [
@@ -420,25 +420,25 @@
         ]
     },
     "5205": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5205,
         "params": []
     },
     "5206": {
-        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "description": "使用任意滤镜进行拍摄",
         "type": 3002,
         "taskId": 5206,
         "params": []
     },
     "5301": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5301,
         "params": []
     },
     "5302": {
-        "description": "\u585e\u52d2\u6d85\u7ad9\u5728\u4e3b\u5531\u4f4d\u7f6e",
+        "description": "塞勒涅站在主唱位置",
         "type": 2004,
         "taskId": 5302,
         "params": [
@@ -457,7 +457,7 @@
         ]
     },
     "5303": {
-        "description": "\u62cd\u6444\u6ce2\u585e\u51ac\u3010\u52a8\u4f5c1\u3011",
+        "description": "拍摄波塞冬【动作1】",
         "type": 2002,
         "taskId": 5303,
         "params": [
@@ -470,7 +470,7 @@
         ]
     },
     "5304": {
-        "description": "\u54c8\u8fea\u65af\u4f7f\u7528\u7ad9\u59ff\u8fdb\u884c\u62cd\u6444",
+        "description": "哈迪斯使用站姿进行拍摄",
         "type": 2002,
         "taskId": 5304,
         "params": [
@@ -488,25 +488,25 @@
         ]
     },
     "5305": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5305,
         "params": []
     },
     "5306": {
-        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "description": "使用任意滤镜进行拍摄",
         "type": 3002,
         "taskId": 5306,
         "params": []
     },
     "5401": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5401,
         "params": []
     },
     "5402": {
-        "description": "\u4f0a\u90aa\u90a3\u7f8e\u4e2d\u95f4\u4f7f\u7528\u3010\u52a8\u4f5c4\u3011",
+        "description": "伊邪那美中间使用【动作4】",
         "type": 2004,
         "taskId": 5402,
         "params": [
@@ -522,7 +522,7 @@
         ]
     },
     "5403": {
-        "description": "\u5de6\u4fa7\u4f4d\u7f6e\u6ce2\u585e\u51ac\u5411\u955c\u5934\u6253\u62db\u547c",
+        "description": "左侧位置波塞冬向镜头打招呼",
         "type": 2004,
         "taskId": 5403,
         "params": [
@@ -538,7 +538,7 @@
         ]
     },
     "5404": {
-        "description": "\u54c8\u8fea\u65af\u4f7f\u7528\u7ad9\u59ff\u8fdb\u884c\u62cd\u6444",
+        "description": "哈迪斯使用站姿进行拍摄",
         "type": 2002,
         "taskId": 5404,
         "params": [
@@ -556,25 +556,25 @@
         ]
     },
     "5405": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5405,
         "params": []
     },
     "5406": {
-        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "description": "使用任意滤镜进行拍摄",
         "type": 3002,
         "taskId": 5406,
         "params": []
     },
     "5501": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5501,
         "params": []
     },
     "5502": {
-        "description": "\u62cd\u6444\u6ce2\u585e\u51ac\u3010\u52a8\u4f5c1\u3011",
+        "description": "拍摄波塞冬【动作1】",
         "type": 2002,
         "taskId": 5502,
         "params": [
@@ -587,7 +587,7 @@
         ]
     },
     "5503": {
-        "description": "\u4f0a\u90aa\u90a3\u7f8e\u5750\u5728\u4e2d\u95f4",
+        "description": "伊邪那美坐在中间",
         "type": 2004,
         "taskId": 5503,
         "params": [
@@ -604,7 +604,7 @@
         ]
     },
     "5504": {
-        "description": "\u585e\u52d2\u6d85\u88ab\u6d77\u6d6a\u6cbe\u6e7f\u4e86\u53cc\u811a",
+        "description": "塞勒涅被海浪沾湿了双脚",
         "type": 2004,
         "taskId": 5504,
         "params": [
@@ -620,25 +620,25 @@
         ]
     },
     "5505": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5505,
         "params": []
     },
     "5506": {
-        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "description": "使用任意滤镜进行拍摄",
         "type": 3002,
         "taskId": 5506,
         "params": []
     },
     "5601": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5601,
         "params": []
     },
     "5602": {
-        "description": "\u4f0a\u90aa\u90a3\u7f8e\u5750\u5728\u745c\u4f3d\u57ab\u4e0a",
+        "description": "伊邪那美坐在瑜伽垫上",
         "type": 2004,
         "taskId": 5602,
         "params": [
@@ -655,7 +655,7 @@
         ]
     },
     "5603": {
-        "description": "\u62cd\u6444\u6ce2\u585e\u51ac\u3010\u52a8\u4f5c1\u3011",
+        "description": "拍摄波塞冬【动作1】",
         "type": 2002,
         "taskId": 5603,
         "params": [
@@ -668,7 +668,7 @@
         ]
     },
     "5604": {
-        "description": "\u585e\u52d2\u6d85\u5750\u5728\u996e\u54c1\u684c\u53f3\u4fa7",
+        "description": "塞勒涅坐在饮品桌右侧",
         "type": 2004,
         "taskId": 5604,
         "params": [
@@ -684,25 +684,25 @@
         ]
     },
     "5605": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5605,
         "params": []
     },
     "5606": {
-        "description": "\u4f7f\u7528\u4efb\u610f\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "description": "使用任意滤镜进行拍摄",
         "type": 3002,
         "taskId": 5606,
         "params": []
     },
     "5701": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5701,
         "params": []
     },
     "5702": {
-        "description": "\u585e\u52d2\u6d85\u5750\u5728\u745c\u4f3d\u57ab\u4e0a",
+        "description": "塞勒涅坐在瑜伽垫上",
         "type": 2004,
         "taskId": 5702,
         "params": [
@@ -718,7 +718,7 @@
         ]
     },
     "5703": {
-        "description": "\u6ce2\u585e\u51ac\u5728\u5c0f\u9cb8\u9c7c\u5de6\u8fb9\u4f7f\u7528\u3010\u52a8\u4f5c3\u3011",
+        "description": "波塞冬在小鲸鱼左边使用【动作3】",
         "type": 2004,
         "taskId": 5703,
         "params": [
@@ -734,7 +734,7 @@
         ]
     },
     "5704": {
-        "description": "\u4f0a\u90aa\u90a3\u7f8e\u5750\u5728\u5c0f\u9cb8\u9c7c\u53f3\u8fb9",
+        "description": "伊邪那美坐在小鲸鱼右边",
         "type": 2004,
         "taskId": 5704,
         "params": [
@@ -751,13 +751,13 @@
         ]
     },
     "5705": {
-        "description": "\u4f7f\u6240\u6709\u4fee\u6b63\u8005\u5904\u4e8e\u540c\u6846",
+        "description": "使所有修正者处于同框",
         "type": 2001,
         "taskId": 5705,
         "params": []
     },
     "5706": {
-        "description": "\u4f7f\u7528\u3010\u6cdb\u5149\u3011\u6ee4\u955c\u8fdb\u884c\u62cd\u6444",
+        "description": "使用【泛光】滤镜进行拍摄",
         "type": 3001,
         "taskId": 5706,
         "params": [

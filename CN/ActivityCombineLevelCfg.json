@@ -1,7 +1,7 @@
 {
     "1": {
         "description": "",
-        "name": "\u4e1a\u52a1\u719f\u6089",
+        "name": "业务熟悉",
         "type": 1,
         "victory_condition_type": 2,
         "id": 1,
@@ -121,7 +121,7 @@
     },
     "2": {
         "description": "",
-        "name": "\u7ecf\u8425\u00b7\u7984\u826f",
+        "name": "经营·禄良",
         "type": 4,
         "victory_condition_type": 2,
         "id": 2,
@@ -150,7 +150,7 @@
     },
     "3": {
         "description": "",
-        "name": "\u7ecf\u8425\u00b7\u9646\u543e",
+        "name": "经营·陆吾",
         "type": 4,
         "victory_condition_type": 2,
         "id": 3,
@@ -178,8 +178,8 @@
         "create_cells_location": []
     },
     "4": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7d2f\u79ef\u83b7\u5f9760\u70b9\u4eba\u6c14",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u4e00",
+        "description": "本日经营目标：\n累积获得60点人气",
+        "name": "本日经营·一",
         "type": 2,
         "victory_condition_type": 3,
         "id": 4,
@@ -212,8 +212,8 @@
         "create_cells_location": []
     },
     "5": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7d2f\u79ef\u9a71\u901010\u4f4d\u6076\u5ba2",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u4e8c",
+        "description": "本日经营目标：\n累积驱逐10位恶客",
+        "name": "本日经营·二",
         "type": 2,
         "victory_condition_type": 4,
         "id": 5,
@@ -245,8 +245,8 @@
         "create_cells_location": []
     },
     "6": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7ecf\u8425\u89c4\u6a21\u8fbe\u52308\u7ea7",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u4e09",
+        "description": "本日经营目标：\n经营规模达到8级",
+        "name": "本日经营·三",
         "type": 2,
         "victory_condition_type": 1,
         "id": 6,
@@ -278,8 +278,8 @@
         "create_cells_location": []
     },
     "7": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7ecf\u8425\u65f6\u95f4\u8fbe\u5230100\u56de\u5408",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u56db",
+        "description": "本日经营目标：\n经营时间达到100回合",
+        "name": "本日经营·四",
         "type": 2,
         "victory_condition_type": 2,
         "id": 7,
@@ -311,8 +311,8 @@
         "create_cells_location": []
     },
     "8": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7ecf\u8425\u65f6\u95f4\u8fbe\u5230100\u56de\u5408",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u4e94",
+        "description": "本日经营目标：\n经营时间达到100回合",
+        "name": "本日经营·五",
         "type": 2,
         "victory_condition_type": 2,
         "id": 8,
@@ -345,8 +345,8 @@
         "create_cells_location": []
     },
     "9": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7ecf\u8425\u89c4\u6a21\u8fbe\u52308\u7ea7",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u516d",
+        "description": "本日经营目标：\n经营规模达到8级",
+        "name": "本日经营·六",
         "type": 2,
         "victory_condition_type": 1,
         "id": 9,
@@ -378,8 +378,8 @@
         "create_cells_location": []
     },
     "10": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7d2f\u79ef\u83b7\u5f97100\u70b9\u98df\u7269",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u4e03",
+        "description": "本日经营目标：\n累积获得100点食物",
+        "name": "本日经营·七",
         "type": 2,
         "victory_condition_type": 3,
         "id": 10,
@@ -411,8 +411,8 @@
         "create_cells_location": []
     },
     "11": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7d2f\u79ef\u83b7\u5f9760\u70b9\u4eba\u6c14",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u516b",
+        "description": "本日经营目标：\n累积获得60点人气",
+        "name": "本日经营·八",
         "type": 2,
         "victory_condition_type": 3,
         "id": 11,
@@ -445,8 +445,8 @@
         "create_cells_location": []
     },
     "12": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7d2f\u79ef\u9a71\u901010\u4f4d\u6076\u5ba2",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u4e5d",
+        "description": "本日经营目标：\n累积驱逐10位恶客",
+        "name": "本日经营·九",
         "type": 2,
         "victory_condition_type": 4,
         "id": 12,
@@ -478,8 +478,8 @@
         "create_cells_location": []
     },
     "13": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7ecf\u8425\u89c4\u6a21\u8fbe\u52308\u7ea7",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u5341",
+        "description": "本日经营目标：\n经营规模达到8级",
+        "name": "本日经营·十",
         "type": 2,
         "victory_condition_type": 1,
         "id": 13,
@@ -511,8 +511,8 @@
         "create_cells_location": []
     },
     "14": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7ecf\u8425\u65f6\u95f4\u8fbe\u5230100\u56de\u5408",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u5341\u4e00",
+        "description": "本日经营目标：\n经营时间达到100回合",
+        "name": "本日经营·十一",
         "type": 2,
         "victory_condition_type": 2,
         "id": 14,
@@ -544,8 +544,8 @@
         "create_cells_location": []
     },
     "15": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7ecf\u8425\u65f6\u95f4\u8fbe\u5230100\u56de\u5408",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u5341\u4e8c",
+        "description": "本日经营目标：\n经营时间达到100回合",
+        "name": "本日经营·十二",
         "type": 2,
         "victory_condition_type": 2,
         "id": 15,
@@ -578,8 +578,8 @@
         "create_cells_location": []
     },
     "16": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7ecf\u8425\u89c4\u6a21\u8fbe\u52308\u7ea7",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u5341\u4e09",
+        "description": "本日经营目标：\n经营规模达到8级",
+        "name": "本日经营·十三",
         "type": 2,
         "victory_condition_type": 1,
         "id": 16,
@@ -611,8 +611,8 @@
         "create_cells_location": []
     },
     "17": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7d2f\u79ef\u83b7\u5f97100\u70b9\u98df\u7269",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u5341\u56db",
+        "description": "本日经营目标：\n累积获得100点食物",
+        "name": "本日经营·十四",
         "type": 2,
         "victory_condition_type": 3,
         "id": 17,
@@ -644,8 +644,8 @@
         "create_cells_location": []
     },
     "18": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7d2f\u79ef\u83b7\u5f9760\u70b9\u4eba\u6c14",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u5341\u4e94",
+        "description": "本日经营目标：\n累积获得60点人气",
+        "name": "本日经营·十五",
         "type": 2,
         "victory_condition_type": 3,
         "id": 18,
@@ -678,8 +678,8 @@
         "create_cells_location": []
     },
     "19": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7d2f\u79ef\u9a71\u901010\u4f4d\u6076\u5ba2",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u5341\u516d",
+        "description": "本日经营目标：\n累积驱逐10位恶客",
+        "name": "本日经营·十六",
         "type": 2,
         "victory_condition_type": 4,
         "id": 19,
@@ -711,8 +711,8 @@
         "create_cells_location": []
     },
     "20": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7ecf\u8425\u89c4\u6a21\u8fbe\u52308\u7ea7",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u5341\u4e03",
+        "description": "本日经营目标：\n经营规模达到8级",
+        "name": "本日经营·十七",
         "type": 2,
         "victory_condition_type": 1,
         "id": 20,
@@ -744,8 +744,8 @@
         "create_cells_location": []
     },
     "21": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7ecf\u8425\u65f6\u95f4\u8fbe\u5230100\u56de\u5408",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u5341\u516b",
+        "description": "本日经营目标：\n经营时间达到100回合",
+        "name": "本日经营·十八",
         "type": 2,
         "victory_condition_type": 2,
         "id": 21,
@@ -777,8 +777,8 @@
         "create_cells_location": []
     },
     "22": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7ecf\u8425\u65f6\u95f4\u8fbe\u5230100\u56de\u5408",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u5341\u4e5d",
+        "description": "本日经营目标：\n经营时间达到100回合",
+        "name": "本日经营·十九",
         "type": 2,
         "victory_condition_type": 2,
         "id": 22,
@@ -811,8 +811,8 @@
         "create_cells_location": []
     },
     "23": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7ecf\u8425\u89c4\u6a21\u8fbe\u52308\u7ea7",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u4e8c\u5341",
+        "description": "本日经营目标：\n经营规模达到8级",
+        "name": "本日经营·二十",
         "type": 2,
         "victory_condition_type": 1,
         "id": 23,
@@ -844,8 +844,8 @@
         "create_cells_location": []
     },
     "24": {
-        "description": "\u672c\u65e5\u7ecf\u8425\u76ee\u6807\uff1a\n\u7d2f\u79ef\u83b7\u5f97100\u70b9\u98df\u7269",
-        "name": "\u672c\u65e5\u7ecf\u8425\u00b7\u4e8c\u5341\u4e00",
+        "description": "本日经营目标：\n累积获得100点食物",
+        "name": "本日经营·二十一",
         "type": 2,
         "victory_condition_type": 3,
         "id": 24,
@@ -877,8 +877,8 @@
         "create_cells_location": []
     },
     "25": {
-        "description": "\u6a21\u62df\u7ecf\u8425\u76ee\u6807\uff1a\n\u7d2f\u79ef\u83b7\u5f97450\u70b9\u5efa\u7b51",
-        "name": "\u6a21\u62df\u7ecf\u8425",
+        "description": "模拟经营目标：\n累积获得450点建筑",
+        "name": "模拟经营",
         "type": 3,
         "victory_condition_type": 3,
         "id": 25,

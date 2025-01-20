@@ -1,101 +1,101 @@
 {
     "1": {
-        "name": "\u6218\u6597\u5b8c\u6210",
+        "name": "战斗完成",
         "priority": 9,
         "level": -1,
         "type": -1,
         "id": 1,
         "exp_reward": "",
-        "desc": "\u5b8c\u6210\u5355\u4e00\u6ce2\u6b21"
+        "desc": "完成单一波次"
     },
     "2": {
-        "name": "\u6218\u6597\u5b8c\u6210",
+        "name": "战斗完成",
         "priority": 9,
         "level": -1,
         "type": 1,
         "id": 2,
         "exp_reward": "",
-        "desc": "\u5b8c\u6210\u5355\u4e00\u6ce2\u6b21"
+        "desc": "完成单一波次"
     },
     "3": {
-        "name": "\u6218\u6597\u5b8c\u6210",
+        "name": "战斗完成",
         "priority": 9,
         "level": -1,
         "type": -1,
         "id": 3,
         "exp_reward": "",
-        "desc": "\u5b8c\u6210\u5355\u4e00\u6ce2\u6b21"
+        "desc": "完成单一波次"
     },
     "4": {
-        "name": "\u6ce2\u6b21\u5b8c\u6210 4",
+        "name": "波次完成 4",
         "priority": 9,
         "level": -1,
         "type": -1,
         "id": 4,
         "exp_reward": "",
-        "desc": "\u5b8c\u6210\u5355\u4e00\u6ce2\u6b21"
+        "desc": "完成单一波次"
     },
     "5": {
-        "name": "\u6ce2\u6b21\u5b8c\u6210 5",
+        "name": "波次完成 5",
         "priority": 9,
         "level": -1,
         "type": -1,
         "id": 5,
         "exp_reward": "",
-        "desc": "\u5b8c\u6210\u5355\u4e00\u6ce2\u6b21"
+        "desc": "完成单一波次"
     },
     "6": {
-        "name": "\u6ce2\u6b21\u5b8c\u6210 6",
+        "name": "波次完成 6",
         "priority": 9,
         "level": -1,
         "type": -1,
         "id": 6,
         "exp_reward": "",
-        "desc": "\u5b8c\u6210\u5355\u4e00\u6ce2\u6b21"
+        "desc": "完成单一波次"
     },
     "7": {
-        "name": "\u6ce2\u6b21\u5b8c\u6210 7",
+        "name": "波次完成 7",
         "priority": 9,
         "level": -1,
         "type": -1,
         "id": 7,
         "exp_reward": "",
-        "desc": "\u5b8c\u6210\u5355\u4e00\u6ce2\u6b21"
+        "desc": "完成单一波次"
     },
     "8": {
-        "name": "\u6e38\u5203\u6709\u4f59",
+        "name": "游刃有余",
         "priority": 7,
         "level": -1,
         "type": -1,
         "id": 8,
         "exp_reward": "",
-        "desc": "\u65f6\u95f4\u6863\u4f4d\u5206\u4e24\u6863X<Y \u5b8c\u6210\u5355\u4e00\u6ce2\u6b21\u65f6\u957f\u5c0f\u4e8eX"
+        "desc": "时间档位分两档X<Y 完成单一波次时长小于X"
     },
     "9": {
-        "name": "\u52bf\u5747\u529b\u654c",
+        "name": "势均力敌",
         "priority": 7,
         "level": -1,
         "type": -1,
         "id": 9,
         "exp_reward": "",
-        "desc": "X<\u5b8c\u6210\u5355\u4e00\u6ce2\u6b21\u65f6\u957f<Y"
+        "desc": "X<完成单一波次时长<Y"
     },
     "10": {
-        "name": "\u8270\u96be\u53d6\u80dc",
+        "name": "艰难取胜",
         "priority": 7,
         "level": -1,
         "type": -1,
         "id": 10,
         "exp_reward": "",
-        "desc": "\u5b8c\u6210\u5355\u4e00\u6ce2\u6b21\u65f6\u957f>Y"
+        "desc": "完成单一波次时长>Y"
     },
     "11": {
-        "name": "\u72e9\u9b42\u4eba\u2160",
+        "name": "狩魂人Ⅰ",
         "priority": 3,
         "level": 1,
         "type": 1,
         "id": 11,
-        "desc": "\u5bf9\u666e\u901a\u5355\u4f4d\u7d2f\u8ba1\u4f24\u5bb3\u8fbe\u523015000000\u70b9",
+        "desc": "对普通单位累计伤害达到15000000点",
         "exp_reward": [
             [
                 54026,
@@ -104,12 +104,12 @@
         ]
     },
     "12": {
-        "name": "\u72e9\u9b42\u4eba\u2161",
+        "name": "狩魂人Ⅱ",
         "priority": 2,
         "level": 2,
         "type": 1,
         "id": 12,
-        "desc": "\u5bf9\u666e\u901a\u5355\u4f4d\u7d2f\u8ba1\u4f24\u5bb3\u8fbe\u523020000000\u70b9",
+        "desc": "对普通单位累计伤害达到20000000点",
         "exp_reward": [
             [
                 54026,
@@ -118,12 +118,12 @@
         ]
     },
     "13": {
-        "name": "\u72e9\u9b42\u4eba\u2162",
+        "name": "狩魂人Ⅲ",
         "priority": 1,
         "level": 3,
         "type": 1,
         "id": 13,
-        "desc": "\u5bf9\u666e\u901a\u5355\u4f4d\u7d2f\u8ba1\u4f24\u5bb3\u8fbe\u523025000000\u70b9",
+        "desc": "对普通单位累计伤害达到25000000点",
         "exp_reward": [
             [
                 54026,
@@ -132,12 +132,12 @@
         ]
     },
     "14": {
-        "name": "\u5b88\u62a4\u8005\u2160",
+        "name": "守护者Ⅰ",
         "priority": 3,
         "level": 1,
         "type": 2,
         "id": 14,
-        "desc": "\u5bf9\u5b89\u4fdd\u58eb\u5175\u7d2f\u8ba1\u4f24\u5bb3\u8fbe15000000\u70b9",
+        "desc": "对安保士兵累计伤害达15000000点",
         "exp_reward": [
             [
                 54026,
@@ -146,12 +146,12 @@
         ]
     },
     "15": {
-        "name": "\u5b88\u62a4\u8005\u2161",
+        "name": "守护者Ⅱ",
         "priority": 2,
         "level": 2,
         "type": 2,
         "id": 15,
-        "desc": "\u5bf9\u5b89\u4fdd\u58eb\u5175\u7d2f\u8ba1\u4f24\u5bb3\u8fbe20000000\u70b9",
+        "desc": "对安保士兵累计伤害达20000000点",
         "exp_reward": [
             [
                 54026,
@@ -160,12 +160,12 @@
         ]
     },
     "16": {
-        "name": "\u5b88\u62a4\u8005\u2162",
+        "name": "守护者Ⅲ",
         "priority": 1,
         "level": 3,
         "type": 2,
         "id": 16,
-        "desc": "\u5bf9\u5b89\u4fdd\u58eb\u5175\u7d2f\u8ba1\u4f24\u5bb3\u8fbe25000000\u70b9",
+        "desc": "对安保士兵累计伤害达25000000点",
         "exp_reward": [
             [
                 54026,
@@ -174,12 +174,12 @@
         ]
     },
     "17": {
-        "name": "\u6d74\u6218\u8005\u2160",
+        "name": "浴战者Ⅰ",
         "priority": 3,
         "level": 1,
         "type": 3,
         "id": 17,
-        "desc": "\u5bf9\u7cbe\u82f1\u5355\u4f4d\u7d2f\u8ba1\u4f24\u5bb3\u8fbe\u52304000000\u70b9",
+        "desc": "对精英单位累计伤害达到4000000点",
         "exp_reward": [
             [
                 54026,
@@ -188,12 +188,12 @@
         ]
     },
     "18": {
-        "name": "\u6d74\u6218\u8005\u2161",
+        "name": "浴战者Ⅱ",
         "priority": 2,
         "level": 2,
         "type": 3,
         "id": 18,
-        "desc": "\u5bf9\u7cbe\u82f1\u5355\u4f4d\u7d2f\u8ba1\u4f24\u5bb3\u8fbe\u52308000000\u70b9",
+        "desc": "对精英单位累计伤害达到8000000点",
         "exp_reward": [
             [
                 54026,
@@ -202,12 +202,12 @@
         ]
     },
     "19": {
-        "name": "\u6d74\u6218\u8005\u2162",
+        "name": "浴战者Ⅲ",
         "priority": 1,
         "level": 3,
         "type": 3,
         "id": 19,
-        "desc": "\u5bf9\u7cbe\u82f1\u5355\u4f4d\u7d2f\u8ba1\u4f24\u5bb3\u8fbe\u523012000000\u70b9",
+        "desc": "对精英单位累计伤害达到12000000点",
         "exp_reward": [
             [
                 54026,
@@ -216,12 +216,12 @@
         ]
     },
     "20": {
-        "name": "\u5f7b\u9aa8\u5bd2\u971c",
+        "name": "彻骨寒霜",
         "priority": 2,
         "level": 1,
         "type": 0,
         "id": 20,
-        "desc": "\u7d2f\u8ba1\u5bf9\u654c\u4eba\u65bd\u52a0\u51b0\u51bb\u72b6\u6001\u8fbe10\u6b21",
+        "desc": "累计对敌人施加冰冻状态达10次",
         "exp_reward": [
             [
                 54027,
@@ -230,12 +230,12 @@
         ]
     },
     "21": {
-        "name": "\u5929\u65cb\u5730\u8f6c",
+        "name": "天旋地转",
         "priority": 2,
         "level": 1,
         "type": 0,
         "id": 21,
-        "desc": "\u7d2f\u8ba1\u5bf9\u654c\u4eba\u65bd\u52a0\u7729\u6655\u72b6\u6001\u8fbe10\u6b21",
+        "desc": "累计对敌人施加眩晕状态达10次",
         "exp_reward": [
             [
                 54027,
@@ -244,12 +244,12 @@
         ]
     },
     "22": {
-        "name": "\u6b64\u8def\u4e0d\u901a",
+        "name": "此路不通",
         "priority": 2,
         "level": 1,
         "type": 0,
         "id": 22,
-        "desc": "\u7d2f\u8ba1\u5bf9\u654c\u4eba\u65bd\u52a0\u7981\u9522\u72b6\u6001\u8fbe10\u6b21",
+        "desc": "累计对敌人施加禁锢状态达10次",
         "exp_reward": [
             [
                 54027,
@@ -258,12 +258,12 @@
         ]
     },
     "23": {
-        "name": "\u7099\u70ed\u707c\u70e7",
+        "name": "炙热灼烧",
         "priority": 2,
         "level": 1,
         "type": 0,
         "id": 23,
-        "desc": "\u7d2f\u8ba1\u5bf9\u654c\u4eba\u65bd\u52a0\u707c\u70e7\u72b6\u6001\u8fbe10\u6b21",
+        "desc": "累计对敌人施加灼烧状态达10次",
         "exp_reward": [
             [
                 54027,
@@ -272,12 +272,12 @@
         ]
     },
     "24": {
-        "name": "\u6052\u4e45\u521b\u4f24",
+        "name": "恒久创伤",
         "priority": 2,
         "level": 1,
         "type": 0,
         "id": 24,
-        "desc": "\u7d2f\u8ba1\u5bf9\u654c\u4eba\u65bd\u52a0\u53d7\u521b\u72b6\u6001\u8fbe10\u6b21",
+        "desc": "累计对敌人施加受创状态达10次",
         "exp_reward": [
             [
                 54027,
@@ -286,12 +286,12 @@
         ]
     },
     "25": {
-        "name": "\u5f3a\u5316\u6536\u96c6\u2160",
+        "name": "强化收集Ⅰ",
         "priority": 3,
         "level": 1,
         "type": 4,
         "id": 25,
-        "desc": "\u5728\u6218\u6597\u73af\u8282\u4e2d\u5177\u67093\u79cd\u5f3a\u5316\u6548\u679c",
+        "desc": "在战斗环节中具有3种强化效果",
         "exp_reward": [
             [
                 54028,
@@ -300,12 +300,12 @@
         ]
     },
     "26": {
-        "name": "\u5f3a\u5316\u6536\u96c6\u2161",
+        "name": "强化收集Ⅱ",
         "priority": 2,
         "level": 2,
         "type": 4,
         "id": 26,
-        "desc": "\u5728\u6218\u6597\u73af\u8282\u4e2d\u5177\u67095\u79cd\u5f3a\u5316\u6548\u679c",
+        "desc": "在战斗环节中具有5种强化效果",
         "exp_reward": [
             [
                 54028,
@@ -314,12 +314,12 @@
         ]
     },
     "27": {
-        "name": "\u5f3a\u5316\u6536\u96c6\u2162",
+        "name": "强化收集Ⅲ",
         "priority": 1,
         "level": 3,
         "type": 4,
         "id": 27,
-        "desc": "\u5728\u6218\u6597\u73af\u8282\u4e2d\u5177\u67097\u79cd\u5f3a\u5316\u6548\u679c",
+        "desc": "在战斗环节中具有7种强化效果",
         "exp_reward": [
             [
                 54028,
@@ -328,12 +328,12 @@
         ]
     },
     "28": {
-        "name": "\u6c89\u91cd\u7684\u4ee3\u4ef7",
+        "name": "沉重的代价",
         "priority": 3,
         "level": 1,
         "type": 0,
         "id": 28,
-        "desc": "\u6218\u6597\u73af\u8282\u4e2d\u5177\u6709\u5f3a\u5316\u201c\u732e\u796d\u5951\u7ea6\u201d",
+        "desc": "战斗环节中具有强化“献祭契约”",
         "exp_reward": [
             [
                 54028,
@@ -342,12 +342,12 @@
         ]
     },
     "29": {
-        "name": "\u9b42\u7801\u518d\u6784\u7b51",
+        "name": "魂码再构筑",
         "priority": 3,
         "level": 1,
         "type": 0,
         "id": 29,
-        "desc": "\u6218\u6597\u73af\u8282\u4e2d\u5177\u6709\u5f3a\u5316\u201c\u7a83\u9b42\u4ee3\u7801\u201d",
+        "desc": "战斗环节中具有强化“窃魂代码”",
         "exp_reward": [
             [
                 54028,
@@ -356,12 +356,12 @@
         ]
     },
     "30": {
-        "name": "\u65f6\u95f4\u9501\u5b9a\u8005",
+        "name": "时间锁定者",
         "priority": 3,
         "level": 1,
         "type": 0,
         "id": 30,
-        "desc": "\u6218\u6597\u73af\u8282\u4e2d\u5177\u6709\u5f3a\u5316\u201c\u4fb5\u8680\u9501\u94fe\u201d",
+        "desc": "战斗环节中具有强化“侵蚀锁链”",
         "exp_reward": [
             [
                 54028,
@@ -370,12 +370,12 @@
         ]
     },
     "31": {
-        "name": "\u5e78\u8fd0\u52a0\u62a4",
+        "name": "幸运加护",
         "priority": 3,
         "level": 1,
         "type": 0,
         "id": 31,
-        "desc": "\u6218\u6597\u73af\u8282\u4e2d\u5177\u6709\u5f3a\u5316\u201c\u5e78\u8fd0\u4e4b\u7fbd\u201d",
+        "desc": "战斗环节中具有强化“幸运之羽”",
         "exp_reward": [
             [
                 54028,
@@ -384,12 +384,12 @@
         ]
     },
     "32": {
-        "name": "\u5965\u4e49\u89e6\u53d1\u2160",
+        "name": "奥义触发Ⅰ",
         "priority": 3,
         "level": 1,
         "type": 5,
         "id": 32,
-        "desc": "\u6218\u6597\u73af\u8282\u7d2f\u8ba1\u89e6\u53d1\u5965\u4e49\u589e\u5e45\u8fbe10S",
+        "desc": "战斗环节累计触发奥义增幅达10S",
         "exp_reward": [
             [
                 54027,
@@ -398,12 +398,12 @@
         ]
     },
     "33": {
-        "name": "\u5965\u4e49\u89e6\u53d1\u2161",
+        "name": "奥义触发Ⅱ",
         "priority": 2,
         "level": 2,
         "type": 5,
         "id": 33,
-        "desc": "\u6218\u6597\u73af\u8282\u7d2f\u8ba1\u89e6\u53d1\u5965\u4e49\u589e\u5e45\u8fbe15S",
+        "desc": "战斗环节累计触发奥义增幅达15S",
         "exp_reward": [
             [
                 54027,
@@ -412,12 +412,12 @@
         ]
     },
     "34": {
-        "name": "\u5965\u4e49\u89e6\u53d1\u2162",
+        "name": "奥义触发Ⅲ",
         "priority": 1,
         "level": 3,
         "type": 5,
         "id": 34,
-        "desc": "\u6218\u6597\u73af\u8282\u7d2f\u8ba1\u89e6\u53d1\u5965\u4e49\u589e\u5e45\u8fbe20S",
+        "desc": "战斗环节累计触发奥义增幅达20S",
         "exp_reward": [
             [
                 54027,
@@ -426,12 +426,12 @@
         ]
     },
     "35": {
-        "name": "\u80cc\u6c34\u4e00\u6218",
+        "name": "背水一战",
         "priority": 3,
         "level": 1,
         "type": 0,
         "id": 35,
-        "desc": "\u6218\u6597\u73af\u8282\u5b58\u6d3b\u7684\u5854\u4ec5\u5269\u4e00\u5ea7",
+        "desc": "战斗环节存活的塔仅剩一座",
         "exp_reward": [
             [
                 54028,

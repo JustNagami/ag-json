@@ -1,10 +1,10 @@
 {
     "10011": {
-        "description": "\u9690\u79d1\u7ec4\u7684\u57fa\u7840\u8bad\u7ec3\u573a\uff0c\u80fd\u591f\u6a21\u62df<color=#FFAC4F>\u901a\u5e38\u7684\u6218\u51b5</color>\uff0c\u63d0\u4f9b\u5168\u9762\u7684\u6218\u6597\u8bad\u7ec3\u3002\n\n\u6d3e\u9063<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005\u961f\u4f0d</color>\u5b8c\u6210\u57fa\u7840\u6559\u5b66\uff0c\u719f\u6089\u5371\u673a\u6f14\u7b97\u7684\u4f5c\u6218\u65b9\u6cd5\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u667a\u68b0</color>\u6784\u6210\u3002",
+        "description": "隐科组的基础训练场，能够模拟<color=#FFAC4F>通常的战况</color>，提供全面的战斗训练。\n\n派遣<color=#FFAC4F>常规修正者队伍</color>完成基础教学，熟悉危机演算的作战方法。\n\n- 敌人由<color=#CD6269>智械</color>构成。",
         "wave_id": 10011,
         "point": 16,
         "map_id": 5170501,
-        "wave_name": "1 \u2013 1",
+        "wave_name": "1 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_000",
@@ -24,11 +24,11 @@
         ]
     },
     "10012": {
-        "description": "\u9690\u79d1\u7ec4\u7684\u8fdb\u9636\u8bad\u7ec3\u573a\uff0c\u80fd\u591f\u6a21\u62df<color=#FFAC4F>\u66f4\u590d\u6742\u7684\u6218\u51b5</color>\uff0c\u63d0\u4f9b\u63a5\u8fd1\u771f\u5b9e\u4f5c\u6218\u7684\u8bad\u7ec3\u73af\u5883\u3002\n\n\u6d3e\u9063<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\u5b8c\u6210\u57fa\u7840\u6559\u5b66\uff0c\u518d\u6b21\u719f\u6089\u5371\u673a\u6f14\u7b97\u7684\u4f5c\u6218\u65b9\u6cd5\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u667a\u68b0</color>\u6784\u6210\u3002\n- \u6709<color=#CD6269>\u53cb\u65b9\u4eba\u7c7b</color>\u966a\u540c\u53c2\u6218\u3002",
+        "description": "隐科组的进阶训练场，能够模拟<color=#FFAC4F>更复杂的战况</color>，提供接近真实作战的训练环境。\n\n派遣<color=#FFAC4F>精锐修正者队伍</color>完成基础教学，再次熟悉危机演算的作战方法。\n\n- 敌人由<color=#CD6269>智械</color>构成。\n- 有<color=#CD6269>友方人类</color>陪同参战。",
         "wave_id": 10012,
         "point": 20,
         "map_id": 5170502,
-        "wave_name": "1 \u2013 2",
+        "wave_name": "1 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_000",
@@ -44,11 +44,11 @@
         ]
     },
     "10013": {
-        "description": "\u9690\u79d1\u7ec4\u7684\u57fa\u7840\u8bad\u7ec3\u573a\uff0c\u80fd\u591f\u6a21\u62df<color=#FFAC4F>\u901a\u5e38\u7684\u6218\u51b5</color>\uff0c\u63d0\u4f9b\u5168\u9762\u7684\u6218\u6597\u8bad\u7ec3\u3002\n\n\u6d3e\u9063<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005\u961f\u4f0d</color>\u5b8c\u6210\u9501\u5b9a\u6559\u5b66\uff0c\u719f\u6089\u9501\u5b9a\u529f\u80fd\u5728\u5371\u673a\u6f14\u7b97\u4e2d\u7684\u53d8\u5316\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u667a\u68b0</color>\u4e0e<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002\n",
+        "description": "隐科组的基础训练场，能够模拟<color=#FFAC4F>通常的战况</color>，提供全面的战斗训练。\n\n派遣<color=#FFAC4F>常规修正者队伍</color>完成锁定教学，熟悉锁定功能在危机演算中的变化。\n\n- 敌人由<color=#CD6269>智械</color>与<color=#CD6269>视骸</color>构成。\n",
         "wave_id": 10013,
         "point": 35,
         "map_id": 5170503,
-        "wave_name": "2 \u2013 1",
+        "wave_name": "2 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_000",
@@ -68,11 +68,11 @@
         ]
     },
     "10014": {
-        "description": "\u9690\u79d1\u7ec4\u7684\u8fdb\u9636\u8bad\u7ec3\u573a\uff0c\u80fd\u591f\u6a21\u62df<color=#FFAC4F>\u66f4\u590d\u6742\u7684\u6218\u51b5</color>\uff0c\u63d0\u4f9b\u63a5\u8fd1\u771f\u5b9e\u4f5c\u6218\u7684\u8bad\u7ec3\u73af\u5883\u3002\n\n\u6d3e\u9063<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\u5b8c\u6210\u9501\u5b9a\u6559\u5b66\uff0c\u518d\u6b21\u719f\u6089\u9501\u5b9a\u529f\u80fd\u5728\u5371\u673a\u6f14\u7b97\u4e2d\u7684\u53d8\u5316\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u667a\u68b0</color>\u4e0e<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002",
+        "description": "隐科组的进阶训练场，能够模拟<color=#FFAC4F>更复杂的战况</color>，提供接近真实作战的训练环境。\n\n派遣<color=#FFAC4F>精锐修正者队伍</color>完成锁定教学，再次熟悉锁定功能在危机演算中的变化。\n\n- 敌人由<color=#CD6269>智械</color>与<color=#CD6269>视骸</color>构成。",
         "wave_id": 10014,
         "point": 30,
         "map_id": 5170504,
-        "wave_name": "2 \u2013 2",
+        "wave_name": "2 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_000",
@@ -92,11 +92,11 @@
         ]
     },
     "10015": {
-        "description": "\u9690\u79d1\u7ec4\u7684\u57fa\u7840\u8bad\u7ec3\u573a\uff0c\u80fd\u591f\u6a21\u62df<color=#FFAC4F>\u901a\u5e38\u7684\u6218\u51b5</color>\uff0c\u63d0\u4f9b\u5168\u9762\u7684\u6218\u6597\u8bad\u7ec3\u3002\n\n\u6d3e\u9063<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005\u961f\u4f0d</color>\u5b8c\u6210\u8bad\u7ec3\uff0c\u719f\u6089\u5371\u673a\u6f14\u7b97\u4e2d\u6218\u672f\u6280\u80fd\u7684\u8fd0\u7528\u65b9\u6cd5\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u667a\u68b0</color>\u6784\u6210\u3002",
+        "description": "隐科组的基础训练场，能够模拟<color=#FFAC4F>通常的战况</color>，提供全面的战斗训练。\n\n派遣<color=#FFAC4F>常规修正者队伍</color>完成训练，熟悉危机演算中战术技能的运用方法。\n\n- 敌人由<color=#CD6269>智械</color>构成。",
         "wave_id": 10015,
         "point": 30,
         "map_id": 5170505,
-        "wave_name": "3 \u2013 1",
+        "wave_name": "3 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_000",
@@ -116,11 +116,11 @@
         ]
     },
     "10016": {
-        "description": "\u9690\u79d1\u7ec4\u7684\u8fdb\u9636\u8bad\u7ec3\u573a\uff0c\u80fd\u591f\u6a21\u62df<color=#FFAC4F>\u66f4\u590d\u6742\u7684\u6218\u51b5</color>\uff0c\u63d0\u4f9b\u63a5\u8fd1\u771f\u5b9e\u4f5c\u6218\u7684\u8bad\u7ec3\u73af\u5883\u3002\n\n\u6d3e\u9063<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\u5b8c\u6210\u8bad\u7ec3\uff0c\u518d\u6b21\u719f\u6089\u5371\u673a\u6f14\u7b97\u4e2d\u6218\u672f\u6280\u80fd\u7684\u8fd0\u7528\u65b9\u6cd5\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u667a\u68b0</color>\u6784\u6210\u3002",
+        "description": "隐科组的进阶训练场，能够模拟<color=#FFAC4F>更复杂的战况</color>，提供接近真实作战的训练环境。\n\n派遣<color=#FFAC4F>精锐修正者队伍</color>完成训练，再次熟悉危机演算中战术技能的运用方法。\n\n- 敌人由<color=#CD6269>智械</color>构成。",
         "wave_id": 10016,
         "point": 30,
         "map_id": 5170506,
-        "wave_name": "3 \u2013 2",
+        "wave_name": "3 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_000",
@@ -140,11 +140,11 @@
         ]
     },
     "10017": {
-        "description": "\u9690\u79d1\u7ec4\u7684\u8fdb\u9636\u8bad\u7ec3\u573a\uff0c\u80fd\u591f\u6a21\u62df<color=#FFAC4F>\u66f4\u590d\u6742\u7684\u6218\u51b5</color>\uff0c\u63d0\u4f9b\u63a5\u8fd1\u771f\u5b9e\u4f5c\u6218\u7684\u8bad\u7ec3\u73af\u5883\u3002\n\n\u5f53\u524d\u6b63\u5728\u6a21\u62df<color=#FFAC4F>\u4e00\u822c\u6218\u529b\u7684\u654c\u4eba</color>\uff0c\u6d3e\u9063\u961f\u4f0d\u5b8c\u6210\u8bad\u7ec3\uff0c\u8fd0\u7528\u6218\u672f\u6280\u80fd\u5728\u6307\u5b9a\u65f6\u95f4\u5185\u6b7c\u706d\u654c\u4eba\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u667a\u68b0</color>\u6784\u6210\u3002\n- \u6709<color=#CD6269>\u53cb\u65b9\u4eba\u7c7b</color>\u966a\u540c\u53c2\u6218\u3002",
+        "description": "隐科组的进阶训练场，能够模拟<color=#FFAC4F>更复杂的战况</color>，提供接近真实作战的训练环境。\n\n当前正在模拟<color=#FFAC4F>一般战力的敌人</color>，派遣队伍完成训练，运用战术技能在指定时间内歼灭敌人。\n\n- 敌人由<color=#CD6269>智械</color>构成。\n- 有<color=#CD6269>友方人类</color>陪同参战。",
         "wave_id": 10017,
         "point": 31,
         "map_id": 5170507,
-        "wave_name": "3 \u2013 3",
+        "wave_name": "3 – 3",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_000",
@@ -164,11 +164,11 @@
         ]
     },
     "10018": {
-        "description": "\u9690\u79d1\u7ec4\u7684\u8fdb\u9636\u8bad\u7ec3\u573a\uff0c\u80fd\u591f\u6a21\u62df<color=#FFAC4F>\u66f4\u590d\u6742\u7684\u6218\u51b5</color>\uff0c\u63d0\u4f9b\u63a5\u8fd1\u771f\u5b9e\u4f5c\u6218\u7684\u8bad\u7ec3\u73af\u5883\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u5b8c\u6210\u5bf9\u667a\u68b0\u4f5c\u6218\u7684\u5b9e\u6218\u6f14\u4e60\uff0c\u5f53\u524d\u6b63\u5728\u6a21\u62df<color=#FFAC4F>\u8f83\u9ad8\u6218\u529b</color>\u7684\u667a\u68b0\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u667a\u68b0</color>\u6784\u6210\u3002",
+        "description": "隐科组的进阶训练场，能够模拟<color=#FFAC4F>更复杂的战况</color>，提供接近真实作战的训练环境。\n\n派遣队伍完成对智械作战的实战演习，当前正在模拟<color=#FFAC4F>较高战力</color>的智械。\n\n- 敌人由<color=#CD6269>智械</color>构成。",
         "wave_id": 10018,
         "point": 20,
         "map_id": 5170508,
-        "wave_name": "4 \u2013 1",
+        "wave_name": "4 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_000",
@@ -188,11 +188,11 @@
         ]
     },
     "10019": {
-        "description": "\u9690\u79d1\u7ec4\u7684\u8fdb\u9636\u8bad\u7ec3\u573a\uff0c\u80fd\u591f\u6a21\u62df<color=#FFAC4F>\u66f4\u590d\u6742\u7684\u6218\u51b5</color>\uff0c\u63d0\u4f9b\u63a5\u8fd1\u771f\u5b9e\u4f5c\u6218\u7684\u8bad\u7ec3\u73af\u5883\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u5b8c\u6210\u5bf9\u89c6\u9ab8\u4f5c\u6218\u7684\u5b9e\u6218\u6f14\u4e60\uff0c\u5f53\u524d\u6b63\u5728\u6a21\u62df<color=#FFAC4F>\u4e00\u822c\u6218\u529b</color>\u7684\u89c6\u9ab8\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u6240\u6709\u654c\u4eba<color=#CD6269>\u53d7\u5230\u7684\u98ce\u5c5e\u6027\u4f24\u5bb3\u964d\u4f4e80%</color>\u3002\n\n",
+        "description": "隐科组的进阶训练场，能够模拟<color=#FFAC4F>更复杂的战况</color>，提供接近真实作战的训练环境。\n\n派遣队伍完成对视骸作战的实战演习，当前正在模拟<color=#FFAC4F>一般战力</color>的视骸。\n\n- 敌人由<color=#CD6269>视骸</color>构成。\n- 所有敌人<color=#CD6269>受到的风属性伤害降低80%</color>。\n\n",
         "wave_id": 10019,
         "point": 40,
         "map_id": 5170509,
-        "wave_name": "4 \u2013 2",
+        "wave_name": "4 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_000",
@@ -212,11 +212,11 @@
         ]
     },
     "10020": {
-        "description": "\u9690\u79d1\u7ec4\u7684\u8fdb\u9636\u8bad\u7ec3\u573a\uff0c\u80fd\u591f\u6a21\u62df<color=#FFAC4F>\u66f4\u590d\u6742\u7684\u6218\u51b5</color>\uff0c\u63d0\u4f9b\u63a5\u8fd1\u771f\u5b9e\u4f5c\u6218\u7684\u8bad\u7ec3\u73af\u5883\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u5b8c\u6210\u7b2c\u4e00\u9636\u6bb5\u6218\u524d\u6f14\u7ec3\uff0c\u5f53\u524d\u6b63\u5728\u6a21\u62df\u76ee\u6807\u4fdd\u62a4\u4efb\u52a1\uff0c\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u4e2d\u7b49</color>\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002\n",
+        "description": "隐科组的进阶训练场，能够模拟<color=#FFAC4F>更复杂的战况</color>，提供接近真实作战的训练环境。\n\n派遣队伍完成第一阶段战前演练，当前正在模拟目标保护任务，敌方视骸<color=#FFAC4F>战力中等</color>。\n\n- 敌人由<color=#CD6269>视骸</color>构成。\n",
         "wave_id": 10020,
         "point": 55,
         "map_id": 5170510,
-        "wave_name": "5 \u2013 1",
+        "wave_name": "5 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_006",
@@ -232,11 +232,11 @@
         ]
     },
     "10021": {
-        "description": "\u9690\u79d1\u7ec4\u7684\u8fdb\u9636\u8bad\u7ec3\u573a\uff0c\u80fd\u591f\u6a21\u62df<color=#FFAC4F>\u66f4\u590d\u6742\u7684\u6218\u51b5</color>\uff0c\u63d0\u4f9b\u63a5\u8fd1\u771f\u5b9e\u4f5c\u6218\u7684\u8bad\u7ec3\u73af\u5883\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u5b8c\u6210\u7b2c\u4e8c\u9636\u6bb5\u6218\u524d\u6f14\u7ec3\uff0c\u5f53\u524d\u6b63\u5728\u6a21\u62df\u89c6\u9ab8\u6b7c\u706d\u6218\uff0c\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u4f4e</color>\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\uff0c<color=#D0A3E2>\u6563\u5e03\u8303\u56f4\u8f83\u5927</color>\u3002\n",
+        "description": "隐科组的进阶训练场，能够模拟<color=#FFAC4F>更复杂的战况</color>，提供接近真实作战的训练环境。\n\n派遣队伍完成第二阶段战前演练，当前正在模拟视骸歼灭战，敌方视骸<color=#FFAC4F>战力较低</color>。\n\n- 敌人由<color=#CD6269>视骸</color>构成，<color=#D0A3E2>散布范围较大</color>。\n",
         "wave_id": 10021,
         "point": 40,
         "map_id": 5170511,
-        "wave_name": "5 \u2013 2",
+        "wave_name": "5 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_007",
@@ -252,11 +252,11 @@
         ]
     },
     "10022": {
-        "description": "\u9690\u79d1\u7ec4\u7684\u8fdb\u9636\u8bad\u7ec3\u573a\uff0c\u80fd\u591f\u6a21\u62df<color=#FFAC4F>\u66f4\u590d\u6742\u7684\u6218\u51b5</color>\uff0c\u63d0\u4f9b\u63a5\u8fd1\u771f\u5b9e\u4f5c\u6218\u7684\u8bad\u7ec3\u73af\u5883\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u5b8c\u6210\u6700\u7ec8\u9636\u6bb5\u6218\u524d\u6f14\u7ec3\uff0c\u5f53\u524d\u6b63\u5728\u6a21\u62df\u667a\u68b0\u963b\u51fb\u6218\u3002\u654c\u65b9\u89c6\u9ab8\u4f1a\u5e72\u6270\u4f5c\u6218\uff0c<color=#FFAC4F>\u6218\u529b\u8f83\u9ad8</color>\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u4e0e<color=#CD6269>\u667a\u68b0</color>\u6784\u6210\u3002\n",
+        "description": "隐科组的进阶训练场，能够模拟<color=#FFAC4F>更复杂的战况</color>，提供接近真实作战的训练环境。\n\n派遣队伍完成最终阶段战前演练，当前正在模拟智械阻击战。敌方视骸会干扰作战，<color=#FFAC4F>战力较高</color>。\n\n- 敌人由<color=#CD6269>视骸</color>与<color=#CD6269>智械</color>构成。\n",
         "wave_id": 10022,
         "point": 40,
         "map_id": 5170512,
-        "wave_name": "5 \u2013 3",
+        "wave_name": "5 – 3",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_008",
@@ -272,11 +272,11 @@
         ]
     },
     "10023": {
-        "description": "\u5de5\u7a0b\u90e8\u961f\u7684\u9996\u8981\u76ee\u6807\u662f\u5728\u827e\u56e0\u7d22\u83f2\u4fa7\u6e90\u5c42\u5efa\u8bbe\u901a\u8baf\u94fe\u8def\u5854\u3002\n\n\u5de5\u7a0b\u90e8\u961f\u8fdb\u5165\u6e90\u5c42\u540e\uff0c\u53d7\u5230\u6e38\u8361\u89c6\u9ab8\u7684\u963b\u788d\uff0c\u5148\u5934\u90e8\u961f\u884c\u8fdb\u53d7\u5230\u5f71\u54cd\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u6b7c\u706d\u89c6\u9ab8\uff0c\u6e05\u9664\u963b\u788d\uff0c\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u4f4e</color>\uff0c\u53ef\u6d3e\u9063<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005</color>\u51fa\u6218\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002",
+        "description": "工程部队的首要目标是在艾因索菲侧源层建设通讯链路塔。\n\n工程部队进入源层后，受到游荡视骸的阻碍，先头部队行进受到影响。\n\n派遣队伍歼灭视骸，清除阻碍，敌方视骸<color=#FFAC4F>战力较低</color>，可派遣<color=#FFAC4F>常规修正者</color>出战。\n\n- 敌人由<color=#CD6269>视骸</color>构成。",
         "wave_id": 10023,
         "point": 35,
         "map_id": 5170513,
-        "wave_name": "1 \u2013 1",
+        "wave_name": "1 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_009",
@@ -292,11 +292,11 @@
         ]
     },
     "10024": {
-        "description": "\u4e3b\u529b\u5de5\u7a0b\u90e8\u961f\u906d\u9047\u89c6\u9ab8\u7684\u96c6\u7fa4\u7a81\u51fb\uff0c\u5df2\u6682\u505c\u884c\u8fdb\u4ee5\u5e94\u5bf9\u654c\u88ad\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u4fdd\u62a4\u4e3b\u529b\u90e8\u961f\uff0c\u6062\u590d\u5176\u6b63\u5e38\u884c\u8fdb\uff0c\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u4f4e</color>\uff0c\u53ef\u6d3e\u9063<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005</color>\u51fa\u6218\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c\u8fd0\u8f93\u961f\u667a\u68b0\u5c06\u5728\u9644\u8fd1\u9a7b\u7559\uff0c<color=#C5F448>\u6218\u6597\u4e2d\u5c3d\u53ef\u80fd\u4fdd\u8bc1\u667a\u68b0\u7684\u5b89\u5168</color>\uff0c\u4fdd\u5b58\u8fd0\u8f93\u961f\u7684\u6b66\u88c5\u529b\u91cf\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002",
+        "description": "主力工程部队遭遇视骸的集群突击，已暂停行进以应对敌袭。\n\n派遣队伍保护主力部队，恢复其正常行进，敌方视骸<color=#FFAC4F>战力较低</color>，可派遣<color=#FFAC4F>常规修正者</color>出战。\n\n本次行动中，运输队智械将在附近驻留，<color=#C5F448>战斗中尽可能保证智械的安全</color>，保存运输队的武装力量。\n\n- 敌人由<color=#CD6269>视骸</color>构成。",
         "wave_id": 10024,
         "point": 56,
         "map_id": 5170514,
-        "wave_name": "1 \u2013 2",
+        "wave_name": "1 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_010",
@@ -320,11 +320,11 @@
         ]
     },
     "10025": {
-        "description": "\u540e\u536b\u5de5\u7a0b\u90e8\u961f\u5c06\u7f16\u7ec4\u667a\u68b0\u8fd0\u8f93\u961f\u6682\u65f6\u79bb\u5f00\u524d\u5f80\u5efa\u8bbe\u901a\u8baf\u94fe\u8def\u5854\uff0c\u60c5\u62a5\u79f0\u6570\u4e2a\u5927\u578b\u89c6\u9ab8\u6b63\u5728\u63a5\u8fd1\u5de5\u7a0b\u533a\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u4fdd\u62a4\u901a\u8baf\u94fe\u8def\u5854\uff0c\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u4e2d\u7b49</color>\uff0c\u5bf9\u6211\u65b9\u5177\u6709\u4e00\u5b9a\u963b\u788d\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c\u8fd0\u8f93\u961f\u667a\u68b0\u5c06\u5728\u9644\u8fd1\u9a7b\u7559\uff0c<color=#C5F448>\u6218\u6597\u4e2d\u5c3d\u53ef\u80fd\u4fdd\u8bc1\u667a\u68b0\u7684\u5b89\u5168</color>\uff0c\u4fdd\u5b58\u8fd0\u8f93\u961f\u7684\u6b66\u88c5\u529b\u91cf\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u7cbe\u82f1\u89c6\u9ab8</color>\u6784\u6210\u3002",
+        "description": "后卫工程部队将编组智械运输队暂时离开前往建设通讯链路塔，情报称数个大型视骸正在接近工程区。\n\n派遣队伍保护通讯链路塔，敌方视骸<color=#FFAC4F>战力中等</color>，对我方具有一定阻碍。\n\n本次行动中，运输队智械将在附近驻留，<color=#C5F448>战斗中尽可能保证智械的安全</color>，保存运输队的武装力量。\n\n- 敌人由<color=#CD6269>精英视骸</color>构成。",
         "wave_id": 10025,
         "point": 120,
         "map_id": 5170515,
-        "wave_name": "1 \u2013 3",
+        "wave_name": "1 – 3",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_013",
@@ -348,11 +348,11 @@
         ]
     },
     "10026": {
-        "description": "\u540e\u536b\u5de5\u7a0b\u90e8\u961f\u56de\u5f52\u9014\u4e2d\uff0c\u667a\u68b0\u8fd0\u8f93\u961f\u4fa7\u7ffc\u906d\u9047\u5c0f\u80a1\u7cbe\u82f1\u89c6\u9ab8\u7684\u4f0f\u51fb\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u4fdd\u62a4\u8fd0\u8f93\u961f\u667a\u68b0\uff0c\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u9700\u6d3e\u9063<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005</color>\u51fa\u6218\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c<color=#C5F448>\u8fd0\u8f93\u961f\u6240\u6709\u53ef\u7528\u6218\u6597\u667a\u68b0\u5c06\u534f\u540c\u6211\u65b9\u884c\u52a8</color>\uff0c\u6218\u6597\u4e2d\u5c3d\u53ef\u80fd\u51cf\u5c11\u5176\u635f\u8017\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u6709<color=#CD6269>\u53cb\u65b9\u667a\u68b0</color>\u966a\u540c\u53c2\u6218\u3002",
+        "description": "后卫工程部队回归途中，智械运输队侧翼遭遇小股精英视骸的伏击。\n\n派遣队伍保护运输队智械，敌方视骸<color=#FFAC4F>战力较强</color>，需派遣<color=#FFAC4F>精锐修正者</color>出战。\n\n本次行动中，<color=#C5F448>运输队所有可用战斗智械将协同我方行动</color>，战斗中尽可能减少其损耗。\n\n- 敌人由<color=#CD6269>视骸</color>构成。\n- 有<color=#CD6269>友方智械</color>陪同参战。",
         "wave_id": 10026,
         "point": 90,
         "map_id": 5170516,
-        "wave_name": "1 \u2013 4",
+        "wave_name": "1 – 4",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_015",
@@ -376,11 +376,11 @@
         ]
     },
     "10027": {
-        "description": "\u7531\u4e8e\u9632\u5fa1\u90e8\u7f72\u7684\u5ef6\u8bef\uff0c\u5148\u5934\u5de5\u7a0b\u90e8\u961f\u53d7\u5230\u7cbe\u82f1\u89c6\u9ab8\u7684\u5305\u56f4\uff0c\u76ee\u524d\u6b63\u575a\u5b88\u9a7b\u624e\u5730M-05\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u652f\u63f4\u9632\u536b\uff0c\u5df2\u786e\u8ba4\u654c\u65b9\u5b58\u5728\u6570\u4e2a\u5927\u578b\u89c6\u9ab8\uff0c<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u5bf9\u6211\u65b9\u5177\u6709\u4e00\u5b9a\u5a01\u80c1\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c\u5148\u5934\u5de5\u7a0b\u90e8\u961f\u7684\u6218\u6597\u667a\u68b0\u5c06\u534f\u540c\u6211\u65b9\u884c\u52a8\uff0c<color=#C5F448>\u6218\u6597\u4e2d\u5c3d\u53ef\u80fd\u51cf\u5c11\u5176\u635f\u8017</color>\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u7cbe\u82f1\u4e0e\u5c0f\u578b\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u6709<color=#CD6269>\u53cb\u65b9\u667a\u68b0</color>\u966a\u540c\u53c2\u6218\u3002",
+        "description": "由于防御部署的延误，先头工程部队受到精英视骸的包围，目前正坚守驻扎地M-05。\n\n派遣队伍支援防卫，已确认敌方存在数个大型视骸，<color=#FFAC4F>战力较强</color>，对我方具有一定威胁。\n\n本次行动中，先头工程部队的战斗智械将协同我方行动，<color=#C5F448>战斗中尽可能减少其损耗</color>。\n\n- 敌人由<color=#CD6269>精英与小型视骸</color>构成。\n- 有<color=#CD6269>友方智械</color>陪同参战。",
         "wave_id": 10027,
         "point": 140,
         "map_id": 5170517,
-        "wave_name": "2 \u2013 1",
+        "wave_name": "2 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_011",
@@ -404,11 +404,11 @@
         ]
     },
     "10028": {
-        "description": "\u4e3b\u529b\u53ca\u540e\u536b\u5de5\u7a0b\u90e8\u961f\u6b63\u5728\u52a0\u901f\u63a8\u8fdb\u4ee5\u7a81\u7834\u5305\u56f4\uff0c\u4f46\u906d\u9047\u5c11\u91cf\u89c6\u9ab8\u7684\u6301\u7eed\u9a9a\u6270\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u5c3d\u5feb\u6b7c\u706d\u89c6\u9ab8\uff0c\u53ca\u65f6\u89e3\u9664\u963b\u788d\uff0c\u534f\u52a9\u90e8\u961f\u7ee7\u7eed\u63a8\u8fdb\uff0c\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u4e00\u822c</color>\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c\u667a\u68b0\u8fd0\u8f93\u961f\u5c06\u5728\u9644\u8fd1\u9a7b\u7559\uff0c<color=#C5F448>\u6218\u6597\u4e2d\u5c3d\u53ef\u80fd\u4fdd\u8bc1\u667a\u68b0\u7684\u5b89\u5168</color>\uff0c\u4fdd\u5b58\u5de5\u7a0b\u90e8\u961f\u7684\u6b66\u88c5\u529b\u91cf\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002",
+        "description": "主力及后卫工程部队正在加速推进以突破包围，但遭遇少量视骸的持续骚扰。\n\n派遣队伍尽快歼灭视骸，及时解除阻碍，协助部队继续推进，敌方视骸<color=#FFAC4F>战力一般</color>。\n\n本次行动中，智械运输队将在附近驻留，<color=#C5F448>战斗中尽可能保证智械的安全</color>，保存工程部队的武装力量。\n\n- 敌人由<color=#CD6269>视骸</color>构成。",
         "wave_id": 10028,
         "point": 50,
         "map_id": 5170518,
-        "wave_name": "2 \u2013 2",
+        "wave_name": "2 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_019",
@@ -428,11 +428,11 @@
         ]
     },
     "10029": {
-        "description": "\u5927\u6279\u7cbe\u82f1\u89c6\u9ab8\u6b63\u5728\u5468\u56f4\u6301\u7eed\u805a\u96c6\uff0c\u7ecf\u6307\u6325\u90e8\u786e\u5b9a\uff0c\u5de5\u7a0b\u90e8\u961f\u9700\u8981\u7ee7\u7eed\u575a\u5b88\u5f53\u524d\u9635\u5730M-05\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u652f\u63f4\u9632\u536b\uff0c\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u5bf9\u6211\u65b9\u5177\u6709\u4e00\u5b9a\u5a01\u80c1\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c<color=#C5F448>\u5de5\u7a0b\u90e8\u961f\u6240\u6709\u53ef\u7528\u6218\u6597\u667a\u68b0\u5c06\u534f\u540c\u6211\u65b9\u884c\u52a8</color>\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u6709<color=#CD6269>\u53cb\u65b9\u667a\u68b0</color>\u966a\u540c\u53c2\u6218\u3002",
+        "description": "大批精英视骸正在周围持续聚集，经指挥部确定，工程部队需要继续坚守当前阵地M-05。\n\n派遣队伍支援防卫，敌方视骸<color=#FFAC4F>战力较强</color>，对我方具有一定威胁。\n\n本次行动中，<color=#C5F448>工程部队所有可用战斗智械将协同我方行动</color>。\n\n- 敌人由<color=#CD6269>视骸</color>构成。\n- 有<color=#CD6269>友方智械</color>陪同参战。",
         "wave_id": 10029,
         "point": 50,
         "map_id": 5170519,
-        "wave_name": "2 \u2013 3",
+        "wave_name": "2 – 3",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_010",
@@ -452,11 +452,11 @@
         ]
     },
     "10030": {
-        "description": "\u89c6\u9ab8\u6570\u76ee\u7684\u6025\u5267\u589e\u52a0\uff0c\u7b2c\u4e8c\u652f\u63f4\u90e8\u961f\u7684\u540e\u52e4\u5206\u961f\u906d\u53d7\u89c6\u9ab8\u7684\u56f4\u653b\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u89e3\u6551\u88ab\u56f0\u7684\u540e\u52e4\u5206\u961f\uff0c\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u9700\u6d3e\u9063<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005</color>\u51fa\u6218\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c\u540e\u52e4\u5206\u961f\u7684\u4eba\u7c7b\u7279\u5de5\u5c06\u914d\u5408\u6211\u65b9\u4f5c\u6218\uff0c<color=#C5F448>\u6218\u6597\u4e2d\u5c3d\u53ef\u80fd\u4fdd\u8bc1\u5176\u5b89\u5168</color>\uff0c\u7ef4\u6301\u652f\u63f4\u90e8\u961f\u7684\u6218\u529b\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u7cbe\u82f1\u4e0e\u5c0f\u578b\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u6709<color=#CD6269>\u53cb\u65b9\u4eba\u7c7b</color>\u966a\u540c\u53c2\u6218\u3002",
+        "description": "视骸数目的急剧增加，第二支援部队的后勤分队遭受视骸的围攻。\n\n派遣队伍解救被困的后勤分队，敌方视骸<color=#FFAC4F>战力较强</color>，需派遣<color=#FFAC4F>精锐修正者</color>出战。\n\n本次行动中，后勤分队的人类特工将配合我方作战，<color=#C5F448>战斗中尽可能保证其安全</color>，维持支援部队的战力。\n\n- 敌人由<color=#CD6269>精英与小型视骸</color>构成。\n- 有<color=#CD6269>友方人类</color>陪同参战。",
         "wave_id": 10030,
         "point": 150,
         "map_id": 5170520,
-        "wave_name": "3 \u2013 1",
+        "wave_name": "3 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_021",
@@ -480,11 +480,11 @@
         ]
     },
     "10031": {
-        "description": "\u7b2c\u4e00\u652f\u63f4\u90e8\u961f\u5df2\u4fa6\u5bdf\u786e\u8ba4\uff0cM-05\u9a7b\u624e\u5730\u5de6\u4fa7\u7684\u5f02\u5e38\u533a\u57df\u4e2d\uff0c\u82e5\u5e72\u5854\u9ab8<color=#C5F448>\u6b63\u4e0d\u65ad\u5411\u9a7b\u624e\u5730\u8f93\u9001\u89c6\u9ab8</color>\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u6b7c\u706d\u5854\u9ab8\uff0c\u60c5\u62a5\u663e\u793a\u5854\u9ab8\u8f93\u9001\u7684\u5927\u90e8\u5206\u89c6\u9ab8\u5747\u5411\u9a7b\u624e\u5730\u524d\u8fdb\uff0c\u4ec5\u5c11\u91cf\u89c6\u9ab8\u62a4\u536b\u5854\u9ab8\uff0c<color=#FFAC4F>\u6218\u529b\u8584\u5f31</color>\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002",
+        "description": "第一支援部队已侦察确认，M-05驻扎地左侧的异常区域中，若干塔骸<color=#C5F448>正不断向驻扎地输送视骸</color>。\n\n派遣队伍歼灭塔骸，情报显示塔骸输送的大部分视骸均向驻扎地前进，仅少量视骸护卫塔骸，<color=#FFAC4F>战力薄弱</color>。\n\n- 敌人由<color=#CD6269>视骸</color>构成。",
         "wave_id": 10031,
         "point": 100,
         "map_id": 5170521,
-        "wave_name": "3 \u2013 2",
+        "wave_name": "3 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_024",
@@ -504,11 +504,11 @@
         ]
     },
     "10032": {
-        "description": "\u7b2c\u4e8c\u652f\u63f4\u90e8\u961f\u5df2\u4fa6\u5bdf\u786e\u8ba4\uff0c\u53e6\u4e00\u4fa7\u5f02\u5e38\u533a\u57df\u540c\u6837\u5b58\u5728\u82e5\u5e72\u5854\u9ab8<color=#C5F448>\u6b63\u5411M-05\u9a7b\u624e\u5730\u8f93\u9001\u89c6\u9ab8</color>\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u6b7c\u706d\u5854\u9ab8\uff0c\u4e0e\u5de6\u4fa7\u76f8\u4f3c\uff0c\u62a4\u536b\u5854\u9ab8\u7684\u89c6\u9ab8\u6570\u91cf\u6709\u9650\uff0c\u4f46\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u4e2d\u7b49</color>\uff0c\u5bf9\u4efb\u52a1\u4ecd\u6709\u963b\u788d\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002",
+        "description": "第二支援部队已侦察确认，另一侧异常区域同样存在若干塔骸<color=#C5F448>正向M-05驻扎地输送视骸</color>。\n\n派遣队伍歼灭塔骸，与左侧相似，护卫塔骸的视骸数量有限，但视骸<color=#FFAC4F>战力中等</color>，对任务仍有阻碍。\n\n- 敌人由<color=#CD6269>视骸</color>构成。",
         "wave_id": 10032,
         "point": 100,
         "map_id": 5170522,
-        "wave_name": "3 \u2013 3",
+        "wave_name": "3 – 3",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_024",
@@ -528,11 +528,11 @@
         ]
     },
     "10033": {
-        "description": "\u4e24\u4fa7\u5f02\u5e38\u533a\u57df\u5185\u5854\u9ab8\u5df2\u786e\u8ba4\u6e05\u9664\uff0c\u4e24\u6279\u652f\u63f4\u90e8\u961f\u5c06\u8054\u5408\u5de5\u7a0b\u90e8\u961f\u5bf9\u9a7b\u624e\u5730\u5468\u8fb9\u6b8b\u654c\u5b9e\u65bd\u5408\u56f4\u527f\u706d\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u52a0\u5165\u527f\u706d\u4f5c\u6218\uff0c<color=#C5F448>\u6b8b\u4f59\u89c6\u9ab8</color><color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u4ecd\u7136\u4e0d\u5bb9\u5c0f\u89d1\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c<color=#C5F448>\u5f53\u524d\u53ef\u53c2\u6218\u7684\u4eba\u7c7b\u7279\u5de5\u5c06\u5168\u90e8\u6295\u5165\u4f5c\u6218\u534f\u540c\u6211\u65b9\u4f5c\u6218</color>\uff0c\u6218\u6597\u4e2d\u5c3d\u53ef\u80fd\u4fdd\u8bc1\u5176\u5b89\u5168\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u7cbe\u82f1\u4e0e\u5c0f\u578b\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u6709<color=#CD6269>\u53cb\u65b9\u4eba\u7c7b</color>\u966a\u540c\u53c2\u6218\u3002",
+        "description": "两侧异常区域内塔骸已确认清除，两批支援部队将联合工程部队对驻扎地周边残敌实施合围剿灭。\n\n派遣队伍加入剿灭作战，<color=#C5F448>残余视骸</color><color=#FFAC4F>战力较强</color>，仍然不容小觑。\n\n本次行动中，<color=#C5F448>当前可参战的人类特工将全部投入作战协同我方作战</color>，战斗中尽可能保证其安全。\n\n- 敌人由<color=#CD6269>精英与小型视骸</color>构成。\n- 有<color=#CD6269>友方人类</color>陪同参战。",
         "wave_id": 10033,
         "point": 80,
         "map_id": 5170523,
-        "wave_name": "3 \u2013 4",
+        "wave_name": "3 – 4",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_026",
@@ -552,11 +552,11 @@
         ]
     },
     "10034": {
-        "description": "\u4e3a\u63d0\u9ad8\u5404\u90e8\u961f\u95f4\u7684\u8054\u7edc\u6548\u7387\uff0c\u5feb\u901f\u53cd\u5e94\u90e8\u961f\u6b63\u5728M-05\u9a7b\u624e\u5730\u5efa\u8bbe\u901a\u8baf\u94fe\u8def\u5854\uff0c\u6b63\u53d7\u5230\u5c0f\u80a1\u89c6\u9ab8\u9a9a\u6270\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u4fdd\u62a4\u901a\u8baf\u94fe\u8def\u5854\uff0c\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f31</color>\uff0c<color=#FFAC4F>\u6570\u91cf\u8f83\u5c11</color>\uff0c\u65e0\u9700\u6295\u5165\u7cbe\u9510\u529b\u91cf\u5e94\u5bf9\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002",
+        "description": "为提高各部队间的联络效率，快速反应部队正在M-05驻扎地建设通讯链路塔，正受到小股视骸骚扰。\n\n派遣队伍保护通讯链路塔，敌方视骸<color=#FFAC4F>战力较弱</color>，<color=#FFAC4F>数量较少</color>，无需投入精锐力量应对。\n\n- 敌人由<color=#CD6269>视骸</color>构成。",
         "wave_id": 10034,
         "point": 50,
         "map_id": 5170524,
-        "wave_name": "4 \u2013 1",
+        "wave_name": "4 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_027",
@@ -576,11 +576,11 @@
         ]
     },
     "10035": {
-        "description": "M-05\u9a7b\u624e\u5730\u5468\u56f4\u7684\u5e7f\u57df\u4fa6\u5bdf\u5df2\u9501\u5b9a\u6570\u4e2a\u89c6\u9ab8\u805a\u96c6\u70b9\uff0c\u53ef\u80fd\u5f71\u54cd\u4f5c\u6218\uff0c\u5de5\u7a0b\u90e8\u961f\u5c06\u5206\u591a\u7ebf\u8fdb\u653b\u5404\u805a\u96c6\u70b9\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u534f\u52a9\u527f\u706d\u884c\u52a8\uff0c\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u4e2d\u7b49</color>\uff0c<color=#C5F448>\u5c3d\u5feb\u5b8c\u6210\u4efb\u52a1\uff0c\u593a\u53d6\u540e\u7eed\u6218\u6597\u7684\u4e3b\u52a8\u6743</color>\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002",
+        "description": "M-05驻扎地周围的广域侦察已锁定数个视骸聚集点，可能影响作战，工程部队将分多线进攻各聚集点。\n\n派遣队伍协助剿灭行动，敌方视骸<color=#FFAC4F>战力中等</color>，<color=#C5F448>尽快完成任务，夺取后续战斗的主动权</color>。\n\n- 敌人由<color=#CD6269>视骸</color>构成。",
         "wave_id": 10035,
         "point": 60,
         "map_id": 5170525,
-        "wave_name": "4 \u2013 2",
+        "wave_name": "4 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_026",
@@ -600,11 +600,11 @@
         ]
     },
     "10036": {
-        "description": "\u60c5\u62a5\u663e\u793a\uff0c\u5404\u805a\u96c6\u70b9\u5185\u5747\u6709\u4e00\u4e2a\u539f\u578b\u89c6\u9ab8\u6301\u7eed\u5c06\u884c\u4e3a\u6a21\u5f0f\u590d\u5236\u7ed9\u5176\u4ed6\u4e2a\u4f53\uff0c\u5f15\u5bfc\u805a\u96c6\u70b9\u7684\u884c\u52a8\u3002\n\n\u6d3e\u9063\u961f\u4f0d<color=#C5F448>\u6d88\u706d\u539f\u578b\u89c6\u9ab8</color>\uff0c\u76ee\u6807\u805a\u96c6\u70b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u4e2d\u7b49</color>\uff0c\u6d88\u706d\u76ee\u6807\u540e\uff0c\u5176\u4f59\u89c6\u9ab8\u5c06\u5931\u53bb\u6218\u6597\u80fd\u529b\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\uff0c<color=#D0A3E2>\u6563\u5e03\u8303\u56f4\u8f83\u5927</color>\u3002",
+        "description": "情报显示，各聚集点内均有一个原型视骸持续将行为模式复制给其他个体，引导聚集点的行动。\n\n派遣队伍<color=#C5F448>消灭原型视骸</color>，目标聚集点视骸<color=#FFAC4F>战力中等</color>，消灭目标后，其余视骸将失去战斗能力。\n\n- 敌人由<color=#CD6269>视骸</color>构成，<color=#D0A3E2>散布范围较大</color>。",
         "wave_id": 10036,
         "point": 40,
         "map_id": 5170526,
-        "wave_name": "4 \u2013 3",
+        "wave_name": "4 – 3",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_029",
@@ -620,11 +620,11 @@
         ]
     },
     "10037": {
-        "description": "\u5de5\u7a0b\u90e8\u961f\u5df2\u8fdb\u5165\u590f\u4ec0\u74e6\u7279\u6e90\u5c42\u7684\u9884\u5b9a\u5730\u5e26\uff0c\u5f00\u59cb\u5efa\u8bbe\u94fe\u8def\u5854\uff0c\u9644\u8fd1\u89c6\u9ab8\u5747\u5f00\u59cb\u5411\u8be5\u4f4d\u7f6e\u805a\u96c6\u3002\n\n\u5229\u7528\u9a7b\u624e\u5730\u7684\u60c5\u62a5\u4f53\u7cfb\uff0c\u5de5\u7a0b\u90e8\u961f\u80fd\u591f\u963b\u622a\u5927\u90e8\u5206\u654c\u4eba\uff0c\u4f46\u5c11\u90e8\u5206\u7cbe\u82f1\u89c6\u9ab8\u5c06\u4e0d\u53ef\u907f\u514d\u5730\u8fdb\u5165\u6838\u5fc3\u533a\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u4fdd\u62a4\u901a\u8baf\u94fe\u8def\u5854\uff0c\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u5f3a\u5927</color>\uff0c\u5bf9\u6211\u65b9\u6709\u8f83\u9ad8\u5a01\u80c1\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c\u5de5\u7a0b\u90e8\u961f\u7684\u4eba\u7c7b\u7279\u5de5\u4e0e\u6218\u6597\u667a\u68b0\u5c06\u534f\u540c\u4f5c\u6218\uff0c\u6218\u6597\u4e2d\u5c3d\u53ef\u80fd\u4fdd\u8bc1\u5176\u5b89\u5168\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u7cbe\u82f1\u89c6\u9ab8</color>\u6784\u6210\uff0c<color=#D0A3E2>\u961f\u5217\u7a00\u758f</color>\u3002\n- \u6709<color=#CD6269>\u53cb\u65b9\u4eba\u7c7b\u4e0e\u667a\u68b0</color>\u966a\u540c\u53c2\u6218\u3002\n",
+        "description": "工程部队已进入夏什瓦特源层的预定地带，开始建设链路塔，附近视骸均开始向该位置聚集。\n\n利用驻扎地的情报体系，工程部队能够阻截大部分敌人，但少部分精英视骸将不可避免地进入核心区。\n\n派遣队伍保护通讯链路塔，敌方视骸<color=#FFAC4F>战力强大</color>，对我方有较高威胁。\n\n本次行动中，工程部队的人类特工与战斗智械将协同作战，战斗中尽可能保证其安全。\n\n- 敌人由<color=#CD6269>精英视骸</color>构成，<color=#D0A3E2>队列稀疏</color>。\n- 有<color=#CD6269>友方人类与智械</color>陪同参战。\n",
         "wave_id": 10037,
         "point": 180,
         "map_id": 5170527,
-        "wave_name": "4 \u2013 4",
+        "wave_name": "4 – 4",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_014",
@@ -656,11 +656,11 @@
         ]
     },
     "10038": {
-        "description": "\u827e\u56e0\u7d22\u83f2\u7b2c\u56db\u533a\u8857\u9053\u4e0a\u51fa\u73b0\u6570\u53ea\u6e38\u8361\u7684\u9ad8\u6297\u6027\u89c6\u9ab8\uff0c\u79d1\u5c14\u76d6\u6b63\u5728\u5c01\u9501\u76ee\u6807\u533a\u57df\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u527f\u706d\u89c6\u9ab8\uff0c\u5c3d\u5feb\u963b\u6b62\u6df7\u4e71\u6269\u6563\u3002\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u4e2d\u7b49</color>\uff0c\u4f46\u5bf9\u5e38\u89c4<color=#CD6269>\u7269\u7406</color>\u6253\u51fb\u5177\u5907\u5f3a\u5927\u6297\u6027\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\uff0c<color=#D0A3E2>\u6563\u5e03\u8303\u56f4\u8f83\u5927</color>\u3002\n- \u6240\u6709\u89c6\u9ab8<color=#CD6269>\u514d\u75ab\u7269\u7406\u5c5e\u6027\u653b\u51fb</color>\u3002",
+        "description": "艾因索菲第四区街道上出现数只游荡的高抗性视骸，科尔盖正在封锁目标区域。\n\n派遣队伍剿灭视骸，尽快阻止混乱扩散。敌方视骸<color=#FFAC4F>战力中等</color>，但对常规<color=#CD6269>物理</color>打击具备强大抗性。\n\n- 敌人由<color=#CD6269>视骸</color>构成，<color=#D0A3E2>散布范围较大</color>。\n- 所有视骸<color=#CD6269>免疫物理属性攻击</color>。",
         "wave_id": 10038,
         "point": 35,
         "map_id": 5170528,
-        "wave_name": "1 \u2013 1",
+        "wave_name": "1 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_030",
@@ -680,11 +680,11 @@
         ]
     },
     "10039": {
-        "description": "\u7b2c\u56db\u533a\u7684\u4fa6\u5bdf\u7ed3\u679c\u663e\u793a\uff0c\u6570\u5341\u53ea\u96f6\u6563\u7684\u89c6\u9ab8\u6b63\u9646\u7eed\u5411\u79d1\u5c14\u76d6\u603b\u90e8\u65b9\u5411\u805a\u96c6\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u527f\u706d\u89c6\u9ab8\u3002\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u4e2d\u7b49</color>\uff0c\u4f46\u89c4\u6a21\u805a\u96c6\u540e\u5c06\u80fd\u62b5\u6321<color=#CD6269>\u8fdc\u8ddd\u79bb\u653b\u51fb</color>\uff0c\u5c3d\u5feb\u5206\u522b\u51fb\u7834\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u573a\u4e0a\u89c6\u9ab8\u6570\u91cf\u8d85\u8fc76\u4e2a\u65f6\uff0c\u6240\u6709\u89c6\u9ab8<color=#CD6269>\u514d\u75ab\u8fdc\u7a0b\u653b\u51fb</color>\u3002",
+        "description": "第四区的侦察结果显示，数十只零散的视骸正陆续向科尔盖总部方向聚集。\n\n派遣队伍剿灭视骸。敌方视骸<color=#FFAC4F>战力中等</color>，但规模聚集后将能抵挡<color=#CD6269>远距离攻击</color>，尽快分别击破。\n\n- 敌人由<color=#CD6269>视骸</color>构成。\n- 场上视骸数量超过6个时，所有视骸<color=#CD6269>免疫远程攻击</color>。",
         "wave_id": 10039,
         "point": 50,
         "map_id": 5170529,
-        "wave_name": "1 \u2013 2",
+        "wave_name": "1 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_032",
@@ -704,11 +704,11 @@
         ]
     },
     "10040": {
-        "description": "\u60c5\u62a5\u663e\u793a\uff0c\u7b2c\u56db\u533a\u5185\u51fa\u73b0\u53d7\u9ab8\u80fd\u4fb5\u8680\u7684\u4eba\u7c7b\u58eb\u5175\uff0c\u4fb5\u8680\u73b0\u8c61\u4ecd\u5728\u6269\u6563\uff0c\u533a\u57df\u5185\u5e73\u6c11\u5df2\u9646\u7eed\u64a4\u79bb\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u527f\u706d\u89c6\u9ab8\u3002\u53d7\u4fb5\u8680\u4eba\u7c7b\u4e5f\u5c06\u4e0e\u6211\u65b9\u654c\u5bf9\uff0c\u5176\u7ee7\u627f\u4e86\u89c6\u9ab8\u7684<color=#CD6269>\u7269\u7406\u6253\u51fb\u6297\u6027</color>\uff0c<color=#FFAC4F>\u6218\u529b\u4e2d\u7b49</color>\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u4e0e<color=#CD6269>\u4eba\u7c7b</color>\u6784\u6210\u3002\n- \u654c\u65b9\u4eba\u7c7b\u51fa\u573a\u540e\uff0c<color=#CD6269>\u514d\u75ab\u7269\u7406\u5c5e\u6027\u653b\u51fb</color>\u3002",
+        "description": "情报显示，第四区内出现受骸能侵蚀的人类士兵，侵蚀现象仍在扩散，区域内平民已陆续撤离。\n\n派遣队伍剿灭视骸。受侵蚀人类也将与我方敌对，其继承了视骸的<color=#CD6269>物理打击抗性</color>，<color=#FFAC4F>战力中等</color>。\n\n- 敌人由<color=#CD6269>视骸</color>与<color=#CD6269>人类</color>构成。\n- 敌方人类出场后，<color=#CD6269>免疫物理属性攻击</color>。",
         "wave_id": 10040,
         "point": 70,
         "map_id": 5170530,
-        "wave_name": "1 \u2013 3",
+        "wave_name": "1 – 3",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_034",
@@ -728,11 +728,11 @@
         ]
     },
     "10041": {
-        "description": "\u521d\u6b65\u5206\u6790\u8868\u660e\uff0c\u7b2c\u56db\u533a\u89c6\u9ab8\u4e0e\u4fb5\u8680\u73b0\u8c61\u59cb\u4e8e\u6e90\u5c42\uff0c\u4fa6\u5bdf\u5c0f\u961f\u524d\u5f80\u5b9a\u4f4d\u6e90\u5934\uff0c\u906d\u9047\u7cbe\u82f1\u89c6\u9ab8\u963b\u622a\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u652f\u63f4\u4fa6\u5bdf\u5c0f\u961f\uff0c\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u9700\u6d3e\u9063<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005</color>\u51fa\u51fb\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u7cbe\u82f1\u4e0e\u5c0f\u578b\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u654c\u65b9\u89c6\u9ab8<color=#CD6269>\u53d7\u5230\u6c34\u5c5e\u6027\u4f24\u5bb3\u540e</color>\uff0c\u6062\u590d\u81ea\u8eab\u6700\u5927\u8840\u91cf5%\u7684\u751f\u547d\u503c\u3002",
+        "description": "初步分析表明，第四区视骸与侵蚀现象始于源层，侦察小队前往定位源头，遭遇精英视骸阻截。\n\n派遣队伍支援侦察小队，敌方视骸<color=#FFAC4F>战力较强</color>，需派遣<color=#FFAC4F>精锐修正者</color>出击。\n\n- 敌人由<color=#CD6269>精英与小型视骸</color>构成。\n- 敌方视骸<color=#CD6269>受到水属性伤害后</color>，恢复自身最大血量5%的生命值。",
         "wave_id": 10041,
         "point": 50,
         "map_id": 5170531,
-        "wave_name": "1 \u2013 4",
+        "wave_name": "1 – 4",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_036",
@@ -752,11 +752,11 @@
         ]
     },
     "10042": {
-        "description": "\u9ab8\u80fd\u805a\u96c6\u70b9B-03\u9ab8\u80fd\u5bc6\u5ea6\u6781\u9ad8\uff0c\u6307\u6325\u90e8\u5df2\u8c03\u5ea6\u591a\u652f\u961f\u4f0d\u524d\u5f80\u4e3b\u9635\u5730I-00\u652f\u63f4\uff0c\u5f00\u59cb\u90e8\u7f72\u795e\u80fd\u91cd\u70ae\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u6e05\u7406\u7cbe\u82f1\u89c6\u9ab8\uff0c\u4e3a\u540e\u7eed\u961f\u4f0d\u5c55\u5f00\u626b\u6e05\u969c\u788d\u3002\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u5bf9\u6211\u65b9\u6709\u4e00\u5b9a\u5a01\u80c1\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u7cbe\u82f1\u4e0e\u5c0f\u578b\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u6240\u6709<color=#CD6269>\u7cbe\u82f1\u89c6\u9ab8</color>\u53ea\u4f1a\u88ab<color=#CD6269>\u5149\u5c5e\u6027\u4f24\u5bb3</color>\u547d\u4e2d\u3002",
+        "description": "骸能聚集点B-03骸能密度极高，指挥部已调度多支队伍前往主阵地I-00支援，开始部署神能重炮。\n\n派遣队伍清理精英视骸，为后续队伍展开扫清障碍。敌方视骸<color=#FFAC4F>战力较强</color>，对我方有一定威胁。\n\n- 敌人由<color=#CD6269>精英与小型视骸</color>构成。\n- 所有<color=#CD6269>精英视骸</color>只会被<color=#CD6269>光属性伤害</color>命中。",
         "wave_id": 10042,
         "point": 90,
         "map_id": 5170532,
-        "wave_name": "2 \u2013 1",
+        "wave_name": "2 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_026",
@@ -776,11 +776,11 @@
         ]
     },
     "10043": {
-        "description": "\u4e3b\u9635\u5730I-00\u8083\u6e05\u5b8c\u6210\uff0c\u4e3a\u5e94\u5bf9\u540e\u7eed\u7684\u89c4\u6a21\u4f5c\u6218\uff0c\u5730\u65b9\u6307\u6325\u5c06\u5efa\u8bbe\u901a\u8baf\u94fe\u8def\u5854\uff0c\u589e\u52a0\u4f5c\u6218\u901a\u8baf\u6548\u7387\u3002\n\n\u5efa\u8bbe\u94fe\u8def\u5854\u7684\u667a\u68b0\u8fd0\u8f93\u906d\u9047\u89c6\u9ab8\u88ad\u51fb\uff0c\u90e8\u5206\u667a\u68b0\u906d\u9047\u4fb5\u8680\uff0c\u5f00\u59cb\u6267\u884c\u7834\u574f\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u62a4\u536b\u901a\u8baf\u94fe\u8def\u5854\u3002\u53d7\u4fb5\u8680\u667a\u68b0\u5c06\u548c\u89c6\u9ab8\u4e00\u540c\u4e0e\u6211\u65b9\u654c\u5bf9\uff0c\u654c\u65b9\u6574\u4f53<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c\u5230\u8fbe\u4e3b\u9635\u5730\u7684\u4eba\u7c7b\u7279\u5de5\u961f\u4f0d\u5c06\u52a0\u5165\u6e05\u7406\u884c\u52a8\uff0c\u534f\u540c\u4f5c\u6218\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u4e0e<color=#CD6269>\u667a\u68b0</color>\u6784\u6210\u3002\n- \u6709<color=#CD6269>\u53cb\u65b9\u4eba\u7c7b</color>\u966a\u540c\u53c2\u6218\u3002\n- \u6240\u6709\u654c\u4eba<color=#CD6269>\u514d\u75ab\u5965\u4e49\u4f24\u5bb3</color>\u3002",
+        "description": "主阵地I-00肃清完成，为应对后续的规模作战，地方指挥将建设通讯链路塔，增加作战通讯效率。\n\n建设链路塔的智械运输遭遇视骸袭击，部分智械遭遇侵蚀，开始执行破坏。\n\n派遣队伍护卫通讯链路塔。受侵蚀智械将和视骸一同与我方敌对，敌方整体<color=#FFAC4F>战力较强</color>。\n\n本次行动中，到达主阵地的人类特工队伍将加入清理行动，协同作战。\n\n- 敌人由<color=#CD6269>视骸</color>与<color=#CD6269>智械</color>构成。\n- 有<color=#CD6269>友方人类</color>陪同参战。\n- 所有敌人<color=#CD6269>免疫奥义伤害</color>。",
         "wave_id": 10043,
         "point": 80,
         "map_id": 5170533,
-        "wave_name": "2 \u2013 2",
+        "wave_name": "2 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_006",
@@ -800,11 +800,11 @@
         ]
     },
     "10044": {
-        "description": "\u7b2c\u56db\u533a\u8868\u5c42\u9635\u5730\u7684\u62a5\u544a\u79f0\uff0c\u57ce\u533a\u5185\u89c6\u9ab8\u73b0\u5df2\u5168\u90e8\u64a4\u56de\u6e90\u5c42\uff0c\u5411\u4e3b\u9635\u5730\u7684\u901a\u8baf\u94fe\u8def\u5854\u4f4d\u7f6e\u53cd\u6251\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u62a4\u536b\u901a\u8baf\u94fe\u8def\u5854\uff0c\u9632\u6b62\u4f5c\u6218\u901a\u8baf\u7ebf\u8def\u4e2d\u65ad\u3002\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u5bf9\u6211\u65b9\u6709\u4e00\u5b9a\u5a01\u80c1\u3002\n\n\u76ee\u6807\u533a\u57df\u5468\u56f4\u5b58\u5728\u795e\u80fd\u5bcc\u96c6\u70b9\uff0c\u5c06\u5927\u5e45\u63d0\u5347\u6211\u65b9\u7684\u795e\u80fd\u6062\u590d\u7387\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c\u4e3b\u9635\u5730\u7684\u4eba\u7c7b\u7279\u5de5\u961f\u4f0d\u5c06\u534f\u540c\u4f5c\u6218\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u7cbe\u82f1\u4e0e\u5c0f\u578b\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u6709<color=#CD6269>\u53cb\u65b9\u4eba\u7c7b</color>\u966a\u540c\u53c2\u6218\u3002\n- \u6211\u65b9\u4fee\u6b63\u8005\u6bcf\u79d2\u989d\u5916\u56de\u590d2\u70b9<color=#CD6269>\u795e\u80fd\u6216\u80fd\u91cf</color>\uff0c\u4e0d\u53d7\u52a0\u6210\u5f71\u54cd\u3002",
+        "description": "第四区表层阵地的报告称，城区内视骸现已全部撤回源层，向主阵地的通讯链路塔位置反扑。\n\n派遣队伍护卫通讯链路塔，防止作战通讯线路中断。敌方视骸<color=#FFAC4F>战力较强</color>，对我方有一定威胁。\n\n目标区域周围存在神能富集点，将大幅提升我方的神能恢复率。\n\n本次行动中，主阵地的人类特工队伍将协同作战。\n\n- 敌人由<color=#CD6269>精英与小型视骸</color>构成。\n- 有<color=#CD6269>友方人类</color>陪同参战。\n- 我方修正者每秒额外回复2点<color=#CD6269>神能或能量</color>，不受加成影响。",
         "wave_id": 10044,
         "point": 110,
         "map_id": 5170534,
-        "wave_name": "2 \u2013 3",
+        "wave_name": "2 – 3",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_027",
@@ -824,11 +824,11 @@
         ]
     },
     "10045": {
-        "description": "\u9ab8\u80fd\u805a\u96c6\u70b9B-03\u53d7\u4e09\u5c42\u9ab8\u80fd\u5c4f\u969c\u9632\u62a4\uff0c\u5c4f\u969c\u5185\u6709\u6570\u4e2a\u5854\u9ab8\uff0c\u7591\u4f3c\u80fd\u4e3a\u5c4f\u969c\u4f9b\u80fd\uff0c\u7ef4\u6301\u9632\u62a4\u5f3a\u5ea6\u3002\n\n\u5206\u6790\u8868\u660e\uff0c\u5c4f\u969c\u80fd\u591f\u62b5\u6297\u5f53\u524d\u5927\u90e8\u5206\u4e3b\u529b\u5175\u5668\u7684\u6253\u51fb\uff0c\u4f46\u65e0\u6cd5\u963b\u6b62\u4fee\u6b63\u8005\u7a7f\u8d8a\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u6b7c\u706d\u5854\u9ab8\uff0c\u4ee5\u9a8c\u8bc1\u6211\u65b9\u5bf9\u5c4f\u969c\u7684\u5206\u6790\u7ed3\u679c\u3002\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u5bf9\u6211\u65b9\u6709\u4e00\u5b9a\u5a01\u80c1\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002",
+        "description": "骸能聚集点B-03受三层骸能屏障防护，屏障内有数个塔骸，疑似能为屏障供能，维持防护强度。\n\n分析表明，屏障能够抵抗当前大部分主力兵器的打击，但无法阻止修正者穿越。\n\n派遣队伍歼灭塔骸，以验证我方对屏障的分析结果。敌方视骸<color=#FFAC4F>战力较强</color>，对我方有一定威胁。\n\n- 敌人由<color=#CD6269>视骸</color>构成。",
         "wave_id": 10045,
         "point": 100,
         "map_id": 5170535,
-        "wave_name": "2 \u2013 4",
+        "wave_name": "2 – 4",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_024",
@@ -844,11 +844,11 @@
         ]
     },
     "10046": {
-        "description": "\u6d88\u706d\u5854\u9ab8\u540e\uff0c\u68c0\u6d4b\u5230\u9ab8\u80fd\u5c4f\u969c\u7684\u5f3a\u5ea6\u5c0f\u5e45\u4e0b\u964d\uff0c\u5df2\u786e\u8ba4\u6e17\u900f\u6253\u51fb\u7b56\u7565\u6709\u6548\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u4fdd\u62a4\u795e\u80fd\u5bcc\u96c6\u70b9\uff0c\u4e3a\u540e\u7eed\u884c\u52a8\u4e89\u53d6\u4f18\u52bf\u3002\u654c\u65b9\u7531\u89c6\u9ab8\u4e0e\u53d7\u4fb5\u8680\u4eba\u7c7b\u6df7\u7f16\uff0c\u6574\u4f53<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u4e0e<color=#CD6269>\u4eba\u7c7b</color>\u6784\u6210\u3002\n- \u6211\u65b9\u4fee\u6b63\u8005\u6bcf\u79d2\u989d\u5916\u56de\u590d2\u70b9<color=#CD6269>\u795e\u80fd\u6216\u80fd\u91cf</color>\uff0c\u4e0d\u53d7\u52a0\u6210\u5f71\u54cd\u3002",
+        "description": "消灭塔骸后，检测到骸能屏障的强度小幅下降，已确认渗透打击策略有效。\n\n派遣队伍保护神能富集点，为后续行动争取优势。敌方由视骸与受侵蚀人类混编，整体<color=#FFAC4F>战力较强</color>。\n\n- 敌人由<color=#CD6269>视骸</color>与<color=#CD6269>人类</color>构成。\n- 我方修正者每秒额外回复2点<color=#CD6269>神能或能量</color>，不受加成影响。",
         "wave_id": 10046,
         "point": 95,
         "map_id": 5170536,
-        "wave_name": "2 \u2013 5",
+        "wave_name": "2 – 5",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_039",
@@ -868,11 +868,11 @@
         ]
     },
     "10047": {
-        "description": "\u5927\u91cf\u7cbe\u82f1\u89c6\u9ab8\u5f00\u59cb\u51b2\u51fb\u4e3b\u9635\u5730\u524d\u6cbf\u5e72\u6270\u6218\u6597\u90e8\u7f72\uff0c\u63a8\u6d4b\u9ab8\u80fd\u805a\u96c6\u70b9B-03\u5b58\u5728\u667a\u9ab8\u6307\u6325\u89c6\u9ab8\u884c\u52a8\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u5e94\u5bf9\u5165\u4fb5\uff0c\u964d\u4f4e\u9632\u536b\u538b\u529b\u3002\u53d7\u4fb5\u8680\u4eba\u7c7b\u5c06\u534f\u540c\u89c6\u9ab8\u8fdb\u653b\uff0c\u9700\u6d3e\u9063<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005</color>\u51fa\u51fb\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u4eba\u7c7b</color>\u3001<color=#CD6269>\u7cbe\u82f1\u89c6\u9ab8</color>\u3001<color=#CD6269>\u5c0f\u578b\u89c6\u9ab8</color>\u6784\u6210\u3002\n- <color=#CD6269>\u654c\u65b9\u4eba\u7c7b</color>\u51fa\u573a\u540e\uff0c<color=#CD6269>\u514d\u75ab\u7269\u7406\u5c5e\u6027\u653b\u51fb</color>\u3002",
+        "description": "大量精英视骸开始冲击主阵地前沿干扰战斗部署，推测骸能聚集点B-03存在智骸指挥视骸行动。\n\n派遣队伍应对入侵，降低防卫压力。受侵蚀人类将协同视骸进攻，需派遣<color=#FFAC4F>精锐修正者</color>出击。\n\n- 敌人由<color=#CD6269>人类</color>、<color=#CD6269>精英视骸</color>、<color=#CD6269>小型视骸</color>构成。\n- <color=#CD6269>敌方人类</color>出场后，<color=#CD6269>免疫物理属性攻击</color>。",
         "wave_id": 10047,
         "point": 90,
         "map_id": 5170537,
-        "wave_name": "3 \u2013 1",
+        "wave_name": "3 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_018",
@@ -892,11 +892,11 @@
         ]
     },
     "10048": {
-        "description": "\u90e8\u5206\u89c6\u9ab8\u8fd4\u56de\u8868\u5c42\uff0c\u9488\u5bf9\u7b2c\u56db\u533a\u591a\u4e2a\u9632\u5fa1\u8584\u5f31\u4f4d\u7f6e\u53d1\u52a8\u88ad\u51fb\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u5e94\u5bf9\u89c6\u9ab8\u7684\u88ad\u51fb\uff0c\u907f\u514d\u79d1\u5c14\u76d6\u518d\u6b21\u56de\u8c03\u6218\u529b\uff0c\u63a8\u8fdf\u4e3b\u9635\u5730\u8fdb\u653b\u65f6\u95f4\u3002\n\n\u654c\u65b9\u89c6\u9ab8\u6570\u91cf\u8f83\u5c11\uff0c<color=#FFAC4F>\u6218\u529b\u8f83\u5f31</color>\uff0c\u63a8\u6d4b\u4e3a\u5148\u9063\u4fa6\u5bdf\u800c\u51fa\u52a8\uff0c<color=#C5F448>\u65bd\u52a0\u5f3a\u529b\u6253\u51fb\u5c06\u4ee4\u89c6\u9ab8\u6682\u65f6\u653e\u5f03\u5165\u4fb5</color>\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u7cbe\u82f1\u4e0e\u5c0f\u578b\u89c6\u9ab8</color>\u6784\u6210\uff0c<color=#D0A3E2>\u5206\u5e03\u7a00\u758f</color>\u3002\n- \u573a\u4e0a\u5b58\u5728\u81f3\u5c111\u540d\u7cbe\u82f1\u89c6\u9ab8\u65f6\uff0c\u6240\u6709\u89c6\u9ab8<color=#CD6269>\u514d\u75ab\u8fd1\u6218\u653b\u51fb</color>\u4e0e<color=#CD6269>\u98ce\u5c5e\u6027\u653b\u51fb</color>\u3002\n",
+        "description": "部分视骸返回表层，针对第四区多个防御薄弱位置发动袭击。\n\n派遣队伍应对视骸的袭击，避免科尔盖再次回调战力，推迟主阵地进攻时间。\n\n敌方视骸数量较少，<color=#FFAC4F>战力较弱</color>，推测为先遣侦察而出动，<color=#C5F448>施加强力打击将令视骸暂时放弃入侵</color>。\n\n- 敌人由<color=#CD6269>精英与小型视骸</color>构成，<color=#D0A3E2>分布稀疏</color>。\n- 场上存在至少1名精英视骸时，所有视骸<color=#CD6269>免疫近战攻击</color>与<color=#CD6269>风属性攻击</color>。\n",
         "wave_id": 10048,
         "point": 150,
         "map_id": 5170538,
-        "wave_name": "3 \u2013 2",
+        "wave_name": "3 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_041",
@@ -916,11 +916,11 @@
         ]
     },
     "10049": {
-        "description": "\u4e3b\u9635\u5730I-00\u4fa7\u540e\u65b9\u53d1\u73b0\u5c11\u91cf<color=#FFAC4F>\u672a\u643a\u5e26\u6b66\u88c5</color>\u7684\u654c\u5bf9\u667a\u68b0\uff0c\u6b63\u643a\u5e26\u5927\u91cf\u9ad8\u7206\u6750\u6599\u9760\u8fd1\u4e3b\u9635\u5730\u9632\u5b88\u8584\u5f31\u5904\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u62e6\u622a\u667a\u68b0\uff0c\u963b\u6b62\u5176\u8d8a\u8fc7\u9632\u7ebf\u3002\u654c\u65b9\u667a\u68b0\u6218\u529b\u8f83\u5f31\uff0c\u4f46\u56e0\u643a\u5e26\u9ad8\u7206\u6750\u6599\u800c\u8f83\u4e3a\u5371\u9669\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c\u4e3b\u9635\u5730\u7684\u4eba\u7c7b\u7279\u5de5\u961f\u4f0d\u5c06\u534f\u540c\u4f5c\u6218\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u4e0e<color=#CD6269>\u667a\u68b0</color>\u6784\u6210\u3002\n- \u6709<color=#CD6269>\u53cb\u65b9\u4eba\u7c7b</color>\u966a\u540c\u53c2\u6218\u3002\n- \u654c\u65b9<color=#D0A3E2>\u667a\u68b0\u88ab\u51fb\u6740\u540e\u4f1a\u5267\u70c8\u7206\u70b8</color>\u3002\u547d\u4e2d\u6211\u65b9\u5355\u4f4d\u65f6\uff0c\u9020\u621040000\u70b9\u706b\u5c5e\u6027\u4f24\u5bb3\u3002\u5efa\u8bae\u4f7f\u7528<color=#FFAC4F>\u8fdc\u7a0b\u4fee\u6b63\u8005</color>\u5e94\u5bf9\u3002",
+        "description": "主阵地I-00侧后方发现少量<color=#FFAC4F>未携带武装</color>的敌对智械，正携带大量高爆材料靠近主阵地防守薄弱处。\n\n派遣队伍拦截智械，阻止其越过防线。敌方智械战力较弱，但因携带高爆材料而较为危险。\n\n本次行动中，主阵地的人类特工队伍将协同作战。\n\n- 敌人由<color=#CD6269>视骸</color>与<color=#CD6269>智械</color>构成。\n- 有<color=#CD6269>友方人类</color>陪同参战。\n- 敌方<color=#D0A3E2>智械被击杀后会剧烈爆炸</color>。命中我方单位时，造成40000点火属性伤害。建议使用<color=#FFAC4F>远程修正者</color>应对。",
         "wave_id": 10049,
         "point": 80,
         "map_id": 5170539,
-        "wave_name": "3 \u2013 3",
+        "wave_name": "3 – 3",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_042",
@@ -936,11 +936,11 @@
         ]
     },
     "10050": {
-        "description": "\u5b9e\u65f6\u76d1\u6d4b\u663e\u793a\uff0c\u654c\u65b9\u5728\u63a5\u8fd1\u4e3b\u9635\u5730I-00\u7684\u4f4d\u7f6e\u90e8\u7f72\u4e86\u5854\u9ab8\uff0c\u610f\u56fe\u5f15\u5bfc\u9ab8\u80fd\u5bf9\u4e3b\u9635\u5730\u8fdb\u884c\u8fdc\u8ddd\u79bb\u8f70\u70b8\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u6b7c\u706d\u5854\u9ab8\uff0c\u786e\u4fdd\u4e3b\u9635\u5730\u7684\u5b89\u5168\u3002\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u9700\u6d3e\u9063<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005</color>\u51fa\u51fb\u3002\n\n\u79d1\u5c14\u76d6\u7684\u795e\u80fd\u91cd\u70ae\u5373\u5c06\u5b8c\u6210\u7ec4\u88c5\uff0c\u7ec4\u88c5\u5e76\u542f\u7528\u540e\u80fd\u591f\u4e3a\u6211\u65b9\u63d0\u4f9b\u652f\u63f4\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u7cbe\u82f1\u4e0e\u5c0f\u578b\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u5854\u9ab8<color=#CD6269>\u514d\u75ab\u5355\u6b218000000\u70b9\u4ee5\u4e0b\u7684\u975e\u5965\u4e49\u547d\u4e2d\u4f24\u5bb3</color>\u3002\n- \u795e\u80fd\u91cd\u70ae\u5c31\u7eea\u540e\uff0c\u53ef\u4ee5\u4f7f\u7528<color=#CD6269>\u7269\u7406\u5965\u4e49\u4f24\u5bb3</color>\u5f15\u5bfc\u795e\u80fd\u70ae\u51fb\u3002\u70ae\u51fb\u547d\u4e2d\u654c\u4eba\u65f6\uff0c\u9020\u621020000000\u70b9\u4f24\u5bb3\u3002",
+        "description": "实时监测显示，敌方在接近主阵地I-00的位置部署了塔骸，意图引导骸能对主阵地进行远距离轰炸。\n\n派遣队伍歼灭塔骸，确保主阵地的安全。敌方视骸<color=#FFAC4F>战力较强</color>，需派遣<color=#FFAC4F>精锐修正者</color>出击。\n\n科尔盖的神能重炮即将完成组装，组装并启用后能够为我方提供支援。\n\n- 敌人由<color=#CD6269>精英与小型视骸</color>构成。\n- 塔骸<color=#CD6269>免疫单次8000000点以下的非奥义命中伤害</color>。\n- 神能重炮就绪后，可以使用<color=#CD6269>物理奥义伤害</color>引导神能炮击。炮击命中敌人时，造成20000000点伤害。",
         "wave_id": 10050,
         "point": 180,
         "map_id": 5170540,
-        "wave_name": "3 \u2013 4",
+        "wave_name": "3 – 4",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_044",
@@ -960,11 +960,11 @@
         ]
     },
     "10051": {
-        "description": "\u4e3b\u9635\u5730\u8fdb\u5165\u6700\u540e\u7684\u5efa\u8bbe\u9636\u6bb5\uff0c\u6218\u5907\u5373\u5c06\u5b8c\u6210\u3002\u654c\u65b9\u6b63\u7a81\u5165\u4e3b\u9635\u5730\u524d\u6cbf\uff0c\u610f\u56fe\u6467\u6bc1\u4e3b\u9635\u5730\u7684\u795e\u80fd\u91cd\u70ae\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u5360\u98862\u5904\u795e\u80fd\u5bcc\u96c6\u70b9\uff0c\u4e3a\u795e\u80fd\u91cd\u70ae\u4f9b\u80fd\u5e76\u4f9d\u6258\u91cd\u70ae\u9632\u5b88\uff0c\u53ef\u6d3e\u9063<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005</color>\u51fa\u51fb\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c\u667a\u68b0\u8fd0\u8f93\u961f\u5c06\u5728\u76ee\u6807\u533a\u57df\u8fdb\u884c\u5efa\u8bbe\uff0c\u6218\u6597\u4e2d\u5c3d\u53ef\u80fd\u4e88\u4ee5\u62a4\u536b\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u795e\u80fd\u91cd\u70ae\u5c31\u7eea\u540e\uff0c\u53ef\u4ee5\u4f7f\u7528<color=#CD6269>\u7269\u7406\u5965\u4e49\u4f24\u5bb3</color>\u5f15\u5bfc\u795e\u80fd\u70ae\u51fb\u3002\u70ae\u51fb\u547d\u4e2d\u654c\u4eba\u65f6\uff0c\u9020\u621020000000\u70b9\u4f24\u5bb3\u3002\n- \u6211\u65b9\u4fee\u6b63\u8005\u6bcf\u79d2\u989d\u5916\u56de\u590d5\u70b9<color=#CD6269>\u795e\u80fd\u6216\u80fd\u91cf</color>\uff0c\u4e0d\u53d7\u52a0\u6210\u5f71\u54cd\u3002\u5efa\u7acb\u795e\u80fd\u4f20\u8f93\u540e\u56de\u590d\u6548\u679c\u5c06\u6d88\u5931\u3002",
+        "description": "主阵地进入最后的建设阶段，战备即将完成。敌方正突入主阵地前沿，意图摧毁主阵地的神能重炮。\n\n派遣队伍占领2处神能富集点，为神能重炮供能并依托重炮防守，可派遣<color=#FFAC4F>常规修正者</color>出击。\n\n本次行动中，智械运输队将在目标区域进行建设，战斗中尽可能予以护卫。\n\n- 敌人由<color=#CD6269>视骸</color>构成。\n- 神能重炮就绪后，可以使用<color=#CD6269>物理奥义伤害</color>引导神能炮击。炮击命中敌人时，造成20000000点伤害。\n- 我方修正者每秒额外回复5点<color=#CD6269>神能或能量</color>，不受加成影响。建立神能传输后回复效果将消失。",
         "wave_id": 10051,
         "point": 100,
         "map_id": 5170541,
-        "wave_name": "3 \u2013 5",
+        "wave_name": "3 – 5",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_046",
@@ -992,11 +992,11 @@
         ]
     },
     "10052": {
-        "description": "\u9488\u5bf9\u9ab8\u80fd\u805a\u96c6\u70b9B-03\u7684\u653b\u575a\u884c\u52a8\u5f00\u59cb\uff0c\u654c\u65b9\u89c6\u9ab8\u5df2\u9000\u56deB-03\u6784\u5efa\u9632\u7ebf\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u6d88\u706d\u654c\u4eba\uff0c\u5f00\u8f9f\u9053\u8def\u3002\u654c\u65b9\u4e3a\u6df7\u5408\u90e8\u961f\uff0c\u6574\u4f53<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u9700\u6d3e\u9063<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005</color>\u51fa\u51fb\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u6df7\u5408\u90e8\u961f</color>\u6784\u6210\u3002\n- \u4f7f\u7528<color=#CD6269>\u7269\u7406\u5965\u4e49\u4f24\u5bb3</color>\u5f15\u5bfc\u795e\u80fd\u70ae\u51fb\u3002\u70ae\u51fb\u547d\u4e2d\u654c\u4eba\u65f6\uff0c\u9020\u621020000000\u70b9\u4f24\u5bb3\u3002",
+        "description": "针对骸能聚集点B-03的攻坚行动开始，敌方视骸已退回B-03构建防线。\n\n派遣队伍消灭敌人，开辟道路。敌方为混合部队，整体<color=#FFAC4F>战力较强</color>，需派遣<color=#FFAC4F>精锐修正者</color>出击。\n\n- 敌人由<color=#CD6269>混合部队</color>构成。\n- 使用<color=#CD6269>物理奥义伤害</color>引导神能炮击。炮击命中敌人时，造成20000000点伤害。",
         "wave_id": 10052,
         "point": 240,
         "map_id": 5170542,
-        "wave_name": "4 \u2013 1",
+        "wave_name": "4 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_001",
@@ -1012,11 +1012,11 @@
         ]
     },
     "10053": {
-        "description": "\u795e\u80fd\u91cd\u70ae\u5df2\u5f00\u59cb\u6df1\u5ea6\u5145\u80fd\uff0c\u51c6\u5907\u8f70\u51fb\u805a\u96c6\u70b9B-03\u7684\u9ab8\u80fd\u6838\u5fc3\uff0c\u6211\u65b9\u5c06\u901a\u8fc7\u6e17\u900f\u6253\u51fb\u89e3\u9664\u9ab8\u80fd\u5c4f\u969c\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u6b7c\u706d\u5854\u9ab8\u963b\u65ad\u4f9b\u80fd\uff0c\u6467\u6bc1\u7b2c\u4e00\u5c42\u5c4f\u969c\u3002\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u9700\u6d3e\u9063<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005</color>\u51fa\u51fb\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c<color=#CD6269>\u795e\u80fd\u4e0e\u80fd\u91cf</color>\u5c06\u53d7\u5230\u6291\u5236\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u7cbe\u82f1\u4e0e\u5c0f\u578b\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u6211\u65b9\u4fee\u6b63\u8005\u6bcf\u79d2\u51cf\u5c113\u70b9<color=#CD6269>\u795e\u80fd\u6216\u80fd\u91cf</color>\uff0c\u4e0d\u53d7\u52a0\u6210\u5f71\u54cd\u3002\n- \u654c\u65b9\u89c6\u9ab8<color=#CD6269>\u514d\u75ab\u706b\u3001\u5149\u3001\u6697\u5c5e\u6027\u653b\u51fb</color>\u3002",
+        "description": "神能重炮已开始深度充能，准备轰击聚集点B-03的骸能核心，我方将通过渗透打击解除骸能屏障。\n\n派遣队伍歼灭塔骸阻断供能，摧毁第一层屏障。敌方视骸<color=#FFAC4F>战力较强</color>，需派遣<color=#FFAC4F>精锐修正者</color>出击。\n\n本次行动中，<color=#CD6269>神能与能量</color>将受到抑制。\n\n- 敌人由<color=#CD6269>精英与小型视骸</color>构成。\n- 我方修正者每秒减少3点<color=#CD6269>神能或能量</color>，不受加成影响。\n- 敌方视骸<color=#CD6269>免疫火、光、暗属性攻击</color>。",
         "wave_id": 10053,
         "point": 190,
         "map_id": 5170543,
-        "wave_name": "4 \u2013 2",
+        "wave_name": "4 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_024",
@@ -1032,11 +1032,11 @@
         ]
     },
     "10054": {
-        "description": "\u7b2c\u4e00\u5c42\u5c4f\u969c\u5df2\u6467\u6bc1\uff0c\u79d1\u5c14\u76d6\u7684\u4f5c\u6218\u90e8\u961f\u5c06\u6e05\u7406\u6b8b\u4f59\u7684\u89c6\u9ab8\uff0c\u6211\u65b9\u5c06\u7ee7\u7eed\u63a8\u8fdb\uff0c\u8fdb\u653b\u7b2c\u4e8c\u5c42\u5c4f\u969c\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u6b7c\u706d\u5854\u9ab8\uff0c\u6467\u6bc1\u7b2c\u4e8c\u5c42\u5c4f\u969c\u3002\u53d7\u4fb5\u8680\u4eba\u7c7b\u5c06\u534f\u540c\u89c6\u9ab8\u8fdb\u653b\uff0c\u9700\u6d3e\u9063<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005</color>\u51fa\u51fb\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c<color=#CD6269>\u5370\u8bb0</color>\u5c06\u53d7\u5230\u6291\u5236\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u4e0e<color=#CD6269>\u4eba\u7c7b</color>\u6784\u6210\u3002\n- \u6211\u65b9\u4fee\u6b63\u8005\u6bcf3\u79d2\u51cf\u5c111\u70b9<color=#CD6269>\u5370\u8bb0</color>\uff0c\u4e0d\u53d7\u52a0\u6210\u5f71\u54cd\u3002\n- \u654c\u65b9\u88ab<color=#CD6269>\u98ce\u5c5e\u6027</color>\u6216<color=#CD6269>\u96f7\u5c5e\u6027</color>\u4f24\u5bb3\u547d\u4e2d\u540e\uff0c\u53d7\u5230\u7684\u5168\u4f24\u5bb3\u964d\u4f4e5%\uff0c\u6301\u7eed1\u79d2\u3002\u53ef\u5237\u65b0\uff0c\u53ef\u53e0\u52a0\uff0c\u65e0\u4e0a\u9650\u3002",
+        "description": "第一层屏障已摧毁，科尔盖的作战部队将清理残余的视骸，我方将继续推进，进攻第二层屏障。\n\n派遣队伍歼灭塔骸，摧毁第二层屏障。受侵蚀人类将协同视骸进攻，需派遣<color=#FFAC4F>精锐修正者</color>出击。\n\n本次行动中，<color=#CD6269>印记</color>将受到抑制。\n\n- 敌人由<color=#CD6269>视骸</color>与<color=#CD6269>人类</color>构成。\n- 我方修正者每3秒减少1点<color=#CD6269>印记</color>，不受加成影响。\n- 敌方被<color=#CD6269>风属性</color>或<color=#CD6269>雷属性</color>伤害命中后，受到的全伤害降低5%，持续1秒。可刷新，可叠加，无上限。",
         "wave_id": 10054,
         "point": 110,
         "map_id": 5170544,
-        "wave_name": "4 \u2013 3",
+        "wave_name": "4 – 3",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_024",
@@ -1052,11 +1052,11 @@
         ]
     },
     "10055": {
-        "description": "\u7b2c\u4e8c\u5c42\u5c4f\u969c\u5df2\u6467\u6bc1\uff0c\u6df1\u7a7a\u4e4b\u773cC\u7ea7\u4fee\u6b63\u8005\u5c06\u63a5\u624b\u6e05\u7406\u6b8b\u4f59\u89c6\u9ab8\uff0c\u6211\u65b9\u5c06\u7ee7\u7eed\u63a8\u8fdb\uff0c\u8fdb\u653b\u6700\u540e\u7684\u5c4f\u969c\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u6b7c\u706d\u5854\u9ab8\uff0c\u6467\u6bc1\u7b2c\u4e09\u5c42\u5c4f\u969c\u3002\u654c\u65b9\u4e3a\u6df7\u5408\u90e8\u961f\uff0c\u6574\u4f53<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u9700\u6d3e\u9063<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005</color>\u51fa\u51fb\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c<color=#CD6269>\u6012\u6c14</color>\u5c06\u53d7\u5230\u6291\u5236\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u6df7\u5408\u90e8\u961f</color>\u6784\u6210\uff0c<color=#D0A3E2>\u6563\u5e03\u8303\u56f4\u8f83\u5927</color>\u3002\n- \u6211\u65b9\u4fee\u6b63\u8005\u5f53\u524d<color=#CD6269>\u6012\u6c14</color>\u6bcf10\u79d2\u51cf\u5c11\u81f3\u5f53\u524d\u7684\u4e00\u534a\uff0c\u4e0d\u53d7\u52a0\u6210\u5f71\u54cd\u3002\n- \u654c\u65b9\u88ab<color=#D0A3E2>\u706b\u5c5e\u6027</color>\u4f24\u5bb3\u547d\u4e2d\u540e\uff0c\u6062\u590d\u5176\u6700\u5927\u751f\u547d\u503c\u76845%\u3002",
+        "description": "第二层屏障已摧毁，深空之眼C级修正者将接手清理残余视骸，我方将继续推进，进攻最后的屏障。\n\n派遣队伍歼灭塔骸，摧毁第三层屏障。敌方为混合部队，整体<color=#FFAC4F>战力较强</color>，需派遣<color=#FFAC4F>精锐修正者</color>出击。\n\n本次行动中，<color=#CD6269>怒气</color>将受到抑制。\n\n- 敌人由<color=#CD6269>混合部队</color>构成，<color=#D0A3E2>散布范围较大</color>。\n- 我方修正者当前<color=#CD6269>怒气</color>每10秒减少至当前的一半，不受加成影响。\n- 敌方被<color=#D0A3E2>火属性</color>伤害命中后，恢复其最大生命值的5%。",
         "wave_id": 10055,
         "point": 230,
         "map_id": 5170545,
-        "wave_name": "4 \u2013 4",
+        "wave_name": "4 – 4",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_024",
@@ -1072,11 +1072,11 @@
         ]
     },
     "10056": {
-        "description": "\u7b2c\u4e09\u5c42\u5c4f\u969c\u5df2\u6467\u6bc1\uff0c\u9ab8\u80fd\u6838\u5fc3\u66b4\u9732\uff0c\u795e\u80fd\u91cd\u70ae\u5df2\u5b8c\u6210\u6df1\u5ea6\u5145\u80fd\uff0c\u7b49\u5f85\u8c03\u5ea6\u6307\u4ee4\u3002\n\n\u5269\u4f59\u89c6\u9ab8\u8fdb\u5165\u6e38\u8361\u72b6\u6001\uff0c\u63a8\u6d4b\u805a\u96c6\u70b9B-03\u7684\u6307\u6325\u8005\u667a\u9ab8\u5df2\u7ecf\u79bb\u5f00\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u5f7b\u5e95\u6d88\u706d\u6240\u6709\u5854\u9ab8\uff0c\u6467\u6bc1\u6838\u5fc3\u533a\u3002\u654c\u65b9\u4e3a\u7cbe\u82f1\u89c6\u9ab8\uff0c<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u9700\u6d3e\u9063<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005</color>\u51fa\u51fb\u3002\n\n- \u654c\u4eba\u7531<color=#FFAC4F>\u7cbe\u82f1\u4e0e\u5c0f\u578b\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u5854\u9ab8\u514d\u75ab90000000\u70b9\u4ee5\u4e0b\u7684\u547d\u4e2d\u4f24\u5bb3\u3002\n- \u4f7f\u7528<color=#CD6269>\u5149\u5c5e\u6027\u5965\u4e49\u4f24\u5bb3</color>\u5f15\u5bfc\u795e\u80fd\u70ae\u51fb\u3002\u70ae\u51fb\u547d\u4e2d\u654c\u4eba\u65f6\uff0c\u9020\u621080000000\u70b9\u4f24\u5bb3\u3002",
+        "description": "第三层屏障已摧毁，骸能核心暴露，神能重炮已完成深度充能，等待调度指令。\n\n剩余视骸进入游荡状态，推测聚集点B-03的指挥者智骸已经离开。\n\n派遣队伍彻底消灭所有塔骸，摧毁核心区。敌方为精英视骸，<color=#FFAC4F>战力较强</color>，需派遣<color=#FFAC4F>精锐修正者</color>出击。\n\n- 敌人由<color=#FFAC4F>精英与小型视骸</color>构成。\n- 塔骸免疫90000000点以下的命中伤害。\n- 使用<color=#CD6269>光属性奥义伤害</color>引导神能炮击。炮击命中敌人时，造成80000000点伤害。",
         "wave_id": 10056,
         "point": 330,
         "map_id": 5170546,
-        "wave_name": "4 \u2013 5",
+        "wave_name": "4 – 5",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_024",
@@ -1092,11 +1092,11 @@
         ]
     },
     "10057": {
-        "description": "\u7a7f\u8d8a\u8d2b\u6c11\u533a\u524d\u5f80\u57fa\u5730\u65f6\uff0c\u6211\u65b9\u906d\u9047\u89c6\u9ab8\u4e0e\u667a\u68b0\u7684\u6df7\u5408\u90e8\u961f\u56f4\u653b\uff0c\u961f\u4f0d\u65e0\u6cd5\u524d\u8fdb\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u5e94\u5bf9\u654c\u65b9\u653b\u51fb\u3002\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u5c06\u4e3a\u6211\u65b9\u5e26\u6765\u8f83\u9ad8\u538b\u529b\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u4e0e<color=#CD6269>\u667a\u68b0</color>\u6784\u6210\u3002\n- \u6240\u6709\u654c\u4eba<color=#CD6269>\u514d\u75ab\u8fdc\u7a0b\u4fee\u6b63\u8005\u4f24\u5bb3</color>\uff0c\u53d7<color=#D0A3E2>\u96f6\u65f6\u7a7a\u95f4</color>\u5f71\u54cd\u540e\u5931\u6548\u3002\n",
+        "description": "穿越贫民区前往基地时，我方遭遇视骸与智械的混合部队围攻，队伍无法前进。\n\n派遣队伍应对敌方攻击。敌方视骸<color=#FFAC4F>战力较强</color>，将为我方带来较高压力。\n\n- 敌人由<color=#CD6269>视骸</color>与<color=#CD6269>智械</color>构成。\n- 所有敌人<color=#CD6269>免疫远程修正者伤害</color>，受<color=#D0A3E2>零时空间</color>影响后失效。\n",
         "wave_id": 10057,
         "point": 80,
         "map_id": 5170547,
-        "wave_name": "1 \u2013 1",
+        "wave_name": "1 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_016",
@@ -1116,11 +1116,11 @@
         ]
     },
     "10058": {
-        "description": "\u672c\u533a\u57df\u89c6\u9ab8\u9971\u548c\u5ea6\u8d85\u51fa\u9884\u671f\uff0c\u6211\u65b9\u6682\u65f6\u65e0\u6cd5\u8131\u8eab\uff0c\u827e\u56e0\u7d22\u83f2\u7684\u7279\u9063\u5c0f\u961f\u6b63\u5728\u8d76\u6765\u652f\u63f4\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u5e94\u5bf9\u654c\u65b9\u653b\u51fb\uff0c\u7b49\u5f85\u652f\u63f4\u961f\u4f0d\u3002\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u5c06\u4e3a\u6211\u65b9\u5e26\u6765\u8f83\u9ad8\u538b\u529b\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u7cbe\u82f1\u4e0e\u5c0f\u578b\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u6240\u6709\u7cbe\u82f1\u89c6\u9ab8<color=#CD6269>\u514d\u75ab\u8fd1\u6218\u706b\u5c5e\u6027\u4fee\u6b63\u8005\u4f24\u5bb3</color>\uff0c\u7d2f\u8ba1\u88ab<color=#D0A3E2>\u7981\u9522</color>3\u6b21\u540e\u5931\u6548\u3002",
+        "description": "本区域视骸饱和度超出预期，我方暂时无法脱身，艾因索菲的特遣小队正在赶来支援。\n\n派遣队伍应对敌方攻击，等待支援队伍。敌方视骸<color=#FFAC4F>战力较强</color>，将为我方带来较高压力。\n\n- 敌人由<color=#CD6269>精英与小型视骸</color>构成。\n- 所有精英视骸<color=#CD6269>免疫近战火属性修正者伤害</color>，累计被<color=#D0A3E2>禁锢</color>3次后失效。",
         "wave_id": 10058,
         "point": 70,
         "map_id": 5170548,
-        "wave_name": "1 \u2013 2",
+        "wave_name": "1 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_016",
@@ -1140,11 +1140,11 @@
         ]
     },
     "10059": {
-        "description": "\u60c5\u62a5\u663e\u793a\uff0c\u5927\u91cf\u89c6\u9ab8\u5728\u76ee\u6807\u57fa\u5730\u9644\u8fd1\u51fa\u73b0\uff0c\u6b63\u5411\u5404\u4e2a\u65b9\u5411\u63a8\u8fdb\uff0c\u90e8\u5206\u89c6\u9ab8\u5373\u5c06\u62b5\u8fbe\u6211\u65b9\u6240\u5728\u4f4d\u7f6e\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u5e94\u5bf9\u654c\u65b9\u653b\u51fb\uff0c\u7b49\u5f85\u4e0e\u652f\u63f4\u961f\u4f0d\u4f1a\u5408\u3002\u654c\u65b9\u6df7\u5408\u90e8\u961f<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u5c06\u4e3a\u6211\u65b9\u5e26\u6765\u8f83\u9ad8\u538b\u529b\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u6df7\u5408\u90e8\u961f</color>\u6784\u6210\u3002\n- \u654c\u65b9\u7cbe\u82f1\u7d2f\u8ba1\u88ab<color=#D0A3E2>\u51bb\u7ed3</color>2\u6b21\u540e\uff0c\u53d7\u5230<color=#CD6269>\u7269\u7406\u5965\u4e49\u4f24\u5bb3</color>\u65f6\u7acb\u523b\u6b7b\u4ea1\u3002",
+        "description": "情报显示，大量视骸在目标基地附近出现，正向各个方向推进，部分视骸即将抵达我方所在位置。\n\n派遣队伍应对敌方攻击，等待与支援队伍会合。敌方混合部队<color=#FFAC4F>战力较强</color>，将为我方带来较高压力。\n\n- 敌人由<color=#CD6269>混合部队</color>构成。\n- 敌方精英累计被<color=#D0A3E2>冻结</color>2次后，受到<color=#CD6269>物理奥义伤害</color>时立刻死亡。",
         "wave_id": 10059,
         "point": 80,
         "map_id": 5170549,
-        "wave_name": "1 \u2013 3",
+        "wave_name": "1 – 3",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_048",
@@ -1164,11 +1164,11 @@
         ]
     },
     "10060": {
-        "description": "\u5206\u6790\u8868\u660e\uff0c\u89c6\u9ab8\u7684\u6574\u4f53\u884c\u8fdb\u8def\u7ebf\u8f83\u4e3a\u56fa\u5b9a\uff0c\u6211\u65b9\u9700\u8981\u542f\u7528\u8d2b\u6c11\u533a\u7684\u5f03\u7f6e\u94fe\u8def\u5854\u5438\u5f15\u90bb\u8fd1\u654c\u65b9\u6ce8\u610f\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u575a\u5b88\u94fe\u8def\u5854\uff0c\u7b49\u5f85\u667a\u68b0\u8fd0\u8f93\u961f\u62b5\u8fbe\u7ef4\u62a4\u3002\u654c\u65b9\u6df7\u5408\u90e8\u961f<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u5c06\u4e3a\u6211\u65b9\u5e26\u6765\u8f83\u9ad8\u538b\u529b\u3002\n\n\u8fd0\u8f93\u667a\u68b0\u80fd\u591f\u540c\u65f6\u6267\u884c\u7ef4\u62a4\u5de5\u4f5c\uff0c\u786e\u4fdd\u66f4\u591a\u667a\u68b0\u5b89\u5168\u62b5\u8fbe\u80fd\u591f\u66f4\u65e9\u542f\u7528\u8be5\u5904\u94fe\u8def\u5854\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u6df7\u5408\u90e8\u961f</color>\u6784\u6210\u3002\n- \u9014\u4e2d\u6709<color=#CD6269>\u53cb\u65b9\u4eba\u7c7b</color>\u52a0\u5165\u6218\u6597\u3002\n- \u654c\u65b9\u7cbe\u82f1\u53d7\u5230\u7684<color=#CD6269>\u5149\u3001\u7269\u7406\u5c5e\u6027\u4f24\u5bb3\u964d\u4f4e</color>98%\u3002\n",
+        "description": "分析表明，视骸的整体行进路线较为固定，我方需要启用贫民区的弃置链路塔吸引邻近敌方注意。\n\n派遣队伍坚守链路塔，等待智械运输队抵达维护。敌方混合部队<color=#FFAC4F>战力较强</color>，将为我方带来较高压力。\n\n运输智械能够同时执行维护工作，确保更多智械安全抵达能够更早启用该处链路塔。\n\n- 敌人由<color=#CD6269>混合部队</color>构成。\n- 途中有<color=#CD6269>友方人类</color>加入战斗。\n- 敌方精英受到的<color=#CD6269>光、物理属性伤害降低</color>98%。\n",
         "wave_id": 10060,
         "point": 200,
         "map_id": 5170550,
-        "wave_name": "2 \u2013 1",
+        "wave_name": "2 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_016",
@@ -1192,11 +1192,11 @@
         ]
     },
     "10061": {
-        "description": "\u6211\u65b9\u63a5\u5230\u6307\u6325\u90e8\u4e34\u65f6\u4efb\u52a1\uff0c\u4e00\u5c0f\u80a1\u89c6\u9ab8\u8131\u79bb\u65e2\u5b9a\u8def\u7ebf\uff0c\u8fdb\u5165\u53e6\u4e00\u533a\u57df\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u6e05\u9664\u76ee\u6807\u533a\u57df\u5185\u7684\u654c\u4eba\u3002\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f3a</color>\uff0c\u533a\u57df\u76f8\u5173\u8d44\u6599\u7a7a\u7f3a\uff0c\u9700\u8981\u8c28\u614e\u6d3e\u9063\u51fa\u51fb\u961f\u4f0d\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c\u573a\u5730\u5185\u5b58\u5728\u539f\u7406\u4e0d\u660e\u7684\u6709\u5229\u6761\u4ef6\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u6240\u6709<color=#CD6269>\u7cbe\u82f1\u654c\u4eba</color>\u53d7\u5230\u7684\u5168\u4f24\u5bb3\u964d\u4f4e95%\uff0c\u5728<color=#D0A3E2>\u4fee\u6b63\u6a21\u5f0f\u4e2d</color>\u88ab<color=#CD6269>\u5149\u5c5e\u6027\u5965\u4e49\u4f24\u5bb3</color>\u547d\u4e2d\u540e\uff0c\u82e5\u5728<color=#D0A3E2>\u96f6\u65f6\u7a7a\u95f4</color>\u5185\u53d7\u51fb\uff0c\u7acb\u523b\u6b7b\u4ea1\u3002",
+        "description": "我方接到指挥部临时任务，一小股视骸脱离既定路线，进入另一区域。\n\n派遣队伍清除目标区域内的敌人。敌方视骸<color=#FFAC4F>战力较强</color>，区域相关资料空缺，需要谨慎派遣出击队伍。\n\n本次行动中，场地内存在原理不明的有利条件。\n\n- 敌人由<color=#CD6269>视骸</color>构成。\n- 所有<color=#CD6269>精英敌人</color>受到的全伤害降低95%，在<color=#D0A3E2>修正模式中</color>被<color=#CD6269>光属性奥义伤害</color>命中后，若在<color=#D0A3E2>零时空间</color>内受击，立刻死亡。",
         "wave_id": 10061,
         "point": 160,
         "map_id": 5170551,
-        "wave_name": "2 \u2013 2",
+        "wave_name": "2 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_050",
@@ -1212,11 +1212,11 @@
         ]
     },
     "10062": {
-        "description": "\u4e34\u65f6\u9632\u7ebf\u5efa\u8bbe\u5b8c\u6bd5\uff0c\u79d1\u5c14\u76d6\u4f5c\u6218\u90e8\u961f\u4e0e\u6df1\u7a7a\u4e4b\u773c\u7684\u589e\u63f4\u5747\u5df2\u5728\u9632\u7ebf\u5468\u56f4\u90e8\u7f72\uff0c\u5f00\u59cb\u963b\u51fb\u8868\u5c42\u89c6\u9ab8\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u527f\u706d\u6211\u65b9\u5468\u56f4\u7684\u654c\u4eba\u3002\u56e0\u63f4\u519b\u7684\u884c\u52a8\uff0c\u6211\u65b9\u5468\u56f4\u654c\u65b9\u6df7\u5408\u90e8\u961f\u5f3a\u5ea6\u6709\u6240\u964d\u4f4e\uff0c\u6574\u4f53<color=#FFAC4F>\u6218\u529b\u4e2d\u7b49</color>\u3002\n\n\u79d1\u5c14\u76d6\u4f5c\u6218\u90e8\u961f\u5c06\u6d3e\u9063\u4eba\u7c7b\u7279\u5de5\u961f\u4f0d\u7a81\u5165\u6211\u65b9\u4f4d\u7f6e\uff0c\u534f\u540c\u6211\u65b9\u4f5c\u6218\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u6df7\u5408\u90e8\u961f</color>\u6784\u6210\u3002\n- \u6709<color=#CD6269>\u53cb\u65b9\u4eba\u7c7b</color>\u966a\u540c\u53c2\u6218\u3002\n- \u6240\u6709\u654c\u4eba\u88ab<color=#CD6269>\u7269\u7406\u5c5e\u6027\u4f24\u5bb3\u7d2f\u8ba1\u547d\u4e2d</color>50\u6b21\u540e\uff0c<color=#CD6269>\u53d7\u5230\u7269\u7406\u5c5e\u6027\u4f24\u5bb3\u63d0\u9ad8</color>70%\u3002",
+        "description": "临时防线建设完毕，科尔盖作战部队与深空之眼的增援均已在防线周围部署，开始阻击表层视骸。\n\n派遣队伍剿灭我方周围的敌人。因援军的行动，我方周围敌方混合部队强度有所降低，整体<color=#FFAC4F>战力中等</color>。\n\n科尔盖作战部队将派遣人类特工队伍突入我方位置，协同我方作战。\n\n- 敌人由<color=#CD6269>混合部队</color>构成。\n- 有<color=#CD6269>友方人类</color>陪同参战。\n- 所有敌人被<color=#CD6269>物理属性伤害累计命中</color>50次后，<color=#CD6269>受到物理属性伤害提高</color>70%。",
         "wave_id": 10062,
         "point": 90,
         "map_id": 5170552,
-        "wave_name": "2 \u2013 3",
+        "wave_name": "2 – 3",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_010",
@@ -1236,11 +1236,11 @@
         ]
     },
     "10063": {
-        "description": "\u524d\u5f80\u76ee\u6807\u57fa\u5730\u524d\uff0c\u6211\u65b9\u9700\u8981\u8fdb\u5165\u6e90\u5c42\u542f\u7528\u94fe\u8def\u5854\u76d1\u6d4b\uff0c\u786e\u4fdd\u4e3b\u653b\u90e8\u961f\u80fd\u5f7b\u5e95\u6b7c\u706d\u8bfa\u4f0a\u6c49\u8428\u7684\u5168\u90e8\u89c6\u9ab8\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u4fdd\u62a4\u94fe\u8def\u5854\uff0c\u963b\u6b62\u76ee\u6807\u533a\u57df\u89c6\u9ab8\u8131\u79bb\u3002\u654c\u65b9\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u4e2d\u7b49</color>\uff0c\u5bf9\u6211\u65b9\u6709\u4e00\u5b9a\u5a01\u80c1\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c\u79d1\u5c14\u76d6\u7684\u4eba\u7c7b\u7279\u5de5\u5c06\u534f\u540c\u6211\u65b9\u4f5c\u6218\uff0c\u6df1\u7a7a\u4e4b\u773c\u7684C\u7ea7\u4fee\u6b63\u8005\u4e5f\u5c06\u5728\u8868\u5c42\u8f85\u52a9\u6211\u65b9\u6218\u6597\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u6784\u6210\u3002\n- \u6709<color=#CD6269>\u53cb\u65b9\u4eba\u7c7b</color>\u966a\u540c\u53c2\u6218\u3002\n- \u6240\u6709\u654c\u4eba\u53d7\u5230\u7684\u5168\u4f24\u5bb3\u51cf\u5c1180%\u3002\n- \u6240\u6709\u654c\u4eba\u88ab<color=#CD6269>\u6c34\u5c5e\u6027\u653b\u51fb</color>\u547d\u4e2d\u540e0.8\u79d2\u5185\uff0c\u53d7\u5230<color=#CD6269>\u7269\u7406\u5c5e\u6027\u4f24\u5bb3</color>\u63d0\u9ad8550%\u3002\n- \u6240\u6709\u654c\u4eba\u88ab<color=#CD6269>\u7269\u7406\u5c5e\u6027\u653b\u51fb</color>\u547d\u4e2d\u540e0.8\u79d2\u5185\uff0c\u53d7\u5230<color=#CD6269>\u6c34\u5c5e\u6027\u4f24\u5bb3</color>\u63d0\u9ad8550%\u3002\n",
+        "description": "前往目标基地前，我方需要进入源层启用链路塔监测，确保主攻部队能彻底歼灭诺伊汉萨的全部视骸。\n\n派遣队伍保护链路塔，阻止目标区域视骸脱离。敌方视骸<color=#FFAC4F>战力中等</color>，对我方有一定威胁。\n\n本次行动中，科尔盖的人类特工将协同我方作战，深空之眼的C级修正者也将在表层辅助我方战斗。\n\n- 敌人由<color=#CD6269>视骸</color>构成。\n- 有<color=#CD6269>友方人类</color>陪同参战。\n- 所有敌人受到的全伤害减少80%。\n- 所有敌人被<color=#CD6269>水属性攻击</color>命中后0.8秒内，受到<color=#CD6269>物理属性伤害</color>提高550%。\n- 所有敌人被<color=#CD6269>物理属性攻击</color>命中后0.8秒内，受到<color=#CD6269>水属性伤害</color>提高550%。\n",
         "wave_id": 10063,
         "point": 120,
         "map_id": 5170553,
-        "wave_name": "3 \u2013 1",
+        "wave_name": "3 – 1",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_013",
@@ -1264,11 +1264,11 @@
         ]
     },
     "10064": {
-        "description": "\u6211\u65b9\u5df2\u6210\u529f\u5c01\u9501\u76ee\u6807\u6e90\u5c42\u533a\u57df\uff0c\u8868\u5c42\u961f\u4f0d\u5df2\u51fb\u7834\u751f\u4ea7\u57fa\u5730\uff0c\u5c06\u914d\u5408\u6211\u65b9\u5411\u5185\u63a8\u8fdb\u5e76\u63d0\u4f9b\u8fdc\u706b\u652f\u6301\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u534f\u52a9\u6e05\u7406\u654c\u65b9\u7684\u5269\u4f59\u6218\u529b\u3002\u654c\u65b9\u90e8\u961f\u89c6\u9ab8<color=#FFAC4F>\u6218\u529b\u8f83\u5f31</color>\uff0c<color=#C5F448>\u51cf\u5c11\u6211\u65b9\u635f\u4f24\u5c06\u5bf9\u540e\u7eed\u6218\u6597\u6709\u6240\u5e2e\u52a9</color>\u3002\n\n\u672c\u6b21\u884c\u52a8\u4e2d\uff0c\u6709\u5c11\u6570\u9ad8\u6297\u6027\u654c\u5bf9\u667a\u68b0\u51fa\u73b0\uff0c\u5c06\u5bf9\u6211\u65b9\u9020\u6210\u4e00\u5b9a\u963b\u788d\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u89c6\u9ab8</color>\u4e0e<color=#CD6269>\u667a\u68b0</color>\u6784\u6210\u3002\n- \u654c\u65b9\u667a\u68b0\u53d7\u5230\u7684\u5168\u4f24\u5bb3\u964d\u4f4e40%\uff0c\u88ab<color=#D0A3E2>\u7981\u9522</color>\u540e\u5931\u6548\u3002",
+        "description": "我方已成功封锁目标源层区域，表层队伍已击破生产基地，将配合我方向内推进并提供远火支持。\n\n派遣队伍协助清理敌方的剩余战力。敌方部队视骸<color=#FFAC4F>战力较弱</color>，<color=#C5F448>减少我方损伤将对后续战斗有所帮助</color>。\n\n本次行动中，有少数高抗性敌对智械出现，将对我方造成一定阻碍。\n\n- 敌人由<color=#CD6269>视骸</color>与<color=#CD6269>智械</color>构成。\n- 敌方智械受到的全伤害降低40%，被<color=#D0A3E2>禁锢</color>后失效。",
         "wave_id": 10064,
         "point": 130,
         "map_id": 5170554,
-        "wave_name": "3 \u2013 2",
+        "wave_name": "3 – 2",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_009",
@@ -1288,11 +1288,11 @@
         ]
     },
     "10065": {
-        "description": "\u654c\u65b9\u6b63\u805a\u96c6\u6700\u540e\u529b\u91cf\u53cc\u7ebf\u8fdb\u653b\uff0c\u89c6\u9ab8\u6b63\u5411\u9632\u7ebf\u540e\u65b9\u5feb\u901f\u63a8\u8fdb\uff0c\u6570\u4e2a<color=#FFAC4F>\u6781\u5f3a</color>\u7cbe\u82f1\u667a\u68b0\u6b63\u5728\u5411\u9632\u7ebf\u6b63\u9762\u63a8\u8fdb\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u62b5\u6321\u7cbe\u82f1\u667a\u68b0\uff0c\u7cbe\u82f1\u667a\u68b0\u6301\u6709\u62a4\u76fe\u7cfb\u7edf\uff0c<color=#D0A3E2>\u6211\u65b9\u5f53\u524d\u65e0\u6709\u6548\u624b\u6bb5\u4f24\u5bb3\u76ee\u6807\uff0c\u8bf7\u5c3d\u91cf\u7275\u5236\u5176\u884c\u52a8</color>\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u7cbe\u82f1\u4e0e\u5c0f\u578b\u667a\u68b0</color>\u6784\u6210\u3002\n- \u654c\u65b9\u7cbe\u82f1\u667a\u68b0<color=#D0A3E2>\u514d\u75ab\u4f24\u5bb3</color>\uff0c\u6bcf\u88ab<color=#CD6269>\u6c34\u5c5e\u6027\u653b\u51fb</color>\u547d\u4e2d\u7d2f\u8ba180\u6b21\u540e\uff0c\u9020\u6210\u7684\u5168\u4f24\u5bb3\u964d\u4f4e10%\u3002\u53ef\u53e0\u52a0\uff0c\u65e0\u4e0a\u9650\u3002\n- \u6bcf\u6d88\u706d5\u4e2a\u654c\u65b9\u667a\u68b0\uff0c<color=#D0A3E2>\u6062\u590d\u6211\u65b9\u6240\u6709\u5355\u4f4d\u4e00\u5b9a\u751f\u547d\u503c</color>\u3002",
+        "description": "敌方正聚集最后力量双线进攻，视骸正向防线后方快速推进，数个<color=#FFAC4F>极强</color>精英智械正在向防线正面推进。\n\n派遣队伍抵挡精英智械，精英智械持有护盾系统，<color=#D0A3E2>我方当前无有效手段伤害目标，请尽量牵制其行动</color>。\n\n- 敌人由<color=#CD6269>精英与小型智械</color>构成。\n- 敌方精英智械<color=#D0A3E2>免疫伤害</color>，每被<color=#CD6269>水属性攻击</color>命中累计80次后，造成的全伤害降低10%。可叠加，无上限。\n- 每消灭5个敌方智械，<color=#D0A3E2>恢复我方所有单位一定生命值</color>。",
         "wave_id": 10065,
         "point": 100,
         "map_id": 5170555,
-        "wave_name": "3 \u2013 3",
+        "wave_name": "3 – 3",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_053",
@@ -1308,11 +1308,11 @@
         ]
     },
     "10066": {
-        "description": "\u9632\u7ebf\u540e\u65b9\u7684\u653b\u52bf\u5df2\u88ab\u6df1\u7a7a\u4e4b\u773c\u4fee\u6b63\u8005\u5355\u5175\u62b5\u6321\uff0c\u5a01\u80c1\u89e3\u9664\uff0c\u8868\u5c42\u89c6\u9ab8\u5df2\u527f\u706d\u3002\n\n\u4e0e\u6b64\u540c\u65f6\uff0c\u6df1\u7a7a\u4e4b\u773c\u9690\u79d1\u7ec4\u5df2\u627e\u5230\u7cbe\u82f1\u667a\u68b0\u62a4\u76fe\u7cfb\u7edf\u7684\u7f3a\u9677\uff0c\u5149\u5c5e\u6027\u653b\u51fb\u5c06\u80fd\u591f\u9010\u6b65\u524a\u5f31\u62a4\u76fe\uff0c\u76f4\u81f3\u5931\u6548\u3002\n\n\u6d3e\u9063\u961f\u4f0d\u6d88\u706d\u7cbe\u82f1\u667a\u68b0\uff0c\u6467\u6bc1\u76ee\u6807\u57fa\u5730\u3002\u53d7\u4fb5\u8680\u7684\u4eba\u7c7b\u4e5f\u5c06\u4e0e\u6211\u65b9\u654c\u5bf9\uff0c\u654c\u65b9\u6574\u4f53<color=#FFAC4F>\u6218\u529b\u6781\u5f3a</color>\uff0c\u8c28\u614e\u5e94\u5bf9\u3002\n\n- \u654c\u4eba\u7531<color=#CD6269>\u4eba\u7c7b</color>\u3001<color=#CD6269>\u7cbe\u82f1\u667a\u68b0</color>\u3001<color=#CD6269>\u5c0f\u578b\u667a\u68b0</color>\u6784\u6210\u3002\n- \u654c\u65b9\u7cbe\u82f1\u667a\u68b0\u514d\u75ab\u4f24\u5bb3\uff0c\u88ab<color=#CD6269>\u5149\u5c5e\u6027\u653b\u51fb</color>\u547d\u4e2d\u7d2f\u8ba190\u6b21\u540e\u5931\u6548\u3002\n- \u6211\u65b9\u6240\u6709\u5355\u4f4d\u6bcf10\u79d2<color=#C5F448>\u6062\u590d\u4e00\u5b9a\u751f\u547d\u503c</color>\u3002",
+        "description": "防线后方的攻势已被深空之眼修正者单兵抵挡，威胁解除，表层视骸已剿灭。\n\n与此同时，深空之眼隐科组已找到精英智械护盾系统的缺陷，光属性攻击将能够逐步削弱护盾，直至失效。\n\n派遣队伍消灭精英智械，摧毁目标基地。受侵蚀的人类也将与我方敌对，敌方整体<color=#FFAC4F>战力极强</color>，谨慎应对。\n\n- 敌人由<color=#CD6269>人类</color>、<color=#CD6269>精英智械</color>、<color=#CD6269>小型智械</color>构成。\n- 敌方精英智械免疫伤害，被<color=#CD6269>光属性攻击</color>命中累计90次后失效。\n- 我方所有单位每10秒<color=#C5F448>恢复一定生命值</color>。",
         "wave_id": 10066,
         "point": 120,
         "map_id": 5170556,
-        "wave_name": "3 \u2013 4",
+        "wave_name": "3 – 4",
         "task_list": [
             [
                 "ACTIVITY_REFORGE_TASKDESC_001",

@@ -1,7 +1,7 @@
 {
     "10001": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u6b21\u7ea7\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u9700\u8981\u9ad8\u9636\u4fee\u6b63\u8005\u5e26\u9886\u3002",
+        "description": "<color=#FFAC4F>次级修正者队伍</color>，需要高阶修正者带领。",
         "team_id": 10001,
         "team_info": [
             [
@@ -33,7 +33,7 @@
     },
     "10002": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u9ad8\u7ea7\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>高级修正者队伍</color>。",
         "team_id": 10002,
         "team_info": [
             [
@@ -65,7 +65,7 @@
     },
     "10003": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>常规修正者队伍</color>。",
         "team_id": 10003,
         "team_info": [
             [
@@ -97,7 +97,7 @@
     },
     "10004": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u9ad8\u7ea7\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>高级修正者队伍</color>。",
         "team_id": 10004,
         "team_info": [
             [
@@ -129,7 +129,7 @@
     },
     "10005": {
         "combo_skill_id": 14,
-        "description": "<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>常规修正者队伍</color>。",
         "team_id": 10005,
         "team_info": [
             [
@@ -161,7 +161,7 @@
     },
     "10006": {
         "combo_skill_id": 34,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>。",
         "team_id": 10006,
         "team_info": [
             [
@@ -193,7 +193,7 @@
     },
     "10007": {
         "combo_skill_id": 37,
-        "description": "<color=#FFAC4F>\u9876\u5c16\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u4e3a\u53cb\u519b\u63d0\u4f9b\u62a4\u76fe\u3002",
+        "description": "<color=#FFAC4F>顶尖修正者队伍</color>，可为友军提供护盾。",
         "team_id": 10007,
         "team_info": [
             [
@@ -225,7 +225,7 @@
     },
     "10008": {
         "combo_skill_id": 42,
-        "description": "<color=#FFAC4F>\u9876\u5c16\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u51b0\u5c5e\u6027</color>\u8f93\u51fa\u3002",
+        "description": "<color=#FFAC4F>顶尖修正者队伍</color>，强力<color=#CD6269>冰属性</color>输出。",
         "team_id": 10008,
         "team_info": [
             [
@@ -257,7 +257,7 @@
     },
     "10009": {
         "combo_skill_id": 40,
-        "description": "<color=#FFAC4F>\u9876\u5c16\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u98ce\u5c5e\u6027</color>\u8f93\u51fa\u3002",
+        "description": "<color=#FFAC4F>顶尖修正者队伍</color>，强力<color=#CD6269>风属性</color>输出。",
         "team_id": 10009,
         "team_info": [
             [
@@ -289,7 +289,7 @@
     },
     "10010": {
         "combo_skill_id": 8,
-        "description": "<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>常规修正者队伍</color>。",
         "team_id": 10010,
         "team_info": [
             [
@@ -321,7 +321,7 @@
     },
     "10011": {
         "combo_skill_id": 20,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>。",
         "team_id": 10011,
         "team_info": [
             [
@@ -353,7 +353,7 @@
     },
     "10012": {
         "combo_skill_id": 45,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u56de\u590d\u80fd\u529b\u8f83\u5f3a\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，回复能力较强。",
         "team_id": 10012,
         "team_info": [
             [
@@ -385,7 +385,7 @@
     },
     "10013": {
         "combo_skill_id": 8,
-        "description": "<color=#FFAC4F>\u6b21\u7ea7\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u9700\u8981\u9ad8\u9636\u4fee\u6b63\u8005\u5e26\u9886\u3002",
+        "description": "<color=#FFAC4F>次级修正者队伍</color>，需要高阶修正者带领。",
         "team_id": 10013,
         "team_info": [
             [
@@ -417,7 +417,7 @@
     },
     "10014": {
         "combo_skill_id": 1,
-        "description": "<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>常规修正者队伍</color>。",
         "team_id": 10014,
         "team_info": [
             [
@@ -449,7 +449,7 @@
     },
     "10015": {
         "combo_skill_id": 31,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>。",
         "team_id": 10015,
         "team_info": [
             [
@@ -481,7 +481,7 @@
     },
     "10016": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>。",
         "team_id": 10016,
         "team_info": [
             [
@@ -513,7 +513,7 @@
     },
     "10017": {
         "combo_skill_id": 26,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>。",
         "team_id": 10017,
         "team_info": [
             [
@@ -545,7 +545,7 @@
     },
     "10018": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u4e3a\u53cb\u519b\u63d0\u4f9b\u62a4\u76fe\u3002",
+        "description": "<color=#FFAC4F>常规修正者队伍</color>，可为友军提供护盾。",
         "team_id": 10018,
         "team_info": [
             [
@@ -577,7 +577,7 @@
     },
     "10019": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u9ad8\u7ea7\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>高级修正者队伍</color>。",
         "team_id": 10019,
         "team_info": [
             [
@@ -609,7 +609,7 @@
     },
     "10020": {
         "combo_skill_id": 46,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>。",
         "team_id": 10020,
         "team_info": [
             [
@@ -641,7 +641,7 @@
     },
     "10021": {
         "combo_skill_id": 18,
-        "description": "<color=#FFAC4F>\u9ad8\u7ea7\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u4e3a\u53cb\u519b\u63d0\u4f9b\u62a4\u76fe\u3002",
+        "description": "<color=#FFAC4F>高级修正者队伍</color>，可为友军提供护盾。",
         "team_id": 10021,
         "team_info": [
             [
@@ -673,7 +673,7 @@
     },
     "10022": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u4e3a\u53cb\u519b\u63d0\u4f9b\u62a4\u76fe\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，可为友军提供护盾。",
         "team_id": 10022,
         "team_info": [
             [
@@ -705,7 +705,7 @@
     },
     "10023": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u9ad8\u7ea7\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u56de\u590d\u80fd\u529b\u8f83\u5f3a\u3002",
+        "description": "<color=#FFAC4F>高级修正者队伍</color>，回复能力较强。",
         "team_id": 10023,
         "team_info": [
             [
@@ -737,7 +737,7 @@
     },
     "10024": {
         "combo_skill_id": 8,
-        "description": "<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>常规修正者队伍</color>。",
         "team_id": 10024,
         "team_info": [
             [
@@ -769,7 +769,7 @@
     },
     "10025": {
         "combo_skill_id": 18,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u4e3a\u53cb\u519b\u63d0\u4f9b\u62a4\u76fe\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，可为友军提供护盾。",
         "team_id": 10025,
         "team_info": [
             [
@@ -801,7 +801,7 @@
     },
     "10026": {
         "combo_skill_id": 29,
-        "description": "<color=#FFAC4F>\u9ad8\u7ea7\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>高级修正者队伍</color>。",
         "team_id": 10026,
         "team_info": [
             [
@@ -833,7 +833,7 @@
     },
     "10027": {
         "combo_skill_id": 12,
-        "description": "<color=#FFAC4F>\u9ad8\u7ea7\u4fee\u6b63\u8005\u961f\u4f0d</color>\u3002",
+        "description": "<color=#FFAC4F>高级修正者队伍</color>。",
         "team_id": 10027,
         "team_info": [
             [
@@ -865,7 +865,7 @@
     },
     "10028": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u9ad8\u7ea7\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u9020\u6210<color=#CD6269>\u96f7</color>\u3001<color=#CD6269>\u7269\u7406</color>\u3001<color=#CD6269>\u5149</color>\u5c5e\u6027\u4f24\u5bb3\u3002",
+        "description": "<color=#FFAC4F>高级修正者队伍</color>，可造成<color=#CD6269>雷</color>、<color=#CD6269>物理</color>、<color=#CD6269>光</color>属性伤害。",
         "team_id": 10028,
         "team_info": [
             [
@@ -897,7 +897,7 @@
     },
     "10029": {
         "combo_skill_id": 45,
-        "description": "<color=#FFAC4F>\u9876\u5c16\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u4e3a\u53cb\u519b\u63d0\u4f9b\u62a4\u76fe\u3002\u5f3a\u529b<color=#CD6269>\u6c34\u5c5e\u6027</color>\u8f93\u51fa\uff0c\u53ef\u9020\u6210<color=#CD6269>\u706b\u5c5e\u6027</color>\u4f24\u5bb3\u3002",
+        "description": "<color=#FFAC4F>顶尖修正者队伍</color>，可为友军提供护盾。强力<color=#CD6269>水属性</color>输出，可造成<color=#CD6269>火属性</color>伤害。",
         "team_id": 10029,
         "team_info": [
             [
@@ -929,7 +929,7 @@
     },
     "10030": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u9876\u5c16\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u7269\u7406\u5c5e\u6027</color>\u8f93\u51fa\u4e0e<color=#CD6269>\u7269\u7406\u5c5e\u6027</color>\u8f85\u52a9\u3002",
+        "description": "<color=#FFAC4F>顶尖修正者队伍</color>，强力<color=#CD6269>物理属性</color>输出与<color=#CD6269>物理属性</color>辅助。",
         "team_id": 10030,
         "team_info": [
             [
@@ -961,7 +961,7 @@
     },
     "10031": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u9ad8\u7ea7\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u9020\u6210<color=#CD6269>\u51b0</color>\u3001<color=#CD6269>\u98ce</color>\u3001<color=#CD6269>\u96f7</color>\u3001<color=#CD6269>\u7269\u7406</color>\u5c5e\u6027\u4f24\u5bb3",
+        "description": "<color=#FFAC4F>高级修正者队伍</color>，可造成<color=#CD6269>冰</color>、<color=#CD6269>风</color>、<color=#CD6269>雷</color>、<color=#CD6269>物理</color>属性伤害",
         "team_id": 10031,
         "team_info": [
             [
@@ -993,7 +993,7 @@
     },
     "10032": {
         "combo_skill_id": 7,
-        "description": "<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u9020\u6210<color=#CD6269>\u5149\u5c5e\u6027</color>\u4f24\u5bb3\u3002\u4f7f\u7528<color=#C5F448>\u80fd\u91cf</color>\u4e0e<color=#C5F448>\u5370\u8bb0</color>\u3002",
+        "description": "<color=#FFAC4F>常规修正者队伍</color>，可造成<color=#CD6269>光属性</color>伤害。使用<color=#C5F448>能量</color>与<color=#C5F448>印记</color>。",
         "team_id": 10032,
         "team_info": [
             [
@@ -1025,7 +1025,7 @@
     },
     "10033": {
         "combo_skill_id": 25,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c<color=#CD6269>\u6697\u5c5e\u6027</color>\u8f93\u51fa\uff0c\u4e5f\u53ef\u9020\u6210<color=#CD6269>\u5149</color>\u3001<color=#CD6269>\u6c34</color>\u5c5e\u6027\u4f24\u5bb3\u3002\u4f7f\u7528<color=#C5F448>\u795e\u80fd</color>\u3001<color=#C5F448>\u80fd\u91cf</color>\u3001<color=#C5F448>\u5370\u8bb0</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，<color=#CD6269>暗属性</color>输出，也可造成<color=#CD6269>光</color>、<color=#CD6269>水</color>属性伤害。使用<color=#C5F448>神能</color>、<color=#C5F448>能量</color>、<color=#C5F448>印记</color>。",
         "team_id": 10033,
         "team_info": [
             [
@@ -1057,7 +1057,7 @@
     },
     "10034": {
         "combo_skill_id": 3,
-        "description": "<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u9020\u6210<color=#CD6269>\u6697</color>\u3001<color=#CD6269>\u7269\u7406</color>\u3001<color=#CD6269>\u51b0</color>\u5c5e\u6027\u4f24\u5bb3\u3002\u4f7f\u7528<color=#C5F448>\u6012\u6c14</color>\u4e0e<color=#C5F448>\u795e\u80fd</color>\u3002",
+        "description": "<color=#FFAC4F>常规修正者队伍</color>，可造成<color=#CD6269>暗</color>、<color=#CD6269>物理</color>、<color=#CD6269>冰</color>属性伤害。使用<color=#C5F448>怒气</color>与<color=#C5F448>神能</color>。",
         "team_id": 10034,
         "team_info": [
             [
@@ -1089,7 +1089,7 @@
     },
     "10035": {
         "combo_skill_id": 35,
-        "description": "<color=#FFAC4F>\u9ad8\u7ea7\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u9020\u6210<color=#CD6269>\u5149</color>\u3001<color=#CD6269>\u706b</color>\u5c5e\u6027\u4f24\u5bb3\u3002\u4f7f\u7528<color=#C5F448>\u80fd\u91cf</color>\u4e0e<color=#C5F448>\u6012\u6c14</color>\u3002",
+        "description": "<color=#FFAC4F>高级修正者队伍</color>，可造成<color=#CD6269>光</color>、<color=#CD6269>火</color>属性伤害。使用<color=#C5F448>能量</color>与<color=#C5F448>怒气</color>。",
         "team_id": 10035,
         "team_info": [
             [
@@ -1121,7 +1121,7 @@
     },
     "10036": {
         "combo_skill_id": 43,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u706b\u5c5e\u6027</color>\u8f93\u51fa\uff0c\u4e5f\u53ef\u9020\u6210<color=#CD6269>\u5149\u5c5e\u6027</color>\u4f24\u5bb3\u3002\u4f7f\u7528<color=#C5F448>\u6012\u6c14</color>\u4e0e<color=#C5F448>\u80fd\u91cf</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，强力<color=#CD6269>火属性</color>输出，也可造成<color=#CD6269>光属性</color>伤害。使用<color=#C5F448>怒气</color>与<color=#C5F448>能量</color>。",
         "team_id": 10036,
         "team_info": [
             [
@@ -1153,7 +1153,7 @@
     },
     "10037": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u8fd1\u6218\u98ce\u5c5e\u6027</color>\u8f93\u51fa\u3002\u4f7f\u7528<color=#C5F448>\u795e\u80fd</color>\u4e0e<color=#C5F448>\u5370\u8bb0</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，强力<color=#CD6269>近战风属性</color>输出。使用<color=#C5F448>神能</color>与<color=#C5F448>印记</color>。",
         "team_id": 10037,
         "team_info": [
             [
@@ -1185,7 +1185,7 @@
     },
     "10038": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u5e38\u89c4\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u9020\u6210<color=#CD6269>\u8fdc\u7a0b\u6c34</color>\u3001<color=#CD6269>\u7269\u7406</color>\u3001<color=#CD6269>\u51b0</color>\u5c5e\u6027\u4f24\u5bb3\u3002\u4f7f\u7528<color=#C5F448>\u795e\u80fd</color>\u4e0e<color=#C5F448>\u80fd\u91cf</color>\u3002",
+        "description": "<color=#FFAC4F>常规修正者队伍</color>，可造成<color=#CD6269>远程水</color>、<color=#CD6269>物理</color>、<color=#CD6269>冰</color>属性伤害。使用<color=#C5F448>神能</color>与<color=#C5F448>能量</color>。",
         "team_id": 10038,
         "team_info": [
             [
@@ -1217,7 +1217,7 @@
     },
     "10039": {
         "combo_skill_id": 34,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u8fd1\u6218\u98ce</color>\u4e0e<color=#CD6269>\u96f7</color>\u5c5e\u6027\u8f93\u51fa\uff0c\u4e5f\u53ef\u9020\u6210<color=#CD6269>\u7269\u7406\u5c5e\u6027</color>\u4f24\u5bb3\u3002\u4f7f\u7528<color=#C5F448>\u5370\u8bb0</color>\u4e0e<color=#C5F448>\u80fd\u91cf</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，强力<color=#CD6269>近战风</color>与<color=#CD6269>雷</color>属性输出，也可造成<color=#CD6269>物理属性</color>伤害。使用<color=#C5F448>印记</color>与<color=#C5F448>能量</color>。",
         "team_id": 10039,
         "team_info": [
             [
@@ -1249,7 +1249,7 @@
     },
     "10040": {
         "combo_skill_id": 49,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u8fdc\u7a0b\u7269\u7406</color>\u5c5e\u6027\u8f93\u51fa\u4e0e<color=#CD6269>\u8fd1\u6218\u7269\u7406</color>\u8f85\u52a9\u3002\u4f7f\u7528<color=#C5F448>\u795e\u80fd</color>\u3001<color=#C5F448>\u80fd\u91cf</color>\u3001<color=#C5F448>\u5370\u8bb0</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，强力<color=#CD6269>远程物理</color>属性输出与<color=#CD6269>近战物理</color>辅助。使用<color=#C5F448>神能</color>、<color=#C5F448>能量</color>、<color=#C5F448>印记</color>。",
         "team_id": 10040,
         "team_info": [
             [
@@ -1281,7 +1281,7 @@
     },
     "10041": {
         "combo_skill_id": 49,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u8fdc\u7a0b\u7269\u7406</color>\u5c5e\u6027\u8f93\u51fa\u4e0e<color=#CD6269>\u8fd1\u6218\u7269\u7406</color>\u8f85\u52a9\uff0c\u4e5f\u53ef\u9020\u6210<color=#CD6269>\u6c34</color>\u5c5e\u6027\u4f24\u5bb3\u3002\u4f7f\u7528<color=#C5F448>\u80fd\u91cf</color>\u3001<color=#C5F448>\u795e\u80fd</color>\u3001<color=#C5F448>\u6012\u6c14</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，强力<color=#CD6269>远程物理</color>属性输出与<color=#CD6269>近战物理</color>辅助，也可造成<color=#CD6269>水</color>属性伤害。使用<color=#C5F448>能量</color>、<color=#C5F448>神能</color>、<color=#C5F448>怒气</color>。",
         "team_id": 10041,
         "team_info": [
             [
@@ -1313,7 +1313,7 @@
     },
     "10042": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c<color=#CD6269>\u7269\u7406\u5c5e\u6027</color>\u8f93\u51fa\u53ef\u89c2\uff0c\u5f3a\u529b<color=#CD6269>\u7269\u7406\u5c5e\u6027</color>\u8f85\u52a9\u3002\u4f7f\u7528<color=#C5F448>\u80fd\u91cf</color>\u3001<color=#C5F448>\u5370\u8bb0</color>\u3001<color=#C5F448>\u6012\u6c14</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，<color=#CD6269>物理属性</color>输出可观，强力<color=#CD6269>物理属性</color>辅助。使用<color=#C5F448>能量</color>、<color=#C5F448>印记</color>、<color=#C5F448>怒气</color>。",
         "team_id": 10042,
         "team_info": [
             [
@@ -1345,7 +1345,7 @@
     },
     "10043": {
         "combo_skill_id": 42,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u51b0\u5c5e\u6027</color>\u8f93\u51fa\uff0c\u4e5f\u53ef\u9020\u6210<color=#CD6269>\u6c34\u5c5e\u6027</color>\u4f24\u5bb3\u3002\u4f7f\u7528<color=#C5F448>\u6012\u6c14</color>\u4e0e<color=#C5F448>\u795e\u80fd</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，强力<color=#CD6269>冰属性</color>输出，也可造成<color=#CD6269>水属性</color>伤害。使用<color=#C5F448>怒气</color>与<color=#C5F448>神能</color>。",
         "team_id": 10043,
         "team_info": [
             [
@@ -1377,7 +1377,7 @@
     },
     "10044": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u7206\u53d1\u6027\u706b\u5c5e\u6027</color>\u8f93\u51fa\uff0c\u4e5f\u53ef\u9020\u6210<color=#CD6269>\u7269\u7406\u5c5e\u6027</color>\u4f24\u5bb3\u3002\u4f7f\u7528<color=#C5F448>\u795e\u80fd</color>\u3001<color=#C5F448>\u6012\u6c14</color>\u3001<color=#C5F448>\u80fd\u91cf</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，强力<color=#CD6269>爆发性火属性</color>输出，也可造成<color=#CD6269>物理属性</color>伤害。使用<color=#C5F448>神能</color>、<color=#C5F448>怒气</color>、<color=#C5F448>能量</color>。",
         "team_id": 10044,
         "team_info": [
             [
@@ -1409,7 +1409,7 @@
     },
     "10045": {
         "combo_skill_id": 10,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u591a\u9891\u6b21\u98ce\u5c5e\u6027</color>\u8f93\u51fa\uff0c\u4e5f\u53ef\u9020\u6210<color=#CD6269>\u7269\u7406\u5c5e\u6027</color>\u4f24\u5bb3\u3002\u4f7f\u7528<color=#C5F448>\u5370\u8bb0</color>\u4e0e<color=#C5F448>\u795e\u80fd</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，强力<color=#CD6269>多频次风属性</color>输出，也可造成<color=#CD6269>物理属性</color>伤害。使用<color=#C5F448>印记</color>与<color=#C5F448>神能</color>。",
         "team_id": 10045,
         "team_info": [
             [
@@ -1441,7 +1441,7 @@
     },
     "10046": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u5149\u5c5e\u6027</color>\u8f93\u51fa\u3002\u4f7f\u7528<color=#C5F448>\u80fd\u91cf</color>\u4e0e<color=#C5F448>\u6012\u6c14</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，强力<color=#CD6269>光属性</color>输出。使用<color=#C5F448>能量</color>与<color=#C5F448>怒气</color>。",
         "team_id": 10046,
         "team_info": [
             [
@@ -1473,7 +1473,7 @@
     },
     "10047": {
         "combo_skill_id": 43,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u4e3a\u53cb\u519b\u63d0\u4f9b\u62a4\u76fe\u3002<color=#CD6269>\u8fd1\u6218\u706b\u5c5e\u6027</color>\u8f93\u51fa\u53ef\u89c2\uff0c\u4e5f\u53ef\u9020\u6210<color=#CD6269>\u8fd1\u6218\u96f7\u5c5e\u6027</color>\u4f24\u5bb3\u3002\u5168\u961f\u6bcf\u8f6e\u53ef\u63d0\u4f9b<color=#C5F448>1\u6b21\u96f6\u65f6\u7a7a\u95f4</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，可为友军提供护盾。<color=#CD6269>近战火属性</color>输出可观，也可造成<color=#CD6269>近战雷属性</color>伤害。全队每轮可提供<color=#C5F448>1次零时空间</color>。",
         "team_id": 10047,
         "team_info": [
             [
@@ -1505,7 +1505,7 @@
     },
     "10048": {
         "combo_skill_id": 25,
-        "description": "<color=#FFAC4F>\u9876\u5c16\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u8fdc\u7a0b\u6697\u5c5e\u6027</color>\u8f93\u51fa\uff0c\u4e5f\u53ef\u9020\u6210<color=#CD6269>\u8fdc\u7a0b\u5149\u5c5e\u6027</color>\u4f24\u5bb3\u3002\u5168\u961f\u6bcf\u8f6e\u53ef\u63d0\u4f9b<color=#C5F448>3\u6b21\u96f6\u65f6\u7a7a\u95f4</color>\uff0c\u53ef<color=#C5F448>\u7981\u9522</color>\u654c\u4eba\u3002",
+        "description": "<color=#FFAC4F>顶尖修正者队伍</color>，强力<color=#CD6269>远程暗属性</color>输出，也可造成<color=#CD6269>远程光属性</color>伤害。全队每轮可提供<color=#C5F448>3次零时空间</color>，可<color=#C5F448>禁锢</color>敌人。",
         "team_id": 10048,
         "team_info": [
             [
@@ -1537,7 +1537,7 @@
     },
     "10049": {
         "combo_skill_id": 42,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c<color=#CD6269>\u8fd1\u6218\u51b0\u5c5e\u6027</color>\u8f93\u51fa\u53ef\u89c2\uff0c\u4e5f\u53ef\u9020\u6210<color=#CD6269>\u8fdc\u7a0b\u7269\u7406\u5c5e\u6027</color>\u4f24\u5bb3\u3002\u5168\u961f\u6bcf\u8f6e\u53ef\u63d0\u4f9b<color=#C5F448>2\u6b21\u96f6\u65f6\u7a7a\u95f4</color>\uff0c\u53ef<color=#C5F448>\u51bb\u7ed3</color>\u654c\u4eba\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，<color=#CD6269>近战冰属性</color>输出可观，也可造成<color=#CD6269>远程物理属性</color>伤害。全队每轮可提供<color=#C5F448>2次零时空间</color>，可<color=#C5F448>冻结</color>敌人。",
         "team_id": 10049,
         "team_info": [
             [
@@ -1569,7 +1569,7 @@
     },
     "10050": {
         "combo_skill_id": 45,
-        "description": "<color=#FFAC4F>\u9876\u5c16\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u4e3a\u53cb\u519b\u63d0\u4f9b\u62a4\u76fe\u3002\u5f3a\u529b<color=#CD6269>\u6c34\u5c5e\u6027</color>\u8f93\u51fa\uff0c\u4e5f\u53ef\u9020\u6210<color=#CD6269>\u706b\u5c5e\u6027</color>\u4f24\u5bb3\u3002\u5168\u961f\u6bcf\u8f6e\u53ef\u63d0\u4f9b<color=#C5F448>3\u6b21\u96f6\u65f6\u7a7a\u95f4</color>\u3002",
+        "description": "<color=#FFAC4F>顶尖修正者队伍</color>，可为友军提供护盾。强力<color=#CD6269>水属性</color>输出，也可造成<color=#CD6269>火属性</color>伤害。全队每轮可提供<color=#C5F448>3次零时空间</color>。",
         "team_id": 10050,
         "team_info": [
             [
@@ -1601,7 +1601,7 @@
     },
     "10051": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u5149\u5c5e\u6027</color>\u8f93\u51fa\u3002\u5168\u961f\u6bcf\u8f6e\u53ef\u63d0\u4f9b<color=#C5F448>3\u6b21\u96f6\u65f6\u7a7a\u95f4</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，强力<color=#CD6269>光属性</color>输出。全队每轮可提供<color=#C5F448>3次零时空间</color>。",
         "team_id": 10051,
         "team_info": [
             [
@@ -1633,7 +1633,7 @@
     },
     "10052": {
         "combo_skill_id": 49,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u7269\u7406\u5c5e\u6027</color>\u8f93\u51fa\u3002\u5168\u961f\u6bcf\u8f6e\u53ef\u63d0\u4f9b<color=#C5F448>2\u6b21\u96f6\u65f6\u7a7a\u95f4</color>\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，强力<color=#CD6269>物理属性</color>输出。全队每轮可提供<color=#C5F448>2次零时空间</color>。",
         "team_id": 10052,
         "team_info": [
             [
@@ -1665,7 +1665,7 @@
     },
     "10053": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c<color=#CD6269>\u7269\u7406\u5c5e\u6027</color>\u8f93\u51fa\u53ef\u89c2\uff0c\u4e5f\u53ef\u9020\u6210<color=#CD6269>\u6c34\u5c5e\u6027</color>\u4f24\u5bb3\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，<color=#CD6269>物理属性</color>输出可观，也可造成<color=#CD6269>水属性</color>伤害。",
         "team_id": 10053,
         "team_info": [
             [
@@ -1697,7 +1697,7 @@
     },
     "10054": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u5f3a\u529b<color=#CD6269>\u5149\u5c5e\u6027</color>\u8f93\u51fa\u3002\u53ef<color=#C5F448>\u7981\u9522</color>\u654c\u4eba",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，强力<color=#CD6269>光属性</color>输出。可<color=#C5F448>禁锢</color>敌人",
         "team_id": 10054,
         "team_info": [
             [
@@ -1729,7 +1729,7 @@
     },
     "10055": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u9ad8\u7ea7\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c<color=#C5F448>\u56de\u590d\u80fd\u529b\u6781\u5176\u5f3a\u5927</color>\uff0c\u53ef\u9020\u6210<color=#CD6269>\u7269\u7406</color>\u3001<color=#CD6269>\u6c34</color>\u5c5e\u6027\u4f24\u5bb3\u3002",
+        "description": "<color=#FFAC4F>高级修正者队伍</color>，<color=#C5F448>回复能力极其强大</color>，可造成<color=#CD6269>物理</color>、<color=#CD6269>水</color>属性伤害。",
         "team_id": 10055,
         "team_info": [
             [
@@ -1761,7 +1761,7 @@
     },
     "10056": {
         "combo_skill_id": 0,
-        "description": "<color=#FFAC4F>\u7cbe\u9510\u4fee\u6b63\u8005\u961f\u4f0d</color>\uff0c\u53ef\u9020\u6210<color=#CD6269>\u706b</color>\u3001<color=#CD6269>\u5149</color>\u5c5e\u6027\u4f24\u5bb3\u3002\u53ef<color=#C5F448>\u7981\u9522</color>\u654c\u4eba\u3002",
+        "description": "<color=#FFAC4F>精锐修正者队伍</color>，可造成<color=#CD6269>火</color>、<color=#CD6269>光</color>属性伤害。可<color=#C5F448>禁锢</color>敌人。",
         "team_id": 10056,
         "team_info": [
             [

@@ -1,7 +1,7 @@
 {
     "1": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -14,7 +14,7 @@
     },
     "2": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -27,7 +27,7 @@
     },
     "3": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -40,7 +40,7 @@
     },
     "4": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -53,10 +53,10 @@
     },
     "101001": {
         "dice_type": 33,
-        "name": "\u7834\u574f",
+        "name": "破坏",
         "diceevent_type": 0,
-        "des": "\u7834\u574f\u8d27\u7bb1",
-        "lock_tips": "\u83b7\u5f97<color=#FF9500>\u300c\u6e05\u626b\u969c\u788d\u300d</color>\u80fd\u529b\u89e3\u9501\u8be5\u9009\u9879",
+        "des": "破坏货箱",
+        "lock_tips": "获得<color=#FF9500>「清扫障碍」</color>能力解锁该选项",
         "id": 101001,
         "new_warchess_event": 101001,
         "self_state_event": [
@@ -70,10 +70,10 @@
     },
     "102001": {
         "dice_type": 15,
-        "name": "\u6309\u4e0b\u5f00\u5173",
+        "name": "按下开关",
         "diceevent_type": 0,
-        "des": "\u5173\u95ed\u56de\u6536\u7ba1\u9053",
-        "lock_tips": "\u83b7\u5f97<color=#FF9500>\u300c\u5982\u5c65\u5e73\u5730\u300d</color>\u80fd\u529b\u89e3\u9501\u8be5\u9009\u9879",
+        "des": "关闭回收管道",
+        "lock_tips": "获得<color=#FF9500>「如履平地」</color>能力解锁该选项",
         "id": 102001,
         "new_warchess_event": 102001,
         "self_state_event": [
@@ -87,10 +87,10 @@
     },
     "103001": {
         "dice_type": 14,
-        "name": "\u63a5\u901a\u7535\u8def",
+        "name": "接通电路",
         "diceevent_type": 0,
-        "des": "\u5347\u964d\u53f0\u5347\u9ad8",
-        "lock_tips": "\u83b7\u5f97<color=#FF9500>\u300c\u9ad8\u7a0b\u53d8\u52a8\u300d</color>\u80fd\u529b\u89e3\u9501\u8be5\u9009\u9879",
+        "des": "升降台升高",
+        "lock_tips": "获得<color=#FF9500>「高程变动」</color>能力解锁该选项",
         "id": 103001,
         "new_warchess_event": 103001,
         "self_state_event": [
@@ -104,10 +104,10 @@
     },
     "104001": {
         "dice_type": 23,
-        "name": "\u63a5\u901a\u7535\u8def",
+        "name": "接通电路",
         "diceevent_type": 0,
-        "des": "\u5347\u964d\u53f0\u964d\u4e0b",
-        "lock_tips": "\u83b7\u5f97<color=#FF9500>\u300c\u9ad8\u7a0b\u53d8\u52a8\u300d</color>\u80fd\u529b\u89e3\u9501\u8be5\u9009\u9879",
+        "des": "升降台降下",
+        "lock_tips": "获得<color=#FF9500>「高程变动」</color>能力解锁该选项",
         "id": 104001,
         "new_warchess_event": 104001,
         "self_state_event": [
@@ -121,10 +121,10 @@
     },
     "105001": {
         "dice_type": 32,
-        "name": "\u8bbe\u7f6e\u53c2\u6570",
+        "name": "设置参数",
         "diceevent_type": 0,
-        "des": "\u542f\u52a8\u63a8\u8fdb\u5668",
-        "lock_tips": "\u83b7\u5f97<color=#FF9500>\u300c\u5f39\u6027\u52bf\u80fd\u300d</color>\u80fd\u529b\u89e3\u9501\u8be5\u9009\u9879",
+        "des": "启动推进器",
+        "lock_tips": "获得<color=#FF9500>「弹性势能」</color>能力解锁该选项",
         "id": 105001,
         "new_warchess_event": 105001,
         "self_state_event": [
@@ -138,10 +138,10 @@
     },
     "106001": {
         "dice_type": 14,
-        "name": "\u63a5\u901a\u7535\u8def",
+        "name": "接通电路",
         "diceevent_type": 0,
-        "des": "\u5347\u964d\u53f0\u5347\u9ad8",
-        "lock_tips": "\u83b7\u5f97<color=#FF9500>\u300c\u9ad8\u7a0b\u53d8\u52a8\u300d</color>\u80fd\u529b\u89e3\u9501\u8be5\u9009\u9879",
+        "des": "升降台升高",
+        "lock_tips": "获得<color=#FF9500>「高程变动」</color>能力解锁该选项",
         "id": 106001,
         "new_warchess_event": 106001,
         "self_state_event": [
@@ -155,10 +155,10 @@
     },
     "107001": {
         "dice_type": 14,
-        "name": "\u63a5\u901a\u7535\u8def",
+        "name": "接通电路",
         "diceevent_type": 0,
-        "des": "\u5347\u964d\u53f0\u5347\u9ad8",
-        "lock_tips": "\u83b7\u5f97<color=#FF9500>\u300c\u9ad8\u7a0b\u53d8\u52a8\u300d</color>\u80fd\u529b\u89e3\u9501\u8be5\u9009\u9879",
+        "des": "升降台升高",
+        "lock_tips": "获得<color=#FF9500>「高程变动」</color>能力解锁该选项",
         "id": 107001,
         "new_warchess_event": 107001,
         "self_state_event": [
@@ -172,10 +172,10 @@
     },
     "108001": {
         "dice_type": 14,
-        "name": "\u63a5\u901a\u7535\u8def",
+        "name": "接通电路",
         "diceevent_type": 0,
-        "des": "\u5347\u964d\u53f0\u5347\u9ad8",
-        "lock_tips": "\u83b7\u5f97<color=#FF9500>\u300c\u9ad8\u7a0b\u53d8\u52a8\u300d</color>\u80fd\u529b\u89e3\u9501\u8be5\u9009\u9879",
+        "des": "升降台升高",
+        "lock_tips": "获得<color=#FF9500>「高程变动」</color>能力解锁该选项",
         "id": 108001,
         "new_warchess_event": 108001,
         "self_state_event": [
@@ -189,10 +189,10 @@
     },
     "109001": {
         "dice_type": 207,
-        "name": "\u6539\u53d8\u72b6\u6001",
+        "name": "改变状态",
         "diceevent_type": 0,
-        "des": "\u53cd\u8f6c\u5468\u56f4\u5730\u5f62\u72b6\u6001",
-        "lock_tips": "\u83b7\u5f97<color=#FF9500>\u300c\u8d1f\u5411\u91cf\u300d</color>\u80fd\u529b\u89e3\u9501\u8be5\u9009\u9879",
+        "des": "反转周围地形状态",
+        "lock_tips": "获得<color=#FF9500>「负向量」</color>能力解锁该选项",
         "id": 109001,
         "new_warchess_event": 109001,
         "self_state_event": [
@@ -206,10 +206,10 @@
     },
     "110001": {
         "dice_type": 14,
-        "name": "\u63a5\u901a\u7535\u8def",
+        "name": "接通电路",
         "diceevent_type": 0,
-        "des": "\u5347\u964d\u53f0\u5347\u9ad8",
-        "lock_tips": "\u83b7\u5f97<color=#FF9500>\u300c\u9ad8\u7a0b\u53d8\u52a8\u300d</color>\u80fd\u529b\u89e3\u9501\u8be5\u9009\u9879",
+        "des": "升降台升高",
+        "lock_tips": "获得<color=#FF9500>「高程变动」</color>能力解锁该选项",
         "id": 110001,
         "new_warchess_event": 110001,
         "self_state_event": [
@@ -223,10 +223,10 @@
     },
     "111001": {
         "dice_type": 23,
-        "name": "\u63a5\u901a\u7535\u8def",
+        "name": "接通电路",
         "diceevent_type": 0,
-        "des": "\u5347\u964d\u53f0\u964d\u4e0b",
-        "lock_tips": "\u83b7\u5f97<color=#FF9500>\u300c\u9ad8\u7a0b\u53d8\u52a8\u300d</color>\u80fd\u529b\u89e3\u9501\u8be5\u9009\u9879",
+        "des": "升降台降下",
+        "lock_tips": "获得<color=#FF9500>「高程变动」</color>能力解锁该选项",
         "id": 111001,
         "new_warchess_event": 111001,
         "self_state_event": [
@@ -240,10 +240,10 @@
     },
     "112001": {
         "dice_type": 32,
-        "name": "\u8bbe\u7f6e\u53c2\u6570",
+        "name": "设置参数",
         "diceevent_type": 0,
-        "des": "\u542f\u52a8\u63a8\u8fdb\u5668",
-        "lock_tips": "\u83b7\u5f97<color=#FF9500>\u300c\u5f39\u6027\u52bf\u80fd\u300d</color>\u80fd\u529b\u89e3\u9501\u8be5\u9009\u9879",
+        "des": "启动推进器",
+        "lock_tips": "获得<color=#FF9500>「弹性势能」</color>能力解锁该选项",
         "id": 112001,
         "new_warchess_event": 112001,
         "self_state_event": [
@@ -257,7 +257,7 @@
     },
     "113001": {
         "dice_type": 0,
-        "name": "\u83b7\u5f97\u5927\u91cf\u884c\u52a8\u503c",
+        "name": "获得大量行动值",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -270,7 +270,7 @@
     },
     "113002": {
         "dice_type": 0,
-        "name": "\u83b7\u5f97\u5927\u91cf\u9ab0\u5b50",
+        "name": "获得大量骰子",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -283,7 +283,7 @@
     },
     "113003": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u4fdd\u7559",
+        "name": "暂时保留",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -296,7 +296,7 @@
     },
     "151001": {
         "dice_type": 0,
-        "name": "\u963b\u6b62\u5b83\uff01",
+        "name": "阻止它！",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -313,9 +313,9 @@
     },
     "151002": {
         "dice_type": 32,
-        "name": "\u5f15\u53d1\u7206\u70b8",
+        "name": "引发爆炸",
         "diceevent_type": 0,
-        "des": "\u6240\u6709\u654c\u4eba\u5931\u53bb<color=#FF9500>50%</color>\u751f\u547d\u503c",
+        "des": "所有敌人失去<color=#FF9500>50%</color>生命值",
         "lock_tips": "",
         "id": 151002,
         "new_warchess_event": 0,
@@ -330,7 +330,7 @@
     },
     "151011": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -347,9 +347,9 @@
     },
     "151003": {
         "dice_type": 33,
-        "name": "\u614c\u5fd9\u64a4\u9000",
+        "name": "慌忙撤退",
         "diceevent_type": 0,
-        "des": "\u907f\u5f00\u6218\u6597",
+        "des": "避开战斗",
         "lock_tips": "",
         "id": 151003,
         "new_warchess_event": 9,
@@ -363,7 +363,7 @@
     },
     "151012": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de",
+        "name": "返回",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -377,7 +377,7 @@
     },
     "151021": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -394,7 +394,7 @@
     },
     "152001": {
         "dice_type": 0,
-        "name": "\u629a\u6478\u5b83",
+        "name": "抚摸它",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -411,7 +411,7 @@
     },
     "152002": {
         "dice_type": 0,
-        "name": "\u4e0e\u5b83\u5206\u4eab\u98df\u7269",
+        "name": "与它分享食物",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -428,9 +428,9 @@
     },
     "152003": {
         "dice_type": 33,
-        "name": "\u4f18\u5148\u6267\u884c\u4efb\u52a1",
+        "name": "优先执行任务",
         "diceevent_type": 0,
-        "des": "\u907f\u5f00\u6218\u6597",
+        "des": "避开战斗",
         "lock_tips": "",
         "id": 152003,
         "new_warchess_event": 0,
@@ -442,7 +442,7 @@
     },
     "152011": {
         "dice_type": 0,
-        "name": "\u4fdd\u62a4\u732b\u54aa\uff01",
+        "name": "保护猫咪！",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -459,9 +459,9 @@
     },
     "152021": {
         "dice_type": 7,
-        "name": "\u51fa\u5176\u4e0d\u610f",
+        "name": "出其不意",
         "diceevent_type": 1350,
-        "des": "\u4f7f\u654c\u65b9\u53d7\u5230\u7684\u4f24\u5bb3\u63d0\u9ad8<color=#FF9500>%s%s</color>",
+        "des": "使敌方受到的伤害提高<color=#FF9500>%s%s</color>",
         "lock_tips": "",
         "id": 152021,
         "new_warchess_event": 0,
@@ -482,7 +482,7 @@
     },
     "152022": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de",
+        "name": "返回",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -496,7 +496,7 @@
     },
     "153001": {
         "dice_type": 0,
-        "name": "\u8ffd\u8e2a\u9ab8\u80fd",
+        "name": "追踪骸能",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -513,9 +513,9 @@
     },
     "153002": {
         "dice_type": 23,
-        "name": "\u547c\u53eb\u652f\u63f4",
+        "name": "呼叫支援",
         "diceevent_type": 0,
-        "des": "\u964d\u4f4e\u6218\u6597\u96be\u5ea6",
+        "des": "降低战斗难度",
         "lock_tips": "",
         "id": 153002,
         "new_warchess_event": 0,
@@ -530,9 +530,9 @@
     },
     "153003": {
         "dice_type": 33,
-        "name": "\u614c\u5fd9\u64a4\u9000",
+        "name": "慌忙撤退",
         "diceevent_type": 0,
-        "des": "\u907f\u5f00\u6218\u6597",
+        "des": "避开战斗",
         "lock_tips": "",
         "id": 153003,
         "new_warchess_event": 9,
@@ -546,7 +546,7 @@
     },
     "153011": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -563,7 +563,7 @@
     },
     "153012": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de",
+        "name": "返回",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -577,7 +577,7 @@
     },
     "153021": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -594,7 +594,7 @@
     },
     "154001": {
         "dice_type": 0,
-        "name": "\u52a0\u5165\u9152\u5c40",
+        "name": "加入酒局",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -611,7 +611,7 @@
     },
     "154002": {
         "dice_type": 0,
-        "name": "\u9690\u533f\u6f5c\u5165",
+        "name": "隐匿潜入",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -628,9 +628,9 @@
     },
     "154003": {
         "dice_type": 33,
-        "name": "\u547c\u53eb\u652f\u63f4",
+        "name": "呼叫支援",
         "diceevent_type": 0,
-        "des": "\u907f\u5f00\u6218\u6597",
+        "des": "避开战斗",
         "lock_tips": "",
         "id": 154003,
         "new_warchess_event": 0,
@@ -642,7 +642,7 @@
     },
     "154011": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -659,9 +659,9 @@
     },
     "154021": {
         "dice_type": 7,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 1350,
-        "des": "\u4f7f\u654c\u65b9\u53d7\u5230\u7684\u4f24\u5bb3\u63d0\u9ad8<color=#FF9500>%s%s</color>",
+        "des": "使敌方受到的伤害提高<color=#FF9500>%s%s</color>",
         "lock_tips": "",
         "id": 154021,
         "new_warchess_event": 0,
@@ -682,7 +682,7 @@
     },
     "154022": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de",
+        "name": "返回",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -696,7 +696,7 @@
     },
     "155001": {
         "dice_type": 0,
-        "name": "\u76f4\u9762\u6050\u60e7",
+        "name": "直面恐惧",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -713,7 +713,7 @@
     },
     "155002": {
         "dice_type": 0,
-        "name": "\u63a2\u67e5\u60c5\u62a5",
+        "name": "探查情报",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -730,9 +730,9 @@
     },
     "155003": {
         "dice_type": 33,
-        "name": "\u9759\u5f85\u652f\u63f4",
+        "name": "静待支援",
         "diceevent_type": 0,
-        "des": "\u907f\u5f00\u6218\u6597",
+        "des": "避开战斗",
         "lock_tips": "",
         "id": 155003,
         "new_warchess_event": 0,
@@ -744,7 +744,7 @@
     },
     "155011": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -761,9 +761,9 @@
     },
     "155021": {
         "dice_type": 7,
-        "name": "\u653b\u51fb\u5f31\u70b9",
+        "name": "攻击弱点",
         "diceevent_type": 1350,
-        "des": "\u4f7f\u654c\u65b9\u53d7\u5230\u7684\u4f24\u5bb3\u63d0\u9ad8<color=#FF9500>%s%s</color>",
+        "des": "使敌方受到的伤害提高<color=#FF9500>%s%s</color>",
         "lock_tips": "",
         "id": 155021,
         "new_warchess_event": 0,
@@ -784,7 +784,7 @@
     },
     "155022": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de",
+        "name": "返回",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -798,7 +798,7 @@
     },
     "156001": {
         "dice_type": 0,
-        "name": "\u7ad9\u4e0a\u9ad8\u5904\u7684\u8d27\u7bb1",
+        "name": "站上高处的货箱",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -815,7 +815,7 @@
     },
     "156002": {
         "dice_type": 0,
-        "name": "\u67e5\u770b\u6253\u5f00\u7684\u8d27\u7bb1",
+        "name": "查看打开的货箱",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -832,7 +832,7 @@
     },
     "156003": {
         "dice_type": 0,
-        "name": "\u7ed5\u5230\u8d27\u7bb1\u80cc\u540e",
+        "name": "绕到货箱背后",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -846,7 +846,7 @@
     },
     "156011": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -863,9 +863,9 @@
     },
     "156021": {
         "dice_type": 7,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 1350,
-        "des": "\u4f7f\u654c\u65b9\u53d7\u5230\u7684\u4f24\u5bb3\u63d0\u9ad8<color=#FF9500>%s%s</color>",
+        "des": "使敌方受到的伤害提高<color=#FF9500>%s%s</color>",
         "lock_tips": "",
         "id": 156021,
         "new_warchess_event": 0,
@@ -886,7 +886,7 @@
     },
     "156022": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de",
+        "name": "返回",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -900,9 +900,9 @@
     },
     "156031": {
         "dice_type": 33,
-        "name": "\u7a81\u7136\u88ad\u51fb",
+        "name": "突然袭击",
         "diceevent_type": 0,
-        "des": "\u76f4\u63a5\u6d88\u706d\u654c\u4eba",
+        "des": "直接消灭敌人",
         "lock_tips": "",
         "id": 156031,
         "new_warchess_event": 9,
@@ -913,7 +913,7 @@
     },
     "156032": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de",
+        "name": "返回",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -927,7 +927,7 @@
     },
     "157001": {
         "dice_type": 0,
-        "name": "\u533a\u533a\u6d4b\u8bd5",
+        "name": "区区测试",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -944,7 +944,7 @@
     },
     "157002": {
         "dice_type": 0,
-        "name": "\u6251\u5411\u64cd\u4f5c\u53f0",
+        "name": "扑向操作台",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -961,9 +961,9 @@
     },
     "157003": {
         "dice_type": 33,
-        "name": "\u629b\u4e0b\u80cc\u5305",
+        "name": "抛下背包",
         "diceevent_type": 0,
-        "des": "\u907f\u5f00\u6218\u6597",
+        "des": "避开战斗",
         "lock_tips": "",
         "id": 157003,
         "new_warchess_event": 0,
@@ -975,7 +975,7 @@
     },
     "157011": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -992,9 +992,9 @@
     },
     "157021": {
         "dice_type": 31,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
-        "des": "\u524a\u5f31\u654c\u4eba",
+        "des": "削弱敌人",
         "lock_tips": "",
         "id": 157021,
         "new_warchess_event": 0,
@@ -1009,7 +1009,7 @@
     },
     "157022": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de",
+        "name": "返回",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1023,7 +1023,7 @@
     },
     "158001": {
         "dice_type": 0,
-        "name": "\u5f00\u59cb\u62a4\u9001",
+        "name": "开始护送",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1040,7 +1040,7 @@
     },
     "158002": {
         "dice_type": 0,
-        "name": "\u5206\u6790\u8def\u7ebf",
+        "name": "分析路线",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1057,9 +1057,9 @@
     },
     "158003": {
         "dice_type": 33,
-        "name": "\u4e0a\u4f20\u60c5\u62a5",
+        "name": "上传情报",
         "diceevent_type": 0,
-        "des": "\u907f\u5f00\u6218\u6597",
+        "des": "避开战斗",
         "lock_tips": "",
         "id": 158003,
         "new_warchess_event": 0,
@@ -1071,7 +1071,7 @@
     },
     "158011": {
         "dice_type": 0,
-        "name": "\u5f00\u59cb\u62a4\u9001",
+        "name": "开始护送",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1088,9 +1088,9 @@
     },
     "158021": {
         "dice_type": 7,
-        "name": "\u547c\u53eb\u589e\u63f4",
+        "name": "呼叫增援",
         "diceevent_type": 1350,
-        "des": "\u4f7f\u654c\u65b9\u53d7\u5230\u7684\u4f24\u5bb3\u63d0\u9ad8<color=#FF9500>%s%s</color>",
+        "des": "使敌方受到的伤害提高<color=#FF9500>%s%s</color>",
         "lock_tips": "",
         "id": 158021,
         "new_warchess_event": 0,
@@ -1111,7 +1111,7 @@
     },
     "158022": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de",
+        "name": "返回",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1125,7 +1125,7 @@
     },
     "170001": {
         "dice_type": 0,
-        "name": "\u4e0a\u4f20\u5b8c\u6210",
+        "name": "上传完成",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1139,7 +1139,7 @@
     },
     "170011": {
         "dice_type": 0,
-        "name": "\u63a5\u5e94\u90e8\u961f\uff0c\u7ee7\u7eed\u524d\u8fdb",
+        "name": "接应部队，继续前进",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1152,7 +1152,7 @@
     },
     "171001": {
         "dice_type": 0,
-        "name": "\u4e0a\u4f20\u5b8c\u6210",
+        "name": "上传完成",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1170,7 +1170,7 @@
     },
     "171002": {
         "dice_type": 0,
-        "name": "\u4e0a\u4f20\u5b8c\u6210",
+        "name": "上传完成",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1189,7 +1189,7 @@
     },
     "171011": {
         "dice_type": 0,
-        "name": "\u63a5\u5e94\u90e8\u961f\uff0c\u7ee7\u7eed\u524d\u8fdb",
+        "name": "接应部队，继续前进",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1202,7 +1202,7 @@
     },
     "172001": {
         "dice_type": 0,
-        "name": "\u4e0a\u4f20\u5b8c\u6210",
+        "name": "上传完成",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1220,7 +1220,7 @@
     },
     "172002": {
         "dice_type": 0,
-        "name": "\u4e0a\u4f20\u5b8c\u6210",
+        "name": "上传完成",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1239,7 +1239,7 @@
     },
     "172011": {
         "dice_type": 0,
-        "name": "\u63a5\u5e94\u90e8\u961f\uff0c\u7ee7\u7eed\u524d\u8fdb",
+        "name": "接应部队，继续前进",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1252,7 +1252,7 @@
     },
     "181001": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1272,7 +1272,7 @@
     },
     "181002": {
         "dice_type": 0,
-        "name": "\u547c\u53eb\u652f\u63f4",
+        "name": "呼叫支援",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1289,9 +1289,9 @@
     },
     "181003": {
         "dice_type": 33,
-        "name": "\u7ed5\u540e\u5077\u88ad",
+        "name": "绕后偷袭",
         "diceevent_type": 0,
-        "des": "\u76f4\u63a5\u6d88\u706d\u654c\u4eba",
+        "des": "直接消灭敌人",
         "lock_tips": "",
         "id": 181003,
         "new_warchess_event": 0,
@@ -1303,9 +1303,9 @@
     },
     "181011": {
         "dice_type": 7,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 1350,
-        "des": "\u4f7f\u654c\u65b9\u53d7\u5230\u7684\u4f24\u5bb3\u63d0\u9ad8<color=#FF9500>%s%s</color>",
+        "des": "使敌方受到的伤害提高<color=#FF9500>%s%s</color>",
         "lock_tips": "",
         "id": 181011,
         "new_warchess_event": 0,
@@ -1326,7 +1326,7 @@
     },
     "181012": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de",
+        "name": "返回",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1340,7 +1340,7 @@
     },
     "181021": {
         "dice_type": 0,
-        "name": "\u6253\u5f00\u7ec8\u7aef",
+        "name": "打开终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1354,7 +1354,7 @@
     },
     "181031": {
         "dice_type": 0,
-        "name": "\u63a5\u5e94\u90e8\u961f\uff0c\u7ee7\u7eed\u524d\u8fdb",
+        "name": "接应部队，继续前进",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1367,7 +1367,7 @@
     },
     "182001": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1387,7 +1387,7 @@
     },
     "182002": {
         "dice_type": 0,
-        "name": "\u547c\u53eb\u652f\u63f4",
+        "name": "呼叫支援",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1404,9 +1404,9 @@
     },
     "182003": {
         "dice_type": 33,
-        "name": "\u7ed5\u540e\u5077\u88ad",
+        "name": "绕后偷袭",
         "diceevent_type": 0,
-        "des": "\u76f4\u63a5\u6d88\u706d\u654c\u4eba",
+        "des": "直接消灭敌人",
         "lock_tips": "",
         "id": 182003,
         "new_warchess_event": 0,
@@ -1418,9 +1418,9 @@
     },
     "182011": {
         "dice_type": 7,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 1350,
-        "des": "\u4f7f\u654c\u65b9\u53d7\u5230\u7684\u4f24\u5bb3\u63d0\u9ad8<color=#FF9500>%s%s</color>",
+        "des": "使敌方受到的伤害提高<color=#FF9500>%s%s</color>",
         "lock_tips": "",
         "id": 182011,
         "new_warchess_event": 0,
@@ -1441,7 +1441,7 @@
     },
     "182012": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de",
+        "name": "返回",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1455,7 +1455,7 @@
     },
     "182021": {
         "dice_type": 0,
-        "name": "\u6253\u5f00\u7ec8\u7aef",
+        "name": "打开终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1469,7 +1469,7 @@
     },
     "182031": {
         "dice_type": 0,
-        "name": "\u63a5\u5e94\u90e8\u961f\uff0c\u7ee7\u7eed\u524d\u8fdb",
+        "name": "接应部队，继续前进",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1482,7 +1482,7 @@
     },
     "183001": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1502,7 +1502,7 @@
     },
     "183002": {
         "dice_type": 0,
-        "name": "\u547c\u53eb\u652f\u63f4",
+        "name": "呼叫支援",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1519,9 +1519,9 @@
     },
     "183003": {
         "dice_type": 33,
-        "name": "\u7ed5\u540e\u5077\u88ad",
+        "name": "绕后偷袭",
         "diceevent_type": 0,
-        "des": "\u76f4\u63a5\u6d88\u706d\u654c\u4eba",
+        "des": "直接消灭敌人",
         "lock_tips": "",
         "id": 183003,
         "new_warchess_event": 0,
@@ -1533,9 +1533,9 @@
     },
     "183011": {
         "dice_type": 7,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 1350,
-        "des": "\u4f7f\u654c\u65b9\u53d7\u5230\u7684\u4f24\u5bb3\u63d0\u9ad8<color=#FF9500>%s%s</color>",
+        "des": "使敌方受到的伤害提高<color=#FF9500>%s%s</color>",
         "lock_tips": "",
         "id": 183011,
         "new_warchess_event": 0,
@@ -1556,7 +1556,7 @@
     },
     "183012": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de",
+        "name": "返回",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1570,7 +1570,7 @@
     },
     "183021": {
         "dice_type": 0,
-        "name": "\u6253\u5f00\u7ec8\u7aef",
+        "name": "打开终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1584,7 +1584,7 @@
     },
     "183031": {
         "dice_type": 0,
-        "name": "\u63a5\u5e94\u90e8\u961f\uff0c\u7ee7\u7eed\u524d\u8fdb",
+        "name": "接应部队，继续前进",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1597,7 +1597,7 @@
     },
     "191001": {
         "dice_type": 0,
-        "name": "\u4e0a\u4f20\u5b8c\u6210",
+        "name": "上传完成",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1611,7 +1611,7 @@
     },
     "191011": {
         "dice_type": 0,
-        "name": "\u63a5\u5e94\u90e8\u961f\uff0c\u7ee7\u7eed\u524d\u8fdb",
+        "name": "接应部队，继续前进",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1624,7 +1624,7 @@
     },
     "192001": {
         "dice_type": 0,
-        "name": "\u4e0a\u4f20\u5b8c\u6210",
+        "name": "上传完成",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1638,7 +1638,7 @@
     },
     "192011": {
         "dice_type": 0,
-        "name": "\u63a5\u5e94\u90e8\u961f\uff0c\u7ee7\u7eed\u524d\u8fdb",
+        "name": "接应部队，继续前进",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1651,7 +1651,7 @@
     },
     "199021": {
         "dice_type": 0,
-        "name": "\u8131\u79bb\u6218\u573a",
+        "name": "脱离战场",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1664,7 +1664,7 @@
     },
     "199031": {
         "dice_type": 0,
-        "name": "\u8131\u79bb\u6218\u573a",
+        "name": "脱离战场",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1677,7 +1677,7 @@
     },
     "199991": {
         "dice_type": 0,
-        "name": "\u9053\u8c22\u5e76\u544a\u522b",
+        "name": "道谢并告别",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1690,7 +1690,7 @@
     },
     "199051": {
         "dice_type": 0,
-        "name": "\u8131\u79bb\u6218\u573a",
+        "name": "脱离战场",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1703,7 +1703,7 @@
     },
     "199061": {
         "dice_type": 0,
-        "name": "\u8131\u79bb\u6218\u573a",
+        "name": "脱离战场",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1716,7 +1716,7 @@
     },
     "201001": {
         "dice_type": 0,
-        "name": "\u7ffb\u5f00\u5927\u8d27\u7bb1",
+        "name": "翻开大货箱",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1730,7 +1730,7 @@
     },
     "201002": {
         "dice_type": 0,
-        "name": "\u7ffb\u5f00\u5c0f\u8d27\u7bb1",
+        "name": "翻开小货箱",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1744,7 +1744,7 @@
     },
     "202001": {
         "dice_type": 0,
-        "name": "\u7c97\u7565\u7ffb\u770b",
+        "name": "粗略翻看",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1758,9 +1758,9 @@
     },
     "202002": {
         "dice_type": 7,
-        "name": "\u4ed4\u7ec6\u641c\u7d22",
+        "name": "仔细搜索",
         "diceevent_type": 1303,
-        "des": "\u83b7\u5f97<color=#FF9500>%s</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>%s</color>点行动值",
         "lock_tips": "",
         "id": 202002,
         "new_warchess_event": 202002,
@@ -1772,7 +1772,7 @@
     },
     "203001": {
         "dice_type": 0,
-        "name": "\u4eba\u4e8b\u8d44\u6599",
+        "name": "人事资料",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1786,7 +1786,7 @@
     },
     "203002": {
         "dice_type": 0,
-        "name": "\u667a\u68b0\u5b58\u7a3f",
+        "name": "智械存稿",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1800,7 +1800,7 @@
     },
     "204001": {
         "dice_type": 0,
-        "name": "\u4fee\u6574",
+        "name": "修整",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1814,7 +1814,7 @@
     },
     "204002": {
         "dice_type": 0,
-        "name": "\u5c3d\u5feb\u8d76\u8def",
+        "name": "尽快赶路",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1828,9 +1828,9 @@
     },
     "205001": {
         "dice_type": 1,
-        "name": "\u67e5\u770b\u7535\u8111",
+        "name": "查看电脑",
         "diceevent_type": 0,
-        "des": "\u6240\u6709\u9ab0\u5b50\u70b9\u6570<color=#FF9500>+1</color>",
+        "des": "所有骰子点数<color=#FF9500>+1</color>",
         "lock_tips": "",
         "id": 205001,
         "new_warchess_event": 205001,
@@ -1842,7 +1842,7 @@
     },
     "205002": {
         "dice_type": 0,
-        "name": "\u67e5\u770b\u8d44\u6599\u67dc",
+        "name": "查看资料柜",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1856,7 +1856,7 @@
     },
     "205003": {
         "dice_type": 0,
-        "name": "\u62f7\u8d1d\u8d44\u6599",
+        "name": "拷贝资料",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1870,9 +1870,9 @@
     },
     "206001": {
         "dice_type": 32,
-        "name": "\u5bfb\u6c42\u5e2e\u52a9",
+        "name": "寻求帮助",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570",
+        "des": "恢复所有技能使用次数",
         "lock_tips": "",
         "id": 206001,
         "new_warchess_event": 206001,
@@ -1884,7 +1884,7 @@
     },
     "206002": {
         "dice_type": 0,
-        "name": "\u63d0\u4ea4\u7ec4\u4ef6",
+        "name": "提交组件",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1898,7 +1898,7 @@
     },
     "206003": {
         "dice_type": 0,
-        "name": "\u9053\u8c22\u5e76\u79bb\u5f00",
+        "name": "道谢并离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1911,7 +1911,7 @@
     },
     "207001": {
         "dice_type": 0,
-        "name": "\u62ff\u4e00\u4e2a\u5c31\u8dd1",
+        "name": "拿一个就跑",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1925,7 +1925,7 @@
     },
     "207002": {
         "dice_type": 0,
-        "name": "\u80fd\u62ff\u591a\u5c11\u662f\u591a\u5c11",
+        "name": "能拿多少是多少",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1939,7 +1939,7 @@
     },
     "207021": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1959,7 +1959,7 @@
     },
     "207022": {
         "dice_type": 0,
-        "name": "\u9003\u8dd1",
+        "name": "逃跑",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1976,7 +1976,7 @@
     },
     "208001": {
         "dice_type": 0,
-        "name": "\u8eba\u4e0a\u5c0f\u61a9",
+        "name": "躺上小憩",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -1990,7 +1990,7 @@
     },
     "208002": {
         "dice_type": 0,
-        "name": "\u575a\u6301",
+        "name": "坚持",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2004,7 +2004,7 @@
     },
     "208011": {
         "dice_type": 0,
-        "name": "\u518d\u4f11\u606f5\u5206\u949f",
+        "name": "再休息5分钟",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2018,7 +2018,7 @@
     },
     "208021": {
         "dice_type": 0,
-        "name": "\u518d\u4f11\u606f5\u5206\u949f",
+        "name": "再休息5分钟",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2032,7 +2032,7 @@
     },
     "208031": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2052,7 +2052,7 @@
     },
     "208032": {
         "dice_type": 0,
-        "name": "\u9003\u8dd1",
+        "name": "逃跑",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2069,9 +2069,9 @@
     },
     "209001": {
         "dice_type": 207,
-        "name": "\u63a5\u901a\u7535\u8def",
+        "name": "接通电路",
         "diceevent_type": 0,
-        "des": "\u7167\u4eae\u5468\u56f4<color=#FF9500>7</color>\u683c\u5185\u7684\u533a\u57df",
+        "des": "照亮周围<color=#FF9500>7</color>格内的区域",
         "lock_tips": "",
         "id": 209001,
         "new_warchess_event": 209001,
@@ -2082,7 +2082,7 @@
     },
     "209002": {
         "dice_type": 0,
-        "name": "\u641c\u5bfb\u7559\u5b58\u8bbe\u5907",
+        "name": "搜寻留存设备",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2096,7 +2096,7 @@
     },
     "210001": {
         "dice_type": 0,
-        "name": "\u8bd5\u73a9\u4e00\u4e0b",
+        "name": "试玩一下",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2110,7 +2110,7 @@
     },
     "210002": {
         "dice_type": 0,
-        "name": "\u8d76\u8def\u8981\u7d27",
+        "name": "赶路要紧",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2124,7 +2124,7 @@
     },
     "210011": {
         "dice_type": 0,
-        "name": "\u518d\u73a9\u4e00\u6b21",
+        "name": "再玩一次",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2138,7 +2138,7 @@
     },
     "210012": {
         "dice_type": 0,
-        "name": "\u518d\u73a9\u4e00\u6b21",
+        "name": "再玩一次",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2152,7 +2152,7 @@
     },
     "210013": {
         "dice_type": 0,
-        "name": "\u8d76\u8def\u8981\u7d27",
+        "name": "赶路要紧",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2166,9 +2166,9 @@
     },
     "210021": {
         "dice_type": 7,
-        "name": "\u6295\u9ab0\u5b50",
+        "name": "投骰子",
         "diceevent_type": 1301,
-        "des": "\u83b7\u5f97<color=#FF9500>%s</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>%s</color>点行动值",
         "lock_tips": "",
         "id": 210021,
         "new_warchess_event": 210021,
@@ -2187,7 +2187,7 @@
     },
     "210022": {
         "dice_type": 0,
-        "name": "\u54a6\uff0c\u6211\u9ab0\u5b50\u5462\uff1f",
+        "name": "咦，我骰子呢？",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2205,9 +2205,9 @@
     },
     "210031": {
         "dice_type": 7,
-        "name": "\u6295\u9ab0\u5b50",
+        "name": "投骰子",
         "diceevent_type": 1301,
-        "des": "\u83b7\u5f97<color=#FF9500>%s</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>%s</color>点行动值",
         "lock_tips": "",
         "id": 210031,
         "new_warchess_event": 210021,
@@ -2226,7 +2226,7 @@
     },
     "210032": {
         "dice_type": 0,
-        "name": "\u54a6\uff0c\u6211\u9ab0\u5b50\u5462\uff1f",
+        "name": "咦，我骰子呢？",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2244,9 +2244,9 @@
     },
     "210041": {
         "dice_type": 7,
-        "name": "\u6295\u9ab0\u5b50",
+        "name": "投骰子",
         "diceevent_type": 1301,
-        "des": "\u83b7\u5f97<color=#FF9500>%s</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>%s</color>点行动值",
         "lock_tips": "",
         "id": 210041,
         "new_warchess_event": 210021,
@@ -2265,7 +2265,7 @@
     },
     "210042": {
         "dice_type": 0,
-        "name": "\u54a6\uff0c\u6211\u9ab0\u5b50\u5462\uff1f",
+        "name": "咦，我骰子呢？",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2283,7 +2283,7 @@
     },
     "210061": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2303,7 +2303,7 @@
     },
     "210062": {
         "dice_type": 0,
-        "name": "\u9003\u8dd1",
+        "name": "逃跑",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2320,7 +2320,7 @@
     },
     "210071": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2334,9 +2334,9 @@
     },
     "211001": {
         "dice_type": 9,
-        "name": "\u4ea4\u6362\u88c5\u5907",
+        "name": "交换装备",
         "diceevent_type": 0,
-        "des": "\u83b7\u5f97<color=#FF9500>3</color>\u4e2a\u65b0\u9ab0\u5b50",
+        "des": "获得<color=#FF9500>3</color>个新骰子",
         "lock_tips": "",
         "id": 211001,
         "new_warchess_event": 211001,
@@ -2348,9 +2348,9 @@
     },
     "211002": {
         "dice_type": 1,
-        "name": "\u4ea4\u6362\u98df\u7269",
+        "name": "交换食物",
         "diceevent_type": 0,
-        "des": "\u83b7\u5f97<color=#FF9500>10</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>10</color>点行动值",
         "lock_tips": "",
         "id": 211002,
         "new_warchess_event": 211002,
@@ -2362,7 +2362,7 @@
     },
     "211011": {
         "dice_type": 0,
-        "name": "\u9053\u522b",
+        "name": "道别",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2375,7 +2375,7 @@
     },
     "211021": {
         "dice_type": 0,
-        "name": "\u9053\u522b",
+        "name": "道别",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2388,7 +2388,7 @@
     },
     "212001": {
         "dice_type": 0,
-        "name": "\u6295\u9ab0\u5b50",
+        "name": "投骰子",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2405,7 +2405,7 @@
     },
     "212002": {
         "dice_type": 0,
-        "name": "\u4e0d\u73a9",
+        "name": "不玩",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2419,7 +2419,7 @@
     },
     "212011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2436,7 +2436,7 @@
     },
     "212021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2450,7 +2450,7 @@
     },
     "212031": {
         "dice_type": 0,
-        "name": "\u518d\u6295\u9ab0\u5b50",
+        "name": "再投骰子",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2467,7 +2467,7 @@
     },
     "212041": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2480,7 +2480,7 @@
     },
     "212051": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2493,7 +2493,7 @@
     },
     "213001": {
         "dice_type": 0,
-        "name": "\u7c97\u7565\u7ffb\u770b",
+        "name": "粗略翻看",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2507,7 +2507,7 @@
     },
     "213002": {
         "dice_type": 0,
-        "name": "\u4ed4\u7ec6\u641c\u5bfb",
+        "name": "仔细搜寻",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2521,9 +2521,9 @@
     },
     "214001": {
         "dice_type": 23,
-        "name": "\u539f\u6837\u4fee\u590d",
+        "name": "原样修复",
         "diceevent_type": 0,
-        "des": "<color=#FF9500>\u590d\u5236</color>\u9ab0\u5b50",
+        "des": "<color=#FF9500>复制</color>骰子",
         "lock_tips": "",
         "id": 214001,
         "new_warchess_event": 214001,
@@ -2534,9 +2534,9 @@
     },
     "214002": {
         "dice_type": 14,
-        "name": "\u62c6\u5206\u91cd\u6784",
+        "name": "拆分重构",
         "diceevent_type": 0,
-        "des": "<color=#FF9500>\u62c6\u5206</color>\u9ab0\u5b50",
+        "des": "<color=#FF9500>拆分</color>骰子",
         "lock_tips": "",
         "id": 214002,
         "new_warchess_event": 214002,
@@ -2547,7 +2547,7 @@
     },
     "215001": {
         "dice_type": 0,
-        "name": "\u7528\u7528\u770b",
+        "name": "用用看",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2561,7 +2561,7 @@
     },
     "215002": {
         "dice_type": 0,
-        "name": "\u62c6\u5f00",
+        "name": "拆开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2575,7 +2575,7 @@
     },
     "216001": {
         "dice_type": 0,
-        "name": "\u5927",
+        "name": "大",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2592,7 +2592,7 @@
     },
     "216002": {
         "dice_type": 0,
-        "name": "\u5c0f",
+        "name": "小",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2609,7 +2609,7 @@
     },
     "216011": {
         "dice_type": 0,
-        "name": "\u5927",
+        "name": "大",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2626,7 +2626,7 @@
     },
     "216012": {
         "dice_type": 0,
-        "name": "\u5c0f",
+        "name": "小",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2643,7 +2643,7 @@
     },
     "216013": {
         "dice_type": 0,
-        "name": "\u5927",
+        "name": "大",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2660,7 +2660,7 @@
     },
     "216014": {
         "dice_type": 0,
-        "name": "\u5c0f",
+        "name": "小",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2677,7 +2677,7 @@
     },
     "216021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed\u73a9",
+        "name": "继续玩",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2691,7 +2691,7 @@
     },
     "217001": {
         "dice_type": 0,
-        "name": "\u7acb\u5373\u6574\u7406",
+        "name": "立即整理",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2705,7 +2705,7 @@
     },
     "217002": {
         "dice_type": 0,
-        "name": "\u5148\u4f11\u606f\u4e0b",
+        "name": "先休息下",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2719,9 +2719,9 @@
     },
     "218001": {
         "dice_type": 33,
-        "name": "\u7167\u660e\u5de5\u5177",
+        "name": "照明工具",
         "diceevent_type": 0,
-        "des": "<color=#FF9500>30</color>\u56de\u5408\u5185\u89c6\u91ce\u8303\u56f4<color=#FF9500>+3</color>",
+        "des": "<color=#FF9500>30</color>回合内视野范围<color=#FF9500>+3</color>",
         "lock_tips": "",
         "id": 218001,
         "new_warchess_event": 218001,
@@ -2733,9 +2733,9 @@
     },
     "218002": {
         "dice_type": 1,
-        "name": "\u6536\u7eb3\u5de5\u5177",
+        "name": "收纳工具",
         "diceevent_type": 0,
-        "des": "\u6240\u6709\u9ab0\u5b50\u70b9\u6570<color=#FF9500>+1</color>",
+        "des": "所有骰子点数<color=#FF9500>+1</color>",
         "lock_tips": "",
         "id": 218002,
         "new_warchess_event": 218002,
@@ -2747,7 +2747,7 @@
     },
     "219001": {
         "dice_type": 0,
-        "name": "\u8654\u8bda\u5730\u6253\u5f00",
+        "name": "虔诚地打开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2761,7 +2761,7 @@
     },
     "220001": {
         "dice_type": 0,
-        "name": "\u641c\u7d22\u51b0\u7bb1\u9694\u5c42",
+        "name": "搜索冰箱隔层",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2775,9 +2775,9 @@
     },
     "220002": {
         "dice_type": 7,
-        "name": "\u6253\u5f00\u7535\u5b50\u9762\u677f",
+        "name": "打开电子面板",
         "diceevent_type": 1303,
-        "des": "\u83b7\u5f97<color=#FF9500>%s</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>%s</color>点行动值",
         "lock_tips": "",
         "id": 220002,
         "new_warchess_event": 220002,
@@ -2789,9 +2789,9 @@
     },
     "220003": {
         "dice_type": 7,
-        "name": "\u6253\u5f00\u51b7\u51bb\u5c42",
+        "name": "打开冷冻层",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 220003,
         "new_warchess_event": 220003,
@@ -2803,9 +2803,9 @@
     },
     "221001": {
         "dice_type": 23,
-        "name": "\u6210\u5c31\u5956\u52b1",
+        "name": "成就奖励",
         "diceevent_type": 1301,
-        "des": "\u83b7\u5f97<color=#FF9500>%s</color>\u4e2a\u9ab0\u5b50",
+        "des": "获得<color=#FF9500>%s</color>个骰子",
         "lock_tips": "",
         "id": 221001,
         "new_warchess_event": 221001,
@@ -2817,9 +2817,9 @@
     },
     "221002": {
         "dice_type": 14,
-        "name": "\u7269\u8d44\u5956\u52b1",
+        "name": "物资奖励",
         "diceevent_type": 1303,
-        "des": "\u83b7\u5f97<color=#FF9500>%s</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>%s</color>点行动值",
         "lock_tips": "",
         "id": 221002,
         "new_warchess_event": 221002,
@@ -2831,7 +2831,7 @@
     },
     "221003": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u6e38\u620f\u673a",
+        "name": "关闭游戏机",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2845,9 +2845,9 @@
     },
     "222001": {
         "dice_type": 34,
-        "name": "\u524d\u5f80\u300c\u6e90\u5934\u300d",
+        "name": "前往「源头」",
         "diceevent_type": 0,
-        "des": "\u9ab0\u5b50\u70b9\u6570<color=#FF9500>\u7ffb\u500d</color>",
+        "des": "骰子点数<color=#FF9500>翻倍</color>",
         "lock_tips": "",
         "id": 222001,
         "new_warchess_event": 222001,
@@ -2859,9 +2859,9 @@
     },
     "222002": {
         "dice_type": 24,
-        "name": "\u524d\u5f80\u300c\u4e2d\u6d41\u300d",
+        "name": "前往「中流」",
         "diceevent_type": 1301,
-        "des": "\u62c6\u6210<color=#FF9500>%s</color>\u4e2a<color=#FF9500>1</color>\u70b9\u9ab0\u5b50",
+        "des": "拆成<color=#FF9500>%s</color>个<color=#FF9500>1</color>点骰子",
         "lock_tips": "",
         "id": 222002,
         "new_warchess_event": 222002,
@@ -2873,7 +2873,7 @@
     },
     "222003": {
         "dice_type": 0,
-        "name": "\u524d\u5f80\u300c\u6c47\u6d77\u5904\u300d",
+        "name": "前往「汇海处」",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2887,9 +2887,9 @@
     },
     "223001": {
         "dice_type": 207,
-        "name": "\u7b97\u7b2c\u4e00\u9898",
+        "name": "算第一题",
         "diceevent_type": 8303,
-        "des": "\u83b7\u5f97<color=#FF9500>%s</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>%s</color>点行动值",
         "lock_tips": "",
         "id": 223001,
         "new_warchess_event": 223001,
@@ -2901,9 +2901,9 @@
     },
     "223002": {
         "dice_type": 207,
-        "name": "\u7b97\u7b2c\u4e8c\u9898",
+        "name": "算第二题",
         "diceevent_type": 8207,
-        "des": "\u83b7\u5f97<color=#FF9500>%s</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>%s</color>点行动值",
         "lock_tips": "",
         "id": 223002,
         "new_warchess_event": 223002,
@@ -2915,7 +2915,7 @@
     },
     "223003": {
         "dice_type": 0,
-        "name": "\u8fd9\u662f\u5b66\u524d\u6559\u80b2\uff1f",
+        "name": "这是学前教育？",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2929,9 +2929,9 @@
     },
     "224001": {
         "dice_type": 31,
-        "name": "\u4fee\u88c5\u5907",
+        "name": "修装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570",
+        "des": "恢复所有技能使用次数",
         "lock_tips": "",
         "id": 224001,
         "new_warchess_event": 224001,
@@ -2943,7 +2943,7 @@
     },
     "224002": {
         "dice_type": 0,
-        "name": "\u6362\u88c5\u5907",
+        "name": "换装备",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2957,7 +2957,7 @@
     },
     "225001": {
         "dice_type": 0,
-        "name": "\u505a\u6807\u8bb0",
+        "name": "做标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2971,7 +2971,7 @@
     },
     "225002": {
         "dice_type": 0,
-        "name": "\u8ddf\u968f\u7ec8\u7aef",
+        "name": "跟随终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2985,7 +2985,7 @@
     },
     "225031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -2998,7 +2998,7 @@
     },
     "225101": {
         "dice_type": 0,
-        "name": "\u505a\u6807\u8bb0",
+        "name": "做标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3012,7 +3012,7 @@
     },
     "225102": {
         "dice_type": 0,
-        "name": "\u8ddf\u968f\u7ec8\u7aef",
+        "name": "跟随终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3026,7 +3026,7 @@
     },
     "225131": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3039,7 +3039,7 @@
     },
     "226001": {
         "dice_type": 0,
-        "name": "\u8df3\u8fc7\u53bb",
+        "name": "跳过去",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3053,7 +3053,7 @@
     },
     "226002": {
         "dice_type": 0,
-        "name": "\u7ed5\u8def\u8d70",
+        "name": "绕路走",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3067,7 +3067,7 @@
     },
     "227001": {
         "dice_type": 0,
-        "name": "\u542c\u4ed6\u4eec\u5439\u725b",
+        "name": "听他们吹牛",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3081,7 +3081,7 @@
     },
     "227002": {
         "dice_type": 0,
-        "name": "\u542c\u4ed6\u4eec\u8c08\u8fd9\u7247\u533a\u57df",
+        "name": "听他们谈这片区域",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3095,7 +3095,7 @@
     },
     "227003": {
         "dice_type": 0,
-        "name": "\u4e0d\u7ee7\u7eed\u542c\u4e86",
+        "name": "不继续听了",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3109,9 +3109,9 @@
     },
     "228001": {
         "dice_type": 31,
-        "name": "\u6bd4\u5bf9\u5dee\u522b",
+        "name": "比对差别",
         "diceevent_type": 0,
-        "des": "\u83b7\u5f972\u4e2a<color=#FF9500>6</color>\u70b9\u9ab0\u5b50",
+        "des": "获得2个<color=#FF9500>6</color>点骰子",
         "lock_tips": "",
         "id": 228001,
         "new_warchess_event": 228001,
@@ -3123,7 +3123,7 @@
     },
     "228002": {
         "dice_type": 0,
-        "name": "\u4e0a\u4f20\u5750\u6807",
+        "name": "上传坐标",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3137,9 +3137,9 @@
     },
     "229001": {
         "dice_type": 207,
-        "name": "\u88c5\u5907\u5230\u624b\u90e8",
+        "name": "装备到手部",
         "diceevent_type": 0,
-        "des": "\u83b7\u5f97<color=#FF9500>25</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>25</color>点行动值",
         "lock_tips": "",
         "id": 229001,
         "new_warchess_event": 229001,
@@ -3151,9 +3151,9 @@
     },
     "229002": {
         "dice_type": 33,
-        "name": "\u88c5\u5907\u5230\u811a\u90e8",
+        "name": "装备到脚部",
         "diceevent_type": 0,
-        "des": "\u83b7\u5f97<color=#FF9500>20</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>20</color>点行动值",
         "lock_tips": "",
         "id": 229002,
         "new_warchess_event": 229002,
@@ -3165,7 +3165,7 @@
     },
     "229003": {
         "dice_type": 0,
-        "name": "\u5c31\u8981\u76f4\u63a5\u7528",
+        "name": "就要直接用",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3179,7 +3179,7 @@
     },
     "229031": {
         "dice_type": 0,
-        "name": "\u9003\u8dd1",
+        "name": "逃跑",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3192,9 +3192,9 @@
     },
     "230001": {
         "dice_type": 8,
-        "name": "\u5c0f\u5fc3\u901a\u8fc7",
+        "name": "小心通过",
         "diceevent_type": 0,
-        "des": "\u5168\u961f\u5931\u53bb<color=#FF9500>20%</color>\u751f\u547d\u503c\uff0c\u83b7\u5f97<color=#FF9500>20</color>\u70b9\u884c\u52a8\u503c",
+        "des": "全队失去<color=#FF9500>20%</color>生命值，获得<color=#FF9500>20</color>点行动值",
         "lock_tips": "",
         "id": 230001,
         "new_warchess_event": 230001,
@@ -3206,9 +3206,9 @@
     },
     "230002": {
         "dice_type": 33,
-        "name": "\u5f00\u8f9f\u901a\u9053",
+        "name": "开辟通道",
         "diceevent_type": 0,
-        "des": "\u83b7\u5f97<color=#FF9500>20</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>20</color>点行动值",
         "lock_tips": "",
         "id": 230002,
         "new_warchess_event": 230002,
@@ -3220,7 +3220,7 @@
     },
     "230003": {
         "dice_type": 0,
-        "name": "\u7ffb\u8d8a\u5e9f\u589f",
+        "name": "翻越废墟",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3234,9 +3234,9 @@
     },
     "231001": {
         "dice_type": 13,
-        "name": "\u62ff\u53d6\u7535\u6676\u77f3",
+        "name": "拿取电晶石",
         "diceevent_type": 0,
-        "des": "\u9ab0\u5b50\u70b9\u6570<color=#FF9500>-2</color>\uff0c\u83b7\u5f972\u4e2a<color=#FF9500>1</color>\u70b9\u9ab0\u5b50",
+        "des": "骰子点数<color=#FF9500>-2</color>，获得2个<color=#FF9500>1</color>点骰子",
         "lock_tips": "",
         "id": 231001,
         "new_warchess_event": 231001,
@@ -3248,7 +3248,7 @@
     },
     "231002": {
         "dice_type": 0,
-        "name": "\u89c2\u5bdf\u7535\u6676\u77f3",
+        "name": "观察电晶石",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3262,9 +3262,9 @@
     },
     "232001": {
         "dice_type": 7,
-        "name": "\u7ed9\u51fa\u7b54\u6848",
+        "name": "给出答案",
         "diceevent_type": 0,
-        "des": "\u63ed\u793a\u7b54\u6848",
+        "des": "揭示答案",
         "lock_tips": "",
         "id": 232001,
         "new_warchess_event": 232001,
@@ -3279,7 +3279,7 @@
     },
     "232002": {
         "dice_type": 0,
-        "name": "\u72b9\u8c6b",
+        "name": "犹豫",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3293,7 +3293,7 @@
     },
     "232011": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3306,7 +3306,7 @@
     },
     "232021": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3319,7 +3319,7 @@
     },
     "232031": {
         "dice_type": 0,
-        "name": "\u963b\u6b62\u4ed6",
+        "name": "阻止他",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3339,7 +3339,7 @@
     },
     "232032": {
         "dice_type": 0,
-        "name": "\u9003\u8dd1",
+        "name": "逃跑",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3356,9 +3356,9 @@
     },
     "233001": {
         "dice_type": 8,
-        "name": "\u7ed9\u51fa\u7b54\u6848",
+        "name": "给出答案",
         "diceevent_type": 0,
-        "des": "\u63ed\u793a\u7b54\u6848",
+        "des": "揭示答案",
         "lock_tips": "",
         "id": 233001,
         "new_warchess_event": 233001,
@@ -3373,7 +3373,7 @@
     },
     "233002": {
         "dice_type": 0,
-        "name": "\u72b9\u8c6b",
+        "name": "犹豫",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3387,7 +3387,7 @@
     },
     "233011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3404,7 +3404,7 @@
     },
     "233021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3418,7 +3418,7 @@
     },
     "233031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3431,7 +3431,7 @@
     },
     "233041": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3444,7 +3444,7 @@
     },
     "233051": {
         "dice_type": 0,
-        "name": "\u963b\u6b62\u4ed6",
+        "name": "阻止他",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3464,7 +3464,7 @@
     },
     "233052": {
         "dice_type": 0,
-        "name": "\u9003\u8dd1",
+        "name": "逃跑",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3481,9 +3481,9 @@
     },
     "234001": {
         "dice_type": 210,
-        "name": "\u5411\u7c73\u52d2\u81f4\u4ee5\u656c\u610f",
+        "name": "向米勒致以敬意",
         "diceevent_type": 0,
-        "des": "\u83b7\u5f97<color=#FF9500>30</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>30</color>点行动值",
         "lock_tips": "",
         "id": 234001,
         "new_warchess_event": 234001,
@@ -3495,7 +3495,7 @@
     },
     "234002": {
         "dice_type": 0,
-        "name": "\u4ed4\u7ec6\u67e5\u770b\u5c55\u53f0",
+        "name": "仔细查看展台",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3509,9 +3509,9 @@
     },
     "235001": {
         "dice_type": 7,
-        "name": "\u559d\u4e00\u4e9b",
+        "name": "喝一些",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 235001,
         "new_warchess_event": 235001,
@@ -3523,7 +3523,7 @@
     },
     "235002": {
         "dice_type": 0,
-        "name": "\u5de5\u4f5c\u8981\u7d27",
+        "name": "工作要紧",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3537,9 +3537,9 @@
     },
     "235011": {
         "dice_type": 7,
-        "name": "\u518d\u6765\u4e00\u4e9b",
+        "name": "再来一些",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 235011,
         "new_warchess_event": 235001,
@@ -3551,7 +3551,7 @@
     },
     "235012": {
         "dice_type": 0,
-        "name": "\u5de5\u4f5c\u8981\u7d27",
+        "name": "工作要紧",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3565,9 +3565,9 @@
     },
     "236001": {
         "dice_type": 31,
-        "name": "\u653e\u5165\u4ee3\u5e01",
+        "name": "放入代币",
         "diceevent_type": 0,
-        "des": "\u9ab0\u5b50\u70b9\u6570<color=#FF9500>+1</color>",
+        "des": "骰子点数<color=#FF9500>+1</color>",
         "lock_tips": "",
         "id": 236001,
         "new_warchess_event": 236001,
@@ -3579,9 +3579,9 @@
     },
     "236002": {
         "dice_type": 32,
-        "name": "\u653e\u5165\u786c\u5e01",
+        "name": "放入硬币",
         "diceevent_type": 0,
-        "des": "\u9ab0\u5b50\u70b9\u6570<color=#FF9500>\u51cf\u534a</color>",
+        "des": "骰子点数<color=#FF9500>减半</color>",
         "lock_tips": "",
         "id": 236002,
         "new_warchess_event": 236002,
@@ -3593,7 +3593,7 @@
     },
     "236003": {
         "dice_type": 0,
-        "name": "\u76f4\u63a5\u62c6\u5f00",
+        "name": "直接拆开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3607,7 +3607,7 @@
     },
     "236011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3621,7 +3621,7 @@
     },
     "236021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3635,7 +3635,7 @@
     },
     "237001": {
         "dice_type": 0,
-        "name": "\u4e0a\u524d\u5e2e\u5fd9",
+        "name": "上前帮忙",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3649,7 +3649,7 @@
     },
     "237002": {
         "dice_type": 0,
-        "name": "\u89c2\u5bdf\u60c5\u51b5",
+        "name": "观察情况",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3663,7 +3663,7 @@
     },
     "237011": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3683,7 +3683,7 @@
     },
     "237012": {
         "dice_type": 0,
-        "name": "\u64a4\u9000",
+        "name": "撤退",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3700,7 +3700,7 @@
     },
     "237031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3713,7 +3713,7 @@
     },
     "237041": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3726,9 +3726,9 @@
     },
     "238001": {
         "dice_type": 3,
-        "name": "\u7834\u89e3\u5bc6\u7801",
+        "name": "破解密码",
         "diceevent_type": 0,
-        "des": "\u7834\u89e3\u7b2c\u4e00\u4f4d\u5bc6\u7801",
+        "des": "破解第一位密码",
         "lock_tips": "",
         "id": 238001,
         "new_warchess_event": 0,
@@ -3740,9 +3740,9 @@
     },
     "238002": {
         "dice_type": 313,
-        "name": "\u5f3a\u884c\u7834\u95e8",
+        "name": "强行破门",
         "diceevent_type": 0,
-        "des": "\u83b7\u5f97<color=#FF9500>30</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>30</color>点行动值",
         "lock_tips": "",
         "id": 238002,
         "new_warchess_event": 238002,
@@ -3754,7 +3754,7 @@
     },
     "238003": {
         "dice_type": 0,
-        "name": "\u53e6\u5bfb\u4ed6\u6cd5",
+        "name": "另寻他法",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3771,7 +3771,7 @@
     },
     "238004": {
         "dice_type": 0,
-        "name": "\u65e0\u5948\u9690\u853d",
+        "name": "无奈隐蔽",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3788,7 +3788,7 @@
     },
     "238011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3802,7 +3802,7 @@
     },
     "238031": {
         "dice_type": 0,
-        "name": "\u8fdb\u5165\u6218\u6597",
+        "name": "进入战斗",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3819,7 +3819,7 @@
     },
     "238041": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3832,9 +3832,9 @@
     },
     "238051": {
         "dice_type": 2,
-        "name": "\u8f85\u52a9\u7834\u89e3",
+        "name": "辅助破解",
         "diceevent_type": 0,
-        "des": "\u7834\u89e3\u7b2c\u4e8c\u4f4d\u5bc6\u7801",
+        "des": "破解第二位密码",
         "lock_tips": "",
         "id": 238051,
         "new_warchess_event": 0,
@@ -3846,9 +3846,9 @@
     },
     "238052": {
         "dice_type": 313,
-        "name": "\u5f3a\u884c\u7834\u95e8",
+        "name": "强行破门",
         "diceevent_type": 0,
-        "des": "\u83b7\u5f97<color=#FF9500>30</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>30</color>点行动值",
         "lock_tips": "",
         "id": 238052,
         "new_warchess_event": 238002,
@@ -3860,7 +3860,7 @@
     },
     "238053": {
         "dice_type": 0,
-        "name": "\u53e6\u5bfb\u4ed6\u6cd5",
+        "name": "另寻他法",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3877,7 +3877,7 @@
     },
     "238054": {
         "dice_type": 0,
-        "name": "\u65e0\u5948\u9690\u853d",
+        "name": "无奈隐蔽",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3894,7 +3894,7 @@
     },
     "238061": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3908,9 +3908,9 @@
     },
     "238071": {
         "dice_type": 1,
-        "name": "\u52a0\u5f3a\u7834\u89e3",
+        "name": "加强破解",
         "diceevent_type": 0,
-        "des": "\u7834\u89e3\u7b2c\u4e09\u4f4d\u5bc6\u7801\uff0c\u83b7\u5f97<color=#FF9500>30</color>\u70b9\u884c\u52a8\u503c",
+        "des": "破解第三位密码，获得<color=#FF9500>30</color>点行动值",
         "lock_tips": "",
         "id": 238071,
         "new_warchess_event": 238071,
@@ -3922,9 +3922,9 @@
     },
     "238072": {
         "dice_type": 313,
-        "name": "\u5f3a\u884c\u7834\u95e8",
+        "name": "强行破门",
         "diceevent_type": 0,
-        "des": "\u83b7\u5f97<color=#FF9500>30</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>30</color>点行动值",
         "lock_tips": "",
         "id": 238072,
         "new_warchess_event": 238002,
@@ -3936,7 +3936,7 @@
     },
     "238073": {
         "dice_type": 0,
-        "name": "\u53e6\u5bfb\u4ed6\u6cd5",
+        "name": "另寻他法",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3953,7 +3953,7 @@
     },
     "238074": {
         "dice_type": 0,
-        "name": "\u65e0\u5948\u9690\u853d",
+        "name": "无奈隐蔽",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -3970,9 +3970,9 @@
     },
     "239001": {
         "dice_type": 7,
-        "name": "\u5237\u5458\u5de5\u5361",
+        "name": "刷员工卡",
         "diceevent_type": 1301,
-        "des": "\u83b7\u5f97<color=#FF9500>%s</color>\u70b9\u884c\u52a8\u503c\u5e76<color=#FF9500>\u8fd4\u8fd8</color>\u9ab0\u5b50",
+        "des": "获得<color=#FF9500>%s</color>点行动值并<color=#FF9500>返还</color>骰子",
         "lock_tips": "",
         "id": 239001,
         "new_warchess_event": 239001,
@@ -3984,9 +3984,9 @@
     },
     "239002": {
         "dice_type": 7,
-        "name": "\u76f4\u63a5\u7834\u574f",
+        "name": "直接破坏",
         "diceevent_type": 1303,
-        "des": "\u83b7\u5f97<color=#FF9500>%s</color>\u70b9\u884c\u52a8\u503c",
+        "des": "获得<color=#FF9500>%s</color>点行动值",
         "lock_tips": "",
         "id": 239002,
         "new_warchess_event": 239002,
@@ -3998,7 +3998,7 @@
     },
     "239003": {
         "dice_type": 0,
-        "name": "\u7ffb\u627e\u5427\u53f0",
+        "name": "翻找吧台",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4012,9 +4012,9 @@
     },
     "240001": {
         "dice_type": 23,
-        "name": "\u5e0c\u671b\u52a0\u65b0\u529f\u80fd",
+        "name": "希望加新功能",
         "diceevent_type": 1301,
-        "des": "\u6240\u6709\u9ab0\u5b50\u70b9\u6570<color=#FF9500>+%s</color>\u5e76<color=#FF9500>\u8fd4\u8fd8</color>\u9ab0\u5b50",
+        "des": "所有骰子点数<color=#FF9500>+%s</color>并<color=#FF9500>返还</color>骰子",
         "lock_tips": "",
         "id": 240001,
         "new_warchess_event": 240001,
@@ -4026,9 +4026,9 @@
     },
     "240002": {
         "dice_type": 25,
-        "name": "\u5e0c\u671b\u88c5\u5907\u72b6\u6001\u4e00\u81f4",
+        "name": "希望装备状态一致",
         "diceevent_type": 1301,
-        "des": "\u6240\u6709\u9ab0\u5b50\u70b9\u6570\u53d8\u4e3a<color=#FF9500>%s</color>\u5e76<color=#FF9500>\u8fd4\u8fd8</color>\u9ab0\u5b50",
+        "des": "所有骰子点数变为<color=#FF9500>%s</color>并<color=#FF9500>返还</color>骰子",
         "lock_tips": "",
         "id": 240002,
         "new_warchess_event": 240002,
@@ -4040,7 +4040,7 @@
     },
     "240003": {
         "dice_type": 0,
-        "name": "\u53bb\u5176\u4ed6\u901a\u8baf\u7ad9\u70b9",
+        "name": "去其他通讯站点",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4054,9 +4054,9 @@
     },
     "241001": {
         "dice_type": 7,
-        "name": "\u5c1d\u8bd5\u8f93\u5165",
+        "name": "尝试输入",
         "diceevent_type": 1301,
-        "des": "\u8f93\u5165<color=#FF9500>\u300c%s\u300d</color>\u9a8c\u8bc1\u5bc6\u7801\uff0c\u83b7\u5f97<color=#FF9500>5</color>\u70b9\u884c\u52a8\u503c",
+        "des": "输入<color=#FF9500>「%s」</color>验证密码，获得<color=#FF9500>5</color>点行动值",
         "lock_tips": "",
         "id": 241001,
         "new_warchess_event": 241001,
@@ -4085,7 +4085,7 @@
     },
     "241002": {
         "dice_type": 0,
-        "name": "\u653e\u5f03",
+        "name": "放弃",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4098,9 +4098,9 @@
     },
     "241011": {
         "dice_type": 7,
-        "name": "\u5c1d\u8bd5\u6dfb\u52a0",
+        "name": "尝试添加",
         "diceevent_type": 1301,
-        "des": "\u5c06\u539f\u5bc6\u7801<color=#FF9500>+%s</color>\u5e76\u9a8c\u8bc1\uff0c\u83b7\u5f97<color=#FF9500>5</color>\u70b9\u884c\u52a8\u503c",
+        "des": "将原密码<color=#FF9500>+%s</color>并验证，获得<color=#FF9500>5</color>点行动值",
         "lock_tips": "",
         "id": 241011,
         "new_warchess_event": 241011,
@@ -4129,7 +4129,7 @@
     },
     "241012": {
         "dice_type": 0,
-        "name": "\u653e\u5f03",
+        "name": "放弃",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4142,9 +4142,9 @@
     },
     "241021": {
         "dice_type": 7,
-        "name": "\u5c1d\u8bd5\u51cf\u5c11",
+        "name": "尝试减少",
         "diceevent_type": 1301,
-        "des": "\u5c06\u539f\u5bc6\u7801<color=#FF9500>-%s</color>\u5e76\u9a8c\u8bc1\uff0c\u83b7\u5f97<color=#FF9500>5</color>\u70b9\u884c\u52a8\u503c",
+        "des": "将原密码<color=#FF9500>-%s</color>并验证，获得<color=#FF9500>5</color>点行动值",
         "lock_tips": "",
         "id": 241021,
         "new_warchess_event": 241021,
@@ -4173,7 +4173,7 @@
     },
     "241022": {
         "dice_type": 0,
-        "name": "\u653e\u5f03",
+        "name": "放弃",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4186,7 +4186,7 @@
     },
     "241031": {
         "dice_type": 0,
-        "name": "\u4e0b\u8f7d\u6570\u636e",
+        "name": "下载数据",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4199,9 +4199,9 @@
     },
     "242001": {
         "dice_type": 7,
-        "name": "\u63a5\u4e0a\u7535\u6e90",
+        "name": "接上电源",
         "diceevent_type": 1103,
-        "des": "\u7167\u4eae\u5468\u56f4<color=#FF9500>%s</color>\u683c\u5185\u7684\u533a\u57df",
+        "des": "照亮周围<color=#FF9500>%s</color>格内的区域",
         "lock_tips": "",
         "id": 242001,
         "new_warchess_event": 242001,
@@ -4213,7 +4213,7 @@
     },
     "242002": {
         "dice_type": 0,
-        "name": "\u6478\u9ed1\u524d\u8fdb",
+        "name": "摸黑前进",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4227,7 +4227,7 @@
     },
     "242011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed\u524d\u8fdb",
+        "name": "继续前进",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4240,7 +4240,7 @@
     },
     "242021": {
         "dice_type": 0,
-        "name": "\u6536\u597d\uff0c\u7ee7\u7eed\u524d\u8fdb",
+        "name": "收好，继续前进",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4253,7 +4253,7 @@
     },
     "243001": {
         "dice_type": 0,
-        "name": "\u770b\u7b2c\u4e00\u6761",
+        "name": "看第一条",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4267,7 +4267,7 @@
     },
     "243002": {
         "dice_type": 0,
-        "name": "\u770b\u7b2c\u4e8c\u6761",
+        "name": "看第二条",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4281,7 +4281,7 @@
     },
     "243003": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed\u4efb\u52a1",
+        "name": "继续任务",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4295,9 +4295,9 @@
     },
     "243011": {
         "dice_type": 36,
-        "name": "\u63d0\u4f9b\u5e2e\u52a9",
+        "name": "提供帮助",
         "diceevent_type": 0,
-        "des": "\u9a8c\u8bc1\u5bc6\u7801",
+        "des": "验证密码",
         "lock_tips": "",
         "id": 243011,
         "new_warchess_event": 0,
@@ -4391,7 +4391,7 @@
     },
     "243012": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de\u6c42\u52a9\u7248",
+        "name": "返回求助版",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4405,7 +4405,7 @@
     },
     "243021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4418,7 +4418,7 @@
     },
     "243031": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4431,9 +4431,9 @@
     },
     "243041": {
         "dice_type": 35,
-        "name": "\u63d0\u4f9b\u5e2e\u52a9",
+        "name": "提供帮助",
         "diceevent_type": 0,
-        "des": "\u9a8c\u8bc1\u5bc6\u7801",
+        "des": "验证密码",
         "lock_tips": "",
         "id": 243041,
         "new_warchess_event": 0,
@@ -4468,7 +4468,7 @@
     },
     "243042": {
         "dice_type": 0,
-        "name": "\u8fd4\u56de\u6c42\u52a9\u7248",
+        "name": "返回求助版",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4482,7 +4482,7 @@
     },
     "243051": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4495,7 +4495,7 @@
     },
     "243061": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4508,7 +4508,7 @@
     },
     "243071": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4521,9 +4521,9 @@
     },
     "244001": {
         "dice_type": 37,
-        "name": "\u89e3\u5bc6",
+        "name": "解密",
         "diceevent_type": 0,
-        "des": "\u9a8c\u8bc1\u5bc6\u7801",
+        "des": "验证密码",
         "lock_tips": "",
         "id": 244001,
         "new_warchess_event": 0,
@@ -4665,7 +4665,7 @@
     },
     "244002": {
         "dice_type": 0,
-        "name": "\u7b49\u5f85",
+        "name": "等待",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4679,7 +4679,7 @@
     },
     "244011": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4692,7 +4692,7 @@
     },
     "244021": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4705,7 +4705,7 @@
     },
     "244031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4718,9 +4718,9 @@
     },
     "301001": {
         "dice_type": 14,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
         "lock_tips": "",
         "id": 301001,
         "new_warchess_event": 0,
@@ -4732,7 +4732,7 @@
     },
     "301002": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4746,7 +4746,7 @@
     },
     "301011": {
         "dice_type": 0,
-        "name": "\u63a5\u5e94\u90e8\u961f\uff0c\u7ee7\u7eed\u524d\u8fdb",
+        "name": "接应部队，继续前进",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4759,9 +4759,9 @@
     },
     "302001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 302001,
         "new_warchess_event": 302001,
@@ -4773,9 +4773,9 @@
     },
     "302002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 302002,
         "new_warchess_event": 302002,
@@ -4787,9 +4787,9 @@
     },
     "302003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 302003,
         "new_warchess_event": 0,
@@ -4806,7 +4806,7 @@
     },
     "302004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4819,7 +4819,7 @@
     },
     "302011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4833,7 +4833,7 @@
     },
     "302021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4847,7 +4847,7 @@
     },
     "302031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4860,10 +4860,10 @@
     },
     "303001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
         "des": "",
-        "lock_tips": "\u8c03\u67e5\u5f02\u5e38\u4fe1\u53f7\u540e\u89e3\u9501",
+        "lock_tips": "调查异常信号后解锁",
         "id": 303001,
         "new_warchess_event": 303001,
         "self_state_event": "",
@@ -4874,7 +4874,7 @@
     },
     "303002": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4888,7 +4888,7 @@
     },
     "303011": {
         "dice_type": 0,
-        "name": "\u8c03\u67e5\u4fe1\u53f7",
+        "name": "调查信号",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4902,7 +4902,7 @@
     },
     "303031": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4915,9 +4915,9 @@
     },
     "304001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 304001,
         "new_warchess_event": 304001,
@@ -4929,9 +4929,9 @@
     },
     "304002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 304002,
         "new_warchess_event": 304002,
@@ -4943,7 +4943,7 @@
     },
     "304003": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4956,7 +4956,7 @@
     },
     "304011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4970,7 +4970,7 @@
     },
     "304021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4984,7 +4984,7 @@
     },
     "311001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -4998,7 +4998,7 @@
     },
     "311002": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5012,10 +5012,10 @@
     },
     "311003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
         "des": "",
-        "lock_tips": "\u8c03\u67e5\u5f02\u5e38\u4fe1\u53f7\u540e\u89e3\u9501",
+        "lock_tips": "调查异常信号后解锁",
         "id": 311003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -5026,7 +5026,7 @@
     },
     "311004": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5040,7 +5040,7 @@
     },
     "311011": {
         "dice_type": 0,
-        "name": "\u8c03\u67e5\u4fe1\u53f7",
+        "name": "调查信号",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5054,7 +5054,7 @@
     },
     "311021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5067,9 +5067,9 @@
     },
     "312001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 312001,
         "new_warchess_event": 312001,
@@ -5081,9 +5081,9 @@
     },
     "312002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 312002,
         "new_warchess_event": 312002,
@@ -5095,9 +5095,9 @@
     },
     "312003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 312003,
         "new_warchess_event": 0,
@@ -5114,7 +5114,7 @@
     },
     "312004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5127,7 +5127,7 @@
     },
     "312011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5141,7 +5141,7 @@
     },
     "312021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5155,7 +5155,7 @@
     },
     "312031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5168,7 +5168,7 @@
     },
     "312032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5186,7 +5186,7 @@
     },
     "312033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5204,7 +5204,7 @@
     },
     "313001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5218,7 +5218,7 @@
     },
     "313002": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5232,10 +5232,10 @@
     },
     "313003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
         "des": "",
-        "lock_tips": "\u6e05\u9664\u9ab8\u80fd\u5a01\u80c1\u540e\u89e3\u9501",
+        "lock_tips": "清除骸能威胁后解锁",
         "id": 313003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -5246,7 +5246,7 @@
     },
     "313004": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5260,7 +5260,7 @@
     },
     "313011": {
         "dice_type": 0,
-        "name": "\u6e05\u9664\u89c6\u9ab8",
+        "name": "清除视骸",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5274,7 +5274,7 @@
     },
     "313021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5287,9 +5287,9 @@
     },
     "314001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 314001,
         "new_warchess_event": 314001,
@@ -5301,9 +5301,9 @@
     },
     "314002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 314002,
         "new_warchess_event": 314002,
@@ -5315,9 +5315,9 @@
     },
     "314003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 314003,
         "new_warchess_event": 0,
@@ -5334,7 +5334,7 @@
     },
     "314004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5347,7 +5347,7 @@
     },
     "314011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5361,7 +5361,7 @@
     },
     "314021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5375,7 +5375,7 @@
     },
     "314031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5388,7 +5388,7 @@
     },
     "314032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5406,7 +5406,7 @@
     },
     "314033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5424,7 +5424,7 @@
     },
     "315001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5438,7 +5438,7 @@
     },
     "315002": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5452,10 +5452,10 @@
     },
     "315003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
         "des": "",
-        "lock_tips": "\u627e\u5230\u76ee\u6807\u8d44\u6599\u540e\u89e3\u9501",
+        "lock_tips": "找到目标资料后解锁",
         "id": 315003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -5466,7 +5466,7 @@
     },
     "315004": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5480,7 +5480,7 @@
     },
     "315011": {
         "dice_type": 0,
-        "name": "\u641c\u67e5\u533a\u57df",
+        "name": "搜查区域",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5494,7 +5494,7 @@
     },
     "315021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5507,9 +5507,9 @@
     },
     "316001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 316001,
         "new_warchess_event": 316001,
@@ -5521,9 +5521,9 @@
     },
     "316002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 316002,
         "new_warchess_event": 316002,
@@ -5535,9 +5535,9 @@
     },
     "316003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 316003,
         "new_warchess_event": 0,
@@ -5554,7 +5554,7 @@
     },
     "316004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5567,7 +5567,7 @@
     },
     "316011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5581,7 +5581,7 @@
     },
     "316021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5595,7 +5595,7 @@
     },
     "316031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5608,7 +5608,7 @@
     },
     "316032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5626,7 +5626,7 @@
     },
     "316033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5644,7 +5644,7 @@
     },
     "321001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5658,7 +5658,7 @@
     },
     "321002": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5672,10 +5672,10 @@
     },
     "321003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
         "des": "",
-        "lock_tips": "\u8c03\u67e5\u5f02\u5e38\u4fe1\u53f7\u540e\u89e3\u9501",
+        "lock_tips": "调查异常信号后解锁",
         "id": 321003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -5686,7 +5686,7 @@
     },
     "321004": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5700,7 +5700,7 @@
     },
     "321011": {
         "dice_type": 0,
-        "name": "\u8c03\u67e5\u4fe1\u53f7",
+        "name": "调查信号",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5714,7 +5714,7 @@
     },
     "321021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5727,9 +5727,9 @@
     },
     "322001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 322001,
         "new_warchess_event": 322001,
@@ -5741,9 +5741,9 @@
     },
     "322002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 322002,
         "new_warchess_event": 322002,
@@ -5755,9 +5755,9 @@
     },
     "322003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 322003,
         "new_warchess_event": 0,
@@ -5774,7 +5774,7 @@
     },
     "322004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5787,7 +5787,7 @@
     },
     "322011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5801,7 +5801,7 @@
     },
     "322021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5815,7 +5815,7 @@
     },
     "322031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5828,7 +5828,7 @@
     },
     "322032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5846,7 +5846,7 @@
     },
     "322033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5864,7 +5864,7 @@
     },
     "322034": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5882,7 +5882,7 @@
     },
     "323001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5896,7 +5896,7 @@
     },
     "323002": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5910,10 +5910,10 @@
     },
     "323003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
         "des": "",
-        "lock_tips": "\u6e05\u9664\u9ab8\u80fd\u5a01\u80c1\u540e\u89e3\u9501",
+        "lock_tips": "清除骸能威胁后解锁",
         "id": 323003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -5924,7 +5924,7 @@
     },
     "323004": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5938,7 +5938,7 @@
     },
     "323011": {
         "dice_type": 0,
-        "name": "\u6e05\u9664\u89c6\u9ab8",
+        "name": "清除视骸",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5952,7 +5952,7 @@
     },
     "323021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -5965,9 +5965,9 @@
     },
     "324001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 324001,
         "new_warchess_event": 324001,
@@ -5979,9 +5979,9 @@
     },
     "324002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 324002,
         "new_warchess_event": 324002,
@@ -5993,9 +5993,9 @@
     },
     "324003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 324003,
         "new_warchess_event": 0,
@@ -6012,7 +6012,7 @@
     },
     "324004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6025,7 +6025,7 @@
     },
     "324011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6039,7 +6039,7 @@
     },
     "324021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6053,7 +6053,7 @@
     },
     "324031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6066,7 +6066,7 @@
     },
     "324032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6084,7 +6084,7 @@
     },
     "324033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6102,7 +6102,7 @@
     },
     "324034": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6120,7 +6120,7 @@
     },
     "325001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6134,7 +6134,7 @@
     },
     "325002": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6148,10 +6148,10 @@
     },
     "325003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
         "des": "",
-        "lock_tips": "\u627e\u5230\u76ee\u6807\u8d44\u6599\u540e\u89e3\u9501",
+        "lock_tips": "找到目标资料后解锁",
         "id": 325003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -6162,7 +6162,7 @@
     },
     "325004": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6176,7 +6176,7 @@
     },
     "325011": {
         "dice_type": 0,
-        "name": "\u641c\u67e5\u533a\u57df",
+        "name": "搜查区域",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6190,7 +6190,7 @@
     },
     "325021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6203,9 +6203,9 @@
     },
     "326001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 326001,
         "new_warchess_event": 326001,
@@ -6217,9 +6217,9 @@
     },
     "326002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 326002,
         "new_warchess_event": 326002,
@@ -6231,9 +6231,9 @@
     },
     "326003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 326003,
         "new_warchess_event": 0,
@@ -6250,7 +6250,7 @@
     },
     "326004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6263,7 +6263,7 @@
     },
     "326011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6277,7 +6277,7 @@
     },
     "326021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6291,7 +6291,7 @@
     },
     "326031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6304,7 +6304,7 @@
     },
     "326032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6322,7 +6322,7 @@
     },
     "326033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6340,7 +6340,7 @@
     },
     "326034": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6358,9 +6358,9 @@
     },
     "327001": {
         "dice_type": 313,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
         "lock_tips": "",
         "id": 327001,
         "new_warchess_event": 327001,
@@ -6372,7 +6372,7 @@
     },
     "327002": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6386,9 +6386,9 @@
     },
     "327003": {
         "dice_type": 313,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
         "lock_tips": "",
         "id": 327003,
         "new_warchess_event": 0,
@@ -6400,7 +6400,7 @@
     },
     "327004": {
         "dice_type": 0,
-        "name": "\u6682\u65f6\u6807\u8bb0",
+        "name": "暂时标记",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6414,7 +6414,7 @@
     },
     "327011": {
         "dice_type": 0,
-        "name": "\u63a5\u5e94\u90e8\u961f\uff0c\u7ee7\u7eed\u524d\u8fdb",
+        "name": "接应部队，继续前进",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6427,9 +6427,9 @@
     },
     "328001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 328001,
         "new_warchess_event": 328001,
@@ -6441,9 +6441,9 @@
     },
     "328002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 328002,
         "new_warchess_event": 328002,
@@ -6455,9 +6455,9 @@
     },
     "328003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 328003,
         "new_warchess_event": 0,
@@ -6474,7 +6474,7 @@
     },
     "328004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6487,7 +6487,7 @@
     },
     "328011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6501,7 +6501,7 @@
     },
     "328021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6515,7 +6515,7 @@
     },
     "328031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6528,7 +6528,7 @@
     },
     "328032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6546,7 +6546,7 @@
     },
     "328033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6564,7 +6564,7 @@
     },
     "328034": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6582,9 +6582,9 @@
     },
     "330001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 330001,
         "new_warchess_event": 330001,
@@ -6596,9 +6596,9 @@
     },
     "330002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 330002,
         "new_warchess_event": 330002,
@@ -6610,9 +6610,9 @@
     },
     "330003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 330003,
         "new_warchess_event": 0,
@@ -6624,7 +6624,7 @@
     },
     "330011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6638,7 +6638,7 @@
     },
     "330021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6652,7 +6652,7 @@
     },
     "330031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6665,10 +6665,10 @@
     },
     "331001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u8c03\u67e5\u8d44\u6599\u5e93\u4fe1\u53f7\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "调查资料库信号后解锁",
         "id": 331001,
         "new_warchess_event": 331001,
         "self_state_event": "",
@@ -6679,7 +6679,7 @@
     },
     "331002": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6692,10 +6692,10 @@
     },
     "331003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 331003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -6706,7 +6706,7 @@
     },
     "331004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6719,7 +6719,7 @@
     },
     "331011": {
         "dice_type": 0,
-        "name": "\u8c03\u67e5\u4fe1\u53f7",
+        "name": "调查信号",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6733,7 +6733,7 @@
     },
     "331021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6746,9 +6746,9 @@
     },
     "332001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 332001,
         "new_warchess_event": 332001,
@@ -6760,9 +6760,9 @@
     },
     "332002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 332002,
         "new_warchess_event": 332002,
@@ -6774,9 +6774,9 @@
     },
     "332003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 332003,
         "new_warchess_event": 0,
@@ -6793,7 +6793,7 @@
     },
     "332004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6806,7 +6806,7 @@
     },
     "332011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6820,7 +6820,7 @@
     },
     "332021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6834,7 +6834,7 @@
     },
     "332031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6847,7 +6847,7 @@
     },
     "332032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6865,10 +6865,10 @@
     },
     "333001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 333001,
         "new_warchess_event": 333001,
         "self_state_event": "",
@@ -6879,7 +6879,7 @@
     },
     "333002": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6892,10 +6892,10 @@
     },
     "333003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 333003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -6906,7 +6906,7 @@
     },
     "333004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6919,7 +6919,7 @@
     },
     "333011": {
         "dice_type": 0,
-        "name": "\u8c03\u67e5\u4fe1\u53f7",
+        "name": "调查信号",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6933,7 +6933,7 @@
     },
     "333021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -6946,9 +6946,9 @@
     },
     "334001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 334001,
         "new_warchess_event": 334001,
@@ -6960,9 +6960,9 @@
     },
     "334002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 334002,
         "new_warchess_event": 334002,
@@ -6974,9 +6974,9 @@
     },
     "334003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 334003,
         "new_warchess_event": 0,
@@ -6993,7 +6993,7 @@
     },
     "334004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7006,7 +7006,7 @@
     },
     "334011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7020,7 +7020,7 @@
     },
     "334021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7034,7 +7034,7 @@
     },
     "334031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7047,7 +7047,7 @@
     },
     "334032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7065,10 +7065,10 @@
     },
     "341001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 341001,
         "new_warchess_event": 341001,
         "self_state_event": "",
@@ -7079,7 +7079,7 @@
     },
     "341002": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7092,10 +7092,10 @@
     },
     "341003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 341003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -7106,7 +7106,7 @@
     },
     "341004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7119,7 +7119,7 @@
     },
     "341011": {
         "dice_type": 0,
-        "name": "\u8c03\u67e5\u4fe1\u53f7",
+        "name": "调查信号",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7133,7 +7133,7 @@
     },
     "341021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7146,9 +7146,9 @@
     },
     "342001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 342001,
         "new_warchess_event": 342001,
@@ -7160,9 +7160,9 @@
     },
     "342002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 342002,
         "new_warchess_event": 342002,
@@ -7174,9 +7174,9 @@
     },
     "342003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 342003,
         "new_warchess_event": 0,
@@ -7193,7 +7193,7 @@
     },
     "342004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7206,7 +7206,7 @@
     },
     "342011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7220,7 +7220,7 @@
     },
     "342021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7234,7 +7234,7 @@
     },
     "342031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7247,7 +7247,7 @@
     },
     "342032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7265,7 +7265,7 @@
     },
     "342033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7283,10 +7283,10 @@
     },
     "343001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 343001,
         "new_warchess_event": 343001,
         "self_state_event": "",
@@ -7297,7 +7297,7 @@
     },
     "343002": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7310,10 +7310,10 @@
     },
     "343003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 343003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -7324,7 +7324,7 @@
     },
     "343004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7337,7 +7337,7 @@
     },
     "343011": {
         "dice_type": 0,
-        "name": "\u8c03\u67e5\u4fe1\u53f7",
+        "name": "调查信号",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7351,7 +7351,7 @@
     },
     "343021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7364,9 +7364,9 @@
     },
     "344001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 344001,
         "new_warchess_event": 344001,
@@ -7378,9 +7378,9 @@
     },
     "344002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 344002,
         "new_warchess_event": 344002,
@@ -7392,9 +7392,9 @@
     },
     "344003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 344003,
         "new_warchess_event": 0,
@@ -7411,7 +7411,7 @@
     },
     "344004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7424,7 +7424,7 @@
     },
     "344011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7438,7 +7438,7 @@
     },
     "344021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7452,7 +7452,7 @@
     },
     "344031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7465,7 +7465,7 @@
     },
     "344032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7483,7 +7483,7 @@
     },
     "344033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7501,10 +7501,10 @@
     },
     "345001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 345001,
         "new_warchess_event": 345001,
         "self_state_event": "",
@@ -7515,7 +7515,7 @@
     },
     "345002": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7528,10 +7528,10 @@
     },
     "345003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 345003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -7542,7 +7542,7 @@
     },
     "345004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7555,7 +7555,7 @@
     },
     "345011": {
         "dice_type": 0,
-        "name": "\u8c03\u67e5\u4fe1\u53f7",
+        "name": "调查信号",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7569,7 +7569,7 @@
     },
     "345021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7582,9 +7582,9 @@
     },
     "346001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 346001,
         "new_warchess_event": 346001,
@@ -7596,9 +7596,9 @@
     },
     "346002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 346002,
         "new_warchess_event": 346002,
@@ -7610,9 +7610,9 @@
     },
     "346003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 346003,
         "new_warchess_event": 0,
@@ -7629,7 +7629,7 @@
     },
     "346004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7642,7 +7642,7 @@
     },
     "346011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7656,7 +7656,7 @@
     },
     "346021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7670,7 +7670,7 @@
     },
     "346031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7683,7 +7683,7 @@
     },
     "346032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7701,7 +7701,7 @@
     },
     "346033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7719,10 +7719,10 @@
     },
     "351001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 351001,
         "new_warchess_event": 351001,
         "self_state_event": "",
@@ -7733,7 +7733,7 @@
     },
     "351002": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7746,10 +7746,10 @@
     },
     "351003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 351003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -7760,7 +7760,7 @@
     },
     "351004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7773,7 +7773,7 @@
     },
     "351011": {
         "dice_type": 0,
-        "name": "\u8c03\u67e5\u4fe1\u53f7",
+        "name": "调查信号",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7787,7 +7787,7 @@
     },
     "351021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7800,9 +7800,9 @@
     },
     "352001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 352001,
         "new_warchess_event": 352001,
@@ -7814,9 +7814,9 @@
     },
     "352002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 352002,
         "new_warchess_event": 352002,
@@ -7828,9 +7828,9 @@
     },
     "352003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 352003,
         "new_warchess_event": 0,
@@ -7847,7 +7847,7 @@
     },
     "352004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7860,7 +7860,7 @@
     },
     "352011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7874,7 +7874,7 @@
     },
     "352021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7888,7 +7888,7 @@
     },
     "352031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7901,7 +7901,7 @@
     },
     "352032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7919,7 +7919,7 @@
     },
     "352033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7937,7 +7937,7 @@
     },
     "352034": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7955,10 +7955,10 @@
     },
     "353001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 353001,
         "new_warchess_event": 353001,
         "self_state_event": "",
@@ -7969,7 +7969,7 @@
     },
     "353002": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -7982,10 +7982,10 @@
     },
     "353003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 353003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -7996,7 +7996,7 @@
     },
     "353004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8009,7 +8009,7 @@
     },
     "353011": {
         "dice_type": 0,
-        "name": "\u8c03\u67e5\u4fe1\u53f7",
+        "name": "调查信号",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8023,7 +8023,7 @@
     },
     "353021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8036,9 +8036,9 @@
     },
     "354001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 354001,
         "new_warchess_event": 354001,
@@ -8050,9 +8050,9 @@
     },
     "354002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 354002,
         "new_warchess_event": 354002,
@@ -8064,9 +8064,9 @@
     },
     "354003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 354003,
         "new_warchess_event": 0,
@@ -8083,7 +8083,7 @@
     },
     "354004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8096,7 +8096,7 @@
     },
     "354011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8110,7 +8110,7 @@
     },
     "354021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8124,7 +8124,7 @@
     },
     "354031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8137,7 +8137,7 @@
     },
     "354032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8155,7 +8155,7 @@
     },
     "354033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8173,7 +8173,7 @@
     },
     "354034": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8191,10 +8191,10 @@
     },
     "355001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 355001,
         "new_warchess_event": 355001,
         "self_state_event": "",
@@ -8205,7 +8205,7 @@
     },
     "355002": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8218,10 +8218,10 @@
     },
     "355003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 355003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -8232,7 +8232,7 @@
     },
     "355004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8245,7 +8245,7 @@
     },
     "355011": {
         "dice_type": 0,
-        "name": "\u8c03\u67e5\u4fe1\u53f7",
+        "name": "调查信号",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8259,7 +8259,7 @@
     },
     "355021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8272,9 +8272,9 @@
     },
     "356001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 356001,
         "new_warchess_event": 356001,
@@ -8286,9 +8286,9 @@
     },
     "356002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 356002,
         "new_warchess_event": 356002,
@@ -8300,9 +8300,9 @@
     },
     "356003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 356003,
         "new_warchess_event": 0,
@@ -8319,7 +8319,7 @@
     },
     "356004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8332,7 +8332,7 @@
     },
     "356011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8346,7 +8346,7 @@
     },
     "356021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8360,7 +8360,7 @@
     },
     "356031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8373,7 +8373,7 @@
     },
     "356032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8391,7 +8391,7 @@
     },
     "356033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8409,7 +8409,7 @@
     },
     "356034": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8427,10 +8427,10 @@
     },
     "357001": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 357001,
         "new_warchess_event": 357001,
         "self_state_event": "",
@@ -8441,7 +8441,7 @@
     },
     "357002": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8454,10 +8454,10 @@
     },
     "357003": {
         "dice_type": 0,
-        "name": "\u5efa\u7acb\u7ad9\u70b9",
+        "name": "建立站点",
         "diceevent_type": 0,
-        "des": "\u5efa\u7acb<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>",
-        "lock_tips": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1\u540e\u89e3\u9501",
+        "des": "建立<color=#FF9500>「通讯站点」</color>",
+        "lock_tips": "通过资料库认证后解锁",
         "id": 357003,
         "new_warchess_event": 0,
         "self_state_event": "",
@@ -8468,7 +8468,7 @@
     },
     "357004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8481,7 +8481,7 @@
     },
     "357011": {
         "dice_type": 0,
-        "name": "\u8c03\u67e5\u4fe1\u53f7",
+        "name": "调查信号",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8495,7 +8495,7 @@
     },
     "357021": {
         "dice_type": 0,
-        "name": "\u5173\u95ed\u7ec8\u7aef",
+        "name": "关闭终端",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8508,9 +8508,9 @@
     },
     "358001": {
         "dice_type": 7,
-        "name": "\u8865\u5145\u7269\u8d44",
+        "name": "补充物资",
         "diceevent_type": 1310,
-        "des": "\u6062\u590d\u5168\u961f<color=#FF9500>%s%s</color>\u751f\u547d\u503c",
+        "des": "恢复全队<color=#FF9500>%s%s</color>生命值",
         "lock_tips": "",
         "id": 358001,
         "new_warchess_event": 358001,
@@ -8522,9 +8522,9 @@
     },
     "358002": {
         "dice_type": 7,
-        "name": "\u8c03\u6574\u88c5\u5907",
+        "name": "调整装备",
         "diceevent_type": 0,
-        "des": "\u6062\u590d\u6240\u6709\u6280\u80fd\u4f7f\u7528\u6b21\u6570<color=#FF9500>\u300c\u6bcf\u4e2a\u7ad9\u70b9\u4ec5\u96501\u6b21\u300d</color>",
+        "des": "恢复所有技能使用次数<color=#FF9500>「每个站点仅限1次」</color>",
         "lock_tips": "",
         "id": 358002,
         "new_warchess_event": 358002,
@@ -8536,9 +8536,9 @@
     },
     "358003": {
         "dice_type": 7,
-        "name": "\u6253\u542c\u6d88\u606f",
+        "name": "打听消息",
         "diceevent_type": 0,
-        "des": "\u83b7\u53d6\u65b0\u7684<color=#FF9500>\u300c\u901a\u8baf\u7ad9\u70b9\u300d</color>\u5750\u6807",
+        "des": "获取新的<color=#FF9500>「通讯站点」</color>坐标",
         "lock_tips": "",
         "id": 358003,
         "new_warchess_event": 0,
@@ -8555,7 +8555,7 @@
     },
     "358004": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8568,7 +8568,7 @@
     },
     "358011": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8582,7 +8582,7 @@
     },
     "358021": {
         "dice_type": 0,
-        "name": "\u7ee7\u7eed",
+        "name": "继续",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8596,7 +8596,7 @@
     },
     "358031": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8609,7 +8609,7 @@
     },
     "358032": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8627,7 +8627,7 @@
     },
     "358033": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",
@@ -8645,7 +8645,7 @@
     },
     "358034": {
         "dice_type": 0,
-        "name": "\u79bb\u5f00",
+        "name": "离开",
         "diceevent_type": 0,
         "des": "",
         "lock_tips": "",

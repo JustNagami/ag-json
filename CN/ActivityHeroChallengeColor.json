@@ -1,11 +1,11 @@
 {
     "2428701": {
-        "name": "\u5173\u53611",
+        "name": "关卡1",
         "attempt": 10,
         "level_id": 2428701,
         "level_asset_name": "Stage_1",
         "pre_stage": 0,
-        "tips": "\u540c\u4e00\u6761\u7ebf\u8def\u4e2d\u4e0d\u80fd\u5b58\u5728\u76f8\u540c\u7684\u4fee\u6b63\u8005",
+        "tips": "同一条线路中不能存在相同的修正者",
         "activity_id": 242871,
         "tips_icon": "",
         "pallete": [
@@ -25,7 +25,7 @@
         ]
     },
     "2428702": {
-        "name": "\u5173\u53612",
+        "name": "关卡2",
         "attempt": 10,
         "level_id": 2428702,
         "level_asset_name": "Stage_2",
@@ -50,7 +50,7 @@
         ]
     },
     "2428703": {
-        "name": "\u5173\u53613",
+        "name": "关卡3",
         "attempt": 10,
         "level_id": 2428703,
         "level_asset_name": "Stage_3",
@@ -76,7 +76,7 @@
         ]
     },
     "2428704": {
-        "name": "\u5173\u53614",
+        "name": "关卡4",
         "attempt": 10,
         "level_id": 2428704,
         "level_asset_name": "Stage_4",
@@ -102,7 +102,7 @@
         ]
     },
     "2428705": {
-        "name": "\u5173\u53615",
+        "name": "关卡5",
         "attempt": 10,
         "level_id": 2428705,
         "level_asset_name": "Stage_5",
@@ -128,7 +128,7 @@
         ]
     },
     "2428706": {
-        "name": "\u5173\u53616",
+        "name": "关卡6",
         "attempt": 10,
         "level_id": 2428706,
         "level_asset_name": "Stage_6",
@@ -154,7 +154,7 @@
         ]
     },
     "2428707": {
-        "name": "\u5173\u53617",
+        "name": "关卡7",
         "attempt": 10,
         "level_id": 2428707,
         "level_asset_name": "Stage_7",
@@ -180,7 +180,7 @@
         ]
     },
     "2428708": {
-        "name": "\u5173\u53618",
+        "name": "关卡8",
         "attempt": 10,
         "level_id": 2428708,
         "level_asset_name": "Stage_8",
@@ -206,7 +206,7 @@
         ]
     },
     "2428709": {
-        "name": "\u5173\u53619",
+        "name": "关卡9",
         "attempt": 10,
         "level_id": 2428709,
         "level_asset_name": "Stage_9",
@@ -232,12 +232,12 @@
         ]
     },
     "2428710": {
-        "name": "\u5173\u536110",
+        "name": "关卡10",
         "attempt": 10,
         "level_id": 2428710,
         "level_asset_name": "Stage_10",
         "pre_stage": 2428709,
-        "tips": "\u6b64\u7c7b\u578b\u8282\u70b9\u4e24\u8fb9\u89c6\u4e3a\u4e24\u6761\u4e0d\u540c\u7684\u7ebf\u8def",
+        "tips": "此类型节点两边视为两条不同的线路",
         "activity_id": 242871,
         "tips_icon": "TextureConfig/SPHeroChallenge/heroChallenge_img_linkPointTips01",
         "pallete": [
@@ -258,7 +258,7 @@
         ]
     },
     "2428711": {
-        "name": "\u5173\u536111",
+        "name": "关卡11",
         "attempt": 10,
         "level_id": 2428711,
         "level_asset_name": "Stage_11",
@@ -284,7 +284,7 @@
         ]
     },
     "2428712": {
-        "name": "\u5173\u536112",
+        "name": "关卡12",
         "attempt": 10,
         "level_id": 2428712,
         "level_asset_name": "Stage_12",
@@ -310,7 +310,7 @@
         ]
     },
     "2428713": {
-        "name": "\u5173\u536113",
+        "name": "关卡13",
         "attempt": 10,
         "level_id": 2428713,
         "level_asset_name": "Stage_13",
@@ -336,7 +336,7 @@
         ]
     },
     "2428714": {
-        "name": "\u5173\u536114",
+        "name": "关卡14",
         "attempt": 10,
         "level_id": 2428714,
         "level_asset_name": "Stage_14",
@@ -362,7 +362,7 @@
         ]
     },
     "2428715": {
-        "name": "\u5173\u536115",
+        "name": "关卡15",
         "attempt": 10,
         "level_id": 2428715,
         "level_asset_name": "Stage_15",
@@ -388,7 +388,7 @@
         ]
     },
     "2428716": {
-        "name": "\u5173\u536116",
+        "name": "关卡16",
         "attempt": 10,
         "level_id": 2428716,
         "level_asset_name": "Stage_16",
@@ -414,7 +414,7 @@
         ]
     },
     "2428717": {
-        "name": "\u5173\u536117",
+        "name": "关卡17",
         "attempt": 10,
         "level_id": 2428717,
         "level_asset_name": "Stage_17",
@@ -440,7 +440,7 @@
         ]
     },
     "2428718": {
-        "name": "\u5173\u536118",
+        "name": "关卡18",
         "attempt": 10,
         "level_id": 2428718,
         "level_asset_name": "Stage_18",
@@ -466,7 +466,7 @@
         ]
     },
     "2428719": {
-        "name": "\u5173\u536119",
+        "name": "关卡19",
         "attempt": 10,
         "level_id": 2428719,
         "level_asset_name": "Stage_19",
@@ -492,7 +492,7 @@
         ]
     },
     "2428720": {
-        "name": "\u5173\u536120",
+        "name": "关卡20",
         "attempt": 10,
         "level_id": 2428720,
         "level_asset_name": "Stage_20",

@@ -1,6 +1,6 @@
 {
     "30901": {
-        "name": "\u6d77\u5cb8\u9632\u7ebfI",
+        "name": "海岸防线I",
         "pre_stage": 0,
         "activity_id": 303491,
         "max_marbles": 4,
@@ -64,7 +64,7 @@
         ]
     },
     "30902": {
-        "name": "\u6d77\u5cb8\u9632\u7ebfII",
+        "name": "海岸防线II",
         "pre_stage": 30901,
         "activity_id": 303491,
         "max_marbles": 4,
@@ -128,7 +128,7 @@
         ]
     },
     "30903": {
-        "name": "\u6d77\u5cb8\u9632\u7ebfIII",
+        "name": "海岸防线III",
         "pre_stage": 30902,
         "activity_id": 303491,
         "max_marbles": 9,
@@ -192,7 +192,7 @@
         ]
     },
     "30904": {
-        "name": "\u6d77\u5cb8\u9632\u7ebfIV",
+        "name": "海岸防线IV",
         "pre_stage": 30903,
         "activity_id": 303491,
         "max_marbles": 9,
@@ -263,7 +263,7 @@
         ]
     },
     "30905": {
-        "name": "\u8ff7\u96fe\u6df1\u5904I",
+        "name": "迷雾深处I",
         "pre_stage": 0,
         "activity_id": 303492,
         "max_marbles": 4,
@@ -327,7 +327,7 @@
         ]
     },
     "30906": {
-        "name": "\u8ff7\u96fe\u6df1\u5904II",
+        "name": "迷雾深处II",
         "pre_stage": 30905,
         "activity_id": 303492,
         "max_marbles": 4,
@@ -391,7 +391,7 @@
         ]
     },
     "30907": {
-        "name": "\u8ff7\u96fe\u6df1\u5904III",
+        "name": "迷雾深处III",
         "pre_stage": 30906,
         "activity_id": 303492,
         "max_marbles": 9,
@@ -455,7 +455,7 @@
         ]
     },
     "30908": {
-        "name": "\u8ff7\u96fe\u6df1\u5904IV",
+        "name": "迷雾深处IV",
         "pre_stage": 30907,
         "activity_id": 303492,
         "max_marbles": 9,
@@ -526,7 +526,7 @@
         ]
     },
     "30909": {
-        "name": "\u6d77\u5cb8\u9632\u7ebf-\u6311\u6218",
+        "name": "海岸防线-挑战",
         "pre_stage": 30904,
         "activity_id": 303491,
         "max_marbles": 19,
@@ -597,7 +597,7 @@
         ]
     },
     "30910": {
-        "name": "\u8ff7\u96fe\u6df1\u5904-\u6311\u6218",
+        "name": "迷雾深处-挑战",
         "pre_stage": 30908,
         "activity_id": 303492,
         "max_marbles": 19,

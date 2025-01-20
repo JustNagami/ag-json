@@ -1,10 +1,10 @@
 {
     "1": {
-        "name": "\u5723\u5973\u7684\u6218\u65d7",
+        "name": "圣女的战旗",
         "equip_skill_icon": "1",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u6240\u6709\u7684\u6218\u5f79\uff0c\u80dc\u8d1f\u90fd\u5728\u4e8e\u4e00\u5fc3\u3002\u300d",
+        "desc": "「所有的战役，胜负都在于一心。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -16,11 +16,11 @@
         ]
     },
     "2": {
-        "name": "\u7834\u6bc1\u4e4b\u67aa",
+        "name": "破毁之枪",
         "equip_skill_icon": "2",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u636e\u79f0\u5176\u67aa\u80fd\u8d2f\u7a7f\u4e16\u4e0a\u4e07\u7269\u3002\u300d",
+        "desc": "「据称其枪能贯穿世上万物。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -32,11 +32,11 @@
         ]
     },
     "3": {
-        "name": "\u5929\u9e45\u793c\u88c5",
+        "name": "天鹅礼装",
         "equip_skill_icon": "3",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u98de\u821e\u5728\u6218\u573a\u4e0a\uff0c\u8d50\u4e88\u6240\u6709\u6218\u58eb\u7684\u7075\u9b42\u4ee5\u6148\u60b2\u3002\u300d",
+        "desc": "「飞舞在战场上，赐予所有战士的灵魂以慈悲。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -48,11 +48,11 @@
         ]
     },
     "4": {
-        "name": "\u81ea\u594f\u7684\u7ad6\u7434",
+        "name": "自奏的竖琴",
         "equip_skill_icon": "4",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u5bc4\u5bbf\u795e\u79d8\u529b\u91cf\u7ad6\u7434\uff0c\u6b63\u6e29\u67d4\u6d41\u6dcc\u7740\u65cb\u5f8b\u3002\u300d",
+        "desc": "「寄宿神秘力量竖琴，正温柔流淌着旋律。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -64,11 +64,11 @@
         ]
     },
     "5": {
-        "name": "\u5973\u5deb\u7684\u5ba1\u5224",
+        "name": "女巫的审判",
         "equip_skill_icon": "5",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u5f53\u706b\u7130\u71c3\u8d77\uff0c\u55a7\u56a3\u5c06\u5f52\u4e8e\u6c89\u5bc2\u3002\u300d",
+        "desc": "「当火焰燃起，喧嚣将归于沉寂。」",
         "need": 3,
         "inherit_cost_type": 2,
         "equip_type": 0,
@@ -80,11 +80,11 @@
         ]
     },
     "6": {
-        "name": "\u533b\u8005\u7684\u8a93\u8a00",
+        "name": "医者的誓言",
         "equip_skill_icon": "6",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u8bf7\u6c42\u795e\u7947\u8ba9\u6211\u751f\u547d\u4e0e\u533b\u672f\u80fd\u5f97\u65e0\u4e0a\u5149\u8363\uff0c\u6211\u82df\u8fdd\u8a93\uff0c\u5929\u5730\u9b3c\u795e\u5b9e\u5171\u6b9b\u4e4b\u3002\u300d",
+        "desc": "「请求神祇让我生命与医术能得无上光荣，我苟违誓，天地鬼神实共殛之。」",
         "need": 3,
         "inherit_cost_type": 2,
         "equip_type": 0,
@@ -96,11 +96,11 @@
         ]
     },
     "7": {
-        "name": "\u9633\u708e\u7684\u5723\u7532\u866b",
+        "name": "阳炎的圣甲虫",
         "equip_skill_icon": "7",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u592a\u9633\u795e\u7684\u5316\u8eab\u8fd0\u884c\u4e8e\u5929\u9645\u3002\u300d",
+        "desc": "「太阳神的化身运行于天际。」",
         "need": 3,
         "inherit_cost_type": 2,
         "equip_type": 0,
@@ -112,11 +112,11 @@
         ]
     },
     "8": {
-        "name": "\u52c7\u8005\u4e4b\u8bc1",
+        "name": "勇者之证",
         "equip_skill_icon": "8",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u4e0d\u673d\u7684\u8bd5\u70bc\uff0c\u6210\u5c31\u4e86\u52c7\u6c14\u4e4b\u8c61\u5f81\uff01\u300d",
+        "desc": "「不朽的试炼，成就了勇气之象征！」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -128,11 +128,11 @@
         ]
     },
     "9": {
-        "name": "\u9b3c\u6b66\u7684\u96f7\u5207",
+        "name": "鬼武的雷切",
         "equip_skill_icon": "9",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u897f\u56fd\u65e0\u53cc\uff0c\u66fe\u4ee5\u5200\u65a9\u96f7\u5261\u3002\u300d",
+        "desc": "「西国无双，曾以刀斩雷剡。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -144,11 +144,11 @@
         ]
     },
     "10": {
-        "name": "\u8f89\u4e4b\u65b9\u5c16\u7891",
+        "name": "辉之方尖碑",
         "equip_skill_icon": "10",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u613f\u592a\u9633\u6c38\u8fdc\u7167\u8000\u6b27\u8d1d\u5229\u65af\u514b\u3002\u300d",
+        "desc": "「愿太阳永远照耀欧贝利斯克。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -160,11 +160,11 @@
         ]
     },
     "11": {
-        "name": "\u75be\u98ce\u9738\u8005",
+        "name": "疾风霸者",
         "equip_skill_icon": "11",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u4f60\u7aed\u5c3d\u5168\u529b\u6240\u8ffd\u8d76\u7684\uff0c\u4e5f\u4e0d\u8fc7\u662f\u65af\u6469\u592b\u7684\u5f71\u5b50\u800c\u5df2\u3002\u300d",
+        "desc": "「你竭尽全力所追赶的，也不过是斯摩夫的影子而已。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -176,11 +176,11 @@
         ]
     },
     "12": {
-        "name": "\u5919\u591c\u7684\u51b0\u6e0a",
+        "name": "夙夜的冰渊",
         "equip_skill_icon": "12",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u5170\u683c\u7ef4\u7684\u6781\u5bd2\u6c38\u591c\uff0c\u4efb\u4f60\u957f\u7720\u3002\u300d",
+        "desc": "「兰格维的极寒永夜，任你长眠。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -192,11 +192,11 @@
         ]
     },
     "13": {
-        "name": "\u9ed1\u9f20\u7684\u707e\u5384",
+        "name": "黑鼠的灾厄",
         "equip_skill_icon": "13",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u66fe\u7ecf\u8086\u8650\u7684\u9ed1\u8272\u82e6\u96be\uff0c\u81f3\u4eca\u4f9d\u65e7\u5b58\u5728\u4e8e\u4f60\u7684\u5fc3\u4e2d\u3002\u300d",
+        "desc": "「曾经肆虐的黑色苦难，至今依旧存在于你的心中。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -208,11 +208,11 @@
         ]
     },
     "14": {
-        "name": "\u6d77\u4e4b\u6cea\u77f3",
+        "name": "海之泪石",
         "equip_skill_icon": "14",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u90a3\u662f\u4e00\u6ef4\u7ffb\u6d8c\u7740\u7684\u60b2\u4f24\u3002\u300d",
+        "desc": "「那是一滴翻涌着的悲伤。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -224,11 +224,11 @@
         ]
     },
     "15": {
-        "name": "\u539f\u521d\u7684\u4f59\u70ec",
+        "name": "原初的余烬",
         "equip_skill_icon": "15",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u5f53\u4eba\u7c7b\u9ad8\u4e3e\u706b\u7130\u4e4b\u65f6\uff0c\u6587\u660e\u4e4b\u5149\u5c31\u5df2\u8fd1\u5728\u773c\u524d\u3002\u300d",
+        "desc": "「当人类高举火焰之时，文明之光就已近在眼前。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -240,11 +240,11 @@
         ]
     },
     "16": {
-        "name": "\u521d\u59cb\u4e4b\u5723\u5203",
+        "name": "初始之圣刃",
         "equip_skill_icon": "16",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u6b64\u4e3a\u65a9\u65ad\u4e00\u5207\u5e7b\u8c61\u7684\u4e0d\u706d\u4e4b\u5203\uff01\u300d",
+        "desc": "「此为斩断一切幻象的不灭之刃！」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -256,11 +256,11 @@
         ]
     },
     "17": {
-        "name": "\u91d1\u7f8a\u6bdb\u7684\u795d\u798f",
+        "name": "金羊毛的祝福",
         "equip_skill_icon": "17",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u8d50\u4e88\u51e1\u4eba\u65e0\u5c3d\u7684\u8d22\u5bcc\u4e0e\u4e0d\u5c48\u7684\u610f\u5fd7\u3002\u300d",
+        "desc": "「赐予凡人无尽的财富与不屈的意志。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -272,11 +272,11 @@
         ]
     },
     "18": {
-        "name": "\u5251\u5ba2\u7684\u5b88\u5219",
+        "name": "剑客的守则",
         "equip_skill_icon": "18",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u4e0d\u518d\u76f2\u76ee\u5bfb\u627e\u771f\u7406\uff0c\u4e0d\u518d\u4ece\u4f17\u9075\u5faa\u89c4\u5219\u3002\u300d",
+        "desc": "「不再盲目寻找真理，不再从众遵循规则。」",
         "need": 3,
         "inherit_cost_type": 2,
         "equip_type": 0,
@@ -288,11 +288,11 @@
         ]
     },
     "19": {
-        "name": "\u72ee\u9e6b\u4e4b\u50b2",
+        "name": "狮鹫之傲",
         "equip_skill_icon": "19",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u4e58\u7740\u8f7b\u629a\u7fbd\u7ffc\u7684\u98ce\uff0c\u5f00\u59cb\u6c38\u65e0\u6b62\u5883\u7684\u65c5\u884c\u3002\u300d",
+        "desc": "「乘着轻抚羽翼的风，开始永无止境的旅行。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -304,11 +304,11 @@
         ]
     },
     "20": {
-        "name": "\u5c60\u9f99\u7684\u6b4c\u8c23",
+        "name": "屠龙的歌谣",
         "equip_skill_icon": "20",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u4e16\u4e0a\u6240\u6709\u7684\u6b22\u4e50\u5230\u5934\u6765\u90fd\u53d8\u6210\u4e00\u573a\u7978\u6b83\u3002\u300d",
+        "desc": "「世上所有的欢乐到头来都变成一场祸殃。」",
         "need": 3,
         "inherit_cost_type": 2,
         "equip_type": 0,
@@ -320,11 +320,11 @@
         ]
     },
     "21": {
-        "name": "\u6bd4\u7c73\u5c3c\u7684\u6cc9\u6c34",
+        "name": "比米尼的泉水",
         "equip_skill_icon": "21",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u4e0d\u8001\u6cc9\u7684\u4f20\u8bf4\u56e0\u5b83\u800c\u8d77\uff0c\u4e5f\u56e0\u5b83\u800c\u7ec8\u3002\u300d",
+        "desc": "「不老泉的传说因它而起，也因它而终。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -336,11 +336,11 @@
         ]
     },
     "22": {
-        "name": "\u5361\u5415\u51ac\u7684\u6028\u6012",
+        "name": "卡吕冬的怨怒",
         "equip_skill_icon": "22",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u5373\u4fbf\u6124\u6012\u4e0d\u518d\u71c3\u70e7\uff0c\u618e\u6068\u4e5f\u4f1a\u6301\u7eed\u4e0b\u53bb\u3002\u300d",
+        "desc": "「即便愤怒不再燃烧，憎恨也会持续下去。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,
@@ -352,11 +352,11 @@
         ]
     },
     "23": {
-        "name": "\u547d\u8fd0\u4e4b\u86c7",
+        "name": "命运之蛇",
         "equip_skill_icon": "23",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u65e0\u5c3d\u5faa\u73af\uff0c\u771f\u7406\u6c38\u6052\u3002\u300d",
+        "desc": "「无尽循环，真理永恒。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,
@@ -368,11 +368,11 @@
         ]
     },
     "24": {
-        "name": "\u795e\u4e4b\u795d\u91b4",
+        "name": "神之祝醴",
         "equip_skill_icon": "24",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u5927\u795e\u6069\u8d50\u4e4b\u6c34\u3002\u65e2\u662f\u7292\u8d4f\uff0c\u4ea6\u662f\u9752\u7750\u3002\u300d",
+        "desc": "「大神恩赐之水。既是犒赏，亦是青睐。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,
@@ -384,11 +384,11 @@
         ]
     },
     "25": {
-        "name": "\u4e0d\u673d\u4e4b\u8239",
+        "name": "不朽之船",
         "equip_skill_icon": "25",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u59cb\u4e8e\u65af\uff0c\u4f11\u4e8e\u65af\u3002\u300d",
+        "desc": "「始于斯，休于斯。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,
@@ -400,11 +400,11 @@
         ]
     },
     "26": {
-        "name": "\u65af\u5df4\u8fbe\u7684\u5486\u54ee",
+        "name": "斯巴达的咆哮",
         "equip_skill_icon": "26",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u8fd9\u5c31\u662f\u65af\u5df4\u8fbe\uff01\u300d",
+        "desc": "「这就是斯巴达！」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,
@@ -416,11 +416,11 @@
         ]
     },
     "27": {
-        "name": "\u5f81\u670d\u738b\u7684\u8fdc\u5f81",
+        "name": "征服王的远征",
         "equip_skill_icon": "27",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u5c71\u4e0d\u8d70\u5230\u6211\u8fd9\u91cc\u6765\uff0c\u6211\u5c31\u5230\u5b83\u90a3\u91cc\u53bb\uff01\u300d",
+        "desc": "「山不走到我这里来，我就到它那里去！」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,
@@ -432,11 +432,11 @@
         ]
     },
     "28": {
-        "name": "\u768e\u6708\u7684\u7737\u604b",
+        "name": "皎月的眷恋",
         "equip_skill_icon": "28",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u5973\u795e\u773a\u671b\u7740\u90a3\u7247\u7f8e\u4e3d\u5149\u8f89\u7684\u94f6\u6cb3\uff0c\u6709\u7740\u4ed6\u5b58\u5728\u7684\u661f\u7a7a\u3002\u300d",
+        "desc": "「女神眺望着那片美丽光辉的银河，有着他存在的星空。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,
@@ -448,11 +448,11 @@
         ]
     },
     "29": {
-        "name": "\u54f2\u4eba\u7684\u81c6\u60f3",
+        "name": "哲人的臆想",
         "equip_skill_icon": "29",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u77e5\u8bc6\u7684\u6bbf\u5802\u4e4b\u4e0a\uff0c\u6df1\u89e6\u795e\u8ff9\u7684\u7075\u9b42\uff0c\u5176\u4e2d\u547c\u5578\u7740\u662f\u6280\u827a\u3001\u72c2\u60f3\uff0c\u8fd8\u662f\u5145\u6ee1\u54f2\u7406\u7684\u8c0e\u8a00\uff1f\u300d",
+        "desc": "「知识的殿堂之上，深触神迹的灵魂，其中呼啸着是技艺、狂想，还是充满哲理的谎言？」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,
@@ -464,11 +464,11 @@
         ]
     },
     "30": {
-        "name": "\u5c91\u5bc2\u7684\u5bab\u6bbf",
+        "name": "岑寂的宫殿",
         "equip_skill_icon": "30",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u6d41\u8fde\u4e8e\u65e0\u5f52\u4e4b\u5730\u7684\u54c0\u4f24\u3002\u300d",
+        "desc": "「流连于无归之地的哀伤。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -480,11 +480,11 @@
         ]
     },
     "31": {
-        "name": "\u7ef4\u5c14\u6208\u7684\u6d41\u661f",
+        "name": "维尔戈的流星",
         "equip_skill_icon": "31",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u4e8e\u5927\u5730\u6df1\u5904\u5b88\u671b\u7fa4\u661f\u964d\u4e34\u3002\u300d",
+        "desc": "「于大地深处守望群星降临。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -496,11 +496,11 @@
         ]
     },
     "32": {
-        "name": "\u51b0\u6d77\u7684\u5bd2\u950b",
+        "name": "冰海的寒锋",
         "equip_skill_icon": "32",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u5f77\u5fa8\u4e8e\u51b0\u6d77\uff0c\u6d88\u9690\u4e8e\u7fa4\u5c71\u3002\u300d",
+        "desc": "「彷徨于冰海，消隐于群山。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -512,11 +512,11 @@
         ]
     },
     "33": {
-        "name": "\u5148\u77e5\u7684\u56de\u54cd",
+        "name": "先知的回响",
         "equip_skill_icon": "33",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u6c34\u548c\u6b4c\u58f0\u73af\u7ed5\u7740\u6211\uff0c\u76f4\u81f3\u7075\u9b42\u3002\u300d",
+        "desc": "「水和歌声环绕着我，直至灵魂。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -528,11 +528,11 @@
         ]
     },
     "34": {
-        "name": "\u51a5\u6e21\u7684\u5965\u6ce2\u5c14",
+        "name": "冥渡的奥波尔",
         "equip_skill_icon": "34",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u4f60\u65e0\u6cd5\u4ece\u77f3\u5934\u91cc\u53d6\u51fa\u8840\u6765\u3002\u300d",
+        "desc": "「你无法从石头里取出血来。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,
@@ -544,11 +544,11 @@
         ]
     },
     "35": {
-        "name": "\u8c03\u505c\u8005\u7684\u7f00\u7fbd",
+        "name": "调停者的缀羽",
         "equip_skill_icon": "35",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u957f\u5b50\u7fce\u7fbd\u6447\u66f3\uff0c\u5927\u5730\u4e0e\u5929\u7a7a\u5206\u79bb\u3002\u300d",
+        "desc": "「长子翎羽摇曳，大地与天空分离。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,
@@ -560,11 +560,11 @@
         ]
     },
     "36": {
-        "name": "\u5947\u88ad\u7684\u591c\u9e2e",
+        "name": "奇袭的夜鸮",
         "equip_skill_icon": "36",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u591c\u9e2e\u964d\u843d\u4e4b\u65f6\u594f\u54cd\u51ef\u6b4c\u3002\u300d",
+        "desc": "「夜鸮降落之时奏响凯歌。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -576,11 +576,11 @@
         ]
     },
     "37": {
-        "name": "\u6012\u6d9b\u4e4b\u8c15",
+        "name": "怒涛之谕",
         "equip_skill_icon": "37",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u81ea\u751f\u547d\u4f0a\u59cb\u4fbf\u5b58\u5728\u7684\u6d41\u52a8\u4e4b\u529b\u3002\u300d",
+        "desc": "「自生命伊始便存在的流动之力。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,
@@ -592,11 +592,11 @@
         ]
     },
     "38": {
-        "name": "\u5f97\u80dc\u8005\u7684\u51ef\u6b4c",
+        "name": "得胜者的凯歌",
         "equip_skill_icon": "38",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u9a7e\u9a6d\u96f7\u9706\u4e0e\u66b4\u96e8\uff0c\u4f7f\u6df7\u6c8c\u9668\u843d\uff0c\u521b\u9020\u51fa\u65b0\u7684\u5929\u7a7a\u4e0e\u5927\u5730\u3002\u300d",
+        "desc": "「驾驭雷霆与暴雨，使混沌陨落，创造出新的天空与大地。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,
@@ -608,11 +608,11 @@
         ]
     },
     "39": {
-        "name": "\u739b\u4e9a\u7279\u7684\u5ba1\u5224",
+        "name": "玛亚特的审判",
         "equip_skill_icon": "39",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u653e\u7f6e\u5176\u7fbd\uff0c\u5ba1\u5ea6\u7075\u9b42\u3002\u300d",
+        "desc": "「放置其羽，审度灵魂。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -624,11 +624,11 @@
         ]
     },
     "40": {
-        "name": "\u6c38\u751f\u7684\u6218\u8f66",
+        "name": "永生的战车",
         "equip_skill_icon": "40",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u96f7\u795e\u9a71\u4f7f\u6218\u8f66\uff0c\u4e8e\u6df7\u6c8c\u55a7\u56a3\u4e2d\u6e10\u663e\uff0c\u60ca\u9192\u9ebb\u6728\u4e4b\u4eba\u3002 \u300d",
+        "desc": "「雷神驱使战车，于混沌喧嚣中渐显，惊醒麻木之人。 」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -640,11 +640,11 @@
         ]
     },
     "41": {
-        "name": "\u6b62\u6218\u8005\u7684\u795d\u4f51",
+        "name": "止战者的祝佑",
         "equip_skill_icon": "41",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u8d50\u4e88\u52c7\u6562\u4e4b\u4eba\u575a\u97e7\u4e0e\u601c\u60af\u4e4b\u5fc3\u3002\u300d",
+        "desc": "「赐予勇敢之人坚韧与怜悯之心。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -656,11 +656,11 @@
         ]
     },
     "42": {
-        "name": "\u6c38\u52ab\u7684\u7384\u9e1f",
+        "name": "永劫的玄鸟",
         "equip_skill_icon": "42",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u4e39\u51e4\u9e23\u516e\uff0c\u4e0e\u5f7c\u9ad8\u5c97\uff1b\u68a7\u6850\u751f\u516e\uff0c\u4e0e\u5f7c\u671d\u9633\u3002 \u300d",
+        "desc": "「丹凤鸣兮，与彼高岗；梧桐生兮，与彼朝阳。 」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -672,11 +672,11 @@
         ]
     },
     "43": {
-        "name": "\u4e98\u53e4\u7684\u65e5\u66dc",
+        "name": "亘古的日曜",
         "equip_skill_icon": "43",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u7fbf\u7109\u5c04\u65e5\uff1f\u4e4c\u7109\u89e3\u7fbd\uff1f\u300d",
+        "desc": "「羿焉射日？乌焉解羽？」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -688,11 +688,11 @@
         ]
     },
     "44": {
-        "name": "\u8352\u6d77\u7684\u82cd\u9f99",
+        "name": "荒海的苍龙",
         "equip_skill_icon": "44",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u4e1c\u65b9\u82cd\u9f99\uff0c\u81f3\u4ec1\u81f3\u7075\uff0c\u89d2\u5c3e\u4e4b\u95f4\uff0c\u8d6b\u4e4e\u660e\u5ead\u3002\u300d",
+        "desc": "「东方苍龙，至仁至灵，角尾之间，赫乎明庭。」",
         "need": 3,
         "inherit_cost_type": 2,
         "equip_type": 1,
@@ -704,11 +704,11 @@
         ]
     },
     "45": {
-        "name": "\u6781\u5929\u4e4b\u4e3b",
+        "name": "极天之主",
         "equip_skill_icon": "45",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u594b\u7075\u5fb7\uff0c\u5408\u98ce\u4e91\uff0c\u8d85\u5ffd\u8352\u3002\u300d",
+        "desc": "「奋灵德，合风云，超忽荒。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -720,11 +720,11 @@
         ]
     },
     "46": {
-        "name": "\u91d1\u7389\u767e\u89e3",
+        "name": "金玉百解",
         "equip_skill_icon": "46",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u4f17\u91cc\u5bfb\u4e4b\u7686\u4e0d\u89c1\uff0c\u6697\u63b7\u91d1\u94b1\u535c\u8fdc\u4eba\u3002\u300d",
+        "desc": "「众里寻之皆不见，暗掷金钱卜远人。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -736,11 +736,11 @@
         ]
     },
     "47": {
-        "name": "\u5f92\u82b1\u89e3\u8bed",
+        "name": "徒花解语",
         "equip_skill_icon": "47",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u9759\u601c\u6731\u69ff\u65e0\u6839\u8482\uff0c\u5f00\u843d\u60df\u6d88\u4e00\u9635\u98ce\u3002\u300d",
+        "desc": "「静怜朱槿无根蒂，开落惟消一阵风。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -752,11 +752,11 @@
         ]
     },
     "48": {
-        "name": "\u7269\u8bed\u7684\u843d\u5e55",
+        "name": "物语的落幕",
         "equip_skill_icon": "48",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u4f20\u8bf4\u7ecf\u5e74\u8c31\u5199\uff0c\u6b4c\u8c23\u4f20\u9882\u4e0d\u606f\uff0c\u800c\u540e\u2014\u2014\u6ce2\u6f9c\u58ee\u9614\u7684\u7269\u8bed\u4e5f\u7ec8\u5c06\u8fce\u6765\u843d\u5e55\u3002\u300d",
+        "desc": "「传说经年谱写，歌谣传颂不息，而后——波澜壮阔的物语也终将迎来落幕。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -768,11 +768,11 @@
         ]
     },
     "49": {
-        "name": "\u65e0\u8fd4\u7684\u6bd4\u826f\u5742",
+        "name": "无返的比良坂",
         "equip_skill_icon": "49",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u5979\u8de8\u8d8a\u5206\u9694\u751f\u6b7b\u7684\u5929\u5811\uff0c\u4ece\u6b64\u4e0d\u518d\u56de\u5934\u3002\u300d",
+        "desc": "「她跨越分隔生死的天堑，从此不再回头。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -784,11 +784,11 @@
         ]
     },
     "50": {
-        "name": "\u4e0d\u7184\u7684\u6b8b\u70ec",
+        "name": "不熄的残烬",
         "equip_skill_icon": "50",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u4e1a\u706b\u711a\u5c3d\u4e00\u5207\uff0c\u5f92\u7559\u4e0d\u66fe\u7184\u706d\u7684\u6b8b\u70ec\u5ba3\u8bf4\u8fc7\u5f80\u3002\u300d",
+        "desc": "「业火焚尽一切，徒留不曾熄灭的残烬宣说过往。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -800,11 +800,11 @@
         ]
     },
     "51": {
-        "name": "\u5929\u4e4b\u4e5d\u90e8",
+        "name": "天之九部",
         "equip_skill_icon": "51",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u5929\u9ad8\u5730\u8fe5\uff0c\u89c9\u5b87\u5b99\u4e4b\u65e0\u7a77\uff1b\u5174\u5c3d\u60b2\u6765\uff0c\u8bc6\u76c8\u865a\u4e4b\u6709\u6570\u3002\u300d",
+        "desc": "「天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -816,11 +816,11 @@
         ]
     },
     "52": {
-        "name": "\u7384\u51a5\u7684\u6697\u6d8c",
+        "name": "玄冥的暗涌",
         "equip_skill_icon": "52",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u6570\u6570\u56de\u8f6c\uff0c\u6240\u5411\u65e0\u5e38\u3002\u300d",
+        "desc": "「数数回转，所向无常。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -832,11 +832,11 @@
         ]
     },
     "53": {
-        "name": "\u98ce\u96f7\u843d\u7fbd",
+        "name": "风雷落羽",
         "equip_skill_icon": "53",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u5e7d\u8c37\u9e23\u8749\u98ce\u96f7\u52a8\uff0c\u6708\u843d\u9e26\u7fbd\u5929\u72d7\u884c\u3002\u300d",
+        "desc": "「幽谷鸣蝉风雷动，月落鸦羽天狗行。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -848,11 +848,11 @@
         ]
     },
     "54": {
-        "name": "\u72c2\u6c99\u7684\u6218\u543c",
+        "name": "狂沙的战吼",
         "equip_skill_icon": "54",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u5979\u7684\u547c\u5438\u5851\u9020\u6c99\u6f20\uff0c\u5979\u7684\u6218\u543c\u54cd\u5f7b\u5929\u7a79\u3002\u300d",
+        "desc": "「她的呼吸塑造沙漠，她的战吼响彻天穹。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -864,11 +864,11 @@
         ]
     },
     "55": {
-        "name": "\u65b0\u6708\u7684\u6307\u5f15",
+        "name": "新月的指引",
         "equip_skill_icon": "55",
         "stage_up_list": 1,
         "power_score": 10,
-        "desc": "\u300c\u4f46\u613f\u90a3\u65b0\u6708\uff0c\u6307\u5f15\u6211\u4eec\u8e0f\u8db3\u672a\u66fe\u8bbe\u60f3\u7684\u9053\u8def\u3002\u300d",
+        "desc": "「但愿那新月，指引我们踏足未曾设想的道路。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -880,11 +880,11 @@
         ]
     },
     "56": {
-        "name": "\u65f6\u5e8f\u7684\u8f6e\u56de",
+        "name": "时序的轮回",
         "equip_skill_icon": "56",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u65f6\u5e8f\u4e00\u5982\u6307\u95f4\u6d41\u6c99\uff0c\u4e0d\u65ad\u8f6e\u56de\uff0c\u65e0\u9650\u91cd\u590d\u3002\u300d",
+        "desc": "「时序一如指间流沙，不断轮回，无限重复。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -896,11 +896,11 @@
         ]
     },
     "57": {
-        "name": "\u68a6\u5883\u7684\u95e8\u6249",
+        "name": "梦境的门扉",
         "equip_skill_icon": "57",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u68a6\u5883\u7684\u5c3d\u5934\uff0c\u5728\u865a\u5b9e\u4e4b\u95f4\u5f98\u5f8a \u3002\u300d",
+        "desc": "「梦境的尽头，在虚实之间徘徊 。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -912,11 +912,11 @@
         ]
     },
     "58": {
-        "name": "\u6708\u534e\u7684\u51a0\u5195",
+        "name": "月华的冠冕",
         "equip_skill_icon": "58",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u4ee5\u94f6\u8f89\u52a0\u5195\uff0c\u4ee5\u6708\u534e\u7167\u5f7b\u3002\u300d",
+        "desc": "「以银辉加冕，以月华照彻。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -928,11 +928,11 @@
         ]
     },
     "59": {
-        "name": "\u6797\u95f4\u7684\u79d8\u8bed",
+        "name": "林间的秘语",
         "equip_skill_icon": "59",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u5973\u795e\u5f20\u5f13\u642d\u7bad\uff0c\u5c04\u843d\u5f77\u5fa8\u7684\u730e\u7269\u3002\u300d",
+        "desc": "「女神张弓搭箭，射落彷徨的猎物。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -944,11 +944,11 @@
         ]
     },
     "60": {
-        "name": "\u59cb\u672b\u4e4b\u771f\u7406",
+        "name": "始末之真理",
         "equip_skill_icon": "60",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u89e3\u6784\u4e07\u7269\u4e4b\u5f62\uff0c\u91cd\u5efa\u4e07\u7269\u4e4b\u5e8f\u3002\u300d",
+        "desc": "「解构万物之形，重建万物之序。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -960,11 +960,11 @@
         ]
     },
     "61": {
-        "name": "\u7ec8\u672b\u5384\u96be\u4e4b\u65f6",
+        "name": "终末厄难之时",
         "equip_skill_icon": "61",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u4ee5\u9ed1\u6697\u7b3c\u7f69\u5bf0\u5b87\uff0c\u800c\u540e\u2014\u2014\u4f7f\u5929\u5730\u6bc1\u706d\u3002\u300d",
+        "desc": "「以黑暗笼罩寰宇，而后——使天地毁灭。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -976,11 +976,11 @@
         ]
     },
     "62": {
-        "name": "\u96ea\u57df\u4e4b\u62e5",
+        "name": "雪域之拥",
         "equip_skill_icon": "62",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u6148\u7231\u4e0e\u66b4\u623e\u4e8e\u6b64\u5171\u5b58\uff0c\u5723\u6d01\u7684\u767d\u96ea\u5305\u5bb9\u7740\u5c71\u95f4\u4e07\u7269\u3002\u300d",
+        "desc": "「慈爱与暴戾于此共存，圣洁的白雪包容着山间万物。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -992,11 +992,11 @@
         ]
     },
     "63": {
-        "name": "\u4f34\u751f\u4e4b\u5f71",
+        "name": "伴生之影",
         "equip_skill_icon": "63",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u662f\u5149\uff0c\u4ea6\u662f\u5f71\uff0c\u76f8\u4f34\u800c\u751f\uff0c\u5bc6\u4e0d\u53ef\u5206\u3002\u300d",
+        "desc": "「是光，亦是影，相伴而生，密不可分。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,
@@ -1008,11 +1008,11 @@
         ]
     },
     "64": {
-        "name": "\u5f81\u9014\u7684\u4f59\u97f3",
+        "name": "征途的余音",
         "equip_skill_icon": "64",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u8f89\u714c\u7684\u5f81\u9014\uff0c\u4e8e\u6b64\u594f\u54cd\u3002\u300d",
+        "desc": "「辉煌的征途，于此奏响。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 1,
@@ -1024,11 +1024,11 @@
         ]
     },
     "65": {
-        "name": "\u5b88\u62a4\u8005\u7684\u4f4e\u8bed",
+        "name": "守护者的低语",
         "equip_skill_icon": "65",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "\u300c\u98ce\u6c99\u6f2b\u5377\uff0c\u90a3\u4f4e\u8bed\u50cf\u662f\u68a6\u5453\uff0c\u8bc9\u8bf4\u7740\u672a\u5c3d\u7684\u5b88\u62a4\u4e0e\u795d\u798f\u3002\u300d",
+        "desc": "「风沙漫卷，那低语像是梦呓，诉说着未尽的守护与祝福。」",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 2,

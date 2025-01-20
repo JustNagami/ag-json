@@ -1,6 +1,6 @@
 {
     "1": {
-        "name": "\u666e\u901a",
+        "name": "普通",
         "total_check": 20,
         "fail_max": 3,
         "id": 1,
@@ -89,7 +89,7 @@
         ]
     },
     "2": {
-        "name": "\u56f0\u96be",
+        "name": "困难",
         "total_check": 25,
         "fail_max": 2,
         "id": 2,
@@ -200,7 +200,7 @@
         ]
     },
     "3": {
-        "name": "\u6781\u96be",
+        "name": "极难",
         "total_check": 30,
         "fail_max": 1,
         "id": 3,

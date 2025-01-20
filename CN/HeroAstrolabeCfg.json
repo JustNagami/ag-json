@@ -1,7 +1,7 @@
 {
     "10390011": {
-        "name": "\u82cd\u6d0b",
-        "suit_name": "\u6d77\u738b\u661f",
+        "name": "苍洋",
+        "suit_name": "海王星",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -16,8 +16,8 @@
         ]
     },
     "10390012": {
-        "name": "\u78a7\u6ce2",
-        "suit_name": "\u6d77\u738b\u661f",
+        "name": "碧波",
+        "suit_name": "海王星",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10390011,
         "pos": 2,
@@ -32,8 +32,8 @@
         ]
     },
     "10390013": {
-        "name": "\u94f6\u6d6a",
-        "suit_name": "\u6d77\u738b\u661f",
+        "name": "银浪",
+        "suit_name": "海王星",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10390012,
         "pos": 3,
@@ -48,8 +48,8 @@
         ]
     },
     "10390021": {
-        "name": "\u5de8\u6d2a",
-        "suit_name": "\u4e9a\u7279\u5170\u8482\u65af",
+        "name": "巨洪",
+        "suit_name": "亚特兰蒂斯",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -64,8 +64,8 @@
         ]
     },
     "10390022": {
-        "name": "\u795e\u6bbf",
-        "suit_name": "\u4e9a\u7279\u5170\u8482\u65af",
+        "name": "神殿",
+        "suit_name": "亚特兰蒂斯",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10390021,
         "pos": 2,
@@ -80,8 +80,8 @@
         ]
     },
     "10390023": {
-        "name": "\u542c\u6f6e",
-        "suit_name": "\u4e9a\u7279\u5170\u8482\u65af",
+        "name": "听潮",
+        "suit_name": "亚特兰蒂斯",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10390022,
         "pos": 3,
@@ -96,8 +96,8 @@
         ]
     },
     "10390031": {
-        "name": "\u6012\u6d9b",
-        "suit_name": "\u4e09\u53c9\u621f\u6012\u6d9b",
+        "name": "怒涛",
+        "suit_name": "三叉戟怒涛",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -112,8 +112,8 @@
         ]
     },
     "10390032": {
-        "name": "\u5723\u621f",
-        "suit_name": "\u4e09\u53c9\u621f\u6012\u6d9b",
+        "name": "圣戟",
+        "suit_name": "三叉戟怒涛",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10390031,
         "pos": 2,
@@ -128,8 +128,8 @@
         ]
     },
     "10390033": {
-        "name": "\u6df1\u84dd",
-        "suit_name": "\u4e09\u53c9\u621f\u6012\u6d9b",
+        "name": "深蓝",
+        "suit_name": "三叉戟怒涛",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10390032,
         "pos": 3,
@@ -144,8 +144,8 @@
         ]
     },
     "10480011": {
-        "name": "\u6b8b\u5f39",
-        "suit_name": "\u5927\u5cf0\u5c71\u4e4b\u62a4",
+        "name": "残弹",
+        "suit_name": "大峰山之护",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -160,8 +160,8 @@
         ]
     },
     "10480012": {
-        "name": "\u5907\u6218",
-        "suit_name": "\u5927\u5cf0\u5c71\u4e4b\u62a4",
+        "name": "备战",
+        "suit_name": "大峰山之护",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10480011,
         "pos": 2,
@@ -176,8 +176,8 @@
         ]
     },
     "10480013": {
-        "name": "\u706b\u529b",
-        "suit_name": "\u5927\u5cf0\u5c71\u4e4b\u62a4",
+        "name": "火力",
+        "suit_name": "大峰山之护",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10480012,
         "pos": 3,
@@ -192,8 +192,8 @@
         ]
     },
     "10480021": {
-        "name": "\u8f70\u70b8",
-        "suit_name": "\u5584\u7ae5\u9b3c",
+        "name": "轰炸",
+        "suit_name": "善童鬼",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -208,8 +208,8 @@
         ]
     },
     "10480022": {
-        "name": "\u8fde\u9501",
-        "suit_name": "\u5584\u7ae5\u9b3c",
+        "name": "连锁",
+        "suit_name": "善童鬼",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10480021,
         "pos": 2,
@@ -224,8 +224,8 @@
         ]
     },
     "10480023": {
-        "name": "\u8fc5\u6377",
-        "suit_name": "\u5584\u7ae5\u9b3c",
+        "name": "迅捷",
+        "suit_name": "善童鬼",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10480022,
         "pos": 3,
@@ -240,8 +240,8 @@
         ]
     },
     "10480031": {
-        "name": "\u7206\u8f70",
-        "suit_name": "\u8bd5\u70bc\u7684\u51dd\u671b",
+        "name": "爆轰",
+        "suit_name": "试炼的凝望",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -256,8 +256,8 @@
         ]
     },
     "10480032": {
-        "name": "\u5f15\u7206",
-        "suit_name": "\u8bd5\u70bc\u7684\u51dd\u671b",
+        "name": "引爆",
+        "suit_name": "试炼的凝望",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10480031,
         "pos": 2,
@@ -272,8 +272,8 @@
         ]
     },
     "10480033": {
-        "name": "\u5f3a\u88ad",
-        "suit_name": "\u8bd5\u70bc\u7684\u51dd\u671b",
+        "name": "强袭",
+        "suit_name": "试炼的凝望",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10480032,
         "pos": 3,
@@ -288,8 +288,8 @@
         ]
     },
     "10660011": {
-        "name": "\u6b7b\u795e",
-        "suit_name": "\u5927\u7269\u4e3b\u795e",
+        "name": "死神",
+        "suit_name": "大物主神",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -304,8 +304,8 @@
         ]
     },
     "10660012": {
-        "name": "\u9884\u8a00",
-        "suit_name": "\u5927\u7269\u4e3b\u795e",
+        "name": "预言",
+        "suit_name": "大物主神",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10660011,
         "pos": 2,
@@ -320,8 +320,8 @@
         ]
     },
     "10660013": {
-        "name": "\u5154\u5154",
-        "suit_name": "\u5927\u7269\u4e3b\u795e",
+        "name": "兔兔",
+        "suit_name": "大物主神",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10660012,
         "pos": 3,
@@ -336,8 +336,8 @@
         ]
     },
     "10660021": {
-        "name": "\u661f\u8fde",
-        "suit_name": "\u6839\u56fd\u4e4b\u9014",
+        "name": "星连",
+        "suit_name": "根国之途",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -352,8 +352,8 @@
         ]
     },
     "10660022": {
-        "name": "\u63ed\u793a",
-        "suit_name": "\u6839\u56fd\u4e4b\u9014",
+        "name": "揭示",
+        "suit_name": "根国之途",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10660021,
         "pos": 2,
@@ -368,8 +368,8 @@
         ]
     },
     "10660023": {
-        "name": "\u6d17\u724c",
-        "suit_name": "\u6839\u56fd\u4e4b\u9014",
+        "name": "洗牌",
+        "suit_name": "根国之途",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10660022,
         "pos": 3,
@@ -384,8 +384,8 @@
         ]
     },
     "10660031": {
-        "name": "\u547d\u8fd0",
-        "suit_name": "\u51fa\u4e91\u56fd\u9b42",
+        "name": "命运",
+        "suit_name": "出云国魂",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -400,8 +400,8 @@
         ]
     },
     "10660032": {
-        "name": "\u5ba1\u5224",
-        "suit_name": "\u51fa\u4e91\u56fd\u9b42",
+        "name": "审判",
+        "suit_name": "出云国魂",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10660031,
         "pos": 2,
@@ -416,8 +416,8 @@
         ]
     },
     "10660033": {
-        "name": "\u535c\u6d4b",
-        "suit_name": "\u51fa\u4e91\u56fd\u9b42",
+        "name": "卜测",
+        "suit_name": "出云国魂",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10660032,
         "pos": 3,
@@ -432,8 +432,8 @@
         ]
     },
     "10380011": {
-        "name": "\u5723\u7130",
-        "suit_name": "\u795e\u6bcd\u5929\u540e",
+        "name": "圣焰",
+        "suit_name": "神母天后",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -448,8 +448,8 @@
         ]
     },
     "10380012": {
-        "name": "\u5929\u708e",
-        "suit_name": "\u795e\u6bcd\u5929\u540e",
+        "name": "天炎",
+        "suit_name": "神母天后",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10380011,
         "pos": 2,
@@ -464,8 +464,8 @@
         ]
     },
     "10380013": {
-        "name": "\u6012\u7fbd",
-        "suit_name": "\u795e\u6bcd\u5929\u540e",
+        "name": "怒羽",
+        "suit_name": "神母天后",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10380012,
         "pos": 3,
@@ -480,8 +480,8 @@
         ]
     },
     "10380021": {
-        "name": "\u707c\u4f24",
-        "suit_name": "\u9ec4\u91d1\u82f9\u679c",
+        "name": "灼伤",
+        "suit_name": "黄金苹果",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -496,8 +496,8 @@
         ]
     },
     "10380022": {
-        "name": "\u51f0\u75d5",
-        "suit_name": "\u9ec4\u91d1\u82f9\u679c",
+        "name": "凰痕",
+        "suit_name": "黄金苹果",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10380021,
         "pos": 2,
@@ -512,8 +512,8 @@
         ]
     },
     "10380023": {
-        "name": "\u708e\u5f84",
-        "suit_name": "\u9ec4\u91d1\u82f9\u679c",
+        "name": "炎径",
+        "suit_name": "黄金苹果",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10380022,
         "pos": 3,
@@ -528,8 +528,8 @@
         ]
     },
     "10380031": {
-        "name": "\u4e34\u754c",
-        "suit_name": "\u5992\u4e4b\u5fc3",
+        "name": "临界",
+        "suit_name": "妒之心",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -544,8 +544,8 @@
         ]
     },
     "10380032": {
-        "name": "\u706b\u79cd",
-        "suit_name": "\u5992\u4e4b\u5fc3",
+        "name": "火种",
+        "suit_name": "妒之心",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10380031,
         "pos": 2,
@@ -560,8 +560,8 @@
         ]
     },
     "10380033": {
-        "name": "\u9707\u65e6",
-        "suit_name": "\u5992\u4e4b\u5fc3",
+        "name": "震旦",
+        "suit_name": "妒之心",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10380032,
         "pos": 3,
@@ -576,8 +576,8 @@
         ]
     },
     "10990011": {
-        "name": "\u6df1\u6708",
-        "suit_name": "\u6da4\u53f3\u76ee\u800c\u751f",
+        "name": "深月",
+        "suit_name": "涤右目而生",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -592,8 +592,8 @@
         ]
     },
     "10990012": {
-        "name": "\u6714\u5f27",
-        "suit_name": "\u6da4\u53f3\u76ee\u800c\u751f",
+        "name": "朔弧",
+        "suit_name": "涤右目而生",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10990011,
         "pos": 2,
@@ -608,8 +608,8 @@
         ]
     },
     "10990013": {
-        "name": "\u6697\u76f8",
-        "suit_name": "\u6da4\u53f3\u76ee\u800c\u751f",
+        "name": "暗相",
+        "suit_name": "涤右目而生",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10990012,
         "pos": 3,
@@ -624,8 +624,8 @@
         ]
     },
     "10990021": {
-        "name": "\u75db\u8680",
-        "suit_name": "\u6708\u591c\u89c1\u5c0a",
+        "name": "痛蚀",
+        "suit_name": "月夜见尊",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -640,8 +640,8 @@
         ]
     },
     "10990022": {
-        "name": "\u8f89\u591c",
-        "suit_name": "\u6708\u591c\u89c1\u5c0a",
+        "name": "辉夜",
+        "suit_name": "月夜见尊",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10990021,
         "pos": 2,
@@ -656,8 +656,8 @@
         ]
     },
     "10990023": {
-        "name": "\u6b8b\u6708",
-        "suit_name": "\u6708\u591c\u89c1\u5c0a",
+        "name": "残月",
+        "suit_name": "月夜见尊",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10990022,
         "pos": 3,
@@ -672,8 +672,8 @@
         ]
     },
     "10990031": {
-        "name": "\u6708\u89c1",
-        "suit_name": "\u5929\u7167\u62df\u5076",
+        "name": "月见",
+        "suit_name": "天照拟偶",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -688,8 +688,8 @@
         ]
     },
     "10990032": {
-        "name": "\u9010\u5f71",
-        "suit_name": "\u5929\u7167\u62df\u5076",
+        "name": "逐影",
+        "suit_name": "天照拟偶",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10990031,
         "pos": 2,
@@ -704,8 +704,8 @@
         ]
     },
     "10990033": {
-        "name": "\u5206\u5149",
-        "suit_name": "\u5929\u7167\u62df\u5076",
+        "name": "分光",
+        "suit_name": "天照拟偶",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10990032,
         "pos": 3,
@@ -720,8 +720,8 @@
         ]
     },
     "10840011": {
-        "name": "\u7834\u68d8",
-        "suit_name": "\u547d\u8fd0\u4e4b\u5370",
+        "name": "破棘",
+        "suit_name": "命运之印",
         "unlock_condition": 2320,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -736,8 +736,8 @@
         ]
     },
     "10840012": {
-        "name": "\u9ed1\u6a80",
-        "suit_name": "\u547d\u8fd0\u4e4b\u5370",
+        "name": "黑檀",
+        "suit_name": "命运之印",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10840011,
         "pos": 2,
@@ -752,8 +752,8 @@
         ]
     },
     "10840013": {
-        "name": "\u5203\u8292",
-        "suit_name": "\u547d\u8fd0\u4e4b\u5370",
+        "name": "刃芒",
+        "suit_name": "命运之印",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10840012,
         "pos": 3,
@@ -768,8 +768,8 @@
         ]
     },
     "10840021": {
-        "name": "\u5b88\u62a4",
-        "suit_name": "\u6728\u523b\u6587\u5b57",
+        "name": "守护",
+        "suit_name": "木刻文字",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -784,8 +784,8 @@
         ]
     },
     "10840022": {
-        "name": "\u5929\u542f",
-        "suit_name": "\u6728\u523b\u6587\u5b57",
+        "name": "天启",
+        "suit_name": "木刻文字",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10840021,
         "pos": 2,
@@ -800,8 +800,8 @@
         ]
     },
     "10840023": {
-        "name": "\u9053\u6807",
-        "suit_name": "\u6728\u523b\u6587\u5b57",
+        "name": "道标",
+        "suit_name": "木刻文字",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10840022,
         "pos": 3,
@@ -816,8 +816,8 @@
         ]
     },
     "10840031": {
-        "name": "\u9ed1\u950b",
-        "suit_name": "\u5362\u6069\u5492\u6587",
+        "name": "黑锋",
+        "suit_name": "卢恩咒文",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -832,8 +832,8 @@
         ]
     },
     "10840032": {
-        "name": "\u51ef\u65cb",
-        "suit_name": "\u5362\u6069\u5492\u6587",
+        "name": "凯旋",
+        "suit_name": "卢恩咒文",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10840031,
         "pos": 2,
@@ -848,8 +848,8 @@
         ]
     },
     "10840033": {
-        "name": "\u8bfb\u7738",
-        "suit_name": "\u5362\u6069\u5492\u6587",
+        "name": "读眸",
+        "suit_name": "卢恩咒文",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10840032,
         "pos": 3,
@@ -864,8 +864,8 @@
         ]
     },
     "10930011": {
-        "name": "\u5929\u5370",
-        "suit_name": "\u82c7\u82bd\u4e4b\u795e",
+        "name": "天印",
+        "suit_name": "苇芽之神",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -880,8 +880,8 @@
         ]
     },
     "10930012": {
-        "name": "\u5730\u7ae0",
-        "suit_name": "\u82c7\u82bd\u4e4b\u795e",
+        "name": "地章",
+        "suit_name": "苇芽之神",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10930011,
         "pos": 2,
@@ -896,8 +896,8 @@
         ]
     },
     "10930013": {
-        "name": "\u5e38\u7acb",
-        "suit_name": "\u82c7\u82bd\u4e4b\u795e",
+        "name": "常立",
+        "suit_name": "苇芽之神",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10930012,
         "pos": 3,
@@ -912,8 +912,8 @@
         ]
     },
     "10930021": {
-        "name": "\u5256\u5224",
-        "suit_name": "\u8f9f\u5929\u4e4b\u521d",
+        "name": "剖判",
+        "suit_name": "辟天之初",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -928,8 +928,8 @@
         ]
     },
     "10930022": {
-        "name": "\u75be\u6cd5",
-        "suit_name": "\u8f9f\u5929\u4e4b\u521d",
+        "name": "疾法",
+        "suit_name": "辟天之初",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10930021,
         "pos": 2,
@@ -944,8 +944,8 @@
         ]
     },
     "10930023": {
-        "name": "\u5fcd\u9053",
-        "suit_name": "\u8f9f\u5929\u4e4b\u521d",
+        "name": "忍道",
+        "suit_name": "辟天之初",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10930022,
         "pos": 3,
@@ -960,8 +960,8 @@
         ]
     },
     "10930031": {
-        "name": "\u56db\u8c61",
-        "suit_name": "\u56db\u8c61\u4e4b\u754c",
+        "name": "四象",
+        "suit_name": "四象之界",
         "unlock_condition": 2304,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -976,8 +976,8 @@
         ]
     },
     "10930032": {
-        "name": "\u5fc3\u60d1",
-        "suit_name": "\u56db\u8c61\u4e4b\u754c",
+        "name": "心惑",
+        "suit_name": "四象之界",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10930031,
         "pos": 2,
@@ -992,8 +992,8 @@
         ]
     },
     "10930033": {
-        "name": "\u60d1\u89e3",
-        "suit_name": "\u56db\u8c61\u4e4b\u754c",
+        "name": "惑解",
+        "suit_name": "四象之界",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10930032,
         "pos": 3,
@@ -1008,8 +1008,8 @@
         ]
     },
     "10190011": {
-        "name": "\u5f8b\u56fe",
-        "suit_name": "\u67f1\u4e4b\u795e",
+        "name": "律图",
+        "suit_name": "柱之神",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1024,8 +1024,8 @@
         ]
     },
     "10190012": {
-        "name": "\u539f\u521d",
-        "suit_name": "\u67f1\u4e4b\u795e",
+        "name": "原初",
+        "suit_name": "柱之神",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10190011,
         "pos": 2,
@@ -1040,8 +1040,8 @@
         ]
     },
     "10190013": {
-        "name": "\u7a7a\u51a5",
-        "suit_name": "\u67f1\u4e4b\u795e",
+        "name": "空冥",
+        "suit_name": "柱之神",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10190012,
         "pos": 3,
@@ -1056,8 +1056,8 @@
         ]
     },
     "10190021": {
-        "name": "\u8679\u661f",
-        "suit_name": "\u7802\u66b4\u4e3b\u5bb0",
+        "name": "虹星",
+        "suit_name": "砂暴主宰",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1072,8 +1072,8 @@
         ]
     },
     "10190022": {
-        "name": "\u7802\u5c9a",
-        "suit_name": "\u7802\u66b4\u4e3b\u5bb0",
+        "name": "砂岚",
+        "suit_name": "砂暴主宰",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10190021,
         "pos": 2,
@@ -1088,8 +1088,8 @@
         ]
     },
     "10190023": {
-        "name": "\u8703\u697c",
-        "suit_name": "\u7802\u66b4\u4e3b\u5bb0",
+        "name": "蜃楼",
+        "suit_name": "砂暴主宰",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10190022,
         "pos": 3,
@@ -1104,8 +1104,8 @@
         ]
     },
     "10190031": {
-        "name": "\u98ce\u5fa1",
-        "suit_name": "\u88c2\u7a7a\u4e4b\u7ffc",
+        "name": "风御",
+        "suit_name": "裂空之翼",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1120,8 +1120,8 @@
         ]
     },
     "10190032": {
-        "name": "\u6b8b\u75d5",
-        "suit_name": "\u88c2\u7a7a\u4e4b\u7ffc",
+        "name": "残痕",
+        "suit_name": "裂空之翼",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10190031,
         "pos": 2,
@@ -1136,8 +1136,8 @@
         ]
     },
     "10190033": {
-        "name": "\u6267\u6dec",
-        "suit_name": "\u88c2\u7a7a\u4e4b\u7ffc",
+        "name": "执淬",
+        "suit_name": "裂空之翼",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10190032,
         "pos": 3,
@@ -1152,8 +1152,8 @@
         ]
     },
     "10800011": {
-        "name": "\u51db\u51ac",
-        "suit_name": "\u971c\u571f\u4e4b\u5b50",
+        "name": "凛冬",
+        "suit_name": "霜土之子",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1168,8 +1168,8 @@
         ]
     },
     "10800012": {
-        "name": "\u74a8\u96ea",
-        "suit_name": "\u971c\u571f\u4e4b\u5b50",
+        "name": "璨雪",
+        "suit_name": "霜土之子",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10800011,
         "pos": 2,
@@ -1184,8 +1184,8 @@
         ]
     },
     "10800013": {
-        "name": "\u51b0\u6e21",
-        "suit_name": "\u971c\u571f\u4e4b\u5b50",
+        "name": "冰渡",
+        "suit_name": "霜土之子",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10800012,
         "pos": 3,
@@ -1200,8 +1200,8 @@
         ]
     },
     "10800021": {
-        "name": "\u5bd2\u5207",
-        "suit_name": "\u4e0d\u706d\u4e4b\u529b",
+        "name": "寒切",
+        "suit_name": "不灭之力",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1216,8 +1216,8 @@
         ]
     },
     "10800022": {
-        "name": "\u98ce\u5578",
-        "suit_name": "\u4e0d\u706d\u4e4b\u529b",
+        "name": "风啸",
+        "suit_name": "不灭之力",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10800021,
         "pos": 2,
@@ -1232,8 +1232,8 @@
         ]
     },
     "10800023": {
-        "name": "\u6676\u7011",
-        "suit_name": "\u4e0d\u706d\u4e4b\u529b",
+        "name": "晶瀑",
+        "suit_name": "不灭之力",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10800022,
         "pos": 3,
@@ -1248,8 +1248,8 @@
         ]
     },
     "10800031": {
-        "name": "\u5730\u9e23",
-        "suit_name": "\u7ec8\u7ed3\u9ec4\u660f",
+        "name": "地鸣",
+        "suit_name": "终结黄昏",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1264,8 +1264,8 @@
         ]
     },
     "10800032": {
-        "name": "\u71c3\u51b0",
-        "suit_name": "\u7ec8\u7ed3\u9ec4\u660f",
+        "name": "燃冰",
+        "suit_name": "终结黄昏",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10800031,
         "pos": 2,
@@ -1280,8 +1280,8 @@
         ]
     },
     "10800033": {
-        "name": "\u5bc2\u7720",
-        "suit_name": "\u7ec8\u7ed3\u9ec4\u660f",
+        "name": "寂眠",
+        "suit_name": "终结黄昏",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10800032,
         "pos": 3,
@@ -1296,8 +1296,8 @@
         ]
     },
     "10270011": {
-        "name": "\u971c\u67f1",
-        "suit_name": "\u5929\u707e\u6d77\u517d",
+        "name": "霜柱",
+        "suit_name": "天灾海兽",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1312,8 +1312,8 @@
         ]
     },
     "10270012": {
-        "name": "\u51b0\u7ed3",
-        "suit_name": "\u5929\u707e\u6d77\u517d",
+        "name": "冰结",
+        "suit_name": "天灾海兽",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10270011,
         "pos": 2,
@@ -1328,8 +1328,8 @@
         ]
     },
     "10270013": {
-        "name": "\u96fe\u51b0",
-        "suit_name": "\u5929\u707e\u6d77\u517d",
+        "name": "雾冰",
+        "suit_name": "天灾海兽",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10270012,
         "pos": 3,
@@ -1344,8 +1344,8 @@
         ]
     },
     "10270021": {
-        "name": "\u70c1\u5149",
-        "suit_name": "\u865a\u7a7a\u661f\u5b87",
+        "name": "烁光",
+        "suit_name": "虚空星宇",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1360,8 +1360,8 @@
         ]
     },
     "10270022": {
-        "name": "\u521d\u6e90",
-        "suit_name": "\u865a\u7a7a\u661f\u5b87",
+        "name": "初源",
+        "suit_name": "虚空星宇",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10270021,
         "pos": 2,
@@ -1376,8 +1376,8 @@
         ]
     },
     "10270023": {
-        "name": "\u5b87\u8f68",
-        "suit_name": "\u865a\u7a7a\u661f\u5b87",
+        "name": "宇轨",
+        "suit_name": "虚空星宇",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10270022,
         "pos": 3,
@@ -1392,8 +1392,8 @@
         ]
     },
     "10270031": {
-        "name": "\u6d77\u5578",
-        "suit_name": "\u5ac9\u5992\u539f\u7f6a",
+        "name": "海啸",
+        "suit_name": "嫉妒原罪",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1408,8 +1408,8 @@
         ]
     },
     "10270032": {
-        "name": "\u5de8\u7269",
-        "suit_name": "\u5ac9\u5992\u539f\u7f6a",
+        "name": "巨物",
+        "suit_name": "嫉妒原罪",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10270031,
         "pos": 2,
@@ -1424,8 +1424,8 @@
         ]
     },
     "10270033": {
-        "name": "\u5e95\u529b",
-        "suit_name": "\u5ac9\u5992\u539f\u7f6a",
+        "name": "底力",
+        "suit_name": "嫉妒原罪",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10270032,
         "pos": 3,
@@ -1440,8 +1440,8 @@
         ]
     },
     "10500011": {
-        "name": "\u5fcd\u9aa8",
-        "suit_name": "\u5929\u5fcd\u7a57\u8033\u547d",
+        "name": "忍骨",
+        "suit_name": "天忍穗耳命",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1456,8 +1456,8 @@
         ]
     },
     "10500012": {
-        "name": "\u7a7a\u8749",
-        "suit_name": "\u5929\u5fcd\u7a57\u8033\u547d",
+        "name": "空蝉",
+        "suit_name": "天忍穗耳命",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10500011,
         "pos": 2,
@@ -1472,8 +1472,8 @@
         ]
     },
     "10500013": {
-        "name": "\u76ee\u9690",
-        "suit_name": "\u5929\u5fcd\u7a57\u8033\u547d",
+        "name": "目隐",
+        "suit_name": "天忍穗耳命",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10500012,
         "pos": 3,
@@ -1488,8 +1488,8 @@
         ]
     },
     "10500021": {
-        "name": "\u6f84\u955c",
-        "suit_name": "\u516b\u795e\u9d7a\u7fbd",
+        "name": "澄镜",
+        "suit_name": "八神鵺羽",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1504,8 +1504,8 @@
         ]
     },
     "10500022": {
-        "name": "\u591c\u89c1",
-        "suit_name": "\u516b\u795e\u9d7a\u7fbd",
+        "name": "夜见",
+        "suit_name": "八神鵺羽",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10500021,
         "pos": 2,
@@ -1520,8 +1520,8 @@
         ]
     },
     "10500023": {
-        "name": "\u67ad\u795e",
-        "suit_name": "\u516b\u795e\u9d7a\u7fbd",
+        "name": "枭神",
+        "suit_name": "八神鵺羽",
         "unlock_condition": 2305,
         "pre_astrolabe_id": 10500022,
         "pos": 3,
@@ -1536,8 +1536,8 @@
         ]
     },
     "10500031": {
-        "name": "\u97ec\u4e4b\u5f62",
-        "suit_name": "\u878d\u6708\u7eef\u5203",
+        "name": "韬之形",
+        "suit_name": "融月绯刃",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1552,8 +1552,8 @@
         ]
     },
     "10500032": {
-        "name": "\u516b\u53cc",
-        "suit_name": "\u878d\u6708\u7eef\u5203",
+        "name": "八双",
+        "suit_name": "融月绯刃",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10500031,
         "pos": 2,
@@ -1568,8 +1568,8 @@
         ]
     },
     "10500033": {
-        "name": "\u70bc\u6d25",
-        "suit_name": "\u878d\u6708\u7eef\u5203",
+        "name": "炼津",
+        "suit_name": "融月绯刃",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10500032,
         "pos": 3,
@@ -1584,8 +1584,8 @@
         ]
     },
     "11480011": {
-        "name": "\u7a7a\u9707",
-        "suit_name": "\u66b4\u7ed3\u661f",
+        "name": "空震",
+        "suit_name": "暴结星",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1600,8 +1600,8 @@
         ]
     },
     "11480012": {
-        "name": "\u878d\u7206",
-        "suit_name": "\u66b4\u7ed3\u661f",
+        "name": "融爆",
+        "suit_name": "暴结星",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11480011,
         "pos": 2,
@@ -1616,8 +1616,8 @@
         ]
     },
     "11480013": {
-        "name": "\u9006\u706b",
-        "suit_name": "\u66b4\u7ed3\u661f",
+        "name": "逆火",
+        "suit_name": "暴结星",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11480012,
         "pos": 3,
@@ -1632,8 +1632,8 @@
         ]
     },
     "11480021": {
-        "name": "\u8d2f\u7834",
-        "suit_name": "\u5927\u5cf0\u5929\u72e9",
+        "name": "贯破",
+        "suit_name": "大峰天狩",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1648,8 +1648,8 @@
         ]
     },
     "11480022": {
-        "name": "\u66b4\u5f39",
-        "suit_name": "\u5927\u5cf0\u5929\u72e9",
+        "name": "暴弹",
+        "suit_name": "大峰天狩",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11480021,
         "pos": 2,
@@ -1664,8 +1664,8 @@
         ]
     },
     "11480023": {
-        "name": "\u9635\u5217",
-        "suit_name": "\u5927\u5cf0\u5929\u72e9",
+        "name": "阵列",
+        "suit_name": "大峰天狩",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11480022,
         "pos": 3,
@@ -1680,8 +1680,8 @@
         ]
     },
     "11480031": {
-        "name": "\u68d8\u523a",
-        "suit_name": "\u4e71\u6218\u7684\u5fc3\u5f97",
+        "name": "棘刺",
+        "suit_name": "乱战的心得",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1696,8 +1696,8 @@
         ]
     },
     "11480032": {
-        "name": "\u5947\u88ad",
-        "suit_name": "\u4e71\u6218\u7684\u5fc3\u5f97",
+        "name": "奇袭",
+        "suit_name": "乱战的心得",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11480031,
         "pos": 2,
@@ -1712,8 +1712,8 @@
         ]
     },
     "11480033": {
-        "name": "\u7eed\u884c",
-        "suit_name": "\u4e71\u6218\u7684\u5fc3\u5f97",
+        "name": "续行",
+        "suit_name": "乱战的心得",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11480032,
         "pos": 3,
@@ -1728,8 +1728,8 @@
         ]
     },
     "10940011": {
-        "name": "\u865a\u9970",
-        "suit_name": "\u707e\u5384\u5723\u6240",
+        "name": "虚饰",
+        "suit_name": "灾厄圣所",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1744,8 +1744,8 @@
         ]
     },
     "10940012": {
-        "name": "\u6028\u6155",
-        "suit_name": "\u707e\u5384\u5723\u6240",
+        "name": "怨慕",
+        "suit_name": "灾厄圣所",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10940011,
         "pos": 2,
@@ -1760,8 +1760,8 @@
         ]
     },
     "10940013": {
-        "name": "\u5e7d\u714c",
-        "suit_name": "\u707e\u5384\u5723\u6240",
+        "name": "幽煌",
+        "suit_name": "灾厄圣所",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10940012,
         "pos": 3,
@@ -1776,8 +1776,8 @@
         ]
     },
     "10940021": {
-        "name": "\u9b54\u9b47",
-        "suit_name": "\u544a\u6b7b\u9b54\u5973",
+        "name": "魔魇",
+        "suit_name": "告死魔女",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1792,8 +1792,8 @@
         ]
     },
     "10940022": {
-        "name": "\u6781\u5149",
-        "suit_name": "\u544a\u6b7b\u9b54\u5973",
+        "name": "极光",
+        "suit_name": "告死魔女",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10940021,
         "pos": 2,
@@ -1808,8 +1808,8 @@
         ]
     },
     "10940023": {
-        "name": "\u8352\u79fd",
-        "suit_name": "\u544a\u6b7b\u9b54\u5973",
+        "name": "荒秽",
+        "suit_name": "告死魔女",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10940022,
         "pos": 3,
@@ -1824,8 +1824,8 @@
         ]
     },
     "10940031": {
-        "name": "\u7f6a\u75d5",
-        "suit_name": "\u7ec8\u672b\u846c\u4eea",
+        "name": "罪痕",
+        "suit_name": "终末葬仪",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1840,8 +1840,8 @@
         ]
     },
     "10940032": {
-        "name": "\u6697\u6666",
-        "suit_name": "\u7ec8\u672b\u846c\u4eea",
+        "name": "暗晦",
+        "suit_name": "终末葬仪",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10940031,
         "pos": 2,
@@ -1856,8 +1856,8 @@
         ]
     },
     "10940033": {
-        "name": "\u7eb3\u796d",
-        "suit_name": "\u7ec8\u672b\u846c\u4eea",
+        "name": "纳祭",
+        "suit_name": "终末葬仪",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10940032,
         "pos": 3,
@@ -1872,8 +1872,8 @@
         ]
     },
     "10370011": {
-        "name": "\u884c\u865a",
-        "suit_name": "\u5e7d\u6697\u8346\u68d8",
+        "name": "行虚",
+        "suit_name": "幽暗荆棘",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1888,8 +1888,8 @@
         ]
     },
     "10370012": {
-        "name": "\u4e71\u9b42",
-        "suit_name": "\u5e7d\u6697\u8346\u68d8",
+        "name": "乱魂",
+        "suit_name": "幽暗荆棘",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10370011,
         "pos": 2,
@@ -1904,8 +1904,8 @@
         ]
     },
     "10370013": {
-        "name": "\u9eef\u661f",
-        "suit_name": "\u5e7d\u6697\u8346\u68d8",
+        "name": "黯星",
+        "suit_name": "幽暗荆棘",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10370012,
         "pos": 3,
@@ -1920,8 +1920,8 @@
         ]
     },
     "10370021": {
-        "name": "\u6666\u6697",
-        "suit_name": "\u5bbf\u547d\u4e4b\u8327",
+        "name": "晦暗",
+        "suit_name": "宿命之茧",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1936,8 +1936,8 @@
         ]
     },
     "10370022": {
-        "name": "\u8c2c\u8bef",
-        "suit_name": "\u5bbf\u547d\u4e4b\u8327",
+        "name": "谬误",
+        "suit_name": "宿命之茧",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10370021,
         "pos": 2,
@@ -1952,8 +1952,8 @@
         ]
     },
     "10370023": {
-        "name": "\u6cea\u534e",
-        "suit_name": "\u5bbf\u547d\u4e4b\u8327",
+        "name": "泪华",
+        "suit_name": "宿命之茧",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10370022,
         "pos": 3,
@@ -1968,8 +1968,8 @@
         ]
     },
     "10370031": {
-        "name": "\u7ec8\u706d",
-        "suit_name": "\u9ec4\u660f\u4e27\u949f",
+        "name": "终灭",
+        "suit_name": "黄昏丧钟",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -1984,8 +1984,8 @@
         ]
     },
     "10370032": {
-        "name": "\u51a5\u6de9",
-        "suit_name": "\u9ec4\u660f\u4e27\u949f",
+        "name": "冥淩",
+        "suit_name": "黄昏丧钟",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10370031,
         "pos": 2,
@@ -2000,8 +2000,8 @@
         ]
     },
     "10370033": {
-        "name": "\u6653\u591c",
-        "suit_name": "\u9ec4\u660f\u4e27\u949f",
+        "name": "晓夜",
+        "suit_name": "黄昏丧钟",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10370032,
         "pos": 3,
@@ -2016,8 +2016,8 @@
         ]
     },
     "10110011": {
-        "name": "\u5f15\u6e21",
-        "suit_name": "\u675c\u57c3\u4e3b\u5bb0",
+        "name": "引渡",
+        "suit_name": "杜埃主宰",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2032,8 +2032,8 @@
         ]
     },
     "10110012": {
-        "name": "\u590d\u751f",
-        "suit_name": "\u675c\u57c3\u4e3b\u5bb0",
+        "name": "复生",
+        "suit_name": "杜埃主宰",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10110011,
         "pos": 2,
@@ -2048,8 +2048,8 @@
         ]
     },
     "10110013": {
-        "name": "\u5c01\u4f10",
-        "suit_name": "\u675c\u57c3\u4e3b\u5bb0",
+        "name": "封伐",
+        "suit_name": "杜埃主宰",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10110012,
         "pos": 3,
@@ -2064,8 +2064,8 @@
         ]
     },
     "10110021": {
-        "name": "\u60e9\u5904",
-        "suit_name": "\u51a5\u5e9c\u4e4b\u8def",
+        "name": "惩处",
+        "suit_name": "冥府之路",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2080,8 +2080,8 @@
         ]
     },
     "10110022": {
-        "name": "\u90aa\u5203",
-        "suit_name": "\u51a5\u5e9c\u4e4b\u8def",
+        "name": "邪刃",
+        "suit_name": "冥府之路",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10110021,
         "pos": 2,
@@ -2096,8 +2096,8 @@
         ]
     },
     "10110023": {
-        "name": "\u94ed\u5492",
-        "suit_name": "\u51a5\u5e9c\u4e4b\u8def",
+        "name": "铭咒",
+        "suit_name": "冥府之路",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10110022,
         "pos": 3,
@@ -2112,8 +2112,8 @@
         ]
     },
     "10110031": {
-        "name": "\u9b42\u6b4c",
-        "suit_name": "\u6c38\u751f\u5ba1\u5224",
+        "name": "魂歌",
+        "suit_name": "永生审判",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2128,8 +2128,8 @@
         ]
     },
     "10110032": {
-        "name": "\u8a00\u7075",
-        "suit_name": "\u6c38\u751f\u5ba1\u5224",
+        "name": "言灵",
+        "suit_name": "永生审判",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10110031,
         "pos": 2,
@@ -2144,8 +2144,8 @@
         ]
     },
     "10110033": {
-        "name": "\u51a5\u5149",
-        "suit_name": "\u6c38\u751f\u5ba1\u5224",
+        "name": "冥光",
+        "suit_name": "永生审判",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10110032,
         "pos": 3,
@@ -2160,8 +2160,8 @@
         ]
     },
     "11990011": {
-        "name": "\u771f\u5929",
-        "suit_name": "\u9006\u5929\u7f5a\u9cde",
+        "name": "真天",
+        "suit_name": "逆天罚鳞",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2176,8 +2176,8 @@
         ]
     },
     "11990012": {
-        "name": "\u795e\u5492",
-        "suit_name": "\u9006\u5929\u7f5a\u9cde",
+        "name": "神咒",
+        "suit_name": "逆天罚鳞",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11990011,
         "pos": 2,
@@ -2192,8 +2192,8 @@
         ]
     },
     "11990013": {
-        "name": "\u5a01\u70c8",
-        "suit_name": "\u9006\u5929\u7f5a\u9cde",
+        "name": "威烈",
+        "suit_name": "逆天罚鳞",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11990012,
         "pos": 3,
@@ -2208,8 +2208,8 @@
         ]
     },
     "11990021": {
-        "name": "\u591c\u90fd",
-        "suit_name": "\u591c\u539f\u795e\u4e50",
+        "name": "夜都",
+        "suit_name": "夜原神乐",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2224,8 +2224,8 @@
         ]
     },
     "11990022": {
-        "name": "\u5043\u6708",
-        "suit_name": "\u591c\u539f\u795e\u4e50",
+        "name": "偃月",
+        "suit_name": "夜原神乐",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11990021,
         "pos": 2,
@@ -2240,8 +2240,8 @@
         ]
     },
     "11990023": {
-        "name": "\u5fa1\u5203",
-        "suit_name": "\u591c\u539f\u795e\u4e50",
+        "name": "御刃",
+        "suit_name": "夜原神乐",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11990022,
         "pos": 3,
@@ -2256,8 +2256,8 @@
         ]
     },
     "11990031": {
-        "name": "\u795e\u4e16",
-        "suit_name": "\u4e00\u5ff5\u5239\u90a3\u751f",
+        "name": "神世",
+        "suit_name": "一念刹那生",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2272,8 +2272,8 @@
         ]
     },
     "11990032": {
-        "name": "\u521b\u751f",
-        "suit_name": "\u4e00\u5ff5\u5239\u90a3\u751f",
+        "name": "创生",
+        "suit_name": "一念刹那生",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11990031,
         "pos": 2,
@@ -2288,8 +2288,8 @@
         ]
     },
     "11990033": {
-        "name": "\u6781\u5c3d",
-        "suit_name": "\u4e00\u5ff5\u5239\u90a3\u751f",
+        "name": "极尽",
+        "suit_name": "一念刹那生",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11990032,
         "pos": 3,
@@ -2304,8 +2304,8 @@
         ]
     },
     "11840011": {
-        "name": "\u63b7\u661f",
-        "suit_name": "\u795e\u94c1\u4e4b\u76fe",
+        "name": "掷星",
+        "suit_name": "神铁之盾",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2320,8 +2320,8 @@
         ]
     },
     "11840012": {
-        "name": "\u5fc3\u9501",
-        "suit_name": "\u795e\u94c1\u4e4b\u76fe",
+        "name": "心锁",
+        "suit_name": "神铁之盾",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11840011,
         "pos": 2,
@@ -2336,8 +2336,8 @@
         ]
     },
     "11840013": {
-        "name": "\u540c\u8c03",
-        "suit_name": "\u795e\u94c1\u4e4b\u76fe",
+        "name": "同调",
+        "suit_name": "神铁之盾",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11840012,
         "pos": 3,
@@ -2352,8 +2352,8 @@
         ]
     },
     "11840021": {
-        "name": "\u8fb0\u5e55",
-        "suit_name": "\u6c38\u547d\u5782\u7ebf",
+        "name": "辰幕",
+        "suit_name": "永命垂线",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2368,8 +2368,8 @@
         ]
     },
     "11840022": {
-        "name": "\u661f\u5b88",
-        "suit_name": "\u6c38\u547d\u5782\u7ebf",
+        "name": "星守",
+        "suit_name": "永命垂线",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11840021,
         "pos": 2,
@@ -2384,8 +2384,8 @@
         ]
     },
     "11840023": {
-        "name": "\u5929\u53f8",
-        "suit_name": "\u6c38\u547d\u5782\u7ebf",
+        "name": "天司",
+        "suit_name": "永命垂线",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11840022,
         "pos": 3,
@@ -2400,8 +2400,8 @@
         ]
     },
     "11840031": {
-        "name": "\u7ec7\u7ffc",
-        "suit_name": "\u9752\u7a7a\u7ea6\u675f",
+        "name": "织翼",
+        "suit_name": "青空约束",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2416,8 +2416,8 @@
         ]
     },
     "11840032": {
-        "name": "\u8a93\u5ff5",
-        "suit_name": "\u9752\u7a7a\u7ea6\u675f",
+        "name": "誓念",
+        "suit_name": "青空约束",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11840031,
         "pos": 2,
@@ -2432,8 +2432,8 @@
         ]
     },
     "11840033": {
-        "name": "\u5b88\u671b",
-        "suit_name": "\u9752\u7a7a\u7ea6\u675f",
+        "name": "守望",
+        "suit_name": "青空约束",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11840032,
         "pos": 3,
@@ -2448,8 +2448,8 @@
         ]
     },
     "10580011": {
-        "name": "\u70e7\u8680",
-        "suit_name": "\u5f52\u5929\u6b62\u5883",
+        "name": "烧蚀",
+        "suit_name": "归天止境",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2464,8 +2464,8 @@
         ]
     },
     "10580012": {
-        "name": "\u8d64\u707c",
-        "suit_name": "\u5f52\u5929\u6b62\u5883",
+        "name": "赤灼",
+        "suit_name": "归天止境",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10580011,
         "pos": 2,
@@ -2480,8 +2480,8 @@
         ]
     },
     "10580013": {
-        "name": "\u70db\u9b47",
-        "suit_name": "\u5f52\u5929\u6b62\u5883",
+        "name": "烛魇",
+        "suit_name": "归天止境",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10580012,
         "pos": 3,
@@ -2496,8 +2496,8 @@
         ]
     },
     "10580021": {
-        "name": "\u53e4\u71ff",
-        "suit_name": "\u70ab\u6bd7\u53e4\u795e",
+        "name": "古燿",
+        "suit_name": "炫毗古神",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2512,8 +2512,8 @@
         ]
     },
     "10580022": {
-        "name": "\u711a\u6a31",
-        "suit_name": "\u70ab\u6bd7\u53e4\u795e",
+        "name": "焚樱",
+        "suit_name": "炫毗古神",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10580021,
         "pos": 2,
@@ -2528,8 +2528,8 @@
         ]
     },
     "10580023": {
-        "name": "\u7978\u6b81",
-        "suit_name": "\u70ab\u6bd7\u53e4\u795e",
+        "name": "祸殁",
+        "suit_name": "炫毗古神",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10580022,
         "pos": 3,
@@ -2544,8 +2544,8 @@
         ]
     },
     "10580031": {
-        "name": "\u9006\u5377",
-        "suit_name": "\u706b\u66e6\u964d\u4e16",
+        "name": "逆卷",
+        "suit_name": "火曦降世",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2560,8 +2560,8 @@
         ]
     },
     "10580032": {
-        "name": "\u71c3\u70ec",
-        "suit_name": "\u706b\u66e6\u964d\u4e16",
+        "name": "燃烬",
+        "suit_name": "火曦降世",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10580031,
         "pos": 2,
@@ -2576,8 +2576,8 @@
         ]
     },
     "10580033": {
-        "name": "\u6d85\u706d",
-        "suit_name": "\u706b\u66e6\u964d\u4e16",
+        "name": "涅灭",
+        "suit_name": "火曦降世",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10580032,
         "pos": 3,
@@ -2592,8 +2592,8 @@
         ]
     },
     "10590011": {
-        "name": "\u8f89\u8a89",
-        "suit_name": "\u7099\u767d\u6842\u51a0",
+        "name": "辉誉",
+        "suit_name": "炙白桂冠",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2608,8 +2608,8 @@
         ]
     },
     "10590012": {
-        "name": "\u95ea\u71a0",
-        "suit_name": "\u7099\u767d\u6842\u51a0",
+        "name": "闪熠",
+        "suit_name": "炙白桂冠",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10590011,
         "pos": 2,
@@ -2624,8 +2624,8 @@
         ]
     },
     "10590013": {
-        "name": "\u5149\u5195",
-        "suit_name": "\u7099\u767d\u6842\u51a0",
+        "name": "光冕",
+        "suit_name": "炙白桂冠",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10590012,
         "pos": 3,
@@ -2640,8 +2640,8 @@
         ]
     },
     "10590021": {
-        "name": "\u65e5\u73e5",
-        "suit_name": "\u65e5\u66dc\u56fd\u5ea6",
+        "name": "日珥",
+        "suit_name": "日曜国度",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2656,8 +2656,8 @@
         ]
     },
     "10590022": {
-        "name": "\u8000\u6591",
-        "suit_name": "\u65e5\u66dc\u56fd\u5ea6",
+        "name": "耀斑",
+        "suit_name": "日曜国度",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10590021,
         "pos": 2,
@@ -2672,8 +2672,8 @@
         ]
     },
     "10590023": {
-        "name": "\u6668\u661f",
-        "suit_name": "\u65e5\u66dc\u56fd\u5ea6",
+        "name": "晨星",
+        "suit_name": "日曜国度",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10590022,
         "pos": 3,
@@ -2688,8 +2688,8 @@
         ]
     },
     "10590031": {
-        "name": "\u5723\u5bf0",
-        "suit_name": "\u6d69\u6e3a\u714c\u5149",
+        "name": "圣寰",
+        "suit_name": "浩渺煌光",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2704,8 +2704,8 @@
         ]
     },
     "10590032": {
-        "name": "\u65e5\u4eea",
-        "suit_name": "\u6d69\u6e3a\u714c\u5149",
+        "name": "日仪",
+        "suit_name": "浩渺煌光",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10590031,
         "pos": 2,
@@ -2720,8 +2720,8 @@
         ]
     },
     "10590033": {
-        "name": "\u70c8\u8f89",
-        "suit_name": "\u6d69\u6e3a\u714c\u5149",
+        "name": "烈辉",
+        "suit_name": "浩渺煌光",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10590032,
         "pos": 3,
@@ -2736,8 +2736,8 @@
         ]
     },
     "10960011": {
-        "name": "\u65f6\u7eed",
-        "suit_name": "\u72e1\u77e5\u6e38\u620f",
+        "name": "时续",
+        "suit_name": "狡知游戏",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2752,8 +2752,8 @@
         ]
     },
     "10960012": {
-        "name": "\u75be\u884c",
-        "suit_name": "\u72e1\u77e5\u6e38\u620f",
+        "name": "疾行",
+        "suit_name": "狡知游戏",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10960011,
         "pos": 2,
@@ -2768,8 +2768,8 @@
         ]
     },
     "10960013": {
-        "name": "\u7fd4\u98ce",
-        "suit_name": "\u72e1\u77e5\u6e38\u620f",
+        "name": "翔风",
+        "suit_name": "狡知游戏",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10960012,
         "pos": 3,
@@ -2784,8 +2784,8 @@
         ]
     },
     "10960021": {
-        "name": "\u771f\u8bc6",
-        "suit_name": "\u4e09\u91cd\u4f1f\u5927",
+        "name": "真识",
+        "suit_name": "三重伟大",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2800,8 +2800,8 @@
         ]
     },
     "10960022": {
-        "name": "\u82cd\u7fe0",
-        "suit_name": "\u4e09\u91cd\u4f1f\u5927",
+        "name": "苍翠",
+        "suit_name": "三重伟大",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10960021,
         "pos": 2,
@@ -2816,8 +2816,8 @@
         ]
     },
     "10960023": {
-        "name": "\u6467\u575a",
-        "suit_name": "\u4e09\u91cd\u4f1f\u5927",
+        "name": "摧坚",
+        "suit_name": "三重伟大",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10960022,
         "pos": 3,
@@ -2832,8 +2832,8 @@
         ]
     },
     "10960031": {
-        "name": "\u767d\u7fbd",
-        "suit_name": "\u533f\u5f71\u4fe1\u4f7f",
+        "name": "白羽",
+        "suit_name": "匿影信使",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2848,8 +2848,8 @@
         ]
     },
     "10960032": {
-        "name": "\u6781\u901f",
-        "suit_name": "\u533f\u5f71\u4fe1\u4f7f",
+        "name": "极速",
+        "suit_name": "匿影信使",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10960031,
         "pos": 2,
@@ -2864,8 +2864,8 @@
         ]
     },
     "10960033": {
-        "name": "\u6ca7\u5c9a",
-        "suit_name": "\u533f\u5f71\u4fe1\u4f7f",
+        "name": "沧岚",
+        "suit_name": "匿影信使",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10960032,
         "pos": 3,
@@ -2880,8 +2880,8 @@
         ]
     },
     "10260011": {
-        "name": "\u7130\u5f81",
-        "suit_name": "\u6218\u706b\u7194\u7089",
+        "name": "焰征",
+        "suit_name": "战火熔炉",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2896,8 +2896,8 @@
         ]
     },
     "10260012": {
-        "name": "\u7194\u51fb",
-        "suit_name": "\u6218\u706b\u7194\u7089",
+        "name": "熔击",
+        "suit_name": "战火熔炉",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10260011,
         "pos": 2,
@@ -2912,8 +2912,8 @@
         ]
     },
     "10260013": {
-        "name": "\u7206\u708e",
-        "suit_name": "\u6218\u706b\u7194\u7089",
+        "name": "爆炎",
+        "suit_name": "战火熔炉",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10260012,
         "pos": 3,
@@ -2928,8 +2928,8 @@
         ]
     },
     "10260021": {
-        "name": "\u68b0\u80fd",
-        "suit_name": "\u6495\u88c2\u94f6\u624b",
+        "name": "械能",
+        "suit_name": "撕裂银手",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2944,8 +2944,8 @@
         ]
     },
     "10260022": {
-        "name": "\u8d85\u8f7d",
-        "suit_name": "\u6495\u88c2\u94f6\u624b",
+        "name": "超载",
+        "suit_name": "撕裂银手",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10260021,
         "pos": 2,
@@ -2960,8 +2960,8 @@
         ]
     },
     "10260023": {
-        "name": "\u589e\u6b96",
-        "suit_name": "\u6495\u88c2\u94f6\u624b",
+        "name": "增殖",
+        "suit_name": "撕裂银手",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10260022,
         "pos": 3,
@@ -2976,8 +2976,8 @@
         ]
     },
     "10260031": {
-        "name": "\u711a\u5c3d",
-        "suit_name": "\u673a\u88c5\u730e\u5175",
+        "name": "焚尽",
+        "suit_name": "机装猎兵",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -2992,8 +2992,8 @@
         ]
     },
     "10260032": {
-        "name": "\u5a01\u7130",
-        "suit_name": "\u673a\u88c5\u730e\u5175",
+        "name": "威焰",
+        "suit_name": "机装猎兵",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10260031,
         "pos": 2,
@@ -3008,8 +3008,8 @@
         ]
     },
     "10260033": {
-        "name": "\u5730\u706b",
-        "suit_name": "\u673a\u88c5\u730e\u5175",
+        "name": "地火",
+        "suit_name": "机装猎兵",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10260032,
         "pos": 3,
@@ -3024,8 +3024,8 @@
         ]
     },
     "10970011": {
-        "name": "\u68a6\u5146",
-        "suit_name": "\u68a6\u5883\u4e4b\u56fd",
+        "name": "梦兆",
+        "suit_name": "梦境之国",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3040,8 +3040,8 @@
         ]
     },
     "10970012": {
-        "name": "\u591c\u5bd0",
-        "suit_name": "\u68a6\u5883\u4e4b\u56fd",
+        "name": "夜寐",
+        "suit_name": "梦境之国",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10970011,
         "pos": 2,
@@ -3056,8 +3056,8 @@
         ]
     },
     "10970013": {
-        "name": "\u65e7\u601d",
-        "suit_name": "\u68a6\u5883\u4e4b\u56fd",
+        "name": "旧思",
+        "suit_name": "梦境之国",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10970012,
         "pos": 3,
@@ -3072,8 +3072,8 @@
         ]
     },
     "10970021": {
-        "name": "\u5e7d\u60f3",
-        "suit_name": "\u7a7a\u5e7b\u9020\u7269",
+        "name": "幽想",
+        "suit_name": "空幻造物",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3088,8 +3088,8 @@
         ]
     },
     "10970022": {
-        "name": "\u6295\u5f71",
-        "suit_name": "\u7a7a\u5e7b\u9020\u7269",
+        "name": "投影",
+        "suit_name": "空幻造物",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10970021,
         "pos": 2,
@@ -3104,8 +3104,8 @@
         ]
     },
     "10970023": {
-        "name": "\u6d41\u7eda",
-        "suit_name": "\u7a7a\u5e7b\u9020\u7269",
+        "name": "流绚",
+        "suit_name": "空幻造物",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10970022,
         "pos": 3,
@@ -3120,8 +3120,8 @@
         ]
     },
     "10970031": {
-        "name": "\u5e7b\u594f",
-        "suit_name": "\u6c38\u6052\u6447\u7bee",
+        "name": "幻奏",
+        "suit_name": "永恒摇篮",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3136,8 +3136,8 @@
         ]
     },
     "10970032": {
-        "name": "\u548f\u6b4c",
-        "suit_name": "\u6c38\u6052\u6447\u7bee",
+        "name": "咏歌",
+        "suit_name": "永恒摇篮",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10970031,
         "pos": 2,
@@ -3152,8 +3152,8 @@
         ]
     },
     "10970033": {
-        "name": "\u828a\u7720",
-        "suit_name": "\u6c38\u6052\u6447\u7bee",
+        "name": "芊眠",
+        "suit_name": "永恒摇篮",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10970032,
         "pos": 3,
@@ -3168,8 +3168,8 @@
         ]
     },
     "11390011": {
-        "name": "\u5bd2\u6676",
-        "suit_name": "\u7480\u74a8\u5bd2\u51ac",
+        "name": "寒晶",
+        "suit_name": "璀璨寒冬",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3184,8 +3184,8 @@
         ]
     },
     "11390012": {
-        "name": "\u7edd\u5c01",
-        "suit_name": "\u7480\u74a8\u5bd2\u51ac",
+        "name": "绝封",
+        "suit_name": "璀璨寒冬",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11390011,
         "pos": 2,
@@ -3200,8 +3200,8 @@
         ]
     },
     "11390013": {
-        "name": "\u51db\u5bd2",
-        "suit_name": "\u7480\u74a8\u5bd2\u51ac",
+        "name": "凛寒",
+        "suit_name": "璀璨寒冬",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11390012,
         "pos": 3,
@@ -3216,8 +3216,8 @@
         ]
     },
     "11390021": {
-        "name": "\u7a7a\u51cc",
-        "suit_name": "\u6781\u5730\u94f6\u6cb3",
+        "name": "空凌",
+        "suit_name": "极地银河",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3232,8 +3232,8 @@
         ]
     },
     "11390022": {
-        "name": "\u70c1\u96ea",
-        "suit_name": "\u6781\u5730\u94f6\u6cb3",
+        "name": "烁雪",
+        "suit_name": "极地银河",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11390021,
         "pos": 2,
@@ -3248,8 +3248,8 @@
         ]
     },
     "11390023": {
-        "name": "\u6781\u6e0a",
-        "suit_name": "\u6781\u5730\u94f6\u6cb3",
+        "name": "极渊",
+        "suit_name": "极地银河",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11390022,
         "pos": 3,
@@ -3264,8 +3264,8 @@
         ]
     },
     "11390031": {
-        "name": "\u51b0\u5c18",
-        "suit_name": "\u9759\u8c27\u4e4b\u767d",
+        "name": "冰尘",
+        "suit_name": "静谧之白",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3280,8 +3280,8 @@
         ]
     },
     "11390032": {
-        "name": "\u51dd\u534e",
-        "suit_name": "\u9759\u8c27\u4e4b\u767d",
+        "name": "凝华",
+        "suit_name": "静谧之白",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11390031,
         "pos": 2,
@@ -3296,8 +3296,8 @@
         ]
     },
     "11390033": {
-        "name": "\u96ea\u8986",
-        "suit_name": "\u9759\u8c27\u4e4b\u767d",
+        "name": "雪覆",
+        "suit_name": "静谧之白",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11390032,
         "pos": 3,
@@ -3312,8 +3312,8 @@
         ]
     },
     "11380011": {
-        "name": "\u661f\u7a79",
-        "suit_name": "\u6e05\u8f89\u661f\u6d77",
+        "name": "星穹",
+        "suit_name": "清辉星海",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3328,8 +3328,8 @@
         ]
     },
     "11380012": {
-        "name": "\u5929\u6743",
-        "suit_name": "\u6e05\u8f89\u661f\u6d77",
+        "name": "天权",
+        "suit_name": "清辉星海",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11380011,
         "pos": 2,
@@ -3344,8 +3344,8 @@
         ]
     },
     "11380013": {
-        "name": "\u701a\u5b87",
-        "suit_name": "\u6e05\u8f89\u661f\u6d77",
+        "name": "瀚宇",
+        "suit_name": "清辉星海",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11380012,
         "pos": 3,
@@ -3360,8 +3360,8 @@
         ]
     },
     "11380021": {
-        "name": "\u7834\u66d9",
-        "suit_name": "\u663c\u591c\u5929\u542f",
+        "name": "破曙",
+        "suit_name": "昼夜天启",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3376,8 +3376,8 @@
         ]
     },
     "11380022": {
-        "name": "\u8fb0\u5149",
-        "suit_name": "\u663c\u591c\u5929\u542f",
+        "name": "辰光",
+        "suit_name": "昼夜天启",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11380021,
         "pos": 2,
@@ -3392,8 +3392,8 @@
         ]
     },
     "11380023": {
-        "name": "\u5e7b\u8000",
-        "suit_name": "\u663c\u591c\u5929\u542f",
+        "name": "幻耀",
+        "suit_name": "昼夜天启",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11380022,
         "pos": 3,
@@ -3408,8 +3408,8 @@
         ]
     },
     "11380031": {
-        "name": "\u5d07\u6781",
-        "suit_name": "\u6781\u5149\u548f\u53f9",
+        "name": "崇极",
+        "suit_name": "极光咏叹",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3424,8 +3424,8 @@
         ]
     },
     "11380032": {
-        "name": "\u65e0\u7455",
-        "suit_name": "\u6781\u5149\u548f\u53f9",
+        "name": "无瑕",
+        "suit_name": "极光咏叹",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11380031,
         "pos": 2,
@@ -3440,8 +3440,8 @@
         ]
     },
     "11380033": {
-        "name": "\u6e05\u6656",
-        "suit_name": "\u6781\u5149\u548f\u53f9",
+        "name": "清晖",
+        "suit_name": "极光咏叹",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11380032,
         "pos": 3,
@@ -3456,8 +3456,8 @@
         ]
     },
     "10130011": {
-        "name": "\u5ac9\u60ad",
-        "suit_name": "\u4e00\u5ff5\u65e0\u660e",
+        "name": "嫉悭",
+        "suit_name": "一念无明",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3472,8 +3472,8 @@
         ]
     },
     "10130012": {
-        "name": "\u8986\u969c",
-        "suit_name": "\u4e00\u5ff5\u65e0\u660e",
+        "name": "覆障",
+        "suit_name": "一念无明",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10130011,
         "pos": 2,
@@ -3488,8 +3488,8 @@
         ]
     },
     "10130013": {
-        "name": "\u5815\u82e6",
-        "suit_name": "\u4e00\u5ff5\u65e0\u660e",
+        "name": "堕苦",
+        "suit_name": "一念无明",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10130012,
         "pos": 3,
@@ -3504,8 +3504,8 @@
         ]
     },
     "10130021": {
-        "name": "\u6012\u618e",
-        "suit_name": "\u4fee\u7f57\u6218\u754c",
+        "name": "怒憎",
+        "suit_name": "修罗战界",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3520,8 +3520,8 @@
         ]
     },
     "10130022": {
-        "name": "\u5e7b\u4f2a",
-        "suit_name": "\u4fee\u7f57\u6218\u754c",
+        "name": "幻伪",
+        "suit_name": "修罗战界",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10130021,
         "pos": 2,
@@ -3536,8 +3536,8 @@
         ]
     },
     "10130023": {
-        "name": "\u9053\u6444",
-        "suit_name": "\u4fee\u7f57\u6218\u754c",
+        "name": "道摄",
+        "suit_name": "修罗战界",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10130022,
         "pos": 3,
@@ -3552,8 +3552,8 @@
         ]
     },
     "10130031": {
-        "name": "\u5426\u5929",
-        "suit_name": "\u975e\u5929\u4e4b\u4e49",
+        "name": "否天",
+        "suit_name": "非天之义",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3568,8 +3568,8 @@
         ]
     },
     "10130032": {
-        "name": "\u65e0\u9152",
-        "suit_name": "\u975e\u5929\u4e4b\u4e49",
+        "name": "无酒",
+        "suit_name": "非天之义",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10130031,
         "pos": 2,
@@ -3584,8 +3584,8 @@
         ]
     },
     "10130033": {
-        "name": "\u754c\u7834",
-        "suit_name": "\u975e\u5929\u4e4b\u4e49",
+        "name": "界破",
+        "suit_name": "非天之义",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10130032,
         "pos": 3,
@@ -3600,8 +3600,8 @@
         ]
     },
     "10560011": {
-        "name": "\u8d5e\u6b4c",
-        "suit_name": "\u63d0\u6bd7\u65f6\u6bcd",
+        "name": "赞歌",
+        "suit_name": "提毗时母",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3616,8 +3616,8 @@
         ]
     },
     "10560012": {
-        "name": "\u68b5\u884c",
-        "suit_name": "\u63d0\u6bd7\u65f6\u6bcd",
+        "name": "梵行",
+        "suit_name": "提毗时母",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10560011,
         "pos": 2,
@@ -3632,8 +3632,8 @@
         ]
     },
     "10560013": {
-        "name": "\u521a\u8010",
-        "suit_name": "\u63d0\u6bd7\u65f6\u6bcd",
+        "name": "刚耐",
+        "suit_name": "提毗时母",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10560012,
         "pos": 3,
@@ -3648,8 +3648,8 @@
         ]
     },
     "10560021": {
-        "name": "\u5d29\u4e16",
-        "suit_name": "\u60f6\u6012\u964d\u9b54",
+        "name": "崩世",
+        "suit_name": "惶怒降魔",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3664,8 +3664,8 @@
         ]
     },
     "10560022": {
-        "name": "\u6467\u795e",
-        "suit_name": "\u60f6\u6012\u964d\u9b54",
+        "name": "摧神",
+        "suit_name": "惶怒降魔",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10560021,
         "pos": 2,
@@ -3680,8 +3680,8 @@
         ]
     },
     "10560023": {
-        "name": "\u6469\u7f57",
-        "suit_name": "\u60f6\u6012\u964d\u9b54",
+        "name": "摩罗",
+        "suit_name": "惶怒降魔",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10560022,
         "pos": 3,
@@ -3696,8 +3696,8 @@
         ]
     },
     "10560031": {
-        "name": "\u795e\u5b7d",
-        "suit_name": "\u4e09\u6469\u8036\u4e4b\u4e3b",
+        "name": "神孽",
+        "suit_name": "三摩耶之主",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3712,8 +3712,8 @@
         ]
     },
     "10560032": {
-        "name": "\u4fb5\u8680",
-        "suit_name": "\u4e09\u6469\u8036\u4e4b\u4e3b",
+        "name": "侵蚀",
+        "suit_name": "三摩耶之主",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10560031,
         "pos": 2,
@@ -3728,8 +3728,8 @@
         ]
     },
     "10560033": {
-        "name": "\u8be1\u9690",
-        "suit_name": "\u4e09\u6469\u8036\u4e4b\u4e3b",
+        "name": "诡隐",
+        "suit_name": "三摩耶之主",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10560032,
         "pos": 3,
@@ -3744,8 +3744,8 @@
         ]
     },
     "11110011": {
-        "name": "\u8428\u8d6b",
-        "suit_name": "\u9006\u8f6c\u590d\u751f",
+        "name": "萨赫",
+        "suit_name": "逆转复生",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3760,8 +3760,8 @@
         ]
     },
     "11110012": {
-        "name": "\u795e\u67e9",
-        "suit_name": "\u9006\u8f6c\u590d\u751f",
+        "name": "神柩",
+        "suit_name": "逆转复生",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11110011,
         "pos": 2,
@@ -3776,8 +3776,8 @@
         ]
     },
     "11110013": {
-        "name": "\u6b93\u85cf",
-        "suit_name": "\u9006\u8f6c\u590d\u751f",
+        "name": "殓藏",
+        "suit_name": "逆转复生",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11110012,
         "pos": 3,
@@ -3792,8 +3792,8 @@
         ]
     },
     "11110021": {
-        "name": "\u793c\u9882",
-        "suit_name": "\u81f3\u4e0a\u5ba1\u5224",
+        "name": "礼颂",
+        "suit_name": "至上审判",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3808,8 +3808,8 @@
         ]
     },
     "11110022": {
-        "name": "\u6212\u5f8b",
-        "suit_name": "\u81f3\u4e0a\u5ba1\u5224",
+        "name": "戒律",
+        "suit_name": "至上审判",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11110021,
         "pos": 2,
@@ -3824,8 +3824,8 @@
         ]
     },
     "11110023": {
-        "name": "\u8d66\u4ee4",
-        "suit_name": "\u81f3\u4e0a\u5ba1\u5224",
+        "name": "赦令",
+        "suit_name": "至上审判",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11110022,
         "pos": 3,
@@ -3840,8 +3840,8 @@
         ]
     },
     "11110031": {
-        "name": "\u5723\u4e66",
-        "suit_name": "\u4e30\u9976\u9e35\u7fbd",
+        "name": "圣书",
+        "suit_name": "丰饶鸵羽",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3856,8 +3856,8 @@
         ]
     },
     "11110032": {
-        "name": "\u795e\u8f9e",
-        "suit_name": "\u4e30\u9976\u9e35\u7fbd",
+        "name": "神辞",
+        "suit_name": "丰饶鸵羽",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11110031,
         "pos": 2,
@@ -3872,8 +3872,8 @@
         ]
     },
     "11110033": {
-        "name": "\u82cf\u751f",
-        "suit_name": "\u4e30\u9976\u9e35\u7fbd",
+        "name": "苏生",
+        "suit_name": "丰饶鸵羽",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11110032,
         "pos": 3,
@@ -3888,8 +3888,8 @@
         ]
     },
     "10320011": {
-        "name": "\u519b\u795e",
-        "suit_name": "\u4e0d\u673d\u9510\u950b",
+        "name": "军神",
+        "suit_name": "不朽锐锋",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3904,8 +3904,8 @@
         ]
     },
     "10320012": {
-        "name": "\u65a9\u88c2",
-        "suit_name": "\u4e0d\u673d\u9510\u950b",
+        "name": "斩裂",
+        "suit_name": "不朽锐锋",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10320011,
         "pos": 2,
@@ -3920,8 +3920,8 @@
         ]
     },
     "10320013": {
-        "name": "\u5251\u821e",
-        "suit_name": "\u4e0d\u673d\u9510\u950b",
+        "name": "剑舞",
+        "suit_name": "不朽锐锋",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10320012,
         "pos": 3,
@@ -3936,8 +3936,8 @@
         ]
     },
     "10320021": {
-        "name": "\u5047\u8a93",
-        "suit_name": "\u72fc\u566c\u4e4b\u4f24",
+        "name": "假誓",
+        "suit_name": "狼噬之伤",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -3952,8 +3952,8 @@
         ]
     },
     "10320022": {
-        "name": "\u65ad\u75d5",
-        "suit_name": "\u72fc\u566c\u4e4b\u4f24",
+        "name": "断痕",
+        "suit_name": "狼噬之伤",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10320021,
         "pos": 2,
@@ -3968,8 +3968,8 @@
         ]
     },
     "10320023": {
-        "name": "\u66ae\u5149",
-        "suit_name": "\u72fc\u566c\u4e4b\u4f24",
+        "name": "暮光",
+        "suit_name": "狼噬之伤",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10320022,
         "pos": 3,
@@ -3984,8 +3984,8 @@
         ]
     },
     "10320031": {
-        "name": "\u660e\u5c01",
-        "suit_name": "\u5f02\u8272\u683c\u8c61",
+        "name": "明封",
+        "suit_name": "异色格象",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4000,8 +4000,8 @@
         ]
     },
     "10320032": {
-        "name": "\u5175\u6954",
-        "suit_name": "\u5f02\u8272\u683c\u8c61",
+        "name": "兵楔",
+        "suit_name": "异色格象",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10320031,
         "pos": 2,
@@ -4016,8 +4016,8 @@
         ]
     },
     "10320033": {
-        "name": "\u8054\u578b",
-        "suit_name": "\u5f02\u8272\u683c\u8c61",
+        "name": "联型",
+        "suit_name": "异色格象",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10320032,
         "pos": 3,
@@ -4032,8 +4032,8 @@
         ]
     },
     "10350011": {
-        "name": "\u6217\u7f5a",
-        "suit_name": "\u8e48\u950b\u996e\u6218",
+        "name": "戗罚",
+        "suit_name": "蹈锋饮战",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4048,8 +4048,8 @@
         ]
     },
     "10350012": {
-        "name": "\u50ac\u67af",
-        "suit_name": "\u8e48\u950b\u996e\u6218",
+        "name": "催枯",
+        "suit_name": "蹈锋饮战",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10350011,
         "pos": 2,
@@ -4064,8 +4064,8 @@
         ]
     },
     "10350013": {
-        "name": "\u8c0b\u8fdc",
-        "suit_name": "\u8e48\u950b\u996e\u6218",
+        "name": "谋远",
+        "suit_name": "蹈锋饮战",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10350012,
         "pos": 3,
@@ -4080,8 +4080,8 @@
         ]
     },
     "10350021": {
-        "name": "\u524d\u54e8",
-        "suit_name": "\u575a\u52c7\u4e4b\u8c8c",
+        "name": "前哨",
+        "suit_name": "坚勇之貌",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4096,8 +4096,8 @@
         ]
     },
     "10350022": {
-        "name": "\u52cb\u8ff9",
-        "suit_name": "\u575a\u52c7\u4e4b\u8c8c",
+        "name": "勋迹",
+        "suit_name": "坚勇之貌",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10350021,
         "pos": 2,
@@ -4112,8 +4112,8 @@
         ]
     },
     "10350023": {
-        "name": "\u606b\u706d",
-        "suit_name": "\u575a\u52c7\u4e4b\u8c8c",
+        "name": "恫灭",
+        "suit_name": "坚勇之貌",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10350022,
         "pos": 3,
@@ -4128,8 +4128,8 @@
         ]
     },
     "10350031": {
-        "name": "\u9cc4\u6d77",
-        "suit_name": "\u6ce2\u6d9b\u4e3b\u5bb0",
+        "name": "鳄海",
+        "suit_name": "波涛主宰",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4144,8 +4144,8 @@
         ]
     },
     "10350032": {
-        "name": "\u9a81\u6840",
-        "suit_name": "\u6ce2\u6d9b\u4e3b\u5bb0",
+        "name": "骁桀",
+        "suit_name": "波涛主宰",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10350031,
         "pos": 2,
@@ -4160,8 +4160,8 @@
         ]
     },
     "10350033": {
-        "name": "\u6cb8\u5929",
-        "suit_name": "\u6ce2\u6d9b\u4e3b\u5bb0",
+        "name": "沸天",
+        "suit_name": "波涛主宰",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10350032,
         "pos": 3,
@@ -4176,8 +4176,8 @@
         ]
     },
     "10410011": {
-        "name": "\u67d4\u5f26",
-        "suit_name": "\u9e23\u5203\u594f\u54cd",
+        "name": "柔弦",
+        "suit_name": "鸣刃奏响",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4192,8 +4192,8 @@
         ]
     },
     "10410012": {
-        "name": "\u75be\u5f26",
-        "suit_name": "\u9e23\u5203\u594f\u54cd",
+        "name": "疾弦",
+        "suit_name": "鸣刃奏响",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10410011,
         "pos": 2,
@@ -4208,8 +4208,8 @@
         ]
     },
     "10410013": {
-        "name": "\u4f59\u97f3",
-        "suit_name": "\u9e23\u5203\u594f\u54cd",
+        "name": "余音",
+        "suit_name": "鸣刃奏响",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10410012,
         "pos": 3,
@@ -4224,8 +4224,8 @@
         ]
     },
     "10410021": {
-        "name": "\u97f3\u76fe",
-        "suit_name": "\u6218\u4e50\u9f50\u9e23",
+        "name": "音盾",
+        "suit_name": "战乐齐鸣",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4240,8 +4240,8 @@
         ]
     },
     "10410022": {
-        "name": "\u6d41\u5f26",
-        "suit_name": "\u6218\u4e50\u9f50\u9e23",
+        "name": "流弦",
+        "suit_name": "战乐齐鸣",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10410021,
         "pos": 2,
@@ -4256,8 +4256,8 @@
         ]
     },
     "10410023": {
-        "name": "\u4e50\u5203",
-        "suit_name": "\u6218\u4e50\u9f50\u9e23",
+        "name": "乐刃",
+        "suit_name": "战乐齐鸣",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10410022,
         "pos": 3,
@@ -4272,8 +4272,8 @@
         ]
     },
     "10410031": {
-        "name": "\u4e50\u8c31",
-        "suit_name": "\u795e\u66f2\u9ad8\u4ea2",
+        "name": "乐谱",
+        "suit_name": "神曲高亢",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4288,8 +4288,8 @@
         ]
     },
     "10410032": {
-        "name": "\u795e\u66f2",
-        "suit_name": "\u795e\u66f2\u9ad8\u4ea2",
+        "name": "神曲",
+        "suit_name": "神曲高亢",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10410031,
         "pos": 2,
@@ -4304,8 +4304,8 @@
         ]
     },
     "10410033": {
-        "name": "\u5408\u594f",
-        "suit_name": "\u795e\u66f2\u9ad8\u4ea2",
+        "name": "合奏",
+        "suit_name": "神曲高亢",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10410032,
         "pos": 3,
@@ -4320,8 +4320,8 @@
         ]
     },
     "10420011": {
-        "name": "\u5e7d\u601d",
-        "suit_name": "\u51a5\u738b\u7684\u611a\u5f04",
+        "name": "幽思",
+        "suit_name": "冥王的愚弄",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4336,8 +4336,8 @@
         ]
     },
     "10420012": {
-        "name": "\u6d41\u8f6c",
-        "suit_name": "\u51a5\u738b\u7684\u611a\u5f04",
+        "name": "流转",
+        "suit_name": "冥王的愚弄",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10420011,
         "pos": 2,
@@ -4352,8 +4352,8 @@
         ]
     },
     "10420013": {
-        "name": "\u8d77\u821e",
-        "suit_name": "\u51a5\u738b\u7684\u611a\u5f04",
+        "name": "起舞",
+        "suit_name": "冥王的愚弄",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10420012,
         "pos": 3,
@@ -4368,8 +4368,8 @@
         ]
     },
     "10420021": {
-        "name": "\u795e\u6743",
-        "suit_name": "\u51a5\u738b\u7684\u6743\u8861",
+        "name": "神权",
+        "suit_name": "冥王的权衡",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4384,8 +4384,8 @@
         ]
     },
     "10420022": {
-        "name": "\u5b9a\u52bf",
-        "suit_name": "\u51a5\u738b\u7684\u6743\u8861",
+        "name": "定势",
+        "suit_name": "冥王的权衡",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10420021,
         "pos": 2,
@@ -4400,8 +4400,8 @@
         ]
     },
     "10420023": {
-        "name": "\u5e7d\u8861",
-        "suit_name": "\u51a5\u738b\u7684\u6743\u8861",
+        "name": "幽衡",
+        "suit_name": "冥王的权衡",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10420022,
         "pos": 3,
@@ -4416,8 +4416,8 @@
         ]
     },
     "10420031": {
-        "name": "\u6697\u6d41",
-        "suit_name": "\u51a5\u738b\u7684\u754c\u9650",
+        "name": "暗流",
+        "suit_name": "冥王的界限",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4432,8 +4432,8 @@
         ]
     },
     "10420032": {
-        "name": "\u51a5\u6f6e",
-        "suit_name": "\u51a5\u738b\u7684\u754c\u9650",
+        "name": "冥潮",
+        "suit_name": "冥王的界限",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10420031,
         "pos": 2,
@@ -4448,8 +4448,8 @@
         ]
     },
     "10420033": {
-        "name": "\u6781\u57df",
-        "suit_name": "\u51a5\u738b\u7684\u754c\u9650",
+        "name": "极域",
+        "suit_name": "冥王的界限",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10420032,
         "pos": 3,
@@ -4464,8 +4464,8 @@
         ]
     },
     "11190011": {
-        "name": "\u8c10\u632f",
-        "suit_name": "\u9e23\u96f7\u6c99\u66b4",
+        "name": "谐振",
+        "suit_name": "鸣雷沙暴",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4480,8 +4480,8 @@
         ]
     },
     "11190012": {
-        "name": "\u5f3a\u98ce",
-        "suit_name": "\u9e23\u96f7\u6c99\u66b4",
+        "name": "强风",
+        "suit_name": "鸣雷沙暴",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11190011,
         "pos": 2,
@@ -4496,8 +4496,8 @@
         ]
     },
     "11190013": {
-        "name": "\u96f7\u66b4",
-        "suit_name": "\u9e23\u96f7\u6c99\u66b4",
+        "name": "雷暴",
+        "suit_name": "鸣雷沙暴",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11190012,
         "pos": 3,
@@ -4512,8 +4512,8 @@
         ]
     },
     "11190021": {
-        "name": "\u5c16\u7891",
-        "suit_name": "\u98ce\u96f7\u9886\u57df",
+        "name": "尖碑",
+        "suit_name": "风雷领域",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4528,8 +4528,8 @@
         ]
     },
     "11190022": {
-        "name": "\u6c99\u8680",
-        "suit_name": "\u98ce\u96f7\u9886\u57df",
+        "name": "沙蚀",
+        "suit_name": "风雷领域",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11190021,
         "pos": 2,
@@ -4544,8 +4544,8 @@
         ]
     },
     "11190023": {
-        "name": "\u96f7\u5fa1",
-        "suit_name": "\u98ce\u96f7\u9886\u57df",
+        "name": "雷御",
+        "suit_name": "风雷领域",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11190022,
         "pos": 3,
@@ -4560,8 +4560,8 @@
         ]
     },
     "11190031": {
-        "name": "\u84c4\u52bf",
-        "suit_name": "\u5929\u5730\u4e4b\u67f1",
+        "name": "蓄势",
+        "suit_name": "天地之柱",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4576,8 +4576,8 @@
         ]
     },
     "11190032": {
-        "name": "\u6d41\u8f6c",
-        "suit_name": "\u5929\u5730\u4e4b\u67f1",
+        "name": "流转",
+        "suit_name": "天地之柱",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11190031,
         "pos": 2,
@@ -4592,8 +4592,8 @@
         ]
     },
     "11190033": {
-        "name": "\u951a\u5b9a",
-        "suit_name": "\u5929\u5730\u4e4b\u67f1",
+        "name": "锚定",
+        "suit_name": "天地之柱",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11190032,
         "pos": 3,
@@ -4608,8 +4608,8 @@
         ]
     },
     "10330011": {
-        "name": "\u5148\u9a71",
-        "suit_name": "\u5929\u542f",
+        "name": "先驱",
+        "suit_name": "天启",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4624,8 +4624,8 @@
         ]
     },
     "10330012": {
-        "name": "\u51a5\u601d",
-        "suit_name": "\u5929\u542f",
+        "name": "冥思",
+        "suit_name": "天启",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10330011,
         "pos": 2,
@@ -4640,8 +4640,8 @@
         ]
     },
     "10330013": {
-        "name": "\u5f15\u6208",
-        "suit_name": "\u5929\u542f",
+        "name": "引戈",
+        "suit_name": "天启",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10330012,
         "pos": 3,
@@ -4656,8 +4656,8 @@
         ]
     },
     "10330021": {
-        "name": "\u9010\u8679",
-        "suit_name": "\u5a01\u4e34",
+        "name": "逐虹",
+        "suit_name": "威临",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4672,8 +4672,8 @@
         ]
     },
     "10330022": {
-        "name": "\u7834\u9635",
-        "suit_name": "\u5a01\u4e34",
+        "name": "破阵",
+        "suit_name": "威临",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10330021,
         "pos": 2,
@@ -4688,8 +4688,8 @@
         ]
     },
     "10330023": {
-        "name": "\u6597\u8005",
-        "suit_name": "\u5a01\u4e34",
+        "name": "斗者",
+        "suit_name": "威临",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10330022,
         "pos": 3,
@@ -4704,8 +4704,8 @@
         ]
     },
     "10330031": {
-        "name": "\u85cf\u8574",
-        "suit_name": "\u662d\u4e16",
+        "name": "藏蕴",
+        "suit_name": "昭世",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4720,8 +4720,8 @@
         ]
     },
     "10330032": {
-        "name": "\u9690\u950b",
-        "suit_name": "\u662d\u4e16",
+        "name": "隐锋",
+        "suit_name": "昭世",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10330031,
         "pos": 2,
@@ -4736,8 +4736,8 @@
         ]
     },
     "10330033": {
-        "name": "\u65e0\u5195",
-        "suit_name": "\u662d\u4e16",
+        "name": "无冕",
+        "suit_name": "昭世",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10330032,
         "pos": 3,
@@ -4752,8 +4752,8 @@
         ]
     },
     "10680011": {
-        "name": "\u9ad8\u538b",
-        "suit_name": "\u519b\u795e\u4e4b\u89e6",
+        "name": "高压",
+        "suit_name": "军神之触",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4768,8 +4768,8 @@
         ]
     },
     "10680012": {
-        "name": "\u6c14\u7206",
-        "suit_name": "\u519b\u795e\u4e4b\u89e6",
+        "name": "气爆",
+        "suit_name": "军神之触",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10680011,
         "pos": 2,
@@ -4784,8 +4784,8 @@
         ]
     },
     "10680013": {
-        "name": "\u7d0a\u6d41",
-        "suit_name": "\u519b\u795e\u4e4b\u89e6",
+        "name": "紊流",
+        "suit_name": "军神之触",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10680012,
         "pos": 3,
@@ -4800,8 +4800,8 @@
         ]
     },
     "10680021": {
-        "name": "\u771f\u7a7a",
-        "suit_name": "\u98ce\u795e\u4e4b\u5fc3",
+        "name": "真空",
+        "suit_name": "风神之心",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4816,8 +4816,8 @@
         ]
     },
     "10680022": {
-        "name": "\u6da1\u6d41",
-        "suit_name": "\u98ce\u795e\u4e4b\u5fc3",
+        "name": "涡流",
+        "suit_name": "风神之心",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10680021,
         "pos": 2,
@@ -4832,8 +4832,8 @@
         ]
     },
     "10680023": {
-        "name": "\u98ce\u8680",
-        "suit_name": "\u98ce\u795e\u4e4b\u5fc3",
+        "name": "风蚀",
+        "suit_name": "风神之心",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10680022,
         "pos": 3,
@@ -4848,8 +4848,8 @@
         ]
     },
     "10680031": {
-        "name": "\u51dd\u805a",
-        "suit_name": "\u7cbe\u795e\u4e4b\u4e3b",
+        "name": "凝聚",
+        "suit_name": "精神之主",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4864,8 +4864,8 @@
         ]
     },
     "10680032": {
-        "name": "\u56de\u65cb",
-        "suit_name": "\u7cbe\u795e\u4e4b\u4e3b",
+        "name": "回旋",
+        "suit_name": "精神之主",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10680031,
         "pos": 2,
@@ -4880,8 +4880,8 @@
         ]
     },
     "10680033": {
-        "name": "\u9038\u6563",
-        "suit_name": "\u7cbe\u795e\u4e4b\u4e3b",
+        "name": "逸散",
+        "suit_name": "精神之主",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10680032,
         "pos": 3,
@@ -4896,8 +4896,8 @@
         ]
     },
     "10670011": {
-        "name": "\u6df1\u538b",
-        "suit_name": "\u957f\u6cb3\u6ce2\u6d9b",
+        "name": "深压",
+        "suit_name": "长河波涛",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4912,8 +4912,8 @@
         ]
     },
     "10670012": {
-        "name": "\u6ce2\u6f9c",
-        "suit_name": "\u957f\u6cb3\u6ce2\u6d9b",
+        "name": "波澜",
+        "suit_name": "长河波涛",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10670011,
         "pos": 2,
@@ -4928,8 +4928,8 @@
         ]
     },
     "10670013": {
-        "name": "\u6d8c\u5408",
-        "suit_name": "\u957f\u6cb3\u6ce2\u6d9b",
+        "name": "涌合",
+        "suit_name": "长河波涛",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10670012,
         "pos": 3,
@@ -4944,8 +4944,8 @@
         ]
     },
     "10670021": {
-        "name": "\u6c47\u805a",
-        "suit_name": "\u5927\u6d0b\u805a\u6563",
+        "name": "汇聚",
+        "suit_name": "大洋聚散",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -4960,8 +4960,8 @@
         ]
     },
     "10670022": {
-        "name": "\u6697\u6d8c",
-        "suit_name": "\u5927\u6d0b\u805a\u6563",
+        "name": "暗涌",
+        "suit_name": "大洋聚散",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10670021,
         "pos": 2,
@@ -4976,8 +4976,8 @@
         ]
     },
     "10670023": {
-        "name": "\u6f2b\u5ef6",
-        "suit_name": "\u5927\u6d0b\u805a\u6563",
+        "name": "漫延",
+        "suit_name": "大洋聚散",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10670022,
         "pos": 3,
@@ -4992,8 +4992,8 @@
         ]
     },
     "10670031": {
-        "name": "\u6fc0\u6d6a",
-        "suit_name": "\u6fc0\u6d6a\u63a0\u5f71",
+        "name": "激浪",
+        "suit_name": "激浪掠影",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5008,8 +5008,8 @@
         ]
     },
     "10670032": {
-        "name": "\u9510\u6d41",
-        "suit_name": "\u6fc0\u6d6a\u63a0\u5f71",
+        "name": "锐流",
+        "suit_name": "激浪掠影",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10670031,
         "pos": 2,
@@ -5024,8 +5024,8 @@
         ]
     },
     "10670033": {
-        "name": "\u6d6a\u5f71",
-        "suit_name": "\u6fc0\u6d6a\u63a0\u5f71",
+        "name": "浪影",
+        "suit_name": "激浪掠影",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10670032,
         "pos": 3,
@@ -5040,8 +5040,8 @@
         ]
     },
     "10240011": {
-        "name": "\u5f15\u6e21",
-        "suit_name": "\u4ea1\u9b42\u63a5\u5f15",
+        "name": "引渡",
+        "suit_name": "亡魂接引",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5056,8 +5056,8 @@
         ]
     },
     "10240012": {
-        "name": "\u611f\u5e94",
-        "suit_name": "\u4ea1\u9b42\u63a5\u5f15",
+        "name": "感应",
+        "suit_name": "亡魂接引",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10240011,
         "pos": 2,
@@ -5072,8 +5072,8 @@
         ]
     },
     "10240013": {
-        "name": "\u9b42\u94fe",
-        "suit_name": "\u4ea1\u9b42\u63a5\u5f15",
+        "name": "魂链",
+        "suit_name": "亡魂接引",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10240012,
         "pos": 3,
@@ -5088,8 +5088,8 @@
         ]
     },
     "10240021": {
-        "name": "\u534f\u4ece",
-        "suit_name": "\u6b7b\u7075\u5ba1\u5224",
+        "name": "协从",
+        "suit_name": "死灵审判",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5104,8 +5104,8 @@
         ]
     },
     "10240022": {
-        "name": "\u5224\u51b3",
-        "suit_name": "\u6b7b\u7075\u5ba1\u5224",
+        "name": "判决",
+        "suit_name": "死灵审判",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10240021,
         "pos": 2,
@@ -5120,8 +5120,8 @@
         ]
     },
     "10240023": {
-        "name": "\u795e\u7f5a",
-        "suit_name": "\u6b7b\u7075\u5ba1\u5224",
+        "name": "神罚",
+        "suit_name": "死灵审判",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10240022,
         "pos": 3,
@@ -5136,8 +5136,8 @@
         ]
     },
     "10240031": {
-        "name": "\u6fc0\u6124",
-        "suit_name": "\u5e7d\u51a5\u795e\u6012",
+        "name": "激愤",
+        "suit_name": "幽冥神怒",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5152,8 +5152,8 @@
         ]
     },
     "10240032": {
-        "name": "\u6012\u9b42",
-        "suit_name": "\u5e7d\u51a5\u795e\u6012",
+        "name": "怒魂",
+        "suit_name": "幽冥神怒",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10240031,
         "pos": 2,
@@ -5168,8 +5168,8 @@
         ]
     },
     "10240033": {
-        "name": "\u72c2\u72fc",
-        "suit_name": "\u5e7d\u51a5\u795e\u6012",
+        "name": "狂狼",
+        "suit_name": "幽冥神怒",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10240032,
         "pos": 3,
@@ -5184,8 +5184,8 @@
         ]
     },
     "10280011": {
-        "name": "\u9668\u51fb",
-        "suit_name": "\u96f7\u9706\u7684\u6743\u67c4",
+        "name": "陨击",
+        "suit_name": "雷霆的权柄",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5200,8 +5200,8 @@
         ]
     },
     "10280012": {
-        "name": "\u5929\u5a01",
-        "suit_name": "\u96f7\u9706\u7684\u6743\u67c4",
+        "name": "天威",
+        "suit_name": "雷霆的权柄",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10280011,
         "pos": 2,
@@ -5216,8 +5216,8 @@
         ]
     },
     "10280013": {
-        "name": "\u964d\u795e",
-        "suit_name": "\u96f7\u9706\u7684\u6743\u67c4",
+        "name": "降神",
+        "suit_name": "雷霆的权柄",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10280012,
         "pos": 3,
@@ -5232,8 +5232,8 @@
         ]
     },
     "10280021": {
-        "name": "\u8fc5\u51fb",
-        "suit_name": "\u795e\u56fd\u7684\u6218\u72c2",
+        "name": "迅击",
+        "suit_name": "神国的战狂",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5248,8 +5248,8 @@
         ]
     },
     "10280022": {
-        "name": "\u6218\u6ea2",
-        "suit_name": "\u795e\u56fd\u7684\u6218\u72c2",
+        "name": "战溢",
+        "suit_name": "神国的战狂",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10280021,
         "pos": 2,
@@ -5264,8 +5264,8 @@
         ]
     },
     "10280023": {
-        "name": "\u72c2\u70ed",
-        "suit_name": "\u795e\u56fd\u7684\u6218\u72c2",
+        "name": "狂热",
+        "suit_name": "神国的战狂",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10280022,
         "pos": 3,
@@ -5280,8 +5280,8 @@
         ]
     },
     "10280031": {
-        "name": "\u7edd\u706d",
-        "suit_name": "\u5c18\u4e16\u7684\u5bbf\u654c",
+        "name": "绝灭",
+        "suit_name": "尘世的宿敌",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5296,8 +5296,8 @@
         ]
     },
     "10280032": {
-        "name": "\u65e0\u5c3d",
-        "suit_name": "\u5c18\u4e16\u7684\u5bbf\u654c",
+        "name": "无尽",
+        "suit_name": "尘世的宿敌",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10280031,
         "pos": 2,
@@ -5312,8 +5312,8 @@
         ]
     },
     "10280033": {
-        "name": "\u7ec8\u6218",
-        "suit_name": "\u5c18\u4e16\u7684\u5bbf\u654c",
+        "name": "终战",
+        "suit_name": "尘世的宿敌",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10280032,
         "pos": 3,
@@ -5328,8 +5328,8 @@
         ]
     },
     "10520011": {
-        "name": "\u5145\u76c8",
-        "suit_name": "\u795e\u738b\u7684\u4f1f\u529b",
+        "name": "充盈",
+        "suit_name": "神王的伟力",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5344,8 +5344,8 @@
         ]
     },
     "10520012": {
-        "name": "\u5347\u5e45",
-        "suit_name": "\u795e\u738b\u7684\u4f1f\u529b",
+        "name": "升幅",
+        "suit_name": "神王的伟力",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10520011,
         "pos": 2,
@@ -5360,8 +5360,8 @@
         ]
     },
     "10520013": {
-        "name": "\u8f6e\u8f6c",
-        "suit_name": "\u795e\u738b\u7684\u4f1f\u529b",
+        "name": "轮转",
+        "suit_name": "神王的伟力",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10520012,
         "pos": 3,
@@ -5376,8 +5376,8 @@
         ]
     },
     "10520021": {
-        "name": "\u6218\u72c2",
-        "suit_name": "\u795e\u738b\u7684\u6012\u610f",
+        "name": "战狂",
+        "suit_name": "神王的怒意",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5392,8 +5392,8 @@
         ]
     },
     "10520022": {
-        "name": "\u60e9\u6212",
-        "suit_name": "\u795e\u738b\u7684\u6012\u610f",
+        "name": "惩戒",
+        "suit_name": "神王的怒意",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10520021,
         "pos": 2,
@@ -5408,8 +5408,8 @@
         ]
     },
     "10520023": {
-        "name": "\u51f6\u795e",
-        "suit_name": "\u795e\u738b\u7684\u6012\u610f",
+        "name": "凶神",
+        "suit_name": "神王的怒意",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10520022,
         "pos": 3,
@@ -5424,8 +5424,8 @@
         ]
     },
     "10520031": {
-        "name": "\u8be1\u6218",
-        "suit_name": "\u795e\u738b\u7684\u8be1\u8ba1",
+        "name": "诡战",
+        "suit_name": "神王的诡计",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5440,8 +5440,8 @@
         ]
     },
     "10520032": {
-        "name": "\u5f31\u5316",
-        "suit_name": "\u795e\u738b\u7684\u8be1\u8ba1",
+        "name": "弱化",
+        "suit_name": "神王的诡计",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10520031,
         "pos": 2,
@@ -5456,8 +5456,8 @@
         ]
     },
     "10520033": {
-        "name": "\u56f0\u6597",
-        "suit_name": "\u795e\u738b\u7684\u8be1\u8ba1",
+        "name": "困斗",
+        "suit_name": "神王的诡计",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10520032,
         "pos": 3,
@@ -5472,8 +5472,8 @@
         ]
     },
     "10170011": {
-        "name": "\u5904\u51b3",
-        "suit_name": "\u6218\u795e\u7684\u4e8c\u91cd\u8eab",
+        "name": "处决",
+        "suit_name": "战神的二重身",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5488,8 +5488,8 @@
         ]
     },
     "10170012": {
-        "name": "\u730e\u6740",
-        "suit_name": "\u6218\u795e\u7684\u4e8c\u91cd\u8eab",
+        "name": "猎杀",
+        "suit_name": "战神的二重身",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10170011,
         "pos": 2,
@@ -5504,8 +5504,8 @@
         ]
     },
     "10170013": {
-        "name": "\u8840\u796d",
-        "suit_name": "\u6218\u795e\u7684\u4e8c\u91cd\u8eab",
+        "name": "血祭",
+        "suit_name": "战神的二重身",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10170012,
         "pos": 3,
@@ -5520,8 +5520,8 @@
         ]
     },
     "10170021": {
-        "name": "\u7075\u52a8",
-        "suit_name": "\u5723\u575b\u4e0a\u7684\u821e\u6b65",
+        "name": "灵动",
+        "suit_name": "圣坛上的舞步",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5536,8 +5536,8 @@
         ]
     },
     "10170022": {
-        "name": "\u950b\u9510",
-        "suit_name": "\u5723\u575b\u4e0a\u7684\u821e\u6b65",
+        "name": "锋锐",
+        "suit_name": "圣坛上的舞步",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10170021,
         "pos": 2,
@@ -5552,8 +5552,8 @@
         ]
     },
     "10170023": {
-        "name": "\u5e7d\u5149",
-        "suit_name": "\u5723\u575b\u4e0a\u7684\u821e\u6b65",
+        "name": "幽光",
+        "suit_name": "圣坛上的舞步",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10170022,
         "pos": 3,
@@ -5568,8 +5568,8 @@
         ]
     },
     "10170031": {
-        "name": "\u7075\u77b3",
-        "suit_name": "\u795e\u4e4b\u773c\u7684\u5370\u8bb0",
+        "name": "灵瞳",
+        "suit_name": "神之眼的印记",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5584,8 +5584,8 @@
         ]
     },
     "10170032": {
-        "name": "\u51dd\u89c6",
-        "suit_name": "\u795e\u4e4b\u773c\u7684\u5370\u8bb0",
+        "name": "凝视",
+        "suit_name": "神之眼的印记",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10170031,
         "pos": 2,
@@ -5600,8 +5600,8 @@
         ]
     },
     "10170033": {
-        "name": "\u5224\u51b3",
-        "suit_name": "\u795e\u4e4b\u773c\u7684\u5370\u8bb0",
+        "name": "判决",
+        "suit_name": "神之眼的印记",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10170032,
         "pos": 3,
@@ -5616,8 +5616,8 @@
         ]
     },
     "11270011": {
-        "name": "\u6e9f\u6d77",
-        "suit_name": "\u4e98\u53e4\u6ca7\u6d0b",
+        "name": "溟海",
+        "suit_name": "亘古沧洋",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5632,8 +5632,8 @@
         ]
     },
     "11270012": {
-        "name": "\u60a0\u8fdc",
-        "suit_name": "\u4e98\u53e4\u6ca7\u6d0b",
+        "name": "悠远",
+        "suit_name": "亘古沧洋",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11270011,
         "pos": 2,
@@ -5648,8 +5648,8 @@
         ]
     },
     "11270013": {
-        "name": "\u53e4\u8ff9",
-        "suit_name": "\u4e98\u53e4\u6ca7\u6d0b",
+        "name": "古迹",
+        "suit_name": "亘古沧洋",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11270012,
         "pos": 3,
@@ -5664,8 +5664,8 @@
         ]
     },
     "11270021": {
-        "name": "\u5e7d\u9eef",
-        "suit_name": "\u626d\u66f2\u6f29\u6da1",
+        "name": "幽黯",
+        "suit_name": "扭曲漩涡",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5680,8 +5680,8 @@
         ]
     },
     "11270022": {
-        "name": "\u6f46\u6d04",
-        "suit_name": "\u626d\u66f2\u6f29\u6da1",
+        "name": "潆洄",
+        "suit_name": "扭曲漩涡",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11270021,
         "pos": 2,
@@ -5696,8 +5696,8 @@
         ]
     },
     "11270023": {
-        "name": "\u8680\u6da1",
-        "suit_name": "\u626d\u66f2\u6f29\u6da1",
+        "name": "蚀涡",
+        "suit_name": "扭曲漩涡",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11270022,
         "pos": 3,
@@ -5712,8 +5712,8 @@
         ]
     },
     "11270031": {
-        "name": "\u5e7b\u68a6",
-        "suit_name": "\u5e7b\u6d77\u6ce1\u5f71",
+        "name": "幻梦",
+        "suit_name": "幻海泡影",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5728,8 +5728,8 @@
         ]
     },
     "11270032": {
-        "name": "\u7a7a\u706d",
-        "suit_name": "\u5e7b\u6d77\u6ce1\u5f71",
+        "name": "空灭",
+        "suit_name": "幻海泡影",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11270031,
         "pos": 2,
@@ -5744,8 +5744,8 @@
         ]
     },
     "11270033": {
-        "name": "\u6f84\u5fc3",
-        "suit_name": "\u5e7b\u6d77\u6ce1\u5f71",
+        "name": "澄心",
+        "suit_name": "幻海泡影",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11270032,
         "pos": 3,
@@ -5760,8 +5760,8 @@
         ]
     },
     "11320011": {
-        "name": "\u9644\u7740",
-        "suit_name": "\u71c3\u5251\u7684\u5236\u88c1",
+        "name": "附着",
+        "suit_name": "燃剑的制裁",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5776,8 +5776,8 @@
         ]
     },
     "11320012": {
-        "name": "\u77ac\u71c3",
-        "suit_name": "\u71c3\u5251\u7684\u5236\u88c1",
+        "name": "瞬燃",
+        "suit_name": "燃剑的制裁",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11320011,
         "pos": 2,
@@ -5792,8 +5792,8 @@
         ]
     },
     "11320013": {
-        "name": "\u70bd\u70c8",
-        "suit_name": "\u71c3\u5251\u7684\u5236\u88c1",
+        "name": "炽烈",
+        "suit_name": "燃剑的制裁",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11320012,
         "pos": 3,
@@ -5808,8 +5808,8 @@
         ]
     },
     "11320021": {
-        "name": "\u70bd\u70ed",
-        "suit_name": "\u70bd\u7532\u7684\u60e9\u6212",
+        "name": "炽热",
+        "suit_name": "炽甲的惩戒",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5824,8 +5824,8 @@
         ]
     },
     "11320022": {
-        "name": "\u953b\u94f8",
-        "suit_name": "\u70bd\u7532\u7684\u60e9\u6212",
+        "name": "锻铸",
+        "suit_name": "炽甲的惩戒",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11320021,
         "pos": 2,
@@ -5840,8 +5840,8 @@
         ]
     },
     "11320023": {
-        "name": "\u51dd\u706b",
-        "suit_name": "\u70bd\u7532\u7684\u60e9\u6212",
+        "name": "凝火",
+        "suit_name": "炽甲的惩戒",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11320022,
         "pos": 3,
@@ -5856,8 +5856,8 @@
         ]
     },
     "11320031": {
-        "name": "\u71c3\u8840",
-        "suit_name": "\u70bc\u72f1\u7684\u590d\u4ec7",
+        "name": "燃血",
+        "suit_name": "炼狱的复仇",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5872,8 +5872,8 @@
         ]
     },
     "11320032": {
-        "name": "\u7099\u7f6a",
-        "suit_name": "\u70bc\u72f1\u7684\u590d\u4ec7",
+        "name": "炙罪",
+        "suit_name": "炼狱的复仇",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11320031,
         "pos": 2,
@@ -5888,8 +5888,8 @@
         ]
     },
     "11320033": {
-        "name": "\u70bd\u5211",
-        "suit_name": "\u70bc\u72f1\u7684\u590d\u4ec7",
+        "name": "炽刑",
+        "suit_name": "炼狱的复仇",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11320032,
         "pos": 3,
@@ -5904,8 +5904,8 @@
         ]
     },
     "10710011": {
-        "name": "\u9706\u7389",
-        "suit_name": "\u5c11\u9633\u795e\u541b",
+        "name": "霆玉",
+        "suit_name": "少阳神君",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5920,8 +5920,8 @@
         ]
     },
     "10710012": {
-        "name": "\u76ca\u52a8",
-        "suit_name": "\u5c11\u9633\u795e\u541b",
+        "name": "益动",
+        "suit_name": "少阳神君",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10710011,
         "pos": 2,
@@ -5936,8 +5936,8 @@
         ]
     },
     "10710013": {
-        "name": "\u788e\u96f7",
-        "suit_name": "\u5c11\u9633\u795e\u541b",
+        "name": "碎雷",
+        "suit_name": "少阳神君",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10710012,
         "pos": 3,
@@ -5952,8 +5952,8 @@
         ]
     },
     "10710021": {
-        "name": "\u8fd0\u6052",
-        "suit_name": "\u82cd\u9f99\u5c81\u661f",
+        "name": "运恒",
+        "suit_name": "苍龙岁星",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -5968,8 +5968,8 @@
         ]
     },
     "10710022": {
-        "name": "\u9706\u52bf",
-        "suit_name": "\u82cd\u9f99\u5c81\u661f",
+        "name": "霆势",
+        "suit_name": "苍龙岁星",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10710021,
         "pos": 2,
@@ -5984,8 +5984,8 @@
         ]
     },
     "10710023": {
-        "name": "\u661f\u5408",
-        "suit_name": "\u82cd\u9f99\u5c81\u661f",
+        "name": "星合",
+        "suit_name": "苍龙岁星",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10710022,
         "pos": 3,
@@ -6000,8 +6000,8 @@
         ]
     },
     "10710031": {
-        "name": "\u5dfd\u548c",
-        "suit_name": "\u4e1c\u9646\u6b63\u7075",
+        "name": "巽和",
+        "suit_name": "东陆正灵",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6016,8 +6016,8 @@
         ]
     },
     "10710032": {
-        "name": "\u70c8\u9707",
-        "suit_name": "\u4e1c\u9646\u6b63\u7075",
+        "name": "烈震",
+        "suit_name": "东陆正灵",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10710031,
         "pos": 2,
@@ -6032,8 +6032,8 @@
         ]
     },
     "10710033": {
-        "name": "\u7834\u51fb",
-        "suit_name": "\u4e1c\u9646\u6b63\u7075",
+        "name": "破击",
+        "suit_name": "东陆正灵",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10710032,
         "pos": 3,
@@ -6048,8 +6048,8 @@
         ]
     },
     "10720011": {
-        "name": "\u805a\u8d22",
-        "suit_name": "\u798f\u8d22\u795e\u541b",
+        "name": "聚财",
+        "suit_name": "福财神君",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6064,8 +6064,8 @@
         ]
     },
     "10720012": {
-        "name": "\u7ef5\u5ef6",
-        "suit_name": "\u798f\u8d22\u795e\u541b",
+        "name": "绵延",
+        "suit_name": "福财神君",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10720011,
         "pos": 2,
@@ -6080,8 +6080,8 @@
         ]
     },
     "10720013": {
-        "name": "\u798f\u4f51",
-        "suit_name": "\u798f\u8d22\u795e\u541b",
+        "name": "福佑",
+        "suit_name": "福财神君",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10720012,
         "pos": 3,
@@ -6096,8 +6096,8 @@
         ]
     },
     "10720021": {
-        "name": "\u8d22\u745e",
-        "suit_name": "\u8f9f\u90aa\u745e\u517d",
+        "name": "财瑞",
+        "suit_name": "辟邪瑞兽",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6112,8 +6112,8 @@
         ]
     },
     "10720022": {
-        "name": "\u51f6\u517d",
-        "suit_name": "\u8f9f\u90aa\u745e\u517d",
+        "name": "凶兽",
+        "suit_name": "辟邪瑞兽",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10720021,
         "pos": 2,
@@ -6128,8 +6128,8 @@
         ]
     },
     "10720023": {
-        "name": "\u8fde\u6cfd",
-        "suit_name": "\u8f9f\u90aa\u745e\u517d",
+        "name": "连泽",
+        "suit_name": "辟邪瑞兽",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10720022,
         "pos": 3,
@@ -6144,8 +6144,8 @@
         ]
     },
     "10720031": {
-        "name": "\u672f\u5947",
-        "suit_name": "\u795e\u7b97\u5c0a\u8005",
+        "name": "术奇",
+        "suit_name": "神算尊者",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6160,8 +6160,8 @@
         ]
     },
     "10720032": {
-        "name": "\u8fed\u7b97",
-        "suit_name": "\u795e\u7b97\u5c0a\u8005",
+        "name": "迭算",
+        "suit_name": "神算尊者",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10720031,
         "pos": 2,
@@ -6176,8 +6176,8 @@
         ]
     },
     "10720033": {
-        "name": "\u8fd0\u7b79",
-        "suit_name": "\u795e\u7b97\u5c0a\u8005",
+        "name": "运筹",
+        "suit_name": "神算尊者",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10720032,
         "pos": 3,
@@ -6192,8 +6192,8 @@
         ]
     },
     "10700011": {
-        "name": "\u5915\u6656",
-        "suit_name": "\u4e09\u8db3\u91d1\u4e4c",
+        "name": "夕晖",
+        "suit_name": "三足金乌",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6208,8 +6208,8 @@
         ]
     },
     "10700012": {
-        "name": "\u9010\u65e5",
-        "suit_name": "\u4e09\u8db3\u91d1\u4e4c",
+        "name": "逐日",
+        "suit_name": "三足金乌",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10700011,
         "pos": 2,
@@ -6224,8 +6224,8 @@
         ]
     },
     "10700013": {
-        "name": "\u5f53\u7a7a",
-        "suit_name": "\u4e09\u8db3\u91d1\u4e4c",
+        "name": "当空",
+        "suit_name": "三足金乌",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10700012,
         "pos": 3,
@@ -6240,8 +6240,8 @@
         ]
     },
     "10700021": {
-        "name": "\u795e\u5a01",
-        "suit_name": "\u70bd\u8f6e\u795e\u5175",
+        "name": "神威",
+        "suit_name": "炽轮神兵",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6256,8 +6256,8 @@
         ]
     },
     "10700022": {
-        "name": "\u805a\u7075",
-        "suit_name": "\u70bd\u8f6e\u795e\u5175",
+        "name": "聚灵",
+        "suit_name": "炽轮神兵",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10700021,
         "pos": 2,
@@ -6272,8 +6272,8 @@
         ]
     },
     "10700023": {
-        "name": "\u8f6e\u8f6c",
-        "suit_name": "\u70bd\u8f6e\u795e\u5175",
+        "name": "轮转",
+        "suit_name": "炽轮神兵",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10700022,
         "pos": 3,
@@ -6288,8 +6288,8 @@
         ]
     },
     "10700031": {
-        "name": "\u66dc\u707c",
-        "suit_name": "\u65e5\u66dc\u663e\u5723",
+        "name": "曜灼",
+        "suit_name": "日曜显圣",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6304,8 +6304,8 @@
         ]
     },
     "10700032": {
-        "name": "\u4e5d\u66dc",
-        "suit_name": "\u65e5\u66dc\u663e\u5723",
+        "name": "九曜",
+        "suit_name": "日曜显圣",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10700031,
         "pos": 2,
@@ -6320,8 +6320,8 @@
         ]
     },
     "10700033": {
-        "name": "\u4e7e\u706b",
-        "suit_name": "\u65e5\u66dc\u663e\u5723",
+        "name": "乾火",
+        "suit_name": "日曜显圣",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10700032,
         "pos": 3,
@@ -6336,8 +6336,8 @@
         ]
     },
     "10810011": {
-        "name": "\u51ac\u730e",
-        "suit_name": "\u8e0f\u96ea\u4e4b\u9774",
+        "name": "冬猎",
+        "suit_name": "踏雪之靴",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6352,8 +6352,8 @@
         ]
     },
     "10810012": {
-        "name": "\u8352\u5bd2",
-        "suit_name": "\u8e0f\u96ea\u4e4b\u9774",
+        "name": "荒寒",
+        "suit_name": "踏雪之靴",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10810011,
         "pos": 2,
@@ -6368,8 +6368,8 @@
         ]
     },
     "10810013": {
-        "name": "\u6781\u661f",
-        "suit_name": "\u8e0f\u96ea\u4e4b\u9774",
+        "name": "极星",
+        "suit_name": "踏雪之靴",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10810012,
         "pos": 3,
@@ -6384,8 +6384,8 @@
         ]
     },
     "10810021": {
-        "name": "\u5578\u6d6a",
-        "suit_name": "\u4e34\u6d77\u4e4b\u51ac",
+        "name": "啸浪",
+        "suit_name": "临海之冬",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6400,8 +6400,8 @@
         ]
     },
     "10810022": {
-        "name": "\u51b0\u6d0b",
-        "suit_name": "\u4e34\u6d77\u4e4b\u51ac",
+        "name": "冰洋",
+        "suit_name": "临海之冬",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10810021,
         "pos": 2,
@@ -6416,8 +6416,8 @@
         ]
     },
     "10810023": {
-        "name": "\u51bb\u539f",
-        "suit_name": "\u4e34\u6d77\u4e4b\u51ac",
+        "name": "冻原",
+        "suit_name": "临海之冬",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10810022,
         "pos": 3,
@@ -6432,8 +6432,8 @@
         ]
     },
     "10810031": {
-        "name": "\u767d\u7d6e",
-        "suit_name": "\u8fdc\u822a\u4e4b\u661f",
+        "name": "白絮",
+        "suit_name": "远航之星",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6448,8 +6448,8 @@
         ]
     },
     "10810032": {
-        "name": "\u8986\u971c",
-        "suit_name": "\u8fdc\u822a\u4e4b\u661f",
+        "name": "覆霜",
+        "suit_name": "远航之星",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10810031,
         "pos": 2,
@@ -6464,8 +6464,8 @@
         ]
     },
     "10810033": {
-        "name": "\u96ea\u6676",
-        "suit_name": "\u8fdc\u822a\u4e4b\u661f",
+        "name": "雪晶",
+        "suit_name": "远航之星",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10810032,
         "pos": 3,
@@ -6480,8 +6480,8 @@
         ]
     },
     "10160011": {
-        "name": "\u6269\u5bb9",
-        "suit_name": "\u7206\u88c2\u6269\u5bb9\u6a21\u5757",
+        "name": "扩容",
+        "suit_name": "爆裂扩容模块",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6496,8 +6496,8 @@
         ]
     },
     "10160012": {
-        "name": "\u5f15\u71c3",
-        "suit_name": "\u7206\u88c2\u6269\u5bb9\u6a21\u5757",
+        "name": "引燃",
+        "suit_name": "爆裂扩容模块",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10160011,
         "pos": 2,
@@ -6512,8 +6512,8 @@
         ]
     },
     "10160013": {
-        "name": "\u51b2\u51fb",
-        "suit_name": "\u7206\u88c2\u6269\u5bb9\u6a21\u5757",
+        "name": "冲击",
+        "suit_name": "爆裂扩容模块",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10160012,
         "pos": 3,
@@ -6528,8 +6528,8 @@
         ]
     },
     "10160021": {
-        "name": "\u5347\u9891",
-        "suit_name": "\u52a8\u80fd\u8d85\u9891\u6a21\u5757",
+        "name": "升频",
+        "suit_name": "动能超频模块",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6544,8 +6544,8 @@
         ]
     },
     "10160022": {
-        "name": "\u5145\u80fd",
-        "suit_name": "\u52a8\u80fd\u8d85\u9891\u6a21\u5757",
+        "name": "充能",
+        "suit_name": "动能超频模块",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10160021,
         "pos": 2,
@@ -6560,8 +6560,8 @@
         ]
     },
     "10160023": {
-        "name": "\u9707\u88c2",
-        "suit_name": "\u52a8\u80fd\u8d85\u9891\u6a21\u5757",
+        "name": "震裂",
+        "suit_name": "动能超频模块",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10160022,
         "pos": 3,
@@ -6576,8 +6576,8 @@
         ]
     },
     "10160031": {
-        "name": "\u5206\u6d41",
-        "suit_name": "\u538b\u529b\u589e\u5e45\u6a21\u5757",
+        "name": "分流",
+        "suit_name": "压力增幅模块",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6592,8 +6592,8 @@
         ]
     },
     "10160032": {
-        "name": "\u6c14\u8680",
-        "suit_name": "\u538b\u529b\u589e\u5e45\u6a21\u5757",
+        "name": "气蚀",
+        "suit_name": "压力增幅模块",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10160031,
         "pos": 2,
@@ -6608,8 +6608,8 @@
         ]
     },
     "10160033": {
-        "name": "\u589e\u538b",
-        "suit_name": "\u538b\u529b\u589e\u5e45\u6a21\u5757",
+        "name": "增压",
+        "suit_name": "压力增幅模块",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10160032,
         "pos": 3,
@@ -6624,8 +6624,8 @@
         ]
     },
     "10740011": {
-        "name": "\u795e\u6cfd",
-        "suit_name": "\u5929\u5e1d\u7384\u53f8",
+        "name": "神泽",
+        "suit_name": "天帝玄司",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6640,8 +6640,8 @@
         ]
     },
     "10740012": {
-        "name": "\u5929\u5fa1",
-        "suit_name": "\u5929\u5e1d\u7384\u53f8",
+        "name": "天御",
+        "suit_name": "天帝玄司",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10740011,
         "pos": 2,
@@ -6656,8 +6656,8 @@
         ]
     },
     "10740013": {
-        "name": "\u7384\u5947",
-        "suit_name": "\u5929\u5e1d\u7384\u53f8",
+        "name": "玄奇",
+        "suit_name": "天帝玄司",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10740012,
         "pos": 3,
@@ -6672,8 +6672,8 @@
         ]
     },
     "10740021": {
-        "name": "\u767b\u4ed9",
-        "suit_name": "\u5de1\u5929\u4ed9\u5b98",
+        "name": "登仙",
+        "suit_name": "巡天仙官",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6688,8 +6688,8 @@
         ]
     },
     "10740022": {
-        "name": "\u7834\u98ce",
-        "suit_name": "\u5de1\u5929\u4ed9\u5b98",
+        "name": "破风",
+        "suit_name": "巡天仙官",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10740021,
         "pos": 2,
@@ -6704,8 +6704,8 @@
         ]
     },
     "10740023": {
-        "name": "\u6d41\u4e91",
-        "suit_name": "\u5de1\u5929\u4ed9\u5b98",
+        "name": "流云",
+        "suit_name": "巡天仙官",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10740022,
         "pos": 3,
@@ -6720,8 +6720,8 @@
         ]
     },
     "10740031": {
-        "name": "\u795e\u6e38",
-        "suit_name": "\u6e38\u6d77\u795e\u5c06",
+        "name": "神游",
+        "suit_name": "游海神将",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6736,8 +6736,8 @@
         ]
     },
     "10740032": {
-        "name": "\u5c06\u5de1",
-        "suit_name": "\u6e38\u6d77\u795e\u5c06",
+        "name": "将巡",
+        "suit_name": "游海神将",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10740031,
         "pos": 2,
@@ -6752,8 +6752,8 @@
         ]
     },
     "10740033": {
-        "name": "\u5578\u6e0a",
-        "suit_name": "\u6e38\u6d77\u795e\u5c06",
+        "name": "啸渊",
+        "suit_name": "游海神将",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10740032,
         "pos": 3,
@@ -6768,8 +6768,8 @@
         ]
     },
     "10750011": {
-        "name": "\u5b64\u706b",
-        "suit_name": "\u70bd\u79bb\u795e\u541b",
+        "name": "孤火",
+        "suit_name": "炽离神君",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6784,8 +6784,8 @@
         ]
     },
     "10750012": {
-        "name": "\u4f59\u70c8",
-        "suit_name": "\u70bd\u79bb\u795e\u541b",
+        "name": "余烈",
+        "suit_name": "炽离神君",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10750011,
         "pos": 2,
@@ -6800,8 +6800,8 @@
         ]
     },
     "10750013": {
-        "name": "\u91cd\u71c3",
-        "suit_name": "\u70bd\u79bb\u795e\u541b",
+        "name": "重燃",
+        "suit_name": "炽离神君",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10750012,
         "pos": 3,
@@ -6816,8 +6816,8 @@
         ]
     },
     "10750021": {
-        "name": "\u7131\u7532",
-        "suit_name": "\u5357\u9646\u62a4\u6cd5",
+        "name": "焱甲",
+        "suit_name": "南陆护法",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6832,8 +6832,8 @@
         ]
     },
     "10750022": {
-        "name": "\u8840\u710f",
-        "suit_name": "\u5357\u9646\u62a4\u6cd5",
+        "name": "血焏",
+        "suit_name": "南陆护法",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10750021,
         "pos": 2,
@@ -6848,8 +6848,8 @@
         ]
     },
     "10750023": {
-        "name": "\u795e\u62a4",
-        "suit_name": "\u5357\u9646\u62a4\u6cd5",
+        "name": "神护",
+        "suit_name": "南陆护法",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10750022,
         "pos": 3,
@@ -6864,8 +6864,8 @@
         ]
     },
     "10750031": {
-        "name": "\u711a\u89e3",
-        "suit_name": "\u6731\u7fbd\u745e\u8fb0",
+        "name": "焚解",
+        "suit_name": "朱羽瑞辰",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6880,8 +6880,8 @@
         ]
     },
     "10750032": {
-        "name": "\u6df1\u707c",
-        "suit_name": "\u6731\u7fbd\u745e\u8fb0",
+        "name": "深灼",
+        "suit_name": "朱羽瑞辰",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10750031,
         "pos": 2,
@@ -6896,8 +6896,8 @@
         ]
     },
     "10750033": {
-        "name": "\u8f89\u8000",
-        "suit_name": "\u6731\u7fbd\u745e\u8fb0",
+        "name": "辉耀",
+        "suit_name": "朱羽瑞辰",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10750032,
         "pos": 3,
@@ -6912,8 +6912,8 @@
         ]
     },
     "10760011": {
-        "name": "\u5347\u4e91",
-        "suit_name": "\u4e5d\u9704\u5929\u541b",
+        "name": "升云",
+        "suit_name": "九霄天君",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6928,8 +6928,8 @@
         ]
     },
     "10760012": {
-        "name": "\u64d2\u98ce",
-        "suit_name": "\u4e5d\u9704\u5929\u541b",
+        "name": "擒风",
+        "suit_name": "九霄天君",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10760011,
         "pos": 2,
@@ -6944,8 +6944,8 @@
         ]
     },
     "10760013": {
-        "name": "\u4e71\u7a7a",
-        "suit_name": "\u4e5d\u9704\u5929\u541b",
+        "name": "乱空",
+        "suit_name": "九霄天君",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10760012,
         "pos": 3,
@@ -6960,8 +6960,8 @@
         ]
     },
     "10760021": {
-        "name": "\u5ef6\u5377",
-        "suit_name": "\u98ce\u4e91\u5fa1\u4e3b",
+        "name": "延卷",
+        "suit_name": "风云御主",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -6976,8 +6976,8 @@
         ]
     },
     "10760022": {
-        "name": "\u62c2\u6270",
-        "suit_name": "\u98ce\u4e91\u5fa1\u4e3b",
+        "name": "拂扰",
+        "suit_name": "风云御主",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10760021,
         "pos": 2,
@@ -6992,8 +6992,8 @@
         ]
     },
     "10760023": {
-        "name": "\u6d41\u8680",
-        "suit_name": "\u98ce\u4e91\u5fa1\u4e3b",
+        "name": "流蚀",
+        "suit_name": "风云御主",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10760022,
         "pos": 3,
@@ -7008,8 +7008,8 @@
         ]
     },
     "10760031": {
-        "name": "\u9668\u6cb3",
-        "suit_name": "\u5927\u8352\u795e\u5c0a",
+        "name": "陨河",
+        "suit_name": "大荒神尊",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7024,8 +7024,8 @@
         ]
     },
     "10760032": {
-        "name": "\u5760\u5c71",
-        "suit_name": "\u5927\u8352\u795e\u5c0a",
+        "name": "坠山",
+        "suit_name": "大荒神尊",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10760031,
         "pos": 2,
@@ -7040,8 +7040,8 @@
         ]
     },
     "10760033": {
-        "name": "\u5578\u6d77",
-        "suit_name": "\u5927\u8352\u795e\u5c0a",
+        "name": "啸海",
+        "suit_name": "大荒神尊",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10760032,
         "pos": 3,
@@ -7056,8 +7056,8 @@
         ]
     },
     "11580011": {
-        "name": "\u7098\u70ec",
-        "suit_name": "\u70ec\u706d\u4e4b\u795e",
+        "name": "炘烬",
+        "suit_name": "烬灭之神",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7072,8 +7072,8 @@
         ]
     },
     "11580012": {
-        "name": "\u711a\u706d",
-        "suit_name": "\u70ec\u706d\u4e4b\u795e",
+        "name": "焚灭",
+        "suit_name": "烬灭之神",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11580011,
         "pos": 2,
@@ -7088,8 +7088,8 @@
         ]
     },
     "11580013": {
-        "name": "\u6c38\u708e",
-        "suit_name": "\u70ec\u706d\u4e4b\u795e",
+        "name": "永炎",
+        "suit_name": "烬灭之神",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11580012,
         "pos": 3,
@@ -7104,8 +7104,8 @@
         ]
     },
     "11580021": {
-        "name": "\u7194\u706b",
-        "suit_name": "\u711a\u5fc3\u60d1\u706b",
+        "name": "熔火",
+        "suit_name": "焚心惑火",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7120,8 +7120,8 @@
         ]
     },
     "11580022": {
-        "name": "\u7978\u5377",
-        "suit_name": "\u711a\u5fc3\u60d1\u706b",
+        "name": "祸卷",
+        "suit_name": "焚心惑火",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11580021,
         "pos": 2,
@@ -7136,8 +7136,8 @@
         ]
     },
     "11580023": {
-        "name": "\u9b47\u711a",
-        "suit_name": "\u711a\u5fc3\u60d1\u706b",
+        "name": "魇焚",
+        "suit_name": "焚心惑火",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11580022,
         "pos": 3,
@@ -7152,8 +7152,8 @@
         ]
     },
     "11580031": {
-        "name": "\u7194\u70bc",
-        "suit_name": "\u7978\u70bd\u521d\u8bde",
+        "name": "熔炼",
+        "suit_name": "祸炽初诞",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7168,8 +7168,8 @@
         ]
     },
     "11580032": {
-        "name": "\u60d1\u707c",
-        "suit_name": "\u7978\u70bd\u521d\u8bde",
+        "name": "惑灼",
+        "suit_name": "祸炽初诞",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11580031,
         "pos": 2,
@@ -7184,8 +7184,8 @@
         ]
     },
     "11580033": {
-        "name": "\u70bd\u71c3",
-        "suit_name": "\u7978\u70bd\u521d\u8bde",
+        "name": "炽燃",
+        "suit_name": "祸炽初诞",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11580032,
         "pos": 3,
@@ -7200,8 +7200,8 @@
         ]
     },
     "10490011": {
-        "name": "\u5e7d\u955c",
-        "suit_name": "\u5e38\u4e16\u51b0\u955c",
+        "name": "幽镜",
+        "suit_name": "常世冰镜",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7216,8 +7216,8 @@
         ]
     },
     "10490012": {
-        "name": "\u971c\u846c",
-        "suit_name": "\u5e38\u4e16\u51b0\u955c",
+        "name": "霜葬",
+        "suit_name": "常世冰镜",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10490011,
         "pos": 2,
@@ -7232,8 +7232,8 @@
         ]
     },
     "10490013": {
-        "name": "\u51b0\u51dd",
-        "suit_name": "\u5e38\u4e16\u51b0\u955c",
+        "name": "冰凝",
+        "suit_name": "常世冰镜",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10490012,
         "pos": 3,
@@ -7248,8 +7248,8 @@
         ]
     },
     "10490021": {
-        "name": "\u9010\u547d",
-        "suit_name": "\u6cc9\u6d25\u5f03\u8a93",
+        "name": "逐命",
+        "suit_name": "泉津弃誓",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7264,8 +7264,8 @@
         ]
     },
     "10490022": {
-        "name": "\u6016\u989c",
-        "suit_name": "\u6cc9\u6d25\u5f03\u8a93",
+        "name": "怖颜",
+        "suit_name": "泉津弃誓",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10490021,
         "pos": 2,
@@ -7280,8 +7280,8 @@
         ]
     },
     "10490023": {
-        "name": "\u7834\u7ea6",
-        "suit_name": "\u6cc9\u6d25\u5f03\u8a93",
+        "name": "破约",
+        "suit_name": "泉津弃誓",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10490022,
         "pos": 3,
@@ -7296,8 +7296,8 @@
         ]
     },
     "10490031": {
-        "name": "\u51a5\u62e5",
-        "suit_name": "\u6bd4\u826f\u5742\u4e4b\u4e3b",
+        "name": "冥拥",
+        "suit_name": "比良坂之主",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7312,8 +7312,8 @@
         ]
     },
     "10490032": {
-        "name": "\u5815\u6c61",
-        "suit_name": "\u6bd4\u826f\u5742\u4e4b\u4e3b",
+        "name": "堕污",
+        "suit_name": "比良坂之主",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10490031,
         "pos": 2,
@@ -7328,8 +7328,8 @@
         ]
     },
     "10490033": {
-        "name": "\u5343\u4f10",
-        "suit_name": "\u6bd4\u826f\u5742\u4e4b\u4e3b",
+        "name": "千伐",
+        "suit_name": "比良坂之主",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10490032,
         "pos": 3,
@@ -7344,8 +7344,8 @@
         ]
     },
     "10550011": {
-        "name": "\u51db\u950b",
-        "suit_name": "\u5929\u4e4b\u7fbd\u7684\u5bd2\u610f",
+        "name": "凛锋",
+        "suit_name": "天之羽的寒意",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7360,8 +7360,8 @@
         ]
     },
     "10550012": {
-        "name": "\u88c2\u7834",
-        "suit_name": "\u5929\u4e4b\u7fbd\u7684\u5bd2\u610f",
+        "name": "裂破",
+        "suit_name": "天之羽的寒意",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10550011,
         "pos": 2,
@@ -7376,8 +7376,8 @@
         ]
     },
     "10550013": {
-        "name": "\u5bd2\u6781",
-        "suit_name": "\u5929\u4e4b\u7fbd\u7684\u5bd2\u610f",
+        "name": "寒极",
+        "suit_name": "天之羽的寒意",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10550012,
         "pos": 3,
@@ -7392,8 +7392,8 @@
         ]
     },
     "10550021": {
-        "name": "\u51bb\u5c42",
-        "suit_name": "\u795e\u4e4b\u8840\u7684\u971c\u7ed3",
+        "name": "冻层",
+        "suit_name": "神之血的霜结",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7408,8 +7408,8 @@
         ]
     },
     "10550022": {
-        "name": "\u5bd2\u5f71",
-        "suit_name": "\u795e\u4e4b\u8840\u7684\u971c\u7ed3",
+        "name": "寒影",
+        "suit_name": "神之血的霜结",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10550021,
         "pos": 2,
@@ -7424,8 +7424,8 @@
         ]
     },
     "10550023": {
-        "name": "\u5578\u98ce",
-        "suit_name": "\u795e\u4e4b\u8840\u7684\u971c\u7ed3",
+        "name": "啸风",
+        "suit_name": "神之血的霜结",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10550022,
         "pos": 3,
@@ -7440,8 +7440,8 @@
         ]
     },
     "10550031": {
-        "name": "\u51dd\u6676",
-        "suit_name": "\u7fbd\u4e4b\u795e\u7684\u6676\u9020",
+        "name": "凝晶",
+        "suit_name": "羽之神的晶造",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7456,8 +7456,8 @@
         ]
     },
     "10550032": {
-        "name": "\u6563\u5c18",
-        "suit_name": "\u7fbd\u4e4b\u795e\u7684\u6676\u9020",
+        "name": "散尘",
+        "suit_name": "羽之神的晶造",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10550031,
         "pos": 2,
@@ -7472,8 +7472,8 @@
         ]
     },
     "10550033": {
-        "name": "\u98d8\u6d12",
-        "suit_name": "\u7fbd\u4e4b\u795e\u7684\u6676\u9020",
+        "name": "飘洒",
+        "suit_name": "羽之神的晶造",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10550032,
         "pos": 3,
@@ -7488,8 +7488,8 @@
         ]
     },
     "10600011": {
-        "name": "\u6606\u4e18",
-        "suit_name": "\u5f00\u660e\u5fa1\u517d",
+        "name": "昆丘",
+        "suit_name": "开明御兽",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7504,8 +7504,8 @@
         ]
     },
     "10600012": {
-        "name": "\u5fa1\u62a4",
-        "suit_name": "\u5f00\u660e\u5fa1\u517d",
+        "name": "御护",
+        "suit_name": "开明御兽",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10600011,
         "pos": 2,
@@ -7520,8 +7520,8 @@
         ]
     },
     "10600013": {
-        "name": "\u7834\u9635",
-        "suit_name": "\u5f00\u660e\u5fa1\u517d",
+        "name": "破阵",
+        "suit_name": "开明御兽",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10600012,
         "pos": 3,
@@ -7536,8 +7536,8 @@
         ]
     },
     "10600021": {
-        "name": "\u795e\u864e",
-        "suit_name": "\u5929\u4e4b\u4e5d\u90e8",
+        "name": "神虎",
+        "suit_name": "天之九部",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7552,8 +7552,8 @@
         ]
     },
     "10600022": {
-        "name": "\u4e5d\u90e8",
-        "suit_name": "\u5929\u4e4b\u4e5d\u90e8",
+        "name": "九部",
+        "suit_name": "天之九部",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10600021,
         "pos": 2,
@@ -7568,8 +7568,8 @@
         ]
     },
     "10600023": {
-        "name": "\u795e\u56ff",
-        "suit_name": "\u5929\u4e4b\u4e5d\u90e8",
+        "name": "神囿",
+        "suit_name": "天之九部",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10600022,
         "pos": 3,
@@ -7584,8 +7584,8 @@
         ]
     },
     "10600031": {
-        "name": "\u5929\u53f8",
-        "suit_name": "\u5e1d\u90fd\u53f8\u5c06",
+        "name": "天司",
+        "suit_name": "帝都司将",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7600,8 +7600,8 @@
         ]
     },
     "10600032": {
-        "name": "\u6467\u519b",
-        "suit_name": "\u5e1d\u90fd\u53f8\u5c06",
+        "name": "摧军",
+        "suit_name": "帝都司将",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10600031,
         "pos": 2,
@@ -7616,8 +7616,8 @@
         ]
     },
     "10600033": {
-        "name": "\u5e1d\u5c06",
-        "suit_name": "\u5e1d\u90fd\u53f8\u5c06",
+        "name": "帝将",
+        "suit_name": "帝都司将",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10600032,
         "pos": 3,
@@ -7632,8 +7632,8 @@
         ]
     },
     "10610011": {
-        "name": "\u9634\u8c61",
-        "suit_name": "\u5317\u9646\u7384\u51a5",
+        "name": "阴象",
+        "suit_name": "北陆玄冥",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7648,8 +7648,8 @@
         ]
     },
     "10610012": {
-        "name": "\u865a\u5bbf",
-        "suit_name": "\u5317\u9646\u7384\u51a5",
+        "name": "虚宿",
+        "suit_name": "北陆玄冥",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10610011,
         "pos": 2,
@@ -7664,8 +7664,8 @@
         ]
     },
     "10610013": {
-        "name": "\u5929\u8282",
-        "suit_name": "\u5317\u9646\u7384\u51a5",
+        "name": "天节",
+        "suit_name": "北陆玄冥",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10610012,
         "pos": 3,
@@ -7680,8 +7680,8 @@
         ]
     },
     "10610021": {
-        "name": "\u7384\u5929",
-        "suit_name": "\u771f\u6b66\u5e1d\u541b",
+        "name": "玄天",
+        "suit_name": "真武帝君",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7696,8 +7696,8 @@
         ]
     },
     "10610022": {
-        "name": "\u5343\u6f14",
-        "suit_name": "\u771f\u6b66\u5e1d\u541b",
+        "name": "千演",
+        "suit_name": "真武帝君",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10610021,
         "pos": 2,
@@ -7712,8 +7712,8 @@
         ]
     },
     "10610023": {
-        "name": "\u5317\u5e1d",
-        "suit_name": "\u771f\u6b66\u5e1d\u541b",
+        "name": "北帝",
+        "suit_name": "真武帝君",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10610022,
         "pos": 3,
@@ -7728,8 +7728,8 @@
         ]
     },
     "10610031": {
-        "name": "\u6c34\u8272",
-        "suit_name": "\u574e\u6c34\u62a4\u795e",
+        "name": "水色",
+        "suit_name": "坎水护神",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7744,8 +7744,8 @@
         ]
     },
     "10610032": {
-        "name": "\u5366\u7834",
-        "suit_name": "\u574e\u6c34\u62a4\u795e",
+        "name": "卦破",
+        "suit_name": "坎水护神",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10610031,
         "pos": 2,
@@ -7760,8 +7760,8 @@
         ]
     },
     "10610033": {
-        "name": "\u4e0d\u76c8",
-        "suit_name": "\u574e\u6c34\u62a4\u795e",
+        "name": "不盈",
+        "suit_name": "坎水护神",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10610032,
         "pos": 3,
@@ -7776,8 +7776,8 @@
         ]
     },
     "11500011": {
-        "name": "\u996e\u950b",
-        "suit_name": "\u5996\u5200",
+        "name": "饮锋",
+        "suit_name": "妖刀",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7792,8 +7792,8 @@
         ]
     },
     "11500012": {
-        "name": "\u6d74\u8840",
-        "suit_name": "\u5996\u5200",
+        "name": "浴血",
+        "suit_name": "妖刀",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11500011,
         "pos": 2,
@@ -7808,8 +7808,8 @@
         ]
     },
     "11500013": {
-        "name": "\u566c\u547d",
-        "suit_name": "\u5996\u5200",
+        "name": "噬命",
+        "suit_name": "妖刀",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11500012,
         "pos": 3,
@@ -7824,8 +7824,8 @@
         ]
     },
     "11500021": {
-        "name": "\u88c2\u7a7a",
-        "suit_name": "\u7834\u7a7a",
+        "name": "裂空",
+        "suit_name": "破空",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7840,8 +7840,8 @@
         ]
     },
     "11500022": {
-        "name": "\u65a9\u7edd",
-        "suit_name": "\u7834\u7a7a",
+        "name": "斩绝",
+        "suit_name": "破空",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11500021,
         "pos": 2,
@@ -7856,8 +7856,8 @@
         ]
     },
     "11500023": {
-        "name": "\u8d8a\u9699",
-        "suit_name": "\u7834\u7a7a",
+        "name": "越隙",
+        "suit_name": "破空",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11500022,
         "pos": 3,
@@ -7872,8 +7872,8 @@
         ]
     },
     "11500031": {
-        "name": "\u6a31\u821e",
-        "suit_name": "\u6563\u6a31",
+        "name": "樱舞",
+        "suit_name": "散樱",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7888,8 +7888,8 @@
         ]
     },
     "11500032": {
-        "name": "\u843d\u534e",
-        "suit_name": "\u6563\u6a31",
+        "name": "落华",
+        "suit_name": "散樱",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11500031,
         "pos": 2,
@@ -7904,8 +7904,8 @@
         ]
     },
     "11500033": {
-        "name": "\u7eef\u5f71",
-        "suit_name": "\u6563\u6a31",
+        "name": "绯影",
+        "suit_name": "散樱",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11500032,
         "pos": 3,
@@ -7920,8 +7920,8 @@
         ]
     },
     "10150011": {
-        "name": "\u6467\u57ce",
-        "suit_name": "\u6218\u4e89\u6bcd\u72ee",
+        "name": "摧城",
+        "suit_name": "战争母狮",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7936,8 +7936,8 @@
         ]
     },
     "10150012": {
-        "name": "\u767b\u950b",
-        "suit_name": "\u6218\u4e89\u6bcd\u72ee",
+        "name": "登锋",
+        "suit_name": "战争母狮",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10150011,
         "pos": 2,
@@ -7952,8 +7952,8 @@
         ]
     },
     "10150013": {
-        "name": "\u7edf\u519b",
-        "suit_name": "\u6218\u4e89\u6bcd\u72ee",
+        "name": "统军",
+        "suit_name": "战争母狮",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10150012,
         "pos": 3,
@@ -7968,8 +7968,8 @@
         ]
     },
     "10150021": {
-        "name": "\u7f5a\u7f6a",
-        "suit_name": "\u795e\u5723\u5ba1\u5224",
+        "name": "罚罪",
+        "suit_name": "神圣审判",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -7984,8 +7984,8 @@
         ]
     },
     "10150022": {
-        "name": "\u566c\u6076",
-        "suit_name": "\u795e\u5723\u5ba1\u5224",
+        "name": "噬恶",
+        "suit_name": "神圣审判",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10150021,
         "pos": 2,
@@ -8000,8 +8000,8 @@
         ]
     },
     "10150023": {
-        "name": "\u88c1\u65ad",
-        "suit_name": "\u795e\u5723\u5ba1\u5224",
+        "name": "裁断",
+        "suit_name": "神圣审判",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10150022,
         "pos": 3,
@@ -8016,8 +8016,8 @@
         ]
     },
     "10150031": {
-        "name": "\u626c\u5c18",
-        "suit_name": "\u6c99\u6e56\u9169\u914a",
+        "name": "扬尘",
+        "suit_name": "沙湖酩酊",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8032,8 +8032,8 @@
         ]
     },
     "10150032": {
-        "name": "\u5fae\u91ba",
-        "suit_name": "\u6c99\u6e56\u9169\u914a",
+        "name": "微醺",
+        "suit_name": "沙湖酩酊",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10150031,
         "pos": 2,
@@ -8048,8 +8048,8 @@
         ]
     },
     "10150033": {
-        "name": "\u9163\u9189",
-        "suit_name": "\u6c99\u6e56\u9169\u914a",
+        "name": "酣醉",
+        "suit_name": "沙湖酩酊",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10150032,
         "pos": 3,
@@ -8064,8 +8064,8 @@
         ]
     },
     "10950011": {
-        "name": "\u6708\u751f",
-        "suit_name": "\u65b0\u6708\u4e0e\u4ef2\u88c1",
+        "name": "月生",
+        "suit_name": "新月与仲裁",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8080,8 +8080,8 @@
         ]
     },
     "10950012": {
-        "name": "\u6714\u6656",
-        "suit_name": "\u65b0\u6708\u4e0e\u4ef2\u88c1",
+        "name": "朔晖",
+        "suit_name": "新月与仲裁",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10950011,
         "pos": 2,
@@ -8096,8 +8096,8 @@
         ]
     },
     "10950013": {
-        "name": "\u8a00\u51b3",
-        "suit_name": "\u65b0\u6708\u4e0e\u4ef2\u88c1",
+        "name": "言决",
+        "suit_name": "新月与仲裁",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10950012,
         "pos": 3,
@@ -8112,8 +8112,8 @@
         ]
     },
     "10950021": {
-        "name": "\u5bc6\u7b26",
-        "suit_name": "\u6587\u5b57\u4e0e\u8bd7\u7bc7",
+        "name": "密符",
+        "suit_name": "文字与诗篇",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8128,8 +8128,8 @@
         ]
     },
     "10950022": {
-        "name": "\u6587\u5c01",
-        "suit_name": "\u6587\u5b57\u4e0e\u8bd7\u7bc7",
+        "name": "文封",
+        "suit_name": "文字与诗篇",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10950021,
         "pos": 2,
@@ -8144,8 +8144,8 @@
         ]
     },
     "10950023": {
-        "name": "\u8bd7\u548f",
-        "suit_name": "\u6587\u5b57\u4e0e\u8bd7\u7bc7",
+        "name": "诗咏",
+        "suit_name": "文字与诗篇",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10950022,
         "pos": 3,
@@ -8160,8 +8160,8 @@
         ]
     },
     "10950031": {
-        "name": "\u8ff0\u5492",
-        "suit_name": "\u667a\u6167\u4e0e\u5b66\u8bc6",
+        "name": "述咒",
+        "suit_name": "智慧与学识",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8176,8 +8176,8 @@
         ]
     },
     "10950032": {
-        "name": "\u9605\u754c",
-        "suit_name": "\u667a\u6167\u4e0e\u5b66\u8bc6",
+        "name": "阅界",
+        "suit_name": "智慧与学识",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10950031,
         "pos": 2,
@@ -8192,8 +8192,8 @@
         ]
     },
     "10950033": {
-        "name": "\u667a\u7edc",
-        "suit_name": "\u667a\u6167\u4e0e\u5b66\u8bc6",
+        "name": "智络",
+        "suit_name": "智慧与学识",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10950032,
         "pos": 3,
@@ -8208,8 +8208,8 @@
         ]
     },
     "12840011": {
-        "name": "\u6668\u66e6",
-        "suit_name": "\u62c2\u6653\u7684\u8000\u5251",
+        "name": "晨曦",
+        "suit_name": "拂晓的耀剑",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8224,8 +8224,8 @@
         ]
     },
     "12840012": {
-        "name": "\u70bd\u5149",
-        "suit_name": "\u62c2\u6653\u7684\u8000\u5251",
+        "name": "炽光",
+        "suit_name": "拂晓的耀剑",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 12840011,
         "pos": 2,
@@ -8240,8 +8240,8 @@
         ]
     },
     "12840013": {
-        "name": "\u5149\u534e",
-        "suit_name": "\u62c2\u6653\u7684\u8000\u5251",
+        "name": "光华",
+        "suit_name": "拂晓的耀剑",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 12840012,
         "pos": 3,
@@ -8256,8 +8256,8 @@
         ]
     },
     "12840021": {
-        "name": "\u523b\u547d",
-        "suit_name": "\u547d\u5b9a\u7684\u88c1\u65ad",
+        "name": "刻命",
+        "suit_name": "命定的裁断",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8272,8 +8272,8 @@
         ]
     },
     "12840022": {
-        "name": "\u547d\u5b9a",
-        "suit_name": "\u547d\u5b9a\u7684\u88c1\u65ad",
+        "name": "命定",
+        "suit_name": "命定的裁断",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 12840021,
         "pos": 2,
@@ -8288,8 +8288,8 @@
         ]
     },
     "12840023": {
-        "name": "\u547d\u7f18",
-        "suit_name": "\u547d\u5b9a\u7684\u88c1\u65ad",
+        "name": "命缘",
+        "suit_name": "命定的裁断",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 12840022,
         "pos": 3,
@@ -8304,8 +8304,8 @@
         ]
     },
     "12840031": {
-        "name": "\u73b0\u4eca",
-        "suit_name": "\u7ea6\u5b9a\u7684\u73b0\u5728",
+        "name": "现今",
+        "suit_name": "约定的现在",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8320,8 +8320,8 @@
         ]
     },
     "12840032": {
-        "name": "\u4e00\u5239",
-        "suit_name": "\u7ea6\u5b9a\u7684\u73b0\u5728",
+        "name": "一刹",
+        "suit_name": "约定的现在",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 12840031,
         "pos": 2,
@@ -8336,8 +8336,8 @@
         ]
     },
     "12840033": {
-        "name": "\u7ea6\u675f",
-        "suit_name": "\u7ea6\u5b9a\u7684\u73b0\u5728",
+        "name": "约束",
+        "suit_name": "约定的现在",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 12840032,
         "pos": 3,
@@ -8352,8 +8352,8 @@
         ]
     },
     "11970011": {
-        "name": "\u8c61\u68a6",
-        "suit_name": "\u65e0\u5c3d\u5e7b\u68a6",
+        "name": "象梦",
+        "suit_name": "无尽幻梦",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8368,8 +8368,8 @@
         ]
     },
     "11970012": {
-        "name": "\u6c38\u7720",
-        "suit_name": "\u65e0\u5c3d\u5e7b\u68a6",
+        "name": "永眠",
+        "suit_name": "无尽幻梦",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11970011,
         "pos": 2,
@@ -8384,8 +8384,8 @@
         ]
     },
     "11970013": {
-        "name": "\u6c89\u68a6",
-        "suit_name": "\u65e0\u5c3d\u5e7b\u68a6",
+        "name": "沉梦",
+        "suit_name": "无尽幻梦",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11970012,
         "pos": 3,
@@ -8400,8 +8400,8 @@
         ]
     },
     "11970021": {
-        "name": "\u68a6\u4e61",
-        "suit_name": "\u4e09\u5343\u68a6\u795e",
+        "name": "梦乡",
+        "suit_name": "三千梦神",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8416,8 +8416,8 @@
         ]
     },
     "11970022": {
-        "name": "\u9020\u5f62",
-        "suit_name": "\u4e09\u5343\u68a6\u795e",
+        "name": "造形",
+        "suit_name": "三千梦神",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11970021,
         "pos": 2,
@@ -8432,8 +8432,8 @@
         ]
     },
     "11970023": {
-        "name": "\u4f3c\u50cf",
-        "suit_name": "\u4e09\u5343\u68a6\u795e",
+        "name": "似像",
+        "suit_name": "三千梦神",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11970022,
         "pos": 3,
@@ -8448,8 +8448,8 @@
         ]
     },
     "11970031": {
-        "name": "\u68a6\u5453",
-        "suit_name": "\u6c89\u68a6\u521d\u9192",
+        "name": "梦呓",
+        "suit_name": "沉梦初醒",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8464,8 +8464,8 @@
         ]
     },
     "11970032": {
-        "name": "\u6d45\u7720",
-        "suit_name": "\u6c89\u68a6\u521d\u9192",
+        "name": "浅眠",
+        "suit_name": "沉梦初醒",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11970031,
         "pos": 2,
@@ -8480,8 +8480,8 @@
         ]
     },
     "11970033": {
-        "name": "\u521d\u9192",
-        "suit_name": "\u6c89\u68a6\u521d\u9192",
+        "name": "初醒",
+        "suit_name": "沉梦初醒",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11970032,
         "pos": 3,
@@ -8496,8 +8496,8 @@
         ]
     },
     "10220011": {
-        "name": "\u6e05\u8f89",
-        "suit_name": "\u6ee1\u6708\u8f89\u5149",
+        "name": "清辉",
+        "suit_name": "满月辉光",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8512,8 +8512,8 @@
         ]
     },
     "10220012": {
-        "name": "\u6708\u9732",
-        "suit_name": "\u6ee1\u6708\u8f89\u5149",
+        "name": "月露",
+        "suit_name": "满月辉光",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10220011,
         "pos": 2,
@@ -8528,8 +8528,8 @@
         ]
     },
     "10220013": {
-        "name": "\u8584\u66ae",
-        "suit_name": "\u6ee1\u6708\u8f89\u5149",
+        "name": "薄暮",
+        "suit_name": "满月辉光",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10220012,
         "pos": 3,
@@ -8544,8 +8544,8 @@
         ]
     },
     "10220021": {
-        "name": "\u6714\u6708",
-        "suit_name": "\u65b0\u6708\u6842\u51a0",
+        "name": "朔月",
+        "suit_name": "新月桂冠",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8560,8 +8560,8 @@
         ]
     },
     "10220022": {
-        "name": "\u9690\u6708",
-        "suit_name": "\u65b0\u6708\u6842\u51a0",
+        "name": "隐月",
+        "suit_name": "新月桂冠",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10220021,
         "pos": 2,
@@ -8576,8 +8576,8 @@
         ]
     },
     "10220023": {
-        "name": "\u6708\u51a0",
-        "suit_name": "\u65b0\u6708\u6842\u51a0",
+        "name": "月冠",
+        "suit_name": "新月桂冠",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10220022,
         "pos": 3,
@@ -8592,8 +8592,8 @@
         ]
     },
     "10220031": {
-        "name": "\u5e7d\u6b4c",
-        "suit_name": "\u5e7d\u6708\u548f\u53f9",
+        "name": "幽歌",
+        "suit_name": "幽月咏叹",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8608,8 +8608,8 @@
         ]
     },
     "10220032": {
-        "name": "\u5bc2\u6708",
-        "suit_name": "\u5e7d\u6708\u548f\u53f9",
+        "name": "寂月",
+        "suit_name": "幽月咏叹",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10220031,
         "pos": 2,
@@ -8624,8 +8624,8 @@
         ]
     },
     "10220033": {
-        "name": "\u7693\u534e",
-        "suit_name": "\u5e7d\u6708\u548f\u53f9",
+        "name": "皓华",
+        "suit_name": "幽月咏叹",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10220032,
         "pos": 3,
@@ -8640,8 +8640,8 @@
         ]
     },
     "10210011": {
-        "name": "\u730e\u6797",
-        "suit_name": "\u8352\u539f\u72e9\u91ce",
+        "name": "猎林",
+        "suit_name": "荒原狩野",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8656,8 +8656,8 @@
         ]
     },
     "10210012": {
-        "name": "\u591c\u72e9",
-        "suit_name": "\u8352\u539f\u72e9\u91ce",
+        "name": "夜狩",
+        "suit_name": "荒原狩野",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10210011,
         "pos": 2,
@@ -8672,8 +8672,8 @@
         ]
     },
     "10210013": {
-        "name": "\u91d1\u77e2",
-        "suit_name": "\u8352\u539f\u72e9\u91ce",
+        "name": "金矢",
+        "suit_name": "荒原狩野",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10210012,
         "pos": 3,
@@ -8688,8 +8688,8 @@
         ]
     },
     "10210021": {
-        "name": "\u594f\u66f2",
-        "suit_name": "\u706f\u5854\u548c\u5f26",
+        "name": "奏曲",
+        "suit_name": "灯塔和弦",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8704,8 +8704,8 @@
         ]
     },
     "10210022": {
-        "name": "\u5b88\u671b",
-        "suit_name": "\u706f\u5854\u548c\u5f26",
+        "name": "守望",
+        "suit_name": "灯塔和弦",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10210021,
         "pos": 2,
@@ -8720,8 +8720,8 @@
         ]
     },
     "10210023": {
-        "name": "\u97f3\u5f8b",
-        "suit_name": "\u706f\u5854\u548c\u5f26",
+        "name": "音律",
+        "suit_name": "灯塔和弦",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10210022,
         "pos": 3,
@@ -8736,8 +8736,8 @@
         ]
     },
     "10210031": {
-        "name": "\u534f\u8c03",
-        "suit_name": "\u97f3\u7b26\u9a91\u58eb",
+        "name": "协调",
+        "suit_name": "音符骑士",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8752,8 +8752,8 @@
         ]
     },
     "10210032": {
-        "name": "\u5251\u9e23",
-        "suit_name": "\u97f3\u7b26\u9a91\u58eb",
+        "name": "剑鸣",
+        "suit_name": "音符骑士",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10210031,
         "pos": 2,
@@ -8768,8 +8768,8 @@
         ]
     },
     "10210033": {
-        "name": "\u5f26\u97f3",
-        "suit_name": "\u97f3\u7b26\u9a91\u58eb",
+        "name": "弦音",
+        "suit_name": "音符骑士",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10210032,
         "pos": 3,
@@ -8784,8 +8784,8 @@
         ]
     },
     "10200011": {
-        "name": "\u7483\u4f3d",
-        "suit_name": "\u7834\u706d\u4e4b\u795e",
+        "name": "璃伽",
+        "suit_name": "破灭之神",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8800,8 +8800,8 @@
         ]
     },
     "10200012": {
-        "name": "\u4ff1\u6bc1",
-        "suit_name": "\u7834\u706d\u4e4b\u795e",
+        "name": "俱毁",
+        "suit_name": "破灭之神",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10200011,
         "pos": 2,
@@ -8816,8 +8816,8 @@
         ]
     },
     "10200013": {
-        "name": "\u5723\u821e",
-        "suit_name": "\u7834\u706d\u4e4b\u795e",
+        "name": "圣舞",
+        "suit_name": "破灭之神",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10200012,
         "pos": 3,
@@ -8832,8 +8832,8 @@
         ]
     },
     "10200021": {
-        "name": "\u83b2\u8bde",
-        "suit_name": "\u521b\u751f\u4e4b\u795e",
+        "name": "莲诞",
+        "suit_name": "创生之神",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8848,8 +8848,8 @@
         ]
     },
     "10200022": {
-        "name": "\u91d1\u5375",
-        "suit_name": "\u521b\u751f\u4e4b\u795e",
+        "name": "金卵",
+        "suit_name": "创生之神",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10200021,
         "pos": 2,
@@ -8864,8 +8864,8 @@
         ]
     },
     "10200023": {
-        "name": "\u5e94\u8bb8",
-        "suit_name": "\u521b\u751f\u4e4b\u795e",
+        "name": "应许",
+        "suit_name": "创生之神",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10200022,
         "pos": 3,
@@ -8880,8 +8880,8 @@
         ]
     },
     "10200031": {
-        "name": "\u521b\u9020",
-        "suit_name": "\u4e09\u76f8\u5408\u4e00",
+        "name": "创造",
+        "suit_name": "三相合一",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8896,8 +8896,8 @@
         ]
     },
     "10200032": {
-        "name": "\u7ef4\u62a4",
-        "suit_name": "\u4e09\u76f8\u5408\u4e00",
+        "name": "维护",
+        "suit_name": "三相合一",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10200031,
         "pos": 2,
@@ -8912,8 +8912,8 @@
         ]
     },
     "10200033": {
-        "name": "\u7834\u574f",
-        "suit_name": "\u4e09\u76f8\u5408\u4e00",
+        "name": "破坏",
+        "suit_name": "三相合一",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10200032,
         "pos": 3,
@@ -8928,8 +8928,8 @@
         ]
     },
     "11560011": {
-        "name": "\u96f7\u52ab",
-        "suit_name": "\u96be\u8fd1\u6bcd\u795e",
+        "name": "雷劫",
+        "suit_name": "难近母神",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8944,8 +8944,8 @@
         ]
     },
     "11560012": {
-        "name": "\u6740\u4f10",
-        "suit_name": "\u96be\u8fd1\u6bcd\u795e",
+        "name": "杀伐",
+        "suit_name": "难近母神",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11560011,
         "pos": 2,
@@ -8960,8 +8960,8 @@
         ]
     },
     "11560013": {
-        "name": "\u8bdb\u9b54",
-        "suit_name": "\u96be\u8fd1\u6bcd\u795e",
+        "name": "诛魔",
+        "suit_name": "难近母神",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11560012,
         "pos": 3,
@@ -8976,8 +8976,8 @@
         ]
     },
     "11560021": {
-        "name": "\u96f7\u5239",
-        "suit_name": "\u6c38\u52ab\u65f6\u96f7",
+        "name": "雷刹",
+        "suit_name": "永劫时雷",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -8992,8 +8992,8 @@
         ]
     },
     "11560022": {
-        "name": "\u9e23\u96f7",
-        "suit_name": "\u6c38\u52ab\u65f6\u96f7",
+        "name": "鸣雷",
+        "suit_name": "永劫时雷",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11560021,
         "pos": 2,
@@ -9008,8 +9008,8 @@
         ]
     },
     "11560023": {
-        "name": "\u9706\u8000",
-        "suit_name": "\u6c38\u52ab\u65f6\u96f7",
+        "name": "霆耀",
+        "suit_name": "永劫时雷",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11560022,
         "pos": 3,
@@ -9024,8 +9024,8 @@
         ]
     },
     "11560031": {
-        "name": "\u8e0f\u754c",
-        "suit_name": "\u5fff\u6012\u4e4b\u795e",
+        "name": "踏界",
+        "suit_name": "忿怒之神",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -9040,8 +9040,8 @@
         ]
     },
     "11560032": {
-        "name": "\u9ed1\u795e",
-        "suit_name": "\u5fff\u6012\u4e4b\u795e",
+        "name": "黑神",
+        "suit_name": "忿怒之神",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11560031,
         "pos": 2,
@@ -9056,8 +9056,8 @@
         ]
     },
     "11560033": {
-        "name": "\u6124\u61d1",
-        "suit_name": "\u5fff\u6012\u4e4b\u795e",
+        "name": "愤懑",
+        "suit_name": "忿怒之神",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11560032,
         "pos": 3,
@@ -9072,8 +9072,8 @@
         ]
     },
     "10890011": {
-        "name": "\u8f6e\u56de",
-        "suit_name": "\u96ea\u5cf0\u8f6e\u56de",
+        "name": "轮回",
+        "suit_name": "雪峰轮回",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -9088,8 +9088,8 @@
         ]
     },
     "10890012": {
-        "name": "\u51c0\u5df1",
-        "suit_name": "\u96ea\u5cf0\u8f6e\u56de",
+        "name": "净己",
+        "suit_name": "雪峰轮回",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10890011,
         "pos": 2,
@@ -9104,8 +9104,8 @@
         ]
     },
     "10890013": {
-        "name": "\u711a\u6211",
-        "suit_name": "\u96ea\u5cf0\u8f6e\u56de",
+        "name": "焚我",
+        "suit_name": "雪峰轮回",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10890012,
         "pos": 3,
@@ -9120,8 +9120,8 @@
         ]
     },
     "10890021": {
-        "name": "\u8d8a\u5cad",
-        "suit_name": "\u81f3\u9ad8\u5c71\u795e",
+        "name": "越岭",
+        "suit_name": "至高山神",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -9136,8 +9136,8 @@
         ]
     },
     "10890022": {
-        "name": "\u6781\u5cf0",
-        "suit_name": "\u81f3\u9ad8\u5c71\u795e",
+        "name": "极峰",
+        "suit_name": "至高山神",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10890021,
         "pos": 2,
@@ -9152,8 +9152,8 @@
         ]
     },
     "10890023": {
-        "name": "\u98ce\u8f6e",
-        "suit_name": "\u81f3\u9ad8\u5c71\u795e",
+        "name": "风轮",
+        "suit_name": "至高山神",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10890022,
         "pos": 3,
@@ -9168,8 +9168,8 @@
         ]
     },
     "10890031": {
-        "name": "\u9635\u98ce",
-        "suit_name": "\u711a\u8f6e\u8fce\u98ce",
+        "name": "阵风",
+        "suit_name": "焚轮迎风",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -9184,8 +9184,8 @@
         ]
     },
     "10890032": {
-        "name": "\u98d3\u98d9",
-        "suit_name": "\u711a\u8f6e\u8fce\u98ce",
+        "name": "飓飙",
+        "suit_name": "焚轮迎风",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10890031,
         "pos": 2,
@@ -9200,8 +9200,8 @@
         ]
     },
     "10890033": {
-        "name": "\u72c2\u5c9a",
-        "suit_name": "\u711a\u8f6e\u8fce\u98ce",
+        "name": "狂岚",
+        "suit_name": "焚轮迎风",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10890032,
         "pos": 3,
@@ -9216,8 +9216,8 @@
         ]
     },
     "12480011": {
-        "name": "\u53cb\u60c5",
-        "suit_name": "\u7231\u4e0e\u548c\u5e73",
+        "name": "友情",
+        "suit_name": "爱与和平",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -9232,8 +9232,8 @@
         ]
     },
     "12480012": {
-        "name": "\u52aa\u529b",
-        "suit_name": "\u7231\u4e0e\u548c\u5e73",
+        "name": "努力",
+        "suit_name": "爱与和平",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 12480011,
         "pos": 2,
@@ -9248,8 +9248,8 @@
         ]
     },
     "12480013": {
-        "name": "\u80dc\u5229",
-        "suit_name": "\u7231\u4e0e\u548c\u5e73",
+        "name": "胜利",
+        "suit_name": "爱与和平",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 12480012,
         "pos": 3,
@@ -9264,8 +9264,8 @@
         ]
     },
     "12480021": {
-        "name": "\u987d\u5fc3",
-        "suit_name": "\u5584\u7ae5\u6076\u620f",
+        "name": "顽心",
+        "suit_name": "善童恶戏",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -9280,8 +9280,8 @@
         ]
     },
     "12480022": {
-        "name": "\u5999\u53cb",
-        "suit_name": "\u5584\u7ae5\u6076\u620f",
+        "name": "妙友",
+        "suit_name": "善童恶戏",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 12480021,
         "pos": 2,
@@ -9296,8 +9296,8 @@
         ]
     },
     "12480023": {
-        "name": "\u95f9\u5267",
-        "suit_name": "\u5584\u7ae5\u6076\u620f",
+        "name": "闹剧",
+        "suit_name": "善童恶戏",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 12480022,
         "pos": 3,
@@ -9312,8 +9312,8 @@
         ]
     },
     "12480031": {
-        "name": "\u795e\u5999",
-        "suit_name": "\u795e\u5a01\u795e\u5a01",
+        "name": "神妙",
+        "suit_name": "神威神威",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -9328,8 +9328,8 @@
         ]
     },
     "12480032": {
-        "name": "\u795e\u7ffc",
-        "suit_name": "\u795e\u5a01\u795e\u5a01",
+        "name": "神翼",
+        "suit_name": "神威神威",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 12480031,
         "pos": 2,
@@ -9344,8 +9344,8 @@
         ]
     },
     "12480033": {
-        "name": "\u795e\u5fa1",
-        "suit_name": "\u795e\u5a01\u795e\u5a01",
+        "name": "神御",
+        "suit_name": "神威神威",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 12480032,
         "pos": 3,
@@ -9360,8 +9360,8 @@
         ]
     },
     "11330011": {
-        "name": "\u575a\u58c1",
-        "suit_name": "\u9ad8\u5929\u7684\u5b88\u671b",
+        "name": "坚壁",
+        "suit_name": "高天的守望",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -9376,8 +9376,8 @@
         ]
     },
     "11330012": {
-        "name": "\u9e23\u89d2",
-        "suit_name": "\u9ad8\u5929\u7684\u5b88\u671b",
+        "name": "鸣角",
+        "suit_name": "高天的守望",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 11330011,
         "pos": 2,
@@ -9392,8 +9392,8 @@
         ]
     },
     "11330013": {
-        "name": "\u8679\u6d41",
-        "suit_name": "\u9ad8\u5929\u7684\u5b88\u671b",
+        "name": "虹流",
+        "suit_name": "高天的守望",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 11330012,
         "pos": 3,
@@ -9408,8 +9408,8 @@
         ]
     },
     "11330021": {
-        "name": "\u65e0\u6daf",
-        "suit_name": "\u6012\u6d6a\u7684\u4f59\u54cd",
+        "name": "无涯",
+        "suit_name": "怒浪的余响",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -9424,8 +9424,8 @@
         ]
     },
     "11330022": {
-        "name": "\u6fc0\u632f",
-        "suit_name": "\u6012\u6d6a\u7684\u4f59\u54cd",
+        "name": "激振",
+        "suit_name": "怒浪的余响",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 11330021,
         "pos": 2,
@@ -9440,8 +9440,8 @@
         ]
     },
     "11330023": {
-        "name": "\u5a01\u6f6e",
-        "suit_name": "\u6012\u6d6a\u7684\u4f59\u54cd",
+        "name": "威潮",
+        "suit_name": "怒浪的余响",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 11330022,
         "pos": 3,
@@ -9456,8 +9456,8 @@
         ]
     },
     "11330031": {
-        "name": "\u6d1e\u4e16",
-        "suit_name": "\u4e34\u5c18\u7684\u542f\u6167",
+        "name": "洞世",
+        "suit_name": "临尘的启慧",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -9472,8 +9472,8 @@
         ]
     },
     "11330032": {
-        "name": "\u7075\u77e5",
-        "suit_name": "\u4e34\u5c18\u7684\u542f\u6167",
+        "name": "灵知",
+        "suit_name": "临尘的启慧",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 11330031,
         "pos": 2,
@@ -9488,8 +9488,8 @@
         ]
     },
     "11330033": {
-        "name": "\u795e\u793a",
-        "suit_name": "\u4e34\u5c18\u7684\u542f\u6167",
+        "name": "神示",
+        "suit_name": "临尘的启慧",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 11330032,
         "pos": 3,
@@ -9504,8 +9504,8 @@
         ]
     },
     "10340011": {
-        "name": "\u593a\u9b44",
-        "suit_name": "\u70c8\u6bd2\u4e3b\u5bb0",
+        "name": "夺魄",
+        "suit_name": "烈毒主宰",
         "unlock_condition": 2101,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -9520,8 +9520,8 @@
         ]
     },
     "10340012": {
-        "name": "\u7a7f\u5fc3",
-        "suit_name": "\u70c8\u6bd2\u4e3b\u5bb0",
+        "name": "穿心",
+        "suit_name": "烈毒主宰",
         "unlock_condition": 2102,
         "pre_astrolabe_id": 10340011,
         "pos": 2,
@@ -9536,8 +9536,8 @@
         ]
     },
     "10340013": {
-        "name": "\u6444\u76ee",
-        "suit_name": "\u70c8\u6bd2\u4e3b\u5bb0",
+        "name": "摄目",
+        "suit_name": "烈毒主宰",
         "unlock_condition": 2103,
         "pre_astrolabe_id": 10340012,
         "pos": 3,
@@ -9552,8 +9552,8 @@
         ]
     },
     "10340021": {
-        "name": "\u5f02\u9cde",
-        "suit_name": "\u4e07\u622e\u707e\u5f02",
+        "name": "异鳞",
+        "suit_name": "万戮灾异",
         "unlock_condition": 2201,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -9568,8 +9568,8 @@
         ]
     },
     "10340022": {
-        "name": "\u8715\u751f",
-        "suit_name": "\u4e07\u622e\u707e\u5f02",
+        "name": "蜕生",
+        "suit_name": "万戮灾异",
         "unlock_condition": 2202,
         "pre_astrolabe_id": 10340021,
         "pos": 2,
@@ -9584,8 +9584,8 @@
         ]
     },
     "10340023": {
-        "name": "\u72c2\u6f6e",
-        "suit_name": "\u4e07\u622e\u707e\u5f02",
+        "name": "狂潮",
+        "suit_name": "万戮灾异",
         "unlock_condition": 2203,
         "pre_astrolabe_id": 10340022,
         "pos": 3,
@@ -9600,8 +9600,8 @@
         ]
     },
     "10340031": {
-        "name": "\u9a71\u90aa",
-        "suit_name": "\u5b88\u62a4\u5723\u86c7",
+        "name": "驱邪",
+        "suit_name": "守护圣蛇",
         "unlock_condition": 2301,
         "pre_astrolabe_id": 0,
         "pos": 1,
@@ -9616,8 +9616,8 @@
         ]
     },
     "10340032": {
-        "name": "\u86c7\u53d8",
-        "suit_name": "\u5b88\u62a4\u5723\u86c7",
+        "name": "蛇变",
+        "suit_name": "守护圣蛇",
         "unlock_condition": 2302,
         "pre_astrolabe_id": 10340031,
         "pos": 2,
@@ -9632,8 +9632,8 @@
         ]
     },
     "10340033": {
-        "name": "\u8d50\u4f51",
-        "suit_name": "\u5b88\u62a4\u5723\u86c7",
+        "name": "赐佑",
+        "suit_name": "守护圣蛇",
         "unlock_condition": 2303,
         "pre_astrolabe_id": 10340032,
         "pos": 3,

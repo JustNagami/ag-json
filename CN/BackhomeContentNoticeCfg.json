@@ -3,36 +3,36 @@
         "template": 1,
         "params": "",
         "id": 1001,
-        "title": "\u9910\u5385",
-        "desc": "\u6d88\u8017\u4f53\u529b\u6700\u591a %s\n\u83dc\u54c1\u552e\u5356\u6700\u591a %s\n\u83dc\u54c1\u552e\u5356\u6570\u91cf\u603b\u8ba1 %s\n\u59d4\u6258\u5b8c\u6210\u7684\u6570\u91cf %s\n\u83b7\u5f97\u7684\u8d27\u5e01\u6570\u91cf %s\n\u59d4\u6258\u53c2\u4e0e\u6700\u591a %s\n\u59d4\u6258\u53c2\u4e0e\u603b\u6570 %s",
+        "title": "餐厅",
+        "desc": "消耗体力最多 %s\n菜品售卖最多 %s\n菜品售卖数量总计 %s\n委托完成的数量 %s\n获得的货币数量 %s\n委托参与最多 %s\n委托参与总数 %s",
         "marquee": [
-            "\u4e0a\u5468\u6d88\u8017\u6700\u591a\u4f53\u529b\u7684\u4fee\u6b63\u8005\u4e3a\u300c%s\u300d\uff0c\u8bb0\u5f97\u63d0\u9192\u5bf9\u65b9\u8981\u6ce8\u610f\u52b3\u9038\u7ed3\u5408\u3002",
-            "\u6700\u591a\u552e\u5356\u7684\u83dc\u54c1\u4e3a\u300c%s\u300d",
-            "\u4e0a\u5468\u9910\u5385\u5171\u552e\u51fa\u300c%s\u300d\u9053\u83dc\u54c1\uff0c\u6839\u636e\u552e\u5356\u6570\u91cf\u8c03\u6574\u4f9b\u5e94\u65b9\u6848\u6709\u52a9\u4e8e\u63d0\u9ad8\u76c8\u5229\u54e6\u3002",
-            "\u603b\u4e0a\u5468\u5171\u5b8c\u6210\u4e86\u300c%s\u300d\u4ef6\u59d4\u6258\u4efb\u52a1\uff0c\u5ba2\u4eba\u4eec\u66f4\u52a0\u4fe1\u4efb\u9910\u5385\u4e86\u5462\u3002",
-            "\u4e0a\u5468\u5171\u83b7\u5f97\u300c%s\u300d\u679a\u4e50\u56ed\u5370\u6233\uff0c\u5408\u7406\u89c4\u5212\u5982\u4f55\u4f7f\u7528\u6709\u52a9\u4e8e\u63d0\u9ad8\u4fee\u6b63\u8005\u4eec\u7684\u5c45\u4f4f\u4f53\u9a8c\u3002",
-            "\u300c%s\u300d\u662f\u4e0a\u5468\u53c2\u4e0e\u59d4\u6258\u4efb\u52a1\u6700\u591a\u7684\u4eba\uff0c\u6709\u673a\u4f1a\u7292\u52b3\u4e00\u4e0b\u8fd9\u4f4d\u4fee\u6b63\u8005\u5427\u3002",
-            "\u4e0a\u5468\u53c2\u4e0e\u8fc7\u59d4\u6258\u7684\u89d2\u8272\u6570\u91cf\u4e3a\u300c%s\u300d\uff0c\u770b\u6765\u60a8\u5bf9\u4e8e\u4eba\u5458\u8c03\u5ea6\u66f4\u52a0\u5f97\u5fc3\u5e94\u624b\u4e86\u3002"
+            "上周消耗最多体力的修正者为「%s」，记得提醒对方要注意劳逸结合。",
+            "最多售卖的菜品为「%s」",
+            "上周餐厅共售出「%s」道菜品，根据售卖数量调整供应方案有助于提高盈利哦。",
+            "总上周共完成了「%s」件委托任务，客人们更加信任餐厅了呢。",
+            "上周共获得「%s」枚乐园印戳，合理规划如何使用有助于提高修正者们的居住体验。",
+            "「%s」是上周参与委托任务最多的人，有机会犒劳一下这位修正者吧。",
+            "上周参与过委托的角色数量为「%s」，看来您对于人员调度更加得心应手了。"
         ]
     },
     "2001": {
         "template": 2,
         "params": "",
         "id": 2001,
-        "title": "\u5076\u50cf\u7ade\u6280",
-        "desc": "\u6700\u591a\u57f9\u517b\u6b21\u6570 %s %s\n\u6700\u591a\u57f9\u517b\u7684\u5c5e\u6027\u7c7b\u578b %s\n\u4e0e\u5176\u4ed6\u73a9\u5bb6\u5bf9\u6218\u6b21\u6570 %s\n\u73a9\u5bb6\u5bf9\u6218\u80dc\u5229\u6b21\u6570%s",
+        "title": "偶像竞技",
+        "desc": "最多培养次数 %s %s\n最多培养的属性类型 %s\n与其他玩家对战次数 %s\n玩家对战胜利次数%s",
         "marquee": [
-            "\u4e0a\u5468\u57f9\u517b\u6b21\u6570\u6700\u591a\u7684\u89d2\u8272\u4e3a\u300c%s\u300d\uff0c\u76f8\u4fe1\u4e00\u8d77\u8d70\u82b1\u8def\u7684\u65e5\u5b50\u5df2\u7ecf\u4e0d\u8fdc\u4e86\u3002",
-            "\u4e0a\u5468\u57f9\u517b\u6b21\u6570\u6700\u591a\u7684\u5c5e\u6027\u4e3a\u300c%s\u300d\uff0c\u6ce8\u610f\u5168\u9762\u53d1\u5c55\uff0c\u504f\u79d1\u53ef\u4e0d\u597d\u54e6\u3002",
-            "\u4e0a\u5468\u4e0e\u5176\u4ed6\u73a9\u5bb6\u5bf9\u6218\u7684\u6b21\u6570\u4e3a\u300c%s\u300d\u6b21\u3002",
-            "\u4e0a\u5468\u4e0e\u5176\u4ed6\u73a9\u5bb6\u5bf9\u6218\u80dc\u5229\u6b21\u6570\u4e3a\u300c%s\u300d\u6b21\u3002"
+            "上周培养次数最多的角色为「%s」，相信一起走花路的日子已经不远了。",
+            "上周培养次数最多的属性为「%s」，注意全面发展，偏科可不好哦。",
+            "上周与其他玩家对战的次数为「%s」次。",
+            "上周与其他玩家对战胜利次数为「%s」次。"
         ]
     },
     "3001": {
         "template": 3,
         "id": 3001,
-        "title": "\u5bb6\u5177\u66f4\u65b0",
-        "desc": "\u5bb6\u5177\u4e0a\u65b0 %s",
+        "title": "家具更新",
+        "desc": "家具上新 %s",
         "params": [
             951015,
             951016
@@ -42,8 +42,8 @@
     "4001": {
         "template": 4,
         "id": 4001,
-        "title": "\u4fee\u6b63\u8005",
-        "desc": "\u89d2\u8272\u66f4\u65b0 %s",
+        "title": "修正者",
+        "desc": "角色更新 %s",
         "params": [
             1084,
             1148
@@ -53,8 +53,8 @@
     "5001": {
         "template": 5,
         "id": 5001,
-        "title": "\u821e\u8e48\u52a8\u4f5c",
-        "desc": "\u821e\u8e48\u52a8\u4f5c\u66f4\u65b0 %s",
+        "title": "舞蹈动作",
+        "desc": "舞蹈动作更新 %s",
         "params": [
             101,
             102
@@ -64,8 +64,8 @@
     "6001": {
         "template": 6,
         "id": 6001,
-        "title": "\u4e13\u5c5e\u5bb6\u5177",
-        "desc": "\u4e13\u5c5e\u5bb6\u5177\u66f4\u65b0 %s",
+        "title": "专属家具",
+        "desc": "专属家具更新 %s",
         "params": [
             950021
         ],

@@ -1,11 +1,11 @@
 {
     "1": {
-        "name": "\u65e0\u540d\u7684\u4fe1\u5c01",
+        "name": "无名的信封",
         "icon": "Props_envelope_01",
         "type": 1,
         "model_path": "QWWorld/Illu/Illu_envelope_01",
-        "desc": "\u653e\u5047\u4e86\u653e\u5047\u4e86\uff01\u5fd9\u6d3b\u4e86\u8fd9\u4e48\u4e45\uff0c\u7ec8\u4e8e\u80fd\u6709\u4e2a\u673a\u4f1a\u51fa\u8d9f\u8fdc\u95e8\uff0c\u8fd9\u6b21\u8be5\u53bb\u54ea\u91cc\u73a9\u5462\uff1f\n\u55ef\u2026\u2026\u5148\u53bb\u8d9f\u5357\u4ea4\u597d\u4e86\uff0c\u603b\u89c9\u5f97\u59d0\u59d0\u6700\u8fd1\u6709\u4e9b\u8fc7\u5ea6\u52b3\u7d2f\u7684\u6837\u5b50\uff0c\u8981\u62dc\u6258\u9675\u5149\u59d0\u59d0\u5f00\u4e9b\u836f\u65b9\u3002\n\u53e6\u5916\uff0c\u542c\u8bf4\u5357\u8fb9\u7684\u300c\u523a\u6850\u6e2f\u300d\u6709\u4e0d\u5c11\u73cd\u8d35\u7684\u53e4\u4ee3\u9020\u8239\u6280\u827a\u2026\u2026\u6709\u70b9\u5fc3\u52a8\u8036\u3002\n\u518d\u8fc7\u4e00\u6bb5\u65f6\u95f4\u5c31\u662f\u6d77\u8d38\u7684\u5de1\u8239\u8282\u4e86\uff0c\u5230\u65f6\u5019\u4ed6\u4eec\u80af\u5b9a\u4f1a\u628a\u53e4\u8239\u62c9\u51fa\u6765\u2026\u2026\u6709\u673a\u4f1a\u4e00\u5b9a\u8981\u53bb\u770b\u770b\uff01",
-        "simple_desc": "\u4e00\u5c01\u672a\u7f72\u660e\u53d1\u4ef6\u4eba\u7684\u4fe1",
+        "desc": "放假了放假了！忙活了这么久，终于能有个机会出趟远门，这次该去哪里玩呢？\n嗯……先去趟南交好了，总觉得姐姐最近有些过度劳累的样子，要拜托陵光姐姐开些药方。\n另外，听说南边的「刺桐港」有不少珍贵的古代造船技艺……有点心动耶。\n再过一段时间就是海贸的巡船节了，到时候他们肯定会把古船拉出来……有机会一定要去看看！",
+        "simple_desc": "一封未署明发件人的信",
         "id": 1,
         "task_id": 10325,
         "reward": [
@@ -16,12 +16,12 @@
         ]
     },
     "2": {
-        "name": "\u51f6\u517d\u51fa\u6ca1\u6ce8\u610f\uff01",
+        "name": "凶兽出没注意！",
         "icon": "Props_billboard_01",
         "type": 1,
         "model_path": "QWWorld/Illu/Illu_billboard_01",
-        "desc": "\u516c\u544a\uff1a\n\u9547\u4e0a\u6700\u8fd1\u906d\u9047\u5230\u51f6\u517d\u88ad\u6270\uff0c\u5f71\u54cd\u672c\u9547\u5c45\u6c11\u6b63\u5e38\u751f\u6d3b\uff0c\u73b0\u5728\u6b63\u5728\u5e94\u5bf9\u3002\n\u76ee\u524d\u5df2\u77e5\u8be5\u51f6\u517d\u5bf9\u4e8e\u5404\u7c7b\u5f3a\u5149\u4e0e\u7206\u54cd\uff0c\u6709\u660e\u663e\u7684\u6050\u60e7\u548c\u62b5\u89e6\u53cd\u5e94\uff0c\u9547\u516c\u529e\u5df2\u6279\u91cf\u91c7\u8d2d\u5927\u91cf\u70df\u82b1\u7206\u7af9\uff0c\u653e\u7f6e\u4e8e\u9547\u4e2d\u5404\u5904\u3002\u5982\u9047\u5230\u51f6\u517d\u88ad\u6270\uff0c\u53ef\u89c6\u60c5\u51b5\u968f\u65f6\u53d6\u7528\u3002\n\u6ce8\u610f\uff1a\u4e0d\u5f97\u5e72\u6270\u4ed6\u4eba\u3002",
-        "simple_desc": "\u4e00\u5757\u9ad8\u5927\u5a01\u4e25\u7684\u544a\u793a\u724c",
+        "desc": "公告：\n镇上最近遭遇到凶兽袭扰，影响本镇居民正常生活，现在正在应对。\n目前已知该凶兽对于各类强光与爆响，有明显的恐惧和抵触反应，镇公办已批量采购大量烟花爆竹，放置于镇中各处。如遇到凶兽袭扰，可视情况随时取用。\n注意：不得干扰他人。",
+        "simple_desc": "一块高大威严的告示牌",
         "id": 2,
         "task_id": 10326,
         "reward": [
@@ -32,12 +32,12 @@
         ]
     },
     "3": {
-        "name": "\u5c0f\u4e66\u5305",
+        "name": "小书包",
         "icon": "Props_bag_01",
         "type": 1,
         "model_path": "QWWorld/Illu/Illu_bag_01",
-        "desc": "\u8fd9\u662f\u4e00\u4e2a\u5c0f\u4e66\u5305\u2026\u2026\u7b49\u7b49\uff0c\u4e3a\u4ec0\u4e48\u91cc\u9762\u5168\u662f\u6691\u5047\u4f5c\u4e1a\uff1f\u83ab\u975e\u662f\u300c\u6545\u610f\u300d\u5fd8\u5728\u8fd9\u91cc\u7684\uff1f\u2026\u2026\u4e0d\u884c\uff0c\u6709\u673a\u4f1a\u4e00\u5b9a\u628a\u5b83\u9001\u56de\u7ed9\u5931\u4e3b\uff01",
-        "simple_desc": "\u653e\u5728\u89d2\u843d\u91cc\u7684\u5c0f\u4e66\u5305",
+        "desc": "这是一个小书包……等等，为什么里面全是暑假作业？莫非是「故意」忘在这里的？……不行，有机会一定把它送回给失主！",
+        "simple_desc": "放在角落里的小书包",
         "id": 3,
         "task_id": 10327,
         "reward": [
@@ -48,12 +48,12 @@
         ]
     },
     "4": {
-        "name": "\u6389\u843d\u7684\u8bb8\u613f\u7b7e",
+        "name": "掉落的许愿签",
         "icon": "Props_prayersign_01",
         "type": 1,
         "model_path": "QWWorld/Illu/Illu_prayersign_01",
-        "desc": "\u6807\u9898\uff1a\u795d\u6211\u8868\u767d\u6210\u529f\uff01\n\u5185\u5bb9\uff1a\n\u6211\u559c\u6b22\u5979\u5f88\u591a\u5e74\u4e86\uff01\n\u6628\u665a\u7761\u89c9\u7684\u65f6\u5019\u4e0d\u77e5\u9053\u4e3a\u4ec0\u4e48\u53c8\u68a6\u89c1\u5979\uff0c\u68a6\u89c1\u6211\u4eec\u4e24\u4e2a\u534a\u591c\u5077\u5077\u8dd1\u8fdb\u5b66\u6821\u91cc\u63a2\u9669\u2026\u2026\u540e\u6765\u6211\u8ddf\u5979\u8bb2\u8fd9\u4ef6\u4e8b\uff0c\u5979\u5c45\u7136\u4e5f\u5f88\u9ad8\u5174\uff1f\u6211\u7684\u673a\u4f1a\u662f\u4e0d\u662f\u8981\u6765\u4e86\uff01\n\u9192\u5c81\u8282\u8fd9\u665a\u6211\u5c31\u8981\u627e\u5979\u544a\u767d\uff0c\u6210\u529f\u4e86\u6211\u5c31\u628a\u73cd\u85cf\u4e86\u4e09\u5341\u5e74\u7684\u591c\u5149\u624b\u8868\u9001\u7ed9\u5979\uff01",
-        "simple_desc": "\u6389\u843d\u5728\u7948\u798f\u6811\u4e0b\u7684\u798f\u7b7e",
+        "desc": "标题：祝我表白成功！\n内容：\n我喜欢她很多年了！\n昨晚睡觉的时候不知道为什么又梦见她，梦见我们两个半夜偷偷跑进学校里探险……后来我跟她讲这件事，她居然也很高兴？我的机会是不是要来了！\n醒岁节这晚我就要找她告白，成功了我就把珍藏了三十年的夜光手表送给她！",
+        "simple_desc": "掉落在祈福树下的福签",
         "id": 4,
         "task_id": 10328,
         "reward": [
@@ -64,12 +64,12 @@
         ]
     },
     "5": {
-        "name": "\u4e00\u888b\u6210\u8863",
+        "name": "一袋成衣",
         "icon": "Props_garmentbag_01",
         "type": 1,
         "model_path": "QWWorld/Illu/Illu_garmentbag_01",
-        "desc": "\u73e0\u7ee3\u5de5\u827a\u8d77\u6e90\u60a0\u4e45\uff0c\u5e76\u5728\u8fd1\u73b0\u4ee3\u65f6\u671f\u4e00\u5ea6\u5927\u653e\u5f02\u5f69\u3002\u73e0\u7ee3\u4e3b\u8981\u539f\u6750\u6599\u4e3a\u73bb\u7483\u73e0\u3001\u7535\u5149\u80f6\u7247\u548c\u4e1d\u7ed2\u3002\u5176\u5de5\u827a\u662f\u8fd0\u7528\u51f8\u7ee3\u3001\u5e73\u7ee3\u3001\u4e32\u7ee3\u3001\u7c92\u7ee3\u3001\u4e71\u9488\u7ee3\u3001\u7ad6\u76f4\u7ee3\u3001\u53e0\u7247\u7ee3\u7b49\u4f20\u7edf\u7684\u5de5\u827a\u624b\u6cd5\uff0c\u7ee3\u5236\u51fa\u6d45\u6d6e\u96d5\u5f0f\u56fe\u6848\u3002\u5168\u73e0\u56fe\u6848\u6784\u56fe\u4e25\u8c28\u3001\u5bc6\u4e0d\u5bb9\u9488\uff1b\u534a\u73e0\u56fe\u6848\u4f18\u96c5\u79c0\u7f8e\uff0c\u6e05\u65b0\u60a6\u76ee\u3002\n\u4e3a\u4e86\u4fdd\u62a4\u4f20\u7edf\u7f8e\u672f\u4f20\u627f\uff0c\u73e0\u7ee3\u5de5\u827a\u5df2\u5217\u5165\u7b2c\u4e94\u6279\u56fd\u5bb6\u7ea7\u975e\u7269\u8d28\u6587\u5316\u9057\u4ea7\u540d\u5f55\u3002",
-        "simple_desc": "\u6446\u653e\u5728\u95e8\u53e3\u7684\u6210\u8863\u7eb8\u888b",
+        "desc": "珠绣工艺起源悠久，并在近现代时期一度大放异彩。珠绣主要原材料为玻璃珠、电光胶片和丝绒。其工艺是运用凸绣、平绣、串绣、粒绣、乱针绣、竖直绣、叠片绣等传统的工艺手法，绣制出浅浮雕式图案。全珠图案构图严谨、密不容针；半珠图案优雅秀美，清新悦目。\n为了保护传统美术传承，珠绣工艺已列入第五批国家级非物质文化遗产名录。",
+        "simple_desc": "摆放在门口的成衣纸袋",
         "id": 5,
         "task_id": 10329,
         "reward": [
@@ -80,12 +80,12 @@
         ]
     },
     "6": {
-        "name": "\u65b0\u6cf0\u65e7\u53f2",
+        "name": "新泰旧史",
         "icon": "Props_xintaibook_01",
         "type": 1,
         "model_path": "QWWorld/Illu/Illu_xintaibook_01",
-        "desc": "\u300a\u7fe0\u5fae\u5f55\u300b\u4e2d\u8bb0\u8f7d\uff0c\u65b0\u6cf0\u662f\u4f4d\u4e8e\u9759\u7763\u5c71\u8109\u4e1c\u5357\u4fa7\u3001\u53e4\u65f6\u6d77\u8fb9\u7684\u4e00\u5ea7\u5c0f\u9547\u3002\u4e91\u6b4c\u4e4b\u53d8\u65f6\uff0c\u8fd9\u7247\u5730\u533a\u76f8\u5bf9\u7a33\u5b9a\uff0c\u6240\u4ee5\u5947\u8ff9\u822c\u5730\u4fdd\u7559\u4e86\u4e0b\u6765\uff0c\u4f46\u6700\u7ec8\u8fd8\u662f\u7531\u4e8e\u642c\u8fc1\u8ba1\u5212\uff0c\u9547\u4e0a\u7684\u4eba\u4eec\u7eb7\u7eb7\u8fc1\u5f80\u4e86\u5929\u4e0a\u7684\u5357\u4ea4\u5c9b\uff0c\u8fd9\u7247\u53e4\u9547\u9010\u6e10\u8352\u5e9f\u3002\n\u7fb2\u548c\u5728\u5357\u4ea4\u9644\u8fd1\u5de1\u6e38\u4e4b\u65f6\uff0c\u66fe\u8def\u8fc7\u8fd9\u7247\u5c0f\u9547\u5e9f\u589f\uff0c\u9887\u611f\u65f6\u79fb\u4e16\u6613\uff0c\u4e00\u76f4\u8bb0\u5728\u5fc3\u4e0a\u3002",
-        "simple_desc": "\u4e00\u672c\u4e0d\u77e5\u9053\u591a\u5c11\u5e74\u5386\u53f2\u7684\u53e4\u4e66",
+        "desc": "《翠微录》中记载，新泰是位于静督山脉东南侧、古时海边的一座小镇。云歌之变时，这片地区相对稳定，所以奇迹般地保留了下来，但最终还是由于搬迁计划，镇上的人们纷纷迁往了天上的南交岛，这片古镇逐渐荒废。\n羲和在南交附近巡游之时，曾路过这片小镇废墟，颇感时移世易，一直记在心上。",
+        "simple_desc": "一本不知道多少年历史的古书",
         "id": 6,
         "task_id": 10330,
         "reward": [
@@ -96,12 +96,12 @@
         ]
     },
     "7": {
-        "name": "\u91d1\u4e4c\u964d\u9b54\u4f20",
+        "name": "金乌降魔传",
         "icon": "Props_wujinbook_01",
         "type": 1,
         "model_path": "QWWorld/Illu/Illu_wujinbook_01",
-        "desc": "\u54a6\uff1f\u91d1\u3001\u91d1\u4e4c\u964d\u9b54\u4f20\uff1f\uff01\u8fd9\u4e0d\u662f\u4e4c\u7684\u5149\u8f89\u4e8b\u8ff9\u5b64\u672c\u561b\uff01\u4e3a\u4f55\u4f1a\u51fa\u73b0\u5728\u8fd9\u91cc\uff1f\u2014\u2014\u54e6\uff0c\u4e4c\u61c2\u4e86\uff0c\u4e00\u5b9a\u662f\u4e4c\u7684\u5927\u4fa0\u4e4b\u540d\u5df2\u7ecf\u4f20\u5230\u4e86\u8fd9\u91cc\uff0c\u5927\u5bb6\u90fd\u5728\u7b49\u7740\u4e4c\u65a9\u5996\u9664\u9b54\uff0c\u6e05\u9664\u9b51\u9b45\u5462\uff01",
-        "simple_desc": "\u610f\u60f3\u4e0d\u5230\u7684\u7684\u70ed\u8840\u6f2b\u753b\u753b\u518c",
+        "desc": "咦？金、金乌降魔传？！这不是乌的光辉事迹孤本嘛！为何会出现在这里？——哦，乌懂了，一定是乌的大侠之名已经传到了这里，大家都在等着乌斩妖除魔，清除魑魅呢！",
+        "simple_desc": "意想不到的的热血漫画画册",
         "id": 7,
         "task_id": 10331,
         "reward": [
@@ -112,12 +112,12 @@
         ]
     },
     "8": {
-        "name": "\u684c\u6e38\u9ad8\u624b",
+        "name": "桌游高手",
         "icon": "Props_gaoshou_01",
         "type": 1,
         "model_path": "QWWorld/Illu/Illu_gaoshou_01",
-        "desc": "\u65e9\u5df2\u7ecf\u7edd\u7248\u7684\u6e38\u620f\u5a31\u4e50\u6742\u5fd7\u7b2c2025\u671f\uff01\u8fd9\u672c\u4e66\u4e0a\u9664\u4e86\u8bb0\u8f7d\u724c\u672f\u3001\u7b56\u7565\u3001\u535a\u5f08\u548c\u5fc3\u7406\u5b66\u4ee5\u5916\uff0c\u8fd8\u8bb0\u8f7d\u4e86\u4f20\u8bf4\u4e2d\u795e\u79d8\u7684\u724c\u672f\u9ad8\u624b\uff0c\u636e\u8bf4\u5341\u6570\u5e74\u672a\u5c1d\u8d25\u7ee9\uff0c\u5979\u5c31\u5728\u2026\u2026\u5c31\u5728\u65b0\u6cf0\u9547\uff1f\uff01",
-        "simple_desc": "\u4e00\u672c\u4f3c\u4e4e\u5f88\u6709\u5e74\u5934\u7684\u6742\u5fd7\u4e66",
+        "desc": "早已经绝版的游戏娱乐杂志第2025期！这本书上除了记载牌术、策略、博弈和心理学以外，还记载了传说中神秘的牌术高手，据说十数年未尝败绩，她就在……就在新泰镇？！",
+        "simple_desc": "一本似乎很有年头的杂志书",
         "id": 8,
         "task_id": 10332,
         "reward": [
@@ -128,12 +128,12 @@
         ]
     },
     "9": {
-        "name": "\u5929\u7984\u660e\u73e0",
+        "name": "天禄明珠",
         "icon": "Props_tiantongshu_03",
         "type": 1,
         "model_path": "QWWorld/Illu/Illu_tiantongshu_03",
-        "desc": "\u8fd9\u662f\u5929\u7984\u8d38\u6613\u548c\u67d0\u4e2a\u5730\u533a\u5f00\u5c55\u5408\u4f5c\u7684\u7eaa\u5ff5\u54c1\u2026\u2026\u60f3\u4e0d\u5230\u5929\u7984\u8d38\u6613\u7684\u4e1a\u52a1\u80fd\u8986\u76d6\u5230\u8fd9\u91cc\uff1f\u542c\u9547\u6c11\u7684\u5927\u5bb6\u8bf4\uff0c\u8fd9\u91cc\u66fe\u7ecf\u906d\u9047\u8fc7\u5c71\u6d2a\uff0c\u540e\u6765\u662f\u5929\u7984\u8d38\u6613\u5e2e\u52a9\u4ed6\u4eec\u5b8c\u6210\u4e86\u4ea7\u4e1a\u590d\u5174\uff0c\u771f\u662f\u5389\u5bb3\uff01",
-        "simple_desc": "\u88c5\u88f1\u7cbe\u7f8e\u7684\u6446\u4ef6",
+        "desc": "这是天禄贸易和某个地区开展合作的纪念品……想不到天禄贸易的业务能覆盖到这里？听镇民的大家说，这里曾经遭遇过山洪，后来是天禄贸易帮助他们完成了产业复兴，真是厉害！",
+        "simple_desc": "装裱精美的摆件",
         "id": 9,
         "task_id": 10333,
         "reward": [
@@ -144,12 +144,12 @@
         ]
     },
     "10": {
-        "name": "\u795e\u79d8\u7684\u673a\u5173",
+        "name": "神秘的机关",
         "icon": "Props_tiantongshu_02",
         "type": 1,
         "model_path": "QWWorld/Illu/Illu_tiantongshu_02",
-        "desc": "\u54a6\uff1f\u5c45\u7136\u662f\u5929\u901a\u673a\u5173\u672f\uff01\u542c\u9547\u6c11\u4eec\u8bf4\uff0c\u8fd9\u662f\u4e00\u4e2a\u795e\u79d8\u5c0f\u59d1\u5a18\u6446\u653e\u5728\u8fd9\u91cc\u7684\u5c0f\u673a\u5173\uff0c\u597d\u50cf\u662f\u8bf4\u5982\u679c\u80fd\u6210\u529f\u7834\u89e3\u7684\u8bdd\uff0c\u5c31\u5956\u52b1\u8d85\u5927\u4efd\u7684\u2026\u2026\u6bdb\u8840\u65fa\uff1f\u662f\u5e08\u7236\u5427\uff0c\u4e00\u5b9a\u662f\u5e08\u7236\u7559\u5728\u8fd9\u91cc\u7684\u5427\uff01\u8003\u9a8c\u4e4c\u5b66\u8bc6\u7684\u65f6\u5019\u5230\u2026\u2026\u5443\u4e4c\uff0c\u597d\u3001\u597d\u50cf\u6709\u70b9\u89e3\u4e0d\u5f00\u2026\u2026",
-        "simple_desc": "\u4e0d\u77e5\u662f\u8c01\u6446\u653e\u7684\u7cbe\u5de7\u673a\u5173\u73a9\u5177",
+        "desc": "咦？居然是天通机关术！听镇民们说，这是一个神秘小姑娘摆放在这里的小机关，好像是说如果能成功破解的话，就奖励超大份的……毛血旺？是师父吧，一定是师父留在这里的吧！考验乌学识的时候到……呃乌，好、好像有点解不开……",
+        "simple_desc": "不知是谁摆放的精巧机关玩具",
         "id": 10,
         "task_id": 10334,
         "reward": [

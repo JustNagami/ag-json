@@ -1,11 +1,11 @@
 {
     "1": {
-        "name": "\u8ba2\u5355\u7206\u6ee1",
+        "name": "订单爆满",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u95e8\u5e97\u8ba2\u5355\u5b9e\u5728\u592a\u591a\u4e86\uff01\u73b0\u6025\u62db\u52df\u8dd1\u817f\u4e00\u540d\u2026\u2026",
+        "desc": "门店订单实在太多了！现急招募跑腿一名……",
         "id": 1,
         "need": [
             1,
@@ -141,12 +141,12 @@
         ]
     },
     "2": {
-        "name": "\u98df\u6750\u4e4b\u4e89",
+        "name": "食材之争",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u8857\u9053\u4e0a\u597d\u50cf\u6709\u4eba\u4e3a\u4e86\u65b0\u9c9c\u98df\u6750\u6253\u8d77\u6765\u4e86\uff01\u95e8\u5e97\u8001\u677f\u9700\u8981\u4f60\u7684\u5e2e\u52a9\u2026\u2026",
+        "desc": "街道上好像有人为了新鲜食材打起来了！门店老板需要你的帮助……",
         "id": 2,
         "need": [
             1,
@@ -282,12 +282,12 @@
         ]
     },
     "3": {
-        "name": "\u5de5\u827a\u8bb2\u5ea7",
+        "name": "工艺讲座",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u76ee\u524d\u98df\u6750\u5e97\u6b63\u5728\u505a\u5ba3\u4f20\u6d3b\u52a8\uff0c\u666e\u53ca\u7cbe\u52a0\u5de5\u7684\u5236\u4f5c\u6b65\u9aa4\uff0c\u8e0a\u8dc3\u53c2\u4e0e\u8005\u5c06\u4f1a\u83b7\u5f97\u2026\u2026",
+        "desc": "目前食材店正在做宣传活动，普及精加工的制作步骤，踊跃参与者将会获得……",
         "id": 3,
         "need": [
             1,
@@ -423,12 +423,12 @@
         ]
     },
     "4": {
-        "name": "\u6025\u9700\u4eba\u624b",
+        "name": "急需人手",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u81ea\u865a\u6052\u83dc\u5927\u706b\u4ee5\u540e\uff0c\u8bd5\u56fe\u81ea\u5df1\u5c1d\u8bd5\u5236\u4f5c\u865a\u6052\u83dc\u54c1\u7684\u4eba\u8d8a\u6765\u8d8a\u591a\uff0c\u98df\u6750\u7cbe\u52a0\u5de5\u7684\u6240\u9700\u4eba\u624b\u4e0d\u8db3\u2026\u2026",
+        "desc": "自虚恒菜大火以后，试图自己尝试制作虚恒菜品的人越来越多，食材精加工的所需人手不足……",
         "id": 4,
         "need": [
             1,
@@ -564,12 +564,12 @@
         ]
     },
     "5": {
-        "name": "\u6253\u6298\u6e05\u4ed3",
+        "name": "打折清仓",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u8d85\u5e02\u5927\u6253\u6298\uff01\u90bb\u5c45\u5e0c\u671b\u4f60\u80fd\u5e2e\u5979\u91c7\u8d2d\u4e00\u4e9b\u7269\u54c1\uff0c\u5956\u52b1\u662f\u2026\u2026",
+        "desc": "超市大打折！邻居希望你能帮她采购一些物品，奖励是……",
         "id": 5,
         "need": [
             1,
@@ -705,12 +705,12 @@
         ]
     },
     "6": {
-        "name": "\u7529\u8471\u821e\u738b\u4e89\u9738\u8d5b",
+        "name": "甩葱舞王争霸赛",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u4f18\u80dc\u8005\u53ef\u83b7\u5f97\u5927\u91cf\u4f18\u8d28\u98df\u6750\uff01",
+        "desc": "优胜者可获得大量优质食材！",
         "id": 6,
         "need": [
             1,
@@ -846,12 +846,12 @@
         ]
     },
     "7": {
-        "name": "\u5e74\u5e95\u65b0\u8fc1",
+        "name": "年底新迁",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u76ee\u524d\u4f3d\u68a8\u4e3a\u5b64\u513f\u9662\u642c\u8fc1\u4e8b\u52a1\u5fd9\u5f97\u7126\u5934\u70c2\u989d\uff0c\u5982\u679c\u6709\u4eba\u613f\u610f\u817e\u51fa\u624b\u5e2e\u5fd9\u540e\u53a8\u98df\u6750\u642c\u8fd0\u4e8b\u52a1\u7684\u8bdd\u2026\u2026",
+        "desc": "目前伽梨为孤儿院搬迁事务忙得焦头烂额，如果有人愿意腾出手帮忙后厨食材搬运事务的话……",
         "id": 7,
         "need": [
             1,
@@ -987,12 +987,12 @@
         ]
     },
     "8": {
-        "name": "\u4e34\u65f6\u8bb2\u89e3\u5458",
+        "name": "临时讲解员",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u690d\u7269\u56ed\u8bb2\u89e3\u5458\u8bf7\u5047\u4e86\uff0c\u9700\u8981\u4e00\u4f4d\u4e86\u89e3\u57fa\u7840\u690d\u7269\u5b66\u7684\u670b\u53cb\u63d0\u4f9b\u63f4\u52a9\uff01",
+        "desc": "植物园讲解员请假了，需要一位了解基础植物学的朋友提供援助！",
         "id": 8,
         "need": [
             1,
@@ -1128,12 +1128,12 @@
         ]
     },
     "9": {
-        "name": "\u7814\u7a76\u8bfe\u9898",
+        "name": "研究课题",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u5b9e\u9a8c\u5ba4\u6b63\u4e3a\u5f00\u5c55\u4e00\u7cfb\u5217\u519c\u4f5c\u7269\u65b0\u7814\u7a76\uff0c\u6025\u52df\u52a9\u624b\u4e00\u540d\u2026\u2026",
+        "desc": "实验室正为开展一系列农作物新研究，急募助手一名……",
         "id": 9,
         "need": [
             1,
@@ -1269,12 +1269,12 @@
         ]
     },
     "10": {
-        "name": "\u83dc\u56ed\u866b\u707e",
+        "name": "菜园虫灾",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u6069\u5229\u5c14\u7684\u83dc\u56ed\u53d7\u707e\u4e86\uff01\u4e0d\u64c5\u957f\u5bf9\u4ed8\u866b\u5b50\u7684\u6069\u5229\u5c14\u6025\u9700\u6551\u63f4\u2026\u2026",
+        "desc": "恩利尔的菜园受灾了！不擅长对付虫子的恩利尔急需救援……",
         "id": 10,
         "need": [
             1,
@@ -1410,12 +1410,12 @@
         ]
     },
     "11": {
-        "name": "\u795e\u79d8\u4efb\u52a1",
+        "name": "神秘任务",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u6025\u62db\u4e00\u540d\u62e5\u6709\u7cbe\u6e5b\u5200\u5de5\u7684\u7279\u52a1\u2026\u2026",
+        "desc": "急招一名拥有精湛刀工的特务……",
         "id": 11,
         "need": [
             1,
@@ -1551,12 +1551,12 @@
         ]
     },
     "12": {
-        "name": "\u54fc\u54fc\u66b4\u8d70",
+        "name": "哼哼暴走",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u5927\u68da\u91cc\u8c62\u517b\u7684\u5bb6\u79bd\u7a81\u7136\u66b4\u8d70\u4e86\uff01\u51b2\u6563\u4e86\u4eba\u7fa4\uff0c\u73b0\u573a\u4e00\u7247\u6df7\u4e71\uff0c\u4e9f\u5f85\u4f60\u4f38\u51fa\u63f4\u624b\u2026\u2026",
+        "desc": "大棚里豢养的家禽突然暴走了！冲散了人群，现场一片混乱，亟待你伸出援手……",
         "id": 12,
         "need": [
             1,
@@ -1692,12 +1692,12 @@
         ]
     },
     "13": {
-        "name": "\u81ea\u5236\u997a\u5b50\u76ae",
+        "name": "自制饺子皮",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u91d1\u4e4c\u4ece\u98df\u6750\u5e02\u573a\u5e26\u6765\u8bb8\u591a\u9762\u7c89\uff0c\u9080\u8bf7\u4f60\u548c\u5979\u4e00\u8d77\u64c0\u997a\u5b50\u76ae\u2026\u2026",
+        "desc": "金乌从食材市场带来许多面粉，邀请你和她一起擀饺子皮……",
         "id": 13,
         "need": [
             1,
@@ -1833,12 +1833,12 @@
         ]
     },
     "14": {
-        "name": "\u771f\u5047\u9e2d\u8840",
+        "name": "真假鸭血",
         "cost": 120,
         "task_level": 1,
         "base_success": 20,
         "tag_success": 5,
-        "desc": "\u5e02\u9762\u4e0a\u51fa\u73b0\u4e86\u4e00\u4e9b\u7528\u6ee5\u7afd\u5145\u6570\u7684\u300c\u5047\u9e2d\u8840\u300d\uff0c\u5751\u9a97\u4e86\u4e0d\u5c11\u5e02\u6c11\uff0c\u98df\u54c1\u5b89\u5168\u5c40\u6b63\u5728\u8fa8\u522b\u5e02\u9762\u4e0a\u7684\u771f\u8d5d\u54c1\uff0c\u4f46\u4eba\u5458\u4e0d\u8db3\u2026\u2026",
+        "desc": "市面上出现了一些用滥竽充数的「假鸭血」，坑骗了不少市民，食品安全局正在辨别市面上的真赝品，但人员不足……",
         "id": 14,
         "need": [
             1,
@@ -1974,12 +1974,12 @@
         ]
     },
     "20001": {
-        "name": "\u8ba2\u5355\u7206\u6ee1",
+        "name": "订单爆满",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u95e8\u5e97\u8ba2\u5355\u5b9e\u5728\u592a\u591a\u4e86\uff01\u73b0\u6025\u62db\u52df\u8dd1\u817f\u4e00\u540d\u2026\u2026",
+        "desc": "门店订单实在太多了！现急招募跑腿一名……",
         "id": 20001,
         "need": [
             1,
@@ -2121,12 +2121,12 @@
         ]
     },
     "20002": {
-        "name": "\u98df\u6750\u4e4b\u4e89",
+        "name": "食材之争",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u8857\u9053\u4e0a\u597d\u50cf\u6709\u4eba\u4e3a\u4e86\u65b0\u9c9c\u98df\u6750\u6253\u8d77\u6765\u4e86\uff01\u95e8\u5e97\u8001\u677f\u9700\u8981\u4f60\u7684\u5e2e\u52a9\u2026\u2026",
+        "desc": "街道上好像有人为了新鲜食材打起来了！门店老板需要你的帮助……",
         "id": 20002,
         "need": [
             1,
@@ -2268,12 +2268,12 @@
         ]
     },
     "20003": {
-        "name": "\u5de5\u827a\u8bb2\u5ea7",
+        "name": "工艺讲座",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u76ee\u524d\u98df\u6750\u5e97\u6b63\u5728\u505a\u5ba3\u4f20\u6d3b\u52a8\uff0c\u666e\u53ca\u7cbe\u52a0\u5de5\u7684\u5236\u4f5c\u6b65\u9aa4\uff0c\u8e0a\u8dc3\u53c2\u4e0e\u8005\u5c06\u4f1a\u83b7\u5f97\u2026\u2026",
+        "desc": "目前食材店正在做宣传活动，普及精加工的制作步骤，踊跃参与者将会获得……",
         "id": 20003,
         "need": [
             1,
@@ -2415,12 +2415,12 @@
         ]
     },
     "20004": {
-        "name": "\u6025\u9700\u4eba\u624b",
+        "name": "急需人手",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u81ea\u865a\u6052\u83dc\u5927\u706b\u4ee5\u540e\uff0c\u8bd5\u56fe\u81ea\u5df1\u5c1d\u8bd5\u5236\u4f5c\u865a\u6052\u83dc\u54c1\u7684\u4eba\u8d8a\u6765\u8d8a\u591a\uff0c\u98df\u6750\u7cbe\u52a0\u5de5\u7684\u6240\u9700\u4eba\u624b\u4e0d\u8db3\u2026\u2026",
+        "desc": "自虚恒菜大火以后，试图自己尝试制作虚恒菜品的人越来越多，食材精加工的所需人手不足……",
         "id": 20004,
         "need": [
             1,
@@ -2562,12 +2562,12 @@
         ]
     },
     "20005": {
-        "name": "\u6253\u6298\u6e05\u4ed3",
+        "name": "打折清仓",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u8d85\u5e02\u5927\u6253\u6298\uff01\u90bb\u5c45\u5e0c\u671b\u4f60\u80fd\u5e2e\u5979\u91c7\u8d2d\u4e00\u4e9b\u7269\u54c1\uff0c\u5956\u52b1\u662f\u2026\u2026",
+        "desc": "超市大打折！邻居希望你能帮她采购一些物品，奖励是……",
         "id": 20005,
         "need": [
             1,
@@ -2709,12 +2709,12 @@
         ]
     },
     "20006": {
-        "name": "\u7529\u8471\u821e\u738b\u4e89\u9738\u8d5b",
+        "name": "甩葱舞王争霸赛",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u4f18\u80dc\u8005\u53ef\u83b7\u5f97\u5927\u91cf\u4f18\u8d28\u98df\u6750\uff01",
+        "desc": "优胜者可获得大量优质食材！",
         "id": 20006,
         "need": [
             1,
@@ -2856,12 +2856,12 @@
         ]
     },
     "20007": {
-        "name": "\u5e74\u5e95\u65b0\u8fc1",
+        "name": "年底新迁",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u76ee\u524d\u4f3d\u68a8\u4e3a\u5b64\u513f\u9662\u642c\u8fc1\u4e8b\u52a1\u5fd9\u5f97\u7126\u5934\u70c2\u989d\uff0c\u5982\u679c\u6709\u4eba\u613f\u610f\u817e\u51fa\u624b\u5e2e\u5fd9\u540e\u53a8\u98df\u6750\u642c\u8fd0\u4e8b\u52a1\u7684\u8bdd\u2026\u2026",
+        "desc": "目前伽梨为孤儿院搬迁事务忙得焦头烂额，如果有人愿意腾出手帮忙后厨食材搬运事务的话……",
         "id": 20007,
         "need": [
             1,
@@ -3003,12 +3003,12 @@
         ]
     },
     "20008": {
-        "name": "\u4e34\u65f6\u8bb2\u89e3\u5458",
+        "name": "临时讲解员",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u690d\u7269\u56ed\u8bb2\u89e3\u5458\u8bf7\u5047\u4e86\uff0c\u9700\u8981\u4e00\u4f4d\u4e86\u89e3\u57fa\u7840\u690d\u7269\u5b66\u7684\u670b\u53cb\u63d0\u4f9b\u63f4\u52a9\uff01",
+        "desc": "植物园讲解员请假了，需要一位了解基础植物学的朋友提供援助！",
         "id": 20008,
         "need": [
             1,
@@ -3150,12 +3150,12 @@
         ]
     },
     "20009": {
-        "name": "\u7814\u7a76\u8bfe\u9898",
+        "name": "研究课题",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u5b9e\u9a8c\u5ba4\u6b63\u4e3a\u5f00\u5c55\u4e00\u7cfb\u5217\u519c\u4f5c\u7269\u65b0\u7814\u7a76\uff0c\u6025\u52df\u52a9\u624b\u4e00\u540d\u2026\u2026",
+        "desc": "实验室正为开展一系列农作物新研究，急募助手一名……",
         "id": 20009,
         "need": [
             1,
@@ -3297,12 +3297,12 @@
         ]
     },
     "20010": {
-        "name": "\u83dc\u56ed\u866b\u707e",
+        "name": "菜园虫灾",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u6069\u5229\u5c14\u7684\u83dc\u56ed\u53d7\u707e\u4e86\uff01\u4e0d\u64c5\u957f\u5bf9\u4ed8\u866b\u5b50\u7684\u6069\u5229\u5c14\u6025\u9700\u6551\u63f4\u2026\u2026",
+        "desc": "恩利尔的菜园受灾了！不擅长对付虫子的恩利尔急需救援……",
         "id": 20010,
         "need": [
             1,
@@ -3444,12 +3444,12 @@
         ]
     },
     "20011": {
-        "name": "\u795e\u79d8\u4efb\u52a1",
+        "name": "神秘任务",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u6025\u62db\u4e00\u540d\u62e5\u6709\u7cbe\u6e5b\u5200\u5de5\u7684\u7279\u52a1\u2026\u2026",
+        "desc": "急招一名拥有精湛刀工的特务……",
         "id": 20011,
         "need": [
             1,
@@ -3591,12 +3591,12 @@
         ]
     },
     "20012": {
-        "name": "\u54fc\u54fc\u66b4\u8d70",
+        "name": "哼哼暴走",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u5927\u68da\u91cc\u8c62\u517b\u7684\u5bb6\u79bd\u7a81\u7136\u66b4\u8d70\u4e86\uff01\u51b2\u6563\u4e86\u4eba\u7fa4\uff0c\u73b0\u573a\u4e00\u7247\u6df7\u4e71\uff0c\u4e9f\u5f85\u4f60\u4f38\u51fa\u63f4\u624b\u2026\u2026",
+        "desc": "大棚里豢养的家禽突然暴走了！冲散了人群，现场一片混乱，亟待你伸出援手……",
         "id": 20012,
         "need": [
             1,
@@ -3738,12 +3738,12 @@
         ]
     },
     "20013": {
-        "name": "\u81ea\u5236\u997a\u5b50\u76ae",
+        "name": "自制饺子皮",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u91d1\u4e4c\u4ece\u98df\u6750\u5e02\u573a\u5e26\u6765\u8bb8\u591a\u9762\u7c89\uff0c\u9080\u8bf7\u4f60\u548c\u5979\u4e00\u8d77\u64c0\u997a\u5b50\u76ae\u2026\u2026",
+        "desc": "金乌从食材市场带来许多面粉，邀请你和她一起擀饺子皮……",
         "id": 20013,
         "need": [
             1,
@@ -3885,12 +3885,12 @@
         ]
     },
     "20014": {
-        "name": "\u771f\u5047\u9e2d\u8840",
+        "name": "真假鸭血",
         "cost": 120,
         "task_level": 2,
         "base_success": 25,
         "tag_success": 5,
-        "desc": "\u5e02\u9762\u4e0a\u51fa\u73b0\u4e86\u4e00\u4e9b\u7528\u6ee5\u7afd\u5145\u6570\u7684\u300c\u5047\u9e2d\u8840\u300d\uff0c\u5751\u9a97\u4e86\u4e0d\u5c11\u5e02\u6c11\uff0c\u98df\u54c1\u5b89\u5168\u5c40\u6b63\u5728\u8fa8\u522b\u5e02\u9762\u4e0a\u7684\u771f\u8d5d\u54c1\uff0c\u4f46\u4eba\u5458\u4e0d\u8db3\u2026\u2026",
+        "desc": "市面上出现了一些用滥竽充数的「假鸭血」，坑骗了不少市民，食品安全局正在辨别市面上的真赝品，但人员不足……",
         "id": 20014,
         "need": [
             1,
@@ -4032,12 +4032,12 @@
         ]
     },
     "30001": {
-        "name": "\u8ba2\u5355\u7206\u6ee1",
+        "name": "订单爆满",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u95e8\u5e97\u8ba2\u5355\u5b9e\u5728\u592a\u591a\u4e86\uff01\u73b0\u6025\u62db\u52df\u8dd1\u817f\u4e00\u540d\u2026\u2026",
+        "desc": "门店订单实在太多了！现急招募跑腿一名……",
         "id": 30001,
         "need": [
             1,
@@ -4185,12 +4185,12 @@
         ]
     },
     "30002": {
-        "name": "\u98df\u6750\u4e4b\u4e89",
+        "name": "食材之争",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u8857\u9053\u4e0a\u597d\u50cf\u6709\u4eba\u4e3a\u4e86\u65b0\u9c9c\u98df\u6750\u6253\u8d77\u6765\u4e86\uff01\u95e8\u5e97\u8001\u677f\u9700\u8981\u4f60\u7684\u5e2e\u52a9\u2026\u2026",
+        "desc": "街道上好像有人为了新鲜食材打起来了！门店老板需要你的帮助……",
         "id": 30002,
         "need": [
             1,
@@ -4338,12 +4338,12 @@
         ]
     },
     "30003": {
-        "name": "\u5de5\u827a\u8bb2\u5ea7",
+        "name": "工艺讲座",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u76ee\u524d\u98df\u6750\u5e97\u6b63\u5728\u505a\u5ba3\u4f20\u6d3b\u52a8\uff0c\u666e\u53ca\u7cbe\u52a0\u5de5\u7684\u5236\u4f5c\u6b65\u9aa4\uff0c\u8e0a\u8dc3\u53c2\u4e0e\u8005\u5c06\u4f1a\u83b7\u5f97\u2026\u2026",
+        "desc": "目前食材店正在做宣传活动，普及精加工的制作步骤，踊跃参与者将会获得……",
         "id": 30003,
         "need": [
             1,
@@ -4491,12 +4491,12 @@
         ]
     },
     "30004": {
-        "name": "\u6025\u9700\u4eba\u624b",
+        "name": "急需人手",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u81ea\u865a\u6052\u83dc\u5927\u706b\u4ee5\u540e\uff0c\u8bd5\u56fe\u81ea\u5df1\u5c1d\u8bd5\u5236\u4f5c\u865a\u6052\u83dc\u54c1\u7684\u4eba\u8d8a\u6765\u8d8a\u591a\uff0c\u98df\u6750\u7cbe\u52a0\u5de5\u7684\u6240\u9700\u4eba\u624b\u4e0d\u8db3\u2026\u2026",
+        "desc": "自虚恒菜大火以后，试图自己尝试制作虚恒菜品的人越来越多，食材精加工的所需人手不足……",
         "id": 30004,
         "need": [
             1,
@@ -4644,12 +4644,12 @@
         ]
     },
     "30005": {
-        "name": "\u6253\u6298\u6e05\u4ed3",
+        "name": "打折清仓",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u8d85\u5e02\u5927\u6253\u6298\uff01\u90bb\u5c45\u5e0c\u671b\u4f60\u80fd\u5e2e\u5979\u91c7\u8d2d\u4e00\u4e9b\u7269\u54c1\uff0c\u5956\u52b1\u662f\u2026\u2026",
+        "desc": "超市大打折！邻居希望你能帮她采购一些物品，奖励是……",
         "id": 30005,
         "need": [
             1,
@@ -4797,12 +4797,12 @@
         ]
     },
     "30006": {
-        "name": "\u7529\u8471\u821e\u738b\u4e89\u9738\u8d5b",
+        "name": "甩葱舞王争霸赛",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u4f18\u80dc\u8005\u53ef\u83b7\u5f97\u5927\u91cf\u4f18\u8d28\u98df\u6750\uff01",
+        "desc": "优胜者可获得大量优质食材！",
         "id": 30006,
         "need": [
             1,
@@ -4950,12 +4950,12 @@
         ]
     },
     "30007": {
-        "name": "\u5e74\u5e95\u65b0\u8fc1",
+        "name": "年底新迁",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u76ee\u524d\u4f3d\u68a8\u4e3a\u5b64\u513f\u9662\u642c\u8fc1\u4e8b\u52a1\u5fd9\u5f97\u7126\u5934\u70c2\u989d\uff0c\u5982\u679c\u6709\u4eba\u613f\u610f\u817e\u51fa\u624b\u5e2e\u5fd9\u540e\u53a8\u98df\u6750\u642c\u8fd0\u4e8b\u52a1\u7684\u8bdd\u2026\u2026",
+        "desc": "目前伽梨为孤儿院搬迁事务忙得焦头烂额，如果有人愿意腾出手帮忙后厨食材搬运事务的话……",
         "id": 30007,
         "need": [
             1,
@@ -5103,12 +5103,12 @@
         ]
     },
     "30008": {
-        "name": "\u4e34\u65f6\u8bb2\u89e3\u5458",
+        "name": "临时讲解员",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u690d\u7269\u56ed\u8bb2\u89e3\u5458\u8bf7\u5047\u4e86\uff0c\u9700\u8981\u4e00\u4f4d\u4e86\u89e3\u57fa\u7840\u690d\u7269\u5b66\u7684\u670b\u53cb\u63d0\u4f9b\u63f4\u52a9\uff01",
+        "desc": "植物园讲解员请假了，需要一位了解基础植物学的朋友提供援助！",
         "id": 30008,
         "need": [
             1,
@@ -5256,12 +5256,12 @@
         ]
     },
     "30009": {
-        "name": "\u7814\u7a76\u8bfe\u9898",
+        "name": "研究课题",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u5b9e\u9a8c\u5ba4\u6b63\u4e3a\u5f00\u5c55\u4e00\u7cfb\u5217\u519c\u4f5c\u7269\u65b0\u7814\u7a76\uff0c\u6025\u52df\u52a9\u624b\u4e00\u540d\u2026\u2026",
+        "desc": "实验室正为开展一系列农作物新研究，急募助手一名……",
         "id": 30009,
         "need": [
             1,
@@ -5409,12 +5409,12 @@
         ]
     },
     "30010": {
-        "name": "\u83dc\u56ed\u866b\u707e",
+        "name": "菜园虫灾",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u6069\u5229\u5c14\u7684\u83dc\u56ed\u53d7\u707e\u4e86\uff01\u4e0d\u64c5\u957f\u5bf9\u4ed8\u866b\u5b50\u7684\u6069\u5229\u5c14\u6025\u9700\u6551\u63f4\u2026\u2026",
+        "desc": "恩利尔的菜园受灾了！不擅长对付虫子的恩利尔急需救援……",
         "id": 30010,
         "need": [
             1,
@@ -5562,12 +5562,12 @@
         ]
     },
     "30011": {
-        "name": "\u795e\u79d8\u4efb\u52a1",
+        "name": "神秘任务",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u6025\u62db\u4e00\u540d\u62e5\u6709\u7cbe\u6e5b\u5200\u5de5\u7684\u7279\u52a1\u2026\u2026",
+        "desc": "急招一名拥有精湛刀工的特务……",
         "id": 30011,
         "need": [
             1,
@@ -5715,12 +5715,12 @@
         ]
     },
     "30012": {
-        "name": "\u54fc\u54fc\u66b4\u8d70",
+        "name": "哼哼暴走",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u5927\u68da\u91cc\u8c62\u517b\u7684\u5bb6\u79bd\u7a81\u7136\u66b4\u8d70\u4e86\uff01\u51b2\u6563\u4e86\u4eba\u7fa4\uff0c\u73b0\u573a\u4e00\u7247\u6df7\u4e71\uff0c\u4e9f\u5f85\u4f60\u4f38\u51fa\u63f4\u624b\u2026\u2026",
+        "desc": "大棚里豢养的家禽突然暴走了！冲散了人群，现场一片混乱，亟待你伸出援手……",
         "id": 30012,
         "need": [
             1,
@@ -5868,12 +5868,12 @@
         ]
     },
     "30013": {
-        "name": "\u81ea\u5236\u997a\u5b50\u76ae",
+        "name": "自制饺子皮",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u91d1\u4e4c\u4ece\u98df\u6750\u5e02\u573a\u5e26\u6765\u8bb8\u591a\u9762\u7c89\uff0c\u9080\u8bf7\u4f60\u548c\u5979\u4e00\u8d77\u64c0\u997a\u5b50\u76ae\u2026\u2026",
+        "desc": "金乌从食材市场带来许多面粉，邀请你和她一起擀饺子皮……",
         "id": 30013,
         "need": [
             1,
@@ -6021,12 +6021,12 @@
         ]
     },
     "30014": {
-        "name": "\u771f\u5047\u9e2d\u8840",
+        "name": "真假鸭血",
         "cost": 120,
         "task_level": 3,
         "base_success": 30,
         "tag_success": 5,
-        "desc": "\u5e02\u9762\u4e0a\u51fa\u73b0\u4e86\u4e00\u4e9b\u7528\u6ee5\u7afd\u5145\u6570\u7684\u300c\u5047\u9e2d\u8840\u300d\uff0c\u5751\u9a97\u4e86\u4e0d\u5c11\u5e02\u6c11\uff0c\u98df\u54c1\u5b89\u5168\u5c40\u6b63\u5728\u8fa8\u522b\u5e02\u9762\u4e0a\u7684\u771f\u8d5d\u54c1\uff0c\u4f46\u4eba\u5458\u4e0d\u8db3\u2026\u2026",
+        "desc": "市面上出现了一些用滥竽充数的「假鸭血」，坑骗了不少市民，食品安全局正在辨别市面上的真赝品，但人员不足……",
         "id": 30014,
         "need": [
             1,

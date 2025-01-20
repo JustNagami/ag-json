@@ -1,7 +1,7 @@
 {
     "1": {
         "monster_level": 50,
-        "name": "\u7b80\u5355",
+        "name": "简单",
         "boss_level_unlock": 2,
         "boss_level": 1,
         "boss_hp": 400000,
@@ -156,7 +156,7 @@
     },
     "2": {
         "monster_level": 60,
-        "name": "\u666e\u901a",
+        "name": "普通",
         "boss_level_unlock": 3,
         "boss_level": 2,
         "boss_hp": 600000,
@@ -311,7 +311,7 @@
     },
     "3": {
         "monster_level": 70,
-        "name": "\u56f0\u96be",
+        "name": "困难",
         "boss_level_unlock": 4,
         "boss_level": 3,
         "boss_hp": 800000,
@@ -466,7 +466,7 @@
     },
     "4": {
         "monster_level": 80,
-        "name": "\u6781\u9650",
+        "name": "极限",
         "boss_level_unlock": 0,
         "boss_level": 4,
         "boss_hp": 1000000,

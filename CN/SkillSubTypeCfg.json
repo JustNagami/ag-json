@@ -7,32 +7,32 @@
     "Charge": {
         "value": 1,
         "name": "Charge",
-        "annotation": "\u6301\u7eed\u84c4\u529b"
+        "annotation": "持续蓄力"
     },
     "Transfiguration": {
         "value": 2,
         "name": "Transfiguration",
-        "annotation": "\u5f62\u6001\u5207\u6362"
+        "annotation": "形态切换"
     },
     "Persist": {
         "value": 3,
         "name": "Persist",
-        "annotation": "\u6301\u7eed\u91ca\u653e"
+        "annotation": "持续释放"
     },
     "Strengthen": {
         "value": 4,
         "name": "Strengthen",
-        "annotation": "\u5f3a\u5316\u6280\u80fd"
+        "annotation": "强化技能"
     },
     "Switch": {
         "value": 5,
         "name": "Switch",
-        "annotation": "\u5206\u652f\u9009\u62e9"
+        "annotation": "分支选择"
     },
     "Prepare": {
         "value": 6,
         "name": "Prepare",
-        "annotation": "\u524d\u7f6e\u51c6\u5907"
+        "annotation": "前置准备"
     },
     "get_id_list_by_value": {
         "6": [

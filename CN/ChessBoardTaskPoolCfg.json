@@ -1,10 +1,10 @@
 {
     "10101": {
-        "description": "\u5728\u7801\u5934\u533a\u5bfb\u627e\u5f69\u86cb",
+        "description": "在码头区寻找彩蛋",
         "cost": 5,
         "type": 1,
         "condition_type": 10101,
-        "title": "\u590f\u65e5\u5f00\u542f\u2160",
+        "title": "夏日开启Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -15,11 +15,11 @@
         ]
     },
     "10102": {
-        "description": "\u4e0e\u524d\u65b9\u7684\u963f\u6ce2\u7f57\u5bf9\u8bdd",
+        "description": "与前方的阿波罗对话",
         "cost": 10,
         "type": 1,
         "condition_type": 10102,
-        "title": "\u590f\u65e5\u5f00\u542f\u2161",
+        "title": "夏日开启Ⅱ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -30,11 +30,11 @@
         ]
     },
     "10103": {
-        "description": "\u524d\u5f80\u963f\u6ce2\u7f57\u6807\u6ce8\u7684\u5730\u70b9",
+        "description": "前往阿波罗标注的地点",
         "cost": 15,
         "type": 1,
         "condition_type": 10103,
-        "title": "\u590f\u65e5\u5f00\u542f\u2162",
+        "title": "夏日开启Ⅲ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -45,11 +45,11 @@
         ]
     },
     "10201": {
-        "description": "\u524d\u65b9\u6709\u4eba\u547c\u6551",
+        "description": "前方有人呼救",
         "cost": 5,
         "type": 1,
         "condition_type": 10201,
-        "title": "\u795e\u79d8\u5f69\u86cb\u2160",
+        "title": "神秘彩蛋Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -60,11 +60,11 @@
         ]
     },
     "10202": {
-        "description": "\u63a2\u5bfb\u585e\u8d6b\u9ea6\u7279\u7684\u8e2a\u8ff9",
+        "description": "探寻塞赫麦特的踪迹",
         "cost": 10,
         "type": 1,
         "condition_type": 10202,
-        "title": "\u795e\u79d8\u5f69\u86cb\u2161",
+        "title": "神秘彩蛋Ⅱ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -75,11 +75,11 @@
         ]
     },
     "10203": {
-        "description": "\u4e0e\u524d\u65b9\u7684\u82ad\u4e1d\u7279\u5bf9\u8bdd",
+        "description": "与前方的芭丝特对话",
         "cost": 15,
         "type": 1,
         "condition_type": 10203,
-        "title": "\u795e\u79d8\u5f69\u86cb\u2162",
+        "title": "神秘彩蛋Ⅲ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -90,11 +90,11 @@
         ]
     },
     "20101": {
-        "description": "\u5bfb\u627e\u91d1\u56fa\u548c\u7d22\u8d1d\u514b",
+        "description": "寻找金固和索贝克",
         "cost": 5,
         "type": 1,
         "condition_type": 20101,
-        "title": "\u6d77\u4e0a\u5feb\u8247\u7ade\u6280\u8d5b\u2160",
+        "title": "海上快艇竞技赛Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -105,11 +105,11 @@
         ]
     },
     "20102": {
-        "description": "\u53c2\u52a0\u8fdc\u5904\u7684\u8d5b\u8247\u6bd4\u8d5b",
+        "description": "参加远处的赛艇比赛",
         "cost": 10,
         "type": 1,
         "condition_type": 20102,
-        "title": "\u6d77\u4e0a\u5feb\u8247\u7ade\u6280\u8d5b\u2161",
+        "title": "海上快艇竞技赛Ⅱ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -120,11 +120,11 @@
         ]
     },
     "20103": {
-        "description": "\u53c2\u52a0\u8d5b\u8247\u6bd4\u8d5b\u7684\u9881\u5956\u4eea\u5f0f",
+        "description": "参加赛艇比赛的颁奖仪式",
         "cost": 15,
         "type": 1,
         "condition_type": 20103,
-        "title": "\u6d77\u4e0a\u5feb\u8247\u7ade\u6280\u8d5b\u2162",
+        "title": "海上快艇竞技赛Ⅲ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -135,11 +135,11 @@
         ]
     },
     "20201": {
-        "description": "\u8ffd\u4e0a\u76d1\u89c6\u4f60\u4eec\u7684\u9e2d\u5b50",
+        "description": "追上监视你们的鸭子",
         "cost": 5,
         "type": 1,
         "condition_type": 20201,
-        "title": "\u88ab\u8ffd\u8d76\u7684\u592a\u9633\u2160",
+        "title": "被追赶的太阳Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -150,11 +150,11 @@
         ]
     },
     "20202": {
-        "description": "\u524d\u65b9\u6709\u4e89\u5435",
+        "description": "前方有争吵",
         "cost": 10,
         "type": 1,
         "condition_type": 20202,
-        "title": "\u88ab\u8ffd\u8d76\u7684\u592a\u9633\u2161",
+        "title": "被追赶的太阳Ⅱ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -165,11 +165,11 @@
         ]
     },
     "20301": {
-        "description": "\u53bb\u770b\u770b\u524d\u65b9\u53d1\u751f\u4e86\u4ec0\u4e48",
+        "description": "去看看前方发生了什么",
         "cost": 5,
         "type": 1,
         "condition_type": 20301,
-        "title": "\u9e2d\u4e0e\u667a\u68b0\u5371\u673a\u2160",
+        "title": "鸭与智械危机Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -180,11 +180,11 @@
         ]
     },
     "20302": {
-        "description": "\u524d\u5f80\u524d\u65b9\u5236\u6b62\u4e89\u6267",
+        "description": "前往前方制止争执",
         "cost": 10,
         "type": 1,
         "condition_type": 20302,
-        "title": "\u9e2d\u4e0e\u667a\u68b0\u5371\u673a\u2161",
+        "title": "鸭与智械危机Ⅱ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -195,11 +195,11 @@
         ]
     },
     "30101": {
-        "description": "\u524d\u5f80\u827e\u592b\u65af\u5668\u4e50\u884c",
+        "description": "前往艾夫斯器乐行",
         "cost": 5,
         "type": 1,
         "condition_type": 30101,
-        "title": "\u97f3\u4e50\u4e4b\u58f0\u2160",
+        "title": "音乐之声Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -210,11 +210,11 @@
         ]
     },
     "30102": {
-        "description": "\u524d\u5f80\u5370\u8c61\u4e2d\u7684\u82b1\u5e97",
+        "description": "前往印象中的花店",
         "cost": 10,
         "type": 1,
         "condition_type": 30102,
-        "title": "\u97f3\u4e50\u4e4b\u58f0\u2161",
+        "title": "音乐之声Ⅱ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -225,11 +225,11 @@
         ]
     },
     "30103": {
-        "description": "\u524d\u5f80\u670d\u88c5\u5e97\u8fdb\u884c\u53d8\u88c5",
+        "description": "前往服装店进行变装",
         "cost": 15,
         "type": 1,
         "condition_type": 30103,
-        "title": "\u97f3\u4e50\u4e4b\u58f0\u2162",
+        "title": "音乐之声Ⅲ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -240,11 +240,11 @@
         ]
     },
     "30104": {
-        "description": "\u9886\u53d6\u7b2c\u4e8c\u9879\u7ade\u6280\u83b7\u80dc\u5956\u52b1",
+        "description": "领取第二项竞技获胜奖励",
         "cost": 20,
         "type": 1,
         "condition_type": 30104,
-        "title": "\u97f3\u4e50\u4e4b\u58f0\u2163",
+        "title": "音乐之声Ⅳ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -255,11 +255,11 @@
         ]
     },
     "30201": {
-        "description": "\u8ddf\u4e0a\u94c3\u5170\u56e2\u9a91\u58eb",
+        "description": "跟上铃兰团骑士",
         "cost": 10,
         "type": 1,
         "condition_type": 30201,
-        "title": "\u88ab\u8ffd\u8d76\u7684\u9e2d\u5b50\u2160",
+        "title": "被追赶的鸭子Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -270,11 +270,11 @@
         ]
     },
     "30202": {
-        "description": "\u6293\u4f4f\u7a83\u8d3c\u9e2d\u9e2d",
+        "description": "抓住窃贼鸭鸭",
         "cost": 15,
         "type": 1,
         "condition_type": 30202,
-        "title": "\u88ab\u8ffd\u8d76\u7684\u9e2d\u5b50\u2161",
+        "title": "被追赶的鸭子Ⅱ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -285,11 +285,11 @@
         ]
     },
     "30301": {
-        "description": "\u8ffd\u4e0a\u90a3\u9053\u4eba\u5f71",
+        "description": "追上那道人影",
         "cost": 10,
         "type": 1,
         "condition_type": 30301,
-        "title": "\u60ca\u5929\u76d7\u7a83\u56e2\u2160",
+        "title": "惊天盗窃团Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -300,11 +300,11 @@
         ]
     },
     "30302": {
-        "description": "\u8ffd\u4e0a\u96f6\u4e00\u593a\u56de\u5531\u7247",
+        "description": "追上零一夺回唱片",
         "cost": 15,
         "type": 1,
         "condition_type": 30302,
-        "title": "\u60ca\u5929\u76d7\u7a83\u56e2\u2161",
+        "title": "惊天盗窃团Ⅱ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -315,11 +315,11 @@
         ]
     },
     "40101": {
-        "description": "\u524d\u5f80\u514b\u83b1\u65af\u7ef4\u5c14\u5e7f\u573a",
+        "description": "前往克莱斯维尔广场",
         "cost": 5,
         "type": 1,
         "condition_type": 40101,
-        "title": "\u7f24\u7eb7\u6c34\u70ae\u4f5c\u6218\u2160",
+        "title": "缤纷水炮作战Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -330,11 +330,11 @@
         ]
     },
     "40102": {
-        "description": "\u627e\u5230\u7279\u6b8a\u7684\u989c\u6599",
+        "description": "找到特殊的颜料",
         "cost": 10,
         "type": 1,
         "condition_type": 40102,
-        "title": "\u7f24\u7eb7\u6c34\u70ae\u4f5c\u6218\u2161",
+        "title": "缤纷水炮作战Ⅱ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -345,11 +345,11 @@
         ]
     },
     "40103": {
-        "description": "\u56de\u5230\u7f24\u7eb7\u6c34\u70ae\u5927\u4f5c\u6218\u8d5b\u573a",
+        "description": "回到缤纷水炮大作战赛场",
         "cost": 15,
         "type": 1,
         "condition_type": 40103,
-        "title": "\u7f24\u7eb7\u6c34\u70ae\u4f5c\u6218\u2162",
+        "title": "缤纷水炮作战Ⅲ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -360,11 +360,11 @@
         ]
     },
     "40104": {
-        "description": "\u963b\u6b62\u5de8\u5927\u9e2d\u9e2d\u5230\u5904\u7834\u574f",
+        "description": "阻止巨大鸭鸭到处破坏",
         "cost": 20,
         "type": 1,
         "condition_type": 40104,
-        "title": "\u7f24\u7eb7\u6c34\u70ae\u4f5c\u6218\u2163",
+        "title": "缤纷水炮作战Ⅳ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -375,11 +375,11 @@
         ]
     },
     "40201": {
-        "description": "\u524d\u5f80\u56f4\u89c2\u4e24\u5c11\u5e74\u673a\u6218",
+        "description": "前往围观两少年机战",
         "cost": 10,
         "type": 1,
         "condition_type": 40201,
-        "title": "\u673a\u7532\u5bf9\u6218\u2160",
+        "title": "机甲对战Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -390,11 +390,11 @@
         ]
     },
     "40202": {
-        "description": "\u548c\u524d\u65b9\u7684\u6ce2\u585e\u51ac\u6253\u62db\u547c",
+        "description": "和前方的波塞冬打招呼",
         "cost": 20,
         "type": 1,
         "condition_type": 40202,
-        "title": "\u673a\u7532\u5bf9\u6218\u2161",
+        "title": "机甲对战Ⅱ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -405,11 +405,11 @@
         ]
     },
     "40301": {
-        "description": "\u4e3a\u4e86\u5f00\u5fc3\u6e38\u73a9\u505a\u51c6\u5907",
+        "description": "为了开心游玩做准备",
         "cost": 10,
         "type": 1,
         "condition_type": 40301,
-        "title": "\u7231\u4e0e\u548c\u5e73\u7684\u65f6\u523b\u2160",
+        "title": "爱与和平的时刻Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -420,11 +420,11 @@
         ]
     },
     "40302": {
-        "description": "\u524d\u5f80\u6c34\u6ed1\u68af\u6e38\u73a9\u5904",
+        "description": "前往水滑梯游玩处",
         "cost": 20,
         "type": 1,
         "condition_type": 40302,
-        "title": "\u7231\u4e0e\u548c\u5e73\u7684\u65f6\u523b\u2161",
+        "title": "爱与和平的时刻Ⅱ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -435,11 +435,11 @@
         ]
     },
     "50101": {
-        "description": "\u524d\u5f80\u6c14\u6c1b\u503c\u9274\u5b9a\u5904",
+        "description": "前往气氛值鉴定处",
         "cost": 5,
         "type": 1,
         "condition_type": 50101,
-        "title": "\u8ba9\u6c14\u6c1b\u71e5\u8d77\u6765\u2160",
+        "title": "让气氛燥起来Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -450,11 +450,11 @@
         ]
     },
     "50102": {
-        "description": "\u524d\u5f80\u821e\u53f0\u6446\u653e\u73cd\u5b9d",
+        "description": "前往舞台摆放珍宝",
         "cost": 10,
         "type": 1,
         "condition_type": 50102,
-        "title": "\u6700\u7ec8\u73af\u8282\u2160",
+        "title": "最终环节Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -465,11 +465,11 @@
         ]
     },
     "50103": {
-        "description": "\u8ffd\u4e0a\u9e2d\u5b50\u593a\u56de\u9065\u63a7\u5668",
+        "description": "追上鸭子夺回遥控器",
         "cost": 0,
         "type": 1,
         "condition_type": 50103,
-        "title": "\u6700\u7ec8\u73af\u8282\u2161",
+        "title": "最终环节Ⅱ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -477,11 +477,11 @@
         "camera_move": []
     },
     "50104": {
-        "description": "\u56de\u5230\u821e\u53f0\u5427",
+        "description": "回到舞台吧",
         "cost": 15,
         "type": 1,
         "condition_type": 50104,
-        "title": "\u6700\u7ec8\u73af\u8282\u2162",
+        "title": "最终环节Ⅲ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -492,11 +492,11 @@
         ]
     },
     "50201": {
-        "description": "\u6559\u8bad\u4e00\u4e0b\u4e0d\u8fdc\u5904\u7684\u9e2d\u5b50",
+        "description": "教训一下不远处的鸭子",
         "cost": 10,
         "type": 1,
         "condition_type": 50201,
-        "title": "\u795e\u79d8\u5927\u793c\u2160",
+        "title": "神秘大礼Ⅰ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,
@@ -507,11 +507,11 @@
         ]
     },
     "50202": {
-        "description": "\u524d\u5f80\u5bfb\u627e\u795e\u79d8\u4eba",
+        "description": "前往寻找神秘人",
         "cost": 20,
         "type": 1,
         "condition_type": 50202,
-        "title": "\u795e\u79d8\u5927\u793c\u2161",
+        "title": "神秘大礼Ⅱ",
         "hide_need": 1,
         "finishevent": 0,
         "need": 1,

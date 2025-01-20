@@ -4,7 +4,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 1,
-        "dice_description": "\u9700\u89811",
+        "dice_description": "需要1",
         "dice_configuration": [
             1
         ]
@@ -14,7 +14,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 2,
-        "dice_description": "\u9700\u89812",
+        "dice_description": "需要2",
         "dice_configuration": [
             2
         ]
@@ -24,7 +24,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 3,
-        "dice_description": "\u9700\u89813",
+        "dice_description": "需要3",
         "dice_configuration": [
             3
         ]
@@ -34,7 +34,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 4,
-        "dice_description": "\u9700\u89814",
+        "dice_description": "需要4",
         "dice_configuration": [
             4
         ]
@@ -44,7 +44,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 5,
-        "dice_description": "\u9700\u89815",
+        "dice_description": "需要5",
         "dice_configuration": [
             5
         ]
@@ -54,7 +54,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 6,
-        "dice_description": "\u9700\u89816",
+        "dice_description": "需要6",
         "dice_configuration": [
             6
         ]
@@ -64,7 +64,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 7,
-        "dice_description": "\u4efb\u610f\u70b9\u6570",
+        "dice_description": "任意点数",
         "dice_configuration": [
             7
         ]
@@ -74,7 +74,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 8,
-        "dice_description": "\u4efb\u610f\u70b9\u6570",
+        "dice_description": "任意点数",
         "dice_configuration": [
             7,
             7
@@ -85,7 +85,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 9,
-        "dice_description": "\u4efb\u610f\u70b9\u6570",
+        "dice_description": "任意点数",
         "dice_configuration": [
             7,
             7,
@@ -97,7 +97,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 12,
-        "dice_description": "\u6700\u5c0f2",
+        "dice_description": "最小2",
         "dice_configuration": [
             12
         ]
@@ -107,7 +107,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 13,
-        "dice_description": "\u6700\u5c0f3",
+        "dice_description": "最小3",
         "dice_configuration": [
             13
         ]
@@ -117,7 +117,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 14,
-        "dice_description": "\u6700\u5c0f4",
+        "dice_description": "最小4",
         "dice_configuration": [
             14
         ]
@@ -127,7 +127,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 15,
-        "dice_description": "\u6700\u5c0f5",
+        "dice_description": "最小5",
         "dice_configuration": [
             15
         ]
@@ -137,7 +137,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 22,
-        "dice_description": "\u6700\u59272",
+        "dice_description": "最大2",
         "dice_configuration": [
             22
         ]
@@ -147,7 +147,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 23,
-        "dice_description": "\u6700\u59273",
+        "dice_description": "最大3",
         "dice_configuration": [
             23
         ]
@@ -157,7 +157,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 24,
-        "dice_description": "\u6700\u59274",
+        "dice_description": "最大4",
         "dice_configuration": [
             24
         ]
@@ -167,7 +167,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 25,
-        "dice_description": "\u6700\u59275",
+        "dice_description": "最大5",
         "dice_configuration": [
             25
         ]
@@ -177,7 +177,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 31,
-        "dice_description": "\u5947\u6570",
+        "dice_description": "奇数",
         "dice_configuration": [
             31
         ]
@@ -187,7 +187,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 32,
-        "dice_description": "\u5076\u6570",
+        "dice_description": "偶数",
         "dice_configuration": [
             32
         ]
@@ -197,7 +197,7 @@
         "dice_limit_type": 1,
         "skill_configuration": "",
         "id": 33,
-        "dice_description": "\u9700\u8981\u4e00\u5bf9",
+        "dice_description": "需要一对",
         "dice_configuration": [
             7,
             7
@@ -208,7 +208,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 34,
-        "dice_description": "2\u4e2a\u9ab0\u5b50\uff0c\u6700\u59273",
+        "dice_description": "2个骰子，最大3",
         "dice_configuration": [
             23,
             23
@@ -219,7 +219,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 35,
-        "dice_description": "\u4e00\u4e2a\u6570\u662f\u53e6\u4e00\u4e2a\u6570\u7684\u4e24\u500d",
+        "dice_description": "一个数是另一个数的两倍",
         "dice_configuration": [
             7,
             7
@@ -230,7 +230,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 36,
-        "dice_description": "\u4e24\u6570\u4e4b\u548c\u7b49\u4e8e\u7b2c\u4e09\u4e2a\u6570",
+        "dice_description": "两数之和等于第三个数",
         "dice_configuration": [
             7,
             7,
@@ -242,7 +242,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 37,
-        "dice_description": "\u53ef\u4ee5\u901a\u8fc7\u57fa\u7840\u8fd0\u7b97\u7b26\u53f7\u5f97\u51fa24\u70b9",
+        "dice_description": "可以通过基础运算符号得出24点",
         "dice_configuration": [
             7,
             7,
@@ -254,7 +254,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 207,
-        "dice_description": "\u603b\u548c\u7b49\u4e8e7",
+        "dice_description": "总和等于7",
         "dice_configuration": [
             7,
             7
@@ -265,7 +265,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 210,
-        "dice_description": "\u603b\u548c\u7b49\u4e8e10",
+        "dice_description": "总和等于10",
         "dice_configuration": [
             7,
             7
@@ -276,7 +276,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 212,
-        "dice_description": "\u603b\u548c\u7b49\u4e8e12",
+        "dice_description": "总和等于12",
         "dice_configuration": [
             7,
             7
@@ -287,7 +287,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 310,
-        "dice_description": "\u603b\u548c\u7b49\u4e8e10",
+        "dice_description": "总和等于10",
         "dice_configuration": [
             7,
             7,
@@ -299,7 +299,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 313,
-        "dice_description": "\u603b\u548c\u7b49\u4e8e13",
+        "dice_description": "总和等于13",
         "dice_configuration": [
             7,
             7,
@@ -311,7 +311,7 @@
         "dice_limit_type": 0,
         "skill_configuration": "",
         "id": 315,
-        "dice_description": "\u603b\u548c\u7b49\u4e8e15",
+        "dice_description": "总和等于15",
         "dice_configuration": [
             7,
             7,

@@ -1,10 +1,10 @@
 {
     "101": {
         "model": "9508_tpose",
-        "name": "\u684c\u6e38\u5e97\u5e97\u957f",
+        "name": "桌游店店长",
         "id": 101,
         "icon": "9508",
-        "desc": "\u8981\u6765\u73a9\u4e00\u5c40\u724c\u5417\uff1f\u4e0d\u4f1a\u6ca1\u5173\u7cfb\uff0c\u6211\u6765\u6559\u4f60\u3002\u5305\u6559\u5305\u4f1a\uff01",
+        "desc": "要来玩一局牌吗？不会没关系，我来教你。包教包会！",
         "stage_list": [
             101,
             102
@@ -12,10 +12,10 @@
     },
     "102": {
         "model": "9017_tpose",
-        "name": "\u82ad\u4e1d\u7279",
+        "name": "芭丝特",
         "id": 102,
         "icon": "1017",
-        "desc": "\u547c\u2026\u2026\u8fd9\u53ef\u662f\u6211\u7b2c\u4e00\u6b21\u5b9e\u6218\uff0c\u5343\u4e07\u8981\u624b\u4e0b\u7559\u60c5\u554a\uff01",
+        "desc": "呼……这可是我第一次实战，千万要手下留情啊！",
         "stage_list": [
             111,
             112
@@ -23,10 +23,10 @@
     },
     "103": {
         "model": "9052_tpose",
-        "name": "\u9a6c\u5c14\u675c\u514b",
+        "name": "马尔杜克",
         "id": 103,
         "icon": "1052",
-        "desc": "\u7f57\u65af\u5854\u8d6b\u4e5f\u6709\u4e9b\u7c7b\u4f3c\u7684\u73a9\u6cd5\u5012\u662f\u4e0d\u96be\u4e0a\u624b\uff0c\u8981\u6765\u4e24\u5c40\u5417\uff1f",
+        "desc": "罗斯塔赫也有些类似的玩法倒是不难上手，要来两局吗？",
         "stage_list": [
             113,
             114
@@ -34,10 +34,10 @@
     },
     "104": {
         "model": "9055_tpose",
-        "name": "\u6697\u5fa1\u6d25\u7fbd",
+        "name": "暗御津羽",
         "id": 104,
         "icon": "1055",
-        "desc": "\u8fd9\u724c\u5728\u4e0b\u53ef\u662f\u82e6\u5fc3\u94bb\u7814\u4e86\u5f88\u4e45\u5462\uff0c\u4f60\u53ef\u8981\u5c0f\u5fc3\u4e86\uff01",
+        "desc": "这牌在下可是苦心钻研了很久呢，你可要小心了！",
         "stage_list": [
             121,
             122,
@@ -47,10 +47,10 @@
     },
     "105": {
         "model": "9076_tpose",
-        "name": "\u5e9a\u8fb0",
+        "name": "庚辰",
         "id": 105,
         "icon": "1076",
-        "desc": "\u6b63\u5de7\u95f2\u6687\uff0c\u4e0d\u5982\u4e0e\u6211\u8bd5\u8bd5\u8fd9\u724c\u5c40\uff1f",
+        "desc": "正巧闲暇，不如与我试试这牌局？",
         "stage_list": [
             131,
             132

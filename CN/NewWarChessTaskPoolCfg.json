@@ -1,6 +1,6 @@
 {
     "10": {
-        "description": "\u5efa\u7acb\u5168\u533a\u57df\u901a\u8baf\u7ad9\u70b9",
+        "description": "建立全区域通讯站点",
         "finishevent": 2102,
         "hide_need": 0,
         "type": 1,
@@ -10,7 +10,7 @@
         "clickevent": 0
     },
     "12": {
-        "description": "\u8c03\u67e5\u5f02\u5e38\u4fe1\u53f7",
+        "description": "调查异常信号",
         "finishevent": 2122,
         "hide_need": 0,
         "type": 0,
@@ -20,7 +20,7 @@
         "clickevent": 2121
     },
     "15": {
-        "description": "\u4f7f\u7528\u5347\u964d\u53f0",
+        "description": "使用升降台",
         "finishevent": 2152,
         "hide_need": 0,
         "type": 0,
@@ -30,7 +30,7 @@
         "clickevent": 2151
     },
     "16": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -40,7 +40,7 @@
         "clickevent": 2161
     },
     "17": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -50,7 +50,7 @@
         "clickevent": 2171
     },
     "18": {
-        "description": "\u5728\u7ad9\u70b9\u5185\u6253\u542c\u6d88\u606f",
+        "description": "在站点内打听消息",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -60,7 +60,7 @@
         "clickevent": 2181
     },
     "19": {
-        "description": "\u4f7f\u7528\u5347\u964d\u53f0",
+        "description": "使用升降台",
         "finishevent": 2192,
         "hide_need": 0,
         "type": 0,
@@ -70,7 +70,7 @@
         "clickevent": 2191
     },
     "20": {
-        "description": "\u5efa\u7acb\u5168\u533a\u57df\u901a\u8baf\u7ad9\u70b9",
+        "description": "建立全区域通讯站点",
         "finishevent": 2202,
         "hide_need": 0,
         "type": 1,
@@ -80,7 +80,7 @@
         "clickevent": 0
     },
     "21": {
-        "description": "\u8c03\u67e5\u5f02\u5e38\u4fe1\u53f7",
+        "description": "调查异常信号",
         "finishevent": 2212,
         "hide_need": 0,
         "type": 0,
@@ -90,7 +90,7 @@
         "clickevent": 2211
     },
     "22": {
-        "description": "\u6e05\u9664\u9ab8\u80fd\u5a01\u80c1",
+        "description": "清除骸能威胁",
         "finishevent": 2222,
         "hide_need": 0,
         "type": 0,
@@ -100,7 +100,7 @@
         "clickevent": 2221
     },
     "23": {
-        "description": "\u5bfb\u627e\u76ee\u6807\u8d44\u6599",
+        "description": "寻找目标资料",
         "finishevent": 2232,
         "hide_need": 0,
         "type": 0,
@@ -110,7 +110,7 @@
         "clickevent": 2231
     },
     "26": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -120,7 +120,7 @@
         "clickevent": 2261
     },
     "27": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -130,7 +130,7 @@
         "clickevent": 2271
     },
     "28": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -140,7 +140,7 @@
         "clickevent": 2281
     },
     "30": {
-        "description": "\u5efa\u7acb\u5168\u533a\u57df\u901a\u8baf\u7ad9\u70b9",
+        "description": "建立全区域通讯站点",
         "finishevent": 2302,
         "hide_need": 0,
         "type": 1,
@@ -150,7 +150,7 @@
         "clickevent": 0
     },
     "31": {
-        "description": "\u8c03\u67e5\u5f02\u5e38\u4fe1\u53f7",
+        "description": "调查异常信号",
         "finishevent": 2312,
         "hide_need": 0,
         "type": 0,
@@ -160,7 +160,7 @@
         "clickevent": 2311
     },
     "32": {
-        "description": "\u6e05\u9664\u9ab8\u80fd\u5a01\u80c1",
+        "description": "清除骸能威胁",
         "finishevent": 2322,
         "hide_need": 0,
         "type": 0,
@@ -170,7 +170,7 @@
         "clickevent": 2321
     },
     "33": {
-        "description": "\u5bfb\u627e\u76ee\u6807\u8d44\u6599",
+        "description": "寻找目标资料",
         "finishevent": 2332,
         "hide_need": 0,
         "type": 0,
@@ -180,7 +180,7 @@
         "clickevent": 2331
     },
     "36": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -190,7 +190,7 @@
         "clickevent": 2361
     },
     "37": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -200,7 +200,7 @@
         "clickevent": 2371
     },
     "38": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -210,7 +210,7 @@
         "clickevent": 2381
     },
     "39": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -220,7 +220,7 @@
         "clickevent": 2391
     },
     "99": {
-        "description": "\u63a2\u7d22\u5730\u56fe\u63d0\u5347\u63a2\u7d22\u8fdb\u5ea6",
+        "description": "探索地图提升探索进度",
         "finishevent": 0,
         "hide_need": 1,
         "type": 0,
@@ -230,7 +230,7 @@
         "clickevent": 0
     },
     "40": {
-        "description": "\u5efa\u7acb\u5168\u533a\u57df\u901a\u8baf\u7ad9\u70b9",
+        "description": "建立全区域通讯站点",
         "finishevent": 2402,
         "hide_need": 0,
         "type": 1,
@@ -240,7 +240,7 @@
         "clickevent": 411
     },
     "41": {
-        "description": "\u70b9\u51fb\u7ad9\u70b9\u8fdb\u884c\u4f20\u9001",
+        "description": "点击站点进行传送",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -250,7 +250,7 @@
         "clickevent": 2411
     },
     "42": {
-        "description": "\u70b9\u51fb\u7ad9\u70b9\u6253\u542c\u6d88\u606f",
+        "description": "点击站点打听消息",
         "finishevent": 2422,
         "hide_need": 0,
         "type": 0,
@@ -260,7 +260,7 @@
         "clickevent": 2421
     },
     "43": {
-        "description": "\u70b9\u51fb\u4f7f\u7528\u603b\u64cd\u4f5c\u53f0",
+        "description": "点击使用总操作台",
         "finishevent": 2432,
         "hide_need": 0,
         "type": 0,
@@ -270,7 +270,7 @@
         "clickevent": 2431
     },
     "48": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -280,7 +280,7 @@
         "clickevent": 2481
     },
     "49": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -290,7 +290,7 @@
         "clickevent": 2491
     },
     "50": {
-        "description": "\u5efa\u7acb\u5168\u533a\u57df\u901a\u8baf\u7ad9\u70b9",
+        "description": "建立全区域通讯站点",
         "finishevent": 2502,
         "hide_need": 0,
         "type": 1,
@@ -300,7 +300,7 @@
         "clickevent": 411
     },
     "57": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -310,7 +310,7 @@
         "clickevent": 2571
     },
     "58": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -320,7 +320,7 @@
         "clickevent": 2581
     },
     "59": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -330,7 +330,7 @@
         "clickevent": 2591
     },
     "60": {
-        "description": "\u5efa\u7acb\u5168\u533a\u57df\u901a\u8baf\u7ad9\u70b9",
+        "description": "建立全区域通讯站点",
         "finishevent": 2602,
         "hide_need": 0,
         "type": 1,
@@ -340,7 +340,7 @@
         "clickevent": 411
     },
     "66": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -350,7 +350,7 @@
         "clickevent": 2661
     },
     "67": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -360,7 +360,7 @@
         "clickevent": 2671
     },
     "68": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -370,7 +370,7 @@
         "clickevent": 2681
     },
     "69": {
-        "description": "\u524d\u5f80\u60c5\u62a5\u5730\u70b9",
+        "description": "前往情报地点",
         "finishevent": 0,
         "hide_need": 0,
         "type": 0,
@@ -380,7 +380,7 @@
         "clickevent": 2691
     },
     "1201": {
-        "description": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1",
+        "description": "通过资料库认证",
         "finishevent": 1205,
         "hide_need": 0,
         "type": 0,
@@ -390,7 +390,7 @@
         "clickevent": 1204
     },
     "1211": {
-        "description": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1",
+        "description": "通过资料库认证",
         "finishevent": 1215,
         "hide_need": 0,
         "type": 0,
@@ -400,7 +400,7 @@
         "clickevent": 1214
     },
     "1221": {
-        "description": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1",
+        "description": "通过资料库认证",
         "finishevent": 1225,
         "hide_need": 0,
         "type": 0,
@@ -410,7 +410,7 @@
         "clickevent": 1224
     },
     "1231": {
-        "description": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1",
+        "description": "通过资料库认证",
         "finishevent": 1235,
         "hide_need": 0,
         "type": 0,
@@ -420,7 +420,7 @@
         "clickevent": 1234
     },
     "1241": {
-        "description": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1",
+        "description": "通过资料库认证",
         "finishevent": 1245,
         "hide_need": 0,
         "type": 0,
@@ -430,7 +430,7 @@
         "clickevent": 1244
     },
     "1251": {
-        "description": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1",
+        "description": "通过资料库认证",
         "finishevent": 1255,
         "hide_need": 0,
         "type": 0,
@@ -440,7 +440,7 @@
         "clickevent": 1254
     },
     "1261": {
-        "description": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1",
+        "description": "通过资料库认证",
         "finishevent": 1265,
         "hide_need": 0,
         "type": 0,
@@ -450,7 +450,7 @@
         "clickevent": 1264
     },
     "1271": {
-        "description": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1",
+        "description": "通过资料库认证",
         "finishevent": 1275,
         "hide_need": 0,
         "type": 0,
@@ -460,7 +460,7 @@
         "clickevent": 1274
     },
     "1281": {
-        "description": "\u901a\u8fc7\u8d44\u6599\u5e93\u8ba4\u8bc1",
+        "description": "通过资料库认证",
         "finishevent": 1285,
         "hide_need": 0,
         "type": 0,

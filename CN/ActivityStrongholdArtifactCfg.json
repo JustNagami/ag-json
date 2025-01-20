@@ -1,475 +1,475 @@
 {
     "602101": {
-        "name": "\u6218\u6597\u5f3a\u5316",
+        "name": "战斗强化",
         "type": 0,
         "id": 602101,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602101",
         "rare": 1,
-        "desc": "\u666e\u901a\u653b\u51fb\u4f24\u5bb3\u63d0\u9ad8180%"
+        "desc": "普通攻击伤害提高180%"
     },
     "602102": {
-        "name": "\u57df\u5185\u5171\u632f",
+        "name": "域内共振",
         "type": 0,
         "id": 602102,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602102",
         "rare": 3,
-        "desc": "\u6280\u80fd\u548c\u5965\u4e49\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed35%"
+        "desc": "技能和奥义的冷却时间缩短35%"
     },
     "602103": {
-        "name": "\u5bf9\u654c\u7b56\u7565(\u4eba\u5f62)",
+        "name": "对敌策略(人形)",
         "type": 0,
         "id": 602103,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602103",
         "rare": 2,
-        "desc": "\u5bf9\u4eba\u5f62\u654c\u4eba\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad870%"
+        "desc": "对人形敌人造成的伤害提高70%"
     },
     "602104": {
-        "name": "\u5bf9\u654c\u7b56\u7565(\u89c6\u9ab8)",
+        "name": "对敌策略(视骸)",
         "type": 0,
         "id": 602104,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602104",
         "rare": 2,
-        "desc": "\u5bf9\u89c6\u9ab8\u654c\u4eba\u9020\u6210\u4f24\u7684\u5bb3\u63d0\u9ad870%"
+        "desc": "对视骸敌人造成伤的害提高70%"
     },
     "602105": {
-        "name": "\u5bf9\u654c\u7b56\u7565(\u667a\u68b0)",
+        "name": "对敌策略(智械)",
         "type": 0,
         "id": 602105,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602105",
         "rare": 2,
-        "desc": "\u5bf9\u667a\u68b0\u654c\u4eba\u9020\u6210\u7684\u4f24\u5bb3\u63d0\u9ad870%"
+        "desc": "对智械敌人造成的伤害提高70%"
     },
     "602106": {
-        "name": "\u6280\u5de7\u4e13\u7cbe",
+        "name": "技巧专精",
         "type": 0,
         "id": 602106,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602106",
         "rare": 1,
-        "desc": "\u6280\u80fd\u4f24\u5bb3\u63d0\u9ad840%"
+        "desc": "技能伤害提高40%"
     },
     "602107": {
-        "name": "\u5965\u4e49\u4e13\u7cbe",
+        "name": "奥义专精",
         "type": 0,
         "id": 602107,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602107",
         "rare": 1,
-        "desc": "\u5965\u4e49\u4f24\u5bb3\u63d0\u9ad8160%"
+        "desc": "奥义伤害提高160%"
     },
     "602108": {
-        "name": "\u7194\u7089",
+        "name": "熔炉",
         "type": 0,
         "id": 602108,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602108",
         "rare": 1,
-        "desc": "\u653b\u51fb\u529b\u63d0\u9ad86%\uff0c\u6bcf\u51fb\u8d251\u4e2a\u654c\u4eba\u989d\u5916\u63d0\u9ad86%\uff0c\u4e0a\u965036%"
+        "desc": "攻击力提高6%，每击败1个敌人额外提高6%，上限36%"
     },
     "602109": {
-        "name": "\u6b63\u5411\u5b88\u536b",
+        "name": "正向守卫",
         "type": 0,
         "id": 602109,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602109",
         "rare": 2,
-        "desc": "\u53d7\u5230\u6b63\u9762\u4f24\u5bb3\u51cf\u4f4e25%\uff0c\u975e\u6b63\u9762\u4f24\u5bb3\u63d0\u9ad825%"
+        "desc": "受到正面伤害减低25%，非正面伤害提高25%"
     },
     "602110": {
-        "name": "\u96c6\u80fd\u53cd\u5e94",
+        "name": "集能反应",
         "type": 0,
         "id": 602110,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602110",
         "rare": 2,
-        "desc": "\u5bf9\u9501\u5b9a\u654c\u4eba\u4f24\u5bb3\u63d0\u9ad860%\uff0c\u975e\u9501\u5b9a\u964d\u4f4e15%"
+        "desc": "对锁定敌人伤害提高60%，非锁定降低15%"
     },
     "602111": {
-        "name": "\u539f\u59cb\u6218\u672f",
+        "name": "原始战术",
         "type": 0,
         "id": 602111,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602111",
         "rare": 2,
-        "desc": "\u6280\u80fd\u4f24\u5bb3\u964d\u4f4e60%\uff0c\u666e\u901a\u653b\u51fb\u4f24\u5bb3\u63d0\u9ad8600%"
+        "desc": "技能伤害降低60%，普通攻击伤害提高600%"
     },
     "602112": {
-        "name": "\u547d\u8fd0\u6289\u62e9",
+        "name": "命运抉择",
         "type": 0,
         "id": 602112,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602112",
         "rare": 2,
-        "desc": "\u83b7\u5f97\u4e00\u679a\u9ab0\u5b50\uff0c\u5728\u4e09\u79cd\u589e\u76ca\u95f4\u5207\u6362\uff1a\u666e\u901a\u653b\u51fb\u4f24\u5bb3\u63d0\u9ad880%\uff1b\u6280\u80fd\u4f24\u5bb3\u63d0\u9ad880%\uff1b\u5965\u4e49\u4f24\u5bb3\u63d0\u9ad880%"
+        "desc": "获得一枚骰子，在三种增益间切换：普通攻击伤害提高80%；技能伤害提高80%；奥义伤害提高80%"
     },
     "602113": {
-        "name": "\u9ad8\u6548\u6a21\u5f0f",
+        "name": "高效模式",
         "type": 0,
         "id": 602113,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602113",
         "rare": 2,
-        "desc": "\u95ea\u907f\u6548\u679c\u7684\u51b7\u5374\u65f6\u95f4\u7f29\u77ed50%"
+        "desc": "闪避效果的冷却时间缩短50%"
     },
     "602114": {
-        "name": "\u9632\u5fa1\u529b\u573a",
+        "name": "防御力场",
         "type": 0,
         "id": 602114,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602114",
         "rare": 1,
-        "desc": "\u9632\u5fa1\u529b\u63d0\u9ad840%"
+        "desc": "防御力提高40%"
     },
     "602115": {
-        "name": "\u6218\u5730\u6025\u6551",
+        "name": "战地急救",
         "type": 0,
         "id": 602115,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602115",
         "rare": 1,
-        "desc": "\u666e\u901a\u653b\u51fb\u65f6\uff0c\u6062\u590d20%\u7684\u751f\u547d\u503c\uff0c\u8be5\u6548\u679c\u6bcf10\u79d2\u6700\u591a\u89e6\u53d1\u4e00\u6b21"
+        "desc": "普通攻击时，恢复20%的生命值，该效果每10秒最多触发一次"
     },
     "602116": {
-        "name": "\u5f31\u70b9\u52d8\u5bdf\u88c5\u7f6e",
+        "name": "弱点勘察装置",
         "type": 0,
         "id": 602116,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602116",
         "rare": 1,
-        "desc": "\u4f1a\u5fc3\u7387\u63d0\u9ad840%"
+        "desc": "会心率提高40%"
     },
     "602117": {
-        "name": "\u5f31\u70b9\u653e\u5927\u88c5\u7f6e",
+        "name": "弱点放大装置",
         "type": 0,
         "id": 602117,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602117",
         "rare": 2,
-        "desc": "\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u9ad8100%"
+        "desc": "会心伤害提高100%"
     },
     "602118": {
-        "name": "\u65e0\u6211\u4e4b\u5883",
+        "name": "无我之境",
         "type": 0,
         "id": 602118,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602118",
         "rare": 3,
-        "desc": "\u4f1a\u5fc3\u7387\u63d0\u9ad840%\u3001\u4f1a\u5fc3\u4f24\u5bb3\u63d0\u9ad8100%"
+        "desc": "会心率提高40%、会心伤害提高100%"
     },
     "602119": {
-        "name": "\u7edd\u5bf9\u638c\u63a7",
+        "name": "绝对掌控",
         "type": 0,
         "id": 602119,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602119",
         "rare": 1,
-        "desc": "\u81ea\u8eab\u89e6\u53d1\u7684\u96f6\u65f6\u7a7a\u95f4\u7684\u6301\u7eed\u65f6\u95f4\u5ef6\u957f2\u79d2"
+        "desc": "自身触发的零时空间的持续时间延长2秒"
     },
     "602120": {
-        "name": "\u96f6\u65f6\u8d85\u611f",
+        "name": "零时超感",
         "type": 0,
         "id": 602120,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602120",
         "rare": 2,
-        "desc": "\u5904\u4e8e\u81ea\u8eab\u89e6\u53d1\u7684\u96f6\u65f6\u7a7a\u95f4\u65f6\uff0c\u4fee\u6b63\u8005\u7684\u4f1a\u5fc3\u7387\u63d0\u9ad8100%"
+        "desc": "处于自身触发的零时空间时，修正者的会心率提高100%"
     },
     "602201": {
-        "name": "\u75db\u89c9\u5ef6\u7f13",
+        "name": "痛觉延缓",
         "type": 1,
         "id": 602201,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602201",
         "rare": 2,
-        "desc": "\u666e\u901a\u653b\u51fb\u65f6\u83b7\u5f97\u786c\u76f4\u6548\u679c"
+        "desc": "普通攻击时获得硬直效果"
     },
     "602202": {
-        "name": "\u6743\u80fd\u89e3\u653e",
+        "name": "权能解放",
         "type": 1,
         "id": 602202,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602202",
         "rare": 3,
-        "desc": "\u6bcf\u65bd\u653e5\u6b21\u666e\u901a\u653b\u51fb\uff0c\u4f1a\u89e6\u53d1\u4e00\u6b21\u5f3a\u5927\u7684\u8303\u56f4\u653b\u51fb\uff0c\u9020\u6210200%\u653b\u51fb\u529b\u7684\u4f24\u5bb3\uff0c\u9644\u52a0\u9632\u5fa1\u529b\u964d\u4f4e30%\uff0c\u6301\u7eed6\u79d2"
+        "desc": "每施放5次普通攻击，会触发一次强大的范围攻击，造成200%攻击力的伤害，附加防御力降低30%，持续6秒"
     },
     "602203": {
-        "name": "\u4fbf\u643a\u5f0f\u5236\u51b7",
+        "name": "便携式制冷",
         "type": 1,
         "id": 602203,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602203",
         "rare": 2,
-        "desc": "\u79fb\u52a8\u65f6\u89e6\u53d1\u51b0\u7206\uff0c\u9020\u6210300%\u653b\u51fb\u529b\u7684\u4f24\u5bb3\uff0c\u5e76\u9644\u52a0\u51b0\u51bb\u6548\u679c\uff0c\u6301\u7eed2\u79d2"
+        "desc": "移动时触发冰爆，造成300%攻击力的伤害，并附加冰冻效果，持续2秒"
     },
     "602204": {
-        "name": "\u566c\u80fd\u56de\u590d",
+        "name": "噬能回复",
         "type": 1,
         "id": 602204,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602204",
         "rare": 1,
-        "desc": "\u51fb\u8d25\u654c\u4eba\u65f6\u6062\u590d20%\u7684\u751f\u547d\u503c\uff0c\u8be5\u6548\u679c\u6bcf30\u79d2\u6700\u591a\u89e6\u53d1\u4e00\u6b21"
+        "desc": "击败敌人时恢复20%的生命值，该效果每30秒最多触发一次"
     },
     "602205": {
-        "name": "\u6c90\u98ce\u4e4b\u5f15",
+        "name": "沐风之引",
         "type": 1,
         "id": 602205,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602205",
         "rare": 3,
-        "desc": "\u65bd\u653e\u6280\u80fd\u65f6\u4f1a\u805a\u96c6\u654c\u4eba\uff0c\u9020\u6210800%\u653b\u51fb\u529b\u7684\u4f24\u5bb3\uff0c\u8be5\u6548\u679c\u6bcf8\u79d2\u6700\u591a\u89e6\u53d1\u4e00\u6b21"
+        "desc": "施放技能时会聚集敌人，造成800%攻击力的伤害，该效果每8秒最多触发一次"
     },
     "602206": {
-        "name": "\u611f\u5e94\u573a\u57df",
+        "name": "感应场域",
         "type": 1,
         "id": 602206,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602206",
         "rare": 1,
-        "desc": "\u5468\u56f4\u5b58\u5728\u53cb\u65b9\u4fee\u6b63\u8005\u65f6\uff0c\u81ea\u8eab\u653b\u51fb\u529b\u63d0\u9ad830%"
+        "desc": "周围存在友方修正者时，自身攻击力提高30%"
     },
     "602207": {
-        "name": "\u6781\u5883\u652f\u63f4",
+        "name": "极境支援",
         "type": 1,
         "id": 602207,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602207",
         "rare": 1,
-        "desc": "\u5468\u56f4\u654c\u4eba\u6570\u91cf\u4e0d\u4f4e\u4e8e4\u65f6\uff0c\u653b\u51fb\u529b\u63d0\u9ad820%\u3001\u95ea\u907f\u503c\u6062\u590d\u901f\u5ea6\u63d0\u9ad8100%"
+        "desc": "周围敌人数量不低于4时，攻击力提高20%、闪避值恢复速度提高100%"
     },
     "602208": {
-        "name": "\u7279\u5316\u5bf9\u654c",
+        "name": "特化对敌",
         "type": 1,
         "id": 602208,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602208",
         "rare": 2,
-        "desc": "\u5bf9\u7cbe\u82f1\u548c\u9996\u9886\u654c\u4eba\u7684\u4f24\u5bb3\u63d0\u9ad850%\uff0c\u53d7\u5230\u7cbe\u82f1\u548c\u9996\u9886\u654c\u4eba\u7684\u4f24\u5bb3\u964d\u4f4e10%"
+        "desc": "对精英和首领敌人的伤害提高50%，受到精英和首领敌人的伤害降低10%"
     },
     "602209": {
-        "name": "\u5384\u8fd0",
+        "name": "厄运",
         "type": 1,
         "id": 602209,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602209",
         "rare": 2,
-        "desc": "\u5bf9\u666e\u901a\u654c\u4eba\u7684\u4f24\u5bb3\u964d\u4f4e15%\uff0c\u4f46\u67095%\u7684\u6982\u7387\u76f4\u63a5\u51fb\u8d25\u666e\u901a\u654c\u4eba\uff0c\u8be5\u6548\u679c\u6bcf1\u79d2\u6700\u591a\u89e6\u53d1\u4e00\u6b21"
+        "desc": "对普通敌人的伤害降低15%，但有5%的概率直接击败普通敌人，该效果每1秒最多触发一次"
     },
     "602210": {
-        "name": "\u8fc7\u8f7d\u6838\u5fc3",
+        "name": "过载核心",
         "type": 1,
         "id": 602210,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602210",
         "rare": 2,
-        "desc": "\u653b\u51fb\u529b\u63d0\u9ad850%\uff0c\u9020\u6210\u4f24\u5bb3\u65f6\uff0c\u653b\u51fb\u529b\u989d\u5916\u63d0\u9ad85%\uff1b\u8be5\u653b\u51fb\u529b\u63d0\u9ad8\u6548\u679c\u8fbe\u5230100%\u65f6\uff0c\u653b\u51fb\u529b\u4e0b\u964d30%\uff0c\u6301\u7eed4\u79d2"
+        "desc": "攻击力提高50%，造成伤害时，攻击力额外提高5%；该攻击力提高效果达到100%时，攻击力下降30%，持续4秒"
     },
     "602211": {
-        "name": "\u72c2\u70ed\u6e85\u5c04",
+        "name": "狂热溅射",
         "type": 1,
         "id": 602211,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602211",
         "rare": 2,
-        "desc": "\u666e\u901a\u653b\u51fb\u4f1a\u4ea7\u751f50%\u653b\u51fb\u529b\u7684\u6e85\u5c04\u4f24\u5bb3"
+        "desc": "普通攻击会产生50%攻击力的溅射伤害"
     },
     "602212": {
-        "name": "\u6743\u80fd\u6298\u8dc3",
+        "name": "权能折跃",
         "type": 1,
         "id": 602212,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602212",
         "rare": 3,
-        "desc": "\u89e6\u53d1\u95ea\u907f\u6548\u679c\u65f6\uff0c\u53ec\u5524\u4e00\u67c4\u957f\u67aa\u653b\u51fb\u9020\u62101400%\u653b\u51fb\u529b\u7684\u4f24\u5bb3\uff0c\u8be5\u6548\u679c\u6bcf8\u79d2\u6700\u591a\u89e6\u53d1\u4e00\u6b21"
+        "desc": "触发闪避效果时，召唤一柄长枪攻击造成1400%攻击力的伤害，该效果每8秒最多触发一次"
     },
     "602213": {
-        "name": "\u5145\u80fd\u9632\u62a4",
+        "name": "充能防护",
         "type": 1,
         "id": 602213,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602213",
         "rare": 2,
-        "desc": "\u83b7\u5f978%\u751f\u547d\u503c\u7684\u62a4\u76fe\uff0c\u8be5\u6548\u679c\u6bcf5\u79d2\u6700\u591a\u89e6\u53d1\u4e00\u6b21"
+        "desc": "获得8%生命值的护盾，该效果每5秒最多触发一次"
     },
     "602214": {
-        "name": "\u96c6\u4e2d\u8f6c\u5316",
+        "name": "集中转化",
         "type": 1,
         "id": 602214,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602214",
         "rare": 2,
-        "desc": "\u53ea\u6709\u4e00\u4e2a\u5f53\u524d\u663e\u793a\u5904\u4e8e\u51b7\u5374\u72b6\u6001\u7684\u6280\u80fd\u65f6\uff0c\u4f24\u5bb3\u63d0\u9ad8100%"
+        "desc": "只有一个当前显示处于冷却状态的技能时，伤害提高100%"
     },
     "602215": {
-        "name": "\u6cbb\u7597\u8f6c\u6362\u4eea",
+        "name": "治疗转换仪",
         "type": 1,
         "id": 602215,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602215",
         "rare": 2,
-        "desc": "\u6cbb\u7597\u65f6\uff0c\u4f1a\u4e3a\u6cbb\u7597\u4eea\u84c4\u80fd\uff0c\u84c4\u6ee1\u65f6\u5bf9\u5468\u56f4\u654c\u4eba\u9020\u62102000%\u653b\u51fb\u529b\u7684\u4f24\u5bb3"
+        "desc": "治疗时，会为治疗仪蓄能，蓄满时对周围敌人造成2000%攻击力的伤害"
     },
     "602216": {
-        "name": "\u6743\u80fd\u88c1\u5b9a",
+        "name": "权能裁定",
         "type": 1,
         "id": 602216,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602216",
         "rare": 3,
-        "desc": "\u89e6\u53d1\u95ea\u907f\u6548\u679c\u65f6\uff0c\u5411\u524d\u6295\u51fa\u4e00\u67c4\u5de8\u9524\u9020\u62101000%\u653b\u51fb\u529b\u7684\u4f24\u5bb3\u5e76\u9644\u52a0\u5927\u989d\u7834\u9632\u503c\uff0c\u8be5\u6548\u679c\u6bcf8\u79d2\u6700\u591a\u89e6\u53d1\u4e00\u6b21"
+        "desc": "触发闪避效果时，向前投出一柄巨锤造成1000%攻击力的伤害并附加大额破防值，该效果每8秒最多触发一次"
     },
     "602301": {
-        "name": "\u7ef4\u4fee\u667a\u68b0",
+        "name": "维修智械",
         "type": 2,
         "id": 602301,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602301",
         "rare": 1,
-        "desc": "\u6240\u6709\u9632\u5fa1\u5854\u6062\u590d20%\u7684\u751f\u547d\u503c"
+        "desc": "所有防御塔恢复20%的生命值"
     },
     "602302": {
-        "name": "\u4e0d\u7a33\u5b9a\u529b\u573a",
+        "name": "不稳定力场",
         "type": 2,
         "id": 602302,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602302",
         "rare": 2,
-        "desc": "\u9632\u5fa1\u5854\u5468\u56f4\u7684\u654c\u4eba\u4f24\u5bb3\u51cf\u4f4e10%\u3001\u79fb\u52a8\u901f\u5ea6\u964d\u4f4e25%"
+        "desc": "防御塔周围的敌人伤害减低10%、移动速度降低25%"
     },
     "602303": {
-        "name": "\u5e94\u6fc0\u963b\u65ad",
+        "name": "应激阻断",
         "type": 2,
         "id": 602303,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602303",
         "rare": 3,
-        "desc": "\u9632\u5fa1\u5854\u751f\u547d\u503c\u964d\u4f4e\u81f380%/60%/30%\u65f6\uff0c\u4f1a\u5bf9\u573a\u4e0a\u6240\u6709\u654c\u4eba\u9020\u621030%\u7684\u5927\u751f\u547d\u503c\u7684\u4f24\u5bb3\uff0c\u5e76\u9644\u52a0\u7729\u6655\u6548\u679c\uff0c\u6301\u7eed4\u79d2\uff0c\u79fb\u52a8\u901f\u5ea6\u964d\u4f4e20%"
+        "desc": "防御塔生命值降低至80%/60%/30%时，会对场上所有敌人造成30%的大生命值的伤害，并附加眩晕效果，持续4秒，移动速度降低20%"
     },
     "602304": {
-        "name": "\u6700\u7ec8\u6218\u7ebf",
+        "name": "最终战线",
         "type": 2,
         "id": 602304,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602304",
         "rare": 1,
-        "desc": "\u9632\u5fa1\u5854\u7684\u751f\u547d\u503c\u4f4e\u4e8e20%\u65f6\uff0c\u5468\u56f4\u4fee\u6b63\u8005\u7684\u4f24\u5bb3\u63d0\u9ad8120%"
+        "desc": "防御塔的生命值低于20%时，周围修正者的伤害提高120%"
     },
     "602305": {
-        "name": "\u5468\u671f\u6027\u9707\u8361",
+        "name": "周期性震荡",
         "type": 2,
         "id": 602305,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602305",
         "rare": 2,
-        "desc": "\u9632\u5fa1\u5854\u6bcf\u95f4\u96945\u79d2\u5bf9\u5468\u56f4\u5f15\u5bfc\u4e00\u6b21\u51b2\u51fb\u6ce2\uff0c\u5bf9\u547d\u4e2d\u7684\u654c\u4eba\u9020\u621015%\u7684\u751f\u547d\u503c\u7684\u4f24\u5bb3\uff0c\u5e76\u9644\u52a0\u7729\u6655\u6548\u679c\uff0c\u6301\u7eed0.5\u79d2"
+        "desc": "防御塔每间隔5秒对周围引导一次冲击波，对命中的敌人造成15%的生命值的伤害，并附加眩晕效果，持续0.5秒"
     },
     "602306": {
-        "name": "\u575a\u786c\u62a4\u7532",
+        "name": "坚硬护甲",
         "type": 2,
         "id": 602306,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602306",
         "rare": 1,
-        "desc": "\u9632\u5fa1\u5854\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e10%"
+        "desc": "防御塔受到的伤害降低10%"
     },
     "602307": {
-        "name": "\u65e0\u9650\u538b\u5236",
+        "name": "无限压制",
         "type": 2,
         "id": 602307,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602307",
         "rare": 2,
-        "desc": "\u9632\u5fa1\u5854\u653b\u51fb\u547d\u4e2d\u7684\u654c\u4eba\u5168\u5c5e\u6027\u6297\u6027\u964d\u4f4e40%\uff0c\u6301\u7eed3\u79d2"
+        "desc": "防御塔攻击命中的敌人全属性抗性降低40%，持续3秒"
     },
     "602308": {
-        "name": "\u70ae\u51fb\u88c5\u586b",
+        "name": "炮击装填",
         "type": 2,
         "id": 602308,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602308",
         "rare": 1,
-        "desc": "\u9632\u5fa1\u5854\u5468\u56f4\u7684\u4fee\u6b63\u8005\u653b\u51fb\u65f6\uff0c20%\u7684\u6982\u7387\u53d1\u5c04\u4e00\u679a\u98de\u5f39\uff0c\u9020\u6210\u4fee\u6b63\u8005100%\u653b\u51fb\u529b\u7684\u4f24\u5bb3"
+        "desc": "防御塔周围的修正者攻击时，20%的概率发射一枚飞弹，造成修正者100%攻击力的伤害"
     },
     "602309": {
-        "name": "\u56fa\u5b88\u9635\u5730",
+        "name": "固守阵地",
         "type": 2,
         "id": 602309,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602309",
         "rare": 1,
-        "desc": "\u9632\u5fa1\u5854\u9644\u8fd1\u7684\u4fee\u6b63\u8005\u653b\u51fb\u529b\u63d0\u9ad830%"
+        "desc": "防御塔附近的修正者攻击力提高30%"
     },
     "602310": {
-        "name": "\u5e94\u6025\u8d44\u91d1",
+        "name": "应急资金",
         "type": 2,
         "id": 602310,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602310",
         "rare": 1,
-        "desc": "\u6bcf\u6b21\u5728\u9632\u5fa1\u5854\u5904\u8d2d\u4e70\u5f3a\u5316\u65f6\uff0c\u5168\u961f\u989d\u5916\u83b7\u5f9720\u70b9\u8d27\u5e01"
+        "desc": "每次在防御塔处购买强化时，全队额外获得20点货币"
     },
     "602311": {
-        "name": "\u8d44\u91d1\u652f\u63f4\u534f\u8bae",
+        "name": "资金支援协议",
         "type": 2,
         "id": 602311,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602311",
         "rare": 1,
-        "desc": "\u6bcf\u6b21\u51c6\u5907\u9636\u6bb5\uff0c\u5168\u961f\u989d\u5916\u83b7\u5f9730\u70b9\u8d27\u5e01"
+        "desc": "每次准备阶段，全队额外获得30点货币"
     },
     "602312": {
-        "name": "\u8346\u68d8\u88c5\u7532",
+        "name": "荆棘装甲",
         "type": 2,
         "id": 602312,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602312",
         "rare": 1,
-        "desc": "\u653b\u51fb\u9632\u5fa1\u5854\u7684\u654c\u4eba\u4f1a\u53d7\u523010%\u7684\u751f\u547d\u503c\u7684\u4f24\u5bb3\uff0c\u8be5\u6548\u679c\u6bcf2\u79d2\u6700\u591a\u89e6\u53d1\u4e00\u6b21"
+        "desc": "攻击防御塔的敌人会受到10%的生命值的伤害，该效果每2秒最多触发一次"
     },
     "602313": {
-        "name": "\u9632\u5fa1\u529b\u573a\u91cd\u7ec4",
+        "name": "防御力场重组",
         "type": 2,
         "id": 602313,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602313",
         "rare": 4,
-        "desc": "\u4fee\u6b63\u8005\u83b7\u5f97\u7279\u6b8a\u7acb\u573a\uff0c\u4f7f\u5468\u56f4\u7684\u4fee\u6b63\u8005\u53d7\u5230\u7684\u4f24\u5bb3\u964d\u4f4e10%/15%/20%/25%/30%\uff08\u5305\u62ec\u81ea\u8eab\uff09\uff1b\u5f53\u81ea\u8eab\u89e6\u53d1\u96f6\u65f6\u7a7a\u95f4\u65f6\uff0c\u6062\u590d\u6240\u6709\u53cb\u65b9\u4fee\u6b63\u80052%/4%/6%/8%/10%\u7684\u751f\u547d\u503c\uff08\u6839\u636e\u5df2\u9009\u62e9\u7684\u62d3\u6251\u6a21\u7ec4\u6570\u91cf\u8fdb\u884c\u63d0\u5347\uff09"
+        "desc": "修正者获得特殊立场，使周围的修正者受到的伤害降低10%/15%/20%/25%/30%（包括自身）；当自身触发零时空间时，恢复所有友方修正者2%/4%/6%/8%/10%的生命值（根据已选择的拓扑模组数量进行提升）"
     },
     "602314": {
-        "name": "\u56de\u8f6c\u529b\u573a\u91cd\u7ec4",
+        "name": "回转力场重组",
         "type": 2,
         "id": 602314,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602314",
         "rare": 4,
-        "desc": "\u4fee\u6b63\u8005\u83b7\u5f97\u7279\u6b8a\u7acb\u573a\uff0c\u4f7f\u5468\u56f4\u7684\u4fee\u6b63\u8005\u6280\u80fd\u51b7\u5374\u65f6\u95f4\u7f29\u77ed10%/15%/20%/25%/30%\uff08\u5305\u62ec\u81ea\u8eab\uff09\uff1b\u5f53\u7acb\u573a\u5185\u7684\u4fee\u6b63\u8005\u65bd\u653e\u6280\u80fd\u65f6\uff0c\u968f\u673a\u91cd\u7f6e\u4e00\u4e2a\u6280\u80fd\u7684\u51b7\u5374\u65f6\u95f4\uff0c\u8be5\u6548\u679c\u6bcf3\u79d2\u6700\u591a\u89e6\u53d1\u4e00\u6b21\uff08\u6839\u636e\u5df2\u9009\u62e9\u7684\u62d3\u6251\u6a21\u7ec4\u6570\u91cf\u8fdb\u884c\u63d0\u5347\uff09"
+        "desc": "修正者获得特殊立场，使周围的修正者技能冷却时间缩短10%/15%/20%/25%/30%（包括自身）；当立场内的修正者施放技能时，随机重置一个技能的冷却时间，该效果每3秒最多触发一次（根据已选择的拓扑模组数量进行提升）"
     },
     "602315": {
-        "name": "\u653b\u51fb\u529b\u573a\u91cd\u7ec4",
+        "name": "攻击力场重组",
         "type": 2,
         "id": 602315,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602315",
         "rare": 4,
-        "desc": "\u4fee\u6b63\u8005\u83b7\u5f97\u7279\u6b8a\u7acb\u573a\uff0c\u4f7f\u5468\u56f4\u7684\u4fee\u6b63\u8005\u653b\u51fb\u529b\u63d0\u9ad810%/15%/20%/25%/30%\uff08\u5305\u62ec\u81ea\u8eab\uff09\uff1b\u5f53\u81ea\u8eab\u65bd\u653e\u5965\u4e49\u65f6\uff0c\u5bf9\u547d\u4e2d\u7684\u654c\u4eba\u9644\u52a0\u5168\u5c5e\u6027\u6297\u6027\u964d\u4f4e10%/15%/20%/25%/30%\uff0c\u6301\u7eed5\u79d2\uff08\u6839\u636e\u5df2\u9009\u62e9\u7684\u62d3\u6251\u6a21\u7ec4\u6570\u91cf\u8fdb\u884c\u63d0\u5347\uff09"
+        "desc": "修正者获得特殊立场，使周围的修正者攻击力提高10%/15%/20%/25%/30%（包括自身）；当自身施放奥义时，对命中的敌人附加全属性抗性降低10%/15%/20%/25%/30%，持续5秒（根据已选择的拓扑模组数量进行提升）"
     },
     "602316": {
-        "name": "\u5669\u68a6",
+        "name": "噩梦",
         "type": 2,
         "id": 602316,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602316",
         "rare": 2,
-        "desc": "\u5468\u671f\u6027\u5bf91\u4e2a\u654c\u4eba\u9644\u52a0\u300c\u5669\u68a6\u300d\u72b6\u6001\uff0c\u65e0\u6cd5\u653b\u51fb\u548c\u79fb\u52a8\uff0c\u88ab\u51fb\u8d25\u65f6\u8be5\u72b6\u6001\u4f1a\u4f20\u9012\u7ed9\u5176\u4ed6\u654c\u4eba"
+        "desc": "周期性对1个敌人附加「噩梦」状态，无法攻击和移动，被击败时该状态会传递给其他敌人"
     },
     "602317": {
-        "name": "\u5171\u5b58\u67b6\u6784",
+        "name": "共存架构",
         "type": 2,
         "id": 602317,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602317",
         "rare": 1,
-        "desc": "\u9632\u5fa1\u5854\u53d7\u51fb\u65f6\uff0c\u670915%\u7684\u6982\u7387\u5c06\u8be5\u6b21\u4f24\u5bb3\u8f6c\u79fb\u81f3\u5468\u56f4\u968f\u673a\u4e00\u540d\u4fee\u6b63\u8005\u8eab\u4e0a\uff0c\u4fee\u6b63\u8005\u53d7\u52301%\u7684\u751f\u547d\u503c\u7684\u4f24\u5bb3"
+        "desc": "防御塔受击时，有15%的概率将该次伤害转移至周围随机一名修正者身上，修正者受到1%的生命值的伤害"
     },
     "602318": {
-        "name": "\u8fde\u9501\u8109\u51b2",
+        "name": "连锁脉冲",
         "type": 2,
         "id": 602318,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602318",
         "rare": 2,
-        "desc": "\u9632\u5fa1\u5854\u6bcf\u96945\u79d2\u4f1a\u83b7\u5f97\u653e\u5c04\u7535\u6d41\u7684\u6548\u679c\uff0c\u653b\u51fb\u547d\u4e2d\u654c\u4eba\u65f6\u4f1a\u8fdb\u884c\u4f20\u9012\uff0c\u6700\u591a\u4f20\u90125\u6b21\uff0c\u5bf9\u547d\u4e2d\u7684\u654c\u4eba\u9020\u62105000%\u5854\u653b\u51fb\u529b\u7684\u4f24\u5bb3\u3002"
+        "desc": "防御塔每隔5秒会获得放射电流的效果，攻击命中敌人时会进行传递，最多传递5次，对命中的敌人造成5000%塔攻击力的伤害。"
     },
     "602319": {
-        "name": "\u7cbe\u51c6\u5207\u5272\u7cfb\u7edf",
+        "name": "精准切割系统",
         "type": 2,
         "id": 602319,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602319",
         "rare": 2,
-        "desc": "\u654c\u4eba\u7684\u7834\u9632\u503c\u4e0a\u9650\u964d\u4f4e50%"
+        "desc": "敌人的破防值上限降低50%"
     },
     "602401": {
-        "name": "\u7b49\u4ef7\u4ea4\u6362",
+        "name": "等价交换",
         "type": 3,
         "id": 602401,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602401",
         "rare": 5,
-        "desc": "\u7acb\u523b\u6467\u6bc1\u5f53\u524d\u9632\u5fa1\u5854\uff0c\u4fee\u6b63\u8005\u51b7\u5374\u63d0\u534730%\uff0c\u5168\u653b\u51fb\u529b\u4e0a\u5347120%\uff0c\u95ea\u907f\u80fd\u91cf\u6062\u590d\u52a0\u5feb100%\u3002\u201c\u4f46\uff0c\u4ee3\u4ef7\u662f\u4ec0\u4e48\u5462\uff1f\u201d"
+        "desc": "立刻摧毁当前防御塔，修正者冷却提升30%，全攻击力上升120%，闪避能量恢复加快100%。“但，代价是什么呢？”"
     },
     "602402": {
-        "name": "\u6295\u5f71",
+        "name": "投影",
         "type": 3,
         "id": 602402,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602402",
         "rare": 5,
-        "desc": "\u53c2\u4e0e\u51fb\u6740\u602a\u7269\uff0c\u6784\u5efa\u8be5\u4ee3\u7801\u6548\u679c\u3002\u5e7d\u9b42\uff1a\u6bcf\u6b21\u89e6\u53d1\u95ea\u907f\u6548\u679c\u65f6\uff0c\u5411\u524d\u53d1\u52a8\u4e00\u6b21\u65a9\u51fb\uff0c\u9020\u62101000%\u653b\u51fb\u529b\u4f24\u5bb3\uff1b\u5b89\u4fdd\u58eb\u5175\uff1a\u6bcf\u6b21\u89e6\u53d1\u95ea\u907f\u6548\u679c\u65f6\uff0c\u5c06\u521b\u5efa\u9635\u5730\u653b\u51fb\uff0c\u9020\u62101200%\u653b\u51fb\u529b\u4f24\u5bb3\uff1b\u7c73\u8bfa\u9676\u8bfa\u65af\uff1a\u6bcf\u6b21\u89e6\u53d1\u95ea\u907f\u6548\u679c\u65f6\uff0c\u5c06\u5728\u76ee\u6807\u70b9\u51b2\u649e\u654c\u4eba\uff0c\u9020\u62102000%\u653b\u51fb\u529b\u4f24\u5bb3"
+        "desc": "参与击杀怪物，构建该代码效果。幽魂：每次触发闪避效果时，向前发动一次斩击，造成1000%攻击力伤害；安保士兵：每次触发闪避效果时，将创建阵地攻击，造成1200%攻击力伤害；米诺陶诺斯：每次触发闪避效果时，将在目标点冲撞敌人，造成2000%攻击力伤害"
     },
     "602403": {
-        "name": "\u79fb\u5f62\u5b9a\u8f68",
+        "name": "移形定轨",
         "type": 3,
         "id": 602403,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602403",
         "rare": 5,
-        "desc": "\u95ea\u907f\u6548\u679c\u89e6\u53d1\u65f6\uff0c\u5bf9\u5f53\u524d\u9501\u5b9a\u654c\u4eba\u8fdb\u884c\u9501\u5b9a\uff0c\u505c\u6ede\u5176\u884c\u52a85\u79d2\uff0c\u8be5\u6548\u679c\u670912\u79d2\u7684CD"
+        "desc": "闪避效果触发时，对当前锁定敌人进行锁定，停滞其行动5秒，该效果有12秒的CD"
     },
     "602404": {
-        "name": "\u5e78\u8fd0\u4e4b\u7fbd",
+        "name": "幸运之羽",
         "type": 3,
         "id": 602404,
         "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602404",
         "rare": 5,
-        "desc": "\u4f60\u4f1a\u53d8\u5f97\u5f02\u5e38\u5e78\u8fd0\uff1a\u6bcf\u6b21\u53d7\u5230\u4f24\u5bb3\u8fdb\u884c\u4e00\u6b21\u5224\u5b9a\uff0c40%\u7684\u6982\u7387\u95ea\u907f\u8be5\u6b21\u4f24\u5bb3\uff1b\u6bcf\u6b21\u653b\u51fb\u8fdb\u884c\u4e00\u6b21\u5224\u5b9a\uff0c40%\u7684\u6982\u7387\u89e6\u53d1\u201c\u8fdf\u7f13\u4e4b\u51fb\u201d\uff0c\u4f7f\u76ee\u6807\u602a\u7269\u9677\u5165\u7f13\u901f\u548c\u4f24\u5bb3\u964d\u4f4e\u6548\u679c\uff0c\u6301\u7eed5\u79d2"
+        "desc": "你会变得异常幸运：每次受到伤害进行一次判定，40%的概率闪避该次伤害；每次攻击进行一次判定，40%的概率触发“迟缓之击”，使目标怪物陷入缓速和伤害降低效果，持续5秒"
     },
     "get_id_list_by_type": {
         "3": [

@@ -1,7 +1,7 @@
 {
     "60500001": {
-        "tips": "\u300a\u9ad8\u5899\u4e0a\u4e0b\u300b - \u751f\u547d\u79d1\u6280 \u5173\u5361\u6d41\u7a0b\u6d4b\u8bd5",
-        "name": "\u4e3b\u7ebf\u6d41\u7a0b\u6d4b\u8bd5",
+        "tips": "《高墙上下》 - 生命科技 关卡流程测试",
+        "name": "主线流程测试",
         "ai_level": 3,
         "map": "1032012",
         "monster_level": 80,
@@ -33,8 +33,8 @@
         ]
     },
     "60500002": {
-        "tips": "\u300a\u96e8\u58f0\u300b - \u7a7f\u6797 \u5173\u5361\u6d41\u7a0b\u6d4b\u8bd5",
-        "name": "\u4e3b\u7ebf\u6d41\u7a0b\u6d4b\u8bd5",
+        "tips": "《雨声》 - 穿林 关卡流程测试",
+        "name": "主线流程测试",
         "ai_level": 4,
         "map": "5230111",
         "monster_level": 80,
@@ -67,7 +67,7 @@
     },
     "60530089": {
         "tips": "",
-        "name": "\u602a\u7269\u6d4b\u8bd5",
+        "name": "怪物测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60530089",
@@ -87,7 +87,7 @@
     },
     "60530129": {
         "tips": "",
-        "name": "\u602a\u7269\u6d4b\u8bd5",
+        "name": "怪物测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60530129",
@@ -107,7 +107,7 @@
     },
     "60530289": {
         "tips": "",
-        "name": "\u602a\u7269\u6d4b\u8bd5",
+        "name": "怪物测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60530289",
@@ -127,7 +127,7 @@
     },
     "60530399": {
         "tips": "",
-        "name": "\u602a\u7269\u6d4b\u8bd5",
+        "name": "怪物测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60530399",
@@ -146,8 +146,8 @@
         ]
     },
     "60530490": {
-        "tips": "\u667a\u68b0<\u5171\u547d\u9e1f>\u6218\u6597\u6d41\u7a0b\u6d4b\u8bd5",
-        "name": "\u5e38\u89c4\u5316\u6218\u6597\u6d4b\u8bd5",
+        "tips": "智械<共命鸟>战斗流程测试",
+        "name": "常规化战斗测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60530490",
@@ -166,8 +166,8 @@
         ]
     },
     "60530510": {
-        "tips": "\u88c5\u7532\u54e8\u5175<\u5821\u5792>\u6218\u6597\u6d41\u7a0b\u6d4b\u8bd5",
-        "name": "\u5e38\u89c4\u5316\u6218\u6597\u6d4b\u8bd5",
+        "tips": "装甲哨兵<堡垒>战斗流程测试",
+        "name": "常规化战斗测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60530510",
@@ -187,7 +187,7 @@
     },
     "60540130": {
         "tips": "",
-        "name": "\u602a\u7269\u6d4b\u8bd5",
+        "name": "怪物测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60540130",
@@ -207,7 +207,7 @@
     },
     "60540140": {
         "tips": "",
-        "name": "\u602a\u7269\u6d4b\u8bd5",
+        "name": "怪物测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60540140",
@@ -227,7 +227,7 @@
     },
     "60540150": {
         "tips": "",
-        "name": "\u602a\u7269\u6d4b\u8bd5",
+        "name": "怪物测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60540150",
@@ -246,8 +246,8 @@
         ]
     },
     "60540160": {
-        "tips": "\u6e90<\u6717\u9999>\u6218\u6597\u6d41\u7a0b\u6d4b\u8bd5",
-        "name": "\u5e38\u89c4\u5316\u6218\u6597\u6d4b\u8bd5",
+        "tips": "源<朗香>战斗流程测试",
+        "name": "常规化战斗测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60540160",
@@ -266,8 +266,8 @@
         ]
     },
     "60540200": {
-        "tips": "\u5de8\u5316\u79cd<\u54c8\u52a0\u63d0>\u6d41\u7a0b\u8c03\u4f18",
-        "name": "\u6218\u6597\u8c03\u4f18\u6d4b\u8bd5",
+        "tips": "巨化种<哈加提>流程调优",
+        "name": "战斗调优测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60540200",
@@ -286,8 +286,8 @@
         ]
     },
     "60540210": {
-        "tips": "\u5de8\u5316\u79cd<\u6bd4\u5f17\u9686\u65af>\u6d41\u7a0b\u8c03\u4f18",
-        "name": "\u6218\u6597\u8c03\u4f18\u6d4b\u8bd5",
+        "tips": "巨化种<比弗隆斯>流程调优",
+        "name": "战斗调优测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60540210",
@@ -307,7 +307,7 @@
     },
     "60540250": {
         "tips": "",
-        "name": "\u602a\u7269\u6d4b\u8bd5",
+        "name": "怪物测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60540250",
@@ -327,7 +327,7 @@
     },
     "60540290": {
         "tips": "",
-        "name": "\u602a\u7269\u6d4b\u8bd5",
+        "name": "怪物测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60540290",
@@ -347,7 +347,7 @@
     },
     "60540360": {
         "tips": "",
-        "name": "\u602a\u7269\u6d4b\u8bd5",
+        "name": "怪物测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60540360",
@@ -367,7 +367,7 @@
     },
     "60540400": {
         "tips": "",
-        "name": "\u602a\u7269\u6d4b\u8bd5",
+        "name": "怪物测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60540400",
@@ -397,8 +397,8 @@
         ]
     },
     "60540420": {
-        "tips": "\u300a\u62c2\u6653\u5251\u6b4c\u300b - \u4ee5\u706f\u5854\u4e4b\u540d \u5173\u5361\u6d41\u7a0b\u6d4b\u8bd5",
-        "name": "\u4e3b\u7ebf\u6d41\u7a0b\u6d4b\u8bd5",
+        "tips": "《拂晓剑歌》 - 以灯塔之名 关卡流程测试",
+        "name": "主线流程测试",
         "ai_level": 1,
         "map": "60540420",
         "monster_level": 80,
@@ -430,8 +430,8 @@
         ]
     },
     "60540430": {
-        "tips": "\u300a\u9ad8\u5899\u4e0a\u4e0b\u300b - \u751f\u6b7b\u65e0\u7ec8 \u5173\u5361\u6d41\u7a0b\u6d4b\u8bd5",
-        "name": "\u4e3b\u7ebf\u6d41\u7a0b\u6d4b\u8bd5\u4e00",
+        "tips": "《高墙上下》 - 生死无终 关卡流程测试",
+        "name": "主线流程测试一",
         "ai_level": 3,
         "map": "60540430",
         "monster_level": 80,
@@ -463,8 +463,8 @@
         ]
     },
     "60540431": {
-        "tips": "\u300a\u9ad8\u5899\u4e0a\u4e0b\u300b - \u7ec8\u5c06\u5760\u5730 \u5173\u5361\u6d41\u7a0b\u6d4b\u8bd5",
-        "name": "\u4e3b\u7ebf\u6d41\u7a0b\u6d4b\u8bd5\u4e8c",
+        "tips": "《高墙上下》 - 终将坠地 关卡流程测试",
+        "name": "主线流程测试二",
         "ai_level": 3,
         "map": "60540431",
         "monster_level": 80,
@@ -496,8 +496,8 @@
         ]
     },
     "60540440": {
-        "tips": "\u300a\u96fe\u9b47\u8ff7\u9014\u300b - \u8fc7\u6fc0\u514d\u75ab \u5173\u5361\u6d41\u7a0b\u6d4b\u8bd5",
-        "name": "\u4e3b\u7ebf\u6d41\u7a0b\u6d4b\u8bd5\u4e00",
+        "tips": "《雾魇迷途》 - 过激免疫 关卡流程测试",
+        "name": "主线流程测试一",
         "ai_level": 4,
         "map": "60540440",
         "monster_level": 80,
@@ -529,8 +529,8 @@
         ]
     },
     "60540441": {
-        "tips": "\u300a\u96fe\u9b47\u8ff7\u9014\u300b - \u4e34\u754c\u70b9 \u5173\u5361\u6d41\u7a0b\u6d4b\u8bd5",
-        "name": "\u4e3b\u7ebf\u6d41\u7a0b\u6d4b\u8bd5\u4e8c",
+        "tips": "《雾魇迷途》 - 临界点 关卡流程测试",
+        "name": "主线流程测试二",
         "ai_level": 4,
         "map": "60540441",
         "monster_level": 80,
@@ -562,8 +562,8 @@
         ]
     },
     "60540442": {
-        "tips": "\u5f02\u5316\u539f\u578b<\u6b3a\u8bc8\u00b7\u963f\u5fb7\u62c9>\u6218\u6597\u6d41\u7a0b\u6d4b\u8bd5",
-        "name": "\u5e38\u89c4\u5316\u6218\u6597\u6d4b\u8bd5",
+        "tips": "异化原型<欺诈·阿德拉>战斗流程测试",
+        "name": "常规化战斗测试",
         "ai_level": 4,
         "hero_list": "",
         "map": "60540442",
@@ -583,7 +583,7 @@
     },
     "60550150": {
         "tips": "",
-        "name": "\u585e\u8d6b\u9ea6\u7279\u68a6\u9b47\u6d4b\u8bd5",
+        "name": "塞赫麦特梦魇测试",
         "ai_level": 4,
         "map": "60550150",
         "monster_level": 80,
@@ -615,8 +615,8 @@
         ]
     },
     "60550950": {
-        "tips": "\u68a6\u9b47<\u82cd\u9e6d>\u6218\u6597\u6d41\u7a0b\u6d4b\u8bd5",
-        "name": "\u82cd\u9e6d\u68a6\u9b47\u6d4b\u8bd5",
+        "tips": "梦魇<苍鹭>战斗流程测试",
+        "name": "苍鹭梦魇测试",
         "ai_level": 1,
         "map": "40610953",
         "monster_level": 80,
@@ -648,8 +648,8 @@
         ]
     },
     "60551380": {
-        "tips": "\u68a6\u9b47<\u9ece\u5e7b>\u6218\u6597\u6d41\u7a0b\u6d4b\u8bd5",
-        "name": "\u9ece\u5e7b\u68a6\u9b47\u6d4b\u8bd5",
+        "tips": "梦魇<黎幻>战斗流程测试",
+        "name": "黎幻梦魇测试",
         "ai_level": 1,
         "map": "40611383",
         "monster_level": 80,
@@ -682,7 +682,7 @@
     },
     "60551500": {
         "tips": "",
-        "name": "5150\u602a\u7269\u6d4b\u8bd5",
+        "name": "5150怪物测试",
         "ai_level": 4,
         "map": "60551500",
         "monster_level": 80,

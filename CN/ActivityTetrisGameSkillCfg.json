@@ -1,8 +1,8 @@
 {
     "1001": {
-        "name": "\u65e0\u9650\u65cb\u8f6c",
+        "name": "无限旋转",
         "skill_id": 1001,
-        "desc": "\u70b9\u51fb\u5f85\u9009\u533a\u65b9\u5757\uff0c\u4f7f\u9009\u4e2d\u65b9\u5757<color=#F48800>\u987a\u65f6\u9488\u65cb\u8f6c90\u00b0</color>\u3002",
+        "desc": "点击待选区方块，使选中方块<color=#F48800>顺时针旋转90°</color>。",
         "exclusion": [],
         "unlock_stage_id": [
             2
@@ -12,9 +12,9 @@
         "Params_3": []
     },
     "1002": {
-        "name": "\u66f4\u66ff\u91cd\u7f6e",
+        "name": "更替重置",
         "skill_id": 1002,
-        "desc": "\u6bcf\u56de\u5408\u653e\u7f6e\u4e00\u4e2a\u65b9\u5757\u540e\uff0c\u5c06<color=#F48800>\u76f4\u63a5\u8fdb\u5165\u4e0b\u4e00\u4e2a\u56de\u5408</color>\u3002",
+        "desc": "每回合放置一个方块后，将<color=#F48800>直接进入下一个回合</color>。",
         "exclusion": [],
         "unlock_stage_id": [
             3
@@ -24,9 +24,9 @@
         "Params_3": []
     },
     "1003": {
-        "name": "\u5e78\u8fd0\u56de\u5408",
+        "name": "幸运回合",
         "skill_id": 1003,
-        "desc": "\u6bcf\u4e09\u4e2a\u56de\u5408\u540e\uff0c\u5c06\u751f\u6210<color=#F48800>\u5355\u683c\u53ca\u4e09\u683c\u7684\u7279\u6b8a\u65b9\u5757</color>\uff0c\u653e\u7f6e\u4efb\u4e00\u65b9\u5757\u7ed3\u675f\u8be5\u56de\u5408\u3002",
+        "desc": "每三个回合后，将生成<color=#F48800>单格及三格的特殊方块</color>，放置任一方块结束该回合。",
         "exclusion": [],
         "unlock_stage_id": [
             4
@@ -42,9 +42,9 @@
         "Params_3": []
     },
     "1004": {
-        "name": "\u4ee5\u65f6\u6362\u7387",
+        "name": "以时换率",
         "skill_id": 1004,
-        "desc": "\u603b\u65f6\u95f4\u51cf\u5c11<color=#F48800>50</color>\u79d2\uff0c<color=#F48800>\u6d88\u9664\u5f97\u5206\u548c\u653e\u7f6e\u5f97\u5206</color>\u500d\u7387\u5927\u5e45\u5ea6\u589e\u52a0\u3002",
+        "desc": "总时间减少<color=#F48800>50</color>秒，<color=#F48800>消除得分和放置得分</color>倍率大幅度增加。",
         "exclusion": [],
         "unlock_stage_id": [
             4
@@ -57,9 +57,9 @@
         "Params_3": []
     },
     "1005": {
-        "name": "\u539a\u79ef\u8584\u53d1",
+        "name": "厚积薄发",
         "skill_id": 1005,
-        "desc": "\u6bcf\u5f53\u65b9\u5757\u653e\u5165\u76d8\u9762\u4e2d\u4e14\u672a\u89e6\u53d1\u6d88\u9664\u65f6\uff0c\u5c06<color=#F48800>\u79ef\u7d2f\u84c4\u529b\u8fdb\u5ea6</color>\uff1b\n\u5f53\u89e6\u53d1\u6d88\u9664\u65f6\uff0c\u5c06<color=#F48800>\u6e05\u7a7a\u84c4\u529b\u8fdb\u5ea6</color>\uff0c\u5e76\u6309\u7167\u84c4\u529b\u8fdb\u5ea6\u500d\u7387\u6bd4\u4f8b\u63d0\u5347\u83b7\u5f97\u6d88\u9664\u5f97\u5206\u3002",
+        "desc": "每当方块放入盘面中且未触发消除时，将<color=#F48800>积累蓄力进度</color>；\n当触发消除时，将<color=#F48800>清空蓄力进度</color>，并按照蓄力进度倍率比例提升获得消除得分。",
         "exclusion": [
             1006
         ],
@@ -102,9 +102,9 @@
         ]
     },
     "1006": {
-        "name": "\u8fde\u9891\u6574\u5408",
+        "name": "连频整合",
         "skill_id": 1006,
-        "desc": "\u6bcf\u5f53\u89e6\u53d1\u6d88\u9664\u65f6\u500d\u7387\u589e\u52a0\uff0c\u5e76\u5c06<color=#F48800>\u5012\u8ba1\u65f6\u6301\u7eed\u65f6\u95f4\u5237\u65b0\u81f310\u79d2</color>\uff0c\u5012\u8ba1\u65f6\u7ed3\u675f\u540e\u500d\u7387\u6062\u590d\uff1b\n\u5f53\u89e6\u53d1\u6d88\u9664\u65f6\uff0c\u6309\u7167\u500d\u7387\u6bd4\u4f8b\u63d0\u5347\u83b7\u5f97\u6d88\u9664\u5f97\u5206\u3002",
+        "desc": "每当触发消除时倍率增加，并将<color=#F48800>倒计时持续时间刷新至10秒</color>，倒计时结束后倍率恢复；\n当触发消除时，按照倍率比例提升获得消除得分。",
         "exclusion": [
             1005
         ],

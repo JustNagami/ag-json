@@ -1,12 +1,12 @@
 {
     "10001": {
         "cost": 10,
-        "name": "\u53cc\u500d\u9ab0\u5b50",
+        "name": "双倍骰子",
         "type": 10006,
         "id": 10001,
         "icon": "prop_01",
-        "use_description": "\u53ef\u4ee5\u6295\u63b7\u51fa\u4e24\u4e2a\u9ab0\u5b50\u3002",
-        "prop_description": "\u2014\u2014\u5443\u2026\u2026\u5c31\u662f\u53ef\u4ee5\u63b7\u51fa\u4e24\u6b21\u7684\u9ab0\u5b50\u3002",
+        "use_description": "可以投掷出两个骰子。",
+        "prop_description": "——呃……就是可以掷出两次的骰子。",
         "params": [
             2,
             1
@@ -14,126 +14,126 @@
     },
     "10002": {
         "cost": 12,
-        "name": "\u4efb\u610f\u9ab0\u5b50",
+        "name": "任意骰子",
         "type": 10004,
         "id": 10002,
         "icon": "prop_02",
-        "use_description": "\u53ef\u4ee5\u6307\u5b9a\u6295\u63b7\u51fa\u9ab0\u5b50\u4e2d\u4efb\u610f\u4e00\u4e2a\u70b9\u6570\u3002",
-        "prop_description": "\u2014\u2014\u53ef\u4ee5\u5b8c\u7f8e\u63b7\u51fa\u4f60\u60f3\u8981\u7684\u90a3\u4e00\u9762\u3002",
+        "use_description": "可以指定投掷出骰子中任意一个点数。",
+        "prop_description": "——可以完美掷出你想要的那一面。",
         "params": [
             3
         ]
     },
     "10003": {
         "cost": 5,
-        "name": "\u9b54\u672f\u5e08\u7684\u793c\u5e3d",
+        "name": "魔术师的礼帽",
         "type": 10001,
         "id": 10003,
         "icon": "prop_03",
-        "use_description": "\u83b7\u5f97\u300c\u5438\u91d1\u300d\u72b6\u6001\uff0c\u6301\u7eed2\u56de\u5408\u3002\n\n\u5438\u91d1\uff1a\u6bcf\u79fb\u52a8\u4e00\u6b65\uff0c\u83b7\u5f971\u679a\u9e2d\u9e2d\u5e01\u3002",
-        "prop_description": "\u2014\u2014\u5e7f\u573a\u4e0a\u5356\u827a\u7684\u9b54\u672f\u5e08\u901a\u5e38\u4f1a\u518d\u8eab\u524d\u653e\u4e00\u9876\u793c\u5e3d\uff0c\u793a\u610f\u89c2\u8d4f\u8005\u8be5\u610f\u601d\u4e00\u4e0b\u4e86\u3002",
+        "use_description": "获得「吸金」状态，持续2回合。\n\n吸金：每移动一步，获得1枚鸭鸭币。",
+        "prop_description": "——广场上卖艺的魔术师通常会再身前放一顶礼帽，示意观赏者该意思一下了。",
         "params": [
             10003
         ]
     },
     "10004": {
         "cost": 10,
-        "name": "\u6d77\u6d0b\u4e4b\u661f\u95e8\u7968",
+        "name": "海洋之星门票",
         "type": 10001,
         "id": 10004,
         "icon": "prop_04",
-        "use_description": "\u83b7\u5f97\u300c\u65e0\u654c\u300d\u72b6\u6001\uff0c\u6301\u7eed3\u56de\u5408\u3002\n\n\u65e0\u654c\uff1a\u89e6\u78b0\u5c0f\u9ec4\u9e2d\u4f1a\u5c06\u5176\u6d88\u706d\uff0c\u5e76\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01\u3002",
-        "prop_description": "\u2014\u2014\u62e5\u6709\u8fd9\u6837\u4e1c\u897f\uff0c\u4f60\u5c31\u662f\u8fd9\u91cc\u7684\u300c\u4e0a\u5e1d\u300d\u3002",
+        "use_description": "获得「无敌」状态，持续3回合。\n\n无敌：触碰小黄鸭会将其消灭，并获得5枚鸭鸭币。",
+        "prop_description": "——拥有这样东西，你就是这里的「上帝」。",
         "params": [
             10004
         ]
     },
     "10005": {
         "cost": 8,
-        "name": "\u9e2d\u9e2d\u6355\u730e\u67aa",
+        "name": "鸭鸭捕猎枪",
         "type": 10002,
         "id": 10005,
         "icon": "prop_05",
-        "use_description": "\u53ef\u4ee5\u6d88\u706d\u68cb\u76d8\u4e0a\u7684\u4efb\u610f\u4e00\u53ea\u9e2d\u9e2d\u3002",
-        "prop_description": "\u2014\u2014\u60e9\u7f5a\u90a3\u4e9b\u5230\u5904\u6363\u4e71\u7684\u9e2d\u9e2d\u6700\u597d\u7528\u7684\u5de5\u5177\u3002",
+        "use_description": "可以消灭棋盘上的任意一只鸭鸭。",
+        "prop_description": "——惩罚那些到处捣乱的鸭鸭最好用的工具。",
         "params": []
     },
     "10006": {
         "cost": 5,
-        "name": "\u795e\u79d8\u7684\u63a7\u5236\u5668",
+        "name": "神秘的控制器",
         "type": 10003,
         "id": 10006,
         "icon": "prop_06",
-        "use_description": "\u53ef\u4ee5\u9009\u62e9\u68cb\u76d8\u4e0a\u7684\u4e00\u53ea\u9e2d\u9e2d\u4ea4\u6362\u4f4d\u7f6e\u3002\n\n\u4ea4\u6362\u540e\u4e0d\u4f1a\u89e6\u53d1\u5f53\u524d\u5730\u5f62\u6548\u679c\u3002",
-        "prop_description": "\u2014\u2014\u53ef\u4ee5\u53d1\u51fa\u4e00\u6bb5\u97f3\u9891\uff0c\u4f7f\u9e2d\u9e2d\u8fdb\u5165\u6df7\u4e71\u72b6\u6001\u3002",
+        "use_description": "可以选择棋盘上的一只鸭鸭交换位置。\n\n交换后不会触发当前地形效果。",
+        "prop_description": "——可以发出一段音频，使鸭鸭进入混乱状态。",
         "params": []
     },
     "10007": {
         "cost": 3,
-        "name": "\u6ce8\u610f\u9632\u6652",
+        "name": "注意防晒",
         "type": 10001,
         "id": 10007,
         "icon": "prop_07",
-        "use_description": "\u83b7\u5f97\u300c\u4fdd\u62a4\u300d\u72b6\u6001\u3002\n\n\u4fdd\u62a4\uff1a\u89e6\u78b0\u5c0f\u9ec4\u9e2d\u4f1a\u5c06\u5176\u6d88\u706d\uff0c\u751f\u6548\u540e\u83b7\u5f975\u679a\u9e2d\u9e2d\u5e01\uff0c\u540c\u65f6\u5931\u53bb\u8be5\u72b6\u6001\u3002",
-        "prop_description": "\u2014\u2014\u6d77\u8fb9\u6e38\u73a9\u7b2c\u4e00\u6761\u51c6\u5219\uff1a\u4fdd\u62a4\u76ae\u80a4\u4e0d\u88ab\u6652\u4f24\u3002",
+        "use_description": "获得「保护」状态。\n\n保护：触碰小黄鸭会将其消灭，生效后获得5枚鸭鸭币，同时失去该状态。",
+        "prop_description": "——海边游玩第一条准则：保护皮肤不被晒伤。",
         "params": [
             10007
         ]
     },
     "10008": {
         "cost": 5,
-        "name": "\u666e\u901a\u7684\u8def\u969c",
+        "name": "普通的路障",
         "type": 10007,
         "id": 10008,
         "icon": "prop_08",
-        "use_description": "\u53ef\u4ee5\u9009\u62e9\u4efb\u610f\u4e00\u5904\u65e0\u9053\u5177\u548c\u89d2\u8272\u7684\u5730\u5757\u653e\u7f6e\u4e00\u4e2a\u8def\u969c\u3002",
-        "prop_description": "\u2014\u2014\u4e00\u4e2a\u666e\u901a\u7684\u8def\u969c\uff0c\u4f1a\u6321\u4f4f\u81ea\u5df1\u548c\u522b\u4eba\u7684\u53bb\u8def\u3002",
+        "use_description": "可以选择任意一处无道具和角色的地块放置一个路障。",
+        "prop_description": "——一个普通的路障，会挡住自己和别人的去路。",
         "params": [
             2
         ]
     },
     "10009": {
         "cost": 3,
-        "name": "\u70b8\u5f39\u6c14\u7403",
+        "name": "炸弹气球",
         "type": 10007,
         "id": 10009,
         "icon": "prop_09",
-        "use_description": "\u53ef\u4ee5\u9009\u62e9\u4efb\u610f\u4e00\u5904\u65e0\u9053\u5177\u548c\u89d2\u8272\u7684\u5730\u5757\u653e\u7f6e\u4e00\u4e2a\u6c14\u7403\u70b8\u5f39\u3002",
-        "prop_description": "\u2014\u2014\u70b8\u5f39\u5f62\u72b6\u7684\u6c14\u7403\uff0c\u53cb\u60c5\u63d0\u793a\uff1a\u4e0d\u8981\u7528\u660e\u706b\u70b9\u71c3\u62f4\u4f4f\u6c14\u7403\u7684\u7ebf\uff0c\u5b83\u662f\u771f\u7684\u4f1a\u70b8\u7684\u54e6\uff01",
+        "use_description": "可以选择任意一处无道具和角色的地块放置一个气球炸弹。",
+        "prop_description": "——炸弹形状的气球，友情提示：不要用明火点燃拴住气球的线，它是真的会炸的哦！",
         "params": [
             3
         ]
     },
     "10010": {
         "cost": 3,
-        "name": "\u6253\u5de5\u4eba\u7684\u9635\u75db",
+        "name": "打工人的阵痛",
         "type": 10010,
         "id": 10010,
         "icon": "prop_10",
-        "use_description": "\u53ef\u4ee5\u6307\u5b9a\u4efb\u610f\u4e00\u53ea\u9e2d\u9e2d\u6216\u89d2\u8272\uff0c\u6bcf\u6b21\u53ea\u80fd\u6295\u63b7\u51fa1\u70b9\uff0c\u6301\u7eed2\u56de\u5408\u3002",
-        "prop_description": "\u2014\u2014\u538b\u5728\u8eab\u4e0a\u7684\u662f\u5305\u7684\u91cd\u91cf\u5417\uff1f\u4e0d\u662f\uff0c\u90a3\u662f\u6253\u5de5\u4eba\u7684\u9635\u75db\u3002\u8fde\u51fa\u95e8\u6e38\u73a9\u4e5f\u8981\u65f6\u523b\u5173\u6ce8\u7740\u5de5\u4f5c\u3002",
+        "use_description": "可以指定任意一只鸭鸭或角色，每次只能投掷出1点，持续2回合。",
+        "prop_description": "——压在身上的是包的重量吗？不是，那是打工人的阵痛。连出门游玩也要时刻关注着工作。",
         "params": [
             10010
         ]
     },
     "10011": {
         "cost": 5,
-        "name": "\u7ef4\u4fee\u4e13\u5bb6",
+        "name": "维修专家",
         "type": 10008,
         "id": 10011,
         "icon": "prop_11",
-        "use_description": "\u62c6\u9664\u573a\u4e0a\u6307\u5b9a\u9053\u5177\u6216\u8005\u6d88\u9664\u8eab\u4e0a\u7684\u6548\u679c\u3002",
-        "prop_description": "\u2014\u2014\u300c\u4e0d\u62c6\u5f00\u5b83\u6211\u600e\u4e48\u4fee\u597d\u5b83\uff0c\u8bf6\u5440\u653e\u5fc3\uff0c\u6211\u5fc3\u91cc\u6709\u6570\u3002\u300d",
+        "use_description": "拆除场上指定道具或者消除身上的效果。",
+        "prop_description": "——「不拆开它我怎么修好它，诶呀放心，我心里有数。」",
         "params": []
     },
     "10012": {
         "cost": 8,
-        "name": "\u97f3\u63a7\u9e2d\u9e2d\u87ba",
+        "name": "音控鸭鸭螺",
         "type": 10009,
         "id": 10012,
         "icon": "prop_12",
-        "use_description": "\u5730\u56fe\u5185\u6240\u6709\u9e2d\u9e2d\u505c\u6b62\u79fb\u52a8\uff0c\u6301\u7eed3\u56de\u5408\u3002",
-        "prop_description": "\u2014\u2014\u542c\u6211\u8bf4\uff0c\u5168\u573a\u76ee\u6807\u5411\u6211\u770b\u9f50\uff01321\u6728\u5934\u4eba\uff0c\u4e0d\u8bb8\u8bf4\u8bdd\uff0c\u4e0d\u8bb8\u52a8\uff01",
+        "use_description": "地图内所有鸭鸭停止移动，持续3回合。",
+        "prop_description": "——听我说，全场目标向我看齐！321木头人，不许说话，不许动！",
         "params": [
             3
         ]
