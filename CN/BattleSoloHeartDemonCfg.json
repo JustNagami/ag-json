@@ -3359,6 +3359,216 @@
             0
         ]
     },
+    "3080671": {
+        "tips": "",
+        "name": "\u6d41\u8f6c\u4e4b\u6d0b",
+        "ai_level": 1,
+        "map": "40610671",
+        "monster_level": 80,
+        "need_default_team": 1,
+        "combo_skill_id": 0,
+        "id": 3080671,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            214,
+            0
+        ]
+    },
+    "3080672": {
+        "tips": "",
+        "name": "\u6d41\u8f6c\u4e4b\u6d0b",
+        "ai_level": 1,
+        "map": "40610672",
+        "monster_level": 80,
+        "need_default_team": 1,
+        "combo_skill_id": 0,
+        "id": 3080672,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            214,
+            0
+        ]
+    },
+    "3080673": {
+        "tips": "",
+        "name": "\u6d41\u8f6c\u4e4b\u6d0b",
+        "ai_level": 1,
+        "map": "40610673",
+        "monster_level": 80,
+        "need_default_team": 1,
+        "combo_skill_id": 0,
+        "id": 3080673,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1067,
+                3081067
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            214,
+            0
+        ]
+    },
+    "3080611": {
+        "tips": "",
+        "name": "\u7384\u673a",
+        "ai_level": 1,
+        "map": "40610611",
+        "monster_level": 80,
+        "need_default_team": 1,
+        "combo_skill_id": 0,
+        "id": 3080611,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            214,
+            0
+        ]
+    },
+    "3080612": {
+        "tips": "",
+        "name": "\u7384\u673a",
+        "ai_level": 1,
+        "map": "40610612",
+        "monster_level": 80,
+        "need_default_team": 1,
+        "combo_skill_id": 0,
+        "id": 3080612,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            214,
+            0
+        ]
+    },
+    "3080613": {
+        "tips": "",
+        "name": "\u7384\u673a",
+        "ai_level": 1,
+        "map": "40610613",
+        "monster_level": 80,
+        "need_default_team": 1,
+        "combo_skill_id": 0,
+        "id": 3080613,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                1061,
+                3081061
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ],
+        "team_type": [
+            214,
+            0
+        ]
+    },
     "all": [
         3080741,
         3080742,
@@ -3455,6 +3665,12 @@
         3081383,
         3081501,
         3081502,
-        3081503
+        3081503,
+        3080671,
+        3080672,
+        3080673,
+        3080611,
+        3080612,
+        3080613
     ]
 }

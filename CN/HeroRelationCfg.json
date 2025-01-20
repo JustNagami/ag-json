@@ -1154,7 +1154,74 @@
         "relation_des": "\u5c0f\u961f\u6210\u5458",
         "main_hero_id": 1150
     },
+    "113301": {
+        "story_id": 711330103,
+        "id": 113301,
+        "story_condtion_id": 0,
+        "relate_hero_id": 1061,
+        "relation_des": "\u5408\u4f5c\u65b9",
+        "main_hero_id": 1133,
+        "story_reward": [
+            [
+                1,
+                30
+            ]
+        ]
+    },
+    "113302": {
+        "story_id": 711330101,
+        "id": 113302,
+        "story_condtion_id": 0,
+        "relate_hero_id": 1028,
+        "relation_des": "\u540c\u4e8b",
+        "main_hero_id": 1133,
+        "story_reward": [
+            [
+                1,
+                30
+            ]
+        ]
+    },
+    "113303": {
+        "story_id": 711330102,
+        "id": 113303,
+        "story_condtion_id": 0,
+        "relate_hero_id": 1248,
+        "relation_des": "\u540c\u4e8b",
+        "main_hero_id": 1133,
+        "story_reward": [
+            [
+                1,
+                30
+            ]
+        ]
+    },
+    "113304": {
+        "story_id": 0,
+        "id": 113304,
+        "story_reward": "",
+        "story_condtion_id": 0,
+        "relate_hero_id": 1019,
+        "relation_des": "\u540c\u4e8b",
+        "main_hero_id": 1133
+    },
+    "113305": {
+        "story_id": 0,
+        "id": 113305,
+        "story_reward": "",
+        "story_condtion_id": 0,
+        "relate_hero_id": 1066,
+        "relation_des": "\u79d1\u7814\u4f19\u4f34",
+        "main_hero_id": 1133
+    },
     "get_id_list_by_main_hero_id": {
+        "1133": [
+            113301,
+            113302,
+            113303,
+            113304,
+            113305
+        ],
         "1150": [
             115001,
             115002,
@@ -1392,6 +1459,11 @@
         115002,
         115003,
         115004,
-        115005
+        115005,
+        113301,
+        113302,
+        113303,
+        113304,
+        113305
     ]
 }

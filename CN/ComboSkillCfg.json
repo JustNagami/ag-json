@@ -1096,6 +1096,57 @@
             50
         ]
     },
+    "63": {
+        "maxLevel": 3,
+        "skill_id": 1133208,
+        "end_prefab_path": "",
+        "id": 63,
+        "prefab_path": "comboskill_1133_1061",
+        "cooperate_role_ids": [
+            1061,
+            1133
+        ],
+        "cooperate_thrown_ids": [
+            1061063,
+            1133076
+        ],
+        "hit_damage_percent_grp": [
+            80,
+            0
+        ]
+    },
+    "64": {
+        "maxLevel": 3,
+        "skill_id": 1059208,
+        "end_prefab_path": "",
+        "id": 64,
+        "hit_damage_percent_grp": "",
+        "prefab_path": "comboskill_1067_1059",
+        "cooperate_role_ids": [
+            1059,
+            1067
+        ],
+        "cooperate_thrown_ids": [
+            1059056,
+            1067069
+        ]
+    },
+    "65": {
+        "maxLevel": 3,
+        "skill_id": 1034208,
+        "end_prefab_path": "",
+        "id": 65,
+        "hit_damage_percent_grp": "",
+        "prefab_path": "comboskill_1034_1015",
+        "cooperate_role_ids": [
+            1034,
+            1015
+        ],
+        "cooperate_thrown_ids": [
+            1034051,
+            1015051
+        ]
+    },
     "all": [
         1,
         2,
@@ -1158,6 +1209,9 @@
         59,
         60,
         61,
-        62
+        62,
+        63,
+        64,
+        65
     ]
 }

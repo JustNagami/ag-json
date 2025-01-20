@@ -9359,7 +9359,325 @@
             ]
         ]
     },
+    "11330011": {
+        "name": "\u575a\u58c1",
+        "suit_name": "\u9ad8\u5929\u7684\u5b88\u671b",
+        "unlock_condition": 2101,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1133001,
+        "id": 11330011,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "11330012": {
+        "name": "\u9e23\u89d2",
+        "suit_name": "\u9ad8\u5929\u7684\u5b88\u671b",
+        "unlock_condition": 2102,
+        "pre_astrolabe_id": 11330011,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1133001,
+        "id": 11330012,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "11330013": {
+        "name": "\u8679\u6d41",
+        "suit_name": "\u9ad8\u5929\u7684\u5b88\u671b",
+        "unlock_condition": 2103,
+        "pre_astrolabe_id": 11330012,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1133001,
+        "id": 11330013,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "11330021": {
+        "name": "\u65e0\u6daf",
+        "suit_name": "\u6012\u6d6a\u7684\u4f59\u54cd",
+        "unlock_condition": 2201,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1133002,
+        "id": 11330021,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "11330022": {
+        "name": "\u6fc0\u632f",
+        "suit_name": "\u6012\u6d6a\u7684\u4f59\u54cd",
+        "unlock_condition": 2202,
+        "pre_astrolabe_id": 11330021,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1133002,
+        "id": 11330022,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "11330023": {
+        "name": "\u5a01\u6f6e",
+        "suit_name": "\u6012\u6d6a\u7684\u4f59\u54cd",
+        "unlock_condition": 2203,
+        "pre_astrolabe_id": 11330022,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1133002,
+        "id": 11330023,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "11330031": {
+        "name": "\u6d1e\u4e16",
+        "suit_name": "\u4e34\u5c18\u7684\u542f\u6167",
+        "unlock_condition": 2301,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1133003,
+        "id": 11330031,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "11330032": {
+        "name": "\u7075\u77e5",
+        "suit_name": "\u4e34\u5c18\u7684\u542f\u6167",
+        "unlock_condition": 2302,
+        "pre_astrolabe_id": 11330031,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1133003,
+        "id": 11330032,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "11330033": {
+        "name": "\u795e\u793a",
+        "suit_name": "\u4e34\u5c18\u7684\u542f\u6167",
+        "unlock_condition": 2303,
+        "pre_astrolabe_id": 11330032,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1133003,
+        "id": 11330033,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10340011": {
+        "name": "\u593a\u9b44",
+        "suit_name": "\u70c8\u6bd2\u4e3b\u5bb0",
+        "unlock_condition": 2101,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1034001,
+        "id": 10340011,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10340012": {
+        "name": "\u7a7f\u5fc3",
+        "suit_name": "\u70c8\u6bd2\u4e3b\u5bb0",
+        "unlock_condition": 2102,
+        "pre_astrolabe_id": 10340011,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1034001,
+        "id": 10340012,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10340013": {
+        "name": "\u6444\u76ee",
+        "suit_name": "\u70c8\u6bd2\u4e3b\u5bb0",
+        "unlock_condition": 2103,
+        "pre_astrolabe_id": 10340012,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1034001,
+        "id": 10340013,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10340021": {
+        "name": "\u5f02\u9cde",
+        "suit_name": "\u4e07\u622e\u707e\u5f02",
+        "unlock_condition": 2201,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1034002,
+        "id": 10340021,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10340022": {
+        "name": "\u8715\u751f",
+        "suit_name": "\u4e07\u622e\u707e\u5f02",
+        "unlock_condition": 2202,
+        "pre_astrolabe_id": 10340021,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1034002,
+        "id": 10340022,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10340023": {
+        "name": "\u72c2\u6f6e",
+        "suit_name": "\u4e07\u622e\u707e\u5f02",
+        "unlock_condition": 2203,
+        "pre_astrolabe_id": 10340022,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1034002,
+        "id": 10340023,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
+    "10340031": {
+        "name": "\u9a71\u90aa",
+        "suit_name": "\u5b88\u62a4\u5723\u86c7",
+        "unlock_condition": 2301,
+        "pre_astrolabe_id": 0,
+        "pos": 1,
+        "hero_astrolabe_suit_id": 1034003,
+        "id": 10340031,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                1000
+            ]
+        ]
+    },
+    "10340032": {
+        "name": "\u86c7\u53d8",
+        "suit_name": "\u5b88\u62a4\u5723\u86c7",
+        "unlock_condition": 2302,
+        "pre_astrolabe_id": 10340031,
+        "pos": 2,
+        "hero_astrolabe_suit_id": 1034003,
+        "id": 10340032,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                5000
+            ]
+        ]
+    },
+    "10340033": {
+        "name": "\u8d50\u4f51",
+        "suit_name": "\u5b88\u62a4\u5723\u86c7",
+        "unlock_condition": 2303,
+        "pre_astrolabe_id": 10340032,
+        "pos": 3,
+        "hero_astrolabe_suit_id": 1034003,
+        "id": 10340033,
+        "astrolabe_type": 0,
+        "unlock": [
+            [
+                2,
+                10000
+            ]
+        ]
+    },
     "get_id_list_by_hero_astrolabe_suit_id": {
+        "1034003": [
+            10340031,
+            10340032,
+            10340033
+        ],
+        "1034002": [
+            10340021,
+            10340022,
+            10340023
+        ],
+        "1034001": [
+            10340011,
+            10340012,
+            10340013
+        ],
+        "1133003": [
+            11330031,
+            11330032,
+            11330033
+        ],
+        "1133002": [
+            11330021,
+            11330022,
+            11330023
+        ],
+        "1133001": [
+            11330011,
+            11330012,
+            11330013
+        ],
         "1248003": [
             12480031,
             12480032,
@@ -10337,6 +10655,42 @@
         ]
     },
     "get_id_list_by_pre_astrolabe_id": {
+        "10340032": [
+            10340033
+        ],
+        "10340031": [
+            10340032
+        ],
+        "10340022": [
+            10340023
+        ],
+        "10340021": [
+            10340022
+        ],
+        "10340012": [
+            10340013
+        ],
+        "10340011": [
+            10340012
+        ],
+        "11330032": [
+            11330033
+        ],
+        "11330031": [
+            11330032
+        ],
+        "11330022": [
+            11330023
+        ],
+        "11330021": [
+            11330022
+        ],
+        "11330012": [
+            11330013
+        ],
+        "11330011": [
+            11330012
+        ],
         "12480032": [
             12480033
         ],
@@ -11702,7 +12056,13 @@
             10890031,
             12480011,
             12480021,
-            12480031
+            12480031,
+            11330011,
+            11330021,
+            11330031,
+            10340011,
+            10340021,
+            10340031
         ]
     },
     "all": [
@@ -12290,6 +12650,24 @@
         12480023,
         12480031,
         12480032,
-        12480033
+        12480033,
+        11330011,
+        11330012,
+        11330013,
+        11330021,
+        11330022,
+        11330023,
+        11330031,
+        11330032,
+        11330033,
+        10340011,
+        10340012,
+        10340013,
+        10340021,
+        10340022,
+        10340023,
+        10340031,
+        10340032,
+        10340033
     ]
 }

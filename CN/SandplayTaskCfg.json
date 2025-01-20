@@ -1,0 +1,1763 @@
+{
+    "101": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u524d\u5f80\u4e0eNPC1\u4ea4\u8c08",
+        "task_item": "",
+        "task_tag": "\u4efb\u52a11",
+        "condition": 60,
+        "main_task_id": 101,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 101,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "102": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u524d\u5f80\u4e0eNPC2\u4ea4\u8c08",
+        "task_item": "",
+        "task_tag": "\u4efb\u52a12",
+        "condition": 60,
+        "main_task_id": 101,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 102,
+        "pre_operation": 2,
+        "pre_task_id": [
+            101
+        ],
+        "additional_parameter": []
+    },
+    "103": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u627e\u5230NPC2_1\u5e76\u8ddf\u968f\u5176\u524d\u5f80\u6307\u5b9a\u5730\u70b9",
+        "task_item": "",
+        "task_tag": "\u4efb\u52a13",
+        "condition": 60,
+        "main_task_id": 101,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 103,
+        "pre_operation": 2,
+        "pre_task_id": [
+            102
+        ],
+        "additional_parameter": []
+    },
+    "104": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u627e\u5230NPC4\u4ea4\u8c08\u540e\u751f\u6210\u8d70\u683c\u5b50\u5c0f\u6e38\u620f",
+        "task_item": "",
+        "task_tag": "\u4efb\u52a14",
+        "condition": 60,
+        "main_task_id": 101,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 104,
+        "pre_operation": 2,
+        "pre_task_id": [
+            103
+        ],
+        "additional_parameter": []
+    },
+    "105": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u901a\u8fc7NPC3\u4f20\u9001\u5230\u6307\u5b9a\u533a\u57df",
+        "task_item": "",
+        "task_tag": "\u4efb\u52a15",
+        "condition": 60,
+        "main_task_id": 101,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 105,
+        "pre_operation": 2,
+        "pre_task_id": [
+            102
+        ],
+        "additional_parameter": []
+    },
+    "106": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u627e\u5230NPC5\u804a\u804a\uff0c\u4e89\u53d6\u83b7\u5f97\u5b9d\u7bb1",
+        "task_item": "",
+        "task_tag": "\u4efb\u52a16",
+        "condition": 60,
+        "main_task_id": 101,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 106,
+        "pre_operation": 2,
+        "pre_task_id": [
+            105
+        ],
+        "additional_parameter": []
+    },
+    "107": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u518d\u6b21\u627e\u5230NPC4\uff0c\u9a8c\u8bc1\u4efb\u52a1\u5b8c\u6210\u540e\u751f\u6210\u6c38\u4e45",
+        "task_item": "",
+        "task_tag": "\u4efb\u52a17",
+        "condition": 60,
+        "main_task_id": 101,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 107,
+        "pre_operation": 2,
+        "pre_task_id": [
+            104,
+            106
+        ],
+        "additional_parameter": []
+    },
+    "108": {
+        "task_blueprint_sign": 0,
+        "task_target": "\uff08\u53ef\u9009\uff09\u627eNPC3\u8c08\u8bdd",
+        "task_item": "",
+        "task_tag": "\u4efb\u52a18",
+        "condition": 60,
+        "main_task_id": 101,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 108,
+        "pre_operation": 2,
+        "pre_task_id": [
+            107
+        ],
+        "additional_parameter": []
+    },
+    "109": {
+        "task_blueprint_sign": 0,
+        "task_target": "\uff08\u5fc5\u9009\uff09\u627eNPC1\u8c08\u8bdd\uff0c\u4efb\u52a1\u7ed3\u675f\u540e\u89c2\u5bdfNPC3\u662f\u5426\u88ab\u9500\u6bc1",
+        "task_item": "",
+        "task_tag": "\u4efb\u52a19",
+        "condition": 60,
+        "main_task_id": 101,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 109,
+        "pre_operation": 2,
+        "pre_task_id": [
+            107
+        ],
+        "additional_parameter": []
+    },
+    "201": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u4e0e\u5b9d\u7bb1\u4ea4\u4e92\u540e\uff0c\u79fb\u9664\u5b9d\u7bb1\uff0c\u5e76\u53d1\u653e\u4efb\u52a1\u5956\u52b1",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 201,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 201,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "202": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u4e0e\u5b9d\u7bb1\u4ea4\u4e92\u540e\uff0c\u79fb\u9664\u5b9d\u7bb1\uff0c\u5e76\u53d1\u653e\u4efb\u52a1\u5956\u52b1",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 202,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 202,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10101001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5728\u9644\u8fd1\u8f6c\u8f6c",
+        "task_item": "",
+        "task_tag": "\u5728\u9644\u8fd1\u8f6c\u8f6c",
+        "condition": 60,
+        "main_task_id": 10101,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10101001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10102001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u4e0d\u5982\u627e\u4eba\u95ee\u95ee\u8def\uff1f",
+        "task_item": "",
+        "task_tag": "\u4e0d\u5982\u627e\u4eba\u95ee\u95ee\u8def\uff1f",
+        "condition": 60,
+        "main_task_id": 10102,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10102001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10102002": {
+        "task_blueprint_sign": 1,
+        "task_target": "\u548c\u719f\u4eba\u6253\u4e2a\u62db\u547c",
+        "task_item": "",
+        "task_tag": "\u548c\u719f\u4eba\u6253\u4e2a\u62db\u547c",
+        "condition": 60,
+        "main_task_id": 10102,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10102002,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10102001
+        ],
+        "additional_parameter": []
+    },
+    "10103001": {
+        "task_blueprint_sign": 1,
+        "task_target": "\u4e0e\u82f1\u62db\u5bf9\u8bdd",
+        "task_item": "",
+        "task_tag": "\u4e0e\u82f1\u62db\u5bf9\u8bdd",
+        "condition": 60,
+        "main_task_id": 10103,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10103001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10103002": {
+        "task_blueprint_sign": 1,
+        "task_target": "\u8ddf\u968f\u82f1\u62db",
+        "task_item": "",
+        "task_tag": "\u8ddf\u968f\u82f1\u62db",
+        "condition": 60,
+        "main_task_id": 10103,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10103002,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10103001
+        ],
+        "additional_parameter": []
+    },
+    "10103003": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5173\u4e8e\u5e08\u7236\u7684\u8003\u9a8c\u2026",
+        "task_item": "",
+        "task_tag": "\u5173\u4e8e\u5e08\u7236\u7684\u8003\u9a8c\u2026",
+        "condition": 60,
+        "main_task_id": 10103,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10103003,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10103002
+        ],
+        "additional_parameter": []
+    },
+    "10104001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u8d2d\u4e70\u7b14\u8bb0\u672c",
+        "task_item": "",
+        "task_tag": "\u8d2d\u4e70\u7b14\u8bb0\u672c",
+        "condition": 60,
+        "main_task_id": 10104,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10104001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10104002": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u4ece\u67dc\u53f0\u53d6\u5f97\u7b14\u8bb0\u672c",
+        "task_item": "",
+        "task_tag": "\u4ece\u67dc\u53f0\u53d6\u5f97\u7b14\u8bb0\u672c",
+        "condition": 60,
+        "main_task_id": 10104,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10104002,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10104001
+        ],
+        "additional_parameter": []
+    },
+    "10105001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u7b54\u5e94\u7684\u5e2e\u5fd9\u4e0d\u80fd\u5fd8",
+        "task_item": "",
+        "task_tag": "\u7b54\u5e94\u7684\u5e2e\u5fd9\u4e0d\u80fd\u5fd8",
+        "condition": 60,
+        "main_task_id": 10105,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10105001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10105002": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u6536\u8d77\u5b5f\u7ae0\u8ba2\u7684\u98df\u6750",
+        "task_item": "",
+        "task_tag": "\u6536\u8d77\u5b5f\u7ae0\u8ba2\u7684\u98df\u6750",
+        "condition": 60,
+        "main_task_id": 10105,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10105002,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10105001
+        ],
+        "additional_parameter": []
+    },
+    "10105003": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u8fd4\u56de\u5bfb\u627e\u5b5f\u7ae0",
+        "task_item": "",
+        "task_tag": "\u8fd4\u56de\u5bfb\u627e\u5b5f\u7ae0",
+        "condition": 60,
+        "main_task_id": 10105,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10105003,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10105002
+        ],
+        "additional_parameter": []
+    },
+    "10105004": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u6253\u5f00\u5730\u56fe\u67e5\u770b",
+        "task_item": "",
+        "task_tag": "\u6253\u5f00\u5730\u56fe\u67e5\u770b",
+        "condition": 60,
+        "main_task_id": 10116,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10105004,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10106001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5728\u300c\u638c\u53a8\u6765\u4e5f\uff01\u300d\u4e2d\u6ee1\u8db36\u4e2a\u83dc\u80b4\u9700\u6c42",
+        "task_item": "",
+        "task_tag": "\u5728\u300c\u638c\u53a8\u6765\u4e5f\uff01\u300d\u4e2d\u6ee1\u8db36\u4e2a\u83dc\u80b4\u9700\u6c42",
+        "condition": 310103,
+        "main_task_id": 10106,
+        "need": 6,
+        "hide_task": 0,
+        "task_id": 10106001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10107001": {
+        "task_blueprint_sign": 2,
+        "task_target": "\u7b49\u5f85\u9192\u5c81\u8282\u6765\u4e34",
+        "task_item": "",
+        "task_tag": "\u7b49\u5f85\u9192\u5c81\u8282\u6765\u4e34",
+        "condition": 61,
+        "main_task_id": 10107,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10107001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": [
+            2025,
+            1,
+            29,
+            0,
+            0,
+            0
+        ]
+    },
+    "10108001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u7984\u826f\u7684\u6d88\u606f",
+        "task_item": "",
+        "task_tag": "\u7984\u826f\u7684\u6d88\u606f",
+        "condition": 60,
+        "main_task_id": 10108,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10108001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10108002": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u6536\u4e0b\u7984\u826f\u7684\u65b0\u5e74\u793c",
+        "task_item": "",
+        "task_tag": "\u6536\u4e0b\u7984\u826f\u7684\u65b0\u5e74\u793c",
+        "condition": 60,
+        "main_task_id": 10108,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10108002,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10108001
+        ],
+        "additional_parameter": []
+    },
+    "10108003": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u524d\u5f80\u7801\u5934",
+        "task_item": "",
+        "task_tag": "\u524d\u5f80\u7801\u5934",
+        "condition": 60,
+        "main_task_id": 10108,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10108003,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10108002
+        ],
+        "additional_parameter": []
+    },
+    "10108004": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u7ed9\u5e08\u7236\u751c\u54c1\u548c\u4fee\u4e60\u5fc3\u5f97",
+        "task_item": "",
+        "task_tag": "\u7ed9\u5e08\u7236\u751c\u54c1\u548c\u4fee\u4e60\u5fc3\u5f97",
+        "condition": 60,
+        "main_task_id": 10108,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10108004,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10108003
+        ],
+        "additional_parameter": []
+    },
+    "10108005": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u548c\u5e08\u7236\u7684\u4ea4\u6d41",
+        "task_item": "",
+        "task_tag": "\u548c\u5e08\u7236\u7684\u4ea4\u6d41",
+        "condition": 60,
+        "main_task_id": 10108,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10108005,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10108004
+        ],
+        "additional_parameter": []
+    },
+    "10108006": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u6361\u8d77\u4fee\u4e60\u8bb0\u5f55",
+        "task_item": "",
+        "task_tag": "\u6361\u8d77\u4fee\u4e60\u8bb0\u5f55",
+        "condition": 60,
+        "main_task_id": 10108,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10108006,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10108005
+        ],
+        "additional_parameter": []
+    },
+    "10109001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u53c2\u4e0e\u300c\u9192\u72ee\u4f20\u8bf4\u300d\u73a9\u6cd5\uff0c\u5e76\u6210\u529f\u901a\u5173\u300c\u666e\u901a\u5173\u53615\u300d",
+        "task_item": "",
+        "task_tag": "\u53c2\u4e0e\u300c\u9192\u72ee\u4f20\u8bf4\u300d\u73a9\u6cd5\uff0c\u5e76\u6210\u529f\u901a\u5173\u300c\u666e\u901a\u5173\u53615\u300d",
+        "condition": 51202,
+        "main_task_id": 10109,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10109001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": [
+            4005
+        ]
+    },
+    "10110001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u7a0d\u7b49\u6570\u65e5",
+        "task_item": "",
+        "task_tag": "\u7a0d\u7b49\u6570\u65e5",
+        "condition": 61,
+        "main_task_id": 10110,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10110001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": [
+            2025,
+            2,
+            20,
+            7,
+            0,
+            0
+        ]
+    },
+    "10111001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5728\u300c\u6cf0\u5e9c\u65b0\u79c0\u300d\u4e2d\u7b54\u5bf920\u9053\u9898",
+        "task_item": "",
+        "task_tag": "\u5728\u300c\u6cf0\u5e9c\u65b0\u79c0\u300d\u4e2d\u7b54\u5bf920\u9053\u9898",
+        "condition": 18002,
+        "main_task_id": 10111,
+        "need": 20,
+        "hide_task": 0,
+        "task_id": 10111001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10112001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5728\u300c\u300a\u6c5f\u80e1\u300b\u9ad8\u624b\uff01\u300d\u4e2d\u901a\u8fc74\u4e2a\u4e0d\u540c\u5173\u5361",
+        "task_item": "",
+        "task_tag": "\u5728\u300c\u300a\u6c5f\u80e1\u300b\u9ad8\u624b\uff01\u300d\u4e2d\u901a\u8fc74\u4e2a\u4e0d\u540c\u5173\u5361",
+        "condition": 54037,
+        "main_task_id": 10112,
+        "need": 4,
+        "hide_task": 0,
+        "task_id": 10112001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": [
+            313431
+        ]
+    },
+    "10113001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5728\u300c\u9999\u7ee3\u8fde\u73e0\u300d\u4e2d\u8fbe\u62109\u4e2a\u5173\u5361\u76ee\u6807",
+        "task_item": "",
+        "task_tag": "\u5728\u300c\u9999\u7ee3\u8fde\u73e0\u300d\u4e2d\u8fbe\u62109\u4e2a\u5173\u5361\u76ee\u6807",
+        "condition": 170003,
+        "main_task_id": 10113,
+        "need": 9,
+        "hide_task": 0,
+        "task_id": 10113001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": [
+            313531
+        ]
+    },
+    "10114001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u53c2\u4e0e\u300c\u6d6e\u5149\u7ece\u66f2\u300d\u73a9\u6cd5\uff0c\u5b8c\u6210\u300cWordless Song for a Starry Night\u300d\u666e\u901a\u96be\u5ea61\u6b21",
+        "task_item": "",
+        "task_tag": "\u53c2\u4e0e\u300c\u6d6e\u5149\u7ece\u66f2\u300d\u73a9\u6cd5\uff0c\u5b8c\u6210\u300cWordless Song for a Starry Night\u300d\u666e\u901a\u96be\u5ea61\u6b21",
+        "condition": 50103,
+        "main_task_id": 10114,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10114001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": [
+            311491,
+            1,
+            5
+        ]
+    },
+    "10115001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u9690\u85cf\u4efb\u52a1\uff0c\u6240\u6709\u4e3b\u7ebf\u5b8c\u6210\u540e\u64ad\u653e\u5267\u60c5",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10115,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10115001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10117001": {
+        "task_blueprint_sign": 2,
+        "task_target": "\u9690\u85cf\u4efb\u52a1\uff0c\u7b49\u5f85\u65f6\u95f4\u5230\u5927\u5e74\u521d\u4e00\u65e9\u4e0a5\u70b9\u5b8c\u6210",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 61,
+        "main_task_id": 10117,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10117001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": [
+            2025,
+            1,
+            29,
+            5,
+            0,
+            0
+        ]
+    },
+    "10118001": {
+        "task_blueprint_sign": 2,
+        "task_target": "\u9690\u85cf\u4efb\u52a1\uff0c\u7b49\u5f85\u65f6\u95f4\u52303.11\u7248\u672c\u4e0a\u7ebf\u65e9\u4e0a7\u70b9\u5b8c\u6210",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 61,
+        "main_task_id": 10118,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10118001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": [
+            2025,
+            2,
+            20,
+            7,
+            0,
+            0
+        ]
+    },
+    "10302001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u91d1\u5b9d\u7bb1\u4efb\u52a101",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10302,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10302001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10303001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u91d1\u5b9d\u7bb1\u4efb\u52a102",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10303,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10303001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10304001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u91d1\u5b9d\u7bb1\u4efb\u52a103",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10304,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10304001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10305001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u91d1\u5b9d\u7bb1\u4efb\u52a104",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10305,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10305001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10306001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u94f6\u5b9d\u7bb1\u4efb\u52a101",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10306,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10306001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10307001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u94f6\u5b9d\u7bb1\u4efb\u52a102",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10307,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10307001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10308001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u94f6\u5b9d\u7bb1\u4efb\u52a103",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10308,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10308001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10309001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u94f6\u5b9d\u7bb1\u4efb\u52a104",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10309,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10309001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10310001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u94f6\u5b9d\u7bb1\u4efb\u52a105",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10310,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10310001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10311001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u94f6\u5b9d\u7bb1\u4efb\u52a106",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10311,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10311001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10312001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u94f6\u5b9d\u7bb1\u4efb\u52a107",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10312,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10312001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10313001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u94f6\u5b9d\u7bb1\u4efb\u52a108",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10313,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10313001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10314001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u94f6\u5b9d\u7bb1\u4efb\u52a109",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10314,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10314001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10315001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u94f6\u5b9d\u7bb1\u4efb\u52a110",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10315,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10315001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10320001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u8d70\u683c\u5b50\u4efb\u52a101",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10320,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10320001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10321001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u8d70\u683c\u5b50\u4efb\u52a102",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10321,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10321001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10322001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u8d70\u683c\u5b50\u4efb\u52a103",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10322,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10322001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10325001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u56fe\u9274-\u65e0\u540d\u7684\u4fe1\u5c01",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10325,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10325001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10326001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u56fe\u9274-\u51f6\u517d\u51fa\u6ca1\u6ce8\u610f\uff01",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10326,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10326001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10327001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u56fe\u9274-\u5c0f\u4e66\u5305",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10327,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10327001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10328001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u56fe\u9274-\u6389\u843d\u7684\u8bb8\u613f\u7b7e",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10328,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10328001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10329001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u56fe\u9274-\u4e00\u888b\u6210\u8863",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10329,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10329001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10330001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u56fe\u9274-\u65b0\u6cf0\u65e7\u53f2",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10330,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10330001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10331001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u56fe\u9274-\u91d1\u4e4c\u964d\u9b54\u4f20",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10331,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10331001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10332001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u56fe\u9274-\u684c\u6e38\u9ad8\u624b",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10332,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10332001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10333001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u56fe\u9274-\u5929\u7984\u660e\u73e0",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10333,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10333001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10334001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u56fe\u9274-\u795e\u79d8\u7684\u673a\u5173",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10334,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10334001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10345001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u542c\u542c\u7984\u826f\u7684\u8bf7\u6c42",
+        "task_item": "",
+        "task_tag": "\u6697\u5ea6\u9648\u4ed3\uff1f\uff01",
+        "condition": 60,
+        "main_task_id": 10345,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10345001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10345002": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u627e\u4e2a\u597d\u5730\u65b9\u85cf\u4e1c\u897f",
+        "task_item": "",
+        "task_tag": "\u627e\u4e2a\u597d\u5730\u65b9\u85cf\u4e1c\u897f",
+        "condition": 60,
+        "main_task_id": 10345,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10345002,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10345001
+        ],
+        "additional_parameter": []
+    },
+    "10345003": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u542c\u542c\u7984\u826f\u600e\u4e48\u8bf4",
+        "task_item": "",
+        "task_tag": "\u4e1c\u897f\u85cf\u597d\u4e86",
+        "condition": 60,
+        "main_task_id": 10345,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10345003,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10345002
+        ],
+        "additional_parameter": []
+    },
+    "10346001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u8be2\u95ee\u7984\u826f\u4e3a\u4f55\u82e6\u607c",
+        "task_item": "",
+        "task_tag": "\u5bfb\u627e\u8ba2\u5355",
+        "condition": 60,
+        "main_task_id": 10346,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10346001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10346002": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5bfb\u627e\u8fd9\u6279\u8d27\u7684\u8ba2\u5355",
+        "task_item": "",
+        "task_tag": "\u5bfb\u627e\u8fd9\u6279\u8d27\u7684\u8ba2\u5355",
+        "condition": 60,
+        "main_task_id": 10346,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10346002,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10346001
+        ],
+        "additional_parameter": []
+    },
+    "10346003": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5bfb\u627e\u7984\u826f\u63d0\u4ea4\u8ba2\u5355",
+        "task_item": "",
+        "task_tag": "\u63d0\u4ea4\u8ba2\u5355",
+        "condition": 60,
+        "main_task_id": 10346,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10346003,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10346002
+        ],
+        "additional_parameter": []
+    },
+    "10347001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u542c\u542c\u7984\u826f\u7684\u6253\u7b97",
+        "task_item": "",
+        "task_tag": "\u5c0f\u98ce\u8f66\uff0c\u547c\u547c\u547c",
+        "condition": 60,
+        "main_task_id": 10347,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10347001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10347002": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5bfb\u627e\u98ce\u8f66",
+        "task_item": "",
+        "task_tag": "\u5bfb\u627e\u98ce\u8f66",
+        "condition": 60,
+        "main_task_id": 10347,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10347002,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10347001
+        ],
+        "additional_parameter": []
+    },
+    "10347003": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5c06\u98ce\u8f66\u7ed9\u7984\u826f",
+        "task_item": "",
+        "task_tag": "\u4ea4\u8fd8\u98ce\u8f66",
+        "condition": 60,
+        "main_task_id": 10347,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10347003,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10347002
+        ],
+        "additional_parameter": []
+    },
+    "10348001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u95ee\u95ee\u7984\u826f\u600e\u4e48\u4e86",
+        "task_item": "",
+        "task_tag": "\u5439\u8d70\u7684\u798f\u7b7e",
+        "condition": 60,
+        "main_task_id": 10348,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10348001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10348002": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u627e\u5230\u88ab\u98ce\u5439\u8d70\u7684\u798f\u7b7e",
+        "task_item": "",
+        "task_tag": "\u5bfb\u627e\u798f\u7b7e",
+        "condition": 60,
+        "main_task_id": 10348,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10348002,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10348001
+        ],
+        "additional_parameter": []
+    },
+    "10348003": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5c06\u798f\u7b7e\u4ea4\u7ed9\u7984\u826f",
+        "task_item": "",
+        "task_tag": "\u4ea4\u8fd8",
+        "condition": 60,
+        "main_task_id": 10348,
+        "need": 1,
+        "hide_task": 0,
+        "task_id": 10348003,
+        "pre_operation": 2,
+        "pre_task_id": [
+            10348002
+        ],
+        "additional_parameter": []
+    },
+    "10350001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5b5f\u7ae0-\u9910\u9986\u7ecf\u8425",
+        "task_item": "",
+        "task_tag": "\u5b5f\u7ae0-\u9910\u9986\u7ecf\u8425",
+        "condition": 60,
+        "main_task_id": 10350,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10350001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10352001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u7ea2\u6bdb-\u6253\u724c",
+        "task_item": "",
+        "task_tag": "\u7ea2\u6bdb-\u6253\u724c",
+        "condition": 60,
+        "main_task_id": 10352,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10352001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10353001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u8001\u9a6c-\u6253\u724c1",
+        "task_item": "",
+        "task_tag": "\u8001\u9a6c-\u6253\u724c1",
+        "condition": 60,
+        "main_task_id": 10353,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10353001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10354001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5df4\u4e1d\u7279-\u6253\u724c2",
+        "task_item": "",
+        "task_tag": "\u5df4\u4e1d\u7279-\u6253\u724c2",
+        "condition": 60,
+        "main_task_id": 10354,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10354001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10355001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u6697\u5fa1\u6d25\u7fbd-\u6253\u724c3",
+        "task_item": "",
+        "task_tag": "\u6697\u5fa1\u6d25\u7fbd-\u6253\u724c3",
+        "condition": 60,
+        "main_task_id": 10355,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10355001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10356001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u5e9a\u8fb0-\u6253\u724c4",
+        "task_item": "",
+        "task_tag": "\u5e9a\u8fb0-\u6253\u724c4",
+        "condition": 60,
+        "main_task_id": 10356,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10356001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10357001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u82f1\u62db-\u8d2a\u5403\u86c7",
+        "task_item": "",
+        "task_tag": "\u82f1\u62db-\u8d2a\u5403\u86c7",
+        "condition": 60,
+        "main_task_id": 10357,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10357001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10358001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u9675\u5149-\u97f3\u6e38",
+        "task_item": "",
+        "task_tag": "\u9675\u5149-\u97f3\u6e38",
+        "condition": 60,
+        "main_task_id": 10358,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10358001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10359001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u963f\u4fee\u7f57-\u7b54\u9898",
+        "task_item": "",
+        "task_tag": "\u963f\u4fee\u7f57-\u7b54\u9898",
+        "condition": 60,
+        "main_task_id": 10359,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10359001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10360001": {
+        "task_blueprint_sign": 0,
+        "task_target": "\u9646\u543e-\u7956\u739b",
+        "task_item": "",
+        "task_tag": "\u9646\u543e-\u7956\u739b",
+        "condition": 60,
+        "main_task_id": 10360,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10360001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10361001": {
+        "task_blueprint_sign": 0,
+        "task_target": "",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10361,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10361001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10362001": {
+        "task_blueprint_sign": 0,
+        "task_target": "",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 60,
+        "main_task_id": 10362,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10362001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": []
+    },
+    "10401001": {
+        "task_blueprint_sign": 2,
+        "task_target": "",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 54038,
+        "main_task_id": 10401,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10401001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": [
+            102
+        ]
+    },
+    "10402001": {
+        "task_blueprint_sign": 2,
+        "task_target": "",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 54038,
+        "main_task_id": 10402,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10402001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": [
+            112
+        ]
+    },
+    "10403001": {
+        "task_blueprint_sign": 2,
+        "task_target": "",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 54038,
+        "main_task_id": 10403,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10403001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": [
+            114
+        ]
+    },
+    "10404001": {
+        "task_blueprint_sign": 2,
+        "task_target": "",
+        "task_item": "",
+        "task_tag": "",
+        "condition": 54038,
+        "main_task_id": 10404,
+        "need": 1,
+        "hide_task": 1,
+        "task_id": 10404001,
+        "pre_operation": 2,
+        "pre_task_id": [],
+        "additional_parameter": [
+            124
+        ]
+    },
+    "get_id_list_by_main_task_id": {
+        "10404": [
+            10404001
+        ],
+        "10403": [
+            10403001
+        ],
+        "10402": [
+            10402001
+        ],
+        "10401": [
+            10401001
+        ],
+        "10362": [
+            10362001
+        ],
+        "10361": [
+            10361001
+        ],
+        "10360": [
+            10360001
+        ],
+        "10359": [
+            10359001
+        ],
+        "10358": [
+            10358001
+        ],
+        "10357": [
+            10357001
+        ],
+        "10356": [
+            10356001
+        ],
+        "10355": [
+            10355001
+        ],
+        "10354": [
+            10354001
+        ],
+        "10353": [
+            10353001
+        ],
+        "10352": [
+            10352001
+        ],
+        "10350": [
+            10350001
+        ],
+        "10348": [
+            10348001,
+            10348002,
+            10348003
+        ],
+        "10347": [
+            10347001,
+            10347002,
+            10347003
+        ],
+        "10346": [
+            10346001,
+            10346002,
+            10346003
+        ],
+        "10345": [
+            10345001,
+            10345002,
+            10345003
+        ],
+        "10334": [
+            10334001
+        ],
+        "10333": [
+            10333001
+        ],
+        "10332": [
+            10332001
+        ],
+        "10331": [
+            10331001
+        ],
+        "10330": [
+            10330001
+        ],
+        "10329": [
+            10329001
+        ],
+        "10328": [
+            10328001
+        ],
+        "10327": [
+            10327001
+        ],
+        "10326": [
+            10326001
+        ],
+        "10325": [
+            10325001
+        ],
+        "10322": [
+            10322001
+        ],
+        "10321": [
+            10321001
+        ],
+        "10320": [
+            10320001
+        ],
+        "10315": [
+            10315001
+        ],
+        "10314": [
+            10314001
+        ],
+        "10313": [
+            10313001
+        ],
+        "10312": [
+            10312001
+        ],
+        "10311": [
+            10311001
+        ],
+        "10310": [
+            10310001
+        ],
+        "10309": [
+            10309001
+        ],
+        "10308": [
+            10308001
+        ],
+        "10307": [
+            10307001
+        ],
+        "10306": [
+            10306001
+        ],
+        "10305": [
+            10305001
+        ],
+        "10304": [
+            10304001
+        ],
+        "10303": [
+            10303001
+        ],
+        "10302": [
+            10302001
+        ],
+        "10118": [
+            10118001
+        ],
+        "10117": [
+            10117001
+        ],
+        "10115": [
+            10115001
+        ],
+        "10114": [
+            10114001
+        ],
+        "10113": [
+            10113001
+        ],
+        "10112": [
+            10112001
+        ],
+        "10111": [
+            10111001
+        ],
+        "10110": [
+            10110001
+        ],
+        "10109": [
+            10109001
+        ],
+        "10108": [
+            10108001,
+            10108002,
+            10108003,
+            10108004,
+            10108005,
+            10108006
+        ],
+        "10107": [
+            10107001
+        ],
+        "10106": [
+            10106001
+        ],
+        "10116": [
+            10105004
+        ],
+        "10105": [
+            10105001,
+            10105002,
+            10105003
+        ],
+        "10104": [
+            10104001,
+            10104002
+        ],
+        "10103": [
+            10103001,
+            10103002,
+            10103003
+        ],
+        "10102": [
+            10102001,
+            10102002
+        ],
+        "10101": [
+            10101001
+        ],
+        "202": [
+            202
+        ],
+        "201": [
+            201
+        ],
+        "101": [
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109
+        ]
+    },
+    "all": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        201,
+        202,
+        10101001,
+        10102001,
+        10102002,
+        10103001,
+        10103002,
+        10103003,
+        10104001,
+        10104002,
+        10105001,
+        10105002,
+        10105003,
+        10105004,
+        10106001,
+        10107001,
+        10108001,
+        10108002,
+        10108003,
+        10108004,
+        10108005,
+        10108006,
+        10109001,
+        10110001,
+        10111001,
+        10112001,
+        10113001,
+        10114001,
+        10115001,
+        10117001,
+        10118001,
+        10302001,
+        10303001,
+        10304001,
+        10305001,
+        10306001,
+        10307001,
+        10308001,
+        10309001,
+        10310001,
+        10311001,
+        10312001,
+        10313001,
+        10314001,
+        10315001,
+        10320001,
+        10321001,
+        10322001,
+        10325001,
+        10326001,
+        10327001,
+        10328001,
+        10329001,
+        10330001,
+        10331001,
+        10332001,
+        10333001,
+        10334001,
+        10345001,
+        10345002,
+        10345003,
+        10346001,
+        10346002,
+        10346003,
+        10347001,
+        10347002,
+        10347003,
+        10348001,
+        10348002,
+        10348003,
+        10350001,
+        10352001,
+        10353001,
+        10354001,
+        10355001,
+        10356001,
+        10357001,
+        10358001,
+        10359001,
+        10360001,
+        10361001,
+        10362001,
+        10401001,
+        10402001,
+        10403001,
+        10404001
+    ]
+}

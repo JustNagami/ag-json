@@ -1343,6 +1343,294 @@
             0
         ]
     },
+    "5220501": {
+        "monster_level": 80,
+        "name": "\u9707\u52a8",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024558,
+        "background_1": "I14a",
+        "tips": "\u8f7b\u5fae\u9707\u611f\uff0c\u76d1\u6d4b\u5230\u7684\u9ab8\u80fd\u9608\u503c\u8f83\u4f4e\uff0c\u65e0\u4eba\u5458\u4f24\u4ea1\u53ca\u8d22\u4ea7\u635f\u5931\u3002\u989d\u5916\u534f\u52a9\uff1a\u53d7\u5230\u73af\u5883\u5f71\u54cd\uff0c<color=#E78300>\u654c\u4eba\u53d7\u5230\u6c34\u5c5e\u6027\u4f24\u5bb3\u63d0\u5347</color>",
+        "map": "5220501",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5220501,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            50000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5220502": {
+        "monster_level": 80,
+        "name": "\u88c2\u7f1d",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024559,
+        "background_1": "I13c",
+        "tips": "\u8868\u5c42\u4e0e\u6e90\u5c42\u95f4\u7684\u7f1d\u9699\uff0c\u8303\u56f4\u4e3a6.33*2.09\uff0c\u9700\u4f18\u5148\u5904\u7406\u3002\u989d\u5916\u534f\u52a9\uff1a\u53d7\u5230\u73af\u5883\u5f71\u54cd\uff0c<color=#E78300>\u4fee\u6b63\u8005\u80fd\u91cf\u83b7\u53d6\u7387\u589e\u52a0</color>",
+        "map": "5220502",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5220502,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            25000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5220503": {
+        "monster_level": 80,
+        "name": "\u584c\u9677",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024560,
+        "background_1": "F09",
+        "tips": "\u90e8\u5206\u533a\u57df\u62df\u6001\u6784\u6210\u5931\u6548\uff0c\u5df2\u6709\u4eba\u5458\u4f24\u4ea1\uff0c\u9700\u4f18\u5148\u5904\u7406\u3002\u989d\u5916\u534f\u52a9\uff1a\u53d7\u5230\u73af\u5883\u5f71\u54cd\uff0c<color=#E78300>\u5723\u6811\u9635\u8425\u4fee\u6b63\u8005\u4f24\u5bb3\u63d0\u5347\uff0c\u653b\u51fb\u989d\u5916\u9020\u6210\u4e00\u6b21\u4f24\u5bb3</color>",
+        "map": "5220503",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5220503,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            27000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5220504": {
+        "monster_level": 80,
+        "name": "\u672a\u77e5",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024561,
+        "background_1": "A07",
+        "tips": "\u9519\u8bef\u7684\u4fe1\u606f\u6240\u5bfc\u81f4\u7684\u7ed3\u679c\u5c31\u662f\u2014\u2014\u524d\u8def\u7686\u4e3a\u8ff7\u9014\u3002",
+        "map": "5220504",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5220504,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            14500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5230201": {
+        "monster_level": 80,
+        "name": "\u9707\u52a8",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024562,
+        "background_1": "D06a",
+        "tips": "\u8f7b\u5fae\u9707\u611f\uff0c\u76d1\u6d4b\u5230\u7684\u9ab8\u80fd\u9608\u503c\u8f83\u4f4e\uff0c\u65e0\u4eba\u5458\u4f24\u4ea1\u53ca\u8d22\u4ea7\u635f\u5931\u3002\u989d\u5916\u534f\u52a9\uff1a\u53d7\u5230\u73af\u5883\u5f71\u54cd\uff0c<color=#E78300>\u654c\u4eba\u53d7\u5230\u7269\u7406\u5c5e\u6027\u4f24\u5bb3\u63d0\u5347</color>",
+        "map": "5230201",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5230201,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            42000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5230202": {
+        "monster_level": 80,
+        "name": "\u88c2\u7f1d",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024563,
+        "background_1": "B01",
+        "tips": "\u8868\u5c42\u4e0e\u6e90\u5c42\u95f4\u7684\u7f1d\u9699\uff0c\u8303\u56f4\u4e3a6.33*2.09\uff0c\u9700\u4f18\u5148\u5904\u7406\u3002\u989d\u5916\u534f\u52a9\uff1a<color=#E78300>\u53d7\u5230\u73af\u5883\u5f71\u54cd\uff0c\u4fee\u6b63\u8005\u5370\u8bb0\u83b7\u53d6\u7387\u589e\u52a0</color>",
+        "map": "5230202",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5230202,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            25000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5230203": {
+        "monster_level": 80,
+        "name": "\u584c\u9677",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024564,
+        "background_1": "B04",
+        "tips": "\u90e8\u5206\u533a\u57df\u62df\u6001\u6784\u6210\u5931\u6548\uff0c\u5df2\u6709\u4eba\u5458\u4f24\u4ea1\uff0c\u9700\u4f18\u5148\u5904\u7406\u3002\u989d\u5916\u534f\u52a9\uff1a<color=#E78300>\u53d7\u5230\u73af\u5883\u5f71\u54cd\uff0c\u5c3c\u7f57\u9635\u8425\u4fee\u6b63\u8005\u4f24\u5bb3\u63d0\u5347\uff0c\u653b\u51fb\u989d\u5916\u9020\u6210\u4e00\u6b21\u4f24\u5bb3</color>",
+        "map": "5230203",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5230203,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            27000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5230204": {
+        "monster_level": 80,
+        "name": "\u672a\u77e5",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024565,
+        "background_1": "A07",
+        "tips": "\u9519\u8bef\u7684\u4fe1\u606f\u6240\u5bfc\u81f4\u7684\u7ed3\u679c\u5c31\u662f\u2014\u2014\u524d\u8def\u7686\u4e3a\u8ff7\u9014\u3002",
+        "map": "5230204",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5230204,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            13000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5230301": {
+        "monster_level": 80,
+        "name": "\u9707\u52a8",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "I16",
+        "tips": "\u8f7b\u5fae\u9707\u611f\uff0c\u76d1\u6d4b\u5230\u7684\u9ab8\u80fd\u9608\u503c\u8f83\u4f4e\uff0c\u65e0\u4eba\u5458\u4f24\u4ea1\u53ca\u8d22\u4ea7\u635f\u5931\u3002\u989d\u5916\u534f\u52a9\uff1a\u53d7\u5230\u73af\u5883\u5f71\u54cd\uff0c<color=#E78300>\u654c\u4eba\u53d7\u5230\u5149\u5c5e\u6027\u4f24\u5bb3\u63d0\u5347</color>",
+        "map": "5230301",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5230301,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            50000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5230302": {
+        "monster_level": 80,
+        "name": "\u88c2\u7f1d",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "I17",
+        "tips": "\u8868\u5c42\u4e0e\u6e90\u5c42\u95f4\u7684\u7f1d\u9699\uff0c\u8303\u56f4\u4e3a6.33*2.09\uff0c\u9700\u4f18\u5148\u5904\u7406\u3002\u989d\u5916\u534f\u52a9\uff1a\u53d7\u5230\u73af\u5883\u5f71\u54cd\uff0c<color=#E78300>\u4fee\u6b63\u8005\u6012\u6c14\u83b7\u53d6\u7387\u589e\u52a0</color>",
+        "map": "5230302",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5230302,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            25000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5230303": {
+        "monster_level": 80,
+        "name": "\u584c\u9677",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "I17a",
+        "tips": "\u90e8\u5206\u533a\u57df\u62df\u6001\u6784\u6210\u5931\u6548\uff0c\u5df2\u6709\u4eba\u5458\u4f24\u4ea1\uff0c\u9700\u4f18\u5148\u5904\u7406\u3002\u989d\u5916\u534f\u52a9\uff1a\u53d7\u5230\u73af\u5883\u5f71\u54cd\uff0c<color=#E78300>\u5929\u57a3\u9635\u8425\u4fee\u6b63\u8005\u4f24\u5bb3\u63d0\u5347\uff0c\u653b\u51fb\u989d\u5916\u9020\u6210\u4e00\u6b21\u4f24\u5bb3</color>",
+        "map": "5230303",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5230303,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            27000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5230304": {
+        "monster_level": 80,
+        "name": "\u672a\u77e5",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "A07",
+        "tips": "\u9519\u8bef\u7684\u4fe1\u606f\u6240\u5bfc\u81f4\u7684\u7ed3\u679c\u5c31\u662f\u2014\u2014\u524d\u8def\u7686\u4e3a\u8ff7\u9014\u3002",
+        "map": "5230304",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5230304,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            14500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
     "all": [
         5130201,
         5130202,
@@ -1399,6 +1687,18 @@
         5220401,
         5220402,
         5220403,
-        5220404
+        5220404,
+        5220501,
+        5220502,
+        5220503,
+        5220504,
+        5230201,
+        5230202,
+        5230203,
+        5230204,
+        5230301,
+        5230302,
+        5230303,
+        5230304
     ]
 }

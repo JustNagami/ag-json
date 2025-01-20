@@ -351,6 +351,182 @@
             14
         ]
     },
+    "5220601": {
+        "tips": "",
+        "name": "\u6d4b\u8bd5\u5c5e\u6027\u00b7\u7269\u7406",
+        "monster_level": 80,
+        "ai_level": 4,
+        "id": 5220601,
+        "map": "5170401",
+        "need_default_team": 1,
+        "background_1": "A07",
+        "attribute_factor": [
+            1100,
+            1000,
+            16000
+        ],
+        "team_type": [
+            305,
+            0
+        ],
+        "recommend_attribute_list": [
+            0
+        ]
+    },
+    "5220602": {
+        "tips": "",
+        "name": "\u6d4b\u8bd5\u5c5e\u6027\u00b7\u98ce",
+        "monster_level": 80,
+        "ai_level": 4,
+        "id": 5220602,
+        "map": "5170402",
+        "need_default_team": 1,
+        "background_1": "A07",
+        "attribute_factor": [
+            1100,
+            1000,
+            16000
+        ],
+        "team_type": [
+            305,
+            0
+        ],
+        "recommend_attribute_list": [
+            2
+        ]
+    },
+    "5220603": {
+        "tips": "",
+        "name": "\u6d4b\u8bd5\u5c5e\u6027\u00b7\u706b",
+        "monster_level": 80,
+        "ai_level": 4,
+        "id": 5220603,
+        "map": "5170403",
+        "need_default_team": 1,
+        "background_1": "A07",
+        "attribute_factor": [
+            1100,
+            1000,
+            15000
+        ],
+        "team_type": [
+            305,
+            0
+        ],
+        "recommend_attribute_list": [
+            4
+        ]
+    },
+    "5220604": {
+        "tips": "",
+        "name": "\u6d4b\u8bd5\u5c5e\u6027\u00b7\u51b0",
+        "monster_level": 80,
+        "ai_level": 4,
+        "id": 5220604,
+        "map": "5170404",
+        "need_default_team": 1,
+        "background_1": "A07",
+        "attribute_factor": [
+            1100,
+            1000,
+            16000
+        ],
+        "team_type": [
+            305,
+            0
+        ],
+        "recommend_attribute_list": [
+            6
+        ]
+    },
+    "5220605": {
+        "tips": "",
+        "name": "\u6d4b\u8bd5\u5c5e\u6027\u00b7\u6c34",
+        "monster_level": 80,
+        "ai_level": 4,
+        "id": 5220605,
+        "map": "5170405",
+        "need_default_team": 1,
+        "background_1": "A07",
+        "attribute_factor": [
+            1100,
+            1000,
+            16000
+        ],
+        "team_type": [
+            305,
+            0
+        ],
+        "recommend_attribute_list": [
+            8
+        ]
+    },
+    "5220606": {
+        "tips": "",
+        "name": "\u6d4b\u8bd5\u5c5e\u6027\u00b7\u6697",
+        "monster_level": 80,
+        "ai_level": 4,
+        "id": 5220606,
+        "map": "5170406",
+        "need_default_team": 1,
+        "background_1": "A07",
+        "attribute_factor": [
+            1100,
+            1000,
+            16000
+        ],
+        "team_type": [
+            305,
+            0
+        ],
+        "recommend_attribute_list": [
+            10
+        ]
+    },
+    "5220607": {
+        "tips": "",
+        "name": "\u6d4b\u8bd5\u5c5e\u6027\u00b7\u5149",
+        "monster_level": 80,
+        "ai_level": 4,
+        "id": 5220607,
+        "map": "5170407",
+        "need_default_team": 1,
+        "background_1": "A07",
+        "attribute_factor": [
+            1100,
+            1000,
+            16000
+        ],
+        "team_type": [
+            305,
+            0
+        ],
+        "recommend_attribute_list": [
+            12
+        ]
+    },
+    "5220608": {
+        "tips": "",
+        "name": "\u6d4b\u8bd5\u5c5e\u6027\u00b7\u96f7",
+        "monster_level": 80,
+        "ai_level": 4,
+        "id": 5220608,
+        "map": "5170408",
+        "need_default_team": 1,
+        "background_1": "A07",
+        "attribute_factor": [
+            1100,
+            1000,
+            16000
+        ],
+        "team_type": [
+            305,
+            0
+        ],
+        "recommend_attribute_list": [
+            14
+        ]
+    },
     "all": [
         5140201,
         5140202,
@@ -367,6 +543,14 @@
         5170405,
         5170406,
         5170407,
-        5170408
+        5170408,
+        5220601,
+        5220602,
+        5220603,
+        5220604,
+        5220605,
+        5220606,
+        5220607,
+        5220608
     ]
 }

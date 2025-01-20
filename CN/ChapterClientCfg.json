@@ -2534,6 +2534,26 @@
             6010125
         ]
     },
+    "6010015": {
+        "not_chapter_id": false,
+        "name": "\u96e8\u58f0",
+        "id": 6010015,
+        "chapter_paint": "bg_activity_17",
+        "show_tag_type": 0,
+        "extra_strory_system": "",
+        "jump_system": "",
+        "desc": "\u652f\u7ebf\u5267\u60c5",
+        "extra_story_unlock_condition": "",
+        "chapter_paint_2": "bg_sideStory_17",
+        "asset_pend_key": "assetpend_common_branch_p",
+        "drop_icon": "",
+        "toggle": 5,
+        "level": 1,
+        "chapter_list": [
+            6010126,
+            6010127
+        ]
+    },
     "get_id_list_by_toggle": {
         "5": [
             6010001,
@@ -2548,7 +2568,8 @@
             6010011,
             6010012,
             6010013,
-            6010014
+            6010014,
+            6010015
         ],
         "504": [
             5040000
@@ -2810,6 +2831,7 @@
         6010011,
         6010012,
         6010013,
-        6010014
+        6010014,
+        6010015
     ]
 }

@@ -1,0 +1,411 @@
+{
+    "101": {
+        "name": "\u57fa\u7840\u6559\u5b66\u00b7\u5176\u4e00",
+        "ai_level": 0,
+        "freedom": 1,
+        "desc": "\u6559\u5b66\u00b7\u5176\u4e00",
+        "activity_id": 313431,
+        "id": 101,
+        "pre_id": 0,
+        "ai_cards": [
+            1,
+            5,
+            6,
+            1,
+            2
+        ],
+        "reward_list": [],
+        "player_cards": [
+            1,
+            1,
+            2,
+            2,
+            4,
+            5,
+            5,
+            6,
+            7,
+            7
+        ]
+    },
+    "102": {
+        "name": "\u57fa\u7840\u6559\u5b66\u00b7\u5176\u4e8c",
+        "ai_level": 0,
+        "freedom": 1,
+        "desc": "\u6559\u5b66\u00b7\u5176\u4e8c",
+        "activity_id": 313431,
+        "id": 102,
+        "pre_id": 101,
+        "ai_cards": [
+            1,
+            1,
+            5,
+            5,
+            6,
+            6,
+            3,
+            3,
+            8,
+            2
+        ],
+        "reward_list": [
+            [
+                53137,
+                1
+            ],
+            [
+                53130,
+                1
+            ]
+        ],
+        "player_cards": [
+            1,
+            1,
+            2,
+            32,
+            12,
+            3,
+            4,
+            8,
+            5,
+            5,
+            6,
+            6,
+            7
+        ]
+    },
+    "111": {
+        "name": "\u82ad\u4e1d\u7279\u00b7\u5176\u4e00",
+        "ai_level": 0,
+        "freedom": 0,
+        "player_cards": "",
+        "desc": "\u82ad\u4e1d\u7279\u00b7\u5176\u4e00",
+        "activity_id": 313451,
+        "id": 111,
+        "pre_id": 102,
+        "ai_cards": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            8,
+            6,
+            6,
+            7,
+            8,
+            7
+        ],
+        "reward_list": [
+            [
+                53138,
+                1
+            ]
+        ]
+    },
+    "112": {
+        "name": "\u82ad\u4e1d\u7279\u00b7\u5176\u4e8c",
+        "ai_level": 0,
+        "freedom": 0,
+        "player_cards": "",
+        "desc": "\u82ad\u4e1d\u7279\u00b7\u5176\u4e8c",
+        "activity_id": 313451,
+        "id": 112,
+        "pre_id": 111,
+        "ai_cards": [
+            1,
+            1,
+            2,
+            2,
+            12,
+            3,
+            12,
+            4,
+            5,
+            5,
+            6,
+            6,
+            7,
+            8,
+            7
+        ],
+        "reward_list": [
+            [
+                53133,
+                1
+            ]
+        ]
+    },
+    "113": {
+        "name": "\u9a6c\u5c14\u675c\u514b\u00b7\u5176\u4e00",
+        "ai_level": 0,
+        "freedom": 0,
+        "player_cards": "",
+        "desc": "\u9a6c\u5c14\u675c\u514b\u00b7\u5176\u4e00",
+        "activity_id": 313451,
+        "id": 113,
+        "pre_id": 112,
+        "ai_cards": [
+            1,
+            1,
+            2,
+            2,
+            5,
+            3,
+            4,
+            4,
+            12,
+            5,
+            6,
+            6,
+            7,
+            15,
+            7
+        ],
+        "reward_list": [
+            [
+                53131,
+                1
+            ]
+        ]
+    },
+    "114": {
+        "name": "\u9a6c\u5c14\u675c\u514b\u00b7\u5176\u4e8c",
+        "ai_level": 1,
+        "freedom": 0,
+        "player_cards": "",
+        "desc": "\u9a6c\u5c14\u675c\u514b\u00b7\u5176\u4e8c",
+        "activity_id": 313451,
+        "id": 114,
+        "pre_id": 113,
+        "ai_cards": [
+            1,
+            1,
+            2,
+            2,
+            15,
+            3,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            13,
+            13,
+            16
+        ],
+        "reward_list": [
+            [
+                53134,
+                1
+            ]
+        ]
+    },
+    "121": {
+        "name": "\u6697\u5fa1\u6d25\u7fbd\u00b7\u5176\u4e00",
+        "ai_level": 1,
+        "freedom": 0,
+        "player_cards": "",
+        "desc": "\u6697\u5fa1\u6d25\u7fbd\u00b7\u5176\u4e00",
+        "activity_id": 313452,
+        "id": 121,
+        "pre_id": 114,
+        "ai_cards": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            11,
+            4,
+            4,
+            16,
+            5,
+            6,
+            6,
+            7,
+            15,
+            7
+        ],
+        "reward_list": [
+            [
+                53129,
+                1
+            ]
+        ]
+    },
+    "122": {
+        "name": "\u6697\u5fa1\u6d25\u7fbd\u00b7\u5176\u4e8c",
+        "ai_level": 1,
+        "freedom": 0,
+        "player_cards": "",
+        "desc": "\u6697\u5fa1\u6d25\u7fbd\u00b7\u5176\u4e8c",
+        "activity_id": 313452,
+        "id": 122,
+        "pre_id": 121,
+        "ai_cards": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            7,
+            32,
+            7
+        ],
+        "reward_list": [
+            [
+                53136,
+                1
+            ]
+        ]
+    },
+    "123": {
+        "name": "\u6697\u5fa1\u6d25\u7fbd\u00b7\u5176\u4e09",
+        "ai_level": 2,
+        "freedom": 0,
+        "player_cards": "",
+        "desc": "\u6697\u5fa1\u6d25\u7fbd\u00b7\u5176\u4e09",
+        "activity_id": 313452,
+        "id": 123,
+        "pre_id": 122,
+        "ai_cards": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            4,
+            4,
+            5,
+            5,
+            6,
+            6,
+            7,
+            31,
+            7
+        ],
+        "reward_list": [
+            [
+                53132,
+                1
+            ]
+        ]
+    },
+    "124": {
+        "name": "\u6697\u5fa1\u6d25\u7fbd\u00b7\u5176\u56db",
+        "ai_level": 2,
+        "freedom": 0,
+        "player_cards": "",
+        "desc": "\u6697\u5fa1\u6d25\u7fbd\u00b7\u5176\u56db",
+        "activity_id": 313452,
+        "id": 124,
+        "pre_id": 123,
+        "ai_cards": [
+            1,
+            1,
+            2,
+            2,
+            3,
+            11,
+            13,
+            4,
+            5,
+            14,
+            6,
+            11,
+            13,
+            34,
+            7
+        ],
+        "reward_list": [
+            [
+                53139,
+                1
+            ]
+        ]
+    },
+    "131": {
+        "name": "\u5e9a\u8fb0\u00b7\u5176\u4e00",
+        "ai_level": 2,
+        "freedom": 0,
+        "player_cards": "",
+        "desc": "\u5e9a\u8fb0\u00b7\u5176\u4e00",
+        "activity_id": 313453,
+        "id": 131,
+        "pre_id": 124,
+        "ai_cards": [
+            1,
+            1,
+            32,
+            2,
+            13,
+            13,
+            16,
+            11,
+            14,
+            5,
+            2,
+            6,
+            3,
+            31,
+            7
+        ],
+        "reward_list": []
+    },
+    "132": {
+        "name": "\u5e9a\u8fb0\u00b7\u5176\u4e8c",
+        "ai_level": 2,
+        "freedom": 0,
+        "player_cards": "",
+        "desc": "\u5e9a\u8fb0\u00b7\u5176\u4e8c",
+        "activity_id": 313453,
+        "id": 132,
+        "pre_id": 124,
+        "ai_cards": [
+            1,
+            13,
+            2,
+            3,
+            1,
+            11,
+            11,
+            14,
+            14,
+            16,
+            6,
+            5,
+            33,
+            34,
+            3
+        ],
+        "reward_list": []
+    },
+    "all": [
+        101,
+        102,
+        111,
+        112,
+        113,
+        114,
+        121,
+        122,
+        123,
+        124,
+        131,
+        132
+    ]
+}

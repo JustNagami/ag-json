@@ -151,7 +151,73 @@
         "start_path": "SofdecAsset/function/dlc/115002_login.usm",
         "skin_id": 115002
     },
+    "106102": {
+        "special_scene_id_2": 0,
+        "special_action_2": "",
+        "special_scene_id": 6024,
+        "special_action": "106102ui_custom",
+        "start_path": "SofdecAsset/function/dlc/106102_login.usm",
+        "skin_id": 106102
+    },
+    "113301": {
+        "special_scene_id_2": 0,
+        "special_action_2": "",
+        "special_scene_id": 6025,
+        "special_action": "113301ui_custom",
+        "start_path": "SofdecAsset/function/dlc/113301_login.usm",
+        "skin_id": 113301
+    },
+    "107002": {
+        "special_scene_id_2": 0,
+        "special_action_2": "",
+        "special_scene_id": 6026,
+        "special_action": "107002ui_custom",
+        "start_path": "SofdecAsset/function/dlc/107002_login.usm",
+        "skin_id": 107002
+    },
+    "103401": {
+        "special_scene_id_2": 0,
+        "special_action_2": "",
+        "special_scene_id": 6027,
+        "special_action": "103401ui_custom",
+        "start_path": "SofdecAsset/function/dlc/103401_login.usm",
+        "skin_id": 103401
+    },
+    "102202": {
+        "special_scene_id_2": 0,
+        "special_action_2": "",
+        "special_scene_id": 6028,
+        "special_action": "102202ui_custom",
+        "start_path": "SofdecAsset/function/dlc/102202_login.usm",
+        "skin_id": 102202
+    },
+    "101502": {
+        "special_scene_id_2": 0,
+        "special_action_2": "",
+        "special_scene_id": 6029,
+        "special_action": "101502ui_custom",
+        "start_path": "SofdecAsset/function/dlc/101502_login.usm",
+        "skin_id": 101502
+    },
     "get_id_list_by_special_scene_id": {
+        "6029": [
+            101502
+        ],
+        "6028": [
+            102202
+        ],
+        "6027": [
+            103401
+        ],
+        "6026": [
+            107002
+        ],
+        "6025": [
+            113301
+        ],
+        "6024": [
+            106102
+        ],
         "6023": [
             115002
         ],
@@ -229,6 +295,12 @@
         109502,
         108901,
         128402,
-        115002
+        115002,
+        106102,
+        113301,
+        107002,
+        103401,
+        102202,
+        101502
     ]
 }

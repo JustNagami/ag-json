@@ -32,6 +32,39 @@
             -1
         ]
     },
+    "60500002": {
+        "tips": "\u300a\u96e8\u58f0\u300b - \u7a7f\u6797 \u5173\u5361\u6d41\u7a0b\u6d4b\u8bd5",
+        "name": "\u4e3b\u7ebf\u6d41\u7a0b\u6d4b\u8bd5",
+        "ai_level": 4,
+        "map": "5230111",
+        "monster_level": 80,
+        "need_default_team": 0,
+        "affix_type": "",
+        "id": 60500002,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "hero_list": [
+            [
+                6138,
+                613801
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
     "60530089": {
         "tips": "",
         "name": "\u602a\u7269\u6d4b\u8bd5",
@@ -122,6 +155,26 @@
         "need_default_team": 1,
         "affix_type": "",
         "id": 60530490,
+        "attribute_factor": [
+            1000,
+            1000,
+            200000
+        ],
+        "team_type": [
+            0,
+            0
+        ]
+    },
+    "60530510": {
+        "tips": "\u88c5\u7532\u54e8\u5175<\u5821\u5792>\u6218\u6597\u6d41\u7a0b\u6d4b\u8bd5",
+        "name": "\u5e38\u89c4\u5316\u6218\u6597\u6d4b\u8bd5",
+        "ai_level": 4,
+        "hero_list": "",
+        "map": "60530510",
+        "monster_level": 80,
+        "need_default_team": 1,
+        "affix_type": "",
+        "id": 60530510,
         "attribute_factor": [
             1000,
             1000,
@@ -314,7 +367,7 @@
     },
     "60540400": {
         "tips": "",
-        "name": "4040\u602a\u7269\u6d4b\u8bd5",
+        "name": "\u602a\u7269\u6d4b\u8bd5",
         "ai_level": 4,
         "hero_list": "",
         "map": "60540400",
@@ -442,9 +495,95 @@
             -1
         ]
     },
+    "60540440": {
+        "tips": "\u300a\u96fe\u9b47\u8ff7\u9014\u300b - \u8fc7\u6fc0\u514d\u75ab \u5173\u5361\u6d41\u7a0b\u6d4b\u8bd5",
+        "name": "\u4e3b\u7ebf\u6d41\u7a0b\u6d4b\u8bd5\u4e00",
+        "ai_level": 4,
+        "map": "60540440",
+        "monster_level": 80,
+        "need_default_team": 1,
+        "affix_type": "",
+        "id": 60540440,
+        "attribute_factor": [
+            1000,
+            1000,
+            20000
+        ],
+        "hero_list": [
+            [
+                1028,
+                202
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "60540441": {
+        "tips": "\u300a\u96fe\u9b47\u8ff7\u9014\u300b - \u4e34\u754c\u70b9 \u5173\u5361\u6d41\u7a0b\u6d4b\u8bd5",
+        "name": "\u4e3b\u7ebf\u6d41\u7a0b\u6d4b\u8bd5\u4e8c",
+        "ai_level": 4,
+        "map": "60540441",
+        "monster_level": 80,
+        "need_default_team": 1,
+        "affix_type": "",
+        "id": 60540441,
+        "attribute_factor": [
+            1000,
+            1000,
+            70000
+        ],
+        "hero_list": [
+            [
+                1133,
+                206
+            ],
+            [
+                1248,
+                203
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "60540442": {
+        "tips": "\u5f02\u5316\u539f\u578b<\u6b3a\u8bc8\u00b7\u963f\u5fb7\u62c9>\u6218\u6597\u6d41\u7a0b\u6d4b\u8bd5",
+        "name": "\u5e38\u89c4\u5316\u6218\u6597\u6d4b\u8bd5",
+        "ai_level": 4,
+        "hero_list": "",
+        "map": "60540442",
+        "monster_level": 80,
+        "need_default_team": 1,
+        "affix_type": "",
+        "id": 60540442,
+        "attribute_factor": [
+            1000,
+            1000,
+            275000
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
     "60550150": {
         "tips": "",
-        "name": "\u6d41\u7a0b\u4f53\u9a8c\u6d4b\u8bd5",
+        "name": "\u585e\u8d6b\u9ea6\u7279\u68a6\u9b47\u6d4b\u8bd5",
         "ai_level": 4,
         "map": "60550150",
         "monster_level": 80,
@@ -576,11 +715,13 @@
     },
     "all": [
         60500001,
+        60500002,
         60530089,
         60530129,
         60530289,
         60530399,
         60530490,
+        60530510,
         60540130,
         60540140,
         60540150,
@@ -594,6 +735,9 @@
         60540420,
         60540430,
         60540431,
+        60540440,
+        60540441,
+        60540442,
         60550150,
         60550950,
         60551380,

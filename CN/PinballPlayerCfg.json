@@ -1,0 +1,378 @@
+{
+    "30901": {
+        "desc": "\u795e\u5a01\u00b7\u524d\u9b3c\u574a\u5929\u72d7",
+        "hero_id": 1248,
+        "type": 1,
+        "little_icon": "TextureConfig/BackHouseUI/RoleHead/1248",
+        "max_grade": 5,
+        "activity_id": 303491,
+        "model": "CharDorm/activity/kaligames/9248_tpose",
+        "id": 30901,
+        "icon": "TextureConfig/BackHouseUI/Portrait/1248",
+        "skill_list": [
+            30901
+        ],
+        "upgrade_cost_list": [
+            [
+                54115,
+                50
+            ],
+            [
+                54115,
+                100
+            ],
+            [
+                54115,
+                150
+            ],
+            [
+                54115,
+                200
+            ]
+        ],
+        "base_attributes": [
+            1300,
+            100,
+            100,
+            300,
+            50,
+            50
+        ],
+        "growth_attributes": [
+            300,
+            25,
+            25,
+            0,
+            0,
+            0
+        ]
+    },
+    "30902": {
+        "desc": "\u5929\u536b\u00b7\u6d77\u59c6\u8fbe\u5c14",
+        "hero_id": 1133,
+        "type": 1,
+        "little_icon": "TextureConfig/BackHouseUI/RoleHead/1133",
+        "max_grade": 5,
+        "activity_id": 303492,
+        "model": "CharDorm/activity/kaligames/9133_tpose",
+        "id": 30902,
+        "icon": "TextureConfig/BackHouseUI/Portrait/1133",
+        "skill_list": [
+            30902
+        ],
+        "upgrade_cost_list": [
+            [
+                54115,
+                50
+            ],
+            [
+                54115,
+                100
+            ],
+            [
+                54115,
+                150
+            ],
+            [
+                54115,
+                200
+            ]
+        ],
+        "base_attributes": [
+            1300,
+            100,
+            100,
+            300,
+            50,
+            50
+        ],
+        "growth_attributes": [
+            300,
+            25,
+            25,
+            0,
+            0,
+            0
+        ]
+    },
+    "30903": {
+        "desc": "\u5f02\u5316\u539f\u578b<\u6b7b\u5f92>",
+        "hero_id": 0,
+        "type": 2,
+        "little_icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_m/Pinball_boss_m05",
+        "max_grade": 1,
+        "activity_id": 303491,
+        "model": "CharDorm/activity/kaligames/2926_tpose",
+        "id": 30903,
+        "icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_l/Pinball_boss_l06",
+        "skill_list": [
+            30903
+        ],
+        "upgrade_cost_list": [],
+        "base_attributes": [
+            1000,
+            100,
+            100,
+            0,
+            0,
+            0
+        ],
+        "growth_attributes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "30904": {
+        "desc": "\u8ff7\u94c1\u4e4b\u5bb6<\u5b89\u4fdd>",
+        "hero_id": 0,
+        "type": 2,
+        "little_icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_m/Pinball_boss_m02",
+        "max_grade": 1,
+        "activity_id": 303491,
+        "model": "CharDorm/activity/kaligames/2920_tpose",
+        "id": 30904,
+        "icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_l/Pinball_boss_l02",
+        "skill_list": [
+            30903
+        ],
+        "upgrade_cost_list": [],
+        "base_attributes": [
+            1500,
+            150,
+            150,
+            0,
+            0,
+            0
+        ],
+        "growth_attributes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "30905": {
+        "desc": "\u6e90\u521d\u79cd<\u8681\u9ab8>",
+        "hero_id": 0,
+        "type": 2,
+        "little_icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_m/Pinball_boss_m04",
+        "max_grade": 1,
+        "activity_id": 303491,
+        "model": "CharDorm/activity/kaligames/2937_tpose",
+        "id": 30905,
+        "icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_l/Pinball_boss_l04",
+        "skill_list": [
+            30903
+        ],
+        "upgrade_cost_list": [],
+        "base_attributes": [
+            2000,
+            200,
+            300,
+            0,
+            0,
+            0
+        ],
+        "growth_attributes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "30906": {
+        "desc": "\u667a\u68b0Z-03<\u6218\u573a>",
+        "hero_id": 0,
+        "type": 2,
+        "little_icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_m/Pinball_boss_m01",
+        "max_grade": 1,
+        "activity_id": 303491,
+        "model": "CharDorm/activity/kaligames/3905_tpose",
+        "id": 30906,
+        "icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_l/Pinball_boss_l01",
+        "skill_list": [
+            30903
+        ],
+        "upgrade_cost_list": [],
+        "base_attributes": [
+            2000,
+            200,
+            300,
+            0,
+            0,
+            0
+        ],
+        "growth_attributes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "30907": {
+        "desc": "\u805a\u5408\u79cd<\u6218\u9ab8>",
+        "hero_id": 0,
+        "type": 2,
+        "little_icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_m/Pinball_boss_m03",
+        "max_grade": 1,
+        "activity_id": 303491,
+        "model": "CharDorm/activity/kaligames/3919_tpose",
+        "id": 30907,
+        "icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_l/Pinball_boss_l03",
+        "skill_list": [
+            30903,
+            30904
+        ],
+        "upgrade_cost_list": [],
+        "base_attributes": [
+            3000,
+            300,
+            500,
+            0,
+            0,
+            0
+        ],
+        "growth_attributes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "30908": {
+        "desc": "\u5f02\u5316\u539f\u578b<\u6b3a\u8bc8\u00b7\u963f\u5fb7\u62c9>",
+        "hero_id": 0,
+        "type": 2,
+        "little_icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_m/Pinball_boss_m06",
+        "max_grade": 1,
+        "activity_id": 303491,
+        "model": "CharDorm/activity/kaligames/4944_tpose",
+        "id": 30908,
+        "icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_l/Pinball_boss_l05",
+        "skill_list": [
+            30903,
+            30905
+        ],
+        "upgrade_cost_list": [],
+        "base_attributes": [
+            3000,
+            300,
+            500,
+            0,
+            0,
+            0
+        ],
+        "growth_attributes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "30909": {
+        "desc": "\u805a\u5408\u79cd<\u6218\u9ab8>",
+        "hero_id": 0,
+        "type": 2,
+        "little_icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_m/Pinball_boss_m03",
+        "max_grade": 1,
+        "activity_id": 303491,
+        "model": "CharDorm/activity/kaligames/3919_tpose",
+        "id": 30909,
+        "icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_l/Pinball_boss_l03",
+        "skill_list": [
+            30903,
+            30904
+        ],
+        "upgrade_cost_list": [],
+        "base_attributes": [
+            15000,
+            350,
+            500,
+            0,
+            0,
+            0
+        ],
+        "growth_attributes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "30910": {
+        "desc": "\u5f02\u5316\u539f\u578b<\u6b3a\u8bc8\u00b7\u963f\u5fb7\u62c9>",
+        "hero_id": 0,
+        "type": 2,
+        "little_icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_m/Pinball_boss_m06",
+        "max_grade": 1,
+        "activity_id": 303491,
+        "model": "CharDorm/activity/kaligames/4944_tpose",
+        "id": 30910,
+        "icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Boss_l/Pinball_boss_l05",
+        "skill_list": [
+            30903,
+            30905
+        ],
+        "upgrade_cost_list": [],
+        "base_attributes": [
+            15000,
+            240,
+            500,
+            0,
+            0,
+            0
+        ],
+        "growth_attributes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "get_id_list_by_type": [
+        [
+            30901,
+            30902
+        ],
+        [
+            30903,
+            30904,
+            30905,
+            30906,
+            30907,
+            30908,
+            30909,
+            30910
+        ]
+    ],
+    "all": [
+        30901,
+        30902,
+        30903,
+        30904,
+        30905,
+        30906,
+        30907,
+        30908,
+        30909,
+        30910
+    ]
+}

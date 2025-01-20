@@ -1335,6 +1335,72 @@
         "id": 124801,
         "desc": "\u5c3d\u91cf\u5728\u300c\u795e\u5a01\u300d\u6807\u8bb0\u9ad8\u4e8e3\u4e2a\u65f6\u91ca\u653e\u6280\u80fd\uff0c\u4ee5\u83b7\u5f97\u6700\u5927\u6548\u679c"
     },
+    "113301": {
+        "list_icon": "",
+        "name": "\u5c0f\u6280\u5de7",
+        "list_name": "",
+        "combine_char": "",
+        "id": 113301,
+        "desc": "\u7075\u6d3b\u9009\u62e9\u300c\u534f\u6218\u6784\u88c5\u300d\u7684\u7ec4\u5408\uff0c\u5728\u6218\u573a\u4e0a\u53d6\u5f97\u4f18\u52bf"
+    },
+    "103401": {
+        "list_icon": "",
+        "name": "\u5c0f\u6280\u5de7",
+        "list_name": "",
+        "combine_char": "",
+        "id": 103401,
+        "desc": "\u300c\u9690\u7259\u300d\u5f62\u6001\u4e0b\uff0c\u4e0e\u76ee\u6807\u654c\u4eba\u8ddd\u79bb\u8f83\u8fdc\u65f6\uff0c\u53ef\u4ee5\u957f\u6309\u975e\u79fb\u52a8\u95ea\u907f\u8fc5\u901f\u7a81\u8fdb\u5230\u654c\u4eba\u8eab\u524d"
+    },
+    "103402": {
+        "name": "\u8fde\u6bb5\u53c2\u8003",
+        "id": 103402,
+        "desc": "",
+        "list_icon": [
+            1034203,
+            1034105,
+            1034211,
+            1034221,
+            1034231
+        ],
+        "list_name": [
+            "\u6280\u80fd\u4e09",
+            "\u666e\u653b\u81f3\u6700\u540e\u4e00\u6bb5",
+            "\u6280\u80fd\u4e00",
+            "\u6280\u80fd\u4e8c",
+            "\u6280\u80fd\u4e09"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "arrow",
+            "arrow"
+        ]
+    },
+    "103403": {
+        "name": "\u8fde\u6bb5\u53c2\u8003",
+        "id": 103403,
+        "desc": "",
+        "list_icon": [
+            1034231,
+            1034101,
+            1034201,
+            1034202,
+            1034203
+        ],
+        "list_name": [
+            "\u6280\u80fd\u4e09",
+            "\u666e\u653b\u81f3\u6700\u540e\u4e00\u6bb5",
+            "\u6280\u80fd\u4e00",
+            "\u6280\u80fd\u4e8c",
+            "\u6280\u80fd\u4e09"
+        ],
+        "combine_char": [
+            "arrow",
+            "arrow",
+            "arrow",
+            "arrow"
+        ]
+    },
     "all": [
         101101,
         101102,
@@ -1442,6 +1508,10 @@
         109501,
         102201,
         115601,
-        124801
+        124801,
+        113301,
+        103401,
+        103402,
+        103403
     ]
 }

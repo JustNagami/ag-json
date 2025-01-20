@@ -4445,6 +4445,45 @@
             0
         ]
     },
+    "4051034": {
+        "monster_level": 80,
+        "name": "\u6f5c\u86c7\u00b7\u74e6\u5409\u7279",
+        "drop_lib_id": 0,
+        "map": "4051034",
+        "background_1": "",
+        "ai_level": 0,
+        "tag": 0,
+        "position": "",
+        "hero_exp": 0,
+        "level": 1,
+        "tips": "\u6f5c\u86c7\u00b7\u74e6\u5409\u7279",
+        "recommend_level": 0,
+        "combo_skill_id": 0,
+        "user_exp": 0,
+        "id": 4051034,
+        "attribute_factor": [
+            1000,
+            1000,
+            8000
+        ],
+        "hero_list": [
+            [
+                1034,
+                103402
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ]
+    },
     "4051035": {
         "monster_level": 80,
         "name": "\u72c2\u9cc4\u00b7\u7d22\u8d1d\u514b",
@@ -5966,6 +6005,45 @@
             0
         ]
     },
+    "4051133": {
+        "monster_level": 80,
+        "name": "\u5929\u536b\u00b7\u6d77\u59c6\u8fbe\u5c14",
+        "drop_lib_id": 0,
+        "map": "4051133",
+        "background_1": "",
+        "ai_level": 0,
+        "tag": 0,
+        "position": "",
+        "hero_exp": 0,
+        "level": 1,
+        "tips": "\u5929\u536b\u00b7\u6d77\u59c6\u8fbe\u5c14",
+        "recommend_level": 0,
+        "combo_skill_id": 0,
+        "user_exp": 0,
+        "id": 4051133,
+        "attribute_factor": [
+            1000,
+            1000,
+            2500
+        ],
+        "hero_list": [
+            [
+                1133,
+                113302
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "chip_list": [
+            0
+        ]
+    },
     "4051138": {
         "monster_level": 80,
         "name": "\u9ece\u5e7b\u00b7\u8d6b\u62c9",
@@ -6510,6 +6588,7 @@
         4051028,
         4051032,
         4051033,
+        4051034,
         4051035,
         4051037,
         4051038,
@@ -6549,6 +6628,7 @@
         4051119,
         4051127,
         4051132,
+        4051133,
         4051138,
         4051139,
         4051148,

@@ -195,6 +195,34 @@
         "play_desc": "ACTIVITY_PT_DESCRIBE_3_0",
         "activity_desc": "ACTIVITY_PT_RULE_3_0"
     },
+    "15": {
+        "currency_id": 53150,
+        "id": 15,
+        "shop_activity_id": 301462,
+        "task_activity_id": 300047,
+        "buff_pop_prefab_path": "Widget/System/Activity_PT/PtUpUI/PtUpPopUI",
+        "entrace_prefab_path": "Widget/System/Activity_PT/PtUpUI/PtMainUpUI",
+        "activity_id": 302432,
+        "main_prefab_path": "Widget/System/Activity_PT/PtUpUI/PtUpUI",
+        "cost_id": 54080,
+        "stage_activity_id": 302442,
+        "play_desc": "ACTIVITY_PT_DESCRIBE_3_1",
+        "activity_desc": "ACTIVITY_PT_RULE_3_1"
+    },
+    "16": {
+        "currency_id": 53152,
+        "id": 16,
+        "shop_activity_id": 311463,
+        "task_activity_id": 310047,
+        "buff_pop_prefab_path": "Widget/System/Activity_PT/PtDownUI/PtDownPopUI",
+        "entrace_prefab_path": "Widget/System/Activity_PT/PtDownUI/PtMainDownUI",
+        "activity_id": 312431,
+        "main_prefab_path": "Widget/System/Activity_PT/PtDownUI/PtDownUI",
+        "cost_id": 54117,
+        "stage_activity_id": 312441,
+        "play_desc": "ACTIVITY_PT_DESCRIBE_3_0",
+        "activity_desc": "ACTIVITY_PT_RULE_3_0"
+    },
     "get_id_list_by_activity_id": {
         "202431": [
             1
@@ -237,6 +265,12 @@
         ],
         "302431": [
             14
+        ],
+        "302432": [
+            15
+        ],
+        "312431": [
+            16
         ]
     },
     "all": [
@@ -253,6 +287,8 @@
         11,
         12,
         13,
-        14
+        14,
+        15,
+        16
     ]
 }

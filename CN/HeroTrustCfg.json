@@ -1295,7 +1295,86 @@
         "condition_list": [],
         "reward_item_list": []
     },
+    "113301": {
+        "hero_id": 1133,
+        "trust_level": 1,
+        "id": 113301,
+        "reward_des": "",
+        "condition_list": [
+            2101,
+            5108
+        ],
+        "reward_item_list": [
+            [
+                1,
+                50
+            ]
+        ]
+    },
+    "113302": {
+        "hero_id": 1133,
+        "trust_level": 2,
+        "id": 113302,
+        "reward_des": "",
+        "condition_list": [
+            5101,
+            5109
+        ],
+        "reward_item_list": [
+            [
+                1,
+                80
+            ]
+        ]
+    },
+    "113303": {
+        "hero_id": 1133,
+        "trust_level": 3,
+        "id": 113303,
+        "reward_des": "",
+        "condition_list": [
+            5102,
+            5110
+        ],
+        "reward_item_list": [
+            [
+                1,
+                100
+            ]
+        ]
+    },
+    "113304": {
+        "hero_id": 1133,
+        "trust_level": 4,
+        "id": 113304,
+        "reward_des": "",
+        "condition_list": [
+            5103,
+            5111
+        ],
+        "reward_item_list": [
+            [
+                950029,
+                1
+            ]
+        ]
+    },
+    "113305": {
+        "hero_id": 1133,
+        "trust_level": 5,
+        "id": 113305,
+        "reward_des": "",
+        "condition_list": [],
+        "reward_item_list": []
+    },
     "get_id_list_by_hero_id": {
+        "1133": [
+            113301,
+            113302,
+            113303,
+            113304,
+            113305
+        ],
         "1150": [
             115001,
             115002,
@@ -1513,6 +1592,11 @@
         115002,
         115003,
         115004,
-        115005
+        115005,
+        113301,
+        113302,
+        113303,
+        113304,
+        113305
     ]
 }

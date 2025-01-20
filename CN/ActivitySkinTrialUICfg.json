@@ -71,6 +71,12 @@
         "script_version": "",
         "main_ui_path": "Widget/System/Activity_Resident/Acitvity_OutfitTrial/Acitvity_SkinTrialMainUI"
     },
+    "31": {
+        "activity_theme": 31,
+        "select_ui_path": "Widget/System/Activity_Resident/Acitvity_OutfitTrial/Acitvity_SkinTrialUI",
+        "script_version": "",
+        "main_ui_path": "Widget/System/Activity_Resident/Acitvity_OutfitTrial/Acitvity_SkinTrialMainUI"
+    },
     "all": [
         14,
         17,
@@ -83,6 +89,7 @@
         27,
         28,
         29,
-        30
+        30,
+        31
     ]
 }

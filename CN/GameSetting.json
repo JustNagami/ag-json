@@ -3206,14 +3206,14 @@
         "value": [
             [
                 2,
-                301201,
-                6010014,
-                "but_Internal_theory_1"
+                311201,
+                6010015,
+                "but_Internal_soundofrain_1"
             ],
             [
                 3,
-                300032,
-                134
+                310031,
+                139
             ],
             [
                 4,
@@ -3409,7 +3409,9 @@
             5200705,
             5200706,
             5200707,
-            5200708
+            5200708,
+            5230111,
+            5230117
         ]
     },
     "personal_signature_max": {
@@ -7492,7 +7494,7 @@
         "value2": ""
     },
     "activity_area_battle_challenge_arg4": {
-        "value": "10300",
+        "value": "10750",
         "id": "activity_area_battle_challenge_arg4",
         "value2": ""
     },
@@ -7568,6 +7570,248 @@
         "value2": "",
         "value": [
             "https://beian.miit.gov.cn/#/Integrated/index"
+        ]
+    },
+    "multi_heart_demon_basescore": {
+        "id": "multi_heart_demon_basescore",
+        "value2": "",
+        "value": [
+            6000000
+        ]
+    },
+    "multi_heart_demon_timescore": {
+        "id": "multi_heart_demon_timescore",
+        "value2": "",
+        "value": [
+            5
+        ]
+    },
+    "multi_heart_demon_hitscore": {
+        "id": "multi_heart_demon_hitscore",
+        "value2": "",
+        "value": [
+            10000
+        ]
+    },
+    "multi_heart_demon_hpscore": {
+        "id": "multi_heart_demon_hpscore",
+        "value2": "",
+        "value": [
+            1000000
+        ]
+    },
+    "multi_heart_demon_boss_hp": {
+        "id": "multi_heart_demon_boss_hp",
+        "value2": "",
+        "value": [
+            1084465
+        ]
+    },
+    "multi_heart_demon_attribute_factor": {
+        "id": "multi_heart_demon_attribute_factor",
+        "value2": "",
+        "value": [
+            4000
+        ]
+    },
+    "new_year_water_pipe_describe": {
+        "id": "new_year_water_pipe_describe",
+        "value2": "",
+        "value": [
+            "Widget/Version/BaichaoUI_3_9/BaichaoUI_3_9_WaterPipeUI/WaterPipeDescription_01"
+        ]
+    },
+    "activity_play_marbles_token_num_limited": {
+        "id": "activity_play_marbles_token_num_limited",
+        "value2": "",
+        "value": [
+            54115,
+            5000
+        ]
+    },
+    "card_game_priority_pos_adjoin_per": {
+        "id": "card_game_priority_pos_adjoin_per",
+        "value2": "",
+        "value": [
+            2,
+            1
+        ]
+    },
+    "card_game_priority_effect_add_point_per_own_control_grid": {
+        "id": "card_game_priority_effect_add_point_per_own_control_grid",
+        "value2": "",
+        "value": [
+            2,
+            -2,
+            -1,
+            -1,
+            2
+        ]
+    },
+    "card_game_priority_effect_control_per_neutral_grid": {
+        "id": "card_game_priority_effect_control_per_neutral_grid",
+        "value2": "",
+        "value": [
+            3,
+            -2,
+            -1,
+            -1,
+            2
+        ]
+    },
+    "card_game_priority_effect_control_per_enemy_control_grid": {
+        "id": "card_game_priority_effect_control_per_enemy_control_grid",
+        "value2": "",
+        "value": [
+            4,
+            -2,
+            -1,
+            -1,
+            2
+        ]
+    },
+    "card_game_priority_effect_add_power_per": {
+        "id": "card_game_priority_effect_add_power_per",
+        "value2": "",
+        "value": [
+            2
+        ]
+    },
+    "card_game_priority_effect_decrease_enemy_power_per": {
+        "id": "card_game_priority_effect_decrease_enemy_power_per",
+        "value2": "",
+        "value": [
+            1
+        ]
+    },
+    "card_game_priority_effect_line_score_param": {
+        "id": "card_game_priority_effect_line_score_param",
+        "value2": "",
+        "value": [
+            1
+        ]
+    },
+    "card_game_gold_card_limit": {
+        "id": "card_game_gold_card_limit",
+        "value2": "",
+        "value": [
+            1
+        ]
+    },
+    "card_game_group_num_limit": {
+        "id": "card_game_group_num_limit",
+        "value2": "",
+        "value": [
+            10
+        ]
+    },
+    "card_game_init_card_group": {
+        "id": "card_game_init_card_group",
+        "value2": "",
+        "value": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    "card_game_group_card_num_limit": {
+        "id": "card_game_group_card_num_limit",
+        "value2": "",
+        "value": [
+            15
+        ]
+    },
+    "v310_bloodcard_describe": {
+        "id": "v310_bloodcard_describe",
+        "value2": "",
+        "value": [
+            "Widget/Version/CORGUI_SandPlay_Com/SandPlay_BloodCardUI/BloodCardDescription_01",
+            "Widget/Version/CORGUI_SandPlay_Com/SandPlay_BloodCardUI/BloodCardDescription_02",
+            "Widget/Version/CORGUI_SandPlay_Com/SandPlay_BloodCardUI/BloodCardDescription_03"
+        ]
+    },
+    "card_game_group_setting_stage": {
+        "id": "card_game_group_setting_stage",
+        "value2": "",
+        "value": [
+            102
+        ]
+    },
+    "auto_cook_default_max": {
+        "id": "auto_cook_default_max",
+        "value2": "",
+        "value": [
+            1000
+        ]
+    },
+    "auto_cook_item_week_max": {
+        "id": "auto_cook_item_week_max",
+        "value2": "",
+        "value": [
+            21000
+        ]
+    },
+    "auto_cook_main_help": {
+        "id": "auto_cook_main_help",
+        "value2": "",
+        "value": []
+    },
+    "auto_cook_stage_help": {
+        "id": "auto_cook_stage_help",
+        "value2": "",
+        "value": []
+    },
+    "activity_item_point_conversion": {
+        "id": "activity_item_point_conversion",
+        "value2": "",
+        "value": [
+            [
+                313631,
+                54116,
+                1,
+                1000
+            ]
+        ]
+    },
+    "envelope_sum_reward": {
+        "id": "envelope_sum_reward",
+        "value2": "",
+        "value": [
+            1,
+            2100
+        ]
+    },
+    "chatsticker_show_time": {
+        "id": "chatsticker_show_time",
+        "value2": "",
+        "value": [
+            2
+        ]
+    },
+    "envelope_rewardpop_times": {
+        "id": "envelope_rewardpop_times",
+        "value2": "",
+        "value": [
+            3
+        ]
+    },
+    "auto_cook_default_reward": {
+        "id": "auto_cook_default_reward",
+        "value2": "",
+        "value": [
+            100
         ]
     }
 }

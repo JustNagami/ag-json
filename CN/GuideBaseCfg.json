@@ -2704,6 +2704,278 @@
         "ignore_group_condition": [],
         "leaps": []
     },
+    "105": {
+        "narrator_name": "\u7984\u826f",
+        "group": 0,
+        "not_skip_guide": 0,
+        "id": 105,
+        "narrator_icon": "1072",
+        "is_no_home": false,
+        "steps": [
+            10501,
+            10502
+        ],
+        "open_condition": [
+            [
+                "qworldFunction",
+                31146101
+            ],
+            [
+                "uiNameList",
+                [
+                    "qworldMainHome"
+                ]
+            ]
+        ],
+        "skip_condition": [],
+        "ignore_group_condition": [],
+        "leaps": []
+    },
+    "106": {
+        "narrator_name": "\u5b5f\u7ae0",
+        "group": 0,
+        "not_skip_guide": 0,
+        "id": 106,
+        "narrator_icon": "1071",
+        "is_no_home": false,
+        "steps": [
+            10601,
+            10602,
+            10603
+        ],
+        "open_condition": [
+            [
+                "playerLevel",
+                35
+            ],
+            [
+                "uiNameList",
+                [
+                    "activityAutoCookMainView"
+                ]
+            ]
+        ],
+        "skip_condition": [],
+        "ignore_group_condition": [],
+        "leaps": []
+    },
+    "107": {
+        "narrator_name": "\u91d1\u4e4c",
+        "group": 0,
+        "not_skip_guide": 0,
+        "id": 107,
+        "narrator_icon": "1070",
+        "is_no_home": false,
+        "steps": [
+            10701,
+            10702
+        ],
+        "open_condition": [
+            [
+                "qworldFunction",
+                31361101
+            ],
+            [
+                "uiNameList",
+                [
+                    "qworldMainHome"
+                ]
+            ]
+        ],
+        "skip_condition": [],
+        "ignore_group_condition": [],
+        "leaps": []
+    },
+    "108": {
+        "narrator_name": "\u684c\u6e38\u5e97\u5e97\u957f",
+        "group": 0,
+        "not_skip_guide": 0,
+        "id": 108,
+        "narrator_icon": "9508",
+        "is_no_home": false,
+        "steps": [
+            10802,
+            10803,
+            10804,
+            10805,
+            10806,
+            10807,
+            10808,
+            10809,
+            10810,
+            10811,
+            10812,
+            10813
+        ],
+        "open_condition": [
+            [
+                "playerLevel",
+                35
+            ],
+            [
+                "uiNameList",
+                [
+                    "bloodCardGame"
+                ]
+            ]
+        ],
+        "skip_condition": [],
+        "ignore_group_condition": [],
+        "leaps": []
+    },
+    "109": {
+        "narrator_name": "\u684c\u6e38\u5e97\u5e97\u957f",
+        "group": 0,
+        "not_skip_guide": 0,
+        "id": 109,
+        "narrator_icon": "9508",
+        "is_no_home": false,
+        "steps": [
+            10901,
+            10902
+        ],
+        "open_condition": [
+            [
+                "playerLevel",
+                35
+            ],
+            [
+                "uiNameList",
+                [
+                    "bloodCardGame"
+                ]
+            ]
+        ],
+        "skip_condition": [],
+        "ignore_group_condition": [],
+        "leaps": []
+    },
+    "110": {
+        "narrator_name": "\u684c\u6e38\u5e97\u5e97\u957f",
+        "group": 0,
+        "not_skip_guide": 1,
+        "id": 110,
+        "narrator_icon": "9508",
+        "is_no_home": false,
+        "steps": [
+            11001,
+            11002,
+            11003,
+            11004,
+            11005,
+            11006,
+            11007
+        ],
+        "open_condition": [
+            [
+                "playerLevel",
+                35
+            ],
+            [
+                "uiNameList",
+                [
+                    "bloodCardBuild"
+                ]
+            ]
+        ],
+        "skip_condition": [],
+        "ignore_group_condition": [],
+        "leaps": []
+    },
+    "111": {
+        "narrator_name": "\u684c\u6e38\u5e97\u5e97\u957f",
+        "group": 0,
+        "not_skip_guide": 0,
+        "id": 111,
+        "narrator_icon": "9508",
+        "is_no_home": false,
+        "steps": [
+            11101
+        ],
+        "open_condition": [
+            [
+                "playerLevel",
+                35
+            ],
+            [
+                "uiNameList",
+                [
+                    "bloodCardGame"
+                ]
+            ]
+        ],
+        "skip_condition": [],
+        "ignore_group_condition": [],
+        "leaps": []
+    },
+    "112": {
+        "narrator_name": "\u684c\u6e38\u5e97\u5e97\u957f",
+        "group": 0,
+        "not_skip_guide": 0,
+        "id": 112,
+        "narrator_icon": "9508",
+        "is_no_home": false,
+        "steps": [
+            11201,
+            11202
+        ],
+        "open_condition": [
+            [
+                "bloodCardFunction",
+                1803
+            ]
+        ],
+        "skip_condition": [],
+        "ignore_group_condition": [],
+        "leaps": []
+    },
+    "113": {
+        "narrator_name": "\u684c\u6e38\u5e97\u5e97\u957f",
+        "group": 0,
+        "not_skip_guide": 0,
+        "id": 113,
+        "narrator_icon": "9508",
+        "is_no_home": false,
+        "steps": [
+            11301
+        ],
+        "open_condition": [
+            [
+                "bloodCardFunction",
+                1805
+            ]
+        ],
+        "skip_condition": [],
+        "ignore_group_condition": [],
+        "leaps": []
+    },
+    "115": {
+        "narrator_name": "\u91d1\u4e4c",
+        "group": 0,
+        "not_skip_guide": 0,
+        "id": 115,
+        "narrator_icon": "1070",
+        "is_no_home": false,
+        "steps": [
+            11501,
+            11502
+        ],
+        "open_condition": [
+            [
+                "qworldFunction",
+                31364103
+            ],
+            [
+                "uiNameList",
+                [
+                    "qworldMainHome"
+                ]
+            ]
+        ],
+        "skip_condition": [],
+        "ignore_group_condition": [],
+        "leaps": []
+    },
     "get_id_list_by_not_skip_guide": {
         "0": [
             10,
@@ -2787,7 +3059,16 @@
             101,
             102,
             103,
-            104
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            111,
+            112,
+            113,
+            115
         ],
         "1": [
             1,
@@ -2797,7 +3078,8 @@
             3,
             6,
             8,
-            60
+            60,
+            110
         ]
     },
     "all": [
@@ -2890,6 +3172,16 @@
         101,
         102,
         103,
-        104
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        115
     ]
 }

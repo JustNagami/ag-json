@@ -101,7 +101,30 @@
         "clue_desc": "\u52a0\u5c14\u897f\u90e8\u5927\u5e2e\u6d3e\u300c\u71c3\u70e7\u75a4\u75d5\u300d\uff0c\u5176\u9996\u9886\u6e34\n\u671b\u7740\u6df7\u4e71\uff0c\u6269\u5f20\u7684\u6b66\u5907\u662f\u4ed6\u91ce\u5fc3\u7684\u4f53\u73b0\u3002",
         "area_type": 1
     },
+    "3021401": {
+        "main_activity_id": 302141,
+        "int": 3021401,
+        "clue_desc": "\u4e4c\u4e91\u7b3c\u7f69\u5929\u7a7a\uff0c\u6709\u4eba\u6b63\u671f\u76fc\u7740\u8fd9\u573a\u66b4\u96e8\u964d\u4e34\u3002",
+        "area_type": 0
+    },
+    "3021402": {
+        "main_activity_id": 302141,
+        "int": 3021402,
+        "clue_desc": "\u8ba1\u5212\u5373\u5c06\u63a8\u884c\uff0c\u6709\u4eba\u5bf9\u6b64\u6301\u6709\u4e0d\u540c\u610f\u89c1\u3002",
+        "area_type": 0
+    },
+    "3021403": {
+        "main_activity_id": 302141,
+        "int": 3021403,
+        "clue_desc": "\u5f3a\u538b\u4e4b\u4e0b\uff0c\u6709\u4eba\u9009\u62e9\u575a\u5b88\u81ea\u5df1\u76f8\u4fe1\u7684\u300c\u6b63\u786e\u300d\u3002",
+        "area_type": 0
+    },
     "get_id_list_by_main_activity_id": {
+        "302141": [
+            3021401,
+            3021402,
+            3021403
+        ],
         "282261": [
             2822601,
             2822602,
@@ -145,6 +168,9 @@
         2822602,
         2822603,
         2822604,
-        2822605
+        2822605,
+        3021401,
+        3021402,
+        3021403
     ]
 }

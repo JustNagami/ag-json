@@ -72,9 +72,34 @@
             "Widget/Version/T0_109502/T0_109502_SkinPoolSingle/T0_109502_SkinPoolSingle_movie"
         ]
     },
+    "312211": {
+        "taskUI": "Widget/Version/T0_107602/T0Scene2",
+        "taskCurrency": 53142,
+        "activityTaskId": 310049,
+        "drawPopSingleUI": "Widget/Version/T0_107602/SingledrawUI/T0_Single",
+        "drawEndUI": "Widget/Version/T0_107602/T0Scene4",
+        "drawInfoUI": "Widget/Version/T0_107602/T0_DrawInfoUI",
+        "enterItem": "Widget/Version/T0_107602/T0Scene_main",
+        "drawStartUI": "Widget/Version/T0_107602/DrawCardsUI/T0_DrawCardUI",
+        "exchangeUI": "Widget/Version/T0_107602/T0Scene3",
+        "mainUI": "Widget/Version/T0_107602/T0Scene",
+        "activityId": 312211,
+        "poolList": [
+            1008,
+            1009
+        ],
+        "drawEffectUI": [
+            "Widget/Version/T0_107602/SingledrawUI/SingledrawUI_blue",
+            "Widget/Version/T0_107602/SingledrawUI/SingledrawUI_purple",
+            "Widget/Version/T0_107602/SingledrawUI/SingledrawUI_golden",
+            "Widget/Version/T0_107602/SingledrawUI/SingledrawUI_special",
+            "Widget/Version/T0_107602/SingledrawUI/SingledrawUI_movie"
+        ]
+    },
     "all": [
         182211,
         272211,
-        292211
+        292211,
+        312211
     ]
 }

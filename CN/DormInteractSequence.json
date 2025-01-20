@@ -672,6 +672,26 @@
         "name": "saodi_move",
         "next_action": []
     },
+    "252401": {
+        "id": 252401,
+        "name": "shengdan_lunyi_01",
+        "next_action": []
+    },
+    "252402": {
+        "id": 252402,
+        "name": "shengdan_lunyi_02",
+        "next_action": []
+    },
+    "252501": {
+        "id": 252501,
+        "name": "shengdan_liwudai",
+        "next_action": []
+    },
+    "252601": {
+        "id": 252601,
+        "name": "shengdan_bilu",
+        "next_action": []
+    },
     "10001": {
         "id": 10001,
         "name": "angry01_effect",
@@ -988,6 +1008,201 @@
         "name": "1150_lightsaber",
         "next_action": []
     },
+    "11330101": {
+        "id": 11330101,
+        "name": "1133_xiaoma",
+        "next_action": []
+    },
+    "20100101": {
+        "id": 20100101,
+        "name": "props_small_chair_sit",
+        "next_action": [
+            [
+                20100102,
+                0
+            ]
+        ]
+    },
+    "20100102": {
+        "id": 20100102,
+        "name": "props_small_chair_idle",
+        "next_action": [
+            [
+                20100102,
+                0
+            ]
+        ]
+    },
+    "20100103": {
+        "id": 20100103,
+        "name": "props_small_chair_exit",
+        "next_action": []
+    },
+    "20100201": {
+        "id": 20100201,
+        "name": "props_box_open",
+        "next_action": []
+    },
+    "20100301": {
+        "id": 20100301,
+        "name": "props_pick",
+        "next_action": []
+    },
+    "20100401": {
+        "id": 20100401,
+        "name": "props_divine_sit",
+        "next_action": [
+            [
+                20100402,
+                0
+            ]
+        ]
+    },
+    "20100402": {
+        "id": 20100402,
+        "name": "props_divine_stand",
+        "next_action": [
+            [
+                20100402,
+                0
+            ],
+            [
+                20100403,
+                0
+            ],
+            [
+                20100404,
+                0
+            ]
+        ]
+    },
+    "20100403": {
+        "id": 20100403,
+        "name": "props_divine_idle1",
+        "next_action": [
+            [
+                20100402,
+                0
+            ]
+        ]
+    },
+    "20100404": {
+        "id": 20100404,
+        "name": "props_divine_idle2",
+        "next_action": [
+            [
+                20100402,
+                0
+            ]
+        ]
+    },
+    "20100405": {
+        "id": 20100405,
+        "name": "props_divine_exit",
+        "next_action": []
+    },
+    "20100501": {
+        "id": 20100501,
+        "name": "props_qiuqian_idle",
+        "next_action": [
+            [
+                20100501,
+                0
+            ]
+        ]
+    },
+    "20100502": {
+        "id": 20100502,
+        "name": "props_qiuqian_exit",
+        "next_action": []
+    },
+    "20100601": {
+        "id": 20100601,
+        "name": "props_horse_ride",
+        "next_action": []
+    },
+    "20100602": {
+        "id": 20100602,
+        "name": "props_horse_hit",
+        "next_action": []
+    },
+    "20100701": {
+        "id": 20100701,
+        "name": "props_paryer_idle",
+        "next_action": [
+            [
+                20100701,
+                0
+            ]
+        ]
+    },
+    "20100702": {
+        "id": 20100702,
+        "name": "props_paryer_exit",
+        "next_action": []
+    },
+    "20100801": {
+        "id": 20100801,
+        "name": "props_recliner_sit",
+        "next_action": [
+            [
+                20100802,
+                0
+            ],
+            [
+                20100803,
+                0
+            ]
+        ]
+    },
+    "20100802": {
+        "id": 20100802,
+        "name": "props_recliner_idle1",
+        "next_action": [
+            [
+                20100802,
+                0
+            ],
+            [
+                20100803,
+                0
+            ]
+        ]
+    },
+    "20100803": {
+        "id": 20100803,
+        "name": "props_recliner_idle2",
+        "next_action": [
+            [
+                20100802,
+                0
+            ],
+            [
+                20100803,
+                0
+            ]
+        ]
+    },
+    "20100804": {
+        "id": 20100804,
+        "name": "props_recliner_exit",
+        "next_action": []
+    },
+    "20100901": {
+        "id": 20100901,
+        "name": "props_pick_thing",
+        "next_action": []
+    },
+    "20101001": {
+        "id": 20101001,
+        "name": "props_pick_treasure",
+        "next_action": []
+    },
+    "20101101": {
+        "id": 20101101,
+        "name": "props_empty",
+        "next_action": []
+    },
     "all": [
         2,
         3,
@@ -1068,6 +1283,10 @@
         222401,
         220801,
         222301,
+        252401,
+        252402,
+        252501,
+        252601,
         10001,
         10720101,
         10720102,
@@ -1101,6 +1320,30 @@
         10810201,
         10930201,
         10500101,
-        11500101
+        11500101,
+        11330101,
+        20100101,
+        20100102,
+        20100103,
+        20100201,
+        20100301,
+        20100401,
+        20100402,
+        20100403,
+        20100404,
+        20100405,
+        20100501,
+        20100502,
+        20100601,
+        20100602,
+        20100701,
+        20100702,
+        20100801,
+        20100802,
+        20100803,
+        20100804,
+        20100901,
+        20101001,
+        20101101
     ]
 }

@@ -612,6 +612,26 @@
         ],
         "spec_char": []
     },
+    "64": {
+        "id": 64,
+        "flow_name": "FlowScript/Equips/Equip64.asset",
+        "param": [
+            16000
+        ],
+        "desc": [
+            600000064
+        ],
+        "spec_char": []
+    },
+    "65": {
+        "param": "",
+        "id": 65,
+        "flow_name": "FlowScript/Equips/Equip65.asset",
+        "desc": [
+            600000065
+        ],
+        "spec_char": []
+    },
     "101": {
         "param": "",
         "id": 101,
@@ -872,6 +892,8 @@
         61,
         62,
         63,
+        64,
+        65,
         101,
         103,
         104,

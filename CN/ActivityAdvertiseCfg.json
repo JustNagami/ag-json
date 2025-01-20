@@ -382,6 +382,63 @@
             6022
         ]
     },
+    "36": {
+        "activity_id": 302103,
+        "free_dlc_icon": "",
+        "id": 36,
+        "prefab_path": "Widget/System/Activity/ActivityAdvertiseUI_theory_2",
+        "order": 100,
+        "reward_list": [],
+        "jump_system": [
+            15901,
+            301001
+        ]
+    },
+    "37": {
+        "activity_id": 302104,
+        "free_dlc_icon": "",
+        "id": 37,
+        "prefab_path": "Widget/System/Activity/ActivityAdvertiseUI_113903_113803",
+        "order": 500,
+        "reward_list": [],
+        "jump_system": [
+            525
+        ]
+    },
+    "38": {
+        "activity_id": 302105,
+        "free_dlc_icon": "",
+        "id": 38,
+        "prefab_path": "Widget/System/Activity/ActivityAdvertiseUI_106102_113301",
+        "order": 1000,
+        "reward_list": [],
+        "jump_system": [
+            525
+        ]
+    },
+    "39": {
+        "activity_id": 312101,
+        "free_dlc_icon": "",
+        "id": 39,
+        "prefab_path": "Widget/System/Activity/ActivityAdvertiseUI_Kolgai_1",
+        "order": 100,
+        "reward_list": [],
+        "jump_system": [
+            16001,
+            311001
+        ]
+    },
+    "40": {
+        "activity_id": 312102,
+        "free_dlc_icon": "",
+        "id": 40,
+        "prefab_path": "Widget/System/Activity/ActivityAdvertiseUI_103401_102202_101502",
+        "order": 1000,
+        "reward_list": [],
+        "jump_system": [
+            525
+        ]
+    },
     "82101": {
         "activity_id": 82101,
         "free_dlc_icon": "",
@@ -452,6 +509,11 @@
         33,
         34,
         35,
+        36,
+        37,
+        38,
+        39,
+        40,
         82101,
         92101,
         102101

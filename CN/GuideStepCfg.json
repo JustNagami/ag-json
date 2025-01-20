@@ -2414,20 +2414,17 @@
         "talk_content": "",
         "params": [],
         "guide_component": [
-            "common",
+            "listIndex",
             "menuPop",
             [
-                "chipBtn_"
-            ]
-        ],
-        "mask_component": [
-            "common",
-            "menuPop",
+                "menuList_"
+            ],
+            2,
             [
-                "guideComponents",
-                "guide_chip"
+                "button_"
             ]
         ],
+        "mask_component": [],
         "mask_scale": [],
         "talk_position": []
     },
@@ -13315,6 +13312,800 @@
             -218
         ]
     },
+    "10501": {
+        "talk_anchors": 2,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10501,
+        "talk_content": "\u8fd9\u91cc\u662f\u54b1\u4eec\u5929\u7984\u8d38\u6613\u7684\u5206\u53f7\u5c0f\u94fa\uff0c\u4e1c\u897f\u591a\u591a\uff0c\u6709\u7a7a\u53ef\u4ee5\u5e38\u6765\u901b\u901b\u5440~",
+        "params": [],
+        "guide_component": [
+            "common",
+            "qworldMainHome",
+            [
+                "rewardSideView_",
+                "shopBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -500,
+            -320
+        ]
+    },
+    "10502": {
+        "talk_anchors": 3,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10502,
+        "talk_content": "\u770b\u5230\u559c\u6b22\u7684\u4e1c\u897f\u90fd\u53ef\u4ee5\u6362\u53d6\uff0c\u8981\u662f\u7f3a\u94b1\u7684\u8bdd\u5c31<color=#E78300>\u591a\u53bb\u5404\u4e2a\u5730\u65b9\u8f6c\u8f6c\u770b\u5427</color>\uff0c\u8d5a\u94b1\u7684\u673a\u4f1a\u53ef\u4e0d\u5c11\u561e",
+        "params": [],
+        "guide_component": [
+            "common",
+            "springFestivalShop",
+            [
+                "listGo_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -400,
+            100
+        ]
+    },
+    "10601": {
+        "talk_anchors": 3,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10601,
+        "talk_content": "\u5927\u4fa0\u672c\u5468\u7684\u8425\u4e1a\u76ee\u6807\u548c\u6536\u76ca\u52a0\u6210\u5c31\u8bb0\u5728\u8fd9\u91cc\u4e86\uff0c\u5c0f\u5e97\u867d\u662f\u7f3a\u4eba\uff0c\u4e5f\u4e0d\u80fd\u803d\u8bef\u5927\u4fa0\u4fee\u4e60\u3002",
+        "params": [],
+        "guide_component": [
+            "common",
+            "activityAutoCookMainView",
+            [
+                "guideComponents",
+                "guide_introduce1"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -380,
+            680
+        ]
+    },
+    "10602": {
+        "talk_anchors": 3,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10602,
+        "talk_content": "\u8425\u4e1a\u7684\u62a5\u916c\u5c71\u4eba\u5c31\u653e\u5728\u8fd9\u91cc\uff0c\u5927\u4fa0\u53ef\u8981\u8bb0\u5f97\u65f6\u4e0d\u65f6\u6765\u770b\u770b\u3002",
+        "params": [],
+        "guide_component": [
+            "common",
+            "activityAutoCookMainView",
+            [
+                "getRewardBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -670,
+            680
+        ]
+    },
+    "10603": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10603,
+        "talk_content": "\u54df\uff0c\u8fd9\u4e48\u5feb\u5ba2\u4eba\u5c31\u5230\u4e86\u3002\u5c0f\u5e97\u5c31\u4ea4\u7ed9\u4f60\u54af\uff0c\u91d1\u4e4c\u5927\u4fa0\u3002",
+        "params": [],
+        "guide_component": [
+            "common",
+            "activityAutoCookMainView",
+            [
+                "guideComponents",
+                "guide_introduce2"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            280,
+            -420
+        ]
+    },
+    "10701": {
+        "talk_anchors": 3,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10701,
+        "talk_content": "\u55ef\u2026\u2026\u867d\u7136\u5199\u4e86<color=#E78300>\u4fee\u4e60\u5fc3\u5f97</color>\u2026\u2026\u53ef\u662f\u90fd\u6709\u54ea\u4e9b\u662f\u503c\u5f97\u8bb0\u5f55\u7684\u5fc3\u5f97\u5462\uff1f",
+        "params": [],
+        "guide_component": [
+            "common",
+            "qworldMainHome",
+            [
+                "questSideView_",
+                "sealBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -670,
+            680
+        ]
+    },
+    "10702": {
+        "talk_anchors": 7,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10702,
+        "talk_content": "\u4e0d\u7ba1\u4e86\uff0c\u5148\u80e1\u4e71\u6233\u51e0\u7b14\u5427\uff0c\u628a\u5370\u8c61\u6df1\u523b\u7684\u7ecf\u5386\u8bb0\u4e0b\u6765\u603b\u6ca1\u9519\uff01",
+        "params": [],
+        "guide_component": [
+            "common",
+            "springStampingMain",
+            [
+                "guideComponents",
+                "guide_introduce1"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -100,
+            -290
+        ]
+    },
+    "10802": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10802,
+        "talk_content": "\u84dd\u8272\u6807\u8bc6\u662f<color=#E78300>\u5df1\u65b9\u7684\u573a\u5730</color>\uff0c\u7fa4\u4fa0\u724c\u53ea\u80fd\u653e\u5728\u5df1\u65b9\u7684\u573a\u5730\u4e0a",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardGame",
+            [
+                "guideComponents",
+                "guide_introduce1"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            -380.899994
+        ]
+    },
+    "10803": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10803,
+        "talk_content": "\u7ea2\u8272\u6807\u8bc6\u662f<color=#E78300>\u5bf9\u624b\u7684\u573a\u5730</color>\uff0c\u5bf9\u624b\u7684\u4fa0\u58eb\u4f1a\u4ece\u8fd9\u91cc\u51fa\u573a",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardGame",
+            [
+                "guideComponents",
+                "guide_introduce2"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            -380.899994
+        ]
+    },
+    "10804": {
+        "talk_anchors": 0,
+        "type": "JumpTo",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10804,
+        "talk_content": "\u5f39\u51fa\u56fe\u6587\u8bf4\u660e1",
+        "params": [
+            16002,
+            [
+                "Widget/Version/CORGUI_SandPlay_Com/SandPlay_BloodCardUI/BloodCardDescription_01"
+            ],
+            true
+        ],
+        "guide_component": [],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            280,
+            -420
+        ]
+    },
+    "10805": {
+        "talk_anchors": 0,
+        "type": "ClickButtonNoMask",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10805,
+        "talk_content": "\u5173\u95ed\u56fe\u6587\u8bf4\u660e1",
+        "params": [],
+        "guide_component": [
+            "common",
+            "gameHelpPro",
+            [
+                "m_closeBtn"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            574,
+            -303
+        ]
+    },
+    "10806": {
+        "talk_anchors": 0,
+        "type": "BloodCardGameStep",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10806,
+        "talk_content": "\u70b9\u51fb\u7fa4\u4fa0\u724c\uff0c\u53ef\u4ee5\u5c55\u793a\u5b83\u7684\u8be6\u7ec6\u4fe1\u606f",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardGame",
+            [
+                "guideComponents",
+                "guide_introduce3"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            280,
+            -420
+        ]
+    },
+    "10807": {
+        "talk_anchors": 0,
+        "type": "BloodCardGameStep",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10807,
+        "talk_content": "\u5c06\u7fa4\u4fa0\u724c<color=#E78300>\u62d6\u52a8</color>\u5230\u5bf9\u5e94\u7684\u573a\u5730\uff0c\u53ef\u4ee5\u4f7f\u4fa0\u58eb\u4e0a\u573a",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardGame",
+            [
+                "guideComponents",
+                "guide_introduce4"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            331
+        ]
+    },
+    "10808": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10808,
+        "talk_content": "\u653e\u7f6e\u540e\u7fa4\u4fa0\u724c\u4f1a\u5f71\u54cd\u5bf9\u5e94\u7684\u573a\u5730\uff0c\u5373\u4f7f\u662f\u5bf9\u65b9\u7684\u573a\u5730\uff0c\u4e5f\u53ef\u4ee5\u7528\u8fd9\u79cd\u65b9\u5f0f\u53d8\u4e3a\u5df1\u65b9\u7684\u573a\u5730\uff0c\u58f0\u671b\u53d8\u4e3a1",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardGame",
+            [
+                "guideComponents",
+                "guide_introduce5"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            -254
+        ]
+    },
+    "10809": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10809,
+        "talk_content": "\u800c\u5df2\u7ecf\u662f\u5df1\u65b9\u7684\u683c\u5b50\u4f1a\u4f7f\u539f\u6709\u7684\u58f0\u671b<color=#E78300>\u52a01</color>",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardGame",
+            [
+                "guideComponents",
+                "guide_introduce6"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            -254
+        ]
+    },
+    "10810": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10810,
+        "talk_content": "\u8fd9\u91cc\u4f1a\u663e\u793a\u8fd9\u4e00\u5217\u4e2d\u6211\u65b9\u4fa0\u58eb\u7684\u80fd\u529b\u4e4b\u548c",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardGame",
+            [
+                "guideComponents",
+                "guide_introduce7"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            -254
+        ]
+    },
+    "10811": {
+        "talk_anchors": 0,
+        "type": "JumpTo",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10811,
+        "talk_content": "\u5f39\u51fa\u56fe\u6587\u8bf4\u660e2",
+        "params": [
+            16002,
+            [
+                "Widget/Version/CORGUI_SandPlay_Com/SandPlay_BloodCardUI/BloodCardDescription_02"
+            ],
+            true
+        ],
+        "guide_component": [],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            -254
+        ]
+    },
+    "10812": {
+        "talk_anchors": 0,
+        "type": "ClickButtonNoMask",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10812,
+        "talk_content": "\u5173\u95ed\u56fe\u6587\u8bf4\u660e2",
+        "params": [],
+        "guide_component": [
+            "common",
+            "gameHelpPro",
+            [
+                "m_closeBtn"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            574,
+            -303
+        ]
+    },
+    "10813": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": true,
+        "id": 10813,
+        "talk_content": "\u73b0\u5728\u7ee7\u7eed\u653e\u7f6e\u7fa4\u4fa0\u724c\uff0c\u83b7\u5f97\u66f4\u591a\u7684\u5206\u6570\u8d62\u5f97\u5bf9\u5c40\u5427",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardGame",
+            [
+                "gameObject_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            -254
+        ]
+    },
+    "10901": {
+        "talk_anchors": 0,
+        "type": "BloodCardGameStep",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 10901,
+        "talk_content": "\u5728\u5bf9\u5c40\u5f00\u59cb\u524d\uff0c\u6211\u4eec\u8fd8\u6709\u4e00\u6b21\u66f4\u6362\u7fa4\u4fa0\u724c\u7684\u673a\u4f1a\n\u5148\u5c06\u8fd9\u5f20\u7fa4\u4fa0\u724c\u653e\u56de\u724c\u5806\u4e2d",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardGame",
+            [
+                "guideComponents",
+                "guide_introduce8"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            574,
+            -303
+        ]
+    },
+    "10902": {
+        "talk_anchors": 0,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": true,
+        "id": 10902,
+        "talk_content": "\u70b9\u51fb\u786e\u8ba4\u66f4\u6362",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardGame",
+            [
+                "guideComponents",
+                "guide_changeBtn"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            574,
+            -303
+        ]
+    },
+    "11001": {
+        "talk_anchors": 0,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 11001,
+        "talk_content": "\u89e3\u9501\u4e86\u65b0\u7684\u7fa4\u4fa0\u724c\uff0c\u8bd5\u8bd5\u914d\u7f6e\u4e00\u5957\u65b0\u5361\u7ec4",
+        "params": [],
+        "guide_component": [
+            "listIndex",
+            "bloodCardBuild",
+            [
+                "tabList_"
+            ],
+            2,
+            [
+                "btn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -200,
+            238
+        ]
+    },
+    "11002": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 11002,
+        "talk_content": "\u70b9\u51fb\u81ea\u5b9a\u4e49\u5361\u7ec4\u53ef\u4ee5\u4ece\u7a7a\u5361\u7ec4\u5f00\u59cb\u521b\u5efa",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardBuild",
+            [
+                "customBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            575,
+            -74
+        ]
+    },
+    "11003": {
+        "talk_anchors": 0,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 11003,
+        "talk_content": "\u8fd9\u6b21\u6211\u4eec\u9009\u62e9\u76f4\u63a5\u4ece\u63a8\u8350\u5361\u7ec4\u5f00\u59cb\u521b\u5efa",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardBuild",
+            [
+                "systemBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -199,
+            -74
+        ]
+    },
+    "11004": {
+        "talk_anchors": 0,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 11004,
+        "talk_content": "\u6211\u4eec\u9009\u62e9\u63a8\u8350\u5361\u7ec4\u4e2d\u7684\u8fd9\u4e00\u5957\u5f00\u59cb\u521b\u5efa",
+        "params": [],
+        "guide_component": [
+            "listIndex",
+            "bloodCardRecommendCardGroupPop",
+            [
+                "groupList_"
+            ],
+            1,
+            [
+                "btn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -668,
+            -257
+        ]
+    },
+    "11005": {
+        "talk_anchors": 0,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 11005,
+        "talk_content": "\u70b9\u51fb\u9009\u62e9\u5361\u7ec4\uff0c\u5982\u679c\u9009\u62e9\u4e86\u6ca1\u6709\u5b8c\u5168\u6536\u96c6\u7684\u5361\u7ec4\uff0c\u5219\u9700\u8981\u8865\u5145\u7f3a\u5931\u7684\u7fa4\u4fa0\u724c\u540e\u624d\u80fd\u4fdd\u5b58",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardRecommendCardGroupPop",
+            [
+                "goBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            604,
+            -414
+        ]
+    },
+    "11006": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 11006,
+        "talk_content": "\u8fd9\u91cc\u53ef\u4ee5\u67e5\u770b\u7fa4\u4fa0\u724c\u4fe1\u606f\u548c\u8c03\u6574\u6570\u91cf\uff0c\u4e00\u4e2a\u5361\u7ec4\u753115\u5f20\u7fa4\u4fa0\u724c\u7ec4\u6210",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardBuild",
+            [
+                "cardInfoGo_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            109,
+            19
+        ]
+    },
+    "11007": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 11007,
+        "talk_content": "\u5e76\u4e14\u4e00\u4e2a\u5361\u7ec4\u6700\u591a\u4e00\u5f20\u8d85\u7ea7\u7fa4\u4fa0\u724c\uff0c\u5f53\u5361\u7ec4\u6ee1\u8db3\u6761\u4ef6\u5c31\u53ef\u4ee5\u70b9\u51fb\u4e0b\u65b9\u4f7f\u7528\u4e86",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardBuild",
+            [
+                "saveDeckBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            180,
+            -320
+        ]
+    },
+    "11101": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": true,
+        "id": 11101,
+        "talk_content": "\u6e38\u620f\u7ed3\u675f\u65f6\uff0c<color=#E78300>\u6bcf\u884c\u5206\u6570\u8f83\u5927</color>\u7684\u4e00\u65b9\uff0c\u80fd\u591f\u83b7\u5f97\u5bf9\u5e94\u7684\u5206\u6570\uff0c\u603b\u5206\u6570\u9ad8\u7684\u4e00\u65b9\u83b7\u80dc",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardGame",
+            [
+                "gameObject_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            280,
+            -420
+        ]
+    },
+    "11201": {
+        "talk_anchors": 0,
+        "type": "JumpTo",
+        "talk_adapt": 0,
+        "is_finish": true,
+        "id": 11201,
+        "talk_content": "\u5f39\u51fa\u56fe\u6587\u8bf4\u660e3",
+        "params": [
+            16002,
+            [
+                "Widget/Version/CORGUI_SandPlay_Com/SandPlay_BloodCardUI/BloodCardDescription_03"
+            ],
+            true
+        ],
+        "guide_component": [],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            -254
+        ]
+    },
+    "11202": {
+        "talk_anchors": 0,
+        "type": "ClickButtonNoMask",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 11202,
+        "talk_content": "\u5173\u95ed\u56fe\u6587\u8bf4\u660e3",
+        "params": [],
+        "guide_component": [
+            "common",
+            "gameHelpPro",
+            [
+                "m_closeBtn"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            574,
+            -303
+        ]
+    },
+    "11203": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 11203,
+        "talk_content": "\u8fd9\u5f20\u7fa4\u4fa0\u724c\u5e26\u6709\u4e00\u4e9b\u7279\u6b8a\u6548\u679c\uff0c\u70b9\u6309\u53ef\u4ee5\u67e5\u770b\u5b83\u7684\u6548\u679c\u3002",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardGame",
+            [
+                "guideComponents",
+                "guide_introduce9"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            414,
+            -138.9
+        ]
+    },
+    "11301": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": true,
+        "id": 11301,
+        "talk_content": "\u5bf9\u624b\u4f7f\u7528\u4e86\u4e00\u5f20<color=#E78300>\u8986\u76d6\u7fa4\u4fa0\u724c</color>\uff0c\u5b83\u5728\u653e\u7f6e\u540e\u4f1a\u5148\u4f7f<color=#E78300>\u53cb\u65b9\u4fa0\u58eb\u9000\u573a</color>\uff0c\u7136\u540e\u4ece\u5b83\u7684\u4f4d\u7f6e\u5165\u573a",
+        "params": [],
+        "guide_component": [
+            "common",
+            "bloodCardGame",
+            [
+                "guideComponents",
+                "guide_introduce10"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            280,
+            -420
+        ]
+    },
+    "11501": {
+        "talk_anchors": 1,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 11501,
+        "talk_content": "\u795e\u884c\u7b26\u53ef\u4ee5\u524d\u5f80\u54ea\u4e9b\u4f4d\u7f6e\uff1f\u2026\u2026\u5148\u5728\u5730\u56fe\u4e0a\u770b\u770b\u5427",
+        "params": [],
+        "guide_component": [
+            "common",
+            "qworldMainHome",
+            [
+                "miniMapBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            400,
+            -400
+        ]
+    },
+    "11502": {
+        "talk_anchors": 7,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 11502,
+        "talk_content": "\u611f\u89c9\u80fd\u901b\u7684\u5730\u65b9\u8fd8\u4e0d\u5c11\u54a7\u2026\u2026\u8fd9\u4e9b\u90fd\u662f\u5e08\u7236\u7684\u5b89\u6392\uff0c\u4e4c\u8981\u6253\u8d77\u7cbe\u795e\u4e86\uff01",
+        "params": [],
+        "guide_component": [
+            "common",
+            "qWorldMaxMapView",
+            [
+                "m_infoList"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -100,
+            -290
+        ]
+    },
     "all": [
         101,
         102,
@@ -13882,6 +14673,41 @@
         10202,
         10203,
         10301,
-        10401
+        10401,
+        10501,
+        10502,
+        10601,
+        10602,
+        10603,
+        10701,
+        10702,
+        10802,
+        10803,
+        10804,
+        10805,
+        10806,
+        10807,
+        10808,
+        10809,
+        10810,
+        10811,
+        10812,
+        10813,
+        10901,
+        10902,
+        11001,
+        11002,
+        11003,
+        11004,
+        11005,
+        11006,
+        11007,
+        11101,
+        11201,
+        11202,
+        11203,
+        11301,
+        11501,
+        11502
     ]
 }

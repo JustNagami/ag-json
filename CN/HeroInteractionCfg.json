@@ -8877,6 +8877,59 @@
         "idle3_talk": [],
         "idle3_delay": []
     },
+    "106102": {
+        "skinId": 106102,
+        "greeting": [],
+        "greeting_talk": [],
+        "greeting_delay": [],
+        "greeting_weight": [],
+        "mainTouch": [
+            "touch1",
+            "touch2"
+        ],
+        "mainTouch_talk": [
+            "106102_talk1",
+            "106102_talk2"
+        ],
+        "mainTouch_delay": [
+            0,
+            0
+        ],
+        "mainTouch_weight": [
+            1,
+            1
+        ],
+        "mainQuickTouch": [],
+        "mainQuickTouch_talk": [],
+        "mainQuickTouch_delay": [],
+        "shaking": [],
+        "shaking_talk": [],
+        "shaking_delay": [],
+        "showing": [],
+        "showing_talk": [],
+        "showing_delay": [],
+        "idle": [],
+        "idle_talk": [],
+        "idle_delay": [],
+        "idle_weight": [],
+        "roleChange": [],
+        "roleChange_talk": [],
+        "roleChange_delay": [],
+        "roleIdle": [],
+        "roleIdle_talk": [],
+        "touch2": [],
+        "touch2_talk": [],
+        "touch2_delay": [],
+        "touch3": [],
+        "touch3_talk": [],
+        "touch3_delay": [],
+        "idle2": [],
+        "idle2_talk": [],
+        "idle2_delay": [],
+        "idle3": [],
+        "idle3_talk": [],
+        "idle3_delay": []
+    },
     "115002": {
         "skinId": 115002,
         "greeting": [],
@@ -8890,6 +8943,509 @@
         "mainTouch_talk": [
             "115002_talk1",
             "115002_talk2"
+        ],
+        "mainTouch_delay": [
+            0,
+            0
+        ],
+        "mainTouch_weight": [
+            1,
+            1
+        ],
+        "mainQuickTouch": [],
+        "mainQuickTouch_talk": [],
+        "mainQuickTouch_delay": [],
+        "shaking": [],
+        "shaking_talk": [],
+        "shaking_delay": [],
+        "showing": [],
+        "showing_talk": [],
+        "showing_delay": [],
+        "idle": [],
+        "idle_talk": [],
+        "idle_delay": [],
+        "idle_weight": [],
+        "roleChange": [],
+        "roleChange_talk": [],
+        "roleChange_delay": [],
+        "roleIdle": [],
+        "roleIdle_talk": [],
+        "touch2": [],
+        "touch2_talk": [],
+        "touch2_delay": [],
+        "touch3": [],
+        "touch3_talk": [],
+        "touch3_delay": [],
+        "idle2": [],
+        "idle2_talk": [],
+        "idle2_delay": [],
+        "idle3": [],
+        "idle3_talk": [],
+        "idle3_delay": []
+    },
+    "1133": {
+        "skinId": 1133,
+        "greeting": [
+            "login",
+            "login",
+            "login"
+        ],
+        "greeting_talk": [
+            "1133_greet",
+            "1133_greet2",
+            "1133_greet3"
+        ],
+        "greeting_delay": [
+            759,
+            990,
+            528
+        ],
+        "greeting_weight": [
+            1,
+            1,
+            1
+        ],
+        "mainTouch": [
+            "touch1",
+            "touch2",
+            "touch3",
+            "touch4",
+            "emotion"
+        ],
+        "mainTouch_talk": [
+            "1133_talk1",
+            "1133_talk2",
+            "1133_talk3",
+            "1133_talk4",
+            "1133_talk5"
+        ],
+        "mainTouch_delay": [
+            759,
+            462,
+            495,
+            561,
+            660
+        ],
+        "mainTouch_weight": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "mainQuickTouch": [
+            "quickclick"
+        ],
+        "mainQuickTouch_talk": [
+            "1133_qc"
+        ],
+        "mainQuickTouch_delay": [
+            990
+        ],
+        "shaking": [
+            "shake"
+        ],
+        "shaking_talk": [
+            "1133_shake"
+        ],
+        "shaking_delay": [
+            660
+        ],
+        "showing": [
+            "assistant"
+        ],
+        "showing_talk": [
+            "1133_assistant"
+        ],
+        "showing_delay": [
+            825
+        ],
+        "idle": [
+            "idle",
+            "idle",
+            "idle"
+        ],
+        "idle_talk": [
+            "1133_idle",
+            "1133_idle2",
+            "1133_idle3"
+        ],
+        "idle_delay": [
+            396,
+            330,
+            825
+        ],
+        "idle_weight": [
+            1,
+            1,
+            1
+        ],
+        "roleChange": [],
+        "roleChange_talk": [
+            "1133_choose"
+        ],
+        "roleChange_delay": [
+            0
+        ],
+        "roleIdle": [],
+        "roleIdle_talk": [],
+        "touch2": [],
+        "touch2_talk": [],
+        "touch2_delay": [],
+        "touch3": [],
+        "touch3_talk": [],
+        "touch3_delay": [],
+        "idle2": [],
+        "idle2_talk": [],
+        "idle2_delay": [],
+        "idle3": [],
+        "idle3_talk": [],
+        "idle3_delay": []
+    },
+    "113301": {
+        "skinId": 113301,
+        "greeting": [],
+        "greeting_talk": [],
+        "greeting_delay": [],
+        "greeting_weight": [],
+        "mainTouch": [
+            "touch1",
+            "touch2"
+        ],
+        "mainTouch_talk": [
+            "113301_talk1",
+            "113301_talk2"
+        ],
+        "mainTouch_delay": [
+            0,
+            0
+        ],
+        "mainTouch_weight": [
+            1,
+            1
+        ],
+        "mainQuickTouch": [],
+        "mainQuickTouch_talk": [],
+        "mainQuickTouch_delay": [],
+        "shaking": [],
+        "shaking_talk": [],
+        "shaking_delay": [],
+        "showing": [],
+        "showing_talk": [],
+        "showing_delay": [],
+        "idle": [],
+        "idle_talk": [],
+        "idle_delay": [],
+        "idle_weight": [],
+        "roleChange": [],
+        "roleChange_talk": [],
+        "roleChange_delay": [],
+        "roleIdle": [],
+        "roleIdle_talk": [],
+        "touch2": [],
+        "touch2_talk": [],
+        "touch2_delay": [],
+        "touch3": [],
+        "touch3_talk": [],
+        "touch3_delay": [],
+        "idle2": [],
+        "idle2_talk": [],
+        "idle2_delay": [],
+        "idle3": [],
+        "idle3_talk": [],
+        "idle3_delay": []
+    },
+    "107002": {
+        "skinId": 107002,
+        "greeting": [],
+        "greeting_talk": [],
+        "greeting_delay": [],
+        "greeting_weight": [],
+        "mainTouch": [
+            "touch1",
+            "touch2"
+        ],
+        "mainTouch_talk": [
+            "107002_talk1",
+            "107002_talk2"
+        ],
+        "mainTouch_delay": [
+            0,
+            0
+        ],
+        "mainTouch_weight": [
+            1,
+            1
+        ],
+        "mainQuickTouch": [],
+        "mainQuickTouch_talk": [],
+        "mainQuickTouch_delay": [],
+        "shaking": [],
+        "shaking_talk": [],
+        "shaking_delay": [],
+        "showing": [],
+        "showing_talk": [],
+        "showing_delay": [],
+        "idle": [],
+        "idle_talk": [],
+        "idle_delay": [],
+        "idle_weight": [],
+        "roleChange": [],
+        "roleChange_talk": [],
+        "roleChange_delay": [],
+        "roleIdle": [],
+        "roleIdle_talk": [],
+        "touch2": [],
+        "touch2_talk": [],
+        "touch2_delay": [],
+        "touch3": [],
+        "touch3_talk": [],
+        "touch3_delay": [],
+        "idle2": [],
+        "idle2_talk": [],
+        "idle2_delay": [],
+        "idle3": [],
+        "idle3_talk": [],
+        "idle3_delay": []
+    },
+    "1034": {
+        "skinId": 1034,
+        "greeting": [
+            "login",
+            "login",
+            "login"
+        ],
+        "greeting_talk": [
+            "1034_greet",
+            "1034_greet2",
+            "1034_greet3"
+        ],
+        "greeting_delay": [
+            495,
+            660,
+            825
+        ],
+        "greeting_weight": [
+            1,
+            1,
+            1
+        ],
+        "mainTouch": [
+            "touch1",
+            "touch2",
+            "touch3",
+            "touch4",
+            "emotion"
+        ],
+        "mainTouch_talk": [
+            "1034_talk1",
+            "1034_talk2",
+            "1034_talk3",
+            "1034_talk4",
+            "1034_talk5"
+        ],
+        "mainTouch_delay": [
+            1056,
+            165,
+            825,
+            66,
+            660
+        ],
+        "mainTouch_weight": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "mainQuickTouch": [
+            "quickclick"
+        ],
+        "mainQuickTouch_talk": [
+            "1034_qc"
+        ],
+        "mainQuickTouch_delay": [
+            330
+        ],
+        "shaking": [
+            "shake"
+        ],
+        "shaking_talk": [
+            "1034_shake"
+        ],
+        "shaking_delay": [
+            155
+        ],
+        "showing": [
+            "assistant"
+        ],
+        "showing_talk": [
+            "1034_assistant"
+        ],
+        "showing_delay": [
+            155
+        ],
+        "idle": [
+            "idle",
+            "idle",
+            "idle"
+        ],
+        "idle_talk": [
+            "1034_idle",
+            "1034_idle2",
+            "1034_idle3"
+        ],
+        "idle_delay": [
+            1320,
+            1320,
+            990
+        ],
+        "idle_weight": [
+            1,
+            1,
+            1
+        ],
+        "roleChange": [],
+        "roleChange_talk": [
+            "1034_choose"
+        ],
+        "roleChange_delay": [
+            0
+        ],
+        "roleIdle": [],
+        "roleIdle_talk": [],
+        "touch2": [],
+        "touch2_talk": [],
+        "touch2_delay": [],
+        "touch3": [],
+        "touch3_talk": [],
+        "touch3_delay": [],
+        "idle2": [],
+        "idle2_talk": [],
+        "idle2_delay": [],
+        "idle3": [],
+        "idle3_talk": [],
+        "idle3_delay": []
+    },
+    "103401": {
+        "skinId": 103401,
+        "greeting": [],
+        "greeting_talk": [],
+        "greeting_delay": [],
+        "greeting_weight": [],
+        "mainTouch": [
+            "touch1",
+            "touch2"
+        ],
+        "mainTouch_talk": [
+            "103401_talk1",
+            "103401_talk2"
+        ],
+        "mainTouch_delay": [
+            0,
+            0
+        ],
+        "mainTouch_weight": [
+            1,
+            1
+        ],
+        "mainQuickTouch": [],
+        "mainQuickTouch_talk": [],
+        "mainQuickTouch_delay": [],
+        "shaking": [],
+        "shaking_talk": [],
+        "shaking_delay": [],
+        "showing": [],
+        "showing_talk": [],
+        "showing_delay": [],
+        "idle": [],
+        "idle_talk": [],
+        "idle_delay": [],
+        "idle_weight": [],
+        "roleChange": [],
+        "roleChange_talk": [],
+        "roleChange_delay": [],
+        "roleIdle": [],
+        "roleIdle_talk": [],
+        "touch2": [],
+        "touch2_talk": [],
+        "touch2_delay": [],
+        "touch3": [],
+        "touch3_talk": [],
+        "touch3_delay": [],
+        "idle2": [],
+        "idle2_talk": [],
+        "idle2_delay": [],
+        "idle3": [],
+        "idle3_talk": [],
+        "idle3_delay": []
+    },
+    "102202": {
+        "skinId": 102202,
+        "greeting": [],
+        "greeting_talk": [],
+        "greeting_delay": [],
+        "greeting_weight": [],
+        "mainTouch": [
+            "touch1",
+            "touch2"
+        ],
+        "mainTouch_talk": [
+            "102202_talk1",
+            "102202_talk2"
+        ],
+        "mainTouch_delay": [
+            0,
+            0
+        ],
+        "mainTouch_weight": [
+            1,
+            1
+        ],
+        "mainQuickTouch": [],
+        "mainQuickTouch_talk": [],
+        "mainQuickTouch_delay": [],
+        "shaking": [],
+        "shaking_talk": [],
+        "shaking_delay": [],
+        "showing": [],
+        "showing_talk": [],
+        "showing_delay": [],
+        "idle": [],
+        "idle_talk": [],
+        "idle_delay": [],
+        "idle_weight": [],
+        "roleChange": [],
+        "roleChange_talk": [],
+        "roleChange_delay": [],
+        "roleIdle": [],
+        "roleIdle_talk": [],
+        "touch2": [],
+        "touch2_talk": [],
+        "touch2_delay": [],
+        "touch3": [],
+        "touch3_talk": [],
+        "touch3_delay": [],
+        "idle2": [],
+        "idle2_talk": [],
+        "idle2_delay": [],
+        "idle3": [],
+        "idle3_talk": [],
+        "idle3_delay": []
+    },
+    "101502": {
+        "skinId": 101502,
+        "greeting": [],
+        "greeting_talk": [],
+        "greeting_delay": [],
+        "greeting_weight": [],
+        "mainTouch": [
+            "touch1",
+            "touch2"
+        ],
+        "mainTouch_talk": [
+            "101502_talk1",
+            "101502_talk2"
         ],
         "mainTouch_delay": [
             0,
@@ -9014,6 +9570,14 @@
         108901,
         128402,
         1248,
-        115002
+        106102,
+        115002,
+        1133,
+        113301,
+        107002,
+        1034,
+        103401,
+        102202,
+        101502
     ]
 }

@@ -3316,6 +3316,42 @@
             "subActivityID"
         ]
     },
+    "16001": {
+        "text_display_1": "\u83b7\u53d6",
+        "text_display_2": "\u9650\u65f6\u6d3b\u52a8",
+        "text_invalid": 0,
+        "need_hide": 1,
+        "asset_pend_key": "",
+        "link": "/activityMain_2_8",
+        "pagename": "",
+        "activity_id": 311001,
+        "params": "",
+        "id": 16001,
+        "icon": "icon_access_site_white",
+        "system_id": 10301,
+        "paramName": [
+            "activityID",
+            "subActivityID"
+        ]
+    },
+    "16002": {
+        "text_display_1": "",
+        "text_display_2": "",
+        "text_invalid": 0,
+        "need_hide": 0,
+        "asset_pend_key": "",
+        "link": "gameHelpPro",
+        "pagename": "",
+        "activity_id": 0,
+        "params": "",
+        "id": 16002,
+        "icon": "icon_access_site_white",
+        "system_id": 0,
+        "paramName": [
+            "pages",
+            "isPrefab"
+        ]
+    },
     "2510": {
         "text_display_1": "",
         "text_display_2": "",
@@ -4222,6 +4258,8 @@
         15706,
         15707,
         15901,
+        16001,
+        16002,
         2510,
         2511,
         2512,

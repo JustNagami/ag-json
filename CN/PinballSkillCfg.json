@@ -1,0 +1,77 @@
+{
+    "30901": {
+        "cost": 150,
+        "action": "drink01_female",
+        "effect_type": 4,
+        "cd": 1,
+        "description": "\u4e0b\u6b21\u53d1\u5c04\u5f39\u73e0\u65f6\uff0c\u5f39\u73e0\u9996\u6b21\u8fd4\u56de\u81f3\u5730\u9762\u540e\u4f1a\u518d\u6b21\u5f39\u51fa\u3002",
+        "special_effects": "skill",
+        "id": 30901,
+        "icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Skill/skill1",
+        "effect": [
+            2,
+            1
+        ]
+    },
+    "30902": {
+        "cost": 150,
+        "action": "drink01_female",
+        "effect_type": 14,
+        "cd": 1,
+        "description": "\u4e0b\u6b21\u53d1\u5c04\u5f39\u73e0\u65f6\uff0c\u589e\u52a05\u4e2a\u5f39\u73e0\u53d1\u5c04\u6570\u91cf\u3002",
+        "special_effects": "skill",
+        "id": 30902,
+        "icon": "TextureConfig/VersionUI/BaichaoUI_3_9/BaichaoUI_3_9_Pinball/Skill/skill2",
+        "effect": [
+            5
+        ]
+    },
+    "30903": {
+        "cost": 0,
+        "action": "attack1",
+        "effect_type": 5,
+        "cd": 0,
+        "description": "\u6bcf\u56de\u5408\u5bf9\u73a9\u5bb6\u9020\u6210\u4e00\u5b9a\u4f24\u5bb3",
+        "special_effects": "skill",
+        "id": 30903,
+        "icon": "TextureConfig/BuffIcon/AFFIX_9091",
+        "effect": [
+            30
+        ]
+    },
+    "30904": {
+        "cost": 0,
+        "action": "skill1",
+        "effect_type": 12,
+        "cd": 3,
+        "description": "\u4e0b\u6b21\u53d1\u5c04\u5f39\u73e0\u65f6\uff0c\u5f39\u73e0\u5f39\u5c0410\u6b21\u540e\u4f1a\u81ea\u52a8\u6d88\u5931",
+        "special_effects": "skill",
+        "id": 30904,
+        "icon": "TextureConfig/BuffIcon/AFFIX_DOTIMMUNE",
+        "effect": [
+            3,
+            1
+        ]
+    },
+    "30905": {
+        "cost": 0,
+        "action": "skill1",
+        "effect_type": 13,
+        "cd": 3,
+        "description": "\u5c06\u573a\u5730\u4e2d\u6240\u6709\u7816\u5757\u7c7b\u578b\u8f6c\u5316\u4e3a\u518d\u751f\u7816\u5757\u6301\u7eed1\u56de\u5408",
+        "special_effects": "skill",
+        "id": 30905,
+        "icon": "TextureConfig/BuffIcon/AFFIX_BUFF_SHIELD",
+        "effect": [
+            5,
+            1
+        ]
+    },
+    "all": [
+        30901,
+        30902,
+        30903,
+        30904,
+        30905
+    ]
+}

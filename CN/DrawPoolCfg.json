@@ -163,7 +163,11 @@
             3001293,
             3001302,
             3001311,
-            3001320
+            3001320,
+            3001330,
+            3001337,
+            3001338,
+            3001344
         ],
         "cost_once": [
             19,
@@ -3497,7 +3501,11 @@
             3001312,
             3001313,
             3001321,
-            3001322
+            3001322,
+            3001331,
+            3001332,
+            3001345,
+            3001346
         ],
         "cost_once": [
             5,
@@ -5600,7 +5608,12 @@
             3001316,
             3001317,
             3001318,
-            3001319
+            3001319,
+            3001325,
+            3001326,
+            3001327,
+            3001328,
+            3001329
         ],
         "cost_once": [
             38,
@@ -5627,7 +5640,7 @@
         "optional_lists_a": "",
         "name": "\u6a31\u534e\u5c3d\u8d77",
         "detail_note": "",
-        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_8",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_10",
         "pool_show_type": 7,
         "order": 3,
         "pool_selected_type": 1,
@@ -5651,7 +5664,12 @@
             3001316,
             3001317,
             3001318,
-            3001319
+            3001319,
+            3001325,
+            3001326,
+            3001327,
+            3001328,
+            3001329
         ],
         "cost_once": [
             38,
@@ -5721,6 +5739,515 @@
         "cost_once_activity_material": [],
         "cost_ten_times_activity_material": []
     },
+    "3090601": {
+        "optional_lists": "",
+        "pool_type": 6,
+        "optional_detail": "",
+        "pool_change": 0,
+        "optional_lists_a": "",
+        "name": "\u8679\u5f0f\u534f\u8bae",
+        "detail_note": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_9",
+        "pool_show_type": 6,
+        "order": 1,
+        "pool_selected_type": 3,
+        "exchange_id": 6000003,
+        "optional_lists_poolId": "",
+        "discount": 100,
+        "id": 3090601,
+        "unoption_up_items": [
+            [
+                1133
+            ],
+            []
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001325,
+            3001326,
+            3001327,
+            3001328,
+            3001329
+        ],
+        "cost_once": [
+            38,
+            1
+        ],
+        "cost_ten_times": [
+            38,
+            10
+        ],
+        "cost_once_activity_material": [
+            62,
+            1
+        ],
+        "cost_ten_times_activity_material": [
+            62,
+            10
+        ]
+    },
+    "3090301": {
+        "optional_lists": "",
+        "pool_type": 3,
+        "optional_detail": "",
+        "pool_change": 0,
+        "optional_lists_a": "",
+        "name": "\u8679\u5f0f\u534f\u8bae",
+        "detail_note": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_8",
+        "pool_show_type": 3,
+        "order": 1,
+        "pool_selected_type": 1,
+        "exchange_id": 6000003,
+        "optional_lists_poolId": "",
+        "discount": 100,
+        "id": 3090301,
+        "unoption_up_items": [
+            [
+                1133
+            ],
+            []
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001325,
+            3001326,
+            3001327,
+            3001328,
+            3001329
+        ],
+        "cost_once": [
+            38,
+            1
+        ],
+        "cost_ten_times": [
+            38,
+            10
+        ],
+        "cost_once_activity_material": [
+            62,
+            1
+        ],
+        "cost_ten_times_activity_material": [
+            62,
+            10
+        ]
+    },
+    "3090302": {
+        "optional_lists": "",
+        "pool_type": 3,
+        "optional_detail": "",
+        "pool_change": 0,
+        "optional_lists_a": "",
+        "name": "\u5ff5\u826f\u6e38",
+        "detail_note": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_8",
+        "pool_show_type": 3,
+        "order": 2,
+        "pool_selected_type": 1,
+        "exchange_id": 6000003,
+        "optional_lists_poolId": "",
+        "discount": 100,
+        "id": 3090302,
+        "unoption_up_items": [
+            [
+                1061
+            ],
+            []
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001325,
+            3001326,
+            3001327,
+            3001328,
+            3001329
+        ],
+        "cost_once": [
+            38,
+            1
+        ],
+        "cost_ten_times": [
+            38,
+            10
+        ],
+        "cost_once_activity_material": [
+            62,
+            1
+        ],
+        "cost_ten_times_activity_material": [
+            62,
+            10
+        ]
+    },
+    "3090303": {
+        "optional_lists": "",
+        "pool_type": 3,
+        "optional_detail": "",
+        "pool_change": 0,
+        "optional_lists_a": "",
+        "name": "\u4e7e\u5764\u5f00\u543e",
+        "detail_note": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_8",
+        "pool_show_type": 3,
+        "order": 3,
+        "pool_selected_type": 1,
+        "exchange_id": 6000003,
+        "optional_lists_poolId": "",
+        "discount": 100,
+        "id": 3090303,
+        "unoption_up_items": [
+            [
+                1076
+            ],
+            []
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001325,
+            3001326,
+            3001327,
+            3001328,
+            3001329
+        ],
+        "cost_once": [
+            38,
+            1
+        ],
+        "cost_ten_times": [
+            38,
+            10
+        ],
+        "cost_once_activity_material": [
+            62,
+            1
+        ],
+        "cost_ten_times_activity_material": [
+            62,
+            10
+        ]
+    },
+    "3090101": {
+        "pool_type": 1,
+        "pool_change": 0,
+        "optional_lists_a": "",
+        "name": "\u9009\u62e9\u4fee\u6b63\u8005",
+        "detail_note": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_11",
+        "pool_show_type": 1,
+        "order": 1,
+        "pool_selected_type": 2,
+        "exchange_id": 6000001,
+        "discount": 100,
+        "id": 3090101,
+        "unoption_up_items": [
+            [],
+            []
+        ],
+        "optional_detail": [
+            1067,
+            1081,
+            1127
+        ],
+        "optional_lists_poolId": [
+            1067,
+            1081,
+            1127
+        ],
+        "optional_lists": [
+            1067,
+            1081,
+            1127
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001325,
+            3001331,
+            3001332
+        ],
+        "cost_once": [
+            5,
+            1
+        ],
+        "cost_ten_times": [
+            5,
+            10
+        ],
+        "cost_once_activity_material": [],
+        "cost_ten_times_activity_material": []
+    },
+    "3100601": {
+        "optional_lists": "",
+        "pool_type": 6,
+        "optional_detail": "",
+        "pool_change": 0,
+        "optional_lists_a": "",
+        "name": "\u6495\u88c2\u8ff7\u6cbc\u4e4b\u7259",
+        "detail_note": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_9",
+        "pool_show_type": 6,
+        "order": 1,
+        "pool_selected_type": 3,
+        "exchange_id": 6000003,
+        "optional_lists_poolId": "",
+        "discount": 100,
+        "id": 3100601,
+        "unoption_up_items": [
+            [
+                1034
+            ],
+            []
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001335,
+            3001336,
+            3001340,
+            3001341,
+            3001342,
+            3001343
+        ],
+        "cost_once": [
+            38,
+            1
+        ],
+        "cost_ten_times": [
+            38,
+            10
+        ],
+        "cost_once_activity_material": [
+            62,
+            1
+        ],
+        "cost_ten_times_activity_material": [
+            62,
+            10
+        ]
+    },
+    "3100301": {
+        "optional_lists": "",
+        "pool_type": 3,
+        "optional_detail": "",
+        "pool_change": 0,
+        "optional_lists_a": "",
+        "name": "\u6495\u88c2\u8ff7\u6cbc\u4e4b\u7259",
+        "detail_note": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_8",
+        "pool_show_type": 3,
+        "order": 1,
+        "pool_selected_type": 1,
+        "exchange_id": 6000003,
+        "optional_lists_poolId": "",
+        "discount": 100,
+        "id": 3100301,
+        "unoption_up_items": [
+            [
+                1034
+            ],
+            []
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001335,
+            3001336,
+            3001340,
+            3001341,
+            3001342,
+            3001343
+        ],
+        "cost_once": [
+            38,
+            1
+        ],
+        "cost_ten_times": [
+            38,
+            10
+        ],
+        "cost_once_activity_material": [
+            62,
+            1
+        ],
+        "cost_ten_times_activity_material": [
+            62,
+            10
+        ]
+    },
+    "3100302": {
+        "optional_lists": "",
+        "pool_type": 3,
+        "optional_detail": "",
+        "pool_change": 0,
+        "optional_lists_a": "",
+        "name": "\u5386\u4e16\u72c2\u6b4c",
+        "detail_note": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_8",
+        "pool_show_type": 3,
+        "order": 2,
+        "pool_selected_type": 1,
+        "exchange_id": 6000003,
+        "optional_lists_poolId": "",
+        "discount": 100,
+        "id": 3100302,
+        "unoption_up_items": [
+            [
+                1015
+            ],
+            []
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001335,
+            3001336,
+            3001340,
+            3001341,
+            3001342,
+            3001343
+        ],
+        "cost_once": [
+            38,
+            1
+        ],
+        "cost_ten_times": [
+            38,
+            10
+        ],
+        "cost_once_activity_material": [
+            62,
+            1
+        ],
+        "cost_ten_times_activity_material": [
+            62,
+            10
+        ]
+    },
+    "3100303": {
+        "optional_lists": "",
+        "pool_type": 3,
+        "optional_detail": "",
+        "pool_change": 0,
+        "optional_lists_a": "",
+        "name": "\u5e7d\u76c8\u591c\u6b4c",
+        "detail_note": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_10",
+        "pool_show_type": 7,
+        "order": 3,
+        "pool_selected_type": 1,
+        "exchange_id": 6000003,
+        "optional_lists_poolId": "",
+        "discount": 100,
+        "id": 3100303,
+        "unoption_up_items": [
+            [
+                1022
+            ],
+            []
+        ],
+        "excluded_group": [
+            [
+                1012
+            ],
+            []
+        ],
+        "recharge_shop_list": [
+            3001335,
+            3001336,
+            3001340,
+            3001341,
+            3001342,
+            3001343
+        ],
+        "cost_once": [
+            38,
+            1
+        ],
+        "cost_ten_times": [
+            38,
+            10
+        ],
+        "cost_once_activity_material": [
+            62,
+            1
+        ],
+        "cost_ten_times_activity_material": [
+            62,
+            10
+        ]
+    },
+    "3100101": {
+        "pool_type": 1,
+        "pool_change": 0,
+        "optional_lists_a": "",
+        "name": "\u9009\u62e9\u4fee\u6b63\u8005",
+        "detail_note": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_11",
+        "pool_show_type": 1,
+        "order": 1,
+        "pool_selected_type": 2,
+        "exchange_id": 6000001,
+        "discount": 100,
+        "id": 3100101,
+        "unoption_up_items": [
+            [],
+            []
+        ],
+        "optional_detail": [
+            1042,
+            1093,
+            1119
+        ],
+        "optional_lists_poolId": [
+            1042,
+            1093,
+            1119
+        ],
+        "optional_lists": [
+            1042,
+            1093,
+            1119
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001345,
+            3001346
+        ],
+        "cost_once": [
+            5,
+            1
+        ],
+        "cost_ten_times": [
+            5,
+            10
+        ],
+        "cost_once_activity_material": [],
+        "cost_ten_times_activity_material": []
+    },
     "all": [
         10000,
         2060604,
@@ -5753,6 +6280,12 @@
         3080601,
         3080301,
         3080101,
+        3090601,
+        3090301,
+        3090101,
+        3100601,
+        3100301,
+        3100101,
         10003,
         10013,
         10023,
@@ -5789,6 +6322,8 @@
         3060302,
         3070302,
         3080302,
+        3090302,
+        3100302,
         10001,
         10011,
         10021,
@@ -5823,6 +6358,8 @@
         3060304,
         3070303,
         3080303,
+        3090303,
+        3100303,
         10121,
         10131,
         10181,

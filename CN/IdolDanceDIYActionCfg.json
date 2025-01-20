@@ -89,6 +89,16 @@
         "anime_action": "type1_b16_02",
         "beat": 32
     },
+    "1008": {
+        "need": 7,
+        "name": "\u4e50\u89c2\u52a8\u4f5c10",
+        "unlock_condition": 81111,
+        "type": 1,
+        "id": 1008,
+        "duration": 5.97,
+        "anime_action": "type1_b8_08",
+        "beat": 16
+    },
     "2001": {
         "need": 0,
         "name": "\u76f4\u7387\u52a8\u4f5c1",
@@ -168,6 +178,26 @@
         "duration": 9.73,
         "anime_action": "type2_b16_01",
         "beat": 32
+    },
+    "2008": {
+        "need": 35,
+        "name": "\u76f4\u7387\u52a8\u4f5c9",
+        "unlock_condition": 81101,
+        "type": 2,
+        "id": 2008,
+        "duration": 7.17,
+        "anime_action": "type2_b8_08",
+        "beat": 16
+    },
+    "2009": {
+        "need": 40,
+        "name": "\u76f4\u7387\u52a8\u4f5c10",
+        "unlock_condition": 81101,
+        "type": 2,
+        "id": 2009,
+        "duration": 6.07,
+        "anime_action": "type2_b8_09",
+        "beat": 16
     },
     "3001": {
         "need": 0,
@@ -249,6 +279,26 @@
         "anime_action": "type3_b16_01",
         "beat": 32
     },
+    "3008": {
+        "need": 8,
+        "name": "\u81ea\u4fe1\u52a8\u4f5c9",
+        "unlock_condition": 81121,
+        "type": 3,
+        "id": 3008,
+        "duration": 8.1,
+        "anime_action": "type3_b8_08",
+        "beat": 16
+    },
+    "3009": {
+        "need": 10,
+        "name": "\u81ea\u4fe1\u52a8\u4f5c10",
+        "unlock_condition": 81121,
+        "type": 3,
+        "id": 3009,
+        "duration": 6.34,
+        "anime_action": "type3_b8_09",
+        "beat": 16
+    },
     "4001": {
         "need": 0,
         "name": "\u5185\u655b\u52a8\u4f5c1",
@@ -328,6 +378,16 @@
         "duration": 9.7,
         "anime_action": "type4_b16_01",
         "beat": 32
+    },
+    "4008": {
+        "need": 10,
+        "name": "\u5185\u655b\u52a8\u4f5c9",
+        "unlock_condition": 81137,
+        "type": 4,
+        "id": 4008,
+        "duration": 6,
+        "anime_action": "type4_b8_08",
+        "beat": 16
     },
     "5001": {
         "need": 0,
@@ -409,6 +469,16 @@
         "anime_action": "type5_b16_01",
         "beat": 32
     },
+    "5008": {
+        "need": 15,
+        "name": "\u7a33\u91cd\u52a8\u4f5c9",
+        "unlock_condition": 81137,
+        "type": 5,
+        "id": 5008,
+        "duration": 8.34,
+        "anime_action": "type5_b8_08",
+        "beat": 16
+    },
     "all": [
         1001,
         1002,
@@ -419,6 +489,7 @@
         1007,
         1101,
         1102,
+        1008,
         2001,
         2002,
         2003,
@@ -427,6 +498,8 @@
         2006,
         2007,
         2101,
+        2008,
+        2009,
         3001,
         3002,
         3003,
@@ -435,6 +508,8 @@
         3006,
         3007,
         3101,
+        3008,
+        3009,
         4001,
         4002,
         4003,
@@ -443,6 +518,7 @@
         4006,
         4007,
         4101,
+        4008,
         5001,
         5002,
         5003,
@@ -450,6 +526,7 @@
         5005,
         5006,
         5007,
-        5101
+        5101,
+        5008
     ]
 }

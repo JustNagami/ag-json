@@ -1,0 +1,752 @@
+{
+    "1": {
+        "id": 1,
+        "name": "\u53cc\u624b\u6258\u5929",
+        "type": 1,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u7fa4\u4fa0\u724c",
+        "acquire_text": "",
+        "illustration": "BloodCard_char_1",
+        "power": 1,
+        "icon": "BloodCard_char_1",
+        "need_point": 1,
+        "c_grid_list": [
+            [
+                0,
+                -1
+            ],
+            [
+                -1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "2": {
+        "id": 2,
+        "name": "\u5de6\u53f3\u5f00\u5f13",
+        "type": 1,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u7fa4\u4fa0\u724c",
+        "acquire_text": "",
+        "illustration": "BloodCard_char_2",
+        "power": 3,
+        "icon": "BloodCard_char_2",
+        "need_point": 2,
+        "c_grid_list": [
+            [
+                0,
+                -2
+            ],
+            [
+                0,
+                -1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                2
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "3": {
+        "id": 3,
+        "name": "\u671b\u7a79\u5355\u4e3e",
+        "type": 1,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u7fa4\u4fa0\u724c",
+        "acquire_text": "",
+        "illustration": "BloodCard_char_3",
+        "power": 2,
+        "icon": "BloodCard_char_3",
+        "need_point": 2,
+        "c_grid_list": [
+            [
+                0,
+                -1
+            ],
+            [
+                1,
+                -1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "4": {
+        "id": 4,
+        "name": "\u7b4b\u9aa8\u8212\u5c55",
+        "type": 1,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u7fa4\u4fa0\u724c",
+        "acquire_text": "",
+        "illustration": "BloodCard_char_4",
+        "power": 2,
+        "icon": "BloodCard_char_4",
+        "need_point": 1,
+        "c_grid_list": [
+            [
+                0,
+                -2
+            ],
+            [
+                0,
+                2
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "5": {
+        "id": 5,
+        "name": "\u91d1\u4e4c\u6446\u5c3e",
+        "type": 1,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u7fa4\u4fa0\u724c",
+        "acquire_text": "",
+        "illustration": "BloodCard_char_5",
+        "power": 2,
+        "icon": "BloodCard_char_5",
+        "need_point": 1,
+        "c_grid_list": [
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "6": {
+        "id": 6,
+        "name": "\u53cc\u624b\u6500\u8db3",
+        "type": 1,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u7fa4\u4fa0\u724c",
+        "acquire_text": "",
+        "illustration": "BloodCard_char_6",
+        "power": 2,
+        "icon": "BloodCard_char_6",
+        "need_point": 1,
+        "c_grid_list": [
+            [
+                0,
+                -1
+            ],
+            [
+                1,
+                0
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "7": {
+        "id": 7,
+        "name": "\u6512\u62f3\u6012\u76ee",
+        "type": 1,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u7fa4\u4fa0\u724c",
+        "acquire_text": "",
+        "illustration": "BloodCard_char_7",
+        "power": 4,
+        "icon": "BloodCard_char_7",
+        "need_point": 2,
+        "c_grid_list": [
+            [
+                0,
+                -1
+            ],
+            [
+                -1,
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "8": {
+        "id": 8,
+        "name": "\u767e\u75c5\u6d88",
+        "type": 1,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u7fa4\u4fa0\u724c",
+        "acquire_text": "",
+        "illustration": "BloodCard_char_8",
+        "power": 2,
+        "icon": "BloodCard_char_8",
+        "need_point": 3,
+        "c_grid_list": [
+            [
+                -1,
+                -1
+            ],
+            [
+                0,
+                -1
+            ],
+            [
+                1,
+                -1
+            ],
+            [
+                -1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                -1,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "11": {
+        "id": 11,
+        "name": "\u5e7b\u773c\u4e91\u6e6e",
+        "type": 2,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u7fa4\u4fa0\u724c",
+        "acquire_text": "\u901a\u8fc7\u6697\u5fa1\u6d25\u7fbd\u00b7\u5176\u4e00\u540e\u89e3\u9501",
+        "illustration": "BloodCard_char_11",
+        "power": 3,
+        "icon": "BloodCard_char_11",
+        "need_point": 0,
+        "c_grid_list": [
+            [
+                0,
+                -1
+            ],
+            [
+                -1,
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "12": {
+        "id": 12,
+        "name": "\u70df\u96e8\u7f25\u7f08",
+        "type": 1,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u5728\u573a\u65f6\uff0c\u7279\u6b8a\u6548\u679c\u573a\u5730\u5185\u5df1\u65b9\u4fa0\u58eb\u80fd\u529b+1",
+        "acquire_text": "\u901a\u8fc7\u8001\u677f\u5a18\u7684\u6559\u5b66\u89e3\u9501",
+        "illustration": "BloodCard_char_12",
+        "power": 2,
+        "icon": "BloodCard_char_12",
+        "need_point": 2,
+        "c_grid_list": [
+            [
+                -1,
+                -1
+            ],
+            [
+                1,
+                -1
+            ],
+            [
+                -1,
+                1
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "s_grid_list": [
+            [
+                0,
+                -1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "effect_list": [
+            [
+                101
+            ],
+            [
+                101
+            ]
+        ]
+    },
+    "13": {
+        "id": 13,
+        "name": "\u767d\u8679\u8d2f\u65e5",
+        "type": 1,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u7fa4\u4fa0\u724c",
+        "acquire_text": "\u901a\u8fc7\u9a6c\u5c14\u675c\u514b\u00b7\u5176\u4e00\u540e\u89e3\u9501",
+        "illustration": "BloodCard_char_13",
+        "power": 1,
+        "icon": "BloodCard_char_13",
+        "need_point": 1,
+        "c_grid_list": [
+            [
+                1,
+                0
+            ],
+            [
+                2,
+                0
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "14": {
+        "id": 14,
+        "name": "\u508d\u82b1\u62c2\u67f3",
+        "type": 2,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u5728\u573a\u65f6\uff0c\u7279\u6b8a\u6548\u679c\u573a\u5730\u5185\u5df1\u65b9\u4fa0\u58eb\u80fd\u529b+1",
+        "acquire_text": "\u901a\u8fc7\u6697\u5fa1\u6d25\u7fbd\u00b7\u5176\u4e09\u540e\u89e3\u9501",
+        "illustration": "BloodCard_char_14",
+        "power": 2,
+        "icon": "BloodCard_char_14",
+        "need_point": 0,
+        "c_grid_list": [],
+        "s_grid_list": [
+            [
+                0,
+                -2
+            ],
+            [
+                1,
+                -2
+            ],
+            [
+                0,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ],
+        "effect_list": [
+            [
+                101
+            ],
+            [
+                101
+            ],
+            [
+                101
+            ],
+            [
+                101
+            ]
+        ]
+    },
+    "15": {
+        "id": 15,
+        "name": "\u91d1\u96c1\u6a2a\u7a7a",
+        "type": 1,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u7fa4\u4fa0\u724c",
+        "acquire_text": "\u901a\u8fc7\u82ad\u4e1d\u7279\u00b7\u5176\u4e8c\u540e\u89e3\u9501",
+        "illustration": "BloodCard_char_15",
+        "power": 7,
+        "icon": "BloodCard_char_15",
+        "need_point": 3,
+        "c_grid_list": [
+            [
+                -1,
+                0
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "16": {
+        "id": 16,
+        "name": "\u98ce\u4f34\u6d41\u4e91",
+        "type": 1,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u7fa4\u4fa0\u724c",
+        "acquire_text": "\u901a\u8fc7\u9a6c\u5c14\u675c\u514b\u00b7\u5176\u4e8c\u540e\u89e3\u9501",
+        "illustration": "BloodCard_char_16",
+        "power": 5,
+        "icon": "BloodCard_char_16",
+        "need_point": 2,
+        "c_grid_list": [
+            [
+                0,
+                -2
+            ],
+            [
+                1,
+                -2
+            ],
+            [
+                0,
+                2
+            ],
+            [
+                1,
+                2
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "21": {
+        "id": 21,
+        "name": "\u98ce\u971c\u788e\u5f71",
+        "type": 1,
+        "kind": 0,
+        "limit": 2,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u7fa4\u4fa0\u724c",
+        "acquire_text": "\u53bb\u627e\u7984\u826f\u804a\u804a",
+        "illustration": "BloodCard_char_21",
+        "power": 5,
+        "icon": "BloodCard_char_21",
+        "need_point": 3,
+        "c_grid_list": [
+            [
+                0,
+                -2
+            ],
+            [
+                2,
+                0
+            ],
+            [
+                0,
+                2
+            ],
+            [
+                -2,
+                0
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "31": {
+        "id": 31,
+        "name": "\u6708\u5f71\u79fb\u82b1",
+        "type": 2,
+        "kind": 99,
+        "limit": 1,
+        "desc": "\u5728\u573a\u65f6\uff0c\u7279\u6b8a\u6548\u679c\u683c\u573a\u5730\u5185\u5df1\u65b9\u4fa0\u58eb\u80fd\u529b+2",
+        "acquire_text": "\u901a\u8fc7\u6697\u5fa1\u6d25\u7fbd\u00b7\u5176\u4e8c\u540e\u89e3\u9501",
+        "illustration": "BloodCard_char_31",
+        "power": 2,
+        "icon": "BloodCard_char_31",
+        "need_point": 0,
+        "c_grid_list": [
+            [
+                0,
+                -1
+            ],
+            [
+                -1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "s_grid_list": [
+            [
+                -1,
+                -1
+            ],
+            [
+                0,
+                -1
+            ],
+            [
+                1,
+                -1
+            ],
+            [
+                -1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                -1,
+                1
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "effect_list": [
+            [
+                110
+            ],
+            [
+                110
+            ],
+            [
+                110
+            ],
+            [
+                110
+            ],
+            [
+                110
+            ],
+            [
+                110
+            ],
+            [
+                110
+            ],
+            [
+                110
+            ]
+        ]
+    },
+    "32": {
+        "id": 32,
+        "name": "\u98d8\u7136\u51fa\u5c18",
+        "type": 1,
+        "kind": 99,
+        "limit": 1,
+        "desc": "\u53ea\u662f\u4e00\u5f20\u666e\u901a\u7684\u8d85\u7ea7\u7fa4\u4fa0\u724c",
+        "acquire_text": "\u901a\u8fc7\u8001\u677f\u5a18\u7684\u6559\u5b66\u89e3\u9501",
+        "illustration": "BloodCard_char_32",
+        "power": 3,
+        "icon": "BloodCard_char_32",
+        "need_point": 2,
+        "c_grid_list": [
+            [
+                0,
+                -1
+            ],
+            [
+                1,
+                -1
+            ],
+            [
+                -1,
+                0
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                2,
+                0
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "s_grid_list": [],
+        "effect_list": []
+    },
+    "33": {
+        "id": 33,
+        "name": "\u767d\u4e91\u51fa\u5cab",
+        "type": 1,
+        "kind": 99,
+        "limit": 1,
+        "desc": "\u5165\u573a\u540e\uff0c\u4f7f\u7279\u6b8a\u6548\u679c\u573a\u5730\u5185\u7684\u4fa0\u58eb\u9000\u573a\u5e76\u83b7\u5f97\u5176\u80fd\u529b",
+        "acquire_text": "\u901a\u8fc7\u82ad\u65af\u7279\u00b7\u5176\u4e00\u540e\u89e3\u9501",
+        "illustration": "BloodCard_char_33",
+        "power": 2,
+        "icon": "BloodCard_char_33",
+        "need_point": 1,
+        "c_grid_list": [
+            [
+                1,
+                -1
+            ],
+            [
+                1,
+                1
+            ]
+        ],
+        "s_grid_list": [
+            [
+                1,
+                -2
+            ],
+            [
+                1,
+                -1
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                2
+            ]
+        ],
+        "effect_list": [
+            [
+                111,
+                114
+            ],
+            [
+                111,
+                114
+            ],
+            [
+                111,
+                114
+            ],
+            [
+                111,
+                114
+            ]
+        ]
+    },
+    "34": {
+        "id": 34,
+        "name": "\u5374\u522b\u82cd\u677e",
+        "type": 1,
+        "kind": 99,
+        "limit": 1,
+        "desc": "\u5728\u573a\u65f6\uff0c\u6bcf\u6709\u4e00\u4f4d\u4fa0\u58eb\u9000\u573a\uff0c\u4fa0\u58eb\u80fd\u529b+2",
+        "acquire_text": "\u901a\u8fc7\u6697\u5fa1\u6d25\u7fbd\u00b7\u5176\u56db\u540e\u89e3\u9501",
+        "illustration": "BloodCard_char_34",
+        "power": 1,
+        "icon": "BloodCard_char_34",
+        "need_point": 2,
+        "c_grid_list": [
+            [
+                0,
+                -1
+            ],
+            [
+                1,
+                0
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "s_grid_list": [
+            [
+                0,
+                0
+            ]
+        ],
+        "effect_list": [
+            [
+                112
+            ]
+        ]
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        21,
+        31,
+        32,
+        33,
+        34
+    ]
+}

@@ -95,6 +95,12 @@
         "prefab_path": "Widget/Version/BaichaoUI_Com/BaichaoUI_3_8_PlotUI",
         "id": 301201
     },
+    "311201": {
+        "chapter_type": 2,
+        "chapter_client_id": 6010015,
+        "prefab_path": "Widget/Version/CORGUI_Com/CorgUI_3_10_PlotUI",
+        "id": 311201
+    },
     "all": [
         141200,
         141204,
@@ -111,6 +117,7 @@
         271201,
         281201,
         291201,
-        301201
+        301201,
+        311201
     ]
 }

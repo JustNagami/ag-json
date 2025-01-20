@@ -750,6 +750,40 @@
             7507
         ]
     },
+    "300012": {
+        "cost_item_list": "",
+        "type": 0,
+        "id": 300012,
+        "title": "\u9650\u65f6\u7b7e\u5230",
+        "ui_path": "Widget/Version/BaichaoUI_3_9/BaichaoUI_3_9_SevenDaySignUI/BaichaoUI_3_9_SevenDaySignUI",
+        "limit_level": 0,
+        "config_list": [
+            7501,
+            7502,
+            7503,
+            7504,
+            7505,
+            7506,
+            7507
+        ]
+    },
+    "310011": {
+        "cost_item_list": "",
+        "type": 0,
+        "id": 310011,
+        "title": "\u9650\u65f6\u7b7e\u5230",
+        "ui_path": "Widget/Version/CORGUI_3_10/CORGUI_3_10_SevenDaySignUI/CORGUI_3_10_SevenDaySignUI",
+        "limit_level": 0,
+        "config_list": [
+            7501,
+            7502,
+            7503,
+            7504,
+            7505,
+            7506,
+            7507
+        ]
+    },
     "all": [
         1,
         60011,
@@ -791,6 +825,8 @@
         293401,
         290011,
         290012,
-        300011
+        300011,
+        300012,
+        310011
     ]
 }

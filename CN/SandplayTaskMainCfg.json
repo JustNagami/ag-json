@@ -1,0 +1,1877 @@
+{
+    "101": {
+        "main_task_type": 1,
+        "descrption": "\u8be5\u6d41\u7a0b\u5185\u4e00\u5171\u5305\u542b9\u4e2a\u4efb\u52a1",
+        "chapter_task_id": 1,
+        "priority": 999,
+        "unlock_param": "",
+        "title": "\u4efb\u52a1demo",
+        "main_task_id": 101,
+        "end_task_id": 109,
+        "activity_id": 0,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 101,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                100
+            ],
+            [
+                20002,
+                1
+            ]
+        ],
+        "important_reward": []
+    },
+    "201": {
+        "main_task_type": 3,
+        "descrption": "\u5728\u6d4b\u8bd5\u4e3b\u4efb\u52a1\u4e2d\u751f\u6210\u7684\u5b9d\u7bb1",
+        "chapter_task_id": 0,
+        "priority": 999,
+        "unlock_param": "",
+        "title": "\u5b9d\u7bb1demo",
+        "main_task_id": 201,
+        "end_task_id": 201,
+        "activity_id": 0,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 201,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                12,
+                10
+            ],
+            [
+                20002,
+                1
+            ]
+        ],
+        "important_reward": []
+    },
+    "202": {
+        "main_task_type": 3,
+        "descrption": "\u4e00\u4e2a\u72ec\u7acb\u7684\u5b9d\u7bb1\u4efb\u52a1",
+        "chapter_task_id": 0,
+        "priority": 999,
+        "unlock_param": "",
+        "title": "\u5b9d\u7bb1demo",
+        "main_task_id": 202,
+        "end_task_id": 202,
+        "activity_id": 0,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 202,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                12,
+                10
+            ],
+            [
+                20002,
+                1
+            ]
+        ],
+        "important_reward": []
+    },
+    "10101": {
+        "main_task_type": 1,
+        "descrption": "\u521a\u521a\u8fd8\u5728\u7814\u7a76\u8001\u5e08\u753b\u5377\u7684\u91d1\u4e4c\uff0c\u4e00\u6643\u773c\u5c31\u6765\u5230\u4e86\u81ea\u5df1\u6ca1\u89c1\u8fc7\u7684\u5730\u65b9\u2014\u2014\u8fd9\u5230\u5e95\u662f\u4ec0\u4e48\u60c5\u51b5\uff1f\u5148\u5728\u9644\u8fd1\u8f6c\u8f6c\u770b\u5427\u3002",
+        "chapter_task_id": 0,
+        "priority": 1,
+        "unlock_param": "",
+        "title": "\u4ec0\u4e48\u60c5\u51b5\uff1f",
+        "main_task_id": 10101,
+        "end_task_id": 10101001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10101001,
+        "next_main_mission": 10102,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10102": {
+        "main_task_type": 1,
+        "descrption": "\u91d1\u4e4c\u9010\u6e10\u610f\u8bc6\u5230\uff0c\u81ea\u5df1\u53ef\u80fd\u5df2\u7ecf\u8fdb\u5165\u5230\u4e86\u4e00\u4e2a\u7c7b\u4f3c\u5e7b\u5883\u7684\u4e16\u754c\u4e2d\u3002\u83ab\u975e\u8fd9\u5c31\u662f\u8001\u5e08\u753b\u5377\u91cc\u7684\u5730\u65b9\uff1f\u773c\u4e0b\uff0c\u6216\u8bb8\u5e94\u8be5\u5148\u627e\u4e2a\u4eba\u95ee\u95ee\u60c5\u51b5\u3002",
+        "chapter_task_id": 0,
+        "priority": 1,
+        "title": "\u771f\u4e5f\uff1f\u5e7b\u4e5f\uff1f",
+        "main_task_id": 10102,
+        "end_task_id": 10102002,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10102001,
+        "next_main_mission": 10103,
+        "receive_npc": 0,
+        "unlock_param": [
+            70005
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10103": {
+        "main_task_type": 1,
+        "descrption": "\u8def\u9047\u719f\u4eba\uff0c\u53c8\u52a0\u4e0a\u5730\u56fe\u5230\u624b\uff0c\u91d1\u4e4c\u9010\u6e10\u653e\u4e0b\u4e86\u5fc3\u4e2d\u7684\u4e0d\u5b89\u3002\u81f3\u4e8e\u4e3a\u4ec0\u4e48\u82f1\u62db\u4e5f\u4f1a\u6765\u5230\u753b\u5377\u4e2d\uff1f\u90a3\u79cd\u4e8b\u60c5\u4e0d\u91cd\u8981\uff0c\u4e00\u5b9a\u662f\u8001\u5e08\u7684\u5b89\u6392\uff01\u65e2\u6765\u4e4b\u5219\u5b89\u4e4b\uff0c\u63a5\u4e0b\u6765\u5c31\u8ddf\u968f\u82f1\u62db\uff0c\u4e86\u89e3\u4e00\u4e9b\u5173\u4e8e\u6b64\u5730\u7684\u5f80\u4e8b\u5427\u3002",
+        "chapter_task_id": 0,
+        "priority": 1,
+        "title": "\u65b0\u6cf0\u5f80\u4e8b",
+        "main_task_id": 10103,
+        "end_task_id": 10103003,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10103001,
+        "next_main_mission": 10104,
+        "receive_npc": 0,
+        "unlock_param": [
+            70006
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ],
+            [
+                39,
+                10000
+            ],
+            [
+                54116,
+                1000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10104": {
+        "main_task_type": 1,
+        "descrption": "\u8bf4\u662f\u300c\u65e2\u6765\u4e4b\u5219\u5b89\u4e4b\u300d\uff0c\u4f46\u91d1\u4e4c\u60f3\u8d77\u4e86\u5e08\u7236\u4e34\u884c\u524d\u7684\u53ee\u5631\u2014\u2014\u8981\u597d\u597d\u5b66\u4e60\u5929\u901a\u672f\uff01\u8fd9\u53ef\u662f\u4e2a\u5927\u96be\u9898\uff0c\u91d1\u4e4c\u7422\u78e8\u4e86\u4e00\u9635\u540e\uff0c\u89c9\u5f97\u8fd8\u662f\u5f97\u6709\u4e2a\u624b\u6bb5\uff0c\u628a\u81ea\u5df1\u7684\u4fee\u4e60\u5386\u7a0b\u8bb0\u5f55\u4e0b\u6765\u2026\u2026\u6240\u4ee5\uff0c\u5c31\u51b3\u5b9a\u662f\u4f60\u4e86\uff0c\u5b5f\u7ae0\uff01",
+        "chapter_task_id": 0,
+        "priority": 1,
+        "title": "\u4fee\u4e60\u5fc3\u5f97",
+        "main_task_id": 10104,
+        "end_task_id": 10104002,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10104001,
+        "next_main_mission": 10105,
+        "receive_npc": 0,
+        "unlock_param": [
+            70007
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ],
+            [
+                39,
+                10000
+            ],
+            [
+                54116,
+                1000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10105": {
+        "main_task_type": 1,
+        "descrption": "\u7b54\u5e94\u522b\u4eba\u7684\u4e8b\u4e0d\u80fd\u5fd8\uff0c\u91d1\u4e4c\u524d\u5f80\u7948\u798f\u6811\u4e0b\u7684\u5929\u7984\u5c0f\u94fa\u3002\u5bd2\u6684\u8fc7\u540e\uff0c\u91d1\u4e4c\u5f00\u53e3\u8be2\u95ee\u5b5f\u7ae0\u7684\u8d27\u54c1\uff0c\u51c6\u5907\u5c06\u8fd9\u4e9b\u8d27\u7269\u5e26\u56de\u53bb\u3002",
+        "chapter_task_id": 0,
+        "priority": 1,
+        "title": "\u5929\u7984\u5c0f\u94fa",
+        "main_task_id": 10105,
+        "end_task_id": 10105003,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10105001,
+        "next_main_mission": 10116,
+        "receive_npc": 0,
+        "unlock_param": [
+            70008
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ],
+            [
+                39,
+                10000
+            ],
+            [
+                54116,
+                1000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10106": {
+        "main_task_type": 2,
+        "descrption": "\u4fee\u884c\u8fdc\u672a\u7ed3\u675f\uff01\u591a\u591a\u5728\u65b0\u6cf0\u9547\u4e2d\u6e38\u5386\u5427\uff0c\u8bf4\u4e0d\u5b9a\u80fd\u6709\u610f\u5916\u6536\u83b7\u5462\u3002",
+        "chapter_task_id": 0,
+        "priority": 1,
+        "title": "\u53a8\u795e\u9a7e\u5230",
+        "main_task_id": 10106,
+        "end_task_id": 10106001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10106001,
+        "next_main_mission": 10112,
+        "receive_npc": 0,
+        "unlock_param": [
+            70009
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                30
+            ],
+            [
+                54116,
+                1500
+            ]
+        ],
+        "important_reward": []
+    },
+    "10107": {
+        "main_task_type": 1,
+        "descrption": "\u4ee4\u4eba\u671f\u5f85\u7684\u9192\u5c81\u8282\uff0c\u4f1a\u53d1\u751f\u4ec0\u4e48\u5462\u2026\u2026",
+        "chapter_task_id": 0,
+        "priority": 1,
+        "title": "\u4fee\u4e60\u5b8c\u6210\uff1f",
+        "main_task_id": 10107,
+        "end_task_id": 10107001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10107001,
+        "next_main_mission": 10108,
+        "receive_npc": 0,
+        "unlock_param": [
+            70009
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10108": {
+        "main_task_type": 1,
+        "descrption": "\u4e0d\u77e5\u4e0d\u89c9\u5c31\u5230\u4e86\u9192\u5c81\u8282\uff0c\u4e0d\u77e5\u9053\u5916\u51fa\u7684\u8001\u5e08\u73b0\u5728\u5982\u4f55\u4e86\uff1f\u5728\u9547\u4e0a\u95f2\u901b\u7684\u91d1\u4e4c\uff0c\u8001\u8fdc\u5c31\u770b\u5230\u4e86\u7948\u798f\u6811\u4e0b\uff0c\u7984\u826f\u5728\u5bf9\u81ea\u5df1\u62db\u624b\u3002\u662f\u9700\u8981\u5e2e\u5fd9\u5417\uff1f\u53bb\u770b\u770b\u5427\u3002",
+        "chapter_task_id": 0,
+        "priority": 1,
+        "title": "\u591c\u8bdd",
+        "main_task_id": 10108,
+        "end_task_id": 10108006,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10108001,
+        "next_main_mission": 10110,
+        "receive_npc": 0,
+        "unlock_param": [
+            70038
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ],
+            [
+                39,
+                30000
+            ],
+            [
+                54116,
+                1000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10109": {
+        "main_task_type": 2,
+        "descrption": "\u65b0\u7684\u8ba1\u5212\uff0c\u65b0\u7684\u4fee\u884c\uff01\u518d\u770b\u770b\u8fd8\u80fd\u4e0d\u80fd\u6709\u65b0\u6536\u83b7\u5427\u3002",
+        "chapter_task_id": 0,
+        "priority": 1,
+        "title": "\u8d85\u5a01\u72ee\u5934",
+        "main_task_id": 10109,
+        "end_task_id": 10109001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10109001,
+        "next_main_mission": 10114,
+        "receive_npc": 0,
+        "unlock_param": [
+            70039
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                30
+            ],
+            [
+                54116,
+                2000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10110": {
+        "main_task_type": 1,
+        "descrption": "\u8001\u5e08\u8bf4\u7684\u8bdd\uff0c\u8ba9\u91d1\u4e4c\u4f3c\u61c2\u975e\u61c2\u3002\u770b\u6765\u8fd8\u9700\u8981\u5728\u8fd9\u91cc\u518d\u5f85\u4e00\u9635\uff0c\u6216\u8bb8\u8fd8\u80fd\u6709\u65b0\u6536\u83b7\u2026\u2026",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "title": "\u5982\u4f55\u53c2\u609f?",
+        "main_task_id": 10110,
+        "end_task_id": 10110001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10110001,
+        "next_main_mission": 10109,
+        "receive_npc": 0,
+        "unlock_param": [
+            70012
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10111": {
+        "main_task_type": 2,
+        "descrption": "\u4fee\u884c\u8fdc\u672a\u7ed3\u675f\uff01\u591a\u591a\u5728\u65b0\u6cf0\u9547\u4e2d\u6e38\u5386\u5427\uff0c\u8bf4\u4e0d\u5b9a\u80fd\u6709\u610f\u5916\u6536\u83b7\u5462\u3002",
+        "chapter_task_id": 0,
+        "priority": 4,
+        "title": "\u4e66\u5c71\u6709\u8def",
+        "main_task_id": 10111,
+        "end_task_id": 10111001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10111001,
+        "next_main_mission": 10107,
+        "receive_npc": 0,
+        "unlock_param": [
+            70009
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                30
+            ],
+            [
+                54116,
+                1500
+            ]
+        ],
+        "important_reward": []
+    },
+    "10112": {
+        "main_task_type": 2,
+        "descrption": "\u4fee\u884c\u8fdc\u672a\u7ed3\u675f\uff01\u591a\u591a\u5728\u65b0\u6cf0\u9547\u4e2d\u6e38\u5386\u5427\uff0c\u8bf4\u4e0d\u5b9a\u80fd\u6709\u610f\u5916\u6536\u83b7\u5462\u3002",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "title": "\u6c5f\u80e1\u51b3\u6597",
+        "main_task_id": 10112,
+        "end_task_id": 10112001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10112001,
+        "next_main_mission": 10113,
+        "receive_npc": 0,
+        "unlock_param": [
+            70009
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                30
+            ],
+            [
+                54116,
+                1500
+            ]
+        ],
+        "important_reward": []
+    },
+    "10113": {
+        "main_task_type": 2,
+        "descrption": "\u4fee\u884c\u8fdc\u672a\u7ed3\u675f\uff01\u591a\u591a\u5728\u65b0\u6cf0\u9547\u4e2d\u6e38\u5386\u5427\uff0c\u8bf4\u4e0d\u5b9a\u80fd\u6709\u610f\u5916\u6536\u83b7\u5462\u3002",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "title": "\u91d1\u4e4c\u7a7f\u9488",
+        "main_task_id": 10113,
+        "end_task_id": 10113001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10113001,
+        "next_main_mission": 10111,
+        "receive_npc": 0,
+        "unlock_param": [
+            70009
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                30
+            ],
+            [
+                54116,
+                1500
+            ]
+        ],
+        "important_reward": []
+    },
+    "10114": {
+        "main_task_type": 2,
+        "descrption": "\u65b0\u7684\u8ba1\u5212\uff0c\u65b0\u7684\u4fee\u884c\uff01\u518d\u770b\u770b\u8fd8\u80fd\u4e0d\u80fd\u6709\u65b0\u6536\u83b7\u5427\u3002",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "title": "\u4e50\u5723\u5728\u4e16",
+        "main_task_id": 10114,
+        "end_task_id": 10114001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10114001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70039
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                30
+            ],
+            [
+                54116,
+                2000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10115": {
+        "main_task_type": 1,
+        "descrption": "\u6240\u6709\u4e3b\u7ebf\u4efb\u52a1\u5b8c\u6210\u540e\uff0c\u64ad\u653e\u5267\u60c5",
+        "chapter_task_id": 0,
+        "priority": 1,
+        "title": "\u9690\u85cf\u4efb\u52a1",
+        "main_task_id": 10115,
+        "end_task_id": 10115001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10115001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70013,
+            70021
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10116": {
+        "main_task_type": 1,
+        "descrption": "\u7ffb\u4e00\u7ffb\u5730\u56fe\uff0c\u53d1\u73b0\u8fd8\u6709\u4e0d\u5c11\u80fd\u901b\u7684\u5730\u65b9\uff0c\u4e00\u5b9a\u662f\u5e08\u7236\u60f3\u8981\u8ba9\u91d1\u4e4c\u591a\u591a\u53c2\u4e0e\uff0c\u597d\u597d\u8bb0\u5f55\u5fc3\u5f97\u3002",
+        "chapter_task_id": 0,
+        "priority": 1,
+        "title": "\u67e5\u770b\u5730\u56fe",
+        "main_task_id": 10116,
+        "end_task_id": 10105004,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10105004,
+        "next_main_mission": 10106,
+        "receive_npc": 0,
+        "unlock_param": [
+            70022
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10117": {
+        "main_task_type": 1,
+        "descrption": "\u7b49\u5f85\u5927\u5e74\u521d\u4e00\u65e9\u4e0a\u4e94\u70b9",
+        "chapter_task_id": 0,
+        "priority": 1,
+        "title": "\u7b49\u5f85\u5927\u5e74\u521d\u4e00",
+        "main_task_id": 10117,
+        "end_task_id": 10117001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10117001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70022
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10118": {
+        "main_task_type": 1,
+        "descrption": "\u7b49\u5f853.11\u7248\u672c",
+        "chapter_task_id": 0,
+        "priority": 1,
+        "title": "\u7b49\u5f853.11\u7248\u672c",
+        "main_task_id": 10118,
+        "end_task_id": 10118001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10118001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70022
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10302": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u91d1\u5b9d\u7bb1\u4efb\u52a101",
+        "main_task_id": 10302,
+        "end_task_id": 10302001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10302001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                100
+            ],
+            [
+                41701,
+                30
+            ],
+            [
+                39,
+                60000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10303": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u91d1\u5b9d\u7bb1\u4efb\u52a102",
+        "main_task_id": 10303,
+        "end_task_id": 10303001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10303001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                100
+            ],
+            [
+                41701,
+                30
+            ],
+            [
+                39,
+                60000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10304": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u91d1\u5b9d\u7bb1\u4efb\u52a103",
+        "main_task_id": 10304,
+        "end_task_id": 10304001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10304001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                100
+            ],
+            [
+                41701,
+                30
+            ],
+            [
+                39,
+                60000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10305": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u91d1\u5b9d\u7bb1\u4efb\u52a104",
+        "main_task_id": 10305,
+        "end_task_id": 10305001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10305001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                100
+            ],
+            [
+                41701,
+                30
+            ],
+            [
+                39,
+                60000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10306": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u94f6\u5b9d\u7bb1\u4efb\u52a101",
+        "main_task_id": 10306,
+        "end_task_id": 10306001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10306001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                10
+            ],
+            [
+                39,
+                20000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10307": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u94f6\u5b9d\u7bb1\u4efb\u52a102",
+        "main_task_id": 10307,
+        "end_task_id": 10307001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10307001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                10
+            ],
+            [
+                39,
+                20000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10308": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u94f6\u5b9d\u7bb1\u4efb\u52a103",
+        "main_task_id": 10308,
+        "end_task_id": 10308001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10308001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                10
+            ],
+            [
+                39,
+                20000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10309": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u94f6\u5b9d\u7bb1\u4efb\u52a104",
+        "main_task_id": 10309,
+        "end_task_id": 10309001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10309001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                10
+            ],
+            [
+                39,
+                20000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10310": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u94f6\u5b9d\u7bb1\u4efb\u52a105",
+        "main_task_id": 10310,
+        "end_task_id": 10310001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10310001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                10
+            ],
+            [
+                39,
+                20000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10311": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u94f6\u5b9d\u7bb1\u4efb\u52a106",
+        "main_task_id": 10311,
+        "end_task_id": 10311001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10311001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                10
+            ],
+            [
+                39,
+                20000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10312": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u94f6\u5b9d\u7bb1\u4efb\u52a107",
+        "main_task_id": 10312,
+        "end_task_id": 10312001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10312001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                10
+            ],
+            [
+                39,
+                20000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10313": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u94f6\u5b9d\u7bb1\u4efb\u52a108",
+        "main_task_id": 10313,
+        "end_task_id": 10313001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10313001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                10
+            ],
+            [
+                39,
+                20000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10314": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u94f6\u5b9d\u7bb1\u4efb\u52a109",
+        "main_task_id": 10314,
+        "end_task_id": 10314001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10314001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                10
+            ],
+            [
+                39,
+                20000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10315": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u94f6\u5b9d\u7bb1\u4efb\u52a110",
+        "main_task_id": 10315,
+        "end_task_id": 10315001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10315001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                41701,
+                10
+            ],
+            [
+                39,
+                20000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10320": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u8d70\u683c\u5b50\u4efb\u52a101",
+        "main_task_id": 10320,
+        "end_task_id": 10320001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10320001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                54116,
+                6000
+            ],
+            [
+                41701,
+                30
+            ],
+            [
+                39,
+                10000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10321": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u8d70\u683c\u5b50\u4efb\u52a102",
+        "main_task_id": 10321,
+        "end_task_id": 10321001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10321001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                54116,
+                6000
+            ],
+            [
+                41701,
+                30
+            ],
+            [
+                39,
+                10000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10322": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u8d70\u683c\u5b50\u4efb\u52a103",
+        "main_task_id": 10322,
+        "end_task_id": 10322001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10322001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [
+            [
+                54116,
+                6000
+            ],
+            [
+                41701,
+                30
+            ],
+            [
+                39,
+                10000
+            ]
+        ],
+        "important_reward": []
+    },
+    "10325": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u56fe\u9274-\u65e0\u540d\u7684\u4fe1\u5c01",
+        "main_task_id": 10325,
+        "end_task_id": 10325001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10325001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10326": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u56fe\u9274-\u51f6\u517d\u51fa\u6ca1\u6ce8\u610f\uff01",
+        "main_task_id": 10326,
+        "end_task_id": 10326001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10326001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10327": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u56fe\u9274-\u5c0f\u4e66\u5305",
+        "main_task_id": 10327,
+        "end_task_id": 10327001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10327001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10328": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u56fe\u9274-\u6389\u843d\u7684\u8bb8\u613f\u7b7e",
+        "main_task_id": 10328,
+        "end_task_id": 10328001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10328001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10329": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u56fe\u9274-\u4e00\u888b\u6210\u8863",
+        "main_task_id": 10329,
+        "end_task_id": 10329001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10329001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10330": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u56fe\u9274-\u65b0\u6cf0\u65e7\u53f2",
+        "main_task_id": 10330,
+        "end_task_id": 10330001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10330001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10331": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u56fe\u9274-\u91d1\u4e4c\u964d\u9b54\u4f20",
+        "main_task_id": 10331,
+        "end_task_id": 10331001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10331001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10332": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u56fe\u9274-\u684c\u6e38\u9ad8\u624b",
+        "main_task_id": 10332,
+        "end_task_id": 10332001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10332001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10333": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u56fe\u9274-\u5929\u7984\u660e\u73e0",
+        "main_task_id": 10333,
+        "end_task_id": 10333001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10333001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10334": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "unlock_param": "",
+        "title": "\u56fe\u9274-\u795e\u79d8\u7684\u673a\u5173",
+        "main_task_id": 10334,
+        "end_task_id": 10334001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10334001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10345": {
+        "main_task_type": 3,
+        "descrption": "\u7984\u826f\u8ba9\u4e4c\u5077\u5077\u85cf\u8d77\u6765\u7684\u2026\u2026\u662f\u4ec0\u4e48\uff1f",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "title": "\u6697\u5ea6\u9648\u4ed3\uff1f\uff01",
+        "main_task_id": 10345,
+        "end_task_id": 10345003,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10345001,
+        "next_main_mission": 10348,
+        "receive_npc": 0,
+        "unlock_param": [
+            70009,
+            70015
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                54116,
+                5000
+            ],
+            [
+                53135,
+                1
+            ]
+        ],
+        "important_reward": []
+    },
+    "10346": {
+        "main_task_type": 3,
+        "descrption": "\u6709\u4e00\u6279\u5916\u5730\u53d1\u6765\u7684\u8d27\u54c1\uff0c\u6e05\u70b9\u7684\u65f6\u5019\u53d1\u73b0\u4f3c\u4e4e\u5bf9\u4e0d\u4e0a\u6570\u91cf\u3002\u53bb\u8239\u4e0a\u627e\u8d27\u8fd0\u8ba2\u5355\u6838\u5bf9\u4e00\u4e0b\u5427\u2026\u2026",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "title": "\u5bfb\u627e\u8ba2\u5355",
+        "main_task_id": 10346,
+        "end_task_id": 10346003,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10346001,
+        "next_main_mission": 10347,
+        "receive_npc": 0,
+        "unlock_param": [
+            70009
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                54116,
+                5000
+            ],
+            [
+                41701,
+                50
+            ]
+        ],
+        "important_reward": []
+    },
+    "10347": {
+        "main_task_type": 3,
+        "descrption": "\u5c0f\u670b\u53cb\u628a\u521a\u521a\u4e70\u7684\u5c0f\u98ce\u8f66\u641e\u4e22\u4e86\uff0c\u542c\u8bf4\u54ed\u5f97\u5f88\u4f24\u5fc3\u2026\u2026",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "title": "\u5c0f\u98ce\u8f66\uff0c\u547c\u547c\u547c",
+        "main_task_id": 10347,
+        "end_task_id": 10347003,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10347001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70017
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                54116,
+                5000
+            ],
+            [
+                41701,
+                50
+            ]
+        ],
+        "important_reward": []
+    },
+    "10348": {
+        "main_task_type": 3,
+        "descrption": "\u7984\u826f\u521a\u521a\u6c42\u6765\u7684\u798f\u7b7e\u88ab\u5927\u98ce\u5439\u8d70\u4e86\uff01",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "title": "\u5439\u8d70\u7684\u798f\u7b7e",
+        "main_task_id": 10348,
+        "end_task_id": 10348003,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 0,
+        "first_task_id": 10348001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70016
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                54116,
+                5000
+            ],
+            [
+                41701,
+                50
+            ]
+        ],
+        "important_reward": []
+    },
+    "10350": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "title": "\u5b5f\u7ae0-\u9910\u9986\u7ecf\u8425",
+        "main_task_id": 10350,
+        "end_task_id": 10350001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10350001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70009
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10352": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "title": "\u7ea2\u6bdb-\u6253\u724c",
+        "main_task_id": 10352,
+        "end_task_id": 10352001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10352001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70009
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10353": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "title": "\u8001\u9a6c-\u6253\u724c1",
+        "main_task_id": 10353,
+        "end_task_id": 10353001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10353001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70026
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10354": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "title": "\u5df4\u4e1d\u7279-\u6253\u724c2",
+        "main_task_id": 10354,
+        "end_task_id": 10354001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10354001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70027
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10355": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "title": "\u6697\u5fa1\u6d25\u7fbd-\u6253\u724c3",
+        "main_task_id": 10355,
+        "end_task_id": 10355001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10355001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70028
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10356": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "title": "\u5e9a\u8fb0-\u6253\u724c4",
+        "main_task_id": 10356,
+        "end_task_id": 10356001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10356001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70029
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10357": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "title": "\u82f1\u62db-\u8d2a\u5403\u86c7",
+        "main_task_id": 10357,
+        "end_task_id": 10357001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10357001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70009
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10358": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "title": "\u9675\u5149-\u97f3\u6e38",
+        "main_task_id": 10358,
+        "end_task_id": 10358001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10358001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70013
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10359": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "title": "\u963f\u4fee\u7f57-\u7b54\u9898",
+        "main_task_id": 10359,
+        "end_task_id": 10359001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10359001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70009
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10360": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "title": "\u9646\u543e-\u7956\u739b",
+        "main_task_id": 10360,
+        "end_task_id": 10360001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10360001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70013
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10361": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "title": "\u56fe\u9274\u89e3\u9501\u4efb\u52a1",
+        "main_task_id": 10361,
+        "end_task_id": 10361001,
+        "activity_id": 313641,
+        "unlock_operation": 1,
+        "hide_task": 1,
+        "first_task_id": 10361001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "unlock_param": [
+            70027,
+            70028,
+            70029,
+            70030,
+            70031,
+            70032,
+            70033,
+            70034,
+            70035,
+            70036
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10362": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 3,
+        "title": "",
+        "main_task_id": 10362,
+        "end_task_id": 10362001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10362001,
+        "next_main_mission": 10108,
+        "receive_npc": 0,
+        "unlock_param": [
+            70011
+        ],
+        "reward": [],
+        "important_reward": []
+    },
+    "10401": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "unlock_param": "",
+        "title": "\u5361\u724c\u73a9\u6cd5HUD\u3001\u5bf9\u8bdd\u9690\u85cf\u4efb\u52a11",
+        "main_task_id": 10401,
+        "end_task_id": 10401001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10401001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10402": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "unlock_param": "",
+        "title": "\u5361\u724c\u73a9\u6cd5HUD\u3001\u5bf9\u8bdd\u9690\u85cf\u4efb\u52a12",
+        "main_task_id": 10402,
+        "end_task_id": 10402001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10402001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10403": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "unlock_param": "",
+        "title": "\u5361\u724c\u73a9\u6cd5HUD\u3001\u5bf9\u8bdd\u9690\u85cf\u4efb\u52a13",
+        "main_task_id": 10403,
+        "end_task_id": 10403001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10403001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "10404": {
+        "main_task_type": 3,
+        "descrption": "",
+        "chapter_task_id": 0,
+        "priority": 2,
+        "unlock_param": "",
+        "title": "\u5361\u724c\u73a9\u6cd5HUD\u3001\u5bf9\u8bdd\u9690\u85cf\u4efb\u52a14",
+        "main_task_id": 10404,
+        "end_task_id": 10404001,
+        "activity_id": 313641,
+        "unlock_operation": 2,
+        "hide_task": 1,
+        "first_task_id": 10404001,
+        "next_main_mission": 0,
+        "receive_npc": 0,
+        "reward": [],
+        "important_reward": []
+    },
+    "get_id_list_by_chapter_task_id": {
+        "0": [
+            201,
+            202,
+            10101,
+            10102,
+            10103,
+            10104,
+            10105,
+            10106,
+            10107,
+            10108,
+            10109,
+            10110,
+            10111,
+            10112,
+            10113,
+            10114,
+            10115,
+            10116,
+            10117,
+            10118,
+            10302,
+            10303,
+            10304,
+            10305,
+            10306,
+            10307,
+            10308,
+            10309,
+            10310,
+            10311,
+            10312,
+            10313,
+            10314,
+            10315,
+            10320,
+            10321,
+            10322,
+            10325,
+            10326,
+            10327,
+            10328,
+            10329,
+            10330,
+            10331,
+            10332,
+            10333,
+            10334,
+            10345,
+            10346,
+            10347,
+            10348,
+            10350,
+            10352,
+            10353,
+            10354,
+            10355,
+            10356,
+            10357,
+            10358,
+            10359,
+            10360,
+            10361,
+            10362,
+            10401,
+            10402,
+            10403,
+            10404
+        ],
+        "1": [
+            101
+        ]
+    },
+    "all": [
+        101,
+        201,
+        202,
+        10101,
+        10102,
+        10103,
+        10104,
+        10105,
+        10106,
+        10107,
+        10108,
+        10109,
+        10110,
+        10111,
+        10112,
+        10113,
+        10114,
+        10115,
+        10116,
+        10117,
+        10118,
+        10302,
+        10303,
+        10304,
+        10305,
+        10306,
+        10307,
+        10308,
+        10309,
+        10310,
+        10311,
+        10312,
+        10313,
+        10314,
+        10315,
+        10320,
+        10321,
+        10322,
+        10325,
+        10326,
+        10327,
+        10328,
+        10329,
+        10330,
+        10331,
+        10332,
+        10333,
+        10334,
+        10345,
+        10346,
+        10347,
+        10348,
+        10350,
+        10352,
+        10353,
+        10354,
+        10355,
+        10356,
+        10357,
+        10358,
+        10359,
+        10360,
+        10361,
+        10362,
+        10401,
+        10402,
+        10403,
+        10404
+    ]
+}

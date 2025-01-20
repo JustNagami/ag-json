@@ -31,10 +31,19 @@
         "scene_name": "WT04",
         "stage_picture": "mng_004"
     },
+    "105": {
+        "scene_show_name": "\u79d1\u5c14\u76d6\u98ce\u683c\u5ba4\u5185\u821e\u53f0",
+        "diy_scene_prefab": "WT05",
+        "cam_director_prefab": "WT04_VCam",
+        "id": 105,
+        "scene_name": "WT05",
+        "stage_picture": "mng_005"
+    },
     "all": [
         101,
         102,
         103,
-        104
+        104,
+        105
     ]
 }

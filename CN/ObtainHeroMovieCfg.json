@@ -244,6 +244,20 @@
         "loop_path": "SofdecAsset/function/draw/1248_loop.usm",
         "start_voice_frames": 0
     },
+    "1133": {
+        "start_movie_frames": 230,
+        "hero_id": 1133,
+        "start_path": "SofdecAsset/function/draw/1133_start.usm",
+        "loop_path": "SofdecAsset/function/draw/1133_loop.usm",
+        "start_voice_frames": 0
+    },
+    "1034": {
+        "start_movie_frames": 410,
+        "hero_id": 1034,
+        "start_path": "SofdecAsset/function/draw/1034_start.usm",
+        "loop_path": "SofdecAsset/function/draw/1034_loop.usm",
+        "start_voice_frames": 0
+    },
     "all": [
         1024,
         1028,
@@ -279,6 +293,8 @@
         1020,
         1156,
         1089,
-        1248
+        1248,
+        1133,
+        1034
     ]
 }

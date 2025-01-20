@@ -923,7 +923,7 @@
         "prefab_path": "Widget/System/Passport/bg/passportBg_00056",
         "poster_ui": "TextureConfig/Passport/hero_s/Passport_icon_00056",
         "battlepass_type": 17,
-        "activity_id": 251001,
+        "activity_id": 271001,
         "id": 20017,
         "slogan_ui": "I18NImg/%s/Passport/passpory_copy_00055",
         "extra_reward_01": [],
@@ -1195,6 +1195,75 @@
             2550008
         ]
     },
+    "20021": {
+        "prefab_path": "Widget/System/Passport/bg/passportBg_00060",
+        "poster_ui": "TextureConfig/Passport/hero_s/Passport_icon_00060",
+        "battlepass_type": 21,
+        "activity_id": 311001,
+        "id": 20021,
+        "slogan_ui": "I18NImg/%s/Passport/passpory_copy_00055",
+        "extra_reward_01": [],
+        "extra_reward_02": [
+            [
+                14,
+                10000
+            ],
+            [
+                2033,
+                1
+            ],
+            [
+                41201,
+                10
+            ]
+        ],
+        "display_reward_01": [
+            [
+                38,
+                7
+            ],
+            [
+                40415,
+                40
+            ],
+            [
+                41201,
+                11
+            ],
+            [
+                40604,
+                4
+            ]
+        ],
+        "display_reward_02": [
+            [
+                2033,
+                1
+            ],
+            [
+                41201,
+                10
+            ]
+        ],
+        "poster_reward": [
+            [
+                2033,
+                1
+            ],
+            [
+                1,
+                1000
+            ]
+        ],
+        "servant_list": [
+            2510005,
+            2530004,
+            2520006,
+            2590001,
+            2590004,
+            2510010
+        ]
+    },
     "99998": {
         "prefab_path": "",
         "poster_ui": "",
@@ -1269,6 +1338,7 @@
         20018,
         20019,
         20020,
+        20021,
         99998
     ]
 }

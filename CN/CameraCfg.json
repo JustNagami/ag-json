@@ -1804,6 +1804,25 @@
             0.443
         ]
     },
+    "multiHeartDemon": {
+        "type": "multiHeartDemon",
+        "name": "multiHeartDemon",
+        "pictureName": "",
+        "multiscene": 0,
+        "fieldOfView": 30,
+        "desc": "3.9\u591a\u4eba\u5fc3\u9b54\u6311\u6218",
+        "sceneName": "",
+        "position": [
+            0,
+            2,
+            6
+        ],
+        "rotate": [
+            5,
+            -180,
+            0
+        ]
+    },
     "furnituPreview": {
         "type": "",
         "name": "furnituPreview",
@@ -1880,6 +1899,253 @@
             -7.712
         ]
     },
+    "chat_6024": {
+        "type": "chat",
+        "name": "chat_6024",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6024\u804a\u5929",
+        "sceneName": "",
+        "position": [
+            -0.904,
+            3.036,
+            3.753
+        ],
+        "rotate": [
+            21.419,
+            155.844,
+            7.8
+        ]
+    },
+    "playerInfo_6024": {
+        "type": "playerInfo",
+        "name": "playerInfo_6024",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6024\u73a9\u5bb6\u4fe1\u606f\u754c\u9762",
+        "sceneName": "",
+        "position": [
+            -0.674,
+            2.366,
+            3.428
+        ],
+        "rotate": [
+            8.975,
+            158.308,
+            0
+        ]
+    },
+    "pinball": {
+        "type": "pinball",
+        "name": "pinball",
+        "pictureName": "",
+        "multiscene": 0,
+        "fieldOfView": 35,
+        "desc": "3.9\u6253\u5f39\u73e0\u5c0f\u6e38\u620f\u754c\u9762",
+        "sceneName": "HZ07_pinball",
+        "position": [
+            0,
+            0.8,
+            -1
+        ],
+        "rotate": [
+            0,
+            180,
+            0
+        ]
+    },
+    "chat_6025": {
+        "type": "chat",
+        "name": "chat_6025",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6025\u804a\u5929",
+        "sceneName": "",
+        "position": [
+            -2.068,
+            1.772,
+            4.067
+        ],
+        "rotate": [
+            5.369,
+            138.836,
+            -1.548
+        ]
+    },
+    "playerInfo_6025": {
+        "type": "playerInfo",
+        "name": "playerInfo_6025",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6025\u73a9\u5bb6\u4fe1\u606f\u754c\u9762",
+        "sceneName": "",
+        "position": [
+            -2.009,
+            2.106,
+            3.996
+        ],
+        "rotate": [
+            9.941,
+            138.778,
+            -9.629
+        ]
+    },
+    "chat_6026": {
+        "type": "chat",
+        "name": "chat_6026",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6026\u804a\u5929",
+        "sceneName": "",
+        "position": [
+            0.18,
+            2.6,
+            3
+        ],
+        "rotate": [
+            13.501,
+            169.423,
+            0.739
+        ]
+    },
+    "playerInfo_6026": {
+        "type": "playerInfo",
+        "name": "playerInfo_6026",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6026\u73a9\u5bb6\u4fe1\u606f\u754c\u9762",
+        "sceneName": "",
+        "position": [
+            2.521,
+            0.527,
+            3.694
+        ],
+        "rotate": [
+            -14.646,
+            199.194,
+            -1.098
+        ]
+    },
+    "chat_6027": {
+        "type": "chat",
+        "name": "chat_6027",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6027\u804a\u5929",
+        "sceneName": "",
+        "position": [
+            3.175,
+            1.665,
+            3.085
+        ],
+        "rotate": [
+            15.538,
+            -149.982,
+            10.19
+        ]
+    },
+    "playerInfo_6027": {
+        "type": "playerInfo",
+        "name": "playerInfo_6027",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6027\u73a9\u5bb6\u4fe1\u606f\u754c\u9762",
+        "sceneName": "",
+        "position": [
+            2.177,
+            1.217,
+            1.088
+        ],
+        "rotate": [
+            13.199,
+            -136.238,
+            7.629
+        ]
+    },
+    "chat_6028": {
+        "type": "chat",
+        "name": "chat_6028",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6028\u804a\u5929",
+        "sceneName": "",
+        "position": [
+            -0.98,
+            2.57,
+            3.16
+        ],
+        "rotate": [
+            4.164,
+            150.492,
+            -16.347
+        ]
+    },
+    "playerInfo_6028": {
+        "type": "playerInfo",
+        "name": "playerInfo_6028",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6028\u73a9\u5bb6\u4fe1\u606f\u754c\u9762",
+        "sceneName": "",
+        "position": [
+            -0.85,
+            1.8,
+            3.04
+        ],
+        "rotate": [
+            -5.152,
+            150.18,
+            11
+        ]
+    },
+    "chat_6029": {
+        "type": "chat",
+        "name": "chat_6029",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6029\u804a\u5929",
+        "sceneName": "",
+        "position": [
+            -1.299,
+            3.401,
+            3.617
+        ],
+        "rotate": [
+            22.381,
+            152.15,
+            -6.24
+        ]
+    },
+    "playerInfo_6029": {
+        "type": "playerInfo",
+        "name": "playerInfo_6029",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6029\u73a9\u5bb6\u4fe1\u606f\u754c\u9762",
+        "sceneName": "",
+        "position": [
+            -0.098,
+            2.661,
+            3.071
+        ],
+        "rotate": [
+            12.755,
+            171.734,
+            5
+        ]
+    },
     "get_id_list_by_fieldOfView": {
         "26": [
             "barbecue"
@@ -1888,7 +2154,8 @@
             "chat_6100",
             "playerInfo_6100",
             "TugGame",
-            "shoot_game"
+            "shoot_game",
+            "pinball"
         ],
         "45": [
             "home_6100",
@@ -1924,7 +2191,8 @@
             "bossChallenge",
             "enemyFile",
             "activityWorldBoss",
-            "soloHeartDemon"
+            "soloHeartDemon",
+            "multiHeartDemon"
         ],
         "28": [
             "battleHeroSelect",
@@ -2004,7 +2272,19 @@
             "chat_6022",
             "playerInfo_6022",
             "chat_6023",
-            "playerInfo_6023"
+            "playerInfo_6023",
+            "chat_6024",
+            "playerInfo_6024",
+            "chat_6025",
+            "playerInfo_6025",
+            "chat_6026",
+            "playerInfo_6026",
+            "chat_6027",
+            "playerInfo_6027",
+            "chat_6028",
+            "playerInfo_6028",
+            "chat_6029",
+            "playerInfo_6029"
         ]
     }
 }
