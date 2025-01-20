@@ -1,7 +1,7 @@
 {
     "10100": {
         "explode": 1,
-        "name": "\u7a7a\u5730\u76ae",
+        "name": "空地皮",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 10100,
@@ -11,7 +11,7 @@
     },
     "10101": {
         "explode": 0,
-        "name": "\u5730\u76ae",
+        "name": "地皮",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 10101,
@@ -21,7 +21,7 @@
     },
     "10201": {
         "explode": 1,
-        "name": "\u969c\u788d\u7269",
+        "name": "障碍物",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10201,
@@ -31,7 +31,7 @@
     },
     "102011": {
         "explode": 1,
-        "name": "\u969c\u788d\u7269-\u72b6\u60011",
+        "name": "障碍物-状态1",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 102011,
@@ -41,7 +41,7 @@
     },
     "102012": {
         "explode": 1,
-        "name": "\u969c\u788d\u7269-\u72b6\u60012",
+        "name": "障碍物-状态2",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 102012,
@@ -51,7 +51,7 @@
     },
     "10301": {
         "explode": 1,
-        "name": "\u602a\u7269",
+        "name": "怪物",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10301,
@@ -61,7 +61,7 @@
     },
     "10401": {
         "explode": 1,
-        "name": "\u8def\u724c",
+        "name": "路牌",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10401,
@@ -71,7 +71,7 @@
     },
     "10402": {
         "explode": 1,
-        "name": "\u6cc9\u6c34-\u672a\u4f7f\u7528\u72b6\u6001",
+        "name": "泉水-未使用状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10402,
@@ -81,7 +81,7 @@
     },
     "104021": {
         "explode": 1,
-        "name": "\u6cc9\u6c34-\u5df2\u4f7f\u7528\u72b6\u6001",
+        "name": "泉水-已使用状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 104021,
@@ -91,7 +91,7 @@
     },
     "10403": {
         "explode": 1,
-        "name": "\u590d\u6d3b\u4e95-\u672a\u4f7f\u7528\u72b6\u6001",
+        "name": "复活井-未使用状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10403,
@@ -101,7 +101,7 @@
     },
     "104031": {
         "explode": 1,
-        "name": "\u590d\u6d3b\u4e95-\u5df2\u4f7f\u7528\u72b6\u6001",
+        "name": "复活井-已使用状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 104031,
@@ -111,7 +111,7 @@
     },
     "104032": {
         "explode": 1,
-        "name": "\u590d\u6d3b\u4e95-\u5df2\u4f7f\u7528\u72b6\u6001",
+        "name": "复活井-已使用状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 104032,
@@ -121,7 +121,7 @@
     },
     "10501": {
         "explode": 1,
-        "name": "\u5c0f\u5b9d\u7bb1",
+        "name": "小宝箱",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10501,
@@ -131,7 +131,7 @@
     },
     "10502": {
         "explode": 1,
-        "name": "\u5927\u5b9d\u7bb1",
+        "name": "大宝箱",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10502,
@@ -141,7 +141,7 @@
     },
     "10503": {
         "explode": 1,
-        "name": "\u5f3a\u5316\u5b9d\u7bb1",
+        "name": "强化宝箱",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10503,
@@ -151,7 +151,7 @@
     },
     "10601": {
         "explode": 1,
-        "name": "\u94a5\u5319",
+        "name": "钥匙",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10601,
@@ -161,7 +161,7 @@
     },
     "10701": {
         "explode": 1,
-        "name": "\u95e8-\u95ed\u72b6\u6001",
+        "name": "门-闭状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10701,
@@ -171,7 +171,7 @@
     },
     "107011": {
         "explode": 1,
-        "name": "\u95e8-\u5f00\u72b6\u6001",
+        "name": "门-开状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 107011,
@@ -181,7 +181,7 @@
     },
     "10702": {
         "explode": 1,
-        "name": "\u590d\u5408\u95e8-\u95ed\u72b6\u6001",
+        "name": "复合门-闭状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10702,
@@ -191,7 +191,7 @@
     },
     "107021": {
         "explode": 1,
-        "name": "\u590d\u5408\u95e8-\u5f00\u72b6\u6001",
+        "name": "复合门-开状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 107021,
@@ -201,7 +201,7 @@
     },
     "10801": {
         "explode": 1,
-        "name": "\u5f00\u5173-0\u72b6\u6001",
+        "name": "开关-0状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10801,
@@ -211,7 +211,7 @@
     },
     "108011": {
         "explode": 1,
-        "name": "\u5f00\u5173-1\u72b6\u6001",
+        "name": "开关-1状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 108011,
@@ -221,7 +221,7 @@
     },
     "10901": {
         "explode": 1,
-        "name": "\u673a\u5173-\u95ed\u72b6\u6001",
+        "name": "机关-闭状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10901,
@@ -231,7 +231,7 @@
     },
     "109011": {
         "explode": 1,
-        "name": "\u673a\u5173-\u5f00\u72b6\u6001",
+        "name": "机关-开状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 109011,
@@ -241,7 +241,7 @@
     },
     "10902": {
         "explode": 1,
-        "name": "\u673a\u5173-\u5237\u602a",
+        "name": "机关-刷怪",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 10902,
@@ -251,7 +251,7 @@
     },
     "11001": {
         "explode": 1,
-        "name": "\u4f20\u9001\u95e8",
+        "name": "传送门",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 11001,
@@ -261,7 +261,7 @@
     },
     "11101": {
         "explode": 0,
-        "name": "\u9677\u9631-\u8e29\u4f24-\u672a\u89e6\u53d1\u72b6\u6001",
+        "name": "陷阱-踩伤-未触发状态",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 11101,
@@ -271,7 +271,7 @@
     },
     "111011": {
         "explode": 0,
-        "name": "\u9677\u9631-\u8e29\u4f24-\u5df2\u89e6\u53d1\u72b6\u6001",
+        "name": "陷阱-踩伤-已触发状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 111011,
@@ -281,7 +281,7 @@
     },
     "11102": {
         "explode": 1,
-        "name": "\u9677\u9631-\u8ba1\u6b65\uff08\u5148\u65e0\u89c6\uff09",
+        "name": "陷阱-计步（先无视）",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 11102,
@@ -291,7 +291,7 @@
     },
     "11201": {
         "explode": 1,
-        "name": "\u6218\u6597\u8ba1\u6570",
+        "name": "战斗计数",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 11201,
@@ -301,7 +301,7 @@
     },
     "11202": {
         "explode": 1,
-        "name": "\u6b65\u6570\u8bb0\u5f55\uff08\u5148\u65e0\u89c6\uff09",
+        "name": "步数记录（先无视）",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 11202,
@@ -311,7 +311,7 @@
     },
     "20101": {
         "explode": 1,
-        "name": "\u5c0f\u5b9d\u7bb1",
+        "name": "小宝箱",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20101,
@@ -321,7 +321,7 @@
     },
     "20102": {
         "explode": 1,
-        "name": "\u5927\u5b9d\u7bb1",
+        "name": "大宝箱",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20102,
@@ -331,7 +331,7 @@
     },
     "20103": {
         "explode": 1,
-        "name": "\u95e8-\u95ed\u72b6\u6001",
+        "name": "门-闭状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20103,
@@ -341,7 +341,7 @@
     },
     "201031": {
         "explode": 0,
-        "name": "\u95e8-\u5f00\u72b6\u6001",
+        "name": "门-开状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 201031,
@@ -351,7 +351,7 @@
     },
     "20104": {
         "explode": 1,
-        "name": "\u5f00\u5173-0\u72b6\u6001",
+        "name": "开关-0状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20104,
@@ -361,7 +361,7 @@
     },
     "201041": {
         "explode": 1,
-        "name": "\u5f00\u5173-1\u72b6\u6001",
+        "name": "开关-1状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 201041,
@@ -371,7 +371,7 @@
     },
     "20105": {
         "explode": 1,
-        "name": "\u673a\u5173-\u95ed\u72b6\u6001",
+        "name": "机关-闭状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20105,
@@ -381,7 +381,7 @@
     },
     "201051": {
         "explode": 1,
-        "name": "\u673a\u5173-\u5f00\u72b6\u6001",
+        "name": "机关-开状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 201051,
@@ -391,7 +391,7 @@
     },
     "20106": {
         "explode": 1,
-        "name": "\u8def\u724c",
+        "name": "路牌",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20106,
@@ -401,7 +401,7 @@
     },
     "20107": {
         "explode": 1,
-        "name": "\u9677\u9631-\u8e29\u4f24-\u672a\u89e6\u53d1\u72b6\u6001",
+        "name": "陷阱-踩伤-未触发状态",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 20107,
@@ -411,7 +411,7 @@
     },
     "201071": {
         "explode": 1,
-        "name": "\u9677\u9631-\u8e29\u4f24-\u5df2\u89e6\u53d1\u72b6\u6001",
+        "name": "陷阱-踩伤-已触发状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 201071,
@@ -421,7 +421,7 @@
     },
     "20108": {
         "explode": 1,
-        "name": "\u53ef\u7834\u574f\u969c\u788d\u7269",
+        "name": "可破坏障碍物",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20108,
@@ -431,7 +431,7 @@
     },
     "201081": {
         "explode": 0,
-        "name": "\u969c\u788d\u7269\u88ab\u7834\u574f",
+        "name": "障碍物被破坏",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 201081,
@@ -441,7 +441,7 @@
     },
     "20109": {
         "explode": 1,
-        "name": "\u84c4\u80fd\u6c60-\u672a\u4f7f\u7528\u72b6\u6001",
+        "name": "蓄能池-未使用状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20109,
@@ -451,7 +451,7 @@
     },
     "201091": {
         "explode": 1,
-        "name": "\u84c4\u80fd\u6c60-\u5df2\u4f7f\u7528\u72b6\u6001",
+        "name": "蓄能池-已使用状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 201091,
@@ -461,7 +461,7 @@
     },
     "201092": {
         "explode": 1,
-        "name": "\u84c4\u80fd\u6c60-\u7ea2\u8272\u72b6\u6001",
+        "name": "蓄能池-红色状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 201092,
@@ -471,7 +471,7 @@
     },
     "20110": {
         "explode": 1,
-        "name": "\u673a\u5173-\u53cd\u5c04\u53f060\u5ea6",
+        "name": "机关-反射台60度",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20110,
@@ -481,7 +481,7 @@
     },
     "20111": {
         "explode": 1,
-        "name": "\u673a\u5173-\u53cd\u5c04\u53f0120\u5ea6",
+        "name": "机关-反射台120度",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20111,
@@ -491,7 +491,7 @@
     },
     "20112": {
         "explode": 0,
-        "name": "\u70ae\u706b\u53ef\u901a\u8fc7\u969c\u788d\u7269",
+        "name": "炮火可通过障碍物",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20112,
@@ -501,7 +501,7 @@
     },
     "20201": {
         "explode": 1,
-        "name": "\u94a5\u5319",
+        "name": "钥匙",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20201,
@@ -511,7 +511,7 @@
     },
     "20202": {
         "explode": 1,
-        "name": "\u95e81-\u95ed\u72b6\u6001",
+        "name": "门1-闭状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20202,
@@ -521,7 +521,7 @@
     },
     "202021": {
         "explode": 1,
-        "name": "\u95e81-\u5f00\u72b6\u6001",
+        "name": "门1-开状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 202021,
@@ -531,7 +531,7 @@
     },
     "20203": {
         "explode": 1,
-        "name": "\u5f00\u5173-0\u72b6\u6001",
+        "name": "开关-0状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20203,
@@ -541,7 +541,7 @@
     },
     "202031": {
         "explode": 1,
-        "name": "\u5f00\u5173-1\u72b6\u6001",
+        "name": "开关-1状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 202031,
@@ -551,7 +551,7 @@
     },
     "202032": {
         "explode": 1,
-        "name": "\u5f00\u5173-2\u72b6\u6001",
+        "name": "开关-2状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 202032,
@@ -561,7 +561,7 @@
     },
     "20204": {
         "explode": 1,
-        "name": "\u95e82-\u95ed\u72b6\u6001",
+        "name": "门2-闭状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20204,
@@ -571,7 +571,7 @@
     },
     "202041": {
         "explode": 1,
-        "name": "\u95e82-\u5f00\u72b6\u6001",
+        "name": "门2-开状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 202041,
@@ -581,7 +581,7 @@
     },
     "20205": {
         "explode": 1,
-        "name": "\u73b0\u5b9e\u7ed8\u753b",
+        "name": "现实绘画",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20205,
@@ -591,7 +591,7 @@
     },
     "20206": {
         "explode": 1,
-        "name": "\u753b\u4e2d\u7ed8\u753b",
+        "name": "画中绘画",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20206,
@@ -601,7 +601,7 @@
     },
     "20207": {
         "explode": 1,
-        "name": "\u8def\u724c",
+        "name": "路牌",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20207,
@@ -611,7 +611,7 @@
     },
     "20208": {
         "explode": 0,
-        "name": "\u989c\u8272\u5730\u677f-0\u72b6\u6001",
+        "name": "颜色地板-0状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20208,
@@ -621,7 +621,7 @@
     },
     "202081": {
         "explode": 0,
-        "name": "\u989c\u8272\u5730\u677f-1\u72b6\u6001",
+        "name": "颜色地板-1状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 202081,
@@ -631,7 +631,7 @@
     },
     "202082": {
         "explode": 0,
-        "name": "\u989c\u8272\u5730\u677f-2\u72b6\u6001",
+        "name": "颜色地板-2状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 202082,
@@ -641,7 +641,7 @@
     },
     "20209": {
         "explode": 0,
-        "name": "\u6570\u5b57\u5730\u677f1",
+        "name": "数字地板1",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20209,
@@ -651,7 +651,7 @@
     },
     "20210": {
         "explode": 0,
-        "name": "\u6570\u5b57\u5730\u677f2",
+        "name": "数字地板2",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20210,
@@ -661,7 +661,7 @@
     },
     "20211": {
         "explode": 0,
-        "name": "\u6570\u5b57\u5730\u677f3",
+        "name": "数字地板3",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20211,
@@ -671,7 +671,7 @@
     },
     "20212": {
         "explode": 0,
-        "name": "\u6570\u5b57\u5730\u677f4",
+        "name": "数字地板4",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20212,
@@ -681,7 +681,7 @@
     },
     "20213": {
         "explode": 1,
-        "name": "\u8fbe\u64691",
+        "name": "达摩1",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20213,
@@ -691,7 +691,7 @@
     },
     "20214": {
         "explode": 1,
-        "name": "\u8fbe\u64692",
+        "name": "达摩2",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20214,
@@ -701,7 +701,7 @@
     },
     "20215": {
         "explode": 1,
-        "name": "\u969c\u5b50",
+        "name": "障子",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20215,
@@ -711,7 +711,7 @@
     },
     "20216": {
         "explode": 1,
-        "name": "\u969c\u5b50",
+        "name": "障子",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20216,
@@ -721,7 +721,7 @@
     },
     "20217": {
         "explode": 1,
-        "name": "\u574f\u70b9",
+        "name": "坏点",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20217,
@@ -731,7 +731,7 @@
     },
     "20301": {
         "explode": 0,
-        "name": "\u6d77\u97622 \u98ce\u66b4\u72b6\u6001",
+        "name": "海面2 风暴状态",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 20301,
@@ -741,7 +741,7 @@
     },
     "20302": {
         "explode": 0,
-        "name": "\u76ee\u6807\u70b91",
+        "name": "目标点1",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20302,
@@ -751,7 +751,7 @@
     },
     "20303": {
         "explode": 0,
-        "name": "\u76ee\u6807\u70b92",
+        "name": "目标点2",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20303,
@@ -761,7 +761,7 @@
     },
     "20304": {
         "explode": 0,
-        "name": "\u65cb\u6da1-\u666e\u901a\u72b6\u6001",
+        "name": "旋涡-普通状态",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 20304,
@@ -771,7 +771,7 @@
     },
     "203041": {
         "explode": 0,
-        "name": "\u65cb\u6da1-\u98ce\u66b4\u72b6\u6001",
+        "name": "旋涡-风暴状态",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 203041,
@@ -781,7 +781,7 @@
     },
     "20305": {
         "explode": 0,
-        "name": "\u89c6\u9ab8\u5316\u6697\u79011--\u6b63\u5e38\u72b6\u6001",
+        "name": "视骸化暗礁1--正常状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20305,
@@ -791,7 +791,7 @@
     },
     "203051": {
         "explode": 0,
-        "name": "\u89c6\u9ab8\u5316\u6697\u79011\u2014\u7834\u574f\u72b6\u6001",
+        "name": "视骸化暗礁1—破坏状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 203051,
@@ -801,7 +801,7 @@
     },
     "20306": {
         "explode": 0,
-        "name": "\u89c6\u9ab8\u5316\u6697\u79012\u2014\u6b63\u5e38\u72b6\u6001",
+        "name": "视骸化暗礁2—正常状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20306,
@@ -811,7 +811,7 @@
     },
     "203061": {
         "explode": 0,
-        "name": "\u89c6\u9ab8\u5316\u6697\u79012\u2014\u7834\u574f\u72b6\u6001",
+        "name": "视骸化暗礁2—破坏状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 203061,
@@ -821,7 +821,7 @@
     },
     "20307": {
         "explode": 0,
-        "name": "\u89c6\u9ab8\u5316\u6697\u79013\u2014\u6b63\u5e38\u72b6\u6001",
+        "name": "视骸化暗礁3—正常状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20307,
@@ -831,7 +831,7 @@
     },
     "203071": {
         "explode": 0,
-        "name": "\u89c6\u9ab8\u5316\u6697\u79013\u2014\u7834\u574f\u72b6\u6001",
+        "name": "视骸化暗礁3—破坏状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 203071,
@@ -841,7 +841,7 @@
     },
     "20308": {
         "explode": 0,
-        "name": "\u6d0b\u6d41-\u666e\u901a\u72b6\u6001",
+        "name": "洋流-普通状态",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 20308,
@@ -851,7 +851,7 @@
     },
     "203081": {
         "explode": 0,
-        "name": "\u6d0b\u6d41-\u98ce\u66b4\u72b6\u6001",
+        "name": "洋流-风暴状态",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 203081,
@@ -861,7 +861,7 @@
     },
     "20309": {
         "explode": 0,
-        "name": "\u88ab\u63a7\u5236\u6d0b\u6d41",
+        "name": "被控制洋流",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 20309,
@@ -871,7 +871,7 @@
     },
     "20310": {
         "explode": 0,
-        "name": "\u89c6\u9ab8\u5316\u6d77\u9762",
+        "name": "视骸化海面",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 20310,
@@ -881,7 +881,7 @@
     },
     "20311": {
         "explode": 1,
-        "name": "\u5c0f\u578b\u7269\u8d44\u7bb1",
+        "name": "小型物资箱",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20311,
@@ -891,7 +891,7 @@
     },
     "20312": {
         "explode": 1,
-        "name": "\u5927\u578b\u7269\u8d44\u7bb1",
+        "name": "大型物资箱",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20312,
@@ -901,7 +901,7 @@
     },
     "20313": {
         "explode": 0,
-        "name": "\u7ebf\u7d22",
+        "name": "线索",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20313,
@@ -911,7 +911,7 @@
     },
     "20314": {
         "explode": 1,
-        "name": "\u9ab8\u80fd\u4fb5\u8680\u70b9",
+        "name": "骸能侵蚀点",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20314,
@@ -921,7 +921,7 @@
     },
     "20315": {
         "explode": 1,
-        "name": "\u9ab8\u80fd\u4fb5\u8680\u70b9",
+        "name": "骸能侵蚀点",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20315,
@@ -931,7 +931,7 @@
     },
     "20316": {
         "explode": 1,
-        "name": "\u9ab8\u80fd\u4fb5\u8680\u70b9",
+        "name": "骸能侵蚀点",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20316,
@@ -941,7 +941,7 @@
     },
     "20317": {
         "explode": 1,
-        "name": "\u8239\u53ea\u6b8b\u9ab8",
+        "name": "船只残骸",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20317,
@@ -951,7 +951,7 @@
     },
     "20318": {
         "explode": 1,
-        "name": "\u9c7c\u9aa8\u5316\u77f3",
+        "name": "鱼骨化石",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20318,
@@ -961,7 +961,7 @@
     },
     "20319": {
         "explode": 1,
-        "name": "\u6d6e\u6e38\u6c34\u6bcd",
+        "name": "浮游水母",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20319,
@@ -971,7 +971,7 @@
     },
     "20320": {
         "explode": 1,
-        "name": "\u5de8\u6811-0\u72b6\u6001",
+        "name": "巨树-0状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20320,
@@ -981,7 +981,7 @@
     },
     "203201": {
         "explode": 1,
-        "name": "\u5de8\u6811-1\u72b6\u6001",
+        "name": "巨树-1状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 203201,
@@ -991,7 +991,7 @@
     },
     "20321": {
         "explode": 1,
-        "name": "\u8513\u85e4-0\u72b6\u6001",
+        "name": "蔓藤-0状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20321,
@@ -1001,7 +1001,7 @@
     },
     "203211": {
         "explode": 1,
-        "name": "\u8513\u85e4-1\u72b6\u6001",
+        "name": "蔓藤-1状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 203211,
@@ -1011,7 +1011,7 @@
     },
     "20322": {
         "explode": 1,
-        "name": "\u8346\u68d8-0\u72b6\u6001",
+        "name": "荆棘-0状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20322,
@@ -1021,7 +1021,7 @@
     },
     "203221": {
         "explode": 1,
-        "name": "\u8346\u68d8-1\u72b6\u6001",
+        "name": "荆棘-1状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 203221,
@@ -1031,7 +1031,7 @@
     },
     "20323": {
         "explode": 1,
-        "name": "\u9ab8\u80fd\u6676\u5200",
+        "name": "骸能晶刀",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20323,
@@ -1041,7 +1041,7 @@
     },
     "20324": {
         "explode": 1,
-        "name": "\u9ab8\u80fd\u6676\u7c07-0\u72b6\u6001",
+        "name": "骸能晶簇-0状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20324,
@@ -1051,7 +1051,7 @@
     },
     "203241": {
         "explode": 1,
-        "name": "\u9ab8\u80fd\u6676\u7c07-1\u72b6\u6001",
+        "name": "骸能晶簇-1状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 203241,
@@ -1061,7 +1061,7 @@
     },
     "20325": {
         "explode": 1,
-        "name": "\u9cb8\u6b4c\u6d77\u87ba",
+        "name": "鲸歌海螺",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20325,
@@ -1071,7 +1071,7 @@
     },
     "20326": {
         "explode": 1,
-        "name": "\u9ab8\u80fd\u5f71\u54cd\u7684\u690d\u7269-0\u72b6\u6001",
+        "name": "骸能影响的植物-0状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20326,
@@ -1081,7 +1081,7 @@
     },
     "203261": {
         "explode": 1,
-        "name": "\u9ab8\u80fd\u5f71\u54cd\u7684\u690d\u7269-1\u72b6\u6001",
+        "name": "骸能影响的植物-1状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 203261,
@@ -1091,7 +1091,7 @@
     },
     "203262": {
         "explode": 1,
-        "name": "\u9ab8\u80fd\u5f71\u54cd\u7684\u690d\u7269-2\u72b6\u6001",
+        "name": "骸能影响的植物-2状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 203262,
@@ -1101,7 +1101,7 @@
     },
     "203263": {
         "explode": 1,
-        "name": "\u9ab8\u80fd\u5f71\u54cd\u7684\u690d\u7269-3\u72b6\u6001",
+        "name": "骸能影响的植物-3状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 203263,
@@ -1111,7 +1111,7 @@
     },
     "20327": {
         "explode": 1,
-        "name": "BOSS\u5b9e\u4f53\u683c\u5b50",
+        "name": "BOSS实体格子",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20327,
@@ -1121,7 +1121,7 @@
     },
     "203271": {
         "explode": 1,
-        "name": "BOSS\u5b9e\u4f53\u683c\u5b501",
+        "name": "BOSS实体格子1",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 203271,
@@ -1131,7 +1131,7 @@
     },
     "20328": {
         "explode": 0,
-        "name": "\u5b9e\u4f53\u5316\u6697\u7901",
+        "name": "实体化暗礁",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20328,
@@ -1141,7 +1141,7 @@
     },
     "20330": {
         "explode": 0,
-        "name": "\u5730\u76ae",
+        "name": "地皮",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20330,
@@ -1151,7 +1151,7 @@
     },
     "20501": {
         "explode": 0,
-        "name": "\u9700\u586b\u6d82",
+        "name": "需填涂",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 20501,
@@ -1161,7 +1161,7 @@
     },
     "205011": {
         "explode": 0,
-        "name": "\u9700\u586b\u6d821\u72b6\u6001",
+        "name": "需填涂1状态",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 205011,
@@ -1171,7 +1171,7 @@
     },
     "205012": {
         "explode": 0,
-        "name": "\u9700\u586b\u6d822\u72b6\u6001",
+        "name": "需填涂2状态",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 205012,
@@ -1181,7 +1181,7 @@
     },
     "20502": {
         "explode": 0,
-        "name": "\u989c\u6599\u6c60",
+        "name": "颜料池",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 20502,
@@ -1191,7 +1191,7 @@
     },
     "205022": {
         "explode": 0,
-        "name": "\u989c\u6599\u6c60-\u4e0d\u53ef\u7528\u3001\u53ef\u8e29",
+        "name": "颜料池-不可用、可踩",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 205022,
@@ -1201,7 +1201,7 @@
     },
     "20503": {
         "explode": 1,
-        "name": "\u602a\u7269-\u8fde\u7eed\u6218\u6597",
+        "name": "怪物-连续战斗",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20503,
@@ -1211,7 +1211,7 @@
     },
     "20504": {
         "explode": 1,
-        "name": "\u5f00\u5173-0\u72b6\u6001",
+        "name": "开关-0状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20504,
@@ -1221,7 +1221,7 @@
     },
     "205041": {
         "explode": 1,
-        "name": "\u5f00\u5173-1\u72b6\u6001",
+        "name": "开关-1状态",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 205041,
@@ -1231,7 +1231,7 @@
     },
     "20505": {
         "explode": 1,
-        "name": "\u95e8-0\u72b6\u6001",
+        "name": "门-0状态",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20505,
@@ -1241,7 +1241,7 @@
     },
     "205051": {
         "explode": 1,
-        "name": "\u95e8-1\u72b6\u6001\uff08\u534a\u5f00\uff09",
+        "name": "门-1状态（半开）",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 205051,
@@ -1251,7 +1251,7 @@
     },
     "205052": {
         "explode": 1,
-        "name": "\u95e8-2\u72b6\u6001\uff08\u5168\u5f00\uff09",
+        "name": "门-2状态（全开）",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 205052,
@@ -1261,7 +1261,7 @@
     },
     "20506": {
         "explode": 1,
-        "name": "\u969c\u788d\u7269-\u72b6\u60010",
+        "name": "障碍物-状态0",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20506,
@@ -1271,7 +1271,7 @@
     },
     "205061": {
         "explode": 0,
-        "name": "\u969c\u788d\u7269-\u72b6\u60011",
+        "name": "障碍物-状态1",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 205061,
@@ -1281,7 +1281,7 @@
     },
     "20507": {
         "explode": 0,
-        "name": "\u65e0\u9700\u586b\u6d82",
+        "name": "无需填涂",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 20507,
@@ -1291,7 +1291,7 @@
     },
     "206011": {
         "explode": 0,
-        "name": "\u4e91\u6b4c\u77f3-1\u72b6\u6001\uff08\u6b63\u5e38\uff09",
+        "name": "云歌石-1状态（正常）",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 206011,
@@ -1301,7 +1301,7 @@
     },
     "206012": {
         "explode": 0,
-        "name": "\u4e91\u6b4c\u77f3-2\u72b6\u6001\uff08\u5931\u91cd\uff09",
+        "name": "云歌石-2状态（失重）",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 206012,
@@ -1311,7 +1311,7 @@
     },
     "20602": {
         "explode": 0,
-        "name": "\u91cd\u529b\u5207\u6362\u683c\u5b50",
+        "name": "重力切换格子",
         "stonecaninteract": 1,
         "interact": 0,
         "id": 20602,
@@ -1321,7 +1321,7 @@
     },
     "20603": {
         "explode": 0,
-        "name": "\u91cd\u7f6e\u88c5\u7f6e",
+        "name": "重置装置",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20603,
@@ -1331,7 +1331,7 @@
     },
     "20604": {
         "explode": 0,
-        "name": "\u6d1e-0\u72b6\u6001",
+        "name": "洞-0状态",
         "stonecaninteract": 1,
         "interact": 1,
         "id": 20604,
@@ -1341,7 +1341,7 @@
     },
     "20605": {
         "explode": 0,
-        "name": "\u76ee\u6807\u70b9-0\u72b6\u6001",
+        "name": "目标点-0状态",
         "stonecaninteract": 1,
         "interact": 0,
         "id": 20605,
@@ -1351,7 +1351,7 @@
     },
     "20606": {
         "explode": 0,
-        "name": "\u91cd\u529b\u53cd\u8f6c\u88c5\u7f6e",
+        "name": "重力反转装置",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20606,
@@ -1361,7 +1361,7 @@
     },
     "20607": {
         "explode": 0,
-        "name": "\u5956\u52b1\u602a\u7269",
+        "name": "奖励怪物",
         "stonecaninteract": 1,
         "interact": 1,
         "id": 20607,
@@ -1371,7 +1371,7 @@
     },
     "20608": {
         "explode": 1,
-        "name": "\u95e8",
+        "name": "门",
         "stonecaninteract": 0,
         "interact": 1,
         "id": 20608,
@@ -1381,7 +1381,7 @@
     },
     "20609": {
         "explode": 0,
-        "name": "\u865a\u6052\u9053\u8def",
+        "name": "虚恒道路",
         "stonecaninteract": 0,
         "interact": 0,
         "id": 20609,
@@ -1391,7 +1391,7 @@
     },
     "20610": {
         "explode": 0,
-        "name": "\u89e6\u53d1\u5f15\u5bfc\u7684\u9053\u8def",
+        "name": "触发引导的道路",
         "stonecaninteract": 0,
         "interact": 2,
         "id": 20610,
@@ -1401,7 +1401,7 @@
     },
     "20611": {
         "explode": 0,
-        "name": "\u77f3\u5934\u89e6\u53d1\u5f15\u5bfc",
+        "name": "石头触发引导",
         "stonecaninteract": 1,
         "interact": 0,
         "id": 20611,

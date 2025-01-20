@@ -603,7 +603,7 @@
         "simple_strength_description": []
     },
     "425": {
-        "simple_description": "Increases normal attack DMG when the Modifying Level is not lower than <color=#E78300>B</color>;\nIncreases Skill DMG when the Modifying Level is not lower than <color=#E78300>A</color>;\nIncreases Ultimate Skill DMG when the Modifying Level is not lower than <color=#E78300>S</color>;\nFurther increases all of the effects above when the Modifying Level is at <color=#E78300>\u03a9</color>.",
+        "simple_description": "Increases normal attack DMG when the Modifying Level is not lower than <color=#E78300>B</color>;\nIncreases Skill DMG when the Modifying Level is not lower than <color=#E78300>A</color>;\nIncreases Ultimate Skill DMG when the Modifying Level is not lower than <color=#E78300>S</color>;\nFurther increases all of the effects above when the Modifying Level is at <color=#E78300>Ω</color>.",
         "id": 425,
         "description": [
             500000425
@@ -1626,7 +1626,7 @@
         ]
     },
     "101301": {
-        "simple_description": "Equipping by R\u0101hu - Asura grants the following effects:\nChanges the state of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(101301)>Flamefetter</material></color>, enhancing its connection with <color=#297DE0>Fire Warp</color> while also changes the casting moment of the enhanced <color=#297DE0>Fire Warp</color>.\nIncreases the DMG of <color=#297DE0>Fire Warp</color> based on the amount of hits landed with normal attack when in <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(101301)>Flamefetter</material></color> state.",
+        "simple_description": "Equipping by Rāhu - Asura grants the following effects:\nChanges the state of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(101301)>Flamefetter</material></color>, enhancing its connection with <color=#297DE0>Fire Warp</color> while also changes the casting moment of the enhanced <color=#297DE0>Fire Warp</color>.\nIncreases the DMG of <color=#297DE0>Fire Warp</color> based on the amount of hits landed with normal attack when in <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(101301)>Flamefetter</material></color> state.",
         "id": 101301,
         "description": [
             500101301
@@ -1678,7 +1678,7 @@
         ],
         "simple_strength_description": [
             101341,
-            "Equipping by R\u0101hu - Asura grants the following effects:\nChanges the state of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(101301)>Flamefetter</material></color>, enhancing its connection with <color=#297DE0>Fire Warp</color> while also changes the casting moment of the enhanced <color=#297DE0>Fire Warp</color>.\nIncreases the DMG of <color=#297DE0>Fire Warp</color> based on the amount of hits landed with normal attack when in <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(101301)>Flamefetter</material></color> state.\nShortens the CD of <color=#297DE0>Earth Shatter</color>."
+            "Equipping by Rāhu - Asura grants the following effects:\nChanges the state of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(101301)>Flamefetter</material></color>, enhancing its connection with <color=#297DE0>Fire Warp</color> while also changes the casting moment of the enhanced <color=#297DE0>Fire Warp</color>.\nIncreases the DMG of <color=#297DE0>Fire Warp</color> based on the amount of hits landed with normal attack when in <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(101301)>Flamefetter</material></color> state.\nShortens the CD of <color=#297DE0>Earth Shatter</color>."
         ]
     },
     "103201": {
@@ -2337,7 +2337,7 @@
         "simple_strength_description": []
     },
     "102801": {
-        "simple_description": "Equipping by Roaring Thunder - Thor grants the following effects:\nWhile in <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102802)>Thunder Frenzy</material></color> state, each skill hit triggers a thunderbolt that deals Thunder DMG. Each time <color=#297DE0>Mj\u00f6lnir</color> is used to cast a non-derivative skill and a hit is landed, or when <color=#297DE0>J\u00e1rngreipr</color> is used to cast a skill attack apart from the final fist strike and a hit is landed, increases Mod's DMG dealt. This effect can stack.\nWhen casting the one last fist attack in the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102803)>Thunder Rage</material></color> state, this skill's ATK increases based on the number of effects stacked.\nWhen casting <color=#297DE0>Tremblestrike</color> and landing a hit with it, the Base DMG of <color=#297DE0>Tremblestrike</color> increases based on the number of effects stacked. Removes all stacks when <color=#297DE0>Tremblestrike</color> ends.",
+        "simple_description": "Equipping by Roaring Thunder - Thor grants the following effects:\nWhile in <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102802)>Thunder Frenzy</material></color> state, each skill hit triggers a thunderbolt that deals Thunder DMG. Each time <color=#297DE0>Mjölnir</color> is used to cast a non-derivative skill and a hit is landed, or when <color=#297DE0>Járngreipr</color> is used to cast a skill attack apart from the final fist strike and a hit is landed, increases Mod's DMG dealt. This effect can stack.\nWhen casting the one last fist attack in the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102803)>Thunder Rage</material></color> state, this skill's ATK increases based on the number of effects stacked.\nWhen casting <color=#297DE0>Tremblestrike</color> and landing a hit with it, the Base DMG of <color=#297DE0>Tremblestrike</color> increases based on the number of effects stacked. Removes all stacks when <color=#297DE0>Tremblestrike</color> ends.",
         "id": 102801,
         "description": [
             500102801
@@ -2398,7 +2398,7 @@
         ],
         "simple_strength_description": [
             102841,
-            "Equipping by Roaring Thunder - Thor grants the following effects:\nWhile in <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102802)>Thunder Frenzy</material></color> state, each skill hit triggers a thunderbolt that deals Thunder DMG. Each time <color=#297DE0>Mj\u00f6lnir</color> is used to cast a non-derivative skill and a hit is landed, or when <color=#297DE0>J\u00e1rngreipr</color> is used to cast a skill attack apart from the final fist strike and a hit is landed, increases Mod's DMG dealt. This effect can stack.\nWhen casting the last fist attack in the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102803)>Thunder Rage</material></color> state, this skill's Non-DoT ATK increases.\nWhen casting <color=#297DE0>Tremblestrike</color> and landing a hit with it, the Independent DMG of <color=#297DE0>Tremblestrike</color> increases based on the number of effects stacked. Removes all stacks when <color=#297DE0>Tremblestrike</color> ends."
+            "Equipping by Roaring Thunder - Thor grants the following effects:\nWhile in <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102802)>Thunder Frenzy</material></color> state, each skill hit triggers a thunderbolt that deals Thunder DMG. Each time <color=#297DE0>Mjölnir</color> is used to cast a non-derivative skill and a hit is landed, or when <color=#297DE0>Járngreipr</color> is used to cast a skill attack apart from the final fist strike and a hit is landed, increases Mod's DMG dealt. This effect can stack.\nWhen casting the last fist attack in the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102803)>Thunder Rage</material></color> state, this skill's Non-DoT ATK increases.\nWhen casting <color=#297DE0>Tremblestrike</color> and landing a hit with it, the Independent DMG of <color=#297DE0>Tremblestrike</color> increases based on the number of effects stacked. Removes all stacks when <color=#297DE0>Tremblestrike</color> ends."
         ]
     },
     "113201": {
@@ -3460,7 +3460,7 @@
         "simple_strength_description": []
     },
     "102001": {
-        "simple_description": "Translating:\u3010weapon_effect$102001$simple_description$0\u3011",
+        "simple_description": "Translating:【weapon_effect$102001$simple_description$0】",
         "id": 102001,
         "description": [
             500102001
@@ -3537,7 +3537,7 @@
         "simple_strength_description": []
     },
     "115601": {
-        "simple_description": "Translating:\u3010weapon_effect$115601$simple_description$0\u3011",
+        "simple_description": "Translating:【weapon_effect$115601$simple_description$0】",
         "id": 115601,
         "description": [
             500115601
@@ -3569,7 +3569,7 @@
         "simple_strength_description": []
     },
     "108901": {
-        "simple_description": "Translating:\u3010weapon_effect$108901$simple_description$0\u3011",
+        "simple_description": "Translating:【weapon_effect$108901$simple_description$0】",
         "id": 108901,
         "description": [
             500108901

@@ -90,7 +90,7 @@
         ]
     },
     "101011208": {
-        "description": "The Ultimate Skillchain of New Pact - Verthandi and The Innocence - Osiris.\nDeals Physical DMG equal to New Pact - Verthandi's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and all members of the team receive a <color=#E78300>{5}</color> boost to their Mod Index Multiplier for this skillchain.\nAlso deals Physical DMG equal to The Innocence - Osiris' ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and when an enemy hit is landed all members of the team recover HP equal to <color=#E78300>{6}</color> of her ATK.",
+        "description": "The Ultimate Skillchain of New Pact - Verthandi and The Innocence - Osiris.\nDeals Physical DMG equal to New Pact - Verthandi's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and all members of the team receive a <color=#E78300>{5}</color> boost to their Mod Index Multiplier for this skillchain.\nAlso deals Physical DMG equal to The Innocence - Osiris' ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and when an enemy hit is landed all members of the team recover HP equal to <color=#E78300>{6}</color> of her ATK.",
         "maxLv": 60,
         "type": 1,
         "id": 101011208,
@@ -156,7 +156,7 @@
         ]
     },
     "101011281": {
-        "description": "The Ultimate Skillchain of The Innocence - Osiris and Living Soul - Osiris.\nDeals Physical DMG equal to The Innocence - Osiris' ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team recover HP equal to <color=#E78300>{5}</color> of her ATK.\nAlso deals Wind DMG equal to Living Soul - Osiris' ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and when she enters <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld</material> mode all members of the team are granted a DMG boost equal to (<color=#E78300>10% + 0.2%</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>) until <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld</material> mode ends.",
+        "description": "The Ultimate Skillchain of The Innocence - Osiris and Living Soul - Osiris.\nDeals Physical DMG equal to The Innocence - Osiris' ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team recover HP equal to <color=#E78300>{5}</color> of her ATK.\nAlso deals Wind DMG equal to Living Soul - Osiris' ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and when she enters <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld</material> mode all members of the team are granted a DMG boost equal to (<color=#E78300>10% + 0.2%</color> × <color=#297DE0>her Ultimate Skill level</color>) until <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld</material> mode ends.",
         "maxLv": 60,
         "type": 1,
         "id": 101011281,
@@ -270,7 +270,7 @@
         ]
     },
     "101013201": {
-        "description": "Enters <material=underline c=#FFFFFF h=2 event=terminology args=(101301)>Flamefetter</material> state and increases Fire DMG by <color=#E78300>{1}</color> for <color=#E78300>{2}</color> seconds. R\u0101hu's Fists warp to the locked-on enemy's location during the attack, dealing Fire DMG equal to <color=#E78300>{3}</color> of ATK in total.",
+        "description": "Enters <material=underline c=#FFFFFF h=2 event=terminology args=(101301)>Flamefetter</material> state and increases Fire DMG by <color=#E78300>{1}</color> for <color=#E78300>{2}</color> seconds. Rāhu's Fists warp to the locked-on enemy's location during the attack, dealing Fire DMG equal to <color=#E78300>{3}</color> of ATK in total.",
         "maxLv": 60,
         "type": 1,
         "id": 101013201,
@@ -330,7 +330,7 @@
         ]
     },
     "101013203": {
-        "description": "Enters <material=underline c=#FFFFFF h=2 event=terminology args=(101301)>Flamefetter</material> state, and increases Fire DMG by <color=#E78300>{1}</color> for <color=#E78300>{2}</color> seconds. Opens a crack in the ground beneath the locked-on enemy, and draws all surrounding enemies to it. A heavy R\u0101hu Fist then bursts out of the crack, attacking enemies in range and dealing Fire DMG equal to <color=#E78300>{3}</color> of ATK in total.",
+        "description": "Enters <material=underline c=#FFFFFF h=2 event=terminology args=(101301)>Flamefetter</material> state, and increases Fire DMG by <color=#E78300>{1}</color> for <color=#E78300>{2}</color> seconds. Opens a crack in the ground beneath the locked-on enemy, and draws all surrounding enemies to it. A heavy Rāhu Fist then bursts out of the crack, attacking enemies in range and dealing Fire DMG equal to <color=#E78300>{3}</color> of ATK in total.",
         "maxLv": 60,
         "type": 1,
         "id": 101013203,
@@ -357,7 +357,7 @@
         ]
     },
     "101013208": {
-        "description": "The Ultimate Skillchain of Surefire - Zenkibo Tengu and R\u0101hu - Asura.\nDeals Physical DMG equal to Surefire - Zenkibo Tengu's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and after a hit is landed on the enemy all members of the team are granted max Traces.\nAlso deals Fire DMG equal to R\u0101hu - Asura's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and hits landed also lower the enemy's Fire RES by <color=#E78300>{5}</color> for <color=#E78300>{6}</color> seconds.",
+        "description": "The Ultimate Skillchain of Surefire - Zenkibo Tengu and Rāhu - Asura.\nDeals Physical DMG equal to Surefire - Zenkibo Tengu's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and after a hit is landed on the enemy all members of the team are granted max Traces.\nAlso deals Fire DMG equal to Rāhu - Asura's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and hits landed also lower the enemy's Fire RES by <color=#E78300>{5}</color> for <color=#E78300>{6}</color> seconds.",
         "maxLv": 60,
         "type": 1,
         "id": 101013208,
@@ -402,7 +402,7 @@
         ]
     },
     "101013209": {
-        "description": "Leaps up and pounds on the target location with R\u0101hu and casts four fire columns, dealing Fire DMG equal to <color=#E78300>{1}</color> of ATK. Enemies hit have their Fire Resistance lowered by <color=#E78300>{2}</color> for <color=#E78300>{3}</color> seconds.\n\nGrants a<color=#E78300>15%</color> Ultimate Skill charge when Asura or a Teammate triggers Zero Time; triggers only once every <color=#E78300>0.5</color> seconds.",
+        "description": "Leaps up and pounds on the target location with Rāhu and casts four fire columns, dealing Fire DMG equal to <color=#E78300>{1}</color> of ATK. Enemies hit have their Fire Resistance lowered by <color=#E78300>{2}</color> for <color=#E78300>{3}</color> seconds.\n\nGrants a<color=#E78300>15%</color> Ultimate Skill charge when Asura or a Teammate triggers Zero Time; triggers only once every <color=#E78300>0.5</color> seconds.",
         "maxLv": 60,
         "type": 1,
         "id": 101013209,
@@ -540,7 +540,7 @@
         ]
     },
     "101015208": {
-        "description": "The Ultimate Skillchain of Flowfly Mist - Shu and The Lioness - Sekhmet.\nDeals Thunder DMG equal to Flowfly Mist - Shu's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Increases the whole team's Combat Resources charge speed by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s. Also increases Crit DMG by <color=#E78300>25%</color> upon <color=#E78300>each</color> Normal Attack hit. Stacks up to <color=#E78300>3</color> times. The Crit DMG boost effect expires when the Combat Resources charge speed boost expires.\nDeals Physical DMG equal to The Lioness - Sekhmet's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Grants the whole team with <material=underline c=#FFFFFF h=2 event=terminology args=(101502)>Potential Unleashed</material> for <color=#E78300>{7}</color>s. Restores HP to all teammates equal to her ATK \u00d7 (<color=#E78300>62% + 2%</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Upon hitting, the whole team's Skill DMG increases by <color=#E78300>{8}</color> for <color=#E78300>{9}</color>s.",
+        "description": "The Ultimate Skillchain of Flowfly Mist - Shu and The Lioness - Sekhmet.\nDeals Thunder DMG equal to Flowfly Mist - Shu's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>). Increases the whole team's Combat Resources charge speed by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s. Also increases Crit DMG by <color=#E78300>25%</color> upon <color=#E78300>each</color> Normal Attack hit. Stacks up to <color=#E78300>3</color> times. The Crit DMG boost effect expires when the Combat Resources charge speed boost expires.\nDeals Physical DMG equal to The Lioness - Sekhmet's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>). Grants the whole team with <material=underline c=#FFFFFF h=2 event=terminology args=(101502)>Potential Unleashed</material> for <color=#E78300>{7}</color>s. Restores HP to all teammates equal to her ATK × (<color=#E78300>62% + 2%</color> × <color=#297DE0>her Ultimate Skill level</color>). Upon hitting, the whole team's Skill DMG increases by <color=#E78300>{8}</color> for <color=#E78300>{9}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101015208,
@@ -771,7 +771,7 @@
         ]
     },
     "101016208": {
-        "description": "The Ultimate Skillchain of Wasteland Fiend - Kingu and Ryugiri - Kagutsuchi.\nDeals Physical DMG equal to Wasteland Fiend - Kingu's ATK \u00d7(<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>) and the Mod enters <material=underline c=#FFFFFF h=2 event=terminology args=(101603)>Chainsaw Overdrive Mode</material>. Increases the Skill DMG of all members of the team by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s when the Mod lands a hit.\nDeals Fire DMG equal to Ryugiri - Kagutsuchi's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>) and the Mod enters <material=underline c=#FFFFFF h=2 event=terminology args=(105801)>Wildfire</material> state for <color=#E78300>18</color>s, increasing the Fire DMG of all members of the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s when the Mod lands a hit.",
+        "description": "The Ultimate Skillchain of Wasteland Fiend - Kingu and Ryugiri - Kagutsuchi.\nDeals Physical DMG equal to Wasteland Fiend - Kingu's ATK ×(<color=#E78300>{1} + {2}</color> × <color=#297DE0>his Ultimate Skill level</color>) and the Mod enters <material=underline c=#FFFFFF h=2 event=terminology args=(101603)>Chainsaw Overdrive Mode</material>. Increases the Skill DMG of all members of the team by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s when the Mod lands a hit.\nDeals Fire DMG equal to Ryugiri - Kagutsuchi's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>his Ultimate Skill level</color>) and the Mod enters <material=underline c=#FFFFFF h=2 event=terminology args=(105801)>Wildfire</material> state for <color=#E78300>18</color>s, increasing the Fire DMG of all members of the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s when the Mod lands a hit.",
         "maxLv": 60,
         "type": 1,
         "id": 101016208,
@@ -861,7 +861,7 @@
         ]
     },
     "101016281": {
-        "description": "The Ultimate Skillchain of Rage Serpent - Marduk and Wasteland Fiend - Kingu.\nDeals Physical DMG equal to Rage Serpent - Marduk's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>), and all members of the team take <color=#E78300>{8}</color> less damage for <color=#E78300>{9}</color>s when the Mod lands a hit. Inflicts Armor Break on enemies hit and reduces their DEF by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nDeals Physical DMG equal to Wasteland Fiend - Kingu's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>) and the Mod enters <material=underline c=#FFFFFF h=2 event=terminology args=(101603)>Chainsaw Overdrive Mode</material>. All members of the team gain <material=underline c=#FFFFFF h=2 event=terminology args=(101602)>Burst-threshold</material> equal to the Mod's <material=underline c=#FFFFFF h=2 event=terminology args=(101601)>Pressure Tank</material> stack limit for <color=#E78300>{7}</color>s when the Mod lands a hit.",
+        "description": "The Ultimate Skillchain of Rage Serpent - Marduk and Wasteland Fiend - Kingu.\nDeals Physical DMG equal to Rage Serpent - Marduk's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>his Ultimate Skill level</color>), and all members of the team take <color=#E78300>{8}</color> less damage for <color=#E78300>{9}</color>s when the Mod lands a hit. Inflicts Armor Break on enemies hit and reduces their DEF by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nDeals Physical DMG equal to Wasteland Fiend - Kingu's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>his Ultimate Skill level</color>) and the Mod enters <material=underline c=#FFFFFF h=2 event=terminology args=(101603)>Chainsaw Overdrive Mode</material>. All members of the team gain <material=underline c=#FFFFFF h=2 event=terminology args=(101602)>Burst-threshold</material> equal to the Mod's <material=underline c=#FFFFFF h=2 event=terminology args=(101601)>Pressure Tank</material> stack limit for <color=#E78300>{7}</color>s when the Mod lands a hit.",
         "maxLv": 60,
         "type": 1,
         "id": 101016281,
@@ -1011,7 +1011,7 @@
         ]
     },
     "101017208": {
-        "description": "The Ultimate Skillchain of Jin-ei - Kuninotokotachi and Ailuros - Bastet.\nDeals Physical DMG equal to Jin-ei - Kuninotokotachi's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her average skill level</color>) and reduces the Physical, Fire, Thunder, Wind, and Shadow RES of enemies hit by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nAlso deals Shadow DMG equal to Ailuros - Bastet's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Increases Non-DoT Ultimate Skill DMG dealt to normal enemies by <color=#E78300>0.5%</color> for every <color=#E78300>1%</color> HP the enemy has, up to a <color=#E78300>50%</color> boost in total. Increases Non-DoT Ultimate Skill DMG dealt to elite enemies and bosses by <color=#E78300>0.5%</color> for every <color=#E78300>1%</color> Mod Index the enemy has, up to a <color=#E78300>50%</color> boost in total. Enemies in Modified Mode are taken to have a <color=#E78300>100%</color> Mod Index.",
+        "description": "The Ultimate Skillchain of Jin-ei - Kuninotokotachi and Ailuros - Bastet.\nDeals Physical DMG equal to Jin-ei - Kuninotokotachi's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her average skill level</color>) and reduces the Physical, Fire, Thunder, Wind, and Shadow RES of enemies hit by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nAlso deals Shadow DMG equal to Ailuros - Bastet's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>). Increases Non-DoT Ultimate Skill DMG dealt to normal enemies by <color=#E78300>0.5%</color> for every <color=#E78300>1%</color> HP the enemy has, up to a <color=#E78300>50%</color> boost in total. Increases Non-DoT Ultimate Skill DMG dealt to elite enemies and bosses by <color=#E78300>0.5%</color> for every <color=#E78300>1%</color> Mod Index the enemy has, up to a <color=#E78300>50%</color> boost in total. Enemies in Modified Mode are taken to have a <color=#E78300>100%</color> Mod Index.",
         "maxLv": 60,
         "type": 1,
         "id": 101017208,
@@ -1182,7 +1182,7 @@
         ]
     },
     "101019208": {
-        "description": "The Ultimate Skillchain of Tidal Song - Poseidon and Gusty Lance - Shu.\nDeals Water DMG equal to Tidal Song - Poseidon's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and restores to all members of the team HP equal to her ATK \u00d7 (<color=#E78300>60% + 2%</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>).\nAlso deals Wind DMG equal to Gusty Lance - Shu's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>) and her Modifying Level is changed to <color=#E78300>\u03a9</color>.",
+        "description": "The Ultimate Skillchain of Tidal Song - Poseidon and Gusty Lance - Shu.\nDeals Water DMG equal to Tidal Song - Poseidon's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and restores to all members of the team HP equal to her ATK × (<color=#E78300>60% + 2%</color> × <color=#297DE0>her Ultimate Skill level</color>).\nAlso deals Wind DMG equal to Gusty Lance - Shu's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>) and her Modifying Level is changed to <color=#E78300>Ω</color>.",
         "maxLv": 60,
         "type": 1,
         "id": 101019208,
@@ -1215,7 +1215,7 @@
         ]
     },
     "101019209": {
-        "description": "Dashes with her lance for a certain distance, attacking and dealing to enemies in her path Wind DMG equal to <color=#E78300>{1}</color> of ATK, and changing her Modifying Level to <color=#E78300>\u03a9</color>. When an enemy is defeated using Wind Drill, Shu also enters Zero Time for <color=#E78300>4</color> seconds.\n\nAn <color=#E78300>8%</color> Ultimate Skill charge is granted when Shu or a Teammate expends Traces.",
+        "description": "Dashes with her lance for a certain distance, attacking and dealing to enemies in her path Wind DMG equal to <color=#E78300>{1}</color> of ATK, and changing her Modifying Level to <color=#E78300>Ω</color>. When an enemy is defeated using Wind Drill, Shu also enters Zero Time for <color=#E78300>4</color> seconds.\n\nAn <color=#E78300>8%</color> Ultimate Skill charge is granted when Shu or a Teammate expends Traces.",
         "maxLv": 60,
         "type": 1,
         "id": 101019209,
@@ -1257,7 +1257,7 @@
         ]
     },
     "101019281": {
-        "description": "The Ultimate Skillchain of Gusty Lance - Shu and Early Sakura - Ookuninushi.\nDeals Wind DMG equal to Gusty Lance - Shu's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and her Modifying Level is raised to <color=#E78300>\u03a9</color>.\nAlso deals Physical DMG equal to Early Sakura - Ookuninushi's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and when a hit is landed on the enemy the cd of Skill 3 is reset for all members of the team.",
+        "description": "The Ultimate Skillchain of Gusty Lance - Shu and Early Sakura - Ookuninushi.\nDeals Wind DMG equal to Gusty Lance - Shu's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and her Modifying Level is raised to <color=#E78300>Ω</color>.\nAlso deals Physical DMG equal to Early Sakura - Ookuninushi's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and when a hit is landed on the enemy the cd of Skill 3 is reset for all members of the team.",
         "maxLv": 60,
         "type": 1,
         "id": 101019281,
@@ -1290,7 +1290,7 @@
         ]
     },
     "101019282": {
-        "description": "The Ultimate Skillchain of Gusty Lance - Shu and Living Soul - Osiris.\nDeals Wind DMG equal to Gusty Lance - Shu's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and the skillchain cast also changes her Modifying Level to <color=#E78300>\u03a9</color>.\nAlso deals Wind DMG equal to Living Soul - Osiris' ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and when she enters <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld mode</material> all members of her team are granted a DMG boost equal to <color=#E78300>10% + 0.2%</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color> until <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld</material> mode ends.",
+        "description": "The Ultimate Skillchain of Gusty Lance - Shu and Living Soul - Osiris.\nDeals Wind DMG equal to Gusty Lance - Shu's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and the skillchain cast also changes her Modifying Level to <color=#E78300>Ω</color>.\nAlso deals Wind DMG equal to Living Soul - Osiris' ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and when she enters <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld mode</material> all members of her team are granted a DMG boost equal to <color=#E78300>10% + 0.2%</color> × <color=#297DE0>her Ultimate Skill level</color> until <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld</material> mode ends.",
         "maxLv": 60,
         "type": 1,
         "id": 101019282,
@@ -1338,7 +1338,7 @@
         ]
     },
     "101020101": {
-        "description": "Translating:\u3010description$101020101$description$0\u3011",
+        "description": "Translating:【description$101020101$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101020101,
@@ -1365,7 +1365,7 @@
         ]
     },
     "101020201": {
-        "description": "Translating:\u3010description$101020201$description$0\u3011",
+        "description": "Translating:【description$101020201$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101020201,
@@ -1398,7 +1398,7 @@
         ]
     },
     "101020202": {
-        "description": "Translating:\u3010description$101020202$description$0\u3011",
+        "description": "Translating:【description$101020202$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101020202,
@@ -1413,7 +1413,7 @@
         ]
     },
     "101020203": {
-        "description": "Translating:\u3010description$101020203$description$0\u3011",
+        "description": "Translating:【description$101020203$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101020203,
@@ -1446,7 +1446,7 @@
         ]
     },
     "101020208": {
-        "description": "Translating:\u3010description$101020208$description$0\u3011",
+        "description": "Translating:【description$101020208$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101020208,
@@ -1503,7 +1503,7 @@
         ]
     },
     "101020209": {
-        "description": "Translating:\u3010description$101020209$description$0\u3011",
+        "description": "Translating:【description$101020209$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101020209,
@@ -1524,7 +1524,7 @@
         ]
     },
     "101020305": {
-        "description": "Translating:\u3010description$101020305$description$0\u3011",
+        "description": "Translating:【description$101020305$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101020305,
@@ -1659,7 +1659,7 @@
         ]
     },
     "101021208": {
-        "description": "The Ultimate Skillchain of Dawnray - Artemis and Chord of Convallaria - Athena.\nDeals Physical DMG equal to Dawnray - Artemis' ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). If she is not in the <material=underline c=#FFFFFF h=2 event=terminology args=(102102)>Dawnlight</material> state, Dawnray - Artemis enters the <material=underline c=#FFFFFF h=2 event=terminology args=(102102)>Dawnlight</material> state, increasing the Non-DoT Crit Rate of her teammates' normal attacks by <color=#E78300>8.2% + 0.2%</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color> for <color=#E78300>14</color>s.\nDeals Physical DMG equal to Chord of Convallaria - Athena's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), while also increasing nearby teammates' Normal Attack DMG by <color=#E78300>20% + 1%</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color> for <color=#E78300>{5}</color>s, and decreasing the DMG she takes by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s. She enters the <material=underline c=#FFFFFF h=2 event=terminology args=(104101)>Hummingblade</material> state, restores Divine Grace to full, and resets her <material=underline c=#FFFFFF h=2 event=terminology args=(104103)>Harmony</material> stack count. Every time Sword Majalis is Harmonious while Chord of Convallaria - Athena is in the <material=underline c=#FFFFFF h=2 event=terminology args=(104101)>Hummingblade</material> state, her nearby teammates also generate a Sonic Boom.",
+        "description": "The Ultimate Skillchain of Dawnray - Artemis and Chord of Convallaria - Athena.\nDeals Physical DMG equal to Dawnray - Artemis' ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>). If she is not in the <material=underline c=#FFFFFF h=2 event=terminology args=(102102)>Dawnlight</material> state, Dawnray - Artemis enters the <material=underline c=#FFFFFF h=2 event=terminology args=(102102)>Dawnlight</material> state, increasing the Non-DoT Crit Rate of her teammates' normal attacks by <color=#E78300>8.2% + 0.2%</color> × <color=#297DE0>her Ultimate Skill level</color> for <color=#E78300>14</color>s.\nDeals Physical DMG equal to Chord of Convallaria - Athena's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), while also increasing nearby teammates' Normal Attack DMG by <color=#E78300>20% + 1%</color> × <color=#297DE0>her Ultimate Skill level</color> for <color=#E78300>{5}</color>s, and decreasing the DMG she takes by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s. She enters the <material=underline c=#FFFFFF h=2 event=terminology args=(104101)>Hummingblade</material> state, restores Divine Grace to full, and resets her <material=underline c=#FFFFFF h=2 event=terminology args=(104103)>Harmony</material> stack count. Every time Sword Majalis is Harmonious while Chord of Convallaria - Athena is in the <material=underline c=#FFFFFF h=2 event=terminology args=(104101)>Hummingblade</material> state, her nearby teammates also generate a Sonic Boom.",
         "maxLv": 60,
         "type": 1,
         "id": 101021208,
@@ -1908,7 +1908,7 @@
         ]
     },
     "101022208": {
-        "description": "The Ultimate Skillchain of Serene Moon - Selene and Puppet Master - Hades.\nDeals Shadow DMG equal to Serene Moon - Selene's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>) and generates <material=underline c=#FFFFFF h=2 event=terminology args=(102208)>New Moon Splendor</material> or <material=underline c=#FFFFFF h=2 event=terminology args=(102209)>Full Moon Brilliant</material> depending on her current form. Increases all teammates' Skill DMG by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nDeals Shadow DMG equal to Puppet Master - Hades' ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). If her Divine Grace changes while casting this skill, it is immediately set to <color=#E78300>50</color> for <color=#E78300>48</color>s. Increases all teammates' Crit Rate by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s, and increases Independent DMG by <color=#E78300>{9}</color> for <color=#E78300>{10}</color>.\nThis Ultimate Skillchain has a <color=#E78300>40</color>s CD (unaffected by other attributes).",
+        "description": "The Ultimate Skillchain of Serene Moon - Selene and Puppet Master - Hades.\nDeals Shadow DMG equal to Serene Moon - Selene's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>) and generates <material=underline c=#FFFFFF h=2 event=terminology args=(102208)>New Moon Splendor</material> or <material=underline c=#FFFFFF h=2 event=terminology args=(102209)>Full Moon Brilliant</material> depending on her current form. Increases all teammates' Skill DMG by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nDeals Shadow DMG equal to Puppet Master - Hades' ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>). If her Divine Grace changes while casting this skill, it is immediately set to <color=#E78300>50</color> for <color=#E78300>48</color>s. Increases all teammates' Crit Rate by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s, and increases Independent DMG by <color=#E78300>{9}</color> for <color=#E78300>{10}</color>.\nThis Ultimate Skillchain has a <color=#E78300>40</color>s CD (unaffected by other attributes).",
         "maxLv": 60,
         "type": 1,
         "id": 101022208,
@@ -2163,7 +2163,7 @@
         ]
     },
     "101024208": {
-        "description": "The Ultimate Skillchain of Jackal - Anubis and Croc Rage - Sobek.\nDeals Shadow DMG equal to Jackal - Anubis' ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>). Anubis becomes one with the <material=underline c=#FFFFFF h=2 event=terminology args=(102401)>Jackal Spirit</material> for <color=#E78300>15</color>s. Also resets the his skill CD when Anubis casts the skill. When the skill hits, increases the ATK of all team members by <color=#E78300>{5}</color> and increases their Ultimate Skill charge speed by <color=#E78300>{8}</color> for <color=#E78300>{6}</color>s.\nDeals Water DMG equal to Croc Rage - Sobek's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>). Increases the Melee DMG of all team members by <color=#E78300>{7}</color> for <color=#E78300>{6}</color>s when the skill hits.",
+        "description": "The Ultimate Skillchain of Jackal - Anubis and Croc Rage - Sobek.\nDeals Shadow DMG equal to Jackal - Anubis' ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>his Ultimate Skill level</color>). Anubis becomes one with the <material=underline c=#FFFFFF h=2 event=terminology args=(102401)>Jackal Spirit</material> for <color=#E78300>15</color>s. Also resets the his skill CD when Anubis casts the skill. When the skill hits, increases the ATK of all team members by <color=#E78300>{5}</color> and increases their Ultimate Skill charge speed by <color=#E78300>{8}</color> for <color=#E78300>{6}</color>s.\nDeals Water DMG equal to Croc Rage - Sobek's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>his Ultimate Skill level</color>). Increases the Melee DMG of all team members by <color=#E78300>{7}</color> for <color=#E78300>{6}</color>s when the skill hits.",
         "maxLv": 60,
         "type": 1,
         "id": 101024208,
@@ -2277,7 +2277,7 @@
         ]
     },
     "101024281": {
-        "description": "The Ultimate Skillchain of Rage Serpent - Marduk and Jackal - Anubis.\nDeals Physical DMG equal to Rage Serpent - Marduk's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>), while also reducing DMG dealt to all teammates by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s. Inflicts Armor Break on enemies hit, reducing their DEF by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>.\nDeals Shadow DMG equal to Jackal - Anubis' ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>). Anubis becomes one with the <material=underline c=#FFFFFF h=2 event=terminology args=(102401)>Jackal Spirit</material> for <color=#E78300>15</color>s, resetting his skill CDs and reducing the remaining CD of his Ultimate Skill by <color=#E78300>5</color>s. Increases teammates' ATK by <color=#E78300>{9}</color> for <color=#E78300>{10}</color>s when the skill hits, while also increasing his Crit DMG by <color=#E78300>{11}</color> and his Shadow DMG by <color=#E78300>{12}</color> for <color=#E78300>{13}</color>s.",
+        "description": "The Ultimate Skillchain of Rage Serpent - Marduk and Jackal - Anubis.\nDeals Physical DMG equal to Rage Serpent - Marduk's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>his Ultimate Skill level</color>), while also reducing DMG dealt to all teammates by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s. Inflicts Armor Break on enemies hit, reducing their DEF by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>.\nDeals Shadow DMG equal to Jackal - Anubis' ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>his Ultimate Skill level</color>). Anubis becomes one with the <material=underline c=#FFFFFF h=2 event=terminology args=(102401)>Jackal Spirit</material> for <color=#E78300>15</color>s, resetting his skill CDs and reducing the remaining CD of his Ultimate Skill by <color=#E78300>5</color>s. Increases teammates' ATK by <color=#E78300>{9}</color> for <color=#E78300>{10}</color>s when the skill hits, while also increasing his Crit DMG by <color=#E78300>{11}</color> and his Shadow DMG by <color=#E78300>{12}</color> for <color=#E78300>{13}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101024281,
@@ -2463,7 +2463,7 @@
         ]
     },
     "101026208": {
-        "description": "The Ultimate Skillchain of Croc Rage - Sobek and Airgetlam - Nuadha.\nDeals Water DMG equal to Croc Rage - Sobek's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted a <color=#E78300>{5}</color> Melee DMG boost for <color=#E78300>{6}</color> seconds.\nAlso deals Fire DMG equal to Airgetlam - Nuadha's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted <material=underline c=#FFFFFF h=2 event=terminology args=(102601)>Overload</material> for <color=#E78300>10</color> seconds.",
+        "description": "The Ultimate Skillchain of Croc Rage - Sobek and Airgetlam - Nuadha.\nDeals Water DMG equal to Croc Rage - Sobek's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted a <color=#E78300>{5}</color> Melee DMG boost for <color=#E78300>{6}</color> seconds.\nAlso deals Fire DMG equal to Airgetlam - Nuadha's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted <material=underline c=#FFFFFF h=2 event=terminology args=(102601)>Overload</material> for <color=#E78300>10</color> seconds.",
         "maxLv": 60,
         "type": 1,
         "id": 101026208,
@@ -2529,7 +2529,7 @@
         ]
     },
     "101026281": {
-        "description": "The Ultimate Skillchain of Ryugiri - Kagutsuchi and Airgetlam - Nuadha.\nDeals Fire DMG equal to Ryugiri - Kagutsuchi's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted a <color=#E78300>{5}</color> Fire DMG boost for <color=#E78300>{6}</color> seconds.\nAlso deals Fire DMG equal to Airgetlam - Nuadha's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted <material=underline c=#FFFFFF h=2 event=terminology args=(102601)>Overload</material> for <color=#E78300>10</color> seconds.",
+        "description": "The Ultimate Skillchain of Ryugiri - Kagutsuchi and Airgetlam - Nuadha.\nDeals Fire DMG equal to Ryugiri - Kagutsuchi's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted a <color=#E78300>{5}</color> Fire DMG boost for <color=#E78300>{6}</color> seconds.\nAlso deals Fire DMG equal to Airgetlam - Nuadha's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted <material=underline c=#FFFFFF h=2 event=terminology args=(102601)>Overload</material> for <color=#E78300>10</color> seconds.",
         "maxLv": 60,
         "type": 1,
         "id": 101026281,
@@ -2673,7 +2673,7 @@
         ]
     },
     "101027208": {
-        "description": "The Ultimate Skillchain of Drifting Flurry - Leviathan and Frost Fang - Vidar.\nDeals Ice DMG equal to Drifting Flurry - Leviathan's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), as well as inflicts Freeze on all enemies on the field for <color=#E78300>{6}</color> seconds.\nAlso deals Ice DMG equal to Frost Fang - Vidar's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and when an enemy hit is landed all enemies on the field also have their Ice RES lowered by <color=#E78300>{5}</color> for <color=#E78300>{7}</color> seconds.",
+        "description": "The Ultimate Skillchain of Drifting Flurry - Leviathan and Frost Fang - Vidar.\nDeals Ice DMG equal to Drifting Flurry - Leviathan's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), as well as inflicts Freeze on all enemies on the field for <color=#E78300>{6}</color> seconds.\nAlso deals Ice DMG equal to Frost Fang - Vidar's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and when an enemy hit is landed all enemies on the field also have their Ice RES lowered by <color=#E78300>{5}</color> for <color=#E78300>{7}</color> seconds.",
         "maxLv": 60,
         "type": 1,
         "id": 101027208,
@@ -2772,7 +2772,7 @@
         ]
     },
     "101027281": {
-        "description": "The Ultimate Skillchain of Waverender - Skadi and Drifting Flurry - Leviathan.\nDeals Ice DMG equal to Waverender - Skadi's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), as well as increases the charge skill DMG of the team by <color=#E78300>{6}</color> for <color=#E78300>{7}</color> seconds upon skillchain hit.\nAlso deals Ice DMG equal to Drifting Flurry - Leviathan's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), as well as inflicts Freeze on all enemies on the field for <color=#E78300>{5}</color> seconds.",
+        "description": "The Ultimate Skillchain of Waverender - Skadi and Drifting Flurry - Leviathan.\nDeals Ice DMG equal to Waverender - Skadi's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), as well as increases the charge skill DMG of the team by <color=#E78300>{6}</color> for <color=#E78300>{7}</color> seconds upon skillchain hit.\nAlso deals Ice DMG equal to Drifting Flurry - Leviathan's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), as well as inflicts Freeze on all enemies on the field for <color=#E78300>{5}</color> seconds.",
         "maxLv": 60,
         "type": 1,
         "id": 101027281,
@@ -2844,7 +2844,7 @@
         ]
     },
     "101028101": {
-        "description": "Swings Mj\u00f6lnir to attack the enemy continuously, dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. Following up its derivative skill with a normal attack will start the normal attack from the fourth strike and grants Unyielding for <color=#E78300>2</color>s during the follow-up.\n\nPassive:\nEvery hit landed with a normal attack or skill attack grants <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> points, which can stack up to <color=#E78300>100</color>. <color=#E78300>7</color> <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> are expended every <color=#E78300>0.5</color>s. Gains <color=#E78300>9</color> <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> for each normal attack hit and <color=#E78300>15</color> <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> for each skill hit, and gains <color=#E78300>15</color> more <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> for each skill hit in <material=underline c=#FFFFFF h=2 event=terminology args=(102802)>Thunder Frenzy</material> state. Every <color=#E78300>1</color> point of <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> increases Independent DMG dealt by <color=#E78300>0.3%</color>, with the effect maxed out when <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> is at <color=#E78300>80</color>.\nEnters <material=underline c=#FFFFFF h=2 event=terminology args=(102802)>Thunder Frenzy</material> state for <color=#E78300>2</color>s when casting a derivative skill, with effect duration extended by <color=#E78300>0.01</color>s for every <color=#E78300>1</color> point of <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> owned (up to an extension of <color=#E78300>1</color>s).\n<material=underline c=#FFFFFF h=2 event=terminology args=(102802)>Thunder Frenzy</material>: Becomes Invincible for a short time upon entering the state. <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> will not be automatically expended during this state, and Mod deals <color=#E78300>{2}</color> more Thunder DMG.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with the fifth strike of a normal attack.",
+        "description": "Swings Mjölnir to attack the enemy continuously, dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. Following up its derivative skill with a normal attack will start the normal attack from the fourth strike and grants Unyielding for <color=#E78300>2</color>s during the follow-up.\n\nPassive:\nEvery hit landed with a normal attack or skill attack grants <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> points, which can stack up to <color=#E78300>100</color>. <color=#E78300>7</color> <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> are expended every <color=#E78300>0.5</color>s. Gains <color=#E78300>9</color> <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> for each normal attack hit and <color=#E78300>15</color> <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> for each skill hit, and gains <color=#E78300>15</color> more <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> for each skill hit in <material=underline c=#FFFFFF h=2 event=terminology args=(102802)>Thunder Frenzy</material> state. Every <color=#E78300>1</color> point of <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> increases Independent DMG dealt by <color=#E78300>0.3%</color>, with the effect maxed out when <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> is at <color=#E78300>80</color>.\nEnters <material=underline c=#FFFFFF h=2 event=terminology args=(102802)>Thunder Frenzy</material> state for <color=#E78300>2</color>s when casting a derivative skill, with effect duration extended by <color=#E78300>0.01</color>s for every <color=#E78300>1</color> point of <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> owned (up to an extension of <color=#E78300>1</color>s).\n<material=underline c=#FFFFFF h=2 event=terminology args=(102802)>Thunder Frenzy</material>: Becomes Invincible for a short time upon entering the state. <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> will not be automatically expended during this state, and Mod deals <color=#E78300>{2}</color> more Thunder DMG.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with the fifth strike of a normal attack.",
         "maxLv": 60,
         "type": 1,
         "id": 101028101,
@@ -2865,7 +2865,7 @@
         ]
     },
     "101028201": {
-        "description": "Rushes toward the enemy with Mj\u00f6lnir in hand, dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. For a short time after skill cast, skill is replaced by the derivative skill: Hammerstrike, which can only be cast as a follow-up to Quivers Underground.\nHammerstrike: Attacks surrounding enemies with Mj\u00f6lnir, expending <color=#E78300>3</color> Traces to deal Thunder DMG equal to <color=#E78300>{2}</color> ATK in total.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with Quivers Underground.",
+        "description": "Rushes toward the enemy with Mjölnir in hand, dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. For a short time after skill cast, skill is replaced by the derivative skill: Hammerstrike, which can only be cast as a follow-up to Quivers Underground.\nHammerstrike: Attacks surrounding enemies with Mjölnir, expending <color=#E78300>3</color> Traces to deal Thunder DMG equal to <color=#E78300>{2}</color> ATK in total.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with Quivers Underground.",
         "maxLv": 60,
         "type": 1,
         "id": 101028201,
@@ -2886,7 +2886,7 @@
         ]
     },
     "101028202": {
-        "description": "Swings Mj\u00f6lnir wildly, pulling in nearby enemies for a short time and dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. Within a short time after skill cast, this skill will be replaced by the derivative skill: Rumblestrike, which can only be cast as a follow-up to Rumbles Faraway.\nRumblestrike: Spins Mj\u00f6lnir and then smashes it into the ground, expending <color=#E78300>3</color> Traces to deal Thunder DMG equal to <color=#E78300>{2}</color> ATK in total.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with Rumbles Faraway.",
+        "description": "Swings Mjölnir wildly, pulling in nearby enemies for a short time and dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. Within a short time after skill cast, this skill will be replaced by the derivative skill: Rumblestrike, which can only be cast as a follow-up to Rumbles Faraway.\nRumblestrike: Spins Mjölnir and then smashes it into the ground, expending <color=#E78300>3</color> Traces to deal Thunder DMG equal to <color=#E78300>{2}</color> ATK in total.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with Rumbles Faraway.",
         "maxLv": 60,
         "type": 1,
         "id": 101028202,
@@ -2907,7 +2907,7 @@
         ]
     },
     "101028203": {
-        "description": "Swings Mj\u00f6lnir, then smashes it into the ground, dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. Within a short time after skill cast, this skill will be replaced by the derivative skill: Tremblestrike, which can only be cast as a follow-up to Trembles Deep Within.\nTremblestrike: Swings Mj\u00f6lnir and smashes it into the ground again, expending <color=#E78300>3</color> Traces to deal Thunder DMG equal to <color=#E78300>{2}</color> ATK in total.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with Trembles Deep Within.",
+        "description": "Swings Mjölnir, then smashes it into the ground, dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. Within a short time after skill cast, this skill will be replaced by the derivative skill: Tremblestrike, which can only be cast as a follow-up to Trembles Deep Within.\nTremblestrike: Swings Mjölnir and smashes it into the ground again, expending <color=#E78300>3</color> Traces to deal Thunder DMG equal to <color=#E78300>{2}</color> ATK in total.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with Trembles Deep Within.",
         "maxLv": 60,
         "type": 1,
         "id": 101028203,
@@ -2928,7 +2928,7 @@
         ]
     },
     "101028208": {
-        "description": "The Ultimate Skillchain of Comet R4Y - Zenkibo Tengu and Roaring Thunder - Thor.\nDeals Light DMG equal to Comet R4Y - Zenkibo Tengu's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and increases the Light DMG of all teammates by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nDeals Thunder DMG equal to Roaring Thunder - Thor's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and sends the Mod into <material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material> state. When she lands a hit while in this state, increases Skill DMG of all members of the team by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s.",
+        "description": "The Ultimate Skillchain of Comet R4Y - Zenkibo Tengu and Roaring Thunder - Thor.\nDeals Light DMG equal to Comet R4Y - Zenkibo Tengu's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and increases the Light DMG of all teammates by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nDeals Thunder DMG equal to Roaring Thunder - Thor's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and sends the Mod into <material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material> state. When she lands a hit while in this state, increases Skill DMG of all members of the team by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101028208,
@@ -2985,7 +2985,7 @@
         ]
     },
     "101028209": {
-        "description": "Summons the J\u00e1rngreipr gloves that unleash the power of raging thunder, and also enters <material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material> state. Skill cast grants all Trace Mods on the team a <color=#E78300>{1}</color> Skill DMG boost for <color=#E78300>{2}</color>s.\n<material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material>: Grants Control Immunity and DMG Immunity, though Mod may not move or cast skills or Dodge. <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> buffs are raised to max. Expends all <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> with no further automatic expenditure, then grants <color=#E78300>7</color> <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> every <color=#E78300>0.2</color>s thereafter. Keep tapping the attack button to keep casting skill attacks with J\u00e1rngreipr which deal Thunder DMG equal to <color=#E78300>{3}</color> ATK in total. The second strike of the attack also sends down five thunderbolts in front, with each dealing Thunder DMG equal to <color=#E78300>{4}</color> ATK. Unleashes one last fist attack automatically when <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> is at max, dealing Thunder DMG equal to <color=#E78300>{5}</color> ATK, then exits <material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material> state immediately after.\n\nGains a <color=#E78300>4%</color> Ultimate Skill charge for each Trace expended by the Mod or a teammate.",
+        "description": "Summons the Járngreipr gloves that unleash the power of raging thunder, and also enters <material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material> state. Skill cast grants all Trace Mods on the team a <color=#E78300>{1}</color> Skill DMG boost for <color=#E78300>{2}</color>s.\n<material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material>: Grants Control Immunity and DMG Immunity, though Mod may not move or cast skills or Dodge. <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> buffs are raised to max. Expends all <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> with no further automatic expenditure, then grants <color=#E78300>7</color> <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> every <color=#E78300>0.2</color>s thereafter. Keep tapping the attack button to keep casting skill attacks with Járngreipr which deal Thunder DMG equal to <color=#E78300>{3}</color> ATK in total. The second strike of the attack also sends down five thunderbolts in front, with each dealing Thunder DMG equal to <color=#E78300>{4}</color> ATK. Unleashes one last fist attack automatically when <material=underline c=#FFFFFF h=2 event=terminology args=(102801)>Thundercloud</material> is at max, dealing Thunder DMG equal to <color=#E78300>{5}</color> ATK, then exits <material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material> state immediately after.\n\nGains a <color=#E78300>4%</color> Ultimate Skill charge for each Trace expended by the Mod or a teammate.",
         "maxLv": 60,
         "type": 1,
         "id": 101028209,
@@ -3024,7 +3024,7 @@
         ]
     },
     "101028281": {
-        "description": "The Ultimate Skillchain of Roaring Thunder - Thor and Living Soul - Osiris.\nDeals Thunder DMG equal to Roaring Thunder - Thor's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and sends the Mod into <material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material> state. When she lands a hit while in this state, increases the Skill DMG of all Trace Mods on the team by <color=#E78300>{5}</color> until <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld</material> mode ends.\nDeals Wind DMG equal to Living Soul - Osiris's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and sends the Mod into <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld</material> mode, increasing DMG dealt by all members of the team by (<color=#E78300>20% + 0.2%</color> \u00d7 <color=#297DE0>their Ultimate Skill level</color>) until <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld</material> mode ends.",
+        "description": "The Ultimate Skillchain of Roaring Thunder - Thor and Living Soul - Osiris.\nDeals Thunder DMG equal to Roaring Thunder - Thor's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and sends the Mod into <material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material> state. When she lands a hit while in this state, increases the Skill DMG of all Trace Mods on the team by <color=#E78300>{5}</color> until <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld</material> mode ends.\nDeals Wind DMG equal to Living Soul - Osiris's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and sends the Mod into <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld</material> mode, increasing DMG dealt by all members of the team by (<color=#E78300>20% + 0.2%</color> × <color=#297DE0>their Ultimate Skill level</color>) until <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld</material> mode ends.",
         "maxLv": 60,
         "type": 1,
         "id": 101028281,
@@ -3063,7 +3063,7 @@
         ]
     },
     "101028282": {
-        "description": "The Ultimate Skillchain of Flowfly Mist - Shu and Roaring Thunder - Thor.\nDeals Thunder DMG equal to Flowfly Mist - Shu's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Landing a hit on the enemy increases the combat resource gain rate of members of the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s. Every <color=#E78300>1</color> hit landed on the enemy with a Normal Attack increases Crit DMG by <color=#E78300>25%</color> (effect stacks up to <color=#E78300>3</color> times). Crit DMG buff expires at the same time as the combat resource buff.\nAlso deals Thunder DMG equal to Roaring Thunder - Thor's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). When Thor lands a hit while in <material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material>, all members of the team deal <color=#E78300>{7}</color> more Skill DMG and <color=#E78300>{8}</color> more Thunder DMG for <color=#E78300>{9}</color>s.",
+        "description": "The Ultimate Skillchain of Flowfly Mist - Shu and Roaring Thunder - Thor.\nDeals Thunder DMG equal to Flowfly Mist - Shu's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>). Landing a hit on the enemy increases the combat resource gain rate of members of the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s. Every <color=#E78300>1</color> hit landed on the enemy with a Normal Attack increases Crit DMG by <color=#E78300>25%</color> (effect stacks up to <color=#E78300>3</color> times). Crit DMG buff expires at the same time as the combat resource buff.\nAlso deals Thunder DMG equal to Roaring Thunder - Thor's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>). When Thor lands a hit while in <material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material>, all members of the team deal <color=#E78300>{7}</color> more Skill DMG and <color=#E78300>{8}</color> more Thunder DMG for <color=#E78300>{9}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101028282,
@@ -3258,7 +3258,7 @@
         ]
     },
     "101032208": {
-        "description": "The Ultimate Skillchain of The Glare - Apollo and AblaZe - Tyr.\nDeals Light DMG equal to The Glare - Apollo's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>), and when he has <color=#E78300>3</color> <material=underline c=#FFFFFF h=2 event=terminology args=(105901)>Solar Arrows</material> active, when a hit is landed on the enemy the CD of the Dodge effect is reset for all members of the team.\nAlso deals Light DMG equal to AblaZe - Tyr's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>), and when the Ultimate Skillchain ends all members of the team deal <color=#E78300>16%</color> more Ultimate Skill DMG. Effect stacks up to <color=#E78300>5</color> times.",
+        "description": "The Ultimate Skillchain of The Glare - Apollo and AblaZe - Tyr.\nDeals Light DMG equal to The Glare - Apollo's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>his Ultimate Skill level</color>), and when he has <color=#E78300>3</color> <material=underline c=#FFFFFF h=2 event=terminology args=(105901)>Solar Arrows</material> active, when a hit is landed on the enemy the CD of the Dodge effect is reset for all members of the team.\nAlso deals Light DMG equal to AblaZe - Tyr's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>his Ultimate Skill level</color>), and when the Ultimate Skillchain ends all members of the team deal <color=#E78300>16%</color> more Ultimate Skill DMG. Effect stacks up to <color=#E78300>5</color> times.",
         "maxLv": 60,
         "type": 1,
         "id": 101032208,
@@ -3291,7 +3291,7 @@
         ]
     },
     "101032209": {
-        "description": "Summons multiple greatswords to attack the enemy, dealing Light DMG equal to <color=#E78300>{1}</color> of ATK in total. Skill cast increases the Ultimate Skill DMG of all members of the team by <color=#E78300>16%</color>. Effect stacks up to <color=#E78300>5</color> times.\n\nA <color=#E78300>10%</color> Ultimate Skill charge is granted when Tyr's Modifying Level reaches \u03a9.",
+        "description": "Summons multiple greatswords to attack the enemy, dealing Light DMG equal to <color=#E78300>{1}</color> of ATK in total. Skill cast increases the Ultimate Skill DMG of all members of the team by <color=#E78300>16%</color>. Effect stacks up to <color=#E78300>5</color> times.\n\nA <color=#E78300>10%</color> Ultimate Skill charge is granted when Tyr's Modifying Level reaches Ω.",
         "maxLv": 60,
         "type": 1,
         "id": 101032209,
@@ -3387,7 +3387,7 @@
         ]
     },
     "101033208": {
-        "description": "The Ultimate Skillchain of Enlightening - Heimdall and Early Sakura - Ookuninushi.\nDeals Light DMG equal to Enlightening - Heimdall's ATK \u00d7 (<color=#E78300>{1}+ {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and increases the additional ATK of all members of the team by <color=#E78300>1,200</color>. Hits landed by Heimdall also inflict additional DMG equal to <color=#E78300>120% of additional ATK</color>. Effect lasts <color=#E78300>8</color>s and can trigger once every <color=#E78300>0.4</color>s.\nDeals Physical DMG equal to Early Sakura - Ookuninushi's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Hits landed by Ookuninushi reset the CD of Skill 3 for all members of the team.",
+        "description": "The Ultimate Skillchain of Enlightening - Heimdall and Early Sakura - Ookuninushi.\nDeals Light DMG equal to Enlightening - Heimdall's ATK × (<color=#E78300>{1}+ {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and increases the additional ATK of all members of the team by <color=#E78300>1,200</color>. Hits landed by Heimdall also inflict additional DMG equal to <color=#E78300>120% of additional ATK</color>. Effect lasts <color=#E78300>8</color>s and can trigger once every <color=#E78300>0.4</color>s.\nDeals Physical DMG equal to Early Sakura - Ookuninushi's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>). Hits landed by Ookuninushi reset the CD of Skill 3 for all members of the team.",
         "maxLv": 60,
         "type": 1,
         "id": 101033208,
@@ -3462,7 +3462,7 @@
         ]
     },
     "101033282": {
-        "description": "The Ultimate Skillchain of Enlightening - Heimdall and Darkstar - Hel.\nEnlightening - Heimdall grants <color=#E78300>1,200</color> extra ATK to teammates, and deals additional DMG equal to <color=#E78300>120% extra ATK</color> when her attacks hit. Effect lasts <color=#E78300>8</color>s and can trigger once every <color=#E78300>0.4</color>s. For <color=#E78300>20</color>s after the skill hits, <material=underline c=#FFFFFF h=2 event=terminology args=(103301)>Realm of Truth</material> will appear at Darkstar - Hel's location when it is generated.\nDeals Shadow DMG equal to Darkstar - Hel's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). When the skill hits, increases teammates' Shadow DMG by <color=#E78300>{3}</color> for <color=#E78300>{4}</color>s.",
+        "description": "The Ultimate Skillchain of Enlightening - Heimdall and Darkstar - Hel.\nEnlightening - Heimdall grants <color=#E78300>1,200</color> extra ATK to teammates, and deals additional DMG equal to <color=#E78300>120% extra ATK</color> when her attacks hit. Effect lasts <color=#E78300>8</color>s and can trigger once every <color=#E78300>0.4</color>s. For <color=#E78300>20</color>s after the skill hits, <material=underline c=#FFFFFF h=2 event=terminology args=(103301)>Realm of Truth</material> will appear at Darkstar - Hel's location when it is generated.\nDeals Shadow DMG equal to Darkstar - Hel's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>). When the skill hits, increases teammates' Shadow DMG by <color=#E78300>{3}</color> for <color=#E78300>{4}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101033282,
@@ -3600,7 +3600,7 @@
         ]
     },
     "101035208": {
-        "description": "The Ultimate Skillchain of Ryugiri - Kagutsuchi and Croc Rage - Sobek.\nDeals Fire DMG equal to Ryugiri - Kagutsuchi's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members are granted a <color=#E78300>{5}</color> Fire DMG boost for <color=#E78300>{6}</color> seconds.\nAlso deals Water DMG equal to Croc Rage - Sobek's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted a <color=#E78300>{7}</color> Melee DMG boost for <color=#E78300>{8}</color> seconds.",
+        "description": "The Ultimate Skillchain of Ryugiri - Kagutsuchi and Croc Rage - Sobek.\nDeals Fire DMG equal to Ryugiri - Kagutsuchi's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members are granted a <color=#E78300>{5}</color> Fire DMG boost for <color=#E78300>{6}</color> seconds.\nAlso deals Water DMG equal to Croc Rage - Sobek's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted a <color=#E78300>{7}</color> Melee DMG boost for <color=#E78300>{8}</color> seconds.",
         "maxLv": 60,
         "type": 1,
         "id": 101035208,
@@ -3870,7 +3870,7 @@
         ]
     },
     "101037208": {
-        "description": "The Ultimate Skillchain of Early Sakura - Ookuninushi and Dark Mistletoe - Hodur.\nDeals Physical DMG equal to Early Sakura - Ookuninushi's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and when an enemy hit is landed the cd of Skill 3 is reset for all members of the team.\nAlso deals Shadow DMG equal to Dark Mistletoe - Hodur's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and the skillchain cast also grants <color=#E78300>30</color> Rage to all members of the team. All members of the team are granted a DMG boost when she lands a hit, with the boost equal to the max DMG boost from Hodur's passive effect. Boost lasts <color=#E78300>{5}</color> seconds.",
+        "description": "The Ultimate Skillchain of Early Sakura - Ookuninushi and Dark Mistletoe - Hodur.\nDeals Physical DMG equal to Early Sakura - Ookuninushi's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and when an enemy hit is landed the cd of Skill 3 is reset for all members of the team.\nAlso deals Shadow DMG equal to Dark Mistletoe - Hodur's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and the skillchain cast also grants <color=#E78300>30</color> Rage to all members of the team. All members of the team are granted a DMG boost when she lands a hit, with the boost equal to the max DMG boost from Hodur's passive effect. Boost lasts <color=#E78300>{5}</color> seconds.",
         "maxLv": 60,
         "type": 1,
         "id": 101037208,
@@ -4038,7 +4038,7 @@
         ]
     },
     "101038208": {
-        "description": "The Ultimate Skillchain of Radiant Feather - Hera and Arctic Abyss - Poseidon.\nDeals Fire DMG equal to Radiant Feather - Hera's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and all members of the team are granted an Ultimate Skill charge equal to <color=#E78300>(8% + 0.2%</color> \u00d7 <color=#297DE0>her Ultimate Skill level)</color>.\nAlso deals Ice DMG equal to Arctic Abyss - Poseidon's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and when a hit is landed on the enemy, for all members of the team the remaining cd of Skill 1 is shortened by <color=#E78300>4</color> seconds, and the remaining cd of Skill 2 is shortened by <color=#E78300>6</color> seconds.",
+        "description": "The Ultimate Skillchain of Radiant Feather - Hera and Arctic Abyss - Poseidon.\nDeals Fire DMG equal to Radiant Feather - Hera's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and all members of the team are granted an Ultimate Skill charge equal to <color=#E78300>(8% + 0.2%</color> × <color=#297DE0>her Ultimate Skill level)</color>.\nAlso deals Ice DMG equal to Arctic Abyss - Poseidon's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and when a hit is landed on the enemy, for all members of the team the remaining cd of Skill 1 is shortened by <color=#E78300>4</color> seconds, and the remaining cd of Skill 2 is shortened by <color=#E78300>6</color> seconds.",
         "maxLv": 60,
         "type": 1,
         "id": 101038208,
@@ -4101,7 +4101,7 @@
         ]
     },
     "101038281": {
-        "description": "The Ultimate Skillchain of Radiant Feather - Hera and Chord of Convallaria - Athena.\nDeals Fire DMG equal to Radiant Feather - Hera's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). A Scorchcore then forms, pulling in nearby enemies continuously.\nAlso deals Physical DMG equal to Chord of Convallaria - Athena's ATK \u00d7 (<color=#E78300>{3} + {4}</color>\u00d7<color=#297DE0>her Ultimate Skill level</color>). Restores the Mod's Divine Grace to full, resets all <material=underline c=#FFFFFF h=2 event=terminology args=(104103)>Harmony</material> stacks, and triggers <material=underline c=#FFFFFF h=2 event=terminology args=(104101)>Hummingblade</material> state. While in this <material=underline c=#FFFFFF h=2 event=terminology args=(104101)>Hummingblade</material> state, whenever a Sword Majalis strike is judged as Harmonious, a Sonic Boom also occurs around the teammates, increasing all team members' Normal Attack DMG by (<color=#E78300>20% + 1%</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>) for <color=#E78300>{5}</color>s.",
+        "description": "The Ultimate Skillchain of Radiant Feather - Hera and Chord of Convallaria - Athena.\nDeals Fire DMG equal to Radiant Feather - Hera's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>). A Scorchcore then forms, pulling in nearby enemies continuously.\nAlso deals Physical DMG equal to Chord of Convallaria - Athena's ATK × (<color=#E78300>{3} + {4}</color>×<color=#297DE0>her Ultimate Skill level</color>). Restores the Mod's Divine Grace to full, resets all <material=underline c=#FFFFFF h=2 event=terminology args=(104103)>Harmony</material> stacks, and triggers <material=underline c=#FFFFFF h=2 event=terminology args=(104101)>Hummingblade</material> state. While in this <material=underline c=#FFFFFF h=2 event=terminology args=(104101)>Hummingblade</material> state, whenever a Sword Majalis strike is judged as Harmonious, a Sonic Boom also occurs around the teammates, increasing all team members' Normal Attack DMG by (<color=#E78300>20% + 1%</color> × <color=#297DE0>her Ultimate Skill level</color>) for <color=#E78300>{5}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101038281,
@@ -4239,7 +4239,7 @@
         ]
     },
     "101039208": {
-        "description": "The Ultimate Skillchain of New Pact - Verthandi, Surefire - Zenkibo Tengu, and Tidal Song - Poseidon.\nDeals Physical DMG equal to New Pact - Verthandi's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and all members of the team are also granted a <color=#E78300>{7}</color> boost to their Mod Index Multiplier for that skillchain.\nAlso deals Physical DMG equal to Surefire - Zenkibo Tengu's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and when an enemy hit is landed all members of their team have their Combat Resources brought up to max.\nFinally, deals Water DMG equal to Tidal Song - Poseidon's ATK \u00d7 (<color=#E78300>{5} + {6}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and restores to all members of the team HP equal to her ATK \u00d7 (<color=#E78300>60% + 2%</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), up to <color=#E78300>{8}</color>. This effect stacks up to <color=#E78300>3</color> times.",
+        "description": "The Ultimate Skillchain of New Pact - Verthandi, Surefire - Zenkibo Tengu, and Tidal Song - Poseidon.\nDeals Physical DMG equal to New Pact - Verthandi's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and all members of the team are also granted a <color=#E78300>{7}</color> boost to their Mod Index Multiplier for that skillchain.\nAlso deals Physical DMG equal to Surefire - Zenkibo Tengu's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and when an enemy hit is landed all members of their team have their Combat Resources brought up to max.\nFinally, deals Water DMG equal to Tidal Song - Poseidon's ATK × (<color=#E78300>{5} + {6}</color> × <color=#297DE0>her Ultimate Skill level</color>), and restores to all members of the team HP equal to her ATK × (<color=#E78300>60% + 2%</color> × <color=#297DE0>her Ultimate Skill level</color>), up to <color=#E78300>{8}</color>. This effect stacks up to <color=#E78300>3</color> times.",
         "maxLv": 60,
         "type": 1,
         "id": 101039208,
@@ -4653,7 +4653,7 @@
         ]
     },
     "101042208": {
-        "description": "The Ultimate Skillchain of Puppet Master - Hades and Drowsie - Oneiroi.\nDeals Shadow DMG equal to Puppet Master - Hades' ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and all members of the team go into Energy and Divine Grace recovery state for the next <color=#E78300>12</color>s upon skillchain cast. Grants <color=#E78300>25</color> Energy and Divine Grace if Energy and Divine Grace are at <color=#E78300>30</color> or lower at the time of triggering. Triggers only once every <color=#E78300>3</color>s. Increases DMG of all Olympus Mods on the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s when the skillchain hits.\nAlso deals Light DMG equal to Drowsie - Oneiroi's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>).",
+        "description": "The Ultimate Skillchain of Puppet Master - Hades and Drowsie - Oneiroi.\nDeals Shadow DMG equal to Puppet Master - Hades' ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and all members of the team go into Energy and Divine Grace recovery state for the next <color=#E78300>12</color>s upon skillchain cast. Grants <color=#E78300>25</color> Energy and Divine Grace if Energy and Divine Grace are at <color=#E78300>30</color> or lower at the time of triggering. Triggers only once every <color=#E78300>3</color>s. Increases DMG of all Olympus Mods on the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s when the skillchain hits.\nAlso deals Light DMG equal to Drowsie - Oneiroi's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>).",
         "maxLv": 60,
         "type": 1,
         "id": 101042208,
@@ -4806,7 +4806,7 @@
         ]
     },
     "101048208": {
-        "description": "The Ultimate Skillchain of Darkstar - Hel and Comet R4Y - Zenkibo Tengu.\nDeals Shadow DMG equal to Darkstar - Hel's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and increases the Shadow DMG of all teammates by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s upon hit.\nAlso deals Light DMG equal to Comet R4Y - Zenkibo Tengu's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and increases the Light DMG of all teammates by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s upon hit.",
+        "description": "The Ultimate Skillchain of Darkstar - Hel and Comet R4Y - Zenkibo Tengu.\nDeals Shadow DMG equal to Darkstar - Hel's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and increases the Shadow DMG of all teammates by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s upon hit.\nAlso deals Light DMG equal to Comet R4Y - Zenkibo Tengu's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and increases the Light DMG of all teammates by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s upon hit.",
         "maxLv": 60,
         "type": 1,
         "id": 101048208,
@@ -5070,7 +5070,7 @@
         ]
     },
     "101049208": {
-        "description": "The Ultimate Skillchain of So-ei - Kuramitsuha and Flower of Yomi - Izanami.\nDeals Ice DMG equal to So-ei - Kuramitsuha's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and grants <material=underline c=#FFFFFF h=2 event=terminology args=(105502)>Congeal</material> to the Ice Mod on the team with the highest ATK for <color=#E78300>15</color>s. When this skillchain hits, increases the Skill DMG of all Rage Mods on the team by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s.\nDeals Ice DMG equal to Flower of Yomi- Izanami's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and increases the Ice DMG dealt by all members of the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.",
+        "description": "The Ultimate Skillchain of So-ei - Kuramitsuha and Flower of Yomi - Izanami.\nDeals Ice DMG equal to So-ei - Kuramitsuha's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and grants <material=underline c=#FFFFFF h=2 event=terminology args=(105502)>Congeal</material> to the Ice Mod on the team with the highest ATK for <color=#E78300>15</color>s. When this skillchain hits, increases the Skill DMG of all Rage Mods on the team by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s.\nDeals Ice DMG equal to Flower of Yomi- Izanami's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and increases the Ice DMG dealt by all members of the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101049208,
@@ -5277,7 +5277,7 @@
         ]
     },
     "101050208": {
-        "description": "The Ultimate Skillchain of Shinku - Buzenbo Tengu and Shinri - Tsukuyomi.\nDeals Thunder DMG equal to Shinri - Tsukuyomi's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and when a hit is landed on the enemy, all members of the team get a Thunder DMG boost of <color=#E78300>{5}</color> for <color=#E78300>{6}</color> seconds.\nAlso deals Physical DMG equal to Shinku - Buzenbo Tengu's ATK \u00d7(<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and a hit landed on the enemy triggers Zero Time, slowing all enemy movements significantly for <color=#E78300>5</color> seconds. All members of the team are granted a <color=#E78300>7.5%</color> Ultimate Skill charge for <color=#E78300>every</color> additional enemy hit.",
+        "description": "The Ultimate Skillchain of Shinku - Buzenbo Tengu and Shinri - Tsukuyomi.\nDeals Thunder DMG equal to Shinri - Tsukuyomi's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and when a hit is landed on the enemy, all members of the team get a Thunder DMG boost of <color=#E78300>{5}</color> for <color=#E78300>{6}</color> seconds.\nAlso deals Physical DMG equal to Shinku - Buzenbo Tengu's ATK ×(<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and a hit landed on the enemy triggers Zero Time, slowing all enemy movements significantly for <color=#E78300>5</color> seconds. All members of the team are granted a <color=#E78300>7.5%</color> Ultimate Skill charge for <color=#E78300>every</color> additional enemy hit.",
         "maxLv": 60,
         "type": 1,
         "id": 101050208,
@@ -5358,7 +5358,7 @@
         ]
     },
     "101050281": {
-        "description": "The Ultimate Skillchain of Jin-ei - Kuninotokotachi and Shinku - Buzenbo Tengu.\nDeals Physical DMG equal to Jin-ei - Kuninotokotachi's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her average skill level</color>), and hits landed on the enemy lower their Physical, Fire, Thunder, and Wind Resistance by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nAlso deals Physical DMG equal to Shinku - Buzenbo Tengu's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and enters Zero Time upon hit, slowing all enemy movements significantly for <color=#E78300>5</color> seconds. All members of the team are granted a <color=#E78300>7.5%</color> Ultimate Skill charge for <color=#E78300>every</color> additional hit.",
+        "description": "The Ultimate Skillchain of Jin-ei - Kuninotokotachi and Shinku - Buzenbo Tengu.\nDeals Physical DMG equal to Jin-ei - Kuninotokotachi's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her average skill level</color>), and hits landed on the enemy lower their Physical, Fire, Thunder, and Wind Resistance by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nAlso deals Physical DMG equal to Shinku - Buzenbo Tengu's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and enters Zero Time upon hit, slowing all enemy movements significantly for <color=#E78300>5</color> seconds. All members of the team are granted a <color=#E78300>7.5%</color> Ultimate Skill charge for <color=#E78300>every</color> additional hit.",
         "maxLv": 60,
         "type": 1,
         "id": 101050281,
@@ -5724,7 +5724,7 @@
         ]
     },
     "101055208": {
-        "description": "The Ultimate Skillchain of So-ei - Kuramitsuha and Shinri - Tsukuyomi.\nDeals Ice DMG equal to So-ei - Kuramitsuha's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and grants <material=underline c=#FFFFFF h=2 event=terminology args=(105502)>Congeal</material> to the Ice Mod on the team with the highest ATK for <color=#E78300>15</color>s. When this skillchain hits, increases the Skill DMG of all Rage Mods on the team by <color=#E78300>{9}</color> for <color=#E78300>{10}</color>s.\nDeals Thunder DMG equal to Shinri - Tsukuyomi's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and increases the Thunder DMG dealt by all members of the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s, as well as Tsukuyomi's Crit DMG by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s.",
+        "description": "The Ultimate Skillchain of So-ei - Kuramitsuha and Shinri - Tsukuyomi.\nDeals Ice DMG equal to So-ei - Kuramitsuha's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and grants <material=underline c=#FFFFFF h=2 event=terminology args=(105502)>Congeal</material> to the Ice Mod on the team with the highest ATK for <color=#E78300>15</color>s. When this skillchain hits, increases the Skill DMG of all Rage Mods on the team by <color=#E78300>{9}</color> for <color=#E78300>{10}</color>s.\nDeals Thunder DMG equal to Shinri - Tsukuyomi's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and increases the Thunder DMG dealt by all members of the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s, as well as Tsukuyomi's Crit DMG by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101055208,
@@ -5814,7 +5814,7 @@
         ]
     },
     "101055281": {
-        "description": "The Ultimate Skillchain of Waverender - Skadi and So-ei - Kuramitsuha.\nDeals Ice DMG equal to Waverender - Skadi's ATK \u00d7 (<color=#E78300>{1} + {2} </color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Landing a hit on the enemy increases the charged Skill DMG of all members of the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nAlso deals Ice DMG equal to So-ei - Kuramitsuha's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). At time of sklllchain casting, the friendly Ice Mod with the highest ATK also goes into <material=underline c=#FFFFFF h=2 event=terminology args=(105502)>Congeal</material> state for <color=#E78300>15</color>s. Landing a hit on the enemy increases the Skill DMG of all members of the team by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s.",
+        "description": "The Ultimate Skillchain of Waverender - Skadi and So-ei - Kuramitsuha.\nDeals Ice DMG equal to Waverender - Skadi's ATK × (<color=#E78300>{1} + {2} </color> × <color=#297DE0>her Ultimate Skill level</color>). Landing a hit on the enemy increases the charged Skill DMG of all members of the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nAlso deals Ice DMG equal to So-ei - Kuramitsuha's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>). At time of sklllchain casting, the friendly Ice Mod with the highest ATK also goes into <material=underline c=#FFFFFF h=2 event=terminology args=(105502)>Congeal</material> state for <color=#E78300>15</color>s. Landing a hit on the enemy increases the Skill DMG of all members of the team by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101055281,
@@ -6006,7 +6006,7 @@
         ]
     },
     "101056208": {
-        "description": "The Ultimate Skillchain of Thundertusk - Kali and Waverender - Skadi.\nDeals Thunder DMG equal to Thundertusk - Kali's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and all teammates get a <color=#E78300>10%</color> DMG boost for <color=#E78300>{5}</color> seconds when hitting the enemy. Increases DMG dealt by an additional <color=#E78300>0.4%</color> for every <color=#E78300>1%</color> Combat Resources possessed by the Mod, up to a maximum of <color=#E78300>40%</color>.\nAlso deals Ice DMG equal to Waverender - Skadi's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>).",
+        "description": "The Ultimate Skillchain of Thundertusk - Kali and Waverender - Skadi.\nDeals Thunder DMG equal to Thundertusk - Kali's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and all teammates get a <color=#E78300>10%</color> DMG boost for <color=#E78300>{5}</color> seconds when hitting the enemy. Increases DMG dealt by an additional <color=#E78300>0.4%</color> for every <color=#E78300>1%</color> Combat Resources possessed by the Mod, up to a maximum of <color=#E78300>40%</color>.\nAlso deals Ice DMG equal to Waverender - Skadi's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>).",
         "maxLv": 60,
         "type": 1,
         "id": 101056208,
@@ -6189,7 +6189,7 @@
         ]
     },
     "101058208": {
-        "description": "The Ultimate Skillchain of Firebrand - Tyr and Ryugiri - Kagutsuchi.\nDeals Fire DMG equal to Ryugiri - Kagutsuchi's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all teammates gain a <color=#E78300>{6}</color> Skill DMG boost and a <color=#E78300>{7}</color> Ultimate Skill DMG boost for <color=#E78300>{8}</color> seconds.\nAlso deals Fire DMG equal to Ryugiri - Kagutsuchi's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted a <color=#E78300>{5}</color> Fire DMG boost for <color=#E78300>{8}</color> seconds.",
+        "description": "The Ultimate Skillchain of Firebrand - Tyr and Ryugiri - Kagutsuchi.\nDeals Fire DMG equal to Ryugiri - Kagutsuchi's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all teammates gain a <color=#E78300>{6}</color> Skill DMG boost and a <color=#E78300>{7}</color> Ultimate Skill DMG boost for <color=#E78300>{8}</color> seconds.\nAlso deals Fire DMG equal to Ryugiri - Kagutsuchi's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>his Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted a <color=#E78300>{5}</color> Fire DMG boost for <color=#E78300>{8}</color> seconds.",
         "maxLv": 60,
         "type": 1,
         "id": 101058208,
@@ -6567,7 +6567,7 @@
         ]
     },
     "101060208": {
-        "description": "The Ultimate Skillchain of Winged Gardener - Yingzhao and Nine-Tailed Guardian - Luwu.\nDeals Wind DMG equal to Winged Gardener - Yingzhao's ATK \u00d7 (<color=#E78300>{1}+{2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and when she lands a hit, the whole team deal <color=#E78300>{5}</color> more Skill DMG for <color=#E78300>{6}</color>s.\nDeals Light DMG equal to Nine-Tailed Guardian - Luwu's ATK \u00d7 (<color=#E78300>{3}+{4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and when she lands a hit, the whole team deal <color=#E78300>{7}</color> more Melee DMG for <color=#E78300>{8}</color>s.",
+        "description": "The Ultimate Skillchain of Winged Gardener - Yingzhao and Nine-Tailed Guardian - Luwu.\nDeals Wind DMG equal to Winged Gardener - Yingzhao's ATK × (<color=#E78300>{1}+{2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and when she lands a hit, the whole team deal <color=#E78300>{5}</color> more Skill DMG for <color=#E78300>{6}</color>s.\nDeals Light DMG equal to Nine-Tailed Guardian - Luwu's ATK × (<color=#E78300>{3}+{4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and when she lands a hit, the whole team deal <color=#E78300>{7}</color> more Melee DMG for <color=#E78300>{8}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101060208,
@@ -6768,7 +6768,7 @@
         ]
     },
     "101061208": {
-        "description": "The Ultimate Skillchain of TaiYi - Gengchen and Ethereal Enigma - Zhiming.\nDeals Water DMG equal to TaiYi - Gengchen's ATK \u00d7 (<color=#E78300>{1}+{2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>).\nDeals Water DMG equal to Ethereal Enigma - Zhiming's ATK \u00d7 (<color=#E78300>{3}+{4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). When casting, the Ranged DMG of the whole team increases by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.",
+        "description": "The Ultimate Skillchain of TaiYi - Gengchen and Ethereal Enigma - Zhiming.\nDeals Water DMG equal to TaiYi - Gengchen's ATK × (<color=#E78300>{1}+{2}</color> × <color=#297DE0>her Ultimate Skill level</color>).\nDeals Water DMG equal to Ethereal Enigma - Zhiming's ATK × (<color=#E78300>{3}+{4}</color> × <color=#297DE0>her Ultimate Skill level</color>). When casting, the Ranged DMG of the whole team increases by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101061208,
@@ -7080,7 +7080,7 @@
         ]
     },
     "101067208": {
-        "description": "The Ultimate Skillchain of Backflowing - Oceanus and Cleansing Wind - Enlil.\nDeals Water DMG equal to Backflowing - Oceanus' ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>). Increases Skill DMG of all team members by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s upon landing a hit.\nDeals Wind DMG equal to Cleansing Wind - Enlil's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>). Pulls the enemies together and inflicts Shackle on them for <color=#E78300>3</color>s upon landing a hit.",
+        "description": "The Ultimate Skillchain of Backflowing - Oceanus and Cleansing Wind - Enlil.\nDeals Water DMG equal to Backflowing - Oceanus' ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>his Ultimate Skill level</color>). Increases Skill DMG of all team members by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s upon landing a hit.\nDeals Wind DMG equal to Cleansing Wind - Enlil's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>his Ultimate Skill level</color>). Pulls the enemies together and inflicts Shackle on them for <color=#E78300>3</color>s upon landing a hit.",
         "maxLv": 60,
         "type": 1,
         "id": 101067208,
@@ -7305,7 +7305,7 @@
         ]
     },
     "101068208": {
-        "description": "The Ultimate Skillchain of Azure Lord - Mengzhang and Cleansing Wind - Enlil.\nDeals Wind DMG equal to Azure Lord - Mengzhang's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>). Reduces the Thunder RES of enemies hit by <color=#E78300>{5}</color> and their Wind RES by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s.\nDeals Wind DMG equal to Cleansing Wind - Enlil's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>). Increases all team members' Wind DMG by <color=#E78300>{8}</color> for <color=#E78300>{9}</color>s upon landing a hit.",
+        "description": "The Ultimate Skillchain of Azure Lord - Mengzhang and Cleansing Wind - Enlil.\nDeals Wind DMG equal to Azure Lord - Mengzhang's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>his Ultimate Skill level</color>). Reduces the Thunder RES of enemies hit by <color=#E78300>{5}</color> and their Wind RES by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s.\nDeals Wind DMG equal to Cleansing Wind - Enlil's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>his Ultimate Skill level</color>). Increases all team members' Wind DMG by <color=#E78300>{8}</color> for <color=#E78300>{9}</color>s upon landing a hit.",
         "maxLv": 60,
         "type": 1,
         "id": 101068208,
@@ -7518,7 +7518,7 @@
         ]
     },
     "101070208": {
-        "description": "The Ultimate Skillchain of Tenblaze - Jinwu and Untainted Heart - Lingguang.\nDeals Fire DMG equal to Tenblaze - Jinwu's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Restores the Mod's Divine Grace to full.\nDeals Fire DMG equal to Untainted Heart - Lingguang's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). All team members grant <material=underline c=#FFFFFF h=2 event=terminology args=(107508)>Blazing Sun</material> for <color=#E78300>7</color>s. Tenblaze - Jinwu deals <color=#E78300>{5}</color> more Fire DMG for <color=#E78300>{6}</color>s.",
+        "description": "The Ultimate Skillchain of Tenblaze - Jinwu and Untainted Heart - Lingguang.\nDeals Fire DMG equal to Tenblaze - Jinwu's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>). Restores the Mod's Divine Grace to full.\nDeals Fire DMG equal to Untainted Heart - Lingguang's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>). All team members grant <material=underline c=#FFFFFF h=2 event=terminology args=(107508)>Blazing Sun</material> for <color=#E78300>7</color>s. Tenblaze - Jinwu deals <color=#E78300>{5}</color> more Fire DMG for <color=#E78300>{6}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101070208,
@@ -7863,7 +7863,7 @@
         ]
     },
     "101072208": {
-        "description": "The Ultimate Skillchain of TaiYi - Gengchen and Omnisight - Luliang.\nDeals Water DMG equal to TaiYi - Gengchen's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). This Ultimate Skillchain cast only has a <color=#E78300>1.60%</color> chance of critting, and this chance of critting can't be influenced by other effects. Upon a successful crit, Crit DMG further increases by <color=#E78300>{3}</color> and Independent DMG increases by <color=#E78300>{4}</color>.\nOmnisight - Luliang creates a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> that follows her for <color=#E78300>12</color>s.",
+        "description": "The Ultimate Skillchain of TaiYi - Gengchen and Omnisight - Luliang.\nDeals Water DMG equal to TaiYi - Gengchen's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>). This Ultimate Skillchain cast only has a <color=#E78300>1.60%</color> chance of critting, and this chance of critting can't be influenced by other effects. Upon a successful crit, Crit DMG further increases by <color=#E78300>{3}</color> and Independent DMG increases by <color=#E78300>{4}</color>.\nOmnisight - Luliang creates a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> that follows her for <color=#E78300>12</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101072208,
@@ -7935,7 +7935,7 @@
         ]
     },
     "101072281": {
-        "description": "The Ultimate Skillchain of Omnisight - Luliang and Winged Gardener - Yingzhao.\nDeals Wind DMG equal to Omnisight - Luliang's ATK \u00d7 (<color=#E78300>{1}+{2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Creates a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> that follows her for <color=#E78300>12</color>s. Increases Winged Gardener - Yingzhao's Wind DMG by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nDeals Wind DMG equal to Winged Gardener - Yingzhao's ATK \u00d7 (<color=#E78300>{3}+{4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>).",
+        "description": "The Ultimate Skillchain of Omnisight - Luliang and Winged Gardener - Yingzhao.\nDeals Wind DMG equal to Omnisight - Luliang's ATK × (<color=#E78300>{1}+{2}</color> × <color=#297DE0>her Ultimate Skill level</color>). Creates a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> that follows her for <color=#E78300>12</color>s. Increases Winged Gardener - Yingzhao's Wind DMG by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nDeals Wind DMG equal to Winged Gardener - Yingzhao's ATK × (<color=#E78300>{3}+{4}</color> × <color=#297DE0>her Ultimate Skill level</color>).",
         "maxLv": 60,
         "type": 1,
         "id": 101072281,
@@ -8271,7 +8271,7 @@
         ]
     },
     "101075208": {
-        "description": "The Ultimate Skillchain of Untainted Heart - Lingguang and TaiYi - Gengchen.\nDeals Fire DMG equal to Untainted Heart - Lingguang ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). When being cast, grants all team members <material=underline c=#FFFFFF h=2 event=terminology args=(107508)>Blazing Sun</material> for <color=#E78300>7</color>s. Increases TaiYi - Gengchen's Water DMG dealt by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nDeals Water DMG equal to TaiYi - Gengchen's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>).",
+        "description": "The Ultimate Skillchain of Untainted Heart - Lingguang and TaiYi - Gengchen.\nDeals Fire DMG equal to Untainted Heart - Lingguang ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>). When being cast, grants all team members <material=underline c=#FFFFFF h=2 event=terminology args=(107508)>Blazing Sun</material> for <color=#E78300>7</color>s. Increases TaiYi - Gengchen's Water DMG dealt by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nDeals Water DMG equal to TaiYi - Gengchen's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>).",
         "maxLv": 60,
         "type": 1,
         "id": 101075208,
@@ -8601,7 +8601,7 @@
         ]
     },
     "101080208": {
-        "description": "The Ultimate Skillchain of Frost Fang - Vidar and Countertide - Leviathan.\nDeals Ice DMG equal to Frost Fang - Vidar's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), as well as decreases the Ice RES of enemies hit by <color=#E78300>{5}</color> for <color=#E78300>{6}</color> seconds.\nAlso deals Water DMG equal to Countertide - Leviathan's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). The team also takes <color=#E78300>{7}</color> less DMG and restores HP equal to <color=#E78300>{9} of their ATK</color> every <color=#E78300>2</color> seconds for <color=#E78300>{8}</color> seconds when hitting an enemy.",
+        "description": "The Ultimate Skillchain of Frost Fang - Vidar and Countertide - Leviathan.\nDeals Ice DMG equal to Frost Fang - Vidar's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), as well as decreases the Ice RES of enemies hit by <color=#E78300>{5}</color> for <color=#E78300>{6}</color> seconds.\nAlso deals Water DMG equal to Countertide - Leviathan's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>). The team also takes <color=#E78300>{7}</color> less DMG and restores HP equal to <color=#E78300>{9} of their ATK</color> every <color=#E78300>2</color> seconds for <color=#E78300>{8}</color> seconds when hitting an enemy.",
         "maxLv": 60,
         "type": 1,
         "id": 101080208,
@@ -8991,7 +8991,7 @@
         ]
     },
     "101089101": {
-        "description": "Translating:\u3010description$101089101$description$0\u3011",
+        "description": "Translating:【description$101089101$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101089101,
@@ -9042,7 +9042,7 @@
         ]
     },
     "101089203": {
-        "description": "Translating:\u3010description$101089203$description$0\u3011",
+        "description": "Translating:【description$101089203$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101089203,
@@ -9069,7 +9069,7 @@
         ]
     },
     "101089208": {
-        "description": "Translating:\u3010description$101089208$description$0\u3011",
+        "description": "Translating:【description$101089208$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101089208,
@@ -9114,7 +9114,7 @@
         ]
     },
     "101089209": {
-        "description": "Translating:\u3010description$101089209$description$0\u3011",
+        "description": "Translating:【description$101089209$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101089209,
@@ -9129,7 +9129,7 @@
         ]
     },
     "101089305": {
-        "description": "Translating:\u3010description$101089305$description$0\u3011",
+        "description": "Translating:【description$101089305$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101089305,
@@ -9159,7 +9159,7 @@
         ]
     },
     "101093208": {
-        "description": "The Ultimate Skillchain of Sakubo - Tsukuyomi and Jin-ei - Kuninotokotachi.\nDeals Shadow DMG equal to Sakubo - Tsukuyomi's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and a hit landed on the enemy grants all members of the team <color=#E78300>30</color> Divine Grace and afflicts the enemy hit with Trauma for <color=#E78300>{5}</color> seconds.\nTrauma: Deals Shadow DMG equal to Sakubo - Tsukuyomi's ATK \u00d7 (<color=#E78300>78% + 2%</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>) every <color=#E78300>3</color> seconds for <color=#E78300>{5}</color> seconds.\nAlso deals Physical DMG equal to Jin-ei - Kuninotokotachi's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her average skill level</color>), and lowers the Physical, Fire, Thunder, and Wind Resistance of enemies hit by <color=#E78300>{6}</color> for <color=#E78300>{7}</color> seconds upon hit.",
+        "description": "The Ultimate Skillchain of Sakubo - Tsukuyomi and Jin-ei - Kuninotokotachi.\nDeals Shadow DMG equal to Sakubo - Tsukuyomi's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and a hit landed on the enemy grants all members of the team <color=#E78300>30</color> Divine Grace and afflicts the enemy hit with Trauma for <color=#E78300>{5}</color> seconds.\nTrauma: Deals Shadow DMG equal to Sakubo - Tsukuyomi's ATK × (<color=#E78300>78% + 2%</color> × <color=#297DE0>her Ultimate Skill level</color>) every <color=#E78300>3</color> seconds for <color=#E78300>{5}</color> seconds.\nAlso deals Physical DMG equal to Jin-ei - Kuninotokotachi's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her average skill level</color>), and lowers the Physical, Fire, Thunder, and Wind Resistance of enemies hit by <color=#E78300>{6}</color> for <color=#E78300>{7}</color> seconds upon hit.",
         "maxLv": 60,
         "type": 1,
         "id": 101093208,
@@ -9603,7 +9603,7 @@
         ]
     },
     "101095208": {
-        "description": "The Ultimate Skillchain of Lioness - Sekhmet and Gray Ibis - Thoth.\nDeals Physical DMG equal to ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>Sekhmet's Ultimate Skill level</color>), and Skillchain use grants all team members <material=underline c=#FFFFFF h=2 event=terminology args=(101502)>Potential Unleashed</material> for <color=#E78300>{5}</color>s, as well as restores to all team members HP equal to ATK \u00d7 (<color=#E78300>62% + 2%</color> \u00d7 <color=#297DE0>their Ultimate Skill level</color>). Hits landed on the enemy increase the Skill DMG of all team members by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s.\nAlso deals Physical DMG equal to ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>Thoth's Ultimate Skill level</color>), and Skillchain use increases all Attribute DMG dealt by all team members by <color=#E78300>{8}</color> for <color=#E78300>{9}</color>s.",
+        "description": "The Ultimate Skillchain of Lioness - Sekhmet and Gray Ibis - Thoth.\nDeals Physical DMG equal to ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>Sekhmet's Ultimate Skill level</color>), and Skillchain use grants all team members <material=underline c=#FFFFFF h=2 event=terminology args=(101502)>Potential Unleashed</material> for <color=#E78300>{5}</color>s, as well as restores to all team members HP equal to ATK × (<color=#E78300>62% + 2%</color> × <color=#297DE0>their Ultimate Skill level</color>). Hits landed on the enemy increase the Skill DMG of all team members by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s.\nAlso deals Physical DMG equal to ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>Thoth's Ultimate Skill level</color>), and Skillchain use increases all Attribute DMG dealt by all team members by <color=#E78300>{8}</color> for <color=#E78300>{9}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101095208,
@@ -9705,7 +9705,7 @@
         ]
     },
     "101095281": {
-        "description": "The Ultimate Skillchain of Gray Ibis - Thoth and Living Soul - Osiris.\nDeals Physical DMG equal to Gray Ibis - Thoth's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), while also increasing teammates' Attribute DMG by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nDeals Wind DMG equal to Living Soul - Osiris' ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Osiris enters <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld mode</material>, increasing teammates' DMG by <color=#E78300>20% + 0.2%</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color> and her Independent DMG by <color=#E78300>{7}</color> until <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld mode</material> concludes. Osiris' HP Removal state will not take her HP lower than <color=#E78300>1</color>.",
+        "description": "The Ultimate Skillchain of Gray Ibis - Thoth and Living Soul - Osiris.\nDeals Physical DMG equal to Gray Ibis - Thoth's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), while also increasing teammates' Attribute DMG by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s.\nDeals Wind DMG equal to Living Soul - Osiris' ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>). Osiris enters <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld mode</material>, increasing teammates' DMG by <color=#E78300>20% + 0.2%</color> × <color=#297DE0>her Ultimate Skill level</color> and her Independent DMG by <color=#E78300>{7}</color> until <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld mode</material> concludes. Osiris' HP Removal state will not take her HP lower than <color=#E78300>1</color>.",
         "maxLv": 60,
         "type": 1,
         "id": 101095281,
@@ -9849,7 +9849,7 @@
         ]
     },
     "101096208": {
-        "description": "The Ultimate Skillchain of Phantasmal Dawn - Hera and Windwalker - Hermes.\nDeals Light DMG equal to Phantasmal Dawn - Hera's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and grants all teammates an ATK boost equal to <color=#E78300>14% + 0.4%</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color> for <color=#E78300>{5}</color>s. Returns all Combat Resources expended by all teammates in their next attack within the next <color=#E78300>12</color>s.\nAlso deals Wind DMG equal to Windwalker - Hermes' ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Reduces the Wind RES of enemy hit by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s and applies the <material=underline c=#FFFFFF h=2 event=terminology args=(109602)>Windchaser Mark</material>.",
+        "description": "The Ultimate Skillchain of Phantasmal Dawn - Hera and Windwalker - Hermes.\nDeals Light DMG equal to Phantasmal Dawn - Hera's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and grants all teammates an ATK boost equal to <color=#E78300>14% + 0.4%</color> × <color=#297DE0>her Ultimate Skill level</color> for <color=#E78300>{5}</color>s. Returns all Combat Resources expended by all teammates in their next attack within the next <color=#E78300>12</color>s.\nAlso deals Wind DMG equal to Windwalker - Hermes' ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>). Reduces the Wind RES of enemy hit by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s and applies the <material=underline c=#FFFFFF h=2 event=terminology args=(109602)>Windchaser Mark</material>.",
         "maxLv": 60,
         "type": 1,
         "id": 101096208,
@@ -10458,7 +10458,7 @@
         ]
     },
     "101119208": {
-        "description": "The Ultimate Skillchain of Flowfly Mist - Shu and Archaic Oath - Verthandi.\nDeals Thunder DMG equal to Flowfly Mist - Shu's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and increases Combat Resources charge speed of all members of the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s upon hit. Also increases Crit DMG by <color=#E78300>25%</color> upon <color=#E78300>each</color> normal attack hit; stacks up to <color=#E78300>3</color> times. The Crit DMG boost also expires when the Combat Resources charge speed boost expires.\nAlso deals Thunder DMG equal to Archaic Oath - Verthandi's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and grants all members of the team a <color=#E78300>15%</color> Ultimate Skill charge upon hit.",
+        "description": "The Ultimate Skillchain of Flowfly Mist - Shu and Archaic Oath - Verthandi.\nDeals Thunder DMG equal to Flowfly Mist - Shu's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and increases Combat Resources charge speed of all members of the team by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s upon hit. Also increases Crit DMG by <color=#E78300>25%</color> upon <color=#E78300>each</color> normal attack hit; stacks up to <color=#E78300>3</color> times. The Crit DMG boost also expires when the Combat Resources charge speed boost expires.\nAlso deals Thunder DMG equal to Archaic Oath - Verthandi's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and grants all members of the team a <color=#E78300>15%</color> Ultimate Skill charge upon hit.",
         "maxLv": 60,
         "type": 1,
         "id": 101119208,
@@ -10749,7 +10749,7 @@
         ]
     },
     "101132208": {
-        "description": "The Ultimate Skillchain of Madoibi Scorched - Kagutsuchi and Firebrand - Tyr.\nDeals Fire DMG equal to Madoibi Scorched - Kagutsuchi's ATK \u00d7 (<color=#E78300>{1}+{2}</color> \u00d7 <color=#297DE0>his Ultimate Skillchain level</color>). Enters <material=underline c=#FFFFFF h=2 event=terminology args=(115803)>Heartsear: Scourge</material> state upon cast. Increases the Non-DoT Skill DMG of all Rage Mod teammates' Fire attacks by <color=#E78300>{8}</color> for <color=#E78300>12</color>s upon landing a hit.\nDeals Fire DMG equal to Firebrand - Tyr's ATK \u00d7 (<color=#E78300>{3}+{4}</color> \u00d7 <color=#297DE0>his Ultimate Skill level</color>). The whole team deal <color=#E78300>{5}</color> more Skill DMG and <color=#E78300>{6}</color> more Ultimate Skill DMG for <color=#E78300>{7}</color>s upon landing a hit.",
+        "description": "The Ultimate Skillchain of Madoibi Scorched - Kagutsuchi and Firebrand - Tyr.\nDeals Fire DMG equal to Madoibi Scorched - Kagutsuchi's ATK × (<color=#E78300>{1}+{2}</color> × <color=#297DE0>his Ultimate Skillchain level</color>). Enters <material=underline c=#FFFFFF h=2 event=terminology args=(115803)>Heartsear: Scourge</material> state upon cast. Increases the Non-DoT Skill DMG of all Rage Mod teammates' Fire attacks by <color=#E78300>{8}</color> for <color=#E78300>12</color>s upon landing a hit.\nDeals Fire DMG equal to Firebrand - Tyr's ATK × (<color=#E78300>{3}+{4}</color> × <color=#297DE0>his Ultimate Skill level</color>). The whole team deal <color=#E78300>{5}</color> more Skill DMG and <color=#E78300>{6}</color> more Ultimate Skill DMG for <color=#E78300>{7}</color>s upon landing a hit.",
         "maxLv": 60,
         "type": 1,
         "id": 101132208,
@@ -11379,7 +11379,7 @@
         ]
     },
     "101150208": {
-        "description": "The Ultimate Skillchain of Somezakura - Buzenbo Tengu and Shinri - Tsukuyomi.\nDeals Thunder DMG equal to Somezakura - Buzenbo Tengu's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Increases the whole team's Crit Rate by <color=#E78300>{5}</color> and Skill DMG by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s when this skill is being cast. Also, increases the Non-DoT Armor Pierce of the next final-strike attack of Kata 9: Fallen Sakura by <color=#E78300>{8}</color>.\nDeals Thunder DMG equal to Shinri - Tsukuyomi's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Increases the whole team's ATK by <color=#E78300>{9}</color> and Thunder DMG by <color=#E78300>{10}</color> for<color=#E78300>{11}</color>s when this skill is being cast. Resets the CD of Thunder: Out of the Blue and restores <color=#E78300>20</color> Rage. Within <color=#E78300>4</color>s after hitting, Thunder: Out of the Blue does not remove <material=underline c=#FFFFFF h=2 event=terminology args=(119901)>Seal of Thunder</material> and triggers the next move. The remaining CD of the next Thunder: Out of the Blue is shortened by <color=#E78300>10</color>s.",
+        "description": "The Ultimate Skillchain of Somezakura - Buzenbo Tengu and Shinri - Tsukuyomi.\nDeals Thunder DMG equal to Somezakura - Buzenbo Tengu's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>). Increases the whole team's Crit Rate by <color=#E78300>{5}</color> and Skill DMG by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s when this skill is being cast. Also, increases the Non-DoT Armor Pierce of the next final-strike attack of Kata 9: Fallen Sakura by <color=#E78300>{8}</color>.\nDeals Thunder DMG equal to Shinri - Tsukuyomi's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>). Increases the whole team's ATK by <color=#E78300>{9}</color> and Thunder DMG by <color=#E78300>{10}</color> for<color=#E78300>{11}</color>s when this skill is being cast. Resets the CD of Thunder: Out of the Blue and restores <color=#E78300>20</color> Rage. Within <color=#E78300>4</color>s after hitting, Thunder: Out of the Blue does not remove <material=underline c=#FFFFFF h=2 event=terminology args=(119901)>Seal of Thunder</material> and triggers the next move. The remaining CD of the next Thunder: Out of the Blue is shortened by <color=#E78300>10</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101150208,
@@ -11481,7 +11481,7 @@
         ]
     },
     "101150281": {
-        "description": "The Ultimate Skillchain of Shinri - Tsukuyomi, Somezakura - Buzenbo Tengu, and Jin-ei - Kuninotokotachi.\nDeals Thunder DMG equal to Shinri - Tsukuyomi's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Upon hitting, increases the whole team's ATK by <color=#E78300>{7}</color> and Thunder DMG by <color=#E78300>{8}</color> for <color=#E78300>{9}</color>s.\nDeals Thunder DMG equal to Somezakura - Buzenbo Tengu's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). Upon hitting, increases the whole team's Crit Rate by <color=#E78300>{10}</color> and Crit DMG by <color=#E78300>{11}</color> for <color=#E78300>{12}</color>s.\nDeals Thunder DMG equal to Jin-ei - Kuninotokotachi's ATK \u00d7 (<color=#E78300>{5} + {6}</color> \u00d7 <color=#297DE0>her average Skill level</color>). Upon hitting, lowers the enemy's Physical, Fire, Thunder, and Wind RES by <color=#E78300>{13}</color> for <color=#E78300>{14}</color>s. Increases the whole team's Skill DMG by <color=#E78300>{15}</color> and Ultimate Skill charge speed by <color=#E78300>{16}</color> for <color=#E78300>{17}</color>s.",
+        "description": "The Ultimate Skillchain of Shinri - Tsukuyomi, Somezakura - Buzenbo Tengu, and Jin-ei - Kuninotokotachi.\nDeals Thunder DMG equal to Shinri - Tsukuyomi's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>). Upon hitting, increases the whole team's ATK by <color=#E78300>{7}</color> and Thunder DMG by <color=#E78300>{8}</color> for <color=#E78300>{9}</color>s.\nDeals Thunder DMG equal to Somezakura - Buzenbo Tengu's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>). Upon hitting, increases the whole team's Crit Rate by <color=#E78300>{10}</color> and Crit DMG by <color=#E78300>{11}</color> for <color=#E78300>{12}</color>s.\nDeals Thunder DMG equal to Jin-ei - Kuninotokotachi's ATK × (<color=#E78300>{5} + {6}</color> × <color=#297DE0>her average Skill level</color>). Upon hitting, lowers the enemy's Physical, Fire, Thunder, and Wind RES by <color=#E78300>{13}</color> for <color=#E78300>{14}</color>s. Increases the whole team's Skill DMG by <color=#E78300>{15}</color> and Ultimate Skill charge speed by <color=#E78300>{16}</color> for <color=#E78300>{17}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101150281,
@@ -11592,7 +11592,7 @@
         ]
     },
     "101150282": {
-        "description": "The Ultimate Skillchain of Flower of Yomi - Izanami and Somezakura - Buzenbo Tengu.\nDeals Ice DMG equal to Flower of Yomi - Izanami's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), while also increasing teammates' Ice DMG by <color=#E78300>{5}</color> and DMG dealt by Shinou Mods by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s.\nDeals Thunder DMG equal to Somezakura - Buzenbo Tengu's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), while also increasing teammates' Crit Rate by <color=#E78300>{8}</color> and Crit DMG by <color=#E78300>{9}</color> for <color=#E78300>{10}</color>s.",
+        "description": "The Ultimate Skillchain of Flower of Yomi - Izanami and Somezakura - Buzenbo Tengu.\nDeals Ice DMG equal to Flower of Yomi - Izanami's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), while also increasing teammates' Ice DMG by <color=#E78300>{5}</color> and DMG dealt by Shinou Mods by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s.\nDeals Thunder DMG equal to Somezakura - Buzenbo Tengu's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), while also increasing teammates' Crit Rate by <color=#E78300>{8}</color> and Crit DMG by <color=#E78300>{9}</color> for <color=#E78300>{10}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101150282,
@@ -11676,7 +11676,7 @@
         ]
     },
     "101156101": {
-        "description": "Translating:\u3010description$101156101$description$0\u3011",
+        "description": "Translating:【description$101156101$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101156101,
@@ -11697,7 +11697,7 @@
         ]
     },
     "101156201": {
-        "description": "Translating:\u3010description$101156201$description$0\u3011",
+        "description": "Translating:【description$101156201$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101156201,
@@ -11730,7 +11730,7 @@
         ]
     },
     "101156202": {
-        "description": "Translating:\u3010description$101156202$description$0\u3011",
+        "description": "Translating:【description$101156202$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101156202,
@@ -11769,7 +11769,7 @@
         ]
     },
     "101156203": {
-        "description": "Translating:\u3010description$101156203$description$0\u3011",
+        "description": "Translating:【description$101156203$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101156203,
@@ -11802,7 +11802,7 @@
         ]
     },
     "101156209": {
-        "description": "Translating:\u3010description$101156209$description$0\u3011",
+        "description": "Translating:【description$101156209$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101156209,
@@ -11835,7 +11835,7 @@
         ]
     },
     "101156305": {
-        "description": "Translating:\u3010description$101156305$description$0\u3011",
+        "description": "Translating:【description$101156305$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101156305,
@@ -12060,7 +12060,7 @@
         ]
     },
     "101184208": {
-        "description": "The Ultimate Skillchain of Shinri - Tsukuyomi and Archaic Oath - Verthandi.\nDeals Thunder DMG equal to Shinri - Tsukuyomi's ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted a <color=#E78300>{5}</color> Thunder DMG boost for <color=#E78300>{6}</color> seconds.\nAlso deals Thunder DMG equal to Archaic Oath - Verthandi's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and a <color=#E78300>15%</color> Ultimate Skill charge is granted to all members of the team when she lands a hit.",
+        "description": "The Ultimate Skillchain of Shinri - Tsukuyomi and Archaic Oath - Verthandi.\nDeals Thunder DMG equal to Shinri - Tsukuyomi's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>), and when a hit is landed on the enemy all members of the team are granted a <color=#E78300>{5}</color> Thunder DMG boost for <color=#E78300>{6}</color> seconds.\nAlso deals Thunder DMG equal to Archaic Oath - Verthandi's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and a <color=#E78300>15%</color> Ultimate Skill charge is granted to all members of the team when she lands a hit.",
         "maxLv": 60,
         "type": 1,
         "id": 101184208,
@@ -12231,7 +12231,7 @@
         ]
     },
     "101197208": {
-        "description": "The Ultimate Skillchain of Puppet Master - Hades and Dreamshade - Oneiroi.\nDeals Shadow DMG equal to Puppet Master - Hades' ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>). During Skillchain action, Hades' Divine Grace level also returns to <color=#E78300>50</color> for <color=#E78300>12</color>s (effect can trigger once every <color=#E78300>3</color>s). Skillchain use also increases the Crit Rate of all members of the team by <color=#E78300>{5}</color> and their Crit DMG by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s.\nAlso deals Shadow DMG equal to Dreamshade - Oneiroi's ATK \u00d7 (<color=#E78300>{3} + {4}</color> \u00d7 <color=#297DE0>her Ultimate Skill level</color>), and Oneiroi also goes into <material=underline c=#FFFFFF h=2 event=terminology args=(119703)>Ethereal Dream</material> state, or if she is in already in Ethereal Dream state, the state is refreshed.",
+        "description": "The Ultimate Skillchain of Puppet Master - Hades and Dreamshade - Oneiroi.\nDeals Shadow DMG equal to Puppet Master - Hades' ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>). During Skillchain action, Hades' Divine Grace level also returns to <color=#E78300>50</color> for <color=#E78300>12</color>s (effect can trigger once every <color=#E78300>3</color>s). Skillchain use also increases the Crit Rate of all members of the team by <color=#E78300>{5}</color> and their Crit DMG by <color=#E78300>{6}</color> for <color=#E78300>{7}</color>s.\nAlso deals Shadow DMG equal to Dreamshade - Oneiroi's ATK × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>), and Oneiroi also goes into <material=underline c=#FFFFFF h=2 event=terminology args=(119703)>Ethereal Dream</material> state, or if she is in already in Ethereal Dream state, the state is refreshed.",
         "maxLv": 60,
         "type": 1,
         "id": 101197208,
@@ -12375,7 +12375,7 @@
         ]
     },
     "101199203": {
-        "description": "Uses Battoujutsu to slash at the enemies to her front, clearing the <material=underline c=#FFFFFF h=2 event=terminology args=(119901)>Seal of Thunder</material> from enemies that have the seal and enabling the next move of Thunder: Out of the Blue. There are a total of three moves in Thunder: Out of the Blue, and when the third move is used Rage is not expended, and neither is the <material=underline c=#FFFFFF h=2 event=terminology args=(119901)>Seal of Thunder</material> cleared from the enemy.\nThunder: Out of the Blue Move I: Deals Thunder DMG equal to <color=#E78300>{1}</color> of ATK in total.\nThunder: Out of the Blue Move II: Deals Thunder DMG equal to <color=#E78300>{2}</color> of ATK in total.\nThunder: Out of the Blue Move III: Tsukuyomi unleashes four lightning strikes, each of which deals Thunder DMG equal to <color=#E78300>{3}</color> of ATK. The second and subsequent strikes that hit the same enemy deal progressively less DMG, and each enemy is dealt Thunder DMG up to <color=#E78300>2.8\u00d7{3}</color> ATK in total.",
+        "description": "Uses Battoujutsu to slash at the enemies to her front, clearing the <material=underline c=#FFFFFF h=2 event=terminology args=(119901)>Seal of Thunder</material> from enemies that have the seal and enabling the next move of Thunder: Out of the Blue. There are a total of three moves in Thunder: Out of the Blue, and when the third move is used Rage is not expended, and neither is the <material=underline c=#FFFFFF h=2 event=terminology args=(119901)>Seal of Thunder</material> cleared from the enemy.\nThunder: Out of the Blue Move I: Deals Thunder DMG equal to <color=#E78300>{1}</color> of ATK in total.\nThunder: Out of the Blue Move II: Deals Thunder DMG equal to <color=#E78300>{2}</color> of ATK in total.\nThunder: Out of the Blue Move III: Tsukuyomi unleashes four lightning strikes, each of which deals Thunder DMG equal to <color=#E78300>{3}</color> of ATK. The second and subsequent strikes that hit the same enemy deal progressively less DMG, and each enemy is dealt Thunder DMG up to <color=#E78300>2.8×{3}</color> ATK in total.",
         "maxLv": 60,
         "type": 1,
         "id": 101199203,
@@ -12582,7 +12582,7 @@
         ]
     },
     "101284208": {
-        "description": "The Ultimate Skillchain of Dimglare - Verthandi and Phantasmal Dawn - Hera.\nDeals Light DMG equal to ATK \u00d7 (<color=#E78300>{1} + {2}</color> \u00d7 <color=#297DE0>Verthandi's Ultimate Skill level</color>), and hits landed increase the Light DMG dealt by all members of the team by <color=#E78300>{3}</color> for <color=#E78300>{4}</color>s as well as increase the Mod Index Multiplier for the current Ultimate Skill attack by <color=#E78300>{5}</color>.\nAlso increases the DMG dealt by all members of the team by (<color=#E78300>14% + 0.4%</color>) \u00d7 <color=#297DE0>Hera's Ultimate Skill level </color> for <color=#E78300>{6}</color>s, restores all combat resources all members of the team next expend within <color=#E78300>12</color>s, and increases Dimglare - Verthandi's Crit Rate by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s.",
+        "description": "The Ultimate Skillchain of Dimglare - Verthandi and Phantasmal Dawn - Hera.\nDeals Light DMG equal to ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>Verthandi's Ultimate Skill level</color>), and hits landed increase the Light DMG dealt by all members of the team by <color=#E78300>{3}</color> for <color=#E78300>{4}</color>s as well as increase the Mod Index Multiplier for the current Ultimate Skill attack by <color=#E78300>{5}</color>.\nAlso increases the DMG dealt by all members of the team by (<color=#E78300>14% + 0.4%</color>) × <color=#297DE0>Hera's Ultimate Skill level </color> for <color=#E78300>{6}</color>s, restores all combat resources all members of the team next expend within <color=#E78300>12</color>s, and increases Dimglare - Verthandi's Crit Rate by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101284208,
@@ -13908,7 +13908,7 @@
         ]
     },
     "110200012": {
-        "description": "Translating:\u3010description$110200012$description$0\u3011",
+        "description": "Translating:【description$110200012$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110200012,
@@ -13941,7 +13941,7 @@
         ]
     },
     "110200013": {
-        "description": "Translating:\u3010description$110200013$description$0\u3011",
+        "description": "Translating:【description$110200013$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110200013,
@@ -13962,7 +13962,7 @@
         ]
     },
     "110200021": {
-        "description": "Translating:\u3010description$110200021$description$0\u3011",
+        "description": "Translating:【description$110200021$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110200021,
@@ -13977,7 +13977,7 @@
         ]
     },
     "110200022": {
-        "description": "Translating:\u3010description$110200022$description$0\u3011",
+        "description": "Translating:【description$110200022$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110200022,
@@ -14010,7 +14010,7 @@
         ]
     },
     "110200023": {
-        "description": "Translating:\u3010description$110200023$description$0\u3011",
+        "description": "Translating:【description$110200023$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110200023,
@@ -14025,7 +14025,7 @@
         ]
     },
     "110200031": {
-        "description": "Translating:\u3010description$110200031$description$0\u3011",
+        "description": "Translating:【description$110200031$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110200031,
@@ -14058,7 +14058,7 @@
         ]
     },
     "110200032": {
-        "description": "Translating:\u3010description$110200032$description$0\u3011",
+        "description": "Translating:【description$110200032$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110200032,
@@ -14073,7 +14073,7 @@
         ]
     },
     "110200033": {
-        "description": "Translating:\u3010description$110200033$description$0\u3011",
+        "description": "Translating:【description$110200033$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110200033,
@@ -18961,7 +18961,7 @@
         "param": []
     },
     "110890011": {
-        "description": "Translating:\u3010description$110890011$description$0\u3011",
+        "description": "Translating:【description$110890011$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110890011,
@@ -18969,7 +18969,7 @@
         "param": []
     },
     "110890012": {
-        "description": "Translating:\u3010description$110890012$description$0\u3011",
+        "description": "Translating:【description$110890012$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110890012,
@@ -18990,7 +18990,7 @@
         ]
     },
     "110890013": {
-        "description": "Translating:\u3010description$110890013$description$0\u3011",
+        "description": "Translating:【description$110890013$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110890013,
@@ -19023,7 +19023,7 @@
         ]
     },
     "110890021": {
-        "description": "Translating:\u3010description$110890021$description$0\u3011",
+        "description": "Translating:【description$110890021$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110890021,
@@ -19050,7 +19050,7 @@
         ]
     },
     "110890022": {
-        "description": "Translating:\u3010description$110890022$description$0\u3011",
+        "description": "Translating:【description$110890022$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110890022,
@@ -19058,7 +19058,7 @@
         "param": []
     },
     "110890023": {
-        "description": "Translating:\u3010description$110890023$description$0\u3011",
+        "description": "Translating:【description$110890023$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110890023,
@@ -19073,7 +19073,7 @@
         ]
     },
     "110890031": {
-        "description": "Translating:\u3010description$110890031$description$0\u3011",
+        "description": "Translating:【description$110890031$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110890031,
@@ -19094,7 +19094,7 @@
         ]
     },
     "110890032": {
-        "description": "Translating:\u3010description$110890032$description$0\u3011",
+        "description": "Translating:【description$110890032$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110890032,
@@ -19102,7 +19102,7 @@
         "param": []
     },
     "110890033": {
-        "description": "Translating:\u3010description$110890033$description$0\u3011",
+        "description": "Translating:【description$110890033$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110890033,
@@ -20016,7 +20016,7 @@
         ]
     },
     "111110032": {
-        "description": "When Osiris enters the battlefield, <color=#E78300>3</color>\u00d7 DMG Reduction is granted immediately, and then another <color=#E78300>1</color>\u00d7 is granted every <color=#E78300>20</color> seconds subsequently. Effect stacks up to <color=#E78300>3</color> times, with each addition to the stack reducing the DMG taken by Osiris by <color=#E78300>{1}</color>. Each time Osiris takes DMG, she loses <color=#E78300>1</color>\u00d7 Damage Reduction.",
+        "description": "When Osiris enters the battlefield, <color=#E78300>3</color>× DMG Reduction is granted immediately, and then another <color=#E78300>1</color>× is granted every <color=#E78300>20</color> seconds subsequently. Effect stacks up to <color=#E78300>3</color> times, with each addition to the stack reducing the DMG taken by Osiris by <color=#E78300>{1}</color>. Each time Osiris takes DMG, she loses <color=#E78300>1</color>× Damage Reduction.",
         "maxLv": 1,
         "type": 1,
         "id": 111110032,
@@ -20960,7 +20960,7 @@
         ]
     },
     "111560011": {
-        "description": "Translating:\u3010description$111560011$description$0\u3011",
+        "description": "Translating:【description$111560011$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 111560011,
@@ -20981,7 +20981,7 @@
         ]
     },
     "111560012": {
-        "description": "Translating:\u3010description$111560012$description$0\u3011",
+        "description": "Translating:【description$111560012$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 111560012,
@@ -21026,7 +21026,7 @@
         ]
     },
     "111560013": {
-        "description": "Translating:\u3010description$111560013$description$0\u3011",
+        "description": "Translating:【description$111560013$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 111560013,
@@ -21131,7 +21131,7 @@
         ]
     },
     "111560021": {
-        "description": "Translating:\u3010description$111560021$description$0\u3011",
+        "description": "Translating:【description$111560021$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 111560021,
@@ -21152,7 +21152,7 @@
         ]
     },
     "111560022": {
-        "description": "Translating:\u3010description$111560022$description$0\u3011",
+        "description": "Translating:【description$111560022$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 111560022,
@@ -21185,7 +21185,7 @@
         ]
     },
     "111560023": {
-        "description": "Translating:\u3010description$111560023$description$0\u3011",
+        "description": "Translating:【description$111560023$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 111560023,
@@ -21206,7 +21206,7 @@
         ]
     },
     "111560031": {
-        "description": "Translating:\u3010description$111560031$description$0\u3011",
+        "description": "Translating:【description$111560031$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 111560031,
@@ -21214,7 +21214,7 @@
         "param": []
     },
     "111560032": {
-        "description": "Translating:\u3010description$111560032$description$0\u3011",
+        "description": "Translating:【description$111560032$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 111560032,
@@ -21241,7 +21241,7 @@
         ]
     },
     "111560033": {
-        "description": "Translating:\u3010description$111560033$description$0\u3011",
+        "description": "Translating:【description$111560033$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 111560033,
@@ -21915,7 +21915,7 @@
         "param": []
     },
     "112840033": {
-        "description": "Tap the normal attack button repeatedly after the third strike of a normal attack (without connecting with a fourth) within a certain time to unleash the attack. This deals Light DMG equal to ATK \u00d7 <color=#E78300>{1}</color> (<color=#E78300>+{2}</color> for every level the normal attack is upgraded), <color=#E78300>{3}</color> (<color=#E78300>+{4}</color> for every level the normal attack is upgraded), and <color=#E78300>{5}</color> (<color=#E78300>+{6}</color> for every level the normal attack is upgraded) in order. Every hit landed with this attack also grants <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(128401)>Dawn</material>. The last strike of the attack will expend all available Divine Grace, and deals more <color=#E78300>{7}</color> Non-DoT Normal Attack DMG on hit for every <color=#E78300>1</color> Divine Grace expended. During the last strike of the attack, Slash of Conviction is replaced by Slash of Glare, which may be followed up with Slash of Glare.",
+        "description": "Tap the normal attack button repeatedly after the third strike of a normal attack (without connecting with a fourth) within a certain time to unleash the attack. This deals Light DMG equal to ATK × <color=#E78300>{1}</color> (<color=#E78300>+{2}</color> for every level the normal attack is upgraded), <color=#E78300>{3}</color> (<color=#E78300>+{4}</color> for every level the normal attack is upgraded), and <color=#E78300>{5}</color> (<color=#E78300>+{6}</color> for every level the normal attack is upgraded) in order. Every hit landed with this attack also grants <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(128401)>Dawn</material>. The last strike of the attack will expend all available Divine Grace, and deals more <color=#E78300>{7}</color> Non-DoT Normal Attack DMG on hit for every <color=#E78300>1</color> Divine Grace expended. During the last strike of the attack, Slash of Conviction is replaced by Slash of Glare, which may be followed up with Slash of Glare.",
         "maxLv": 1,
         "type": 1,
         "id": 112840033,
@@ -22615,7 +22615,7 @@
         "param": []
     },
     "200001014": {
-        "description": "When Osiris enters the battlefield, <color=#E78300>6</color>\u00d7 DMG Reduction is granted immediately, and then another <color=#E78300>1</color>\u00d7 is granted every <color=#E78300>18</color> seconds subsequently. Effect stacks up to <color=#E78300>6</color> times, with each addition to the stack reducing the DMG taken by Osiris by <color=#E78300>{1}</color>. Each time Osiris takes DMG, she loses <color=#E78300>1</color>\u00d7 Damage Reduction.",
+        "description": "When Osiris enters the battlefield, <color=#E78300>6</color>× DMG Reduction is granted immediately, and then another <color=#E78300>1</color>× is granted every <color=#E78300>18</color> seconds subsequently. Effect stacks up to <color=#E78300>6</color> times, with each addition to the stack reducing the DMG taken by Osiris by <color=#E78300>{1}</color>. Each time Osiris takes DMG, she loses <color=#E78300>1</color>× Damage Reduction.",
         "maxLv": 1,
         "type": 1,
         "id": 200001014,
@@ -24511,7 +24511,7 @@
         ]
     },
     "220101301": {
-        "description": "Equipping by R\u0101hu - Asura grants the following effects:\nWhen <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(101301)>Flamefetter</material></color> state expires, <color=#297DE0>Fire Warp</color> is not longer enhanced. Instead, gains <color=#E78300>1</color> enhanced <color=#297DE0>Fire Warp</color> when the Mod enters <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(101301)>Flamefetter</material></color> or when the duration status is extended. Hold down on the Normal Attack button to cast this enhanced skill. This skill can be enhanced multiple times, stacking up the effect, which results in Fire DMG equal to <color=#E78300>{2}%</color> of ATK in total being dealt to enemies within a small AoE. <color=#E78300>12</color> Energy is also granted, and enemies hit have their Fire Res lowered by <color=#E78300>{3}%</color> for <color=#E78300>{4}</color> seconds.\nWhen Mod is in <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(101301)>Flamefetter</material></color> state, <color=#E78300>each time</color> a hit is landed during a normal attack the Non-DoT DMG dealt with the <color=#297DE0>Fire Warp</color> attack is increased by <color=#E78300>{1}%</color>. DMG bonus is removed each time <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(101301)>Flamefetter</material></color> ends.\nShortens the CD of <color=#297DE0>Earth Shatter</color> by <color=#E78300>{5}</color>s.",
+        "description": "Equipping by Rāhu - Asura grants the following effects:\nWhen <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(101301)>Flamefetter</material></color> state expires, <color=#297DE0>Fire Warp</color> is not longer enhanced. Instead, gains <color=#E78300>1</color> enhanced <color=#297DE0>Fire Warp</color> when the Mod enters <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(101301)>Flamefetter</material></color> or when the duration status is extended. Hold down on the Normal Attack button to cast this enhanced skill. This skill can be enhanced multiple times, stacking up the effect, which results in Fire DMG equal to <color=#E78300>{2}%</color> of ATK in total being dealt to enemies within a small AoE. <color=#E78300>12</color> Energy is also granted, and enemies hit have their Fire Res lowered by <color=#E78300>{3}%</color> for <color=#E78300>{4}</color> seconds.\nWhen Mod is in <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(101301)>Flamefetter</material></color> state, <color=#E78300>each time</color> a hit is landed during a normal attack the Non-DoT DMG dealt with the <color=#297DE0>Fire Warp</color> attack is increased by <color=#E78300>{1}%</color>. DMG bonus is removed each time <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(101301)>Flamefetter</material></color> ends.\nShortens the CD of <color=#297DE0>Earth Shatter</color> by <color=#E78300>{5}</color>s.",
         "maxLv": 0,
         "type": 0,
         "id": 220101301,
@@ -24887,7 +24887,7 @@
         ]
     },
     "220102801": {
-        "description": "Equipping by Roaring Thunder - Thor grants the following effects:\nWhen the Mod is in <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(102802)>Thunder Frenzy</material></color> state, each skill hit triggers a thunderbolt, which deals to the enemy Thunder DMG equal to <color=#E78300>{1}%</color> ATK. Each time <color=#297DE0>Mj\u00f6lnir</color> is used to cast a non-derivative skill and a hit is landed, or when <color=#297DE0>J\u00e1rngreipr</color> is used to cast a skill attack apart from the final fist strike and a hit is landed, increases Mod's DMG dealt by <color=#E78300>{2}%</color> for <color=#E78300>{3}</color>s. Effect stacks up to <color=#E78300>3</color> times.\nWhen the final fist strike is dealt when in <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material></color> state, increases the skill's Non-DoT ATK by <color=#E78300>{5}%</color>.\nWhen a hit is landed with <color=#297DE0>Tremblestrike</color>, every <color=#E78300>1</color> stack owned by the Mod increases the Independent DMG of <color=#297DE0>Tremblestrike</color> by <color=#E78300>{4}%</color>. When there are <color=#E78300>3</color> stacks owned, they will be taken as <color=#E78300>4</color> instead. All stacks will be removed when <color=#297DE0>Tremblestrike</color> ends.",
+        "description": "Equipping by Roaring Thunder - Thor grants the following effects:\nWhen the Mod is in <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(102802)>Thunder Frenzy</material></color> state, each skill hit triggers a thunderbolt, which deals to the enemy Thunder DMG equal to <color=#E78300>{1}%</color> ATK. Each time <color=#297DE0>Mjölnir</color> is used to cast a non-derivative skill and a hit is landed, or when <color=#297DE0>Járngreipr</color> is used to cast a skill attack apart from the final fist strike and a hit is landed, increases Mod's DMG dealt by <color=#E78300>{2}%</color> for <color=#E78300>{3}</color>s. Effect stacks up to <color=#E78300>3</color> times.\nWhen the final fist strike is dealt when in <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(102803)>Thunder Rage</material></color> state, increases the skill's Non-DoT ATK by <color=#E78300>{5}%</color>.\nWhen a hit is landed with <color=#297DE0>Tremblestrike</color>, every <color=#E78300>1</color> stack owned by the Mod increases the Independent DMG of <color=#297DE0>Tremblestrike</color> by <color=#E78300>{4}%</color>. When there are <color=#E78300>3</color> stacks owned, they will be taken as <color=#E78300>4</color> instead. All stacks will be removed when <color=#297DE0>Tremblestrike</color> ends.",
         "maxLv": 0,
         "type": 0,
         "id": 220102801,
@@ -27735,7 +27735,7 @@
         ]
     },
     "500000425": {
-        "description": "Increases the DMG dealt with a normal attack by <color=#E78300>{1}%</color> when Modifying Level is at <color=#E78300>B</color> or above.\nIncreases Skill DMG by <color=#E78300>{2}%</color> when Modifying Level is at <color=#E78300>A</color> or above.\nIncreases Ultimate Skill DMG by <color=#E78300>{3}%</color> when Modifying Level is at <color=#E78300>S</color> or above.\nIncreases all of the above effects by <color=#E78300>100%</color> when Modifying Level is at <color=#E78300>\u03a9</color>.",
+        "description": "Increases the DMG dealt with a normal attack by <color=#E78300>{1}%</color> when Modifying Level is at <color=#E78300>B</color> or above.\nIncreases Skill DMG by <color=#E78300>{2}%</color> when Modifying Level is at <color=#E78300>A</color> or above.\nIncreases Ultimate Skill DMG by <color=#E78300>{3}%</color> when Modifying Level is at <color=#E78300>S</color> or above.\nIncreases all of the above effects by <color=#E78300>100%</color> when Modifying Level is at <color=#E78300>Ω</color>.",
         "maxLv": 0,
         "type": 0,
         "id": 500000425,
@@ -27831,7 +27831,7 @@
         ]
     },
     "500101301": {
-        "description": "Equipping by R\u0101hu - Asura grants the following effects:\nWhen <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(101301)>Flamefetter</material></color> state expires, <color=#297DE0>Fire Warp</color> is not longer enhanced. Instead, the next use of <color=#297DE0>Fire Warp</color> is enhanced when the Mod enters <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(101301)>Flamefetter</material></color> or when the duration status is extended. In addition, the skill can only be enhanced when in <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(101301)>Flamefetter</material></color> state by holding on the Normal Attack button, which results in Fire DMG equal to <color=#E78300>{2}%</color> of ATK in total being dealt to enemies within a small AoE. <color=#E78300>12</color> Energy is also granted, and enemies hit have their Fire Res lowered by <color=#E78300>{3}%</color> for <color=#E78300>{4}</color> seconds. Effect stacks up to <color=#E78300>5</color> times.\nWhen Mod is in <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(101301)>Flamefetter</material></color> state, <color=#E78300>each time</color> a hit is landed during a normal attack the Non-DoT DMG dealt with the <color=#297DE0>Fire Warp</color> attack is increased by <color=#E78300>{1}%</color>. DMG bonus is removed each time <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(101301)>Flamefetter</material></color> ends.",
+        "description": "Equipping by Rāhu - Asura grants the following effects:\nWhen <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(101301)>Flamefetter</material></color> state expires, <color=#297DE0>Fire Warp</color> is not longer enhanced. Instead, the next use of <color=#297DE0>Fire Warp</color> is enhanced when the Mod enters <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(101301)>Flamefetter</material></color> or when the duration status is extended. In addition, the skill can only be enhanced when in <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(101301)>Flamefetter</material></color> state by holding on the Normal Attack button, which results in Fire DMG equal to <color=#E78300>{2}%</color> of ATK in total being dealt to enemies within a small AoE. <color=#E78300>12</color> Energy is also granted, and enemies hit have their Fire Res lowered by <color=#E78300>{3}%</color> for <color=#E78300>{4}</color> seconds. Effect stacks up to <color=#E78300>5</color> times.\nWhen Mod is in <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(101301)>Flamefetter</material></color> state, <color=#E78300>each time</color> a hit is landed during a normal attack the Non-DoT DMG dealt with the <color=#297DE0>Fire Warp</color> attack is increased by <color=#E78300>{1}%</color>. DMG bonus is removed each time <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(101301)>Flamefetter</material></color> ends.",
         "maxLv": 0,
         "type": 0,
         "id": 500101301,
@@ -28103,7 +28103,7 @@
         ]
     },
     "500102001": {
-        "description": "Translating:\u3010description$500102001$description$0\u3011",
+        "description": "Translating:【description$500102001$description$0】",
         "maxLv": 0,
         "type": 0,
         "id": 500102001,
@@ -28543,7 +28543,7 @@
         ]
     },
     "500102801": {
-        "description": "Equipping by Roaring Thunder - Thor grants the following effects:\nWhen the Mod is in <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(102802)>Thunder Frenzy</material></color> state, each skill hit triggers a thunderbolt, which deals to the enemy Thunder DMG equal to <color=#E78300>{1}%</color> ATK. Each time <color=#297DE0>Mj\u00f6lnir</color> is used to cast a non-derivative skill and a hit is landed, or when <color=#297DE0>J\u00e1rngreipr</color> is used to cast a skill attack apart from the final fist strike and a hit is landed, increases Mod's DMG dealt by <color=#E78300>{2}%</color> for <color=#E78300>{3}</color>s. Effect stacks up to <color=#E78300>3</color> times.\nWhen the final fist strike is dealt when in <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(102803)>Thunder Rage</material></color> state, every <color=#E78300>1</color>stack owned by the Mod increases the skill's Non-DoT ATK by <color=#E78300>{5}%</color>. When there are <color=#E78300>3</color> stacks owned, they will be taken as <color=#E78300>4</color> instead.\nWhen a hit is landed with <color=#297DE0>Tremblestrike</color>, every <color=#E78300>1</color> stack owned by the Mod increases the Base DMG of <color=#297DE0>Tremblestrike</color> by <color=#E78300>{4}%</color>. When there are <color=#E78300>3</color> stacks owned, they will be taken as <color=#E78300>4</color> instead. All stacks will be removed when <color=#297DE0>Tremblestrike</color> ends.",
+        "description": "Equipping by Roaring Thunder - Thor grants the following effects:\nWhen the Mod is in <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(102802)>Thunder Frenzy</material></color> state, each skill hit triggers a thunderbolt, which deals to the enemy Thunder DMG equal to <color=#E78300>{1}%</color> ATK. Each time <color=#297DE0>Mjölnir</color> is used to cast a non-derivative skill and a hit is landed, or when <color=#297DE0>Járngreipr</color> is used to cast a skill attack apart from the final fist strike and a hit is landed, increases Mod's DMG dealt by <color=#E78300>{2}%</color> for <color=#E78300>{3}</color>s. Effect stacks up to <color=#E78300>3</color> times.\nWhen the final fist strike is dealt when in <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(102803)>Thunder Rage</material></color> state, every <color=#E78300>1</color>stack owned by the Mod increases the skill's Non-DoT ATK by <color=#E78300>{5}%</color>. When there are <color=#E78300>3</color> stacks owned, they will be taken as <color=#E78300>4</color> instead.\nWhen a hit is landed with <color=#297DE0>Tremblestrike</color>, every <color=#E78300>1</color> stack owned by the Mod increases the Base DMG of <color=#297DE0>Tremblestrike</color> by <color=#E78300>{4}%</color>. When there are <color=#E78300>3</color> stacks owned, they will be taken as <color=#E78300>4</color> instead. All stacks will be removed when <color=#297DE0>Tremblestrike</color> ends.",
         "maxLv": 0,
         "type": 0,
         "id": 500102801,
@@ -30431,7 +30431,7 @@
         ]
     },
     "500108901": {
-        "description": "Translating:\u3010description$500108901$description$0\u3011",
+        "description": "Translating:【description$500108901$description$0】",
         "maxLv": 0,
         "type": 0,
         "id": 500108901,
@@ -31175,7 +31175,7 @@
         ]
     },
     "500115601": {
-        "description": "Translating:\u3010description$500115601$description$0\u3011",
+        "description": "Translating:【description$500115601$description$0】",
         "maxLv": 0,
         "type": 0,
         "id": 500115601,
@@ -31867,7 +31867,7 @@
         ]
     },
     "600000017": {
-        "description": "Increases Crit DMG by {1} when at Modifying Level \u03a9.",
+        "description": "Increases Crit DMG by {1} when at Modifying Level Ω.",
         "maxLv": 1,
         "type": 1,
         "id": 600000017,
@@ -34941,7 +34941,7 @@
         ]
     },
     "700000228": {
-        "description": "When Modifying Level reaches \u03a9, increases the Mod's DMG dealt by 75%; If not, reduces the Mod's DMG dealt by 30% instead.",
+        "description": "When Modifying Level reaches Ω, increases the Mod's DMG dealt by 75%; If not, reduces the Mod's DMG dealt by 30% instead.",
         "maxLv": 1,
         "type": 1,
         "id": 700000228,
@@ -38218,7 +38218,7 @@
         "param": []
     },
     "700000515": {
-        "description": "Modifying Level reaches \u03a9-Grade instantly after a Mod triggers Dodge effects.",
+        "description": "Modifying Level reaches Ω-Grade instantly after a Mod triggers Dodge effects.",
         "maxLv": 1,
         "type": 1,
         "id": 700000515,
@@ -38403,7 +38403,7 @@
         "param": []
     },
     "700000533": {
-        "description": "When Mods hit the enemy with Ultimate Skill, Modifying Level instantly reaches the next level (up to \u03a9).",
+        "description": "When Mods hit the enemy with Ultimate Skill, Modifying Level instantly reaches the next level (up to Ω).",
         "maxLv": 1,
         "type": 1,
         "id": 700000533,
@@ -39273,7 +39273,7 @@
         ]
     },
     "700000592": {
-        "description": "The duration of Modifying Level \u03a9 is extended by 2 seconds.",
+        "description": "The duration of Modifying Level Ω is extended by 2 seconds.",
         "maxLv": 1,
         "type": 1,
         "id": 700000592,
@@ -40579,7 +40579,7 @@
         ]
     },
     "700009068": {
-        "description": "DMG dealt by Asterism Mods at Modifying Level \u03a9 is increased by {1}.",
+        "description": "DMG dealt by Asterism Mods at Modifying Level Ω is increased by {1}.",
         "maxLv": 1,
         "type": 1,
         "id": 700009068,
@@ -40708,7 +40708,7 @@
         ]
     },
     "700009075": {
-        "description": "Divine Grace Mods gain Divine Grace {1} more quickly, and when the Modifying Level reaches \u03a9, they gain Divine Grace {2} more quickly. ",
+        "description": "Divine Grace Mods gain Divine Grace {1} more quickly, and when the Modifying Level reaches Ω, they gain Divine Grace {2} more quickly. ",
         "maxLv": 1,
         "type": 1,
         "id": 700009075,
@@ -41078,7 +41078,7 @@
         ]
     },
     "700009110": {
-        "description": "Increases DMG dealt at Modifying Level \u03a9 by {1}, and Mods' HP will not fall below 1.",
+        "description": "Increases DMG dealt at Modifying Level Ω by {1}, and Mods' HP will not fall below 1.",
         "maxLv": 1,
         "type": 1,
         "id": 700009110,
@@ -42052,7 +42052,7 @@
         ]
     },
     "700009196": {
-        "description": "Increases DMG dealt at Modifying Level \u03a9 by {1}, and Mods' HP will not fall below 1.",
+        "description": "Increases DMG dealt at Modifying Level Ω by {1}, and Mods' HP will not fall below 1.",
         "maxLv": 1,
         "type": 1,
         "id": 700009196,
@@ -47025,7 +47025,7 @@
         ]
     },
     "700070709": {
-        "description": "When there are enemies on the field, the team leader launches a Red Packet Attack against enemies within range every 3s, dealing DMG equal to the amount of Treasure Coins \u00d710 and DMG equal to 400% of ATK.",
+        "description": "When there are enemies on the field, the team leader launches a Red Packet Attack against enemies within range every 3s, dealing DMG equal to the amount of Treasure Coins ×10 and DMG equal to 400% of ATK.",
         "maxLv": 5,
         "type": 1,
         "id": 700070709,
@@ -47033,7 +47033,7 @@
         "param": []
     },
     "700070710": {
-        "description": "The team leader launches a Red Packet Attack against enemies within range upon each skill hit or Ultimate Skill hit, dealing DMG equal to the amount of Treasure Coins \u00d710 and DMG equal to 400% of ATK. This effect triggers only once every 3s.",
+        "description": "The team leader launches a Red Packet Attack against enemies within range upon each skill hit or Ultimate Skill hit, dealing DMG equal to the amount of Treasure Coins ×10 and DMG equal to 400% of ATK. This effect triggers only once every 3s.",
         "maxLv": 5,
         "type": 1,
         "id": 700070710,
@@ -47049,7 +47049,7 @@
         "param": []
     },
     "700070712": {
-        "description": "The team leader launches a Red Packet Attack against enemies within range upon each normal attack hit, dealing DMG equal to the amount of Treasure Coins \u00d710 and DMG equal to 400% of ATK. This effect triggers only once every 3s.",
+        "description": "The team leader launches a Red Packet Attack against enemies within range upon each normal attack hit, dealing DMG equal to the amount of Treasure Coins ×10 and DMG equal to 400% of ATK. This effect triggers only once every 3s.",
         "maxLv": 5,
         "type": 1,
         "id": 700070712,
@@ -51478,7 +51478,7 @@
         ]
     },
     "21101320122": {
-        "description": "When Asura is in Flamefetter state, her Fire DMG is increased by <color=#E78300>{1}</color> for <color=#E78300>{2}</color> seconds. R\u0101hu's Fists warp to the locked-on enemy's location during the attack, dealing Fire DMG equal to <color=#E78300>{3}</color> of ATK in total.",
+        "description": "When Asura is in Flamefetter state, her Fire DMG is increased by <color=#E78300>{1}</color> for <color=#E78300>{2}</color> seconds. Rāhu's Fists warp to the locked-on enemy's location during the attack, dealing Fire DMG equal to <color=#E78300>{3}</color> of ATK in total.",
         "maxLv": 60,
         "type": 1,
         "id": 21101320122,
@@ -51538,7 +51538,7 @@
         ]
     },
     "21101320324": {
-        "description": "Enters Flamefetter state, and increases Fire DMG by <color=#E78300>{1}</color> for <color=#E78300>{2}</color> seconds. Opens a crack in the ground beneath the locked-on enemy, and draws all surrounding enemies to it. A heavy R\u0101hu Fist then bursts out of the crack, attacking enemies in range and dealing Fire DMG equal to <color=#E78300>{3}</color> of ATK in total.",
+        "description": "Enters Flamefetter state, and increases Fire DMG by <color=#E78300>{1}</color> for <color=#E78300>{2}</color> seconds. Opens a crack in the ground beneath the locked-on enemy, and draws all surrounding enemies to it. A heavy Rāhu Fist then bursts out of the crack, attacking enemies in range and dealing Fire DMG equal to <color=#E78300>{3}</color> of ATK in total.",
         "maxLv": 60,
         "type": 1,
         "id": 21101320324,
@@ -52075,7 +52075,7 @@
         ]
     },
     "21102810121": {
-        "description": "Swings Mj\u00f6lnir to attack the enemy continuously, dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. Following up its derivative skill with a normal attack will start the normal attack from the fourth strike and grants Unyielding for <color=#E78300>2</color>s during the follow-up.\n\nPassive:\nEvery hit landed with a normal attack or skill attack grants Thundercloud points, which can stack up to <color=#E78300>100</color>. <color=#E78300>7</color> Thundercloud are expended every <color=#E78300>0.5</color>s. Gains <color=#E78300>9</color> Thundercloud for each normal attack hit and <color=#E78300>15</color> Thundercloud for each skill hit, and gains <color=#E78300>15</color> more Thundercloud for each skill hit in Thunder Frenzy state. Every <color=#E78300>1</color> point of Thundercloud increases Independent DMG dealt by <color=#E78300>0.3%</color>, with the effect maxed out when Thundercloud is at <color=#E78300>80</color>.\nEnters Thunder Frenzy state for <color=#E78300>2</color>s when casting a derivative skill, with effect duration extended by <color=#E78300>0.01</color>s for every <color=#E78300>1</color> point of Thundercloud owned (up to an extention of <color=#E78300>1</color>s).\nThunder Frenzy: Becomes Invincible for a short time upon entering the state. Thundercloud will not be automatically expended during this state, and Mod deals <color=#E78300>{2}</color> more Thunder DMG.\n\n<color=#297DE0>Traces</color>: Gains <color=#E78300>1</color> Trace when a hit is landed with the fifth strike of a normal attack.",
+        "description": "Swings Mjölnir to attack the enemy continuously, dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. Following up its derivative skill with a normal attack will start the normal attack from the fourth strike and grants Unyielding for <color=#E78300>2</color>s during the follow-up.\n\nPassive:\nEvery hit landed with a normal attack or skill attack grants Thundercloud points, which can stack up to <color=#E78300>100</color>. <color=#E78300>7</color> Thundercloud are expended every <color=#E78300>0.5</color>s. Gains <color=#E78300>9</color> Thundercloud for each normal attack hit and <color=#E78300>15</color> Thundercloud for each skill hit, and gains <color=#E78300>15</color> more Thundercloud for each skill hit in Thunder Frenzy state. Every <color=#E78300>1</color> point of Thundercloud increases Independent DMG dealt by <color=#E78300>0.3%</color>, with the effect maxed out when Thundercloud is at <color=#E78300>80</color>.\nEnters Thunder Frenzy state for <color=#E78300>2</color>s when casting a derivative skill, with effect duration extended by <color=#E78300>0.01</color>s for every <color=#E78300>1</color> point of Thundercloud owned (up to an extention of <color=#E78300>1</color>s).\nThunder Frenzy: Becomes Invincible for a short time upon entering the state. Thundercloud will not be automatically expended during this state, and Mod deals <color=#E78300>{2}</color> more Thunder DMG.\n\n<color=#297DE0>Traces</color>: Gains <color=#E78300>1</color> Trace when a hit is landed with the fifth strike of a normal attack.",
         "maxLv": 60,
         "type": 1,
         "id": 21102810121,
@@ -52096,7 +52096,7 @@
         ]
     },
     "21102820122": {
-        "description": "Rushes toward the enemy with Mj\u00f6lnir in hand, dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. For a short time after skill cast, skill is replaced by the derivative skill: Hammerstrike, which can only be cast as a follow-up to Quivers Underground.\nHammerstrike: Attacks surrounding enemies with Mj\u00f6lnir, expending <color=#E78300>3</color> Traces to deal Thunder DMG equal to <color=#E78300>{2}</color> ATK in total.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with Quivers Underground.",
+        "description": "Rushes toward the enemy with Mjölnir in hand, dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. For a short time after skill cast, skill is replaced by the derivative skill: Hammerstrike, which can only be cast as a follow-up to Quivers Underground.\nHammerstrike: Attacks surrounding enemies with Mjölnir, expending <color=#E78300>3</color> Traces to deal Thunder DMG equal to <color=#E78300>{2}</color> ATK in total.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with Quivers Underground.",
         "maxLv": 60,
         "type": 1,
         "id": 21102820122,
@@ -52117,7 +52117,7 @@
         ]
     },
     "21102820223": {
-        "description": "Swings Mj\u00f6lnir wildly, pulling in nearby enemies for a short time and dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. Within a short time after skill cast, this skill will be replaced by the derivative skill: Rumblestrike, which can only be cast as a follow-up to Rumbles Faraway.\nRumblestrike: Spins Mj\u00f6lnir and then smashes it into the ground, expending <color=#E78300>3</color> Traces to deal Thunder DMG equal to <color=#E78300>{2}</color> ATK in total.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with Rumbles Faraway.",
+        "description": "Swings Mjölnir wildly, pulling in nearby enemies for a short time and dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. Within a short time after skill cast, this skill will be replaced by the derivative skill: Rumblestrike, which can only be cast as a follow-up to Rumbles Faraway.\nRumblestrike: Spins Mjölnir and then smashes it into the ground, expending <color=#E78300>3</color> Traces to deal Thunder DMG equal to <color=#E78300>{2}</color> ATK in total.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with Rumbles Faraway.",
         "maxLv": 60,
         "type": 1,
         "id": 21102820223,
@@ -52138,7 +52138,7 @@
         ]
     },
     "21102820324": {
-        "description": "Swings Mj\u00f6lnir, then smashes it into the ground, dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. Within a short time after skill cast, this skill will be replaced by the derivative skill: Tremblestrike, which can only be cast as a follow-up to Trembles Deep Within.\nTremblestrike: Swings Mj\u00f6lnir and smashes it into the ground again, expending <color=#E78300>3</color> Traces to deal Thunder DMG equal to <color=#E78300>{2}</color> ATK in total.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with Trembles Deep Within.",
+        "description": "Swings Mjölnir, then smashes it into the ground, dealing Thunder DMG equal to <color=#E78300>{1}</color> ATK in total. Within a short time after skill cast, this skill will be replaced by the derivative skill: Tremblestrike, which can only be cast as a follow-up to Trembles Deep Within.\nTremblestrike: Swings Mjölnir and smashes it into the ground again, expending <color=#E78300>3</color> Traces to deal Thunder DMG equal to <color=#E78300>{2}</color> ATK in total.\n\n<color=#297DE0>Traces:</color> Gains <color=#E78300>1</color> Trace when a hit is landed with Trembles Deep Within.",
         "maxLv": 60,
         "type": 1,
         "id": 21102820324,
@@ -54949,7 +54949,7 @@
         ]
     },
     "21119920324": {
-        "description": "Uses Battoujutsu to slash at the enemies to her front, clearing the Seal of Thunder from enemies that have the seal and enabling the next move of Thunder: Out of the Blue. There are a total of three moves in Thunder: Out of the Blue, and when the third move is used Rage is not expended, and neither is the Seal of Thunder cleared from the enemy.\nThunder: Out of the Blue Move I: Deals Thunder DMG equal to <color=#E78300>{1}</color> of ATK in total.\nThunder: Out of the Blue Move II: Deals Thunder DMG equal to <color=#E78300>{2}</color> of ATK in total.\nThunder: Out of the Blue Move III: Tsukuyomi unleashes four lightning strikes, each of which deals Thunder DMG equal to <color=#E78300>{3}</color> of ATK. The second and subsequent strikes that hit the same enemy deal progressively less DMG, and each enemy is dealt Thunder DMG up to <color=#E78300>2.8\u00d7{3}</color> ATK in total.",
+        "description": "Uses Battoujutsu to slash at the enemies to her front, clearing the Seal of Thunder from enemies that have the seal and enabling the next move of Thunder: Out of the Blue. There are a total of three moves in Thunder: Out of the Blue, and when the third move is used Rage is not expended, and neither is the Seal of Thunder cleared from the enemy.\nThunder: Out of the Blue Move I: Deals Thunder DMG equal to <color=#E78300>{1}</color> of ATK in total.\nThunder: Out of the Blue Move II: Deals Thunder DMG equal to <color=#E78300>{2}</color> of ATK in total.\nThunder: Out of the Blue Move III: Tsukuyomi unleashes four lightning strikes, each of which deals Thunder DMG equal to <color=#E78300>{3}</color> of ATK. The second and subsequent strikes that hit the same enemy deal progressively less DMG, and each enemy is dealt Thunder DMG up to <color=#E78300>2.8×{3}</color> ATK in total.",
         "maxLv": 60,
         "type": 1,
         "id": 21119920324,

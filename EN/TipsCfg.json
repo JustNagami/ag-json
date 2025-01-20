@@ -901,7 +901,7 @@
     },
     "2608": {
         "id": 2608,
-        "desc": "You have enough Intel to transcend this character to \u03a9",
+        "desc": "You have enough Intel to transcend this character to Ω",
         "define": "ERROR_SHOP_PIECE_LIMIT",
         "audio": "ui_tips01"
     },
@@ -3637,7 +3637,7 @@
     },
     "60062": {
         "id": 60062,
-        "desc": "Changing your name costs <color=#\ufffd>%s %d/1</color>, and you will not be able to change your name again for 30 days",
+        "desc": "Changing your name costs <color=#�>%s %d/1</color>, and you will not be able to change your name again for 30 days",
         "define": "CHANGE_NAME_COST_ITEM",
         "audio": "ui_tips03"
     },
@@ -4039,7 +4039,7 @@
     },
     "60136": {
         "id": 60136,
-        "desc": "Sigil limit has been reached\u2014please visit the warehouse to sort them out",
+        "desc": "Sigil limit has been reached—please visit the warehouse to sort them out",
         "define": "EQUIP_NUM_MAX",
         "audio": "ui_tips03"
     },
@@ -4477,7 +4477,7 @@
     },
     "60236": {
         "id": 60236,
-        "desc": "Are you sure you want to spend <color=#E78300> %s \u0445 %d</color> for <color=#E78300> %s \u0445 %d</color>?",
+        "desc": "Are you sure you want to spend <color=#E78300> %s х %d</color> for <color=#E78300> %s х %d</color>?",
         "define": "CONFIRM_BUY",
         "audio": "ui_tips03"
     },
@@ -4669,7 +4669,7 @@
     },
     "60269": {
         "id": 60269,
-        "desc": "You have enough Intel to transcend this character to \u03a9",
+        "desc": "You have enough Intel to transcend this character to Ω",
         "define": "OMEGA_ENOUGH_TIP",
         "audio": "ui_tips01"
     },
@@ -4873,7 +4873,7 @@
     },
     "60303": {
         "id": 60303,
-        "desc": "The following %s stage involves continuous battle. To ensure an optimal experience, you will need to spend <color=#E78300>%s \u00d7%s</color>.",
+        "desc": "The following %s stage involves continuous battle. To ensure an optimal experience, you will need to spend <color=#E78300>%s ×%s</color>.",
         "define": "CONTINUE_BATTLE_COST_TIP",
         "audio": "ui_tips02"
     },
@@ -4969,7 +4969,7 @@
     },
     "60320": {
         "id": 60320,
-        "desc": "\u03a9 Recommended",
+        "desc": "Ω Recommended",
         "define": "OMEGA_RECOMMEND",
         "audio": "ui_tips01"
     },
@@ -5143,7 +5143,7 @@
     },
     "61346": {
         "id": 61346,
-        "desc": "\u65e5\u672c\u8a9e",
+        "desc": "日本語",
         "define": "Voice_Languages2",
         "audio": "ui_tips02"
     },
@@ -5731,7 +5731,7 @@
     },
     "70096": {
         "id": 70096,
-        "desc": "Spend <color=#E78300>%s \u00d7%d</color> to %s?",
+        "desc": "Spend <color=#E78300>%s ×%d</color> to %s?",
         "define": "TIP_ITEM_COST",
         "audio": "ui_tips03"
     },
@@ -5767,7 +5767,7 @@
     },
     "70102": {
         "id": 70102,
-        "desc": "%s EXP needed. Approximately %s \u00d7 %s.",
+        "desc": "%s EXP needed. Approximately %s × %s.",
         "define": "NEED_MORE_EXP_ITEM",
         "audio": "ui_tips02"
     },
@@ -5977,7 +5977,7 @@
     },
     "71059": {
         "id": 71059,
-        "desc": "Spend <color=#E78300>Transcendence Crystals \u00d7%s</color> to transcend this Functor?",
+        "desc": "Spend <color=#E78300>Transcendence Crystals ×%s</color> to transcend this Functor?",
         "define": "SERVANT_TRANSCEND",
         "audio": "ui_tips03"
     },
@@ -6133,7 +6133,7 @@
     },
     "71118": {
         "id": 71118,
-        "desc": "Select 1 skill to apply the Sigil.\n\u2014A finely crafted special module that channels Divine Power to fuse Sigils, attaching the Sigil to the selected ability.",
+        "desc": "Select 1 skill to apply the Sigil.\n—A finely crafted special module that channels Divine Power to fuse Sigils, attaching the Sigil to the selected ability.",
         "define": "EQUIP_DIRECTIONAL_DESC",
         "audio": "ui_tips02"
     },
@@ -6511,7 +6511,7 @@
     },
     "71197": {
         "id": 71197,
-        "desc": "<color=#FF000B>%d</color> EXP needed. Approximately %s \u00d7 %d.",
+        "desc": "<color=#FF000B>%d</color> EXP needed. Approximately %s × %d.",
         "define": "LEVELUP_MATERIAL_LACK",
         "audio": "ui_tips03"
     },
@@ -6571,19 +6571,19 @@
     },
     "71207": {
         "id": 71207,
-        "desc": "Spend <color=#E78300>%s \u00d7%s</color>\n to purchase <color=#E78300>%s \u00d7%s</color>?",
+        "desc": "Spend <color=#E78300>%s ×%s</color>\n to purchase <color=#E78300>%s ×%s</color>?",
         "define": "SHOP_SECONDARY_CONFIRMATION",
         "audio": "ui_tips03"
     },
     "71208": {
         "id": 71208,
-        "desc": "Spend <color=#E78300>%s Shifted Stars</color>\n to redeem <color=#E78300>%s \u00d7%s</color>?",
+        "desc": "Spend <color=#E78300>%s Shifted Stars</color>\n to redeem <color=#E78300>%s ×%s</color>?",
         "define": "PAY_FOR_POWER",
         "audio": "ui_tips03"
     },
     "71209": {
         "id": 71209,
-        "desc": "You have enough Intel to transcend this character to \u03a9, purchase anyway?",
+        "desc": "You have enough Intel to transcend this character to Ω, purchase anyway?",
         "define": "SHOP_OMEGA_CONFIRMATION",
         "audio": "ui_tips02"
     },
@@ -6685,13 +6685,13 @@
     },
     "71226": {
         "id": 71226,
-        "desc": "Are you sure you want to spend <color=#E78300>%s \u00d7 %d</color> for <color=#E78300>%s \u00d7 %d</color>?\n(Item duplicates of <color=#E78300>%s</color> will be converted into <color=#E78300>%s \u00d7 %d</color>).",
+        "desc": "Are you sure you want to spend <color=#E78300>%s × %d</color> for <color=#E78300>%s × %d</color>?\n(Item duplicates of <color=#E78300>%s</color> will be converted into <color=#E78300>%s × %d</color>).",
         "define": "SHOP_SECONDARY_CONFIRMATION_1",
         "audio": "ui_tips03"
     },
     "71227": {
         "id": 71227,
-        "desc": "Are you sure you want to spend <color=#E78300> %s \u0445 %d</color> for <color=#E78300> %s \u0445 %d</color>?",
+        "desc": "Are you sure you want to spend <color=#E78300> %s х %d</color> for <color=#E78300> %s х %d</color>?",
         "define": "SHOP_SECONDARY_CONFIRMATION_2",
         "audio": "ui_tips03"
     },
@@ -6811,7 +6811,7 @@
     },
     "71304": {
         "id": 71304,
-        "desc": "Spend <color=#E78300>%s \u00d7%d</color> to perform %d Scan(s)?",
+        "desc": "Spend <color=#E78300>%s ×%d</color> to perform %d Scan(s)?",
         "define": "DRAW_TIMES",
         "audio": "ui_tips01"
     },
@@ -7069,7 +7069,7 @@
     },
     "71461": {
         "id": 71461,
-        "desc": "1. Positive Indicias will be refreshed every Saturday and Monday at 05:00 a.m. (UTC-7) to assist the Administrators in battles.\n2. One stage will be refreshed each day in Spirit Capture. Defeat the incoming enemy waves to gain points.\n3. Daily highest points will be recorded until 05:00 a.m. (UTC-7) of the next day. Points obtained after that will be recorded as points of the next day.\n4. The highest points of each day will be added up. After the sum reaches certain numbers, the Administrators can claim generous rewards.\n5. Play Spirit Capture on Saturdays and Sundays to gain points 1.2\u00d7.\n6. The sum of points will be removed every Monday morning at 05:00 (UTC-7). Don't forget to claim the rewards before that!",
+        "desc": "1. Positive Indicias will be refreshed every Saturday and Monday at 05:00 a.m. (UTC-7) to assist the Administrators in battles.\n2. One stage will be refreshed each day in Spirit Capture. Defeat the incoming enemy waves to gain points.\n3. Daily highest points will be recorded until 05:00 a.m. (UTC-7) of the next day. Points obtained after that will be recorded as points of the next day.\n4. The highest points of each day will be added up. After the sum reaches certain numbers, the Administrators can claim generous rewards.\n5. Play Spirit Capture on Saturdays and Sundays to gain points 1.2×.\n6. The sum of points will be removed every Monday morning at 05:00 (UTC-7). Don't forget to claim the rewards before that!",
         "define": "EQUIP_SEIZURE_INFO",
         "audio": "ui_tips03"
     },
@@ -7699,7 +7699,7 @@
     },
     "80031": {
         "id": 80031,
-        "desc": "Spend <color=#E78300>%s</color> \u00d7%s to purchase %s's <color=#E78300>%s</color> outfit?",
+        "desc": "Spend <color=#E78300>%s</color> ×%s to purchase %s's <color=#E78300>%s</color> outfit?",
         "define": "BUY_SKIN_TIPS",
         "audio": "ui_tips03"
     },
@@ -7723,7 +7723,7 @@
     },
     "80035": {
         "id": 80035,
-        "desc": "Spend <color=#E78300>%s \u00d7%s</color> to purchase %s's <color=#E78300>%s</color> outfit?",
+        "desc": "Spend <color=#E78300>%s ×%s</color> to purchase %s's <color=#E78300>%s</color> outfit?",
         "define": "BUY_SKIN_TIPS_TICKET",
         "audio": "ui_tips03"
     },
@@ -7735,7 +7735,7 @@
     },
     "80037": {
         "id": 80037,
-        "desc": "Spend <color=#E78300>%s \u00d7 %s</color> to purchase the bonus backdrop content <color=#E78300>%s</color> for %s's outfit?",
+        "desc": "Spend <color=#E78300>%s × %s</color> to purchase the bonus backdrop content <color=#E78300>%s</color> for %s's outfit?",
         "define": "BUY_SKIN_DLC_SINGLE_TIPS",
         "audio": "ui_tips03"
     },
@@ -8479,7 +8479,7 @@
     },
     "160023": {
         "id": 160023,
-        "desc": "Spend <color=#E78300>%s \u00d7%d</color> to refresh the Shop?",
+        "desc": "Spend <color=#E78300>%s ×%d</color> to refresh the Shop?",
         "define": "MATRIX_SHOP_REFRESH",
         "audio": "ui_tips03"
     },
@@ -10141,7 +10141,7 @@
     },
     "210161": {
         "id": 210161,
-        "desc": "Combo \u00d7%d",
+        "desc": "Combo ×%d",
         "define": "DORM_MG_BREAK_COMBO_COUNT",
         "audio": "ui_tips03"
     },
@@ -10633,13 +10633,13 @@
     },
     "210269": {
         "id": 210269,
-        "desc": "\uff08\uffe3\ufe36\uffe3\uff09",
+        "desc": "（￣︶￣）",
         "define": "DORM_PLAYER_GREETINGS_1",
         "audio": "ui_tips03"
     },
     "210270": {
         "id": 210270,
-        "desc": "(\uff5e\uffe3\u25bd\uffe3)\uff5e",
+        "desc": "(～￣▽￣)～",
         "define": "DORM_PLAYER_GREETINGS_2",
         "audio": "ui_tips03"
     },
@@ -10765,7 +10765,7 @@
     },
     "210292": {
         "id": 210292,
-        "desc": "Translating:\u3010game_tips$210292$desc$0\u3011",
+        "desc": "Translating:【game_tips$210292$desc$0】",
         "define": "CANTEEN_TASK_DISPATCH_CANCEL",
         "audio": "ui_tips02"
     },
@@ -11053,7 +11053,7 @@
     },
     "250023": {
         "id": 250023,
-        "desc": "Points Multiplier \u00d7%s",
+        "desc": "Points Multiplier ×%s",
         "define": "ACTIVITY_LIMIT_CALCULATION_POINT_RANK",
         "audio": "ui_tips03"
     },
@@ -11695,7 +11695,7 @@
     },
     "280062": {
         "id": 280062,
-        "desc": "Spend <color=#E78300>%s \u00d7%d</color> to raise the Contract level to <color=#E78300>%d</color>?",
+        "desc": "Spend <color=#E78300>%s ×%d</color> to raise the Contract level to <color=#E78300>%d</color>?",
         "define": "PASSPORT_LEVEL_BUY_CONTENT",
         "audio": "ui_tips03"
     },
@@ -11947,7 +11947,7 @@
     },
     "280104": {
         "id": 280104,
-        "desc": "Spend <color=#E78300>%s \u00d7%d</color> to refresh?",
+        "desc": "Spend <color=#E78300>%s ×%d</color> to refresh?",
         "define": "ENCHANTMENT_STAGE_REFRESH_CHECK",
         "audio": "ui_tips03"
     },
@@ -12187,7 +12187,7 @@
     },
     "280145": {
         "id": 280145,
-        "desc": "\u03a9 Recommended ",
+        "desc": "Ω Recommended ",
         "define": "TIP_RECOMMEND_1",
         "audio": "ui_tips03"
     },
@@ -12433,7 +12433,7 @@
     },
     "285015": {
         "id": 285015,
-        "desc": "Spend <color=#E78300>%s \u00d7%d</color> to refresh Hazard Zone Cleaning?",
+        "desc": "Spend <color=#E78300>%s ×%d</color> to refresh Hazard Zone Cleaning?",
         "define": "MYTHIC_REFRESH_CHECK",
         "audio": "ui_tips03"
     },
@@ -13843,7 +13843,7 @@
     },
     "349003": {
         "id": 349003,
-        "desc": "To encourage you to be more active, rookie, I've decided to open my private vault just for you. Keep this to yourself! \u2014Mimir. \n1. Target participants: All Admins at Lv. 30 or above.\n2. During the event, share your Recall Codes to recall other Admins. Both recalling and recalled Admins will earn fantastic rewards.\n3. Each Recall Code may be used up to 10 times.\n4. Recalled Admins must be at Lv. 30 or higher and their last login must be at least 14 days before event start.\n5. Returning Admins may use the Recall Code they're given on one server only and collect Recall Rewards once. They will not be able to use any Recall Codes on any other servers after.\n6. Returning Admins may only use Recall Codes shared by other Admins.\n7. Recalled Admins will receive Shifted Stars and Cat Paw Coins.\n8. Admins taking part in the event will receive Shifted Stars and Cat Paw Coins when they complete event missions. Cat Paw Coins may be exchanged for rewards at the Kittens' Black Market.",
+        "desc": "To encourage you to be more active, rookie, I've decided to open my private vault just for you. Keep this to yourself! —Mimir. \n1. Target participants: All Admins at Lv. 30 or above.\n2. During the event, share your Recall Codes to recall other Admins. Both recalling and recalled Admins will earn fantastic rewards.\n3. Each Recall Code may be used up to 10 times.\n4. Recalled Admins must be at Lv. 30 or higher and their last login must be at least 14 days before event start.\n5. Returning Admins may use the Recall Code they're given on one server only and collect Recall Rewards once. They will not be able to use any Recall Codes on any other servers after.\n6. Returning Admins may only use Recall Codes shared by other Admins.\n7. Recalled Admins will receive Shifted Stars and Cat Paw Coins.\n8. Admins taking part in the event will receive Shifted Stars and Cat Paw Coins when they complete event missions. Cat Paw Coins may be exchanged for rewards at the Kittens' Black Market.",
         "define": "RECALLED_DESC",
         "audio": "ui_tips03"
     },
@@ -13957,7 +13957,7 @@
     },
     "351008": {
         "id": 351008,
-        "desc": "1. Perilous Chasm contains different area stages in each tier. Complete all area stages to unlock the next tier.\n2. Once completed an area stage, the Modifier used will be locked and can no longer be used on other area stages of the same tier.\n3. After challenging a stage of \u03a9 area, you can choose to save the battle result or not. If saved, the target HP will be kept and the used Modifiers will start resting.\n4. Resting Modifiers cannot be used on stages of any following tiers.\n5. When an \u03a9 area stage is completed successfully, the Modifiers used will not start resting but will be locked, and can no longer be used on other area stages of the same tier.\n6. When an \u03a9 area stage is completed successfully, you will be scored based on the sum of the completion time of all teams used. The score for completing non-\u03a9 areas is fixed.\n7. Total tier score is the sum of all area scores within the tier.\n8. After each refresh of Perilous Chasm, all tiers will be reset, including Modifiers that are locked or resting.\n9. The highest tier cleared and the total tier score will be recorded on the ranking and only the highest record will be retained even if the tier has been reset.\n10. The tier or area you are currently challenging can be manually reset. The following tier unlocked due to the completion of the currunt tier will be locked again after the current tier is reset. There's an upper limit to the reset attempts, which will be restored to 1 at 05:00 (UTC-7) every day.",
+        "desc": "1. Perilous Chasm contains different area stages in each tier. Complete all area stages to unlock the next tier.\n2. Once completed an area stage, the Modifier used will be locked and can no longer be used on other area stages of the same tier.\n3. After challenging a stage of Ω area, you can choose to save the battle result or not. If saved, the target HP will be kept and the used Modifiers will start resting.\n4. Resting Modifiers cannot be used on stages of any following tiers.\n5. When an Ω area stage is completed successfully, the Modifiers used will not start resting but will be locked, and can no longer be used on other area stages of the same tier.\n6. When an Ω area stage is completed successfully, you will be scored based on the sum of the completion time of all teams used. The score for completing non-Ω areas is fixed.\n7. Total tier score is the sum of all area scores within the tier.\n8. After each refresh of Perilous Chasm, all tiers will be reset, including Modifiers that are locked or resting.\n9. The highest tier cleared and the total tier score will be recorded on the ranking and only the highest record will be retained even if the tier has been reset.\n10. The tier or area you are currently challenging can be manually reset. The following tier unlocked due to the completion of the currunt tier will be locked again after the current tier is reset. There's an upper limit to the reset attempts, which will be restored to 1 at 05:00 (UTC-7) every day.",
         "define": "ABYSS_DESC",
         "audio": "ui_tips03"
     },
@@ -14701,7 +14701,7 @@
     },
     "355017": {
         "id": 355017,
-        "desc": "\u00d7%d uses of %s",
+        "desc": "×%d uses of %s",
         "define": "ACTIVITY_LINKGAME_COST_TIPS",
         "audio": "ui_tips03"
     },
@@ -14731,7 +14731,7 @@
     },
     "355022": {
         "id": 355022,
-        "desc": "Combo \u00d7%d",
+        "desc": "Combo ×%d",
         "define": "ACTIVITY_LINKGAME_HIT",
         "audio": "ui_tips03"
     },
@@ -14983,13 +14983,13 @@
     },
     "355109": {
         "id": 355109,
-        "desc": "\"Business is really booming today, I'm fresh out of goldfish.\" the goldfish booth owners says to you. \"How about this\u2014if you bring me 100 goldfish, I'll let you play for free.\"",
+        "desc": "\"Business is really booming today, I'm fresh out of goldfish.\" the goldfish booth owners says to you. \"How about this—if you bring me 100 goldfish, I'll let you play for free.\"",
         "define": "ACTIVITY_KAGUTSUCHI_BATTLE_ENTRUST_DESCRIBE_1",
         "audio": "ui_tips01"
     },
     "355110": {
         "id": 355110,
-        "desc": "After what feels like ages in the forest, you finally catch the 100 goldfish and bring them back to the stall owner\u2014but the festival is already over.",
+        "desc": "After what feels like ages in the forest, you finally catch the 100 goldfish and bring them back to the stall owner—but the festival is already over.",
         "define": "ACTIVITY_KAGUTSUCHI_BATTLE_ENTRUST_COMPLETE_1",
         "audio": "ui_tips03"
     },
@@ -15187,7 +15187,7 @@
     },
     "358007": {
         "id": 358007,
-        "desc": "%s \u00d7%d",
+        "desc": "%s ×%d",
         "define": "EXPLORE_REWARD",
         "audio": "ui_tips03"
     },
@@ -15259,7 +15259,7 @@
     },
     "358019": {
         "id": 358019,
-        "desc": "\u00d7%d",
+        "desc": "×%d",
         "define": "EXPLORE_LEVEL_UP",
         "audio": "ui_tips03"
     },
@@ -15571,7 +15571,7 @@
     },
     "360010": {
         "id": 360010,
-        "desc": "1. Midsummer Playground now available! The Admin is organizing a water fight in the park for the Modifiers.\n2. Midsummer Playground has 6 rounds in total, with each round lasting 1 week.\n3. In Midsummer Playground, each round of battle is split into Solo Mode and Multiplayer Mode.\n4. In Solo Mode, two new characters will be added each round. You must select at least 1 Modifier to complete the water fight.\n5. In Multiplayer Mode, you can match with or invite other Admins to do water fights together.\n6. Multiplayer Mode is only available from 18:00\u201322:00 each day.\n7. For every water fight you complete in any mode, you will obtain an unequal number of Summer Miracles.\n8. Summer Miracles can be used in Popularity Ranking to vote for your favorite Mod.",
+        "desc": "1. Midsummer Playground now available! The Admin is organizing a water fight in the park for the Modifiers.\n2. Midsummer Playground has 6 rounds in total, with each round lasting 1 week.\n3. In Midsummer Playground, each round of battle is split into Solo Mode and Multiplayer Mode.\n4. In Solo Mode, two new characters will be added each round. You must select at least 1 Modifier to complete the water fight.\n5. In Multiplayer Mode, you can match with or invite other Admins to do water fights together.\n6. Multiplayer Mode is only available from 18:00–22:00 each day.\n7. For every water fight you complete in any mode, you will obtain an unequal number of Summer Miracles.\n8. Summer Miracles can be used in Popularity Ranking to vote for your favorite Mod.",
         "define": "ACTIVITY_WATER_DESC",
         "audio": "ui_tips03"
     },
@@ -16063,7 +16063,7 @@
     },
     "400004": {
         "id": 400004,
-        "desc": "Spend <color=#b48e20>%s</color> %s to buy <color=#b48e20>%s \u00d7%s</color>?",
+        "desc": "Spend <color=#b48e20>%s</color> %s to buy <color=#b48e20>%s ×%s</color>?",
         "define": "GENGCHEN_SWIMWEAR_TICKET_TIPS",
         "audio": "ui_tips03"
     },
@@ -16255,7 +16255,7 @@
     },
     "410006": {
         "id": 410006,
-        "desc": "1. The Ability Boost Test has three separate zones. You may choose to undertake the challenge in any of them.\n2. In Ability Boost Test, the \"Current Test Character\" must be deployed on the team.\n3. During an Ability Boost Test, all Mods' stats will be locked, and the Transcendence Level of Mods and Functors on the team will be adjusted based on the zone selected. If you would like to change a Mod's Access Key, Aether Code, Sigil or other equipment, please do this through: Main Screen - Modifiers.\n\tSS Zone: All Mods' Transcendence Level: SS. All Functors' Transcendence Level: Tier 1;\n\tSSS Zone: All Mods' Transcendence Level: SSS. All Functors' Transcendence Level: Tier 3.\n\t\u03a9 Zone: All Mods' Transcendence Level: \u03a9. All Functors' Transcendence Level: Tier 5\n4. Upon completion of a challenge, players will be ranked based on the time spent to clear the stage.",
+        "desc": "1. The Ability Boost Test has three separate zones. You may choose to undertake the challenge in any of them.\n2. In Ability Boost Test, the \"Current Test Character\" must be deployed on the team.\n3. During an Ability Boost Test, all Mods' stats will be locked, and the Transcendence Level of Mods and Functors on the team will be adjusted based on the zone selected. If you would like to change a Mod's Access Key, Aether Code, Sigil or other equipment, please do this through: Main Screen - Modifiers.\n\tSS Zone: All Mods' Transcendence Level: SS. All Functors' Transcendence Level: Tier 1;\n\tSSS Zone: All Mods' Transcendence Level: SSS. All Functors' Transcendence Level: Tier 3.\n\tΩ Zone: All Mods' Transcendence Level: Ω. All Functors' Transcendence Level: Tier 5\n4. Upon completion of a challenge, players will be ranked based on the time spent to clear the stage.",
         "define": "TEST_CHALLENGE_DESCRIBE",
         "audio": "ui_tips03"
     },
@@ -16405,7 +16405,7 @@
     },
     "420013": {
         "id": 420013,
-        "desc": "Please enter a share message (0\u201350 characters)",
+        "desc": "Please enter a share message (0–50 characters)",
         "define": "MID_AUTUMN_FESTIVAL_PARTY_SHARE_TIPS",
         "audio": "ui_tips03"
     },
@@ -16429,7 +16429,7 @@
     },
     "420017": {
         "id": 420017,
-        "desc": "Have \u00d7%d",
+        "desc": "Have ×%d",
         "define": "MID_AUTUMN_FESTIVAL_MOONCAKE_QUANTITY",
         "audio": "ui_tips03"
     },
@@ -16441,7 +16441,7 @@
     },
     "420019": {
         "id": 420019,
-        "desc": "Spend mooncake(s) \u00d7%d",
+        "desc": "Spend mooncake(s) ×%d",
         "define": "MID_AUTUMN_FESTIVAL_PARTY_CONSUME_1",
         "audio": "ui_tips03"
     },
@@ -16663,7 +16663,7 @@
     },
     "430012": {
         "id": 430012,
-        "desc": "It has always existed, quietly growing in the dark. It feeds on fear and waits for the lost to fall.\nAnd all you need to do is to let go of all distracting thoughts, take a long look at yourself, and then\u2014transcend.",
+        "desc": "It has always existed, quietly growing in the dark. It feeds on fear and waits for the lost to fall.\nAnd all you need to do is to let go of all distracting thoughts, take a long look at yourself, and then—transcend.",
         "define": "SOLO_HEART_DEMON_ENTER_DESCRIBE",
         "audio": "ui_tips03"
     },
@@ -18505,7 +18505,7 @@
     },
     "442001": {
         "id": 442001,
-        "desc": "1. Once the event has started, Administrators can match with other Admins for multiplayer games during a specified period of time.\n2. Admins can select a Mod to play the game together.\n3. Answer the questions by moving the Mod into the area with the correct answer.\n4. Each round contains 15 questions, and each correct answer gains you points. Try to give correct answers in a row to gain bonus points, but be careful\u2014you will be punished for wrong answers!",
+        "desc": "1. Once the event has started, Administrators can match with other Admins for multiplayer games during a specified period of time.\n2. Admins can select a Mod to play the game together.\n3. Answer the questions by moving the Mod into the area with the correct answer.\n4. Each round contains 15 questions, and each correct answer gains you points. Try to give correct answers in a row to gain bonus points, but be careful—you will be punished for wrong answers!",
         "define": "ACTIVITY_QUIZ_DESCRIBE",
         "audio": "ui_tips03"
     },
@@ -19711,7 +19711,7 @@
     },
     "451005": {
         "id": 451005,
-        "desc": "The Custom Scan event has started. During the event, Administrators can make the scan rates for one selected S-Grade scan <color=#E78300>way higher</color>! Choose from <color=#E78300>Early Sakura - Ookuninushi</color>, <color=#E78300>Jin-ei - Kuninotokotachi</color>, <color=#E78300>Ryugiri - Kagutsuchi</color>, <color=#E78300>Arctic Abyss - Poseidon</color>, <color=#E78300>R\u0101hu - Asura</color>, <color=#E78300>AblaZe - Tyr</color>, <color=#E78300>Flowfly Mist - Shu</color>, <color=#E78300>Backflowing - Oceanus</color>, <color=#E78300>Jackal - Anubis</color>, <color=#E78300>Countertide - Leviathan</color>, <color=#E78300>Shinri - Tsukuyomi</color>, <color=#E78300>Phantasmal Dawn - Hera</color>, <color=#E78300>Chord of Convallaria - Athena</color>, <color=#E78300>Puppet Master - Hades</color>, and <color=#E78300>Rage Serpent - Marduk</color>.\nDuring the Custom Scan event, Administrators can switch Rate-UP Modifiers up to <color=#E78300>5</color> times. Switching Rate-UP Modifiers will not reset the number of attempts already made.\n\nDuring Custom Scan event scans, an <color=#E78300>A-Grade</color> or higher Modifier is guaranteed within every <color=#E78300>10</color> scans, and an <color=#E78300>S-Grade</color> Modifier is guaranteed within every <color=#E78300>70</color> scans. When an S-Grade Modifier is obtained, the count for that guarantee is reset. There is a <color=#E78300>50%</color> chance the S-Grade Modifier will be the Rate-UP S-Grade Modifier for this event. If the S-Grade Modifier obtained is not the Rate-UP Modifier for this event, you are <color=#E78300>guaranteed</color> to get the current Rate-UP S-Grade Modifier within the next 70 scans.\n\nRepeats are automatically replaced with a certain amount of <color=#E78300>Intel</color> on that Modifier. \n\nOn acquiring an S-Grade Modifier, 100 <color=#B67FE3>Shining Imprints</color> are also granted, with 20 <color=#B67FE3>Shining Imprints</color> for an A-Grade Modifier and 10 <color=#B67FE3>Shining Imprints</color> for a B-Grade Modifier. A 3-Star Functor grants 10 <color=#B67FE3>Shining Imprints</color>.\n\nCustom Scan event scans are classed as Precise Scans and will be counted accordingly, with all Premium Precise Scans and Precise Scans sharing the guarantees.",
+        "desc": "The Custom Scan event has started. During the event, Administrators can make the scan rates for one selected S-Grade scan <color=#E78300>way higher</color>! Choose from <color=#E78300>Early Sakura - Ookuninushi</color>, <color=#E78300>Jin-ei - Kuninotokotachi</color>, <color=#E78300>Ryugiri - Kagutsuchi</color>, <color=#E78300>Arctic Abyss - Poseidon</color>, <color=#E78300>Rāhu - Asura</color>, <color=#E78300>AblaZe - Tyr</color>, <color=#E78300>Flowfly Mist - Shu</color>, <color=#E78300>Backflowing - Oceanus</color>, <color=#E78300>Jackal - Anubis</color>, <color=#E78300>Countertide - Leviathan</color>, <color=#E78300>Shinri - Tsukuyomi</color>, <color=#E78300>Phantasmal Dawn - Hera</color>, <color=#E78300>Chord of Convallaria - Athena</color>, <color=#E78300>Puppet Master - Hades</color>, and <color=#E78300>Rage Serpent - Marduk</color>.\nDuring the Custom Scan event, Administrators can switch Rate-UP Modifiers up to <color=#E78300>5</color> times. Switching Rate-UP Modifiers will not reset the number of attempts already made.\n\nDuring Custom Scan event scans, an <color=#E78300>A-Grade</color> or higher Modifier is guaranteed within every <color=#E78300>10</color> scans, and an <color=#E78300>S-Grade</color> Modifier is guaranteed within every <color=#E78300>70</color> scans. When an S-Grade Modifier is obtained, the count for that guarantee is reset. There is a <color=#E78300>50%</color> chance the S-Grade Modifier will be the Rate-UP S-Grade Modifier for this event. If the S-Grade Modifier obtained is not the Rate-UP Modifier for this event, you are <color=#E78300>guaranteed</color> to get the current Rate-UP S-Grade Modifier within the next 70 scans.\n\nRepeats are automatically replaced with a certain amount of <color=#E78300>Intel</color> on that Modifier. \n\nOn acquiring an S-Grade Modifier, 100 <color=#B67FE3>Shining Imprints</color> are also granted, with 20 <color=#B67FE3>Shining Imprints</color> for an A-Grade Modifier and 10 <color=#B67FE3>Shining Imprints</color> for a B-Grade Modifier. A 3-Star Functor grants 10 <color=#B67FE3>Shining Imprints</color>.\n\nCustom Scan event scans are classed as Precise Scans and will be counted accordingly, with all Premium Precise Scans and Precise Scans sharing the guarantees.",
         "define": "DRAW_POOL_DESC_TEMP_FIXED_5",
         "audio": "ui_tips02"
     },
@@ -19759,13 +19759,13 @@
     },
     "451013": {
         "id": 451013,
-        "desc": "The Custom Scan is now open to players. During the event, players have a <color=#E78300>much higher chance</color> of drawing one of the following S-Grade Modifiers of their choice: <color=#E78300>Nine-Tailed Guardian - Luwu</color>, <color=#E78300>Madoibi Scorched - Kagutsuchi</color>, <color=#E78300>Flower of Yomi - Izanami</color>, <color=#E78300>So-ei - Kuramitsuha</color>, <color=#E78300>Azure Lord - Mengzhang</color>, <color=#E78300>Omnisight - Luliang</color>, <color=#E78300>Tenblaze - Jinwu</color>, <color=#E78300>Winged Gardener - Yingzhao</color>, <color=#E78300>Untainted Heart - Lingguang</color>, <color=#E78300>TaiYi - Gengchen</color>, <color=#E78300>Living Soul - Osiris</color>, <color=#E78300>Darkstar - Hel</color>, <color=#E78300>Roaring Thunder - Thor</color>, <color=#E78300>Firebrand - Tyr</color>, <color=#E78300>Waverender - Skadi</color>, <color=#E78300>Jackal - Anubis</color>, <color=#E78300>Phantasmal Dawn - Hera</color>, <color=#E78300>Flowfly Mist - Shu</color>, <color=#E78300>Early Sakura - Ookuninushi</color>, <color=#E78300>Jin-ei - Kuninotokotachi</color>, <color=#E78300>R\u0101hu - Asura</color>, <color=#E78300>Ryugiri - Kagutsuchi</color>, <color=#E78300>Arctic Abyss - Poseidon</color>, <color=#E78300>AblaZe - Tyr</color>, <color=#E78300>Countertide - Leviathan</color>, <color=#E78300>Puppet Master - Hades</color>, <color=#E78300>Chord of Convallaria - Athena</color>, <color=#E78300>Shinri - Tsukuyomi</color>, <color=#E78300>Backflowing - Oceanus</color>, and <color=#E78300>Rage Serpent - Marduk</color>.\nFor the Custom Scan, the player may switch to another Rate-UP Modifier up to <color=#E78300>5</color> times during the event period. Switching to another Rate-UP Modifier does not reset the scan count.\n\nIn the Custom Scan event, an <color=#E78300>A</color>-Grade or above Modifier is guaranteed every <color=#E78300>10</color> scans, and an <color=#E78300>S</color>-Grade Modifier is guaranteed every <color=#E78300>70</color> scans. When an S-Grade Modifier is obtained, the count for that guarantee is reset. When you get an S-Grade Modifier, there is a <color=#E78300>50%</color> chance it will be the event Rate-UP Modifier. If the S-Grade Modifier obtained is not the Rate-UP Modifier for this event, the next S-Grade Modifier obtained within the next 70 scans <color=#E78300>will</color> be.\n\nRepeats are automatically replaced with a certain amount of <color=#E78300>Intel</color> on that Modifier.\n\nOn acquiring an S-Grade Modifier, 100 <color=#B67FE3>Shining Imprints</color> are also granted, with 20 <color=#B67FE3>Shining Imprints</color> for an A-Grade Modifier and 10 <color=#B67FE3>Shining Imprints</color> for a B-Grade Modifier. A 3-Star Functor grants 10 <color=#B67FE3>Shining Imprints</color>.\n\nCustom Scans are classed as Premium Precise Scans and will be counted accordingly, with all Premium Precise Scans, Precise Scans, and Encore Precise Scans sharing the guarantees.",
+        "desc": "The Custom Scan is now open to players. During the event, players have a <color=#E78300>much higher chance</color> of drawing one of the following S-Grade Modifiers of their choice: <color=#E78300>Nine-Tailed Guardian - Luwu</color>, <color=#E78300>Madoibi Scorched - Kagutsuchi</color>, <color=#E78300>Flower of Yomi - Izanami</color>, <color=#E78300>So-ei - Kuramitsuha</color>, <color=#E78300>Azure Lord - Mengzhang</color>, <color=#E78300>Omnisight - Luliang</color>, <color=#E78300>Tenblaze - Jinwu</color>, <color=#E78300>Winged Gardener - Yingzhao</color>, <color=#E78300>Untainted Heart - Lingguang</color>, <color=#E78300>TaiYi - Gengchen</color>, <color=#E78300>Living Soul - Osiris</color>, <color=#E78300>Darkstar - Hel</color>, <color=#E78300>Roaring Thunder - Thor</color>, <color=#E78300>Firebrand - Tyr</color>, <color=#E78300>Waverender - Skadi</color>, <color=#E78300>Jackal - Anubis</color>, <color=#E78300>Phantasmal Dawn - Hera</color>, <color=#E78300>Flowfly Mist - Shu</color>, <color=#E78300>Early Sakura - Ookuninushi</color>, <color=#E78300>Jin-ei - Kuninotokotachi</color>, <color=#E78300>Rāhu - Asura</color>, <color=#E78300>Ryugiri - Kagutsuchi</color>, <color=#E78300>Arctic Abyss - Poseidon</color>, <color=#E78300>AblaZe - Tyr</color>, <color=#E78300>Countertide - Leviathan</color>, <color=#E78300>Puppet Master - Hades</color>, <color=#E78300>Chord of Convallaria - Athena</color>, <color=#E78300>Shinri - Tsukuyomi</color>, <color=#E78300>Backflowing - Oceanus</color>, and <color=#E78300>Rage Serpent - Marduk</color>.\nFor the Custom Scan, the player may switch to another Rate-UP Modifier up to <color=#E78300>5</color> times during the event period. Switching to another Rate-UP Modifier does not reset the scan count.\n\nIn the Custom Scan event, an <color=#E78300>A</color>-Grade or above Modifier is guaranteed every <color=#E78300>10</color> scans, and an <color=#E78300>S</color>-Grade Modifier is guaranteed every <color=#E78300>70</color> scans. When an S-Grade Modifier is obtained, the count for that guarantee is reset. When you get an S-Grade Modifier, there is a <color=#E78300>50%</color> chance it will be the event Rate-UP Modifier. If the S-Grade Modifier obtained is not the Rate-UP Modifier for this event, the next S-Grade Modifier obtained within the next 70 scans <color=#E78300>will</color> be.\n\nRepeats are automatically replaced with a certain amount of <color=#E78300>Intel</color> on that Modifier.\n\nOn acquiring an S-Grade Modifier, 100 <color=#B67FE3>Shining Imprints</color> are also granted, with 20 <color=#B67FE3>Shining Imprints</color> for an A-Grade Modifier and 10 <color=#B67FE3>Shining Imprints</color> for a B-Grade Modifier. A 3-Star Functor grants 10 <color=#B67FE3>Shining Imprints</color>.\n\nCustom Scans are classed as Premium Precise Scans and will be counted accordingly, with all Premium Precise Scans, Precise Scans, and Encore Precise Scans sharing the guarantees.",
         "define": "DRAW_POOL_DESC_TEMP_FIXED_13",
         "audio": "ui_tips02"
     },
     "451014": {
         "id": 451014,
-        "desc": "The Custom Standard Scan event has started. During the event, Administrators can make the scan rates for one selected S-Grade scan <color=#FF9500>way higher</color>! Choose from <color=#FF9500>Early Sakura - Ookuninushi</color>, <color=#FF9500>Jin-ei - Kuninotokotachi</color>, <color=#FF9500>Ryugiri - Kagutsuchi</color>, <color=#FF9500>Arctic Abyss - Poseidon</color>, <color=#FF9500>R\u0101hu - Asura</color>, <color=#FF9500>AblaZe - Tyr</color>, <color=#FF9500>Flowfly Mist - Shu</color>, <color=#FF9500>Backflowing - Oceanus</color>, <color=#FF9500>Jackal - Anubis</color>, <color=#FF9500>Countertide - Leviathan</color>, <color=#FF9500>Azure Lord - Mengzhang</color>, <color=#FF9500>Omnisight - Luliang</color>, <color=#FF9500>Tenblaze - Jinwu</color>, <color=#FF9500>Shinri - Tsukuyomi</color>, <color=#FF9500>Living Soul - Osiris</color>, <color=#FF9500>Darkstar - Hel</color>, <color=#FF9500>Phantasmal Dawn - Hera</color>, <color=#FF9500>Waverender - Skadi</color>, <color=#FF9500>Puppet Master - Hades</color>, <color=#FF9500>Chord of Convallaria - Athena</color>, <color=#FF9500>Rage Serpent - Marduk</color>, <color=#FF9500>Roaring Thunder - Thor</color>, and <color=#FF9500>Firebrand - Tyr</color>.\nDuring the Custom Scan event, Administrators can switch Rate-UP Modifiers up to <color=#FF9500>5</color> times. Switching Rate-UP Modifiers will not reset the number of attempts already made.\n\nDuring Custom Standard Scan event scans, an <color=#E78300>A-Grade</color> or higher Modifier is guaranteed within every <color=#E78300>10</color> scans, and an <color=#E78300>S-Grade</color> Modifier is guaranteed within every <color=#E78300>70</color> scans. When an S-Grade Modifier is obtained, the count for that guarantee is reset. There is a <color=#E78300>50%</color> chance the S-Grade Modifier will be the Rate-UP S-Grade Modifier for this event. If the S-Grade Modifier obtained is not the Rate-UP Modifier for this event, the next S-Grade Modifier obtained <color=#E78300>will</color> be. \n\nRepeats are automatically replaced with a certain amount of <color=#E78300>Intel</color> on that Modifier. \n\nOn acquiring an S-Grade Modifier, 100 <color=#B67FE3>Shining Imprints</color> are also granted, with 20 <color=#B67FE3>Shining Imprints</color> for an A-Grade Modifier and 10 <color=#B67FE3>Shining Imprints</color> for a B-Grade Modifier. A 3-Star Functor grants 10 <color=#B67FE3>Shining Imprints</color>.\n\nCustom Standard Scans are classed as Regular Scan and will be counted accordingly, with all Regular Scans sharing the guarantees.",
+        "desc": "The Custom Standard Scan event has started. During the event, Administrators can make the scan rates for one selected S-Grade scan <color=#FF9500>way higher</color>! Choose from <color=#FF9500>Early Sakura - Ookuninushi</color>, <color=#FF9500>Jin-ei - Kuninotokotachi</color>, <color=#FF9500>Ryugiri - Kagutsuchi</color>, <color=#FF9500>Arctic Abyss - Poseidon</color>, <color=#FF9500>Rāhu - Asura</color>, <color=#FF9500>AblaZe - Tyr</color>, <color=#FF9500>Flowfly Mist - Shu</color>, <color=#FF9500>Backflowing - Oceanus</color>, <color=#FF9500>Jackal - Anubis</color>, <color=#FF9500>Countertide - Leviathan</color>, <color=#FF9500>Azure Lord - Mengzhang</color>, <color=#FF9500>Omnisight - Luliang</color>, <color=#FF9500>Tenblaze - Jinwu</color>, <color=#FF9500>Shinri - Tsukuyomi</color>, <color=#FF9500>Living Soul - Osiris</color>, <color=#FF9500>Darkstar - Hel</color>, <color=#FF9500>Phantasmal Dawn - Hera</color>, <color=#FF9500>Waverender - Skadi</color>, <color=#FF9500>Puppet Master - Hades</color>, <color=#FF9500>Chord of Convallaria - Athena</color>, <color=#FF9500>Rage Serpent - Marduk</color>, <color=#FF9500>Roaring Thunder - Thor</color>, and <color=#FF9500>Firebrand - Tyr</color>.\nDuring the Custom Scan event, Administrators can switch Rate-UP Modifiers up to <color=#FF9500>5</color> times. Switching Rate-UP Modifiers will not reset the number of attempts already made.\n\nDuring Custom Standard Scan event scans, an <color=#E78300>A-Grade</color> or higher Modifier is guaranteed within every <color=#E78300>10</color> scans, and an <color=#E78300>S-Grade</color> Modifier is guaranteed within every <color=#E78300>70</color> scans. When an S-Grade Modifier is obtained, the count for that guarantee is reset. There is a <color=#E78300>50%</color> chance the S-Grade Modifier will be the Rate-UP S-Grade Modifier for this event. If the S-Grade Modifier obtained is not the Rate-UP Modifier for this event, the next S-Grade Modifier obtained <color=#E78300>will</color> be. \n\nRepeats are automatically replaced with a certain amount of <color=#E78300>Intel</color> on that Modifier. \n\nOn acquiring an S-Grade Modifier, 100 <color=#B67FE3>Shining Imprints</color> are also granted, with 20 <color=#B67FE3>Shining Imprints</color> for an A-Grade Modifier and 10 <color=#B67FE3>Shining Imprints</color> for a B-Grade Modifier. A 3-Star Functor grants 10 <color=#B67FE3>Shining Imprints</color>.\n\nCustom Standard Scans are classed as Regular Scan and will be counted accordingly, with all Regular Scans sharing the guarantees.",
         "define": "DRAW_POOL_DESC_TEMP_FIXED_14",
         "audio": "ui_tips02"
     },
@@ -20323,7 +20323,7 @@
     },
     "459001": {
         "id": 459001,
-        "desc": "1. During the event, players may sign in once a day to obtain rewards such as Gacha Tokens.\n2. Extra sign-ins are available starting 6 days before the end of the event at Shifted Star \u00d7100 each.\n3. Before pulling the gacha, the player must first specify the target Modifier gacha and spend the requisite number of Gacha Tokens to pull.\n4. Each time the player draws a gacha, apart from Modifier gachas that have already been drawn, other random Modifier gachas will also run out. The player will not be able to draw any of these gachas either.\n5. During the event, players may claim any one of the Modifier gachas they have already drawn, after which they won't be able to draw again.\n6. At the end of the event, a random Modifier gacha from the drawn ones left unclaimed will also be gifted to the player by mail.",
+        "desc": "1. During the event, players may sign in once a day to obtain rewards such as Gacha Tokens.\n2. Extra sign-ins are available starting 6 days before the end of the event at Shifted Star ×100 each.\n3. Before pulling the gacha, the player must first specify the target Modifier gacha and spend the requisite number of Gacha Tokens to pull.\n4. Each time the player draws a gacha, apart from Modifier gachas that have already been drawn, other random Modifier gachas will also run out. The player will not be able to draw any of these gachas either.\n5. During the event, players may claim any one of the Modifier gachas they have already drawn, after which they won't be able to draw again.\n6. At the end of the event, a random Modifier gacha from the drawn ones left unclaimed will also be gifted to the player by mail.",
         "define": "ACTIVITY_OPTIONAL_RANDOM_RULE",
         "audio": "ui_tips03"
     },
@@ -20401,7 +20401,7 @@
     },
     "459014": {
         "id": 459014,
-        "desc": "Spend <color=#E78300>%s \u00d7%d</color> for an extra sign-in?",
+        "desc": "Spend <color=#E78300>%s ×%d</color> for an extra sign-in?",
         "define": "ACTIVITY_OPTIONAL_RANDOM_SIGN_COST",
         "audio": "ui_tips03"
     },
@@ -20923,13 +20923,13 @@
     },
     "463001": {
         "id": 463001,
-        "desc": "Regression Test \u03b1",
+        "desc": "Regression Test α",
         "define": "CORE_VERIFICATION_BOSS_1",
         "audio": "ui_tips02"
     },
     "463002": {
         "id": 463002,
-        "desc": "Regression Test \u03b2",
+        "desc": "Regression Test β",
         "define": "CORE_VERIFICATION_BOSS_2",
         "audio": "ui_tips02"
     },
@@ -20983,19 +20983,19 @@
     },
     "463011": {
         "id": 463011,
-        "desc": "Regression Test \u03b1",
+        "desc": "Regression Test α",
         "define": "CORE_VERIFICATION_BOSS_DES_1",
         "audio": "ui_tips03"
     },
     "463012": {
         "id": 463012,
-        "desc": "Regression Test \u03b2",
+        "desc": "Regression Test β",
         "define": "CORE_VERIFICATION_BOSS_DES_2",
         "audio": "ui_tips03"
     },
     "463013": {
         "id": 463013,
-        "desc": "Complete Regression Test \u03b1 and Regression Test \u03b2 on Difficulty 8 to unlock.",
+        "desc": "Complete Regression Test α and Regression Test β on Difficulty 8 to unlock.",
         "define": "CORE_VERIFICATION_TAB_DES_3",
         "audio": "ui_tips02"
     },
@@ -21019,7 +21019,7 @@
     },
     "463109": {
         "id": 463109,
-        "desc": "Oct. 29 (after maintenance) \u2014 Dec. 24, 04:59\nComplete Iterative Testing challenge weekly to get Chip Expansion as extra rewards.\n\nParticipating in any difficulty level of Iterative Testing stages will grant Chip Expansion *600\n(Material stats are the same as the current Iterative Testing \u03b1 stage rewards)\nClearing Iterative Testing \u03b1 stages and \u03b2 stages at difficulty level 3 or higher will grant extra Chip Expansion *200\n(Material stats are the same as the current Iterative Testing \u03b1 stage rewards)\nEvent rewards will be sent via mail at 05:00 on the day the weekly Iterative Testing ends.",
+        "desc": "Oct. 29 (after maintenance) — Dec. 24, 04:59\nComplete Iterative Testing challenge weekly to get Chip Expansion as extra rewards.\n\nParticipating in any difficulty level of Iterative Testing stages will grant Chip Expansion *600\n(Material stats are the same as the current Iterative Testing α stage rewards)\nClearing Iterative Testing α stages and β stages at difficulty level 3 or higher will grant extra Chip Expansion *200\n(Material stats are the same as the current Iterative Testing α stage rewards)\nEvent rewards will be sent via mail at 05:00 on the day the weekly Iterative Testing ends.",
         "define": "CORE_VERIFICATION_CHALLENGE",
         "audio": "ui_tips02"
     },
@@ -21169,13 +21169,13 @@
     },
     "465024": {
         "id": 465024,
-        "desc": "Customer %s purchased <color=#297DE0>%s \u00d7 %s</color>. Their purchase plan is complete!",
+        "desc": "Customer %s purchased <color=#297DE0>%s × %s</color>. Their purchase plan is complete!",
         "define": "SIM_BUSINESS_GUEST_COMPLETE_LOG",
         "audio": "ui_tips02"
     },
     "465025": {
         "id": 465025,
-        "desc": "Customer %s purchased <color=#297DE0>%s \u00d7 %s</color>. They still need <color=#297DE0>%s</color> more of the same type.",
+        "desc": "Customer %s purchased <color=#297DE0>%s × %s</color>. They still need <color=#297DE0>%s</color> more of the same type.",
         "define": "SIM_BUSINESS_GUEST_BUY_LOG",
         "audio": "ui_tips02"
     },
@@ -21613,7 +21613,7 @@
     },
     "472102": {
         "id": 472102,
-        "desc": "1. Midsummer Playground now available! The Admin is organizing a water fight in the park for the Modifiers.\n2. Midsummer Playground has 6 rounds in total, with each round lasting 1 week.\n3. In Midsummer Playground, each round of battle is split into Solo Mode and Multiplayer Mode.\n4. In Solo Mode, you must select 1 Modifier to complete the water fight alone.\n5. In Multiplayer Mode, you can match with or invite other Admins to do water fights together.\n6. Multiplayer Mode is only available from 18:00\u201322:00 each day.\n7. For every water fight you complete in any mode, you will obtain an unequal number of Summer Miracles.\n8. Summer Miracles can be used in Popularity Ranking to vote for your favorite Mod.",
+        "desc": "1. Midsummer Playground now available! The Admin is organizing a water fight in the park for the Modifiers.\n2. Midsummer Playground has 6 rounds in total, with each round lasting 1 week.\n3. In Midsummer Playground, each round of battle is split into Solo Mode and Multiplayer Mode.\n4. In Solo Mode, you must select 1 Modifier to complete the water fight alone.\n5. In Multiplayer Mode, you can match with or invite other Admins to do water fights together.\n6. Multiplayer Mode is only available from 18:00–22:00 each day.\n7. For every water fight you complete in any mode, you will obtain an unequal number of Summer Miracles.\n8. Summer Miracles can be used in Popularity Ranking to vote for your favorite Mod.",
         "define": "ACTIVITY_SWIMSUIT_EXPLAIN_WATER",
         "audio": "ui_tips02"
     },
@@ -22075,7 +22075,7 @@
     },
     "477004": {
         "id": 477004,
-        "desc": "Select %s \u00d7 <color=#E8AE5A>%s</color> to discard.",
+        "desc": "Select %s × <color=#E8AE5A>%s</color> to discard.",
         "define": "ROGUE_TEAM_SELECT_ITEM",
         "audio": "ui_tips02"
     },
@@ -22333,7 +22333,7 @@
     },
     "477047": {
         "id": 477047,
-        "desc": "Spend Shimmer Crystals \u00d7 %s to purchase %s.",
+        "desc": "Spend Shimmer Crystals × %s to purchase %s.",
         "define": "ROGUE_TEAM_SHOPING_TIPS",
         "audio": "ui_tips02"
     },
