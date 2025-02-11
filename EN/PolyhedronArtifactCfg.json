@@ -1259,6 +1259,66 @@
         "id": 106805,
         "icon": "1068"
     },
+    "128401": {
+        "note": "Using Slash of Glare allows you to follow up with Slash of Glare again. Every use expends 5 Daybreak, but Daybreak is not expended when in the Verdict state.",
+        "name": "Apple juice",
+        "max_level": 1,
+        "affix_id": 70211,
+        "affix_target": 3,
+        "story": "A green drink with tons of sugar might be more appropriately called green apple juice.",
+        "sub_type": 3007,
+        "exclusive_hero_id": 1284,
+        "id": 128401,
+        "icon": "1284"
+    },
+    "128402": {
+        "note": "When in the Verdict state, the range of normal attacks is increased, ATK is increased, and hitting with normal attacks grants Daybreak.",
+        "name": "Molander Hazelnut Phyllo",
+        "max_level": 1,
+        "affix_id": 70212,
+        "affix_target": 3,
+        "story": "The signature dessert of Domini's Restaurant, sold in limited daily amounts due to its complicated and tiresome handmade production. Verthandi has long tried to secure a reservation for a batch, but to no avail.",
+        "sub_type": 3007,
+        "exclusive_hero_id": 1284,
+        "id": 128402,
+        "icon": "1284"
+    },
+    "128403": {
+        "note": "Grants an additional attack when Flash and Destiny hit, dealing extra damage, while also granting 20 Daybreak and 40 Divine Grace when attacks hit.\nGrants an additional attack when Brilliance and Choice hit, dealing extra damage. When using Brilliance and Choice, the corresponding skill CD is reduced by 3s.",
+        "name": "Repaired Ema",
+        "max_level": 1,
+        "affix_id": 70213,
+        "affix_target": 3,
+        "story": "Once broken in two, the plaque shows signs of having undergone repairs.",
+        "sub_type": 3007,
+        "exclusive_hero_id": 1284,
+        "id": 128403,
+        "icon": "1284"
+    },
+    "128404": {
+        "note": "Every successful block will trigger an additional attack. Effect can trigger only once every 0.1s.",
+        "name": "Coastal Shell",
+        "max_level": 1,
+        "affix_id": 70214,
+        "affix_target": 3,
+        "story": "Crimson colored shells are the brightest memories of that night on the beach, the sky so full of stars.",
+        "sub_type": 3007,
+        "exclusive_hero_id": 1284,
+        "id": 128404,
+        "icon": "1284"
+    },
+    "128405": {
+        "note": "Restores Daybreak to full when entering battle, and grants 20 Daybreak every time an enemy is defeated.",
+        "name": "Crystal Cloud Dragons",
+        "max_level": 1,
+        "affix_id": 70215,
+        "affix_target": 3,
+        "story": "She has chosen her path.",
+        "sub_type": 3007,
+        "exclusive_hero_id": 1284,
+        "id": 128405,
+        "icon": "1284"
+    },
     "70501": {
         "note": "Deals additional DMG once whenever a normal attack hits.",
         "name": "Ancient Clock",
@@ -2980,7 +3040,12 @@
             106802,
             106803,
             106804,
-            106805
+            106805,
+            128401,
+            128402,
+            128403,
+            128404,
+            128405
         ]
     },
     "get_id_list_by_exclusive_hero_id": {
@@ -3108,6 +3173,13 @@
             70865,
             70866,
             70867
+        ],
+        "1284": [
+            128401,
+            128402,
+            128403,
+            128404,
+            128405
         ],
         "1068": [
             106801,
@@ -3363,6 +3435,11 @@
         106803,
         106804,
         106805,
+        128401,
+        128402,
+        128403,
+        128404,
+        128405,
         70501,
         70502,
         70503,

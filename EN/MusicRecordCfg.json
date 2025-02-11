@@ -2940,6 +2940,215 @@
         "initAISAC": "",
         "detail": "Composer: LousikAEy"
     },
+    "240": {
+        "cueName": "bgm_activity_3_3_2024summer_ui",
+        "authorName": "CoyDe",
+        "ableBGM": 1,
+        "album": 19,
+        "cuesheet": "bgm_activity_3_3_2024summer_ui",
+        "musicName": "Summer Revelry",
+        "id": 240,
+        "awbName": "bgm_activity_3_3_2024summer_ui",
+        "initAISAC": "",
+        "detail": "Sunshine! The beach! Music! Shake off all your worries and sweat away your cares as you dance in the summertime!\n\nComposer: CoyDe"
+    },
+    "241": {
+        "cueName": "bgm_activity_3_3_2024summer_game",
+        "authorName": "CoyDe",
+        "ableBGM": 1,
+        "album": 19,
+        "cuesheet": "bgm_activity_3_3_2024summer_game",
+        "musicName": "Delighted Joy",
+        "id": 241,
+        "awbName": "bgm_activity_3_3_2024summer_game",
+        "initAISAC": "",
+        "detail": "Composer: CoyDe"
+    },
+    "242": {
+        "cueName": "bgm_activity_3_3_minigame_warchess",
+        "authorName": "CoyDe",
+        "ableBGM": 1,
+        "album": 19,
+        "cuesheet": "bgm_activity_3_3_minigame_warchess",
+        "musicName": "Vibrant Journey",
+        "id": 242,
+        "awbName": "bgm_activity_3_3_minigame_warchess",
+        "initAISAC": "",
+        "detail": "Composer: CoyDe"
+    },
+    "243": {
+        "cueName": "bgm_activity_3_3_minigame_warchess_stage",
+        "authorName": "RabbitJ + Haloweak",
+        "ableBGM": 1,
+        "album": 19,
+        "cuesheet": "bgm_activity_3_3_minigame_warchess_stage",
+        "musicName": "Festive Beat",
+        "id": 243,
+        "awbName": "bgm_activity_3_3_minigame_warchess_stage",
+        "detail": "The lights are in place, the audience is seated, and the grand stage is set! Put your hands in the air, wave your lights, and let's enjoy the last party of summer!\n\nComposer: RabbitJ + Haloweak",
+        "initAISAC": [
+            [
+                "phase_controller",
+                0.5
+            ]
+        ]
+    },
+    "244": {
+        "cueName": "bgm_activity_3_3_promotional_2024summer",
+        "authorName": "一口井",
+        "ableBGM": 1,
+        "album": 19,
+        "cuesheet": "bgm_activity_3_3_promotional_2024summer",
+        "musicName": "Bubble Word",
+        "id": 244,
+        "awbName": "bgm_activity_3_3_promotional_2024summer",
+        "initAISAC": "",
+        "detail": "Responding to a peacekeeping request, the maiden's song drifts across the seashore, calming the clamor on the stage.\nHidden in the maiden's heart, along with her shyness, lies a one-of-a-kind melody.\n\nVocal: 一口井\nComposer: Polyblue\nLyricist: 大九_LN\nBass: 立崎レイン\nOther Instruments: Polyblue"
+    },
+    "245": {
+        "cueName": "bgm_minigame_3",
+        "authorName": "LousikAEy",
+        "ableBGM": 1,
+        "album": 19,
+        "cuesheet": "bgm_minigame_3",
+        "musicName": "Flurry Tap",
+        "id": 245,
+        "awbName": "bgm_minigame_3",
+        "initAISAC": "",
+        "detail": "Composer: LousikAEy"
+    },
+    "246": {
+        "cueName": "bgm_activity_3_4_ui",
+        "authorName": "Polymath9",
+        "ableBGM": 1,
+        "album": 20,
+        "cuesheet": "bgm_activity_3_4_ui",
+        "musicName": "Chords Before Aurora",
+        "id": 246,
+        "awbName": "bgm_activity_3_4_ui",
+        "initAISAC": "",
+        "detail": "A lone boat drifts amidst a long song, breaking through the pitch-black abyssal sea.\nA blade of light illuminates the polar night, beckoning to the distant morning sun.\n\nComposer: Polymath9\nMixing: LousikAEy"
+    },
+    "247": {
+        "cueName": "bgm_activity_3_4_battle_crete",
+        "authorName": "Polymath9/LousikAEy",
+        "ableBGM": 1,
+        "album": 20,
+        "cuesheet": "bgm_activity_3_4_battle_crete",
+        "musicName": "Harbinger of Torment",
+        "id": 247,
+        "awbName": "bgm_activity_3_4_battle_crete",
+        "initAISAC": "",
+        "detail": "Composer: Polymath9\nArranger: Polymath9/LousikAEy"
+    },
+    "248": {
+        "cueName": "bgm_activity_3_4_battle_deck",
+        "authorName": "LousikAEy",
+        "ableBGM": 1,
+        "album": 20,
+        "cuesheet": "bgm_activity_3_4_battle_deck",
+        "musicName": "Tide of Calamity",
+        "id": 248,
+        "awbName": "bgm_activity_3_4_battle_deck",
+        "initAISAC": "",
+        "detail": "Composer: LousikAEy"
+    },
+    "249": {
+        "cueName": "bgm_activity_3_4_battle_seabed",
+        "authorName": "LousikAEy",
+        "ableBGM": 1,
+        "album": 20,
+        "cuesheet": "bgm_activity_3_4_battle_seabed",
+        "musicName": "Transcend the Abyss",
+        "id": 249,
+        "awbName": "bgm_activity_3_4_battle_seabed",
+        "initAISAC": "",
+        "detail": "Composer: LousikAEy"
+    },
+    "250": {
+        "cueName": "bgm_activity_3_4_battle_boss_4042_1",
+        "authorName": "Nevia",
+        "ableBGM": 1,
+        "album": 20,
+        "cuesheet": "bgm_activity_3_4_battle_boss_4042_1",
+        "musicName": "Maiden of Brume",
+        "id": 250,
+        "awbName": "bgm_activity_3_4_battle_boss_4042_1",
+        "initAISAC": "",
+        "detail": "Resentment and pain intertwine and transform into a spirit that never should have existed.\nIt returns from the abyss and declares war on the living.\n\nTitle: Maiden of Brume\nChinese Title: 大雾深处的少女\nComposer: Nevia"
+    },
+    "251": {
+        "cueName": "bgm_activity_3_4_battle_boss_4042_2",
+        "authorName": "VeetaCrush/S9ryne",
+        "ableBGM": 1,
+        "album": 20,
+        "cuesheet": "bgm_activity_3_4_battle_boss_4042_2",
+        "musicName": "Knell of Banshee",
+        "id": 251,
+        "awbName": "bgm_activity_3_4_battle_boss_4042_2",
+        "initAISAC": "",
+        "detail": "Title: Knell of Banshee\nChinese Title: 女妖的丧钟\nComposer: VeetaCrush/S9ryne"
+    },
+    "252": {
+        "cueName": "bgm_activity_3_4_story_crete",
+        "authorName": "Polymath9",
+        "ableBGM": 1,
+        "album": 20,
+        "cuesheet": "bgm_activity_3_4_story_crete",
+        "musicName": "Prelude of Gloaming",
+        "id": 252,
+        "awbName": "bgm_activity_3_4_story_crete",
+        "initAISAC": "",
+        "detail": "Composer: Polymath9"
+    },
+    "253": {
+        "cueName": "bgm_activity_3_4_story_deckbridge",
+        "authorName": "Polymath9",
+        "ableBGM": 1,
+        "album": 20,
+        "cuesheet": "bgm_activity_3_4_story_deckbridge",
+        "musicName": "Swaying in the Mist",
+        "id": 253,
+        "awbName": "bgm_activity_3_4_story_deckbridge",
+        "initAISAC": "",
+        "detail": "The sea never forgets. It remembers dashed dreams, spilled tears, and every bitter memory.\n\nTitle: Swaying in the Mist\nChinese Title: 雾中摇曳\nComposer: Polymath9"
+    },
+    "254": {
+        "cueName": "bgm_activity_3_4_story_crete_intense",
+        "authorName": "LousikAEy",
+        "ableBGM": 1,
+        "album": 20,
+        "cuesheet": "bgm_activity_3_4_story_crete_intense",
+        "musicName": "The Shadow Menace",
+        "id": 254,
+        "awbName": "bgm_activity_3_4_story_crete_intense",
+        "initAISAC": "",
+        "detail": "Composer: LousikAEy"
+    },
+    "255": {
+        "cueName": "bgm_activity_3_4_story_seabed_short",
+        "authorName": "LousikAEy",
+        "ableBGM": 1,
+        "album": 20,
+        "cuesheet": "bgm_activity_3_4_story_seabed_short",
+        "musicName": "Aqua End",
+        "id": 255,
+        "awbName": "bgm_activity_3_4_story_seabed_short",
+        "initAISAC": "",
+        "detail": "Submerged, sunken, and lost. The abyss has pulled away its veil to welcome all wandering and lost souls.\n\nComposer: LousikAEy"
+    },
+    "256": {
+        "cueName": "bgm_activity_3_4_story_seabed",
+        "authorName": "LousikAEy",
+        "ableBGM": 1,
+        "album": 20,
+        "cuesheet": "bgm_activity_3_4_story_seabed",
+        "musicName": "Deeper than Deeper",
+        "id": 256,
+        "awbName": "bgm_activity_3_4_story_seabed",
+        "initAISAC": "",
+        "detail": "Composer: LousikAEy"
+    },
     "get_id_list_by_album": [
         [
             1,
@@ -3214,6 +3423,27 @@
             237,
             238,
             239
+        ],
+        [
+            240,
+            241,
+            242,
+            243,
+            244,
+            245
+        ],
+        [
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255,
+            256
         ]
     ],
     "all": [
@@ -3454,6 +3684,23 @@
         236,
         237,
         238,
-        239
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256
     ]
 }

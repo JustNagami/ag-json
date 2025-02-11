@@ -10688,11 +10688,25 @@
         "id": 10491141,
         "chara_id": 1049
     },
+    "1049114112": {
+        "content": "It just feels a little... never mind. YIKES! Questioner... What are you doing? It's all wet now...I should... loosen up a little and enjoy the beach? You're right. The sea breeze does feel nice...",
+        "form_id": 0,
+        "subtitle_id": 114112,
+        "id": 1049114112,
+        "chara_id": 1049
+    },
     "10491151": {
         "content": "No good comes from stepping into the crowd, you never know what they're hiding. I'm not referring to you when I say that, it's just what I've believed for years.",
         "form_id": 0,
         "subtitle_id": 1151,
         "id": 10491151,
+        "chara_id": 1049
+    },
+    "1049115112": {
+        "content": "What are you doing? Taking pictures? No, no way! Fine... Just one picture, then.Would this... do? As long as you're happy with it...",
+        "form_id": 0,
+        "subtitle_id": 115112,
+        "id": 1049115112,
         "chara_id": 1049
     },
     "10491161": {
@@ -35671,7 +35685,9 @@
             10491121,
             10491131,
             10491141,
+            1049114112,
             10491151,
+            1049115112,
             10491161,
             10491162,
             10491163,
@@ -43143,6 +43159,12 @@
             ],
             "2231": [
                 10492231
+            ],
+            "114112": [
+                1049114112
+            ],
+            "115112": [
+                1049115112
             ]
         },
         "1050": {

@@ -1745,12 +1745,42 @@
         "icon": "10195",
         "type": 1
     },
+    "202": {
+        "desc_source": "Obtain by participating in operation events",
+        "name": "Selene_Singing",
+        "free": 0,
+        "category": 15,
+        "id": 202,
+        "icon": "10202",
+        "type": 1
+    },
+    "204": {
+        "desc_source": "Obtain by participating in operation events",
+        "name": "Izanami_Diving",
+        "free": 0,
+        "category": 15,
+        "id": 204,
+        "icon": "10204",
+        "type": 1
+    },
+    "208": {
+        "desc_source": "",
+        "name": "Selene_Shhh!",
+        "free": 1,
+        "category": 15,
+        "id": 208,
+        "icon": "10208",
+        "type": 1
+    },
     "get_id_list_by_category": {
         "15": [
             192,
             193,
             194,
-            195
+            195,
+            202,
+            204,
+            208
         ],
         "14": [
             176,
@@ -2167,6 +2197,9 @@
         192,
         193,
         194,
-        195
+        195,
+        202,
+        204,
+        208
     ]
 }

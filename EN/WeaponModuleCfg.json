@@ -3645,6 +3645,123 @@
             5060107
         ]
     },
+    "1035": {
+        "name": "The Chest of Hunger",
+        "story": "Sobek had not seen the sun, nor eaten for a long time. He had also not come across a single living creature.\nNo matter how hungry he became, Sobek dared not eat the lush plants around him. Once, his curiosity had gotten the better of him, and he'd eaten a colorful patch of weeds. He nearly lost his life because of the poison, and since then, he'd been afraid of every plant that grew around him.\nIf only there were some animals around. Then, their meat could fill his stomach, and he would at least not starve to death in this wilderness.\nSuddenly, something moved and Sobek drew his knife.\nSomething black and brown popped up from the grass... a small squirrel.\nThe squirrel was carrying a large nut in its mouth, and Sobeck realized it was something edible, so he put his knife away and decided to follow the squirrel to find out where the nut had come from. After all, the squirrel was so small that it wouldn't even touch the sides, even if he stewed it. The squirrel ran fast, but Sobeck was still willing to use the last of his energy to follow behind.\nThe squirrel went into the hole of a tree, then came out again a short while later. It raised its little head and stared at Sobek for a long time, then went back into the hole and brought out some nuts, which it set down in front of him. Sobek picked up the tiny nuts incredulously, and before stopping to think, he wolfed them all down.\nA few days later, the sun returned to the earth and Sobek had more opportunities to find food, but he never forgot that hole in the tree full of nuts.\nFrom then on, he began to save whatever food he didn't finish, just in case there were more famines like the last one. At first, he stored them in a hole in a tree, just like the squirrel, and then a roughshod wooden box which he'd made himself. Later, he stumbled across a proper box that someone had left behind, almost like a treasure chest. The box would always be full, and he never experienced hunger again.",
+        "task_desc": "Use Hunt Down at least one time in the Infiltration stage of the Father, Son, Duel - Epilogue side story, and complete the stage.",
+        "id": 1035,
+        "condition": [
+            [
+                50001,
+                50002,
+                50004
+            ],
+            [],
+            [
+                50003
+            ]
+        ],
+        "condition_source": [
+            [
+                [
+                    203,
+                    1035
+                ],
+                [
+                    208,
+                    1035
+                ],
+                [
+                    203,
+                    1035
+                ]
+            ],
+            [],
+            [
+                [
+                    204,
+                    1035
+                ]
+            ]
+        ],
+        "cost": [
+            [
+                [
+                    40504,
+                    24
+                ],
+                [
+                    2,
+                    40000
+                ],
+                [
+                    41501,
+                    10
+                ],
+                [
+                    81035,
+                    5
+                ]
+            ],
+            [
+                [
+                    40203,
+                    24
+                ],
+                [
+                    2,
+                    120000
+                ],
+                [
+                    41501,
+                    20
+                ],
+                [
+                    81035,
+                    10
+                ]
+            ],
+            [
+                [
+                    40203,
+                    40
+                ],
+                [
+                    2,
+                    160000
+                ],
+                [
+                    41501,
+                    30
+                ],
+                [
+                    81035,
+                    15
+                ]
+            ]
+        ],
+        "skill": [
+            [
+                103521,
+                103522,
+                103523,
+                103524
+            ],
+            [
+                103531,
+                103532,
+                103533
+            ],
+            [
+                103541
+            ]
+        ],
+        "source": [
+            331,
+            6010112,
+            5060121
+        ]
+    },
     "1094": {
         "name": "The Bird Box",
         "story": "The old gun blasted, and the face of the woman who had just been begging for mercy suddenly shattered, the cracks spreading like a spider web across her entire face, then breaking apart like a jigsaw puzzle that had been put together wrong. Beneath the cracks, the disjointed body of a Visbane was revealed.\nA string of incorrect code began to squirm, and sharp objects drawn from the darkness with both malice and madness came to slash down the young woman's delicate face.\nThe black coffin quickly transformed and rushed to the monster before it could fully mutate. Like a heavy shield, it forced the attacking monster back into a corner.\n\"The new defense system works, Miss Hel.\"\nThe woman nodded, reactivated her Divine Grace, and pointed the gun at the monster. Curling flames lit up the room, and dark purple energy poured out, engulfing the monster from head to toe.\nThen, everything went quiet, and the small woman waved her arms in her sleeves, holding her Access Key tightly in her hands. She strained her little legs slightly, and sat herself up on the side of the heavy, black coffin.\nPeople who made trouble for no reason, people who said the vilest things, and people who begged for their lives. Before they turned into monsters, all of these people, without exception, would glare at Hel with those bloodshot eyes full of hate.\n...\nBut scenes like this were an everyday occurrence for girls like her dealing with the Encroacher Types.\nThe cold, empty streets were covered with a white fog, and the chiming of a distant church sounded like a death knell.\nShe knew that those things could no longer be considered human, but the cold road back from doing her job still felt exceptionally bitter. Hel crossed her arms in her sleeves, trying to ease the fatigue of battle with their warmth.\nShe should have left to find her next target, but something made her turn her head. Behind her, a little girl was having her memories erased... a picture of the young woman held in her hands.\nMaybe she was lucky to forget all those painful memories... but she had to forget all the past joys as well, as if nothing had happened in the first place.\nFlesh and blood, feelings, memories... The darkness in the world swallowed everything it touched.\nAnd if the darkness was going to swallow everything, if everything was soon to be lost anyway, then what should they do?\n\"Never have anything to start with.\" That used to be her answer, but since arriving at Aether Gazer, Hel couldn't help feeling that there was a better answer to be found.\nBack from her duties, Hel sat by the window, replaying the question in her mind as she started taking the small box from Ganglati.\n\"What's on your mind, Miss Hel?\"\n\"Ganglati, is it better to never have something in the first place, if you're just going to lose it anyway?\"\n\"I'm sorry, but I'm just an ordinary Access Key interface, so I'm not really capable of answering such a complex question. That said, I'm better at understanding people than most, and my guess is that that \"something\" is something you need right now.\"\nSomewhere to the side of Ganglati, a dark square opened and a small, black box popped out.\nIgnoring the black coffin as it continued mumbling proudly to itself, Hel's pale hands clutched the box in her arms and slowly opened it.\nThis is where she stored the things that were important to her or that she found beautiful, things like her butterfly, her cat toy, her crystal, and more.\nThe cheap, man-made crystal reflected the clear moonlight, the butterfly hairpin that hadn't been worn for a long time sat quietly next to it, and now that it was fixed, the black cat had stopped shaking. When she held it in her arms, Hel felt just a bit warmer.\nUnder the dark night sky, the young woman's daily duties were about to start once more.",
@@ -3795,6 +3912,7 @@
         1033,
         1042,
         1024,
+        1035,
         1094
     ]
 }

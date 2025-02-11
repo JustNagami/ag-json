@@ -242,6 +242,25 @@
         "scene_setting": [],
         "obtain_way": []
     },
+    "6012": {
+        "action_suffix": "",
+        "title": "That First Glimmer of Light",
+        "desc": "Never-seen-before landscapes, unfamiliar shores... It's all a bit overwhelming for a young lady. What's Admin up to this time?",
+        "obtain_word": "",
+        "scene_trial": 0,
+        "limit_display": 0,
+        "prefix_dlc": "",
+        "light_effect": "",
+        "unlock_description": "",
+        "prefix": "X310",
+        "light_effect_delay": "",
+        "id": 6012,
+        "default_music": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": []
+    },
     "6013": {
         "action_suffix": "",
         "title": "Gentle Echo",
@@ -255,6 +274,25 @@
         "prefix": "X311",
         "light_effect_delay": "",
         "id": 6013,
+        "default_music": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": []
+    },
+    "6014": {
+        "action_suffix": "",
+        "title": "Amid Moonlight",
+        "desc": "As the evening breeze wafted through Selene's hair, this small world felt calm and quiet yet bursting with meaning. The waves were as gentle as the moonlit sky, while the moon seemed to be gazing back at her.",
+        "obtain_word": "",
+        "scene_trial": 0,
+        "limit_display": 0,
+        "prefix_dlc": "",
+        "light_effect": "",
+        "unlock_description": "",
+        "prefix": "X309",
+        "light_effect_delay": "",
+        "id": 6014,
         "default_music": 0,
         "impact": [],
         "scene_tag": [],
@@ -294,7 +332,9 @@
         6009,
         6010,
         6011,
+        6012,
         6013,
+        6014,
         6100
     ]
 }

@@ -4939,6 +4939,25 @@
             ]
         ]
     },
+    "2104901": {
+        "name": "Feather's Breath",
+        "type": 2,
+        "unlock_condition": 800,
+        "picture": "R4901",
+        "group_display_order": 1,
+        "desc": "The slender girl is sitting on Admin's lap, her warm breath oh-so-close at the moment. Izanami has decided to tell Admin all about her past.",
+        "id": 2104901,
+        "group_id": 200043,
+        "additional_parameter": [
+            210490104
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
     "30110101": {
         "name": "Visiting Ausar",
         "type": 3,
@@ -7124,6 +7143,139 @@
             ]
         ]
     },
+    "31301101": {
+        "name": "Lighthouse Ray",
+        "type": 3,
+        "unlock_condition": 800,
+        "picture": "SS1301",
+        "group_display_order": 1,
+        "desc": "The fog has cloaked the sea at some point, with the lighthouse now guiding everyone's way.",
+        "id": 31301101,
+        "group_id": 300113,
+        "additional_parameter": [
+            104130101
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "31303101": {
+        "name": "Girl, Disappeared",
+        "type": 3,
+        "unlock_condition": 800,
+        "picture": "SS1302",
+        "group_display_order": 1,
+        "desc": "Artemis notices a girl behind them who's been observing them and drawing something at the same time. Just as she's going to speak to the girl, however, the latter has vanished.",
+        "id": 31303101,
+        "group_id": 300114,
+        "additional_parameter": [
+            104130301
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "31303102": {
+        "name": "Girl, Disappeared",
+        "type": 3,
+        "unlock_condition": 800,
+        "picture": "SS1302a",
+        "group_display_order": 2,
+        "desc": "Artemis notices a girl behind them who's been observing them and drawing something at the same time. Just as she's going to speak to the girl, however, the latter has vanished.",
+        "id": 31303102,
+        "group_id": 300114,
+        "additional_parameter": [
+            104130301
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "31304201": {
+        "name": "Fierce Guardian",
+        "type": 3,
+        "unlock_condition": 800,
+        "picture": "SS1303",
+        "group_display_order": 1,
+        "desc": "He opens his eyes to see Artemis standing in front of him, her sword in hand to block the incoming fire.",
+        "id": 31304201,
+        "group_id": 300115,
+        "additional_parameter": [
+            104130402
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "31306101": {
+        "name": "Human Disintegrating",
+        "type": 3,
+        "unlock_condition": 800,
+        "picture": "SS1304",
+        "group_display_order": 1,
+        "desc": "Kevode watches the familiar face melt like hot wax and into a boiling puddle in an instant.",
+        "id": 31306101,
+        "group_id": 300116,
+        "additional_parameter": [
+            104130402
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "31307101": {
+        "name": "Doomsday Descends",
+        "type": 3,
+        "unlock_condition": 800,
+        "picture": "SS1305",
+        "group_display_order": 1,
+        "desc": "The swaying shadows descend, and tentacles as tall as the sky are reaching out from the abyss, sprinkling a cold rain upon the stern.",
+        "id": 31307101,
+        "group_id": 300117,
+        "additional_parameter": [
+            104130701
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "31308201": {
+        "name": "Cleansing Moon",
+        "type": 3,
+        "unlock_condition": 800,
+        "picture": "SS1306",
+        "group_display_order": 1,
+        "desc": "Wherever the silvery light reaches, one can hear the song of moonlight.",
+        "id": 31308201,
+        "group_id": 300118,
+        "additional_parameter": [
+            104130802
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
     "40000001": {
         "name": "Administrator's Birthday",
         "type": 4,
@@ -7444,7 +7596,8 @@
             2109503,
             2103902,
             2101906,
-            2109704
+            2109704,
+            2104901
         ],
         [
             30110101,
@@ -7561,7 +7714,14 @@
             31204201,
             31206101,
             31208101,
-            31209201
+            31209201,
+            31301101,
+            31303101,
+            31303102,
+            31304201,
+            31306101,
+            31307101,
+            31308201
         ],
         [
             40000001,
@@ -7578,6 +7738,27 @@
         ],
         "HB0101": [
             40000001
+        ],
+        "SS1306": [
+            31308201
+        ],
+        "SS1305": [
+            31307101
+        ],
+        "SS1304": [
+            31306101
+        ],
+        "SS1303": [
+            31304201
+        ],
+        "SS1302a": [
+            31303102
+        ],
+        "SS1302": [
+            31303101
+        ],
+        "SS1301": [
+            31301101
         ],
         "EN0113": [
             31209201
@@ -7923,6 +8104,9 @@
         ],
         "OS0101": [
             30110101
+        ],
+        "R4901": [
+            2104901
         ],
         "R9701": [
             2109704
@@ -8715,6 +8899,25 @@
         "400001": [
             40000001
         ],
+        "300118": [
+            31308201
+        ],
+        "300117": [
+            31307101
+        ],
+        "300116": [
+            31306101
+        ],
+        "300115": [
+            31304201
+        ],
+        "300114": [
+            31303101,
+            31303102
+        ],
+        "300113": [
+            31301101
+        ],
         "300112": [
             31209201
         ],
@@ -9049,6 +9252,9 @@
         ],
         "300001": [
             30110101
+        ],
+        "200043": [
+            2104901
         ],
         "200042": [
             2109704
@@ -9771,6 +9977,23 @@
         "910201011": [
             40000001
         ],
+        "104130802": [
+            31308201
+        ],
+        "104130701": [
+            31307101
+        ],
+        "104130402": [
+            31304201,
+            31306101
+        ],
+        "104130301": [
+            31303101,
+            31303102
+        ],
+        "104130101": [
+            31301101
+        ],
         "104120901": [
             31209201
         ],
@@ -10089,6 +10312,9 @@
         ],
         "101100201": [
             30110101
+        ],
+        "210490104": [
+            2104901
         ],
         "210970104": [
             2109704
@@ -11026,6 +11252,7 @@
         2103902,
         2101906,
         2109704,
+        2104901,
         30110101,
         30111012,
         30111013,
@@ -11141,6 +11368,13 @@
         31206101,
         31208101,
         31209201,
+        31301101,
+        31303101,
+        31303102,
+        31304201,
+        31306101,
+        31307101,
+        31308201,
         40000001,
         40000002,
         40000003

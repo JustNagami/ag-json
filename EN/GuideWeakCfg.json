@@ -292,6 +292,134 @@
             285
         ]
     },
+    "1201": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 0,
+        "name": "newHero",
+        "narrator_icon": "mmr",
+        "id": 1201,
+        "talk_content": "Ultimate Skillchain Animation replay function unlocked. You can now rewatch Modifers' Ultimate Skillchain animations.",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "pages_",
+            2,
+            "buttonComboSkill_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "newHero"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "comboSkillInfo"
+            ]
+        ],
+        "talk_position": [
+            80,
+            125
+        ]
+    },
+    "1202": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 8,
+        "name": "comboSkillInfo",
+        "narrator_icon": "mmr",
+        "id": 1202,
+        "talk_content": "You can watch Modifers' Ultimate Skillchain animations from here.",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "viewBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "comboSkillInfo"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "HeroCooperationView"
+            ]
+        ],
+        "talk_position": [
+            -50,
+            100
+        ]
+    },
+    "1301": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 3,
+        "name": "heroPreviewChange",
+        "narrator_icon": "mmr",
+        "id": 1301,
+        "talk_content": "Ultimate Skillchain Animation replay function unlocked. You can now rewatch Modifers' Ultimate Skillchain animations.",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "infoBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "heroPreviewChange"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "heroPreviewMain"
+            ]
+        ],
+        "talk_position": [
+            -380,
+            220
+        ]
+    },
+    "1302": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 2,
+        "name": "heroPreviewMain",
+        "narrator_icon": "mmr",
+        "id": 1302,
+        "talk_content": "You can watch Modifers' Ultimate Skillchain animations from here.",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "subPages_",
+            1,
+            "cooperationBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "heroPreviewMain"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "HeroCooperationView"
+            ]
+        ],
+        "talk_position": [
+            -650,
+            -685
+        ]
+    },
     "1401": {
         "closetime": 5,
         "priority": 0,
@@ -459,6 +587,18 @@
         "userinfo": [
             1402
         ],
+        "heroPreviewMain": [
+            1302
+        ],
+        "heroPreviewChange": [
+            1301
+        ],
+        "comboSkillInfo": [
+            1202
+        ],
+        "newHero": [
+            1201
+        ],
         "chapterMap": [
             1101,
             1102,
@@ -484,6 +624,10 @@
         1103,
         1104,
         1105,
+        1201,
+        1202,
+        1301,
+        1302,
         1401,
         1402,
         1501,

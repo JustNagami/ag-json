@@ -1341,6 +1341,28 @@
         "id": 2118,
         "information2": "However, it has special permissions that enable it to open up pathways in the Source Layer. As they often spawn in locations with dense Visbane populations, they are one of the main ways Visbanes are able to penetrate into the Surface Layer."
     },
+    "2123": {
+        "skill3": "",
+        "skill2": "",
+        "information3": "This creature has some kind of mysterious connection with the White Tides. When it is within the White Tides, it can quickly recover its original form even after being dealt a vicious blow.",
+        "type": 0,
+        "model_name": "2123_tpose",
+        "skill_desc6": "",
+        "desc": "A mysterious creature from the depths of the sea, its torso like a pure white prism with several tentacles extending from its base.",
+        "race": 10,
+        "skill_desc2": "",
+        "skill4": "",
+        "skill_desc5": "",
+        "skill_desc3": "",
+        "skill5": "",
+        "information1": "When first born, this creature's white body is shaped like a simple pillar, without any concrete characteristics.",
+        "skill_desc1": "Leaps up and whips its tentacles to the front, dealing damage to enemies hit.",
+        "skill_desc4": "",
+        "skill6": "",
+        "skill1": "Leaping Whip",
+        "id": 2123,
+        "information2": "As they grow, these creatures devour prey and mimic their appearance and characteristics. Since they originate in the deep sea, they share some traits of nearby marine life."
+    },
     "3004": {
         "skill3": "Spirit Blade - Gale",
         "skill2": "Spirit Blade - Shattered Moon",
@@ -2067,6 +2089,28 @@
         "id": 3046,
         "information2": "Thanks to a cocktail of genetic manipulation and mechanical augmentation, they have gained physical abilities far beyond normal human limits. "
     },
+    "3048": {
+        "skill3": "Crimson Barb",
+        "skill2": "Bodyslam",
+        "information3": "This creature has some kind of mysterious connection with the White Tides. When it is within the White Tides, it can quickly recover its original form even after being dealt a vicious blow.",
+        "type": 1,
+        "model_name": "3048_tpose",
+        "skill_desc6": "",
+        "desc": "A mysterious creature from the depths of the sea, its torso like a pure white pillar with several tentacles extending from its base.",
+        "race": 10,
+        "skill_desc2": "Leaps up and whips its tentacles to the front, dealing damage to enemies hit.",
+        "skill4": "",
+        "skill_desc5": "",
+        "skill_desc3": "Rapidly extends tentacles imbued with Bane Energy, jabbing at enemies.",
+        "skill5": "",
+        "information1": "When first born, this creature's white body is shaped like a simple pillar, without any concrete characteristics.",
+        "skill_desc1": "Envelops itself in Bane Energy and launches a spinning attack toward the front, dealing damage to enemies hit.",
+        "skill_desc4": "",
+        "skill6": "",
+        "skill1": "Spiral Shock",
+        "id": 3048,
+        "information2": "As they grow, these creatures devour prey and mimic their appearance and characteristics. Since they originate in the deep sea, they share some traits of nearby marine life."
+    },
     "3044": {
         "skill3": "Deer God's Fury ",
         "skill2": "Bane Fire ",
@@ -2642,6 +2686,8 @@
     "get_id_list_by_race": {
         "10": [
             2114,
+            2123,
+            3048,
             4041
         ],
         "6": [
@@ -2831,6 +2877,7 @@
         2114,
         2117,
         2118,
+        2123,
         3004,
         3005,
         3006,
@@ -2864,6 +2911,7 @@
         3041,
         3042,
         3046,
+        3048,
         3044,
         4010,
         4012,
