@@ -4958,6 +4958,63 @@
             ]
         ]
     },
+    "2108103": {
+        "name": "Warm Huddle",
+        "type": 2,
+        "unlock_condition": 800,
+        "picture": "R8102",
+        "group_display_order": 1,
+        "desc": "Inside Snowflake 2's engine room, a Skadi still dripping wet from her fall into the water sits with Admin to warm up, and the two both share what's on their minds.",
+        "id": 2108103,
+        "group_id": 200044,
+        "additional_parameter": [
+            210810106
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "2108104": {
+        "name": "Warm Huddle",
+        "type": 2,
+        "unlock_condition": 800,
+        "picture": "R8102a",
+        "group_display_order": 2,
+        "desc": "Inside Snowflake 2's engine room, a Skadi still dripping wet from her fall into the water sits with Admin to warm up, and the two both share what's on their minds.",
+        "id": 2108104,
+        "group_id": 200044,
+        "additional_parameter": [
+            210810106
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "2108105": {
+        "name": "Warm Huddle",
+        "type": 2,
+        "unlock_condition": 800,
+        "picture": "R8102b",
+        "group_display_order": 3,
+        "desc": "Inside Snowflake 2's engine room, a Skadi still dripping wet from her fall into the water sits with Admin to warm up, and the two both share what's on their minds.",
+        "id": 2108105,
+        "group_id": 200044,
+        "additional_parameter": [
+            210810106
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
     "30110101": {
         "name": "Visiting Ausar",
         "type": 3,
@@ -7276,6 +7333,120 @@
             ]
         ]
     },
+    "31310201": {
+        "name": "Facing Head-on",
+        "type": 3,
+        "unlock_condition": 800,
+        "picture": "SS1307",
+        "group_display_order": 1,
+        "desc": "Selene looks down to find that cracks are appearing all over the ground, and soil and rocks are being churned up everywhere, as if heralding someone's arrival.",
+        "id": 31310201,
+        "group_id": 300119,
+        "additional_parameter": [
+            104131002
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "31311201": {
+        "name": "In the Fog",
+        "type": 3,
+        "unlock_condition": 800,
+        "picture": "SS1308",
+        "group_display_order": 1,
+        "desc": "A behemoth appears. Like a silent giant statue, it is slowly coming toward everyone from someplace distant in the sky.",
+        "id": 31311201,
+        "group_id": 300120,
+        "additional_parameter": [
+            104131102
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "31314101": {
+        "name": "Hot as the Sun",
+        "type": 3,
+        "unlock_condition": 800,
+        "picture": "SS1309",
+        "group_display_order": 1,
+        "desc": "Helios unleashes a fiery blaze, shocking the Leuko Morphs trying to climb on shore.",
+        "id": 31314101,
+        "group_id": 300121,
+        "additional_parameter": [
+            104131401
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "31315201": {
+        "name": "Newly Arisen",
+        "type": 3,
+        "unlock_condition": 800,
+        "picture": "SS1310",
+        "group_display_order": 1,
+        "desc": "The world seems to have stopped in an instant. Now, there's only that shining sword light visible between the sky and the earth, and this very light is cleaving Lilith into two, starting from the top of her head.",
+        "id": 31315201,
+        "group_id": 300122,
+        "additional_parameter": [
+            104131502
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "31447201": {
+        "name": "The Grand Prize",
+        "type": 3,
+        "unlock_condition": 800,
+        "picture": "SA0401",
+        "group_display_order": 1,
+        "desc": "The golden Easter egg is placed at the center of the stage, just one step away from the Grand Prize.",
+        "id": 31447201,
+        "group_id": 300123,
+        "additional_parameter": [
+            104144702
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "31447202": {
+        "name": "The Grand Prize",
+        "type": 3,
+        "unlock_condition": 800,
+        "picture": "SA0401a",
+        "group_display_order": 2,
+        "desc": "The golden Easter egg is placed at the center of the stage, just one step away from the Grand Prize.",
+        "id": 31447202,
+        "group_id": 300123,
+        "additional_parameter": [
+            104144702
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
     "40000001": {
         "name": "Administrator's Birthday",
         "type": 4,
@@ -7597,7 +7768,10 @@
             2103902,
             2101906,
             2109704,
-            2104901
+            2104901,
+            2108103,
+            2108104,
+            2108105
         ],
         [
             30110101,
@@ -7721,7 +7895,13 @@
             31304201,
             31306101,
             31307101,
-            31308201
+            31308201,
+            31310201,
+            31311201,
+            31314101,
+            31315201,
+            31447201,
+            31447202
         ],
         [
             40000001,
@@ -7738,6 +7918,24 @@
         ],
         "HB0101": [
             40000001
+        ],
+        "SA0401a": [
+            31447202
+        ],
+        "SA0401": [
+            31447201
+        ],
+        "SS1310": [
+            31315201
+        ],
+        "SS1309": [
+            31314101
+        ],
+        "SS1308": [
+            31311201
+        ],
+        "SS1307": [
+            31310201
         ],
         "SS1306": [
             31308201
@@ -8104,6 +8302,15 @@
         ],
         "OS0101": [
             30110101
+        ],
+        "R8102b": [
+            2108105
+        ],
+        "R8102a": [
+            2108104
+        ],
+        "R8102": [
+            2108103
         ],
         "R4901": [
             2104901
@@ -8899,6 +9106,22 @@
         "400001": [
             40000001
         ],
+        "300123": [
+            31447201,
+            31447202
+        ],
+        "300122": [
+            31315201
+        ],
+        "300121": [
+            31314101
+        ],
+        "300120": [
+            31311201
+        ],
+        "300119": [
+            31310201
+        ],
         "300118": [
             31308201
         ],
@@ -9252,6 +9475,11 @@
         ],
         "300001": [
             30110101
+        ],
+        "200044": [
+            2108103,
+            2108104,
+            2108105
         ],
         "200043": [
             2104901
@@ -9977,6 +10205,22 @@
         "910201011": [
             40000001
         ],
+        "104144702": [
+            31447201,
+            31447202
+        ],
+        "104131502": [
+            31315201
+        ],
+        "104131401": [
+            31314101
+        ],
+        "104131102": [
+            31311201
+        ],
+        "104131002": [
+            31310201
+        ],
         "104130802": [
             31308201
         ],
@@ -10312,6 +10556,11 @@
         ],
         "101100201": [
             30110101
+        ],
+        "210810106": [
+            2108103,
+            2108104,
+            2108105
         ],
         "210490104": [
             2104901
@@ -11253,6 +11502,9 @@
         2101906,
         2109704,
         2104901,
+        2108103,
+        2108104,
+        2108105,
         30110101,
         30111012,
         30111013,
@@ -11375,6 +11627,12 @@
         31306101,
         31307101,
         31308201,
+        31310201,
+        31311201,
+        31314101,
+        31315201,
+        31447201,
+        31447202,
         40000001,
         40000002,
         40000003

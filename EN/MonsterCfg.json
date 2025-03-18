@@ -2683,12 +2683,35 @@
         "id": 4041,
         "information2": "It symbolizes the most basic level of rules and order in the Gaea world, and \"scavenges\" abnormal computing power."
     },
+    "4042": {
+        "skill3": "Lightning Detonation",
+        "skill2": "Tidal Surge",
+        "information3": "The crown on its head may have come about from it assimilating deep-sea creatures, and its human form seems to be related to a dead Knights of the Lighthouse knight from Omorfies.",
+        "type": 2,
+        "model_name": "4042_display",
+        "skill_desc6": "",
+        "desc": "A strange, gigantic creature that inhabits the White Tides, taking the form of a human woman with a crown-shaped object on her head, from which sprawling tentacles spread, making her capable of snatching up targets from a distance.",
+        "race": 10,
+        "skill_desc2": "Summons multiple orb-shaped structures to assist in attacking enemies.",
+        "skill4": "",
+        "skill_desc5": "",
+        "skill_desc3": "Uses its crown to launch lightning and detonate the structures, dealing damage in a cone-shaped area.",
+        "skill5": "",
+        "information1": "Able to pollute both living beings and objects, it can quickly absorb anything captured by itself or the White Tides, assimilating it into itself and growing larger and more powerful.",
+        "skill_desc1": "Uses its crown to fire a beam of light energy at the target, dealing damage to enemies it hits.",
+        "skill_desc4": "",
+        "skill6": "",
+        "skill1": "White Prism",
+        "id": 4042,
+        "information2": "Moving with the White Tides, it has absolute control over the White Tides' normal creations, able to reshape and manipulate the White Tides to attack, defend, or even repair itself."
+    },
     "get_id_list_by_race": {
         "10": [
             2114,
             2123,
             3048,
-            4041
+            4041,
+            4042
         ],
         "6": [
             2020,
@@ -2937,6 +2960,7 @@
         4038,
         4039,
         4040,
-        4041
+        4041,
+        4042
     ]
 }

@@ -3880,6 +3880,122 @@
             1010412
         ]
     },
+    "1016": {
+        "name": "Veil",
+        "story": "Deep in the smoky ruins, Kingu looked around, moving slowly, as if it cost him a lot to do so.\nThe battle with the Visbanes was long over, but Kingu and the others remained, searching for the slightest possibility of other survivors. If they were down there, Kingu and the others would be able to provide them shelter.\n\"Kingu, catch!\" Ethan tossed him a pair of goggles. \"I found them over there! They yours?\"\n\"Thanks.\" Kingu caught them with one hand. Upon closer inspection, he could still make out the faded writing on the frames.\n\"Weren't they your favorite pair?\"\n\"Not particularly.\" Kingu gave them a rub and put them on his head. After wiping away the dust, they gleamed good as new.\n\"What? They're the only ones I ever saw you wear, and the machinist told me about all the times you took them to him for repairs.\" Ethan leaned in conspiratorially. \"Come on, what's the story behind them?\"\n\"They protect my eyes. That's the story.\" He wasn't hiding anything deliberately, it was just how he was, ever since leaving Akkadian. Ethan decided not to push it.\nTo most people, a pair of goggles was just another piece of protection, but to Kingu, they had a hidden meaning known only to him.\n\nWhen Marduk brought him to the Akkadian Guild, his training became his whole life, and most days, he did nothing else.\nBack then, Kingu didn't fully understand the significance of his training. All he wanted was to grow up as quickly as possible so that he could lend his support to the guild.\nUnder Marduk's guidance, the talented Kingu made rapid progress. It was on his first mission that Marduk gave him the pair of goggles that he had kept at the bottom of his suitcase for so many years.\n\"I hope you can put them to good use.\"\nThere was nothing special about the design, but Kingu cherished them. Everyone had high hopes for this child of Akkadian, and he lived up to them, slowly growing into a young man who could stand on his own two feet.\nBut one day, Kingu lost his prized possession during a sandstorm.\nBy the time he'd realized, it was already too late. They'd been walking through the sandstorm for two days to escape the wasteland, and everyone was exhausted.\nKingu climbed up to a vantage point and looked around for the faintest glimmer among the vast sands.\n\"Kingu, what are you doing?!\" Someone shouted up at him.\nKingu stayed put. \"I dropped something, I'm going to look for it. You go on ahead!\"\n\"Are you crazy?! You won't find anything in this storm! There's no time!\"\n\"Go!\" Kingu repeated, ignoring his partner's warning as he plunged into the sandstorm and disappeared.\nThe following day, everyone else had escaped to safety. Marduk had tried to send someone to search for Kingu, but they came back empty-handed.\nThe days passed, and just when everyone had given up hope, Kingu staggered back, beaten and bruised. He pointed triumphantly at the goggles on his head and gave Marduk a cheery wave, announcing his return. Everyone celebrated Kingu's return except for Marduk, whose expression was serious, but indecipherable.\nThat was the first time Marduk ever punished him.\nLater that night, Kingu was having trouble sleeping. Moonlight filtered through the tiny window of his cell and landed on the goggles on his head.\nHe couldn't understand why he was being blamed just for caring about something.\n\"Kingu, do you know why you're being punished?\" The powerful voice of a man rang out from the other side of the wall, like a mighty stone sending out ripples of light across the surface of a lake.\n\"I was just looking for something I cared about. You have no idea what it means to me!\" Kingu shouted back.\n\"You shouldn't have gone.\"\n\"Why not? I'm not scared of anything!\" Kingu's voice was full of resentment.\n\"But you put yourself in danger and you dragged everyone else into danger, too. And for what? For an inanimate object that you value more than your own life?\"\nMarduk didn't raise his voice, but he chose every word deliberately. Kingu, who was about to sit up, collapsed back into the bed.\n\"Things are only worth more than a human life if by using them more lives can be saved.\"\n\"Once you truly understand what I'm saying, you can do missions by yourself again. When that day comes, you can have your goggles back.\"\nAt some point, Marduk left quietly.\nKingu rubbed the strap and buckle in his hands. The small goggles had never felt so heavy, and they weighed him down all night.\nKingu handed over the goggles to Marduk as promised, and for the next year, he didn't carry out any missions alone. Out of respect for Kingu, Marduk put the goggles somewhere in the Akkadian Guild where everyone would see them. A lot of people asked them why, but the two remained quiet, never giving a straight answer.\n\nThe days passed until one day, a child pushed open the door of the Akkadian Guild and met Kingu, who had remained behind.\nWhen he was told about the fire at the orphanage, Kingu jumped to his feet. This was an emergency, but Marduk was leading the others on a field mission, and the Akkadian Guild was empty.\nHe had no choice. Even if it meant more punishment from Marduk, or even banishment from the guild, the lives of the people there were more important.\nKingu grabbed the goggles from the wall, scooped up the child, and flew out the door.\nHe would always remember that day, even a year later. When he put on his goggles and plunged into the fire, he heard the sound of his flesh being burned by the melting strap, the sound of children crying, and the sound of flames and explosions curling around each other.\nKingu sprinted back and forth, yanking at the strap to put the goggles on the children. He never slowed down until all of them were safe, then he collapsed to the ground and passed out.\nHe couldn't remember what happened next, but he woke up in a clinic. By his bedside, Marduk snored like thunder with his head on his chest, an uncut cigar dangling from his lips.\nMiraculously, the children didn't have any serious injuries, and were also sleeping soundly around Kingu's bed.\nAs for the goggles, someone had placed them in his hands. The lenses were wiped clean, the straps that had burned away seemed to have been restored and re-insulated, and a wonky inscription was carved in the frame, as if by countless tiny hands: \"Thank you for everything.\"\nThat was the moment that Kingu finally understood what Marduk had told him. It was just as he'd said. The value of the goggles didn't just lie in the fact that they were a gift from him.\n\"If you give up for no reason, your life will become empty. But if you protect others, then protecting them will give your life meaning.\"\n\"As the protector of Rostach, he should value both the dead and his own life more than ever before. This was what he must do.\"\nHis life, too, had been nothing more than a husk. Before he chose his new life, it was empty. But now, both he and his life had found meaning.",
+        "task_desc": "Use at least one Assault Tactic in the Resolve and Resilience stage of the Father, Son, Duel - Part II side story, and complete the stage.",
+        "id": 1016,
+        "condition": [
+            [
+                50001,
+                50002,
+                50004
+            ],
+            [],
+            [
+                50003
+            ]
+        ],
+        "condition_source": [
+            [
+                [
+                    203,
+                    1016
+                ],
+                [
+                    208,
+                    1016
+                ],
+                [
+                    203,
+                    1016
+                ]
+            ],
+            [],
+            [
+                [
+                    204,
+                    1016
+                ]
+            ]
+        ],
+        "cost": [
+            [
+                [
+                    40504,
+                    24
+                ],
+                [
+                    2,
+                    40000
+                ],
+                [
+                    41501,
+                    10
+                ],
+                [
+                    81016,
+                    5
+                ]
+            ],
+            [
+                [
+                    40203,
+                    24
+                ],
+                [
+                    2,
+                    120000
+                ],
+                [
+                    41501,
+                    20
+                ],
+                [
+                    81016,
+                    10
+                ]
+            ],
+            [
+                [
+                    40203,
+                    40
+                ],
+                [
+                    2,
+                    160000
+                ],
+                [
+                    41501,
+                    30
+                ],
+                [
+                    81016,
+                    15
+                ]
+            ]
+        ],
+        "skill": [
+            [
+                101621,
+                101622,
+                101623,
+                101624
+            ],
+            [
+                101631,
+                101632
+            ],
+            [
+                101641
+            ]
+        ],
+        "source": [
+            331,
+            6010111,
+            5060117
+        ]
+    },
     "all": [
         1084,
         1050,
@@ -3913,6 +4029,7 @@
         1042,
         1024,
         1035,
-        1094
+        1094,
+        1016
     ]
 }

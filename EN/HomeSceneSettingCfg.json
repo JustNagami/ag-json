@@ -299,6 +299,25 @@
         "scene_setting": [],
         "obtain_way": []
     },
+    "6015": {
+        "action_suffix": "",
+        "title": "Maiden's Daydream",
+        "desc": "The young lady had purchased a drink to pass the time waiting for the Admin to get back, but for some reason, whenever she was with the Admin, the pace of her steps always seemed to get disrupted...",
+        "obtain_word": "",
+        "scene_trial": 0,
+        "limit_display": 0,
+        "prefix_dlc": "",
+        "light_effect": "",
+        "unlock_description": "",
+        "prefix": "X312",
+        "light_effect_delay": "",
+        "id": 6015,
+        "default_music": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": []
+    },
     "6100": {
         "action_suffix": "",
         "title": "Command Center Lobby",
@@ -335,6 +354,7 @@
         6012,
         6013,
         6014,
+        6015,
         6100
     ]
 }

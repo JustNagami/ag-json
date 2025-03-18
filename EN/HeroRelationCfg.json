@@ -859,7 +859,74 @@
         "relation_des": "Friends",
         "main_hero_id": 1119
     },
+    "108101": {
+        "story_id": 0,
+        "id": 108101,
+        "story_reward": "",
+        "story_condtion_id": 0,
+        "relate_hero_id": 1055,
+        "relation_des": "Acquaintances",
+        "main_hero_id": 1081
+    },
+    "108102": {
+        "story_id": 0,
+        "id": 108102,
+        "story_reward": "",
+        "story_condtion_id": 0,
+        "relate_hero_id": 1056,
+        "relation_des": "Acquaintances",
+        "main_hero_id": 1081
+    },
+    "108103": {
+        "story_id": 710810101,
+        "id": 108103,
+        "story_condtion_id": 0,
+        "relate_hero_id": 1019,
+        "relation_des": "Good Friend",
+        "main_hero_id": 1081,
+        "story_reward": [
+            [
+                1,
+                30
+            ]
+        ]
+    },
+    "108104": {
+        "story_id": 710810102,
+        "id": 108104,
+        "story_condtion_id": 0,
+        "relate_hero_id": 1039,
+        "relation_des": "Good Friend",
+        "main_hero_id": 1081,
+        "story_reward": [
+            [
+                1,
+                30
+            ]
+        ]
+    },
+    "108105": {
+        "story_id": 710810103,
+        "id": 108105,
+        "story_condtion_id": 0,
+        "relate_hero_id": 1027,
+        "relation_des": "Good Friend",
+        "main_hero_id": 1081,
+        "story_reward": [
+            [
+                1,
+                30
+            ]
+        ]
+    },
     "get_id_list_by_main_hero_id": {
+        "1081": [
+            108101,
+            108102,
+            108103,
+            108104,
+            108105
+        ],
         "1119": [
             111901,
             111902,
@@ -1037,6 +1104,11 @@
         111903,
         111904,
         111905,
-        111906
+        111906,
+        108101,
+        108102,
+        108103,
+        108104,
+        108105
     ]
 }

@@ -1,4 +1,120 @@
 {
+    "542054": {
+        "decompose_id": 0,
+        "name": "Battle Cry of the Wild Sands Ⅳ",
+        "compose_id": 0,
+        "type": 7,
+        "id": 542054,
+        "rare": 5,
+        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
+        "limit": 0,
+        "sub_type": 0,
+        "display_rare": 5,
+        "icon": "54",
+        "use": 0,
+        "max": 0,
+        "source": [
+            [
+                10001
+            ]
+        ]
+    },
+    "543054": {
+        "decompose_id": 0,
+        "name": "Battle Cry of the Wild Sands Ⅳ",
+        "compose_id": 0,
+        "type": 7,
+        "id": 543054,
+        "rare": 5,
+        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
+        "limit": 0,
+        "sub_type": 0,
+        "display_rare": 5,
+        "icon": "54",
+        "use": 0,
+        "max": 0,
+        "source": [
+            [
+                10001
+            ]
+        ]
+    },
+    "544054": {
+        "decompose_id": 0,
+        "name": "Battle Cry of the Wild Sands Ⅳ",
+        "compose_id": 0,
+        "type": 7,
+        "id": 544054,
+        "rare": 5,
+        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
+        "limit": 0,
+        "sub_type": 0,
+        "display_rare": 5,
+        "icon": "54",
+        "use": 0,
+        "max": 0,
+        "source": [
+            [
+                10001
+            ]
+        ]
+    },
+    "545054": {
+        "decompose_id": 0,
+        "name": "Battle Cry of the Wild Sands Ⅳ",
+        "compose_id": 0,
+        "type": 7,
+        "id": 545054,
+        "rare": 5,
+        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
+        "limit": 0,
+        "sub_type": 0,
+        "display_rare": 5,
+        "icon": "54",
+        "use": 0,
+        "max": 0,
+        "source": [
+            [
+                10001
+            ]
+        ]
+    },
+    "549054": {
+        "decompose_id": 0,
+        "name": "Battle Cry of the Wild Sands Ⅳ",
+        "compose_id": 0,
+        "type": 7,
+        "id": 549054,
+        "rare": 5,
+        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
+        "limit": 0,
+        "sub_type": 0,
+        "display_rare": 5,
+        "icon": "54",
+        "use": 0,
+        "max": 0,
+        "source": [
+            [
+                10001
+            ]
+        ]
+    },
+    "250054": {
+        "decompose_id": 0,
+        "name": "Battle Cry of the Wild Sands Ⅴ",
+        "compose_id": 0,
+        "type": 7,
+        "id": 250054,
+        "rare": 2,
+        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
+        "limit": 0,
+        "sub_type": 0,
+        "display_rare": 2,
+        "icon": "54",
+        "use": 0,
+        "max": 0,
+        "source": []
+    },
     "350054": {
         "decompose_id": 0,
         "name": "Battle Cry of the Wild Sands Ⅴ",
@@ -17955,6 +18071,22 @@
         "max": 0,
         "source": []
     },
+    "950025": {
+        "decompose_id": 0,
+        "name": "Pirate Attack",
+        "compose_id": 0,
+        "type": 15,
+        "id": 950025,
+        "rare": 5,
+        "desc": "What do captains hate most? Pirates, of course! So use your sword to teach them a lesson!\n(Skadi has a special animation when interacting with this furniture.)",
+        "limit": 0,
+        "sub_type": 0,
+        "display_rare": 5,
+        "icon": "950025",
+        "use": 0,
+        "max": 0,
+        "source": []
+    },
     "950901": {
         "decompose_id": 0,
         "name": "Magic Carpet",
@@ -32966,19 +33098,19 @@
         ]
     },
     "1110210103": {
+        "decompose_id": 0,
         "name": "Dawnray - Colorful Summer (3 Days)",
+        "rare": 5,
         "type": 8,
         "id": 1110210103,
-        "rare": 5,
-        "desc": "Artemis' \"Colorful Summer\" outfit.",
         "compose_id": 0,
+        "desc": "Artemis' \"Colorful Summer\" outfit.",
         "sub_type": 801,
-        "decompose_id": 0,
-        "limit": 0,
-        "display_rare": 5,
         "icon": "102101",
         "use": 0,
         "max": 0,
+        "limit": 0,
+        "display_rare": 5,
         "param": [
             102101
         ],
@@ -32993,6 +33125,10 @@
                     0
                 ]
             ]
+        ],
+        "time_exchange_item": [
+            2,
+            10000
         ]
     },
     "1110200103": {
@@ -34210,6 +34346,7 @@
             950021,
             950022,
             950023,
+            950025,
             950901,
             950902,
             950903,
@@ -38343,6 +38480,7 @@
             50047,
             50048,
             50049,
+            50050,
             50051
         ],
         "5": [
@@ -39146,7 +39284,8 @@
             7105,
             7106,
             7107,
-            7108
+            7108,
+            7110
         ],
         "21": [
             6000,
@@ -39164,6 +39303,7 @@
             6012,
             6013,
             6014,
+            6015,
             6100,
             4600703,
             4600803,
@@ -39222,7 +39362,8 @@
             3030,
             3031,
             3032,
-            3036
+            3036,
+            3037
         ],
         "12": [
             2001,
@@ -39252,6 +39393,7 @@
             2027,
             2029,
             2030,
+            2031,
             2401,
             2701,
             2702,
@@ -39661,6 +39803,7 @@
             50047,
             50048,
             50049,
+            50050,
             50051,
             2110841,
             2110842,
@@ -40437,6 +40580,7 @@
             6012,
             6013,
             6014,
+            6015,
             6100,
             4600703,
             4600803,
@@ -40494,7 +40638,8 @@
             3030,
             3031,
             3032,
-            3036
+            3036,
+            3037
         ],
         "1204": [
             2910,
@@ -40555,6 +40700,7 @@
             2027,
             2029,
             2030,
+            2031,
             2915
         ],
         "1702": [
@@ -40655,6 +40801,7 @@
             7106,
             7107,
             7108,
+            7110,
             8001,
             8002,
             8003,
@@ -44681,6 +44828,7 @@
             950021,
             950022,
             950023,
+            950025,
             950901,
             950902,
             950903,
@@ -45378,6 +45526,7 @@
         2027,
         2029,
         2030,
+        2031,
         2401,
         2701,
         2702,
@@ -45435,6 +45584,7 @@
         3031,
         3032,
         3036,
+        3037,
         4001,
         4002,
         4003,
@@ -45454,6 +45604,7 @@
         6012,
         6013,
         6014,
+        6015,
         6100,
         7001,
         7002,
@@ -45479,6 +45630,7 @@
         7106,
         7107,
         7108,
+        7110,
         8001,
         8002,
         8003,
@@ -45912,6 +46064,7 @@
         50047,
         50048,
         50049,
+        50050,
         50051,
         51009,
         51010,
@@ -50209,6 +50362,7 @@
         950021,
         950022,
         950023,
+        950025,
         950901,
         950902,
         950903,
