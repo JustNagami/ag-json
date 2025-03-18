@@ -1590,7 +1590,7 @@
         ]
     },
     "101021201": {
-        "description": "Deals Physical DMG equal to <color=#E78300>{1}, {2}, {3}, {4}</color> of ATK successively. Every strike landed on a locked-on enemy inflicts <material=underline c=#FFFFFF h=2 event=terminology args=(102103)>Harmonizing Chord</material> on the enemy, up to <color=#E78300>4</color> stacks. Hits on enemies with <material=underline c=#FFFFFF h=2 event=terminology args=(102103)>Harmonizing Chord</material> grant <color=#E78300>6.25%</color> <material=underline c=#FFFFFF h=2 event=terminology args=(102103)>Luminous Echo</material> for <color=#E78300>every</color> stack of <material=underline c=#FFFFFF h=2 event=terminology args=(102101)>Harmonizing Chord</material> the enemy carries. This skill resets to its first strike upon exiting <material=underline c=#FFFFFF h=2 event=terminology args=(102102)>Dawnlight</material>.",
+        "description": "Deals Physical DMG equal to <color=#E78300>{1}, {2}, {3}, {4}</color> of ATK successively. Every strike landed on a locked-on enemy inflicts <material=underline c=#FFFFFF h=2 event=terminology args=(102103)>Harmonizing Chord</material> on the enemy, up to <color=#E78300>4</color> stacks. Hits on enemies defeated with <material=underline c=#FFFFFF h=2 event=terminology args=(102103)>Harmonizing Chord</material> grant <color=#E78300>6.25%</color> <material=underline c=#FFFFFF h=2 event=terminology args=(102103)>Luminous Echo</material> for <color=#E78300>every</color> stack of <material=underline c=#FFFFFF h=2 event=terminology args=(102101)>Harmonizing Chord</material> the enemy carries. This skill resets to its first strike upon exiting <material=underline c=#FFFFFF h=2 event=terminology args=(102102)>Dawnlight</material>.",
         "maxLv": 60,
         "type": 1,
         "id": 101021201,
@@ -26151,7 +26151,7 @@
         ]
     },
     "220109601": {
-        "description": "Equipping by Windwalker - Hermes grants the following effects:\nIncreases the Base DMG of Skill 3 by <color=#E78300>{2}%</color>.\nTap on the Normal Attack button again after the final strike of a normal attack for a follow-up attack with <color=#297DE0>Ride with the Wind</color> at the cost of Rage. Launching <color=#297DE0>Ride with the Wind</color> attacks in this manner does not trigger CD.\nThe <color=#297DE0>Ride with the Wind</color> follow-up attack also reduces the enemy's Wind RES by <color=#E78300>{1}%</color> upon hit, up to a maximum of <color=#E78300>120%.",
+        "description": "Equipping by Windwalker - Hermes grants the following effects:\nIncreases the Base DMG of Skill 3 by <color=#E78300>{2}%</color>.\nTap on the Normal Attack button again after the final strike of a normal attack for a follow-up attack with <color=#297DE0>Ride with the Wind</color> at the cost of Rage. Launching <color=#297DE0>Ride with the Wind</color> attacks in this manner does not trigger CD.\nThe <color=#297DE0>Ride with the Wind</color> follow-up attack also reduces the enemy's Wind RES by <color=#E78300>{1}%</color> upon hit, up to a maximum of <color=#E78300>120%</color>.",
         "maxLv": 0,
         "type": 0,
         "id": 220109601,
@@ -52705,7 +52705,7 @@
         ]
     },
     "21104220122": {
-        "description": "Switches around the puppets, and the next time Puppet Show: Prelude or Puppet Show: March is cast, Leuce and Mintha both go into Dance Partner mode. When the Chthonic Mark count is at max, hold down on the Normal Attack button to expend all of the Marks, which causes Leuce and Mintha to go into Dance Duo mode.\nDance Duo: Increases the Mod's Crit Rate by <color=#E78300>{2}</color>, Crit DMG by <color=#E78300>{3}</color>, and Fixed DMG by <color=#E78300>6,000</color> for <color=#E78300>9</color>s; Leuce and Mintha launch a joint attack, dealing Shadow DMG equal to <color=#E78300>{1}</color> ATK in total for <color=#E78300>5.5</color>s. When in <material=underline c=#FFFFFF h=2 event=terminology args=(104203)>Dance Duo state, skills can not be cast, no Chthonic Marks are granted, and Leuce and Mintha can not gain or expend any Divine Grace.\nCasting Shadow Dance Twirl when Dodge is not in CD triggers the Dodge effect against the locked-on enemy. Dodge effect goes into CD after this effect is triggered.",
+        "description": "Switches around the puppets, and the next time Puppet Show: Prelude or Puppet Show: March is cast, Leuce and Mintha both go into Dance Partner mode. When the Chthonic Mark count is at max, hold down on the Normal Attack button to expend all of the Marks, which causes Leuce and Mintha to go into Dance Duo mode.\nDance Duo: Increases the Mod's Crit Rate by <color=#E78300>{2}</color>, Crit DMG by <color=#E78300>{3}</color>, and Fixed DMG by <color=#E78300>6,000</color> for <color=#E78300>9</color>s; Leuce and Mintha launch a joint attack, dealing Shadow DMG equal to <color=#E78300>{1}</color> ATK in total for <color=#E78300>5.5</color>s. When in Dance Duo state, skills can not be cast, no Chthonic Marks are granted, and Leuce and Mintha can not gain or expend any Divine Grace.\nCasting Shadow Dance Twirl when Dodge is not in CD triggers the Dodge effect against the locked-on enemy. Dodge effect goes into CD after this effect is triggered.",
         "maxLv": 60,
         "type": 1,
         "id": 21104220122,

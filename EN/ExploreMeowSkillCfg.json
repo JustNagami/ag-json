@@ -1,6 +1,6 @@
 {
     "10001": {
-        "skill_description": "Increases Exploration Token Earning by <color=#F6C800>%s%% when exploration is less than 8 hours.",
+        "skill_description": "Increases Exploration Token Earning by <color=#F6C800>%s%%</color> when exploration is less than 8 hours.",
         "skill_type": 1,
         "skill_icon": "1001",
         "id": 10001,
@@ -75,7 +75,7 @@
         ]
     },
     "10002": {
-        "skill_description": "Increases Exploration EXP Earning by <color=#F6C800>%s%% when exploration is less than 8 hours.",
+        "skill_description": "Increases Exploration EXP Earning by <color=#F6C800>%s%%</color> when exploration is less than 8 hours.",
         "skill_type": 2,
         "skill_icon": "1002",
         "id": 10002,
@@ -150,7 +150,7 @@
         ]
     },
     "10003": {
-        "skill_description": "Increases Exploration Token Earning by <color=#F6C800>%s%% when exploration is more than 8 hours.",
+        "skill_description": "Increases Exploration Token Earning by <color=#F6C800>%s%%</color> when exploration is more than 8 hours.",
         "skill_type": 3,
         "skill_icon": "1003",
         "id": 10003,
@@ -225,7 +225,7 @@
         ]
     },
     "10004": {
-        "skill_description": "Increases Exploration EXP Earning by <color=#F6C800>%s%% when exploration is more than 8 hours.",
+        "skill_description": "Increases Exploration EXP Earning by <color=#F6C800>%s%%</color> when exploration is more than 8 hours.",
         "skill_type": 4,
         "skill_icon": "1004",
         "id": 10004,

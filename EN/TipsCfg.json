@@ -5797,13 +5797,13 @@
     },
     "70117": {
         "id": 70117,
-        "desc": "857ff1770e8b44fe675739973af687f8",
+        "desc": "Spend <color=#E78300>%s</color> Swigs to start the <color=#E78300>x%s</color> Drop Challenge?",
         "define": "QUICK_BATTLE_TIPS1",
         "audio": "ui_tips01"
     },
     "70121": {
         "id": 70121,
-        "desc": "08802ce6938e9561d0b1e697bb3f1cfe",
+        "desc": "%sEnd",
         "define": "ENDING_TIME",
         "audio": "ui_tips02"
     },
@@ -10777,7 +10777,7 @@
     },
     "210292": {
         "id": 210292,
-        "desc": "Translating:【game_tips$210292$desc$0】",
+        "desc": "Dispatch Cancelled",
         "define": "CANTEEN_TASK_DISPATCH_CANCEL",
         "audio": "ui_tips02"
     },
@@ -15583,7 +15583,7 @@
     },
     "360010": {
         "id": 360010,
-        "desc": "1. Midsummer Playground now available! The Admin is organizing a water fight in the park for the Modifiers.\n2. Midsummer Playground has 6 rounds in total, with each round lasting 1 week.\n3. In Midsummer Playground, each round of battle is split into Solo Mode and Multiplayer Mode.\n4. In Solo Mode, two new characters will be added each round. You must select at least 1 Modifier to complete the water fight.\n5. In Multiplayer Mode, you can match with or invite other Admins to do water fights together.\n6. Multiplayer Mode is only available from 18:00–22:00 each day.\n7. For every water fight you complete in any mode, you will obtain an unequal number of Summer Miracles.\n8. Summer Miracles can be used in Popularity Ranking to vote for your favorite Mod.",
+        "desc": "1. Midsummer Playground now available! The Admin is organizing a water fight in the park for the Modifiers.\n2. Midsummer Playground has 6 rounds in total, with each round lasting 1 week.\n3. In Midsummer Playground, each round of battle is split into Solo Mode and Multiplayer Mode.\n4. In Solo Mode, two new characters will be added each round. You must select at least 1 Modifier to complete the water fight.\n5. In Multiplayer Mode, you can match with or invite other Admins to do water fights together.\n6. For every water fight you complete in any mode, you will obtain an unequal number of Summer Miracles.\n7. Summer Miracles can be used in Popularity Ranking to vote for your favorite Mod.",
         "define": "ACTIVITY_WATER_DESC",
         "audio": "ui_tips03"
     },
@@ -20215,7 +20215,7 @@
     },
     "453008": {
         "id": 453008,
-        "desc": "Available in %sd.",
+        "desc": "Available in %s.",
         "define": "ACTIVITY_ZUMA_LEVEL_UNLOCK_CONDITION",
         "audio": "ui_tips03"
     },
@@ -21421,7 +21421,7 @@
     },
     "467012": {
         "id": 467012,
-        "desc": "b714b750bab110c44f2c99d33350377b",
+        "desc": "Complete the prerequisite stage to unlock.",
         "define": "UNLOCK_BY_COMPLETE_PRE_STAGE",
         "audio": "ui_tips02"
     },
@@ -21631,13 +21631,13 @@
     },
     "472102": {
         "id": 472102,
-        "desc": "1. Midsummer Playground now available! The Admin is organizing a water fight in the park for the Modifiers.\n2. Midsummer Playground has 6 rounds in total, with each round lasting 1 week.\n3. In Midsummer Playground, each round of battle is split into Solo Mode and Multiplayer Mode.\n4. In Solo Mode, you must select 1 Modifier to complete the water fight alone.\n5. In Multiplayer Mode, you can match with or invite other Admins to do water fights together.\n6. Multiplayer Mode is only available from 18:00–22:00 each day.\n7. For every water fight you complete in any mode, you will obtain an unequal number of Summer Miracles.\n8. Summer Miracles can be used in Popularity Ranking to vote for your favorite Mod.",
+        "desc": "1. Midsummer Playground now available! The Admin is organizing a water fight in the park for the Modifiers.\n2. Midsummer Playground has 6 rounds in total, with each round lasting 1 week.\n3. In Midsummer Playground, each round of battle is split into Solo Mode and Multiplayer Mode.\n4. In Solo Mode, you must select 1 Modifier to complete the water fight alone.\n5. In Multiplayer Mode, you can match with or invite other Admins to do water fights together.\n6. For every water fight you complete in any mode, you will obtain an unequal number of Summer Miracles.\n7. Summer Miracles can be used in Popularity Ranking to vote for your favorite Mod.",
         "define": "ACTIVITY_SWIMSUIT_EXPLAIN_WATER",
         "audio": "ui_tips02"
     },
     "472103": {
         "id": 472103,
-        "desc": "1. Popularity Ranking is available for as long as Summertide Revelry and Midsummer Playground are open.\n2. Admins can use Summer Miracles to vote for the characters they like best.\n3. There are four rounds of voting in total, and the first three are preliminary voting rounds lasting 3 weeks, 2 weeks, and 1 week respectively. The last round is the deciding round.\n4. Each preliminary round of voting will select 2 characters and advance them straight to the final. The remaining characters will continue to the next round of preliminary voting.\n5. The third preliminary round will also add mystery characters.\n6. During each round of the event, when you reach the specified number of votes, you will earn corresponding rewards.\n7. After the final, custom rewards will be released in future versions based on the vote rankings.\n8. The Ain Soph and Tikala servers will share voting data and results, synchronizing once every 5 minutes.",
+        "desc": "1. Popularity Ranking is available for as long as Summertide Revelry and Midsummer Playground are open.\n2. Admins can use Summer Miracles to vote for the characters they like best.\n3. There are four rounds of voting in total, and the first three are preliminary voting rounds lasting 3 weeks, 2 weeks, and 1 week respectively. The last round is the deciding round.\n4. Each preliminary round of voting will select 2 characters and advance them straight to the final. The remaining characters will continue to the next round of preliminary voting.\n5. The third preliminary round will also add mystery characters.\n6. During each round of the event, when you reach the specified number of votes, you will earn corresponding rewards.\n7. After the final, custom rewards will be released in future versions based on the vote rankings.",
         "define": "ACTIVITY_SWIMSUIT_EXPLAIN_VOTE",
         "audio": "ui_tips02"
     },
