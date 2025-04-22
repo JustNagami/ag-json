@@ -287,6 +287,14 @@
         "mail_desc": "Dear Admin, Please find attached today's Limited-Time Precise Scan Voucher (1 Day).\nThe Limited-Time Precise Scan Voucher (1 Day) will expire the following day at 05:00, so make sure you use it in time!",
         "mail_type": 0
     },
+    "1041": {
+        "mail_title": "Translating:【mail_template$1041$mail_title$0】",
+        "link_type": 0,
+        "id": 1041,
+        "mail_sender": "Translating:【mail_template$1041$mail_sender$0】",
+        "mail_desc": "Translating:【mail_template$1041$mail_desc$0】",
+        "mail_type": 0
+    },
     "2001": {
         "mail_title": "Claim Excess Swigs",
         "link_type": 0,
@@ -477,6 +485,14 @@
         "id": 2025,
         "mail_sender": "Swiggsy",
         "mail_desc": "Dear Admin,\n     In this update, we have adjusted the limited bonuses from C-Obs and reset your first purchases and sign-in counts. These adjustments will not affect the number of days remaining on your C-Obs.\nIf you purchased C-Obs before the update and it is still in effect, but you haven't reached the requirements for limited bonuses or have not yet claimed the rewards, then we will send you the rewards immediately after the update.\nIf you purchase C-Obs again, you'll get a new round of limited bonuses.",
+        "mail_type": 0
+    },
+    "2026": {
+        "mail_title": "Translating:【mail_template$2026$mail_title$0】",
+        "link_type": 0,
+        "id": 2026,
+        "mail_sender": "Mimir System",
+        "mail_desc": "Translating:【mail_template$2026$mail_desc$0】",
         "mail_type": 0
     },
     "2999": {
@@ -1487,6 +1503,78 @@
         "mail_desc": "Your unclaimed %s rewards have been sent to your mailbox, please take a look.",
         "mail_type": 0
     },
+    "640201": {
+        "mail_title": "Translating:【mail_template$640201$mail_title$0】",
+        "link_type": 0,
+        "id": 640201,
+        "mail_sender": "Ookuninushi",
+        "mail_desc": "Translating:【mail_template$640201$mail_desc$0】",
+        "mail_type": 1
+    },
+    "640202": {
+        "mail_title": "Translating:【mail_template$640202$mail_title$0】",
+        "link_type": 0,
+        "id": 640202,
+        "mail_sender": "Leviathan",
+        "mail_desc": "Translating:【mail_template$640202$mail_desc$0】",
+        "mail_type": 1
+    },
+    "640203": {
+        "mail_title": "Translating:【mail_template$640203$mail_title$0】",
+        "link_type": 0,
+        "id": 640203,
+        "mail_sender": "Buzenbo Tengu",
+        "mail_desc": "Translating:【mail_template$640203$mail_desc$0】",
+        "mail_type": 1
+    },
+    "640204": {
+        "mail_title": "Translating:【mail_template$640204$mail_title$0】",
+        "link_type": 0,
+        "id": 640204,
+        "mail_sender": "Izanami",
+        "mail_desc": "Translating:【mail_template$640204$mail_desc$0】",
+        "mail_type": 1
+    },
+    "640205": {
+        "mail_title": "Translating:【mail_template$640205$mail_title$0】",
+        "link_type": 0,
+        "id": 640205,
+        "mail_sender": "Anubis",
+        "mail_desc": "Translating:【mail_template$640205$mail_desc$0】",
+        "mail_type": 1
+    },
+    "640206": {
+        "mail_title": "Translating:【mail_template$640206$mail_title$0】",
+        "link_type": 0,
+        "id": 640206,
+        "mail_sender": "Jinwu",
+        "mail_desc": "Translating:【mail_template$640206$mail_desc$0】",
+        "mail_type": 1
+    },
+    "640207": {
+        "mail_title": "Translating:【mail_template$640207$mail_title$0】",
+        "link_type": 0,
+        "id": 640207,
+        "mail_sender": "Lingguang",
+        "mail_desc": "Translating:【mail_template$640207$mail_desc$0】",
+        "mail_type": 1
+    },
+    "640208": {
+        "mail_title": "Translating:【mail_template$640208$mail_title$0】",
+        "link_type": 0,
+        "id": 640208,
+        "mail_sender": "Kali",
+        "mail_desc": "Translating:【mail_template$640208$mail_desc$0】",
+        "mail_type": 1
+    },
+    "640209": {
+        "mail_title": "Translating:【mail_template$640209$mail_title$0】",
+        "link_type": 0,
+        "id": 640209,
+        "mail_sender": "Translating:【mail_template$640209$mail_sender$0】",
+        "mail_desc": "Translating:【mail_template$640209$mail_desc$0】",
+        "mail_type": 1
+    },
     "8003": {
         "mail_title": "Expiry Notice",
         "link_type": 1,
@@ -1796,6 +1884,7 @@
         1034,
         1035,
         1036,
+        1041,
         2001,
         2002,
         2003,
@@ -1820,6 +1909,7 @@
         2023,
         2024,
         2025,
+        2026,
         2999,
         3001,
         3002,
@@ -1946,6 +2036,15 @@
         8001,
         8002,
         9001,
+        640201,
+        640202,
+        640203,
+        640204,
+        640205,
+        640206,
+        640207,
+        640208,
+        640209,
         8003,
         8004,
         11001,

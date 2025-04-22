@@ -573,6 +573,213 @@
             0
         ]
     },
+    "1045101": {
+        "name": "Translating:【skill$1045101$name$0】",
+        "cd": 0,
+        "strengthen_desc": "",
+        "simpleDesc": "Translating:【skill$1045101$simpleDesc$0】",
+        "MaxUseCount": 0,
+        "id": 1045101,
+        "EnergyChange": 0,
+        "desc": [
+            101045101
+        ],
+        "element_type": [
+            4
+        ],
+        "abilities": [
+            1045101
+        ]
+    },
+    "1045201": {
+        "name": "Translating:【skill$1045201$name$0】",
+        "cd": 6000,
+        "strengthen_desc": "",
+        "simpleDesc": "Translating:【skill$1045201$simpleDesc$0】",
+        "MaxUseCount": 0,
+        "id": 1045201,
+        "EnergyChange": 0,
+        "desc": [
+            101045201
+        ],
+        "element_type": [
+            4
+        ],
+        "abilities": [
+            1045201,
+            1045062
+        ]
+    },
+    "1045202": {
+        "name": "Translating:【skill$1045202$name$0】",
+        "cd": 3000,
+        "strengthen_desc": "",
+        "simpleDesc": "Translating:【skill$1045202$simpleDesc$0】",
+        "MaxUseCount": 0,
+        "id": 1045202,
+        "EnergyChange": 0,
+        "desc": [
+            101045202
+        ],
+        "element_type": [
+            4
+        ],
+        "abilities": [
+            1045202
+        ]
+    },
+    "1045203": {
+        "name": "Translating:【skill$1045203$name$0】",
+        "cd": 500,
+        "strengthen_desc": "",
+        "simpleDesc": "Translating:【skill$1045203$simpleDesc$0】",
+        "MaxUseCount": 0,
+        "abilities": "",
+        "id": 1045203,
+        "EnergyChange": 0,
+        "desc": [
+            101045203
+        ],
+        "element_type": [
+            4
+        ]
+    },
+    "1045209": {
+        "name": "Translating:【skill$1045209$name$0】",
+        "cd": 20000,
+        "strengthen_desc": "",
+        "simpleDesc": "Translating:【skill$1045209$simpleDesc$0】",
+        "MaxUseCount": 0,
+        "id": 1045209,
+        "EnergyChange": 0,
+        "desc": [
+            101045209
+        ],
+        "element_type": [
+            4
+        ],
+        "abilities": [
+            1045209
+        ]
+    },
+    "1045305": {
+        "name": "Translating:【skill$1045305$name$0】",
+        "cd": 0,
+        "strengthen_desc": "",
+        "simpleDesc": "Translating:【skill$1045305$simpleDesc$0】",
+        "MaxUseCount": 2,
+        "abilities": "",
+        "id": 1045305,
+        "EnergyChange": 0,
+        "desc": [
+            101045305
+        ],
+        "element_type": [
+            4
+        ]
+    },
+    "1046101": {
+        "name": "Translating:【skill$1046101$name$0】",
+        "cd": 0,
+        "strengthen_desc": "",
+        "simpleDesc": "Translating:【skill$1046101$simpleDesc$0】",
+        "MaxUseCount": 0,
+        "id": 1046101,
+        "EnergyChange": 0,
+        "desc": [
+            101046101
+        ],
+        "element_type": [
+            6
+        ],
+        "abilities": [
+            1046101
+        ]
+    },
+    "1046201": {
+        "name": "Translating:【skill$1046201$name$0】",
+        "cd": 6000,
+        "strengthen_desc": "",
+        "simpleDesc": "Translating:【skill$1046201$simpleDesc$0】",
+        "MaxUseCount": 0,
+        "id": 1046201,
+        "EnergyChange": 0,
+        "desc": [
+            101046201
+        ],
+        "element_type": [
+            6
+        ],
+        "abilities": [
+            1046201
+        ]
+    },
+    "1046202": {
+        "name": "Translating:【skill$1046202$name$0】",
+        "cd": 0,
+        "strengthen_desc": "",
+        "simpleDesc": "Translating:【skill$1046202$simpleDesc$0】",
+        "MaxUseCount": 0,
+        "abilities": "",
+        "id": 1046202,
+        "EnergyChange": 0,
+        "desc": [
+            101046202
+        ],
+        "element_type": [
+            6
+        ]
+    },
+    "1046203": {
+        "name": "Translating:【skill$1046203$name$0】",
+        "cd": 0,
+        "strengthen_desc": "",
+        "simpleDesc": "Translating:【skill$1046203$simpleDesc$0】",
+        "MaxUseCount": 0,
+        "abilities": "",
+        "id": 1046203,
+        "EnergyChange": 0,
+        "desc": [
+            101046203
+        ],
+        "element_type": [
+            6
+        ]
+    },
+    "1046209": {
+        "name": "Translating:【skill$1046209$name$0】",
+        "cd": 20000,
+        "strengthen_desc": "",
+        "simpleDesc": "Translating:【skill$1046209$simpleDesc$0】",
+        "MaxUseCount": 0,
+        "id": 1046209,
+        "EnergyChange": 0,
+        "desc": [
+            101046209
+        ],
+        "element_type": [
+            6
+        ],
+        "abilities": [
+            1046072
+        ]
+    },
+    "1046305": {
+        "name": "Translating:【skill$1046305$name$0】",
+        "cd": 0,
+        "strengthen_desc": "",
+        "simpleDesc": "Translating:【skill$1046305$simpleDesc$0】",
+        "MaxUseCount": 2,
+        "abilities": "",
+        "id": 1046305,
+        "EnergyChange": 0,
+        "desc": [
+            101046305
+        ],
+        "element_type": [
+            6
+        ]
+    },
     "1048101": {
         "name": "Quick Shot",
         "cd": 0,
@@ -6669,13 +6876,18 @@
     "1072101": {
         "name": "Tian Lu Special",
         "cd": 0,
-        "strengthen_desc": "",
         "simpleDesc": "Launches up to 5 strikes of attack at the enemy, dealing Wind DMG.",
         "MaxUseCount": 0,
         "id": 1072101,
         "EnergyChange": 0,
         "desc": [
             101072101
+        ],
+        "strengthen_desc": [
+            [
+                107221,
+                21107210121
+            ]
         ],
         "element_type": [
             2
@@ -6687,13 +6899,18 @@
     "1072201": {
         "name": "Breezy Blessings",
         "cd": 8000,
-        "strengthen_desc": "",
         "simpleDesc": "Swiftly glides forward and delivers a fierce blow, dealing Wind DMG.",
         "MaxUseCount": 0,
         "id": 1072201,
         "EnergyChange": 0,
         "desc": [
             101072201
+        ],
+        "strengthen_desc": [
+            [
+                107222,
+                21107220122
+            ]
         ],
         "element_type": [
             2
@@ -6705,13 +6922,18 @@
     "1072202": {
         "name": "Actus Abacus",
         "cd": 16000,
-        "strengthen_desc": "",
         "simpleDesc": "Throws the weapon to launch a whirling attack at the enemy, dealing Wind DMG.",
         "MaxUseCount": 0,
         "id": 1072202,
         "EnergyChange": 0,
         "desc": [
             101072202
+        ],
+        "strengthen_desc": [
+            [
+                107223,
+                21107220223
+            ]
         ],
         "element_type": [
             2
@@ -6723,13 +6945,18 @@
     "1072203": {
         "name": "Raining Wealth",
         "cd": 9000,
-        "strengthen_desc": "",
         "simpleDesc": "Shortly after the final strike of Normal Attack, Skill 1, or Skill 2, this skill will be replaced by Evil Expeller and can be cast immediately as a follow-up attack of the attacks mentioned above, which will result in different number of strikes, different amounts of damage, and different <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> points obtained upon a hit.\n\nWhen Traces are at max, consumes all <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material>, then leaps into the air and attacks the enemy. Damage dealt is determined by the <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> expended.\nCasting Raining Wealth increases the Wind DMG of the entire team, and deals different amounts of Wind DMG depending on the <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> expended.\n\n<color=#297DE0>Traces:</color> Gains Trace after the last strike of Evil Expeller hits.",
         "MaxUseCount": 0,
         "id": 1072203,
         "EnergyChange": -4,
         "desc": [
             101072203
+        ],
+        "strengthen_desc": [
+            [
+                107224,
+                21107220324
+            ]
         ],
         "element_type": [
             2
@@ -6881,7 +7108,7 @@
         "name": "Moonlit Step",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "Within a short time after any strike of Normal Attack, a regular Skill 3, Skill 1, or Skill 2 attack is launched, a Non-mobile Dodge can be triggered to unleash a So-ei Strike, unleashing frost energy condensed from Divine Power on the enemy. Doing so will result in various modes of So-ei Strike depending on what the preceding attack is.\nEvery hit landed with So-ei Strike inflicts <material=underline c=#FFFFFF h=2 event=terminology args=(105501)>Frost</material> on the enemy. When an enemy in <material=underline c=#FFFFFF h=2 event=terminology args=(105501)>Frost</material> is hit with an Ice attack by any member of the team, increases Non-DoT Crit Rate.\nDodge effect:</color> Zero Time.\n\n<color=#297DE0>Rage:</color> Gains Rage when a So-ei Strike hits.",
+        "simpleDesc": "Within a short time after any strike of Normal Attack, a regular Skill 3, Skill 1, or Skill 2 attack is launched, a Non-mobile Dodge can be triggered to unleash a So-ei Strike, unleashing frost energy condensed from Divine Power on the enemy. Doing so will result in various modes of So-ei Strike depending on what the preceding attack is.\nEvery hit landed with So-ei Strike inflicts <material=underline c=#FFFFFF h=2 event=terminology args=(105501)>Frost</material> on the enemy. When an enemy in <material=underline c=#FFFFFF h=2 event=terminology args=(105501)>Frost</material> is hit with an Ice attack by any member of the team, increases Non-DoT Crit Rate.\nDodge effect: Zero Time.\n\n<color=#297DE0>Rage:</color> Gains Rage when a So-ei Strike hits.",
         "MaxUseCount": 0,
         "abilities": "",
         "id": 1055305,
@@ -9586,6 +9813,34 @@
             101089208
         ]
     },
+    "1045208": {
+        "element_type": "",
+        "name": "Translating:【skill$1045208$name$0】",
+        "cd": 0,
+        "strengthen_desc": "",
+        "simpleDesc": "",
+        "MaxUseCount": 0,
+        "abilities": "",
+        "id": 1045208,
+        "EnergyChange": 0,
+        "desc": [
+            101045208
+        ]
+    },
+    "1089281": {
+        "element_type": "",
+        "name": "Translating:【skill$1089281$name$0】",
+        "cd": 0,
+        "strengthen_desc": "",
+        "simpleDesc": "",
+        "MaxUseCount": 0,
+        "abilities": "",
+        "id": 1089281,
+        "EnergyChange": 0,
+        "desc": [
+            101089281
+        ]
+    },
     "all": [
         1050101,
         1050201,
@@ -9615,6 +9870,18 @@
         1066231,
         1066209,
         1066305,
+        1045101,
+        1045201,
+        1045202,
+        1045203,
+        1045209,
+        1045305,
+        1046101,
+        1046201,
+        1046202,
+        1046203,
+        1046209,
+        1046305,
         1048101,
         1048201,
         1048211,
@@ -10104,6 +10371,8 @@
         1020208,
         1024281,
         1095281,
-        1089208
+        1089208,
+        1045208,
+        1089281
     ]
 }

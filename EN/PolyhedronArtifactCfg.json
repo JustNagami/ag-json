@@ -1319,6 +1319,66 @@
         "id": 128405,
         "icon": "1284"
     },
+    "105501": {
+        "note": "Every time a normal attack is used, tap normal attack again to automatically follow up with Frostbreaker.\nFrostbreaker's Rage cost is reduced.",
+        "name": "Shogi",
+        "max_level": 1,
+        "affix_id": 70216,
+        "affix_target": 3,
+        "story": "A set of worn shogi pieces can often be found on the streets of Shimogyou, as an infinity of transformations and joys can be found in the rise and fall of each piece.",
+        "sub_type": 3007,
+        "exclusive_hero_id": 1055,
+        "id": 105501,
+        "icon": "1055"
+    },
+    "105502": {
+        "note": "After following up with Frostbreaker, using a Non-mobile Dodge will also unleash a So-ei Strike.",
+        "name": "Fireworks Paper",
+        "max_level": 1,
+        "affix_id": 70217,
+        "affix_target": 3,
+        "story": "The fireworks had burned out already, but the smell of gunpowder made one think of their bygone brilliance.",
+        "sub_type": 3007,
+        "exclusive_hero_id": 1055,
+        "id": 105502,
+        "icon": "1055"
+    },
+    "105503": {
+        "note": "When following up with Frostbreaker, DMG from normal attacks is increased for 5s.\nWhen using So-ei Strike, the remaining CDs of Skill 1: Shadowswayer, Skill 2: Moonshatter, and Ultimate Skills are reduced by 2s.",
+        "name": "Codebook",
+        "max_level": 1,
+        "affix_id": 70218,
+        "affix_target": 3,
+        "story": "The notebook was filled with all manner of indecipherable markings and illustrations written in different handwriting, recording the secret codes of contact between the Kuramitsuha and the Ninja Irregulars.",
+        "sub_type": 3007,
+        "exclusive_hero_id": 1055,
+        "id": 105503,
+        "icon": "1055"
+    },
+    "105504": {
+        "note": "Each normal attack grants Super Armor and reduces DMG taken for 2s.",
+        "name": "Candy Apple",
+        "max_level": 1,
+        "affix_id": 70219,
+        "affix_target": 3,
+        "story": "It was Ninkyoumon's strict selection of shape, color, and flavor that produced such perfection.",
+        "sub_type": 3007,
+        "exclusive_hero_id": 1055,
+        "id": 105504,
+        "icon": "1055"
+    },
+    "105505": {
+        "note": "Upon hit, increases Non-DoT ATK by 0.6% for every 1 Rage. This effect can increase ATK by up to 60% in total.",
+        "name": "Contract",
+        "max_level": 1,
+        "affix_id": 70220,
+        "affix_target": 3,
+        "story": "A stack of yellowed parchments, the handwriting and signatures upon which reveal the surprise or panic of the writer, traces left behind by Ninkyoumon as he played tricks on scoundrels.",
+        "sub_type": 3007,
+        "exclusive_hero_id": 1055,
+        "id": 105505,
+        "icon": "1055"
+    },
     "70501": {
         "note": "Deals additional DMG once whenever a normal attack hits.",
         "name": "Ancient Clock",
@@ -3045,7 +3105,12 @@
             128402,
             128403,
             128404,
-            128405
+            128405,
+            105501,
+            105502,
+            105503,
+            105504,
+            105505
         ]
     },
     "get_id_list_by_exclusive_hero_id": {
@@ -3173,6 +3238,13 @@
             70865,
             70866,
             70867
+        ],
+        "1055": [
+            105501,
+            105502,
+            105503,
+            105504,
+            105505
         ],
         "1284": [
             128401,
@@ -3440,6 +3512,11 @@
         128403,
         128404,
         128405,
+        105501,
+        105502,
+        105503,
+        105504,
+        105505,
         70501,
         70502,
         70503,

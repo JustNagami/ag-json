@@ -1866,6 +1866,104 @@
             30043
         ]
     },
+    "100055": {
+        "new_recommend": 1,
+        "prefab": "recommend_104601",
+        "show_type": 0,
+        "goods_id": 100055,
+        "info_desc": "",
+        "title": "Translating:【recharge_recommend$100055$title$0】",
+        "sub_title": "Translating:【recharge_recommend$100055$sub_title$0】",
+        "params": "",
+        "show_time": "2025.6.5-2025.7.3",
+        "icon": "icon_104601",
+        "order": 2,
+        "jump": [
+            525
+        ],
+        "jump2": [
+            531,
+            15000036,
+            1046,
+            104601,
+            15
+        ],
+        "time": [
+            [
+                [
+                    2025,
+                    6,
+                    5
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2025,
+                    7,
+                    3
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
+    "100056": {
+        "new_recommend": 1,
+        "prefab": "recommend_104501",
+        "show_type": 0,
+        "goods_id": 100056,
+        "info_desc": "",
+        "title": "Translating:【recharge_recommend$100056$title$0】",
+        "sub_title": "Translating:【recharge_recommend$100056$sub_title$0】",
+        "params": "",
+        "show_time": "2025.6.5-2025.7.3",
+        "icon": "icon_104501",
+        "order": 2,
+        "jump": [
+            525
+        ],
+        "jump2": [
+            531,
+            15000037,
+            1045,
+            104501,
+            15
+        ],
+        "time": [
+            [
+                [
+                    2025,
+                    6,
+                    5
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2025,
+                    7,
+                    3
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
     "300001": {
         "jump2": "",
         "new_recommend": 0,
@@ -2210,6 +2308,8 @@
         100038,
         100039,
         100040,
+        100055,
+        100056,
         300001,
         300002,
         300003,

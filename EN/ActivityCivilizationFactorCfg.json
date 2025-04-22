@@ -1,0 +1,825 @@
+{
+    "1001": {
+        "description": "Translating:【activity_civilization_factor$1001$description$0】",
+        "name": "Translating:【activity_civilization_factor$1001$name$0】",
+        "effect_type": 1,
+        "id": 1001,
+        "icon": "",
+        "gain_type": 3,
+        "associated_illustrations": 0,
+        "effect": [
+            [
+                1001
+            ],
+            -1
+        ]
+    },
+    "1002": {
+        "description": "Translating:【activity_civilization_factor$1002$description$0】",
+        "name": "Translating:【activity_civilization_factor$1002$name$0】",
+        "effect_type": 2,
+        "id": 1002,
+        "icon": "combinegame_hero_skill_1",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            3
+        ]
+    },
+    "1003": {
+        "description": "Translating:【activity_civilization_factor$1003$description$0】",
+        "name": "Translating:【activity_civilization_factor$1003$name$0】",
+        "effect_type": 3,
+        "id": 1003,
+        "icon": "combinegame_hero_skill_2",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            30,
+            1
+        ]
+    },
+    "1004": {
+        "description": "Translating:【activity_civilization_factor$1004$description$0】",
+        "name": "Translating:【activity_civilization_factor$1004$name$0】",
+        "effect_type": 4,
+        "id": 1004,
+        "icon": "combinegame_hero_skill_3",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            3
+        ]
+    },
+    "1005": {
+        "description": "Translating:【activity_civilization_factor$1005$description$0】",
+        "name": "Permutation",
+        "effect_type": 5,
+        "id": 1005,
+        "icon": "combinegame_hero_skill_4",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            3,
+            1
+        ]
+    },
+    "1006": {
+        "description": "Translating:【activity_civilization_factor$1006$description$0】",
+        "name": "Translating:【activity_civilization_factor$1006$name$0】",
+        "effect_type": 4,
+        "id": 1006,
+        "icon": "combinegame_hero_skill_5",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            6
+        ]
+    },
+    "1007": {
+        "description": "Translating:【activity_civilization_factor$1007$description$0】",
+        "name": "Translating:【activity_civilization_factor$1007$name$0】",
+        "effect_type": 6,
+        "id": 1007,
+        "icon": "combinegame_hero_skill_6",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            3,
+            20
+        ]
+    },
+    "2001": {
+        "description": "Translating:【activity_civilization_factor$2001$description$0】",
+        "name": "Translating:【activity_civilization_factor$2001$name$0】",
+        "effect_type": 1,
+        "id": 2001,
+        "icon": "",
+        "gain_type": 3,
+        "associated_illustrations": 0,
+        "effect": [
+            [
+                1002
+            ],
+            -1
+        ]
+    },
+    "2002": {
+        "description": "Translating:【activity_civilization_factor$2002$description$0】",
+        "name": "Translating:【activity_civilization_factor$2002$name$0】",
+        "effect_type": 15,
+        "id": 2002,
+        "icon": "combinegame_hero_skill_7",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            -1
+        ]
+    },
+    "2003": {
+        "description": "Translating:【activity_civilization_factor$2003$description$0】",
+        "name": "Translating:【activity_civilization_factor$2003$name$0】",
+        "effect_type": 8,
+        "id": 2003,
+        "icon": "combinegame_hero_skill_8",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            1003,
+            1010
+        ]
+    },
+    "2004": {
+        "description": "Translating:【activity_civilization_factor$2004$description$0】",
+        "name": "Translating:【activity_civilization_factor$2004$name$0】",
+        "effect_type": 9,
+        "id": 2004,
+        "icon": "combinegame_hero_skill_9",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            1
+        ]
+    },
+    "2005": {
+        "description": "Translating:【activity_civilization_factor$2005$description$0】",
+        "name": "Translating:【activity_civilization_factor$2005$name$0】",
+        "effect_type": 5,
+        "id": 2005,
+        "icon": "combinegame_hero_skill_10",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            1,
+            3
+        ]
+    },
+    "2006": {
+        "description": "Translating:【activity_civilization_factor$2006$description$0】",
+        "name": "Translating:【activity_civilization_factor$2006$name$0】",
+        "effect_type": 10,
+        "id": 2006,
+        "icon": "combinegame_hero_skill_11",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            1
+        ]
+    },
+    "2007": {
+        "description": "Translating:【activity_civilization_factor$2007$description$0】",
+        "name": "Translating:【activity_civilization_factor$2007$name$0】",
+        "effect_type": 4,
+        "id": 2007,
+        "icon": "combinegame_hero_skill_12",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            6
+        ]
+    },
+    "3001": {
+        "description": "Translating:【activity_civilization_factor$3001$description$0】",
+        "name": "Translating:【activity_civilization_factor$3001$name$0】",
+        "effect_type": 11,
+        "id": 3001,
+        "icon": "combinegame_factor_1",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1001
+        ]
+    },
+    "3002": {
+        "description": "Translating:【activity_civilization_factor$3002$description$0】",
+        "name": "Translating:【activity_civilization_factor$3002$name$0】",
+        "effect_type": 11,
+        "id": 3002,
+        "icon": "combinegame_factor_2",
+        "gain_type": 2,
+        "associated_illustrations": 5,
+        "effect": [
+            1002
+        ]
+    },
+    "3003": {
+        "description": "Translating:【activity_civilization_factor$3003$description$0】",
+        "name": "Translating:【activity_civilization_factor$3003$name$0】",
+        "effect_type": 11,
+        "id": 3003,
+        "icon": "combinegame_factor_5",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1003
+        ]
+    },
+    "3004": {
+        "description": "Translating:【activity_civilization_factor$3004$description$0】",
+        "name": "Translating:【activity_civilization_factor$3004$name$0】",
+        "effect_type": 12,
+        "id": 3004,
+        "icon": "combinegame_factor_6",
+        "gain_type": 2,
+        "associated_illustrations": 2,
+        "effect": [
+            3,
+            3
+        ]
+    },
+    "3005": {
+        "description": "Translating:【activity_civilization_factor$3005$description$0】",
+        "name": "Translating:【activity_civilization_factor$3005$name$0】",
+        "effect_type": 11,
+        "id": 3005,
+        "icon": "combinegame_factor_7",
+        "gain_type": 2,
+        "associated_illustrations": 4,
+        "effect": [
+            1004
+        ]
+    },
+    "3006": {
+        "description": "Translating:【activity_civilization_factor$3006$description$0】",
+        "name": "Translating:【activity_civilization_factor$3006$name$0】",
+        "effect_type": 11,
+        "id": 3006,
+        "icon": "combinegame_factor_8",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1005
+        ]
+    },
+    "3007": {
+        "description": "Translating:【activity_civilization_factor$3007$description$0】",
+        "name": "Translating:【activity_civilization_factor$3007$name$0】",
+        "effect_type": 11,
+        "id": 3007,
+        "icon": "combinegame_factor_9",
+        "gain_type": 2,
+        "associated_illustrations": 6,
+        "effect": [
+            1006
+        ]
+    },
+    "3008": {
+        "description": "Translating:【activity_civilization_factor$3008$description$0】",
+        "name": "Translating:【activity_civilization_factor$3008$name$0】",
+        "effect_type": 12,
+        "id": 3008,
+        "icon": "combinegame_factor_10",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1,
+            3
+        ]
+    },
+    "3009": {
+        "description": "Translating:【activity_civilization_factor$3009$description$0】",
+        "name": "Translating:【activity_civilization_factor$3009$name$0】",
+        "effect_type": 12,
+        "id": 3009,
+        "icon": "combinegame_factor_11",
+        "gain_type": 2,
+        "associated_illustrations": 3,
+        "effect": [
+            2,
+            3
+        ]
+    },
+    "3010": {
+        "description": "Translating:【activity_civilization_factor$3010$description$0】",
+        "name": "Translating:【activity_civilization_factor$3010$name$0】",
+        "effect_type": 13,
+        "id": 3010,
+        "icon": "combinegame_factor_12",
+        "gain_type": 2,
+        "associated_illustrations": 2,
+        "effect": [
+            3,
+            2
+        ]
+    },
+    "3011": {
+        "description": "Translating:【activity_civilization_factor$3011$description$0】",
+        "name": "Translating:【activity_civilization_factor$3011$name$0】",
+        "effect_type": 13,
+        "id": 3011,
+        "icon": "combinegame_factor_13",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1,
+            2
+        ]
+    },
+    "3012": {
+        "description": "Translating:【activity_civilization_factor$3012$description$0】",
+        "name": "Translating:【activity_civilization_factor$3012$name$0】",
+        "effect_type": 13,
+        "id": 3012,
+        "icon": "combinegame_factor_14",
+        "gain_type": 2,
+        "associated_illustrations": 3,
+        "effect": [
+            2,
+            2
+        ]
+    },
+    "3013": {
+        "description": "Translating:【activity_civilization_factor$3013$description$0】",
+        "name": "Translating:【activity_civilization_factor$3013$name$0】",
+        "effect_type": 14,
+        "id": 3013,
+        "icon": "combinegame_factor_15",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1007,
+            1005
+        ]
+    },
+    "3014": {
+        "description": "Translating:【activity_civilization_factor$3014$description$0】",
+        "name": "Translating:【activity_civilization_factor$3014$name$0】",
+        "effect_type": 11,
+        "id": 3014,
+        "icon": "combinegame_factor_16",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1008
+        ]
+    },
+    "3015": {
+        "description": "Translating:【activity_civilization_factor$3015$description$0】",
+        "name": "Translating:【activity_civilization_factor$3015$name$0】",
+        "effect_type": 14,
+        "id": 3015,
+        "icon": "combinegame_factor_17",
+        "gain_type": 2,
+        "associated_illustrations": 5,
+        "effect": [
+            1009,
+            1002
+        ]
+    },
+    "3016": {
+        "description": "Translating:【activity_civilization_factor$3016$description$0】",
+        "name": "Translating:【activity_civilization_factor$3016$name$0】",
+        "effect_type": 15,
+        "id": 3016,
+        "icon": "combinegame_factor_18",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            -3
+        ]
+    },
+    "3017": {
+        "description": "Translating:【activity_civilization_factor$3017$description$0】",
+        "name": "Translating:【activity_civilization_factor$3017$name$0】",
+        "effect_type": 12,
+        "id": 3017,
+        "icon": "combinegame_factor_19",
+        "gain_type": 2,
+        "associated_illustrations": 2,
+        "effect": [
+            3,
+            4
+        ]
+    },
+    "3018": {
+        "description": "Translating:【activity_civilization_factor$3018$description$0】",
+        "name": "Translating:【activity_civilization_factor$3018$name$0】",
+        "effect_type": 12,
+        "id": 3018,
+        "icon": "combinegame_factor_20",
+        "gain_type": 2,
+        "associated_illustrations": 3,
+        "effect": [
+            2,
+            4
+        ]
+    },
+    "3019": {
+        "description": "Translating:【activity_civilization_factor$3019$description$0】",
+        "name": "Translating:【activity_civilization_factor$3019$name$0】",
+        "effect_type": 12,
+        "id": 3019,
+        "icon": "combinegame_factor_21",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1,
+            4
+        ]
+    },
+    "3020": {
+        "description": "Translating:【activity_civilization_factor$3020$description$0】",
+        "name": "Translating:【activity_civilization_factor$3020$name$0】",
+        "effect_type": 14,
+        "id": 3020,
+        "icon": "combinegame_factor_22",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1010,
+            1003
+        ]
+    },
+    "3021": {
+        "description": "Translating:【activity_civilization_factor$3021$description$0】",
+        "name": "Translating:【activity_civilization_factor$3021$name$0】",
+        "effect_type": 16,
+        "id": 3021,
+        "icon": "combinegame_factor_23",
+        "gain_type": 2,
+        "associated_illustrations": 5,
+        "effect": []
+    },
+    "3022": {
+        "description": "Translating:【activity_civilization_factor$3022$description$0】",
+        "name": "Translating:【activity_civilization_factor$3022$name$0】",
+        "effect_type": 14,
+        "id": 3022,
+        "icon": "combinegame_factor_24",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1011,
+            1001
+        ]
+    },
+    "3023": {
+        "description": "Translating:【activity_civilization_factor$3023$description$0】",
+        "name": "Translating:【activity_civilization_factor$3023$name$0】",
+        "effect_type": 13,
+        "id": 3023,
+        "icon": "combinegame_factor_25",
+        "gain_type": 2,
+        "associated_illustrations": 2,
+        "effect": [
+            3,
+            3
+        ]
+    },
+    "3024": {
+        "description": "Translating:【activity_civilization_factor$3024$description$0】",
+        "name": "Translating:【activity_civilization_factor$3024$name$0】",
+        "effect_type": 11,
+        "id": 3024,
+        "icon": "combinegame_factor_26",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1012
+        ]
+    },
+    "3025": {
+        "description": "Translating:【activity_civilization_factor$3025$description$0】",
+        "name": "Translating:【activity_civilization_factor$3025$name$0】",
+        "effect_type": 13,
+        "id": 3025,
+        "icon": "combinegame_factor_27",
+        "gain_type": 2,
+        "associated_illustrations": 3,
+        "effect": [
+            2,
+            3
+        ]
+    },
+    "3026": {
+        "description": "Translating:【activity_civilization_factor$3026$description$0】",
+        "name": "Translating:【activity_civilization_factor$3026$name$0】",
+        "effect_type": 14,
+        "id": 3026,
+        "icon": "combinegame_factor_28",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1013,
+            1007
+        ]
+    },
+    "3027": {
+        "description": "Translating:【activity_civilization_factor$3027$description$0】",
+        "name": "Translating:【activity_civilization_factor$3027$name$0】",
+        "effect_type": 11,
+        "id": 3027,
+        "icon": "combinegame_factor_29",
+        "gain_type": 2,
+        "associated_illustrations": 2,
+        "effect": [
+            1014
+        ]
+    },
+    "3029": {
+        "description": "Translating:【activity_civilization_factor$3029$description$0】",
+        "name": "Translating:【activity_civilization_factor$3029$name$0】",
+        "effect_type": 17,
+        "id": 3029,
+        "icon": "combinegame_factor_31",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1
+        ]
+    },
+    "3030": {
+        "description": "Translating:【activity_civilization_factor$3030$description$0】",
+        "name": "Translating:【activity_civilization_factor$3030$name$0】",
+        "effect_type": 13,
+        "id": 3030,
+        "icon": "combinegame_factor_32",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1,
+            3
+        ]
+    },
+    "3032": {
+        "description": "Translating:【activity_civilization_factor$3032$description$0】",
+        "name": "Translating:【activity_civilization_factor$3032$name$0】",
+        "effect_type": 11,
+        "id": 3032,
+        "icon": "combinegame_factor_34",
+        "gain_type": 2,
+        "associated_illustrations": 7,
+        "effect": [
+            1015
+        ]
+    },
+    "3034": {
+        "description": "Translating:【activity_civilization_factor$3034$description$0】",
+        "name": "Translating:【activity_civilization_factor$3034$name$0】",
+        "effect_type": 11,
+        "id": 3034,
+        "icon": "combinegame_factor_36",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1016
+        ]
+    },
+    "3035": {
+        "description": "Translating:【activity_civilization_factor$3035$description$0】",
+        "name": "Translating:【activity_civilization_factor$3035$name$0】",
+        "effect_type": 17,
+        "id": 3035,
+        "icon": "combinegame_factor_31",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1
+        ]
+    },
+    "3036": {
+        "description": "Translating:【activity_civilization_factor$3036$description$0】",
+        "name": "Translating:【activity_civilization_factor$3036$name$0】",
+        "effect_type": 11,
+        "id": 3036,
+        "icon": "combinegame_factor_38",
+        "gain_type": 2,
+        "associated_illustrations": 8,
+        "effect": [
+            1017
+        ]
+    },
+    "4001": {
+        "description": "Translating:【activity_civilization_factor$4001$description$0】",
+        "name": "Translating:【activity_civilization_factor$4001$name$0】",
+        "effect_type": 12,
+        "id": 4001,
+        "icon": "combinegame_factor_10",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1,
+            2
+        ]
+    },
+    "4002": {
+        "description": "Translating:【activity_civilization_factor$4002$description$0】",
+        "name": "Translating:【activity_civilization_factor$4002$name$0】",
+        "effect_type": 12,
+        "id": 4002,
+        "icon": "combinegame_factor_3",
+        "gain_type": 2,
+        "associated_illustrations": 2,
+        "effect": [
+            3,
+            2
+        ]
+    },
+    "4003": {
+        "description": "Translating:【activity_civilization_factor$4003$description$0】",
+        "name": "Translating:【activity_civilization_factor$4003$name$0】",
+        "effect_type": 12,
+        "id": 4003,
+        "icon": "combinegame_factor_4",
+        "gain_type": 2,
+        "associated_illustrations": 3,
+        "effect": [
+            2,
+            2
+        ]
+    },
+    "get_id_list_by_effect_type": {
+        "17": [
+            3029,
+            3035
+        ],
+        "16": [
+            3021
+        ],
+        "14": [
+            3013,
+            3015,
+            3020,
+            3022,
+            3026
+        ],
+        "13": [
+            3010,
+            3011,
+            3012,
+            3023,
+            3025,
+            3030
+        ],
+        "12": [
+            3004,
+            3008,
+            3009,
+            3017,
+            3018,
+            3019,
+            4001,
+            4002,
+            4003
+        ],
+        "11": [
+            3001,
+            3002,
+            3003,
+            3005,
+            3006,
+            3007,
+            3014,
+            3024,
+            3027,
+            3032,
+            3034,
+            3036
+        ],
+        "10": [
+            2006
+        ],
+        "9": [
+            2004
+        ],
+        "8": [
+            2003
+        ],
+        "15": [
+            2002,
+            3016
+        ],
+        "6": [
+            1007
+        ],
+        "5": [
+            1005,
+            2005
+        ],
+        "4": [
+            1004,
+            1006,
+            2007
+        ],
+        "3": [
+            1003
+        ],
+        "2": [
+            1002
+        ],
+        "1": [
+            1001,
+            2001
+        ]
+    },
+    "get_id_list_by_gain_type": [
+        [
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007
+        ],
+        [
+            3001,
+            3002,
+            3003,
+            3004,
+            3005,
+            3006,
+            3007,
+            3008,
+            3009,
+            3010,
+            3011,
+            3012,
+            3013,
+            3014,
+            3015,
+            3016,
+            3017,
+            3018,
+            3019,
+            3020,
+            3021,
+            3022,
+            3023,
+            3024,
+            3025,
+            3026,
+            3027,
+            3029,
+            3030,
+            3032,
+            3034,
+            3035,
+            3036,
+            4001,
+            4002,
+            4003
+        ],
+        [
+            1001,
+            2001
+        ]
+    ],
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        3001,
+        3002,
+        3003,
+        3004,
+        3005,
+        3006,
+        3007,
+        3008,
+        3009,
+        3010,
+        3011,
+        3012,
+        3013,
+        3014,
+        3015,
+        3016,
+        3017,
+        3018,
+        3019,
+        3020,
+        3021,
+        3022,
+        3023,
+        3024,
+        3025,
+        3026,
+        3027,
+        3029,
+        3030,
+        3032,
+        3034,
+        3035,
+        3036,
+        4001,
+        4002,
+        4003
+    ]
+}

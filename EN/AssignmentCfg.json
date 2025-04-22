@@ -20629,6 +20629,45 @@
             293261
         ]
     },
+    "800049": {
+        "name": "Translating:【assignment_list$800049$name$0】",
+        "pre_id": 0,
+        "type": 203,
+        "condition": 50003,
+        "desc": "Score 20,000 in Crisis Analysis.",
+        "need": 1,
+        "activity_id": 3600416,
+        "system": "",
+        "id": 800049,
+        "phase": 0,
+        "additional_parameter": [
+            3618407,
+            20000
+        ],
+        "reward": [
+            [
+                54016,
+                50
+            ],
+            [
+                40203,
+                5
+            ],
+            [
+                40301,
+                100
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            359001,
+            3610001,
+            3618407
+        ]
+    },
     "71001": {
         "name": "Daily",
         "pre_id": 0,
@@ -34033,7 +34072,7 @@
         "pre_id": 0,
         "type": 603,
         "condition": 406,
-        "desc": "In Mimir's Observation Post, dispatch M.E.O.Ws 1 time.",
+        "desc": "Complete any 2 Modifier character tutorials.",
         "need": 2,
         "activity_id": 0,
         "system": "",
@@ -91742,7 +91781,7 @@
         "pre_id": 0,
         "type": 3002,
         "condition": 162006,
-        "desc": "Clear Rise of the Steel Wings: In Cruise IV with 70% or more HP left.",
+        "desc": "Clear Rise of the Steel Wings: In Cruise V with 70% or more HP left.",
         "need": 1,
         "activity_id": 280412,
         "system": "",
@@ -101905,6 +101944,37 @@
             100001
         ]
     },
+    "30604005": {
+        "name": "Translating:【assignment_list$30604005$name$0】",
+        "pre_id": 0,
+        "type": 9,
+        "condition": 50003,
+        "desc": "Score 24,000 in Crisis Analysis.",
+        "need": 1,
+        "activity_id": 3600416,
+        "system": "",
+        "id": 30604005,
+        "phase": 0,
+        "additional_parameter": [
+            3618407,
+            24000
+        ],
+        "reward": [
+            [
+                14,
+                2500
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            359001,
+            3610001,
+            3618407
+        ]
+    },
     "150279": {
         "name": "Daily",
         "pre_id": 0,
@@ -104742,7 +104812,2493 @@
         ],
         "source": []
     },
+    "3590001": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2235,
+        "desc": "Complete 1 supplier order.",
+        "need": 1,
+        "activity_id": 3600418,
+        "system": "",
+        "id": 3590001,
+        "phase": 0,
+        "additional_parameter": [
+            2
+        ],
+        "reward": [
+            [
+                40103,
+                15
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590002": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2235,
+        "desc": "Complete 3 supplier orders.",
+        "need": 3,
+        "activity_id": 3600418,
+        "system": "",
+        "id": 3590002,
+        "phase": 0,
+        "additional_parameter": [
+            2
+        ],
+        "reward": [
+            [
+                40103,
+                15
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590003": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2235,
+        "desc": "Complete 5 supplier orders.",
+        "need": 5,
+        "activity_id": 3600418,
+        "system": "",
+        "id": 3590003,
+        "phase": 0,
+        "additional_parameter": [
+            2
+        ],
+        "reward": [
+            [
+                40701,
+                15
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590004": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2235,
+        "desc": "Complete 7 supplier orders.",
+        "need": 7,
+        "activity_id": 3600418,
+        "system": "",
+        "id": 3590004,
+        "phase": 0,
+        "additional_parameter": [
+            2
+        ],
+        "reward": [
+            [
+                40701,
+                15
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590005": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2235,
+        "desc": "Complete 9 supplier orders.",
+        "need": 9,
+        "activity_id": 3600418,
+        "system": "",
+        "id": 3590005,
+        "phase": 0,
+        "additional_parameter": [
+            2
+        ],
+        "reward": [
+            [
+                2200007,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590006": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2235,
+        "desc": "Complete 10 supplier orders.",
+        "need": 10,
+        "activity_id": 3600418,
+        "system": "",
+        "id": 3590006,
+        "phase": 0,
+        "additional_parameter": [
+            2
+        ],
+        "reward": [
+            [
+                40203,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590007": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2235,
+        "desc": "Complete 1 event order.",
+        "need": 1,
+        "activity_id": 3600418,
+        "system": "",
+        "id": 3590007,
+        "phase": 0,
+        "additional_parameter": [
+            1
+        ],
+        "reward": [
+            [
+                41301,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590008": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2235,
+        "desc": "Complete 3 event orders.",
+        "need": 3,
+        "activity_id": 3600418,
+        "system": "",
+        "id": 3590008,
+        "phase": 0,
+        "additional_parameter": [
+            1
+        ],
+        "reward": [
+            [
+                41301,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590009": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2235,
+        "desc": "Complete 5 event orders.",
+        "need": 5,
+        "activity_id": 3600418,
+        "system": "",
+        "id": 3590009,
+        "phase": 0,
+        "additional_parameter": [
+            1
+        ],
+        "reward": [
+            [
+                41302,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590010": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2235,
+        "desc": "Complete 7 event orders.",
+        "need": 7,
+        "activity_id": 3600418,
+        "system": "",
+        "id": 3590010,
+        "phase": 0,
+        "additional_parameter": [
+            1
+        ],
+        "reward": [
+            [
+                41302,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590011": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2235,
+        "desc": "Complete 10 event orders.",
+        "need": 10,
+        "activity_id": 3600418,
+        "system": "",
+        "id": 3590011,
+        "phase": 0,
+        "additional_parameter": [
+            1
+        ],
+        "reward": [
+            [
+                3033,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590012": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2235,
+        "desc": "Complete 12 event orders.",
+        "need": 12,
+        "activity_id": 3600418,
+        "system": "",
+        "id": 3590012,
+        "phase": 0,
+        "additional_parameter": [
+            1
+        ],
+        "reward": [
+            [
+                40603,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590013": {
+        "name": "Daily",
+        "pre_id": 0,
+        "type": 3001,
+        "condition": 1,
+        "desc": "Log in for the first time.",
+        "need": 1,
+        "activity_id": 3600438,
+        "system": "",
+        "id": 3590013,
+        "phase": 0,
+        "additional_parameter": [],
+        "reward": [
+            [
+                5311601,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590014": {
+        "name": "Daily",
+        "pre_id": 0,
+        "type": 3001,
+        "condition": 350,
+        "desc": "Spend 120 Swigs.",
+        "need": 120,
+        "activity_id": 3600438,
+        "system": "",
+        "id": 3590014,
+        "phase": 0,
+        "additional_parameter": [
+            4
+        ],
+        "reward": [
+            [
+                5311601,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590015": {
+        "name": "Daily",
+        "pre_id": 0,
+        "type": 3001,
+        "condition": 402,
+        "desc": "Complete any stage 3 times.",
+        "need": 3,
+        "activity_id": 3600438,
+        "system": "",
+        "id": 3590015,
+        "phase": 0,
+        "additional_parameter": [
+            0
+        ],
+        "reward": [
+            [
+                5311601,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "3590016": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 350,
+        "desc": "Spend 600 Swigs.",
+        "need": 600,
+        "activity_id": 3600438,
+        "system": "",
+        "id": 3590016,
+        "phase": 0,
+        "additional_parameter": [
+            4
+        ],
+        "reward": [
+            [
+                5311601,
+                3
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101601": {
+        "name": "Translating:【assignment_list$31101601$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2304,
+        "desc": "Translating:【assignment_list$31101601$desc$0】",
+        "need": 1,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101601,
+        "phase": 0,
+        "additional_parameter": [
+            1
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                75,
+                50
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101602": {
+        "name": "Translating:【assignment_list$31101602$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2304,
+        "desc": "Translating:【assignment_list$31101602$desc$0】",
+        "need": 1,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101602,
+        "phase": 0,
+        "additional_parameter": [
+            2
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                75,
+                50
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101603": {
+        "name": "Translating:【assignment_list$31101603$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2305,
+        "desc": "Translating:【assignment_list$31101603$desc$0】",
+        "need": 5,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101603,
+        "phase": 0,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                10
+            ],
+            [
+                75,
+                200
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101604": {
+        "name": "Translating:【assignment_list$31101604$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2305,
+        "desc": "Translating:【assignment_list$31101604$desc$0】",
+        "need": 10,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101604,
+        "phase": 0,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                10
+            ],
+            [
+                75,
+                200
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101605": {
+        "name": "Translating:【assignment_list$31101605$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2305,
+        "desc": "Translating:【assignment_list$31101605$desc$0】",
+        "need": 15,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101605,
+        "phase": 0,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                10
+            ],
+            [
+                75,
+                200
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101606": {
+        "name": "Translating:【assignment_list$31101606$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2305,
+        "desc": "Translating:【assignment_list$31101606$desc$0】",
+        "need": 20,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101606,
+        "phase": 0,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                10
+            ],
+            [
+                75,
+                200
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101607": {
+        "name": "Translating:【assignment_list$31101607$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2305,
+        "desc": "Translating:【assignment_list$31101607$desc$0】",
+        "need": 25,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101607,
+        "phase": 0,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                10
+            ],
+            [
+                75,
+                200
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101608": {
+        "name": "Translating:【assignment_list$31101608$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2305,
+        "desc": "Translating:【assignment_list$31101608$desc$0】",
+        "need": 30,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101608,
+        "phase": 0,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                10
+            ],
+            [
+                75,
+                200
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101609": {
+        "name": "Translating:【assignment_list$31101609$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2305,
+        "desc": "Translating:【assignment_list$31101609$desc$0】",
+        "need": 35,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101609,
+        "phase": 0,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                10
+            ],
+            [
+                75,
+                200
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101610": {
+        "name": "Translating:【assignment_list$31101610$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2305,
+        "desc": "Translating:【assignment_list$31101610$desc$0】",
+        "need": 38,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101610,
+        "phase": 0,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                10
+            ],
+            [
+                75,
+                200
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101611": {
+        "name": "Translating:【assignment_list$31101611$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2306,
+        "desc": "Translating:【assignment_list$31101611$desc$0】",
+        "need": 2,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101611,
+        "phase": 0,
+        "additional_parameter": [
+            1
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                75,
+                100
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101612": {
+        "name": "Translating:【assignment_list$31101612$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2306,
+        "desc": "Translating:【assignment_list$31101612$desc$0】",
+        "need": 4,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101612,
+        "phase": 0,
+        "additional_parameter": [
+            1
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                75,
+                100
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101613": {
+        "name": "Translating:【assignment_list$31101613$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2306,
+        "desc": "Translating:【assignment_list$31101613$desc$0】",
+        "need": 6,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101613,
+        "phase": 0,
+        "additional_parameter": [
+            1
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                75,
+                100
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101614": {
+        "name": "Translating:【assignment_list$31101614$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2306,
+        "desc": "Translating:【assignment_list$31101614$desc$0】",
+        "need": 2,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101614,
+        "phase": 0,
+        "additional_parameter": [
+            2
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                75,
+                100
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101615": {
+        "name": "Translating:【assignment_list$31101615$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2306,
+        "desc": "Translating:【assignment_list$31101615$desc$0】",
+        "need": 4,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101615,
+        "phase": 0,
+        "additional_parameter": [
+            2
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                75,
+                100
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101616": {
+        "name": "Translating:【assignment_list$31101616$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 2306,
+        "desc": "Translating:【assignment_list$31101616$desc$0】",
+        "need": 6,
+        "activity_id": 343731,
+        "system": "",
+        "id": 31101616,
+        "phase": 0,
+        "additional_parameter": [
+            2
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                75,
+                100
+            ],
+            [
+                22003,
+                2
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101801": {
+        "name": "Translating:【assignment_list$31101801$name$0】",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 320006,
+        "desc": "Translating:【assignment_list$31101801$desc$0】",
+        "need": 2,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101801,
+        "phase": 1,
+        "additional_parameter": [
+            0
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                74,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101802": {
+        "name": "Translating:【assignment_list$31101802$name$0】",
+        "pre_id": 0,
+        "type": 3006,
+        "condition": 51202,
+        "desc": "Translating:【assignment_list$31101802$desc$0】",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101802,
+        "phase": 1,
+        "additional_parameter": [
+            1010102
+        ],
+        "reward": [
+            [
+                1,
+                60
+            ],
+            [
+                74,
+                30
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101803": {
+        "name": "Translating:【assignment_list$31101803$name$0】",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 320001,
+        "desc": "Translating:【assignment_list$31101803$desc$0】",
+        "need": 15,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101803,
+        "phase": 1,
+        "additional_parameter": [
+            8,
+            9,
+            12,
+            13,
+            14,
+            16,
+            17
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                74,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101804": {
+        "name": "Translating:【assignment_list$31101804$name$0】",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 320001,
+        "desc": "Translating:【assignment_list$31101804$desc$0】",
+        "need": 3,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101804,
+        "phase": 1,
+        "additional_parameter": [
+            10,
+            11
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                74,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101805": {
+        "name": "Translating:【assignment_list$31101805$name$0】",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 320002,
+        "desc": "Translating:【assignment_list$31101805$desc$0】",
+        "need": 4,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101805,
+        "phase": 1,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                74,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101806": {
+        "name": "Translating:【assignment_list$31101806$name$0】",
+        "pre_id": 0,
+        "type": 3006,
+        "condition": 350,
+        "desc": "Translating:【assignment_list$31101806$desc$0】",
+        "need": 800,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101806,
+        "phase": 1,
+        "additional_parameter": [
+            75
+        ],
+        "reward": [
+            [
+                1,
+                60
+            ],
+            [
+                74,
+                30
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101807": {
+        "name": "Translating:【assignment_list$31101807$name$0】",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 2304,
+        "desc": "Translating:【assignment_list$31101807$desc$0】",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101807,
+        "phase": 2,
+        "additional_parameter": [
+            1,
+            0
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                74,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101808": {
+        "name": "Translating:【assignment_list$31101808$name$0】",
+        "pre_id": 0,
+        "type": 3006,
+        "condition": 2304,
+        "desc": "Translating:【assignment_list$31101808$desc$0】",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101808,
+        "phase": 2,
+        "additional_parameter": [
+            1,
+            0
+        ],
+        "reward": [
+            [
+                1,
+                60
+            ],
+            [
+                74,
+                30
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101809": {
+        "name": "Translating:【assignment_list$31101809$name$0】",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 2305,
+        "desc": "Translating:【assignment_list$31101809$desc$0】",
+        "need": 10,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101809,
+        "phase": 2,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                74,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101810": {
+        "name": "Translating:【assignment_list$31101810$name$0】",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 320006,
+        "desc": "Translating:【assignment_list$31101810$desc$0】",
+        "need": 4,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101810,
+        "phase": 2,
+        "additional_parameter": [
+            1046
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                74,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101811": {
+        "name": "Translating:【assignment_list$31101811$name$0】",
+        "pre_id": 0,
+        "type": 3006,
+        "condition": 51202,
+        "desc": "Translating:【assignment_list$31101811$desc$0】",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101811,
+        "phase": 2,
+        "additional_parameter": [
+            1010102
+        ],
+        "reward": [
+            [
+                1,
+                60
+            ],
+            [
+                74,
+                30
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101812": {
+        "name": "Translating:【assignment_list$31101812$name$0】",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 320001,
+        "desc": "Translating:【assignment_list$31101812$desc$0】",
+        "need": 8,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101812,
+        "phase": 2,
+        "additional_parameter": [
+            10,
+            11
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                74,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101813": {
+        "name": "Translating:【assignment_list$31101813$name$0】",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 2305,
+        "desc": "Translating:【assignment_list$31101813$desc$0】",
+        "need": 20,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101813,
+        "phase": 3,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                30
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101814": {
+        "name": "Translating:【assignment_list$31101814$name$0】",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 2305,
+        "desc": "Translating:【assignment_list$31101814$desc$0】",
+        "need": 30,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101814,
+        "phase": 3,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                30
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101815": {
+        "name": "Translating:【assignment_list$31101815$name$0】",
+        "pre_id": 0,
+        "type": 3006,
+        "condition": 2304,
+        "desc": "Translating:【assignment_list$31101815$desc$0】",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101815,
+        "phase": 3,
+        "additional_parameter": [
+            1,
+            0
+        ],
+        "reward": [
+            [
+                1,
+                60
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101816": {
+        "name": "Translating:【assignment_list$31101816$name$0】",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 51202,
+        "desc": "Translating:【assignment_list$31101816$desc$0】",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101816,
+        "phase": 3,
+        "additional_parameter": [
+            1010102
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101817": {
+        "name": "Translating:【assignment_list$31101817$name$0】",
+        "pre_id": 0,
+        "type": 3006,
+        "condition": 320002,
+        "desc": "Translating:【assignment_list$31101817$desc$0】",
+        "need": 8,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101817,
+        "phase": 3,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                60
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101818": {
+        "name": "Translating:【assignment_list$31101818$name$0】",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 350,
+        "desc": "Translating:【assignment_list$31101818$desc$0】",
+        "need": 4000,
+        "activity_id": 0,
+        "system": "",
+        "id": 31101818,
+        "phase": 3,
+        "additional_parameter": [
+            75
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101901": {
+        "name": "Translating:【assignment_list$31101901$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 501,
+        "desc": "Translating:【assignment_list$31101901$desc$0】",
+        "need": 2,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101901,
+        "phase": 0,
+        "additional_parameter": [
+            31101801,
+            31101802,
+            31101803,
+            31101804,
+            31101805,
+            31101806,
+            31101807,
+            31101808,
+            31101809,
+            31101810,
+            31101811,
+            31101812,
+            31101813,
+            31101814,
+            31101815,
+            31101816,
+            31101817,
+            31101818
+        ],
+        "reward": [
+            [
+                1,
+                50
+            ],
+            [
+                75,
+                200
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101902": {
+        "name": "Translating:【assignment_list$31101902$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 501,
+        "desc": "Translating:【assignment_list$31101902$desc$0】",
+        "need": 4,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101902,
+        "phase": 0,
+        "additional_parameter": [
+            31101801,
+            31101802,
+            31101803,
+            31101804,
+            31101805,
+            31101806,
+            31101807,
+            31101808,
+            31101809,
+            31101810,
+            31101811,
+            31101812,
+            31101813,
+            31101814,
+            31101815,
+            31101816,
+            31101817,
+            31101818
+        ],
+        "reward": [
+            [
+                1,
+                50
+            ],
+            [
+                75,
+                200
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101903": {
+        "name": "Translating:【assignment_list$31101903$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 501,
+        "desc": "Translating:【assignment_list$31101903$desc$0】",
+        "need": 6,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101903,
+        "phase": 0,
+        "additional_parameter": [
+            31101801,
+            31101802,
+            31101803,
+            31101804,
+            31101805,
+            31101806,
+            31101807,
+            31101808,
+            31101809,
+            31101810,
+            31101811,
+            31101812,
+            31101813,
+            31101814,
+            31101815,
+            31101816,
+            31101817,
+            31101818
+        ],
+        "reward": [
+            [
+                1,
+                50
+            ],
+            [
+                75,
+                200
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101904": {
+        "name": "Translating:【assignment_list$31101904$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 501,
+        "desc": "Translating:【assignment_list$31101904$desc$0】",
+        "need": 8,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101904,
+        "phase": 0,
+        "additional_parameter": [
+            31101801,
+            31101802,
+            31101803,
+            31101804,
+            31101805,
+            31101806,
+            31101807,
+            31101808,
+            31101809,
+            31101810,
+            31101811,
+            31101812,
+            31101813,
+            31101814,
+            31101815,
+            31101816,
+            31101817,
+            31101818
+        ],
+        "reward": [
+            [
+                1,
+                50
+            ],
+            [
+                75,
+                200
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101905": {
+        "name": "Translating:【assignment_list$31101905$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 501,
+        "desc": "Translating:【assignment_list$31101905$desc$0】",
+        "need": 10,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101905,
+        "phase": 0,
+        "additional_parameter": [
+            31101801,
+            31101802,
+            31101803,
+            31101804,
+            31101805,
+            31101806,
+            31101807,
+            31101808,
+            31101809,
+            31101810,
+            31101811,
+            31101812,
+            31101813,
+            31101814,
+            31101815,
+            31101816,
+            31101817,
+            31101818
+        ],
+        "reward": [
+            [
+                1,
+                50
+            ],
+            [
+                75,
+                200
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101906": {
+        "name": "Translating:【assignment_list$31101906$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 501,
+        "desc": "Translating:【assignment_list$31101906$desc$0】",
+        "need": 12,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101906,
+        "phase": 0,
+        "additional_parameter": [
+            31101801,
+            31101802,
+            31101803,
+            31101804,
+            31101805,
+            31101806,
+            31101807,
+            31101808,
+            31101809,
+            31101810,
+            31101811,
+            31101812,
+            31101813,
+            31101814,
+            31101815,
+            31101816,
+            31101817,
+            31101818
+        ],
+        "reward": [
+            [
+                1,
+                50
+            ],
+            [
+                75,
+                200
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101907": {
+        "name": "Translating:【assignment_list$31101907$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 501,
+        "desc": "Translating:【assignment_list$31101907$desc$0】",
+        "need": 14,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101907,
+        "phase": 0,
+        "additional_parameter": [
+            31101801,
+            31101802,
+            31101803,
+            31101804,
+            31101805,
+            31101806,
+            31101807,
+            31101808,
+            31101809,
+            31101810,
+            31101811,
+            31101812,
+            31101813,
+            31101814,
+            31101815,
+            31101816,
+            31101817,
+            31101818
+        ],
+        "reward": [
+            [
+                1,
+                50
+            ],
+            [
+                75,
+                300
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101908": {
+        "name": "Translating:【assignment_list$31101908$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 501,
+        "desc": "Translating:【assignment_list$31101908$desc$0】",
+        "need": 16,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101908,
+        "phase": 0,
+        "additional_parameter": [
+            31101801,
+            31101802,
+            31101803,
+            31101804,
+            31101805,
+            31101806,
+            31101807,
+            31101808,
+            31101809,
+            31101810,
+            31101811,
+            31101812,
+            31101813,
+            31101814,
+            31101815,
+            31101816,
+            31101817,
+            31101818
+        ],
+        "reward": [
+            [
+                1,
+                50
+            ],
+            [
+                75,
+                300
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "31101909": {
+        "name": "Translating:【assignment_list$31101909$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 501,
+        "desc": "Translating:【assignment_list$31101909$desc$0】",
+        "need": 18,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101909,
+        "phase": 0,
+        "additional_parameter": [
+            31101801,
+            31101802,
+            31101803,
+            31101804,
+            31101805,
+            31101806,
+            31101807,
+            31101808,
+            31101809,
+            31101810,
+            31101811,
+            31101812,
+            31101813,
+            31101814,
+            31101815,
+            31101816,
+            31101817,
+            31101818
+        ],
+        "reward": [
+            [
+                1,
+                50
+            ],
+            [
+                75,
+                300
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201001": {
+        "name": "Daily",
+        "pre_id": 0,
+        "type": 3001,
+        "condition": 1,
+        "desc": "Log in for the first time.",
+        "need": 1,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201001,
+        "phase": 0,
+        "additional_parameter": [],
+        "reward": [
+            [
+                54085,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201002": {
+        "name": "Daily",
+        "pre_id": 0,
+        "type": 3001,
+        "condition": 350,
+        "desc": "Spend 60 Swigs.",
+        "need": 60,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201002,
+        "phase": 0,
+        "additional_parameter": [
+            4
+        ],
+        "reward": [
+            [
+                54085,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201003": {
+        "name": "Daily",
+        "pre_id": 0,
+        "type": 3001,
+        "condition": 350,
+        "desc": "Spend 120 Swigs.",
+        "need": 120,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201003,
+        "phase": 0,
+        "additional_parameter": [
+            4
+        ],
+        "reward": [
+            [
+                54085,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201004": {
+        "name": "Daily",
+        "pre_id": 0,
+        "type": 3001,
+        "condition": 350,
+        "desc": "Spend 180 Swigs.",
+        "need": 180,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201004,
+        "phase": 0,
+        "additional_parameter": [
+            4
+        ],
+        "reward": [
+            [
+                54085,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201005": {
+        "name": "Daily",
+        "pre_id": 0,
+        "type": 3001,
+        "condition": 350,
+        "desc": "Spend 240 Swigs.",
+        "need": 240,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201005,
+        "phase": 0,
+        "additional_parameter": [
+            4
+        ],
+        "reward": [
+            [
+                54085,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201006": {
+        "name": "Translating:【assignment_list$40201006$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 302,
+        "desc": "Translating:【assignment_list$40201006$desc$0】",
+        "need": 900,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201006,
+        "phase": 0,
+        "additional_parameter": [
+            53160
+        ],
+        "reward": [
+            [
+                54085,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201007": {
+        "name": "Translating:【assignment_list$40201007$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 302,
+        "desc": "Translating:【assignment_list$40201007$desc$0】",
+        "need": 1000,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201007,
+        "phase": 0,
+        "additional_parameter": [
+            53160
+        ],
+        "reward": [
+            [
+                54085,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201008": {
+        "name": "Translating:【assignment_list$40201008$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 302,
+        "desc": "Translating:【assignment_list$40201008$desc$0】",
+        "need": 1500,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201008,
+        "phase": 0,
+        "additional_parameter": [
+            53160
+        ],
+        "reward": [
+            [
+                54085,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201009": {
+        "name": "Translating:【assignment_list$40201009$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 302,
+        "desc": "Translating:【assignment_list$40201009$desc$0】",
+        "need": 2000,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201009,
+        "phase": 0,
+        "additional_parameter": [
+            53160
+        ],
+        "reward": [
+            [
+                54085,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201010": {
+        "name": "Translating:【assignment_list$40201010$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 302,
+        "desc": "Translating:【assignment_list$40201010$desc$0】",
+        "need": 2500,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201010,
+        "phase": 0,
+        "additional_parameter": [
+            53160
+        ],
+        "reward": [
+            [
+                54085,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201011": {
+        "name": "Translating:【assignment_list$40201011$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 302,
+        "desc": "Translating:【assignment_list$40201011$desc$0】",
+        "need": 3000,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201011,
+        "phase": 0,
+        "additional_parameter": [
+            53160
+        ],
+        "reward": [
+            [
+                54085,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201012": {
+        "name": "Translating:【assignment_list$40201012$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 302,
+        "desc": "Translating:【assignment_list$40201012$desc$0】",
+        "need": 3500,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201012,
+        "phase": 0,
+        "additional_parameter": [
+            53160
+        ],
+        "reward": [
+            [
+                54085,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201013": {
+        "name": "Translating:【assignment_list$40201013$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 302,
+        "desc": "Translating:【assignment_list$40201013$desc$0】",
+        "need": 4000,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201013,
+        "phase": 0,
+        "additional_parameter": [
+            53160
+        ],
+        "reward": [
+            [
+                54085,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201014": {
+        "name": "Translating:【assignment_list$40201014$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 302,
+        "desc": "Translating:【assignment_list$40201014$desc$0】",
+        "need": 4500,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201014,
+        "phase": 0,
+        "additional_parameter": [
+            53160
+        ],
+        "reward": [
+            [
+                54085,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201015": {
+        "name": "Translating:【assignment_list$40201015$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 302,
+        "desc": "Translating:【assignment_list$40201015$desc$0】",
+        "need": 7000,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201015,
+        "phase": 0,
+        "additional_parameter": [
+            53160
+        ],
+        "reward": [
+            [
+                54085,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201016": {
+        "name": "Translating:【assignment_list$40201016$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 410,
+        "desc": "Translating:【assignment_list$40201016$desc$0】",
+        "need": 1,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201016,
+        "phase": 0,
+        "additional_parameter": [
+            5250101
+        ],
+        "reward": [
+            [
+                54085,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201017": {
+        "name": "Translating:【assignment_list$40201017$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 410,
+        "desc": "Translating:【assignment_list$40201017$desc$0】",
+        "need": 1,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201017,
+        "phase": 0,
+        "additional_parameter": [
+            5250105
+        ],
+        "reward": [
+            [
+                54085,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201018": {
+        "name": "Translating:【assignment_list$40201018$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 410,
+        "desc": "Translating:【assignment_list$40201018$desc$0】",
+        "need": 1,
+        "activity_id": 340041,
+        "system": "",
+        "id": 40201018,
+        "phase": 0,
+        "additional_parameter": [
+            5250110
+        ],
+        "reward": [
+            [
+                54085,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201101": {
+        "name": "Translating:【assignment_list$40201101$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 11006,
+        "desc": "Translating:【assignment_list$40201101$desc$0】",
+        "need": 1,
+        "activity_id": 343501,
+        "system": "",
+        "id": 40201101,
+        "phase": 0,
+        "additional_parameter": [
+            1
+        ],
+        "reward": [
+            [
+                1,
+                200
+            ],
+            [
+                40104,
+                5
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201102": {
+        "name": "Translating:【assignment_list$40201102$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 11008,
+        "desc": "Translating:【assignment_list$40201102$desc$0】",
+        "need": 1,
+        "activity_id": 343501,
+        "system": "",
+        "id": 40201102,
+        "phase": 0,
+        "additional_parameter": [
+            1000000
+        ],
+        "reward": [
+            [
+                1,
+                200
+            ],
+            [
+                40104,
+                5
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201103": {
+        "name": "Translating:【assignment_list$40201103$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 11007,
+        "desc": "Translating:【assignment_list$40201103$desc$0】",
+        "need": 1,
+        "activity_id": 343501,
+        "system": "",
+        "id": 40201103,
+        "phase": 0,
+        "additional_parameter": [
+            2
+        ],
+        "reward": [
+            [
+                40603,
+                10
+            ],
+            [
+                22003,
+                6
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40201104": {
+        "name": "Translating:【assignment_list$40201104$name$0】",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 11006,
+        "desc": "Translating:【assignment_list$40201104$desc$0】",
+        "need": 1,
+        "activity_id": 343501,
+        "system": "",
+        "id": 40201104,
+        "phase": 0,
+        "additional_parameter": [
+            2
+        ],
+        "reward": [
+            [
+                2,
+                20000
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
     "get_id_list_by_type": {
+        "3006": [
+            31101802,
+            31101806,
+            31101808,
+            31101811,
+            31101815,
+            31101817
+        ],
+        "3005": [
+            31101801,
+            31101803,
+            31101804,
+            31101805,
+            31101807,
+            31101809,
+            31101810,
+            31101812,
+            31101813,
+            31101814,
+            31101816,
+            31101818
+        ],
         "1101": [
             30701001,
             30701002,
@@ -107242,7 +109798,62 @@
             2050022,
             2050023,
             2050024,
-            2050025
+            2050025,
+            3590001,
+            3590002,
+            3590003,
+            3590004,
+            3590005,
+            3590006,
+            3590007,
+            3590008,
+            3590009,
+            3590010,
+            3590011,
+            3590012,
+            3590016,
+            31101601,
+            31101602,
+            31101603,
+            31101604,
+            31101605,
+            31101606,
+            31101607,
+            31101608,
+            31101609,
+            31101610,
+            31101611,
+            31101612,
+            31101613,
+            31101614,
+            31101615,
+            31101616,
+            31101901,
+            31101902,
+            31101903,
+            31101904,
+            31101905,
+            31101906,
+            31101907,
+            31101908,
+            31101909,
+            40201006,
+            40201007,
+            40201008,
+            40201009,
+            40201010,
+            40201011,
+            40201012,
+            40201013,
+            40201014,
+            40201015,
+            40201016,
+            40201017,
+            40201018,
+            40201101,
+            40201102,
+            40201103,
+            40201104
         ],
         "3001": [
             130001,
@@ -107414,7 +110025,15 @@
             2050012,
             2050013,
             2050014,
-            2050015
+            2050015,
+            3590013,
+            3590014,
+            3590015,
+            40201001,
+            40201002,
+            40201003,
+            40201004,
+            40201005
         ],
         "11": [
             120001,
@@ -107545,6 +110164,7 @@
             30604002,
             30604003,
             30604004,
+            30604005,
             30706001
         ],
         "8": [
@@ -107615,7 +110235,8 @@
             800045,
             800046,
             800047,
-            800048
+            800048,
+            800049
         ],
         "202": [
             60003,
@@ -108144,6 +110765,81 @@
         ]
     },
     "get_id_list_by_activity_id": {
+        "343501": [
+            40201101,
+            40201102,
+            40201103,
+            40201104
+        ],
+        "340041": [
+            40201001,
+            40201002,
+            40201003,
+            40201004,
+            40201005,
+            40201006,
+            40201007,
+            40201008,
+            40201009,
+            40201010,
+            40201011,
+            40201012,
+            40201013,
+            40201014,
+            40201015,
+            40201016,
+            40201017,
+            40201018
+        ],
+        "340001": [
+            31101901,
+            31101902,
+            31101903,
+            31101904,
+            31101905,
+            31101906,
+            31101907,
+            31101908,
+            31101909
+        ],
+        "343731": [
+            31101601,
+            31101602,
+            31101603,
+            31101604,
+            31101605,
+            31101606,
+            31101607,
+            31101608,
+            31101609,
+            31101610,
+            31101611,
+            31101612,
+            31101613,
+            31101614,
+            31101615,
+            31101616
+        ],
+        "3600438": [
+            3590013,
+            3590014,
+            3590015,
+            3590016
+        ],
+        "3600418": [
+            3590001,
+            3590002,
+            3590003,
+            3590004,
+            3590005,
+            3590006,
+            3590007,
+            3590008,
+            3590009,
+            3590010,
+            3590011,
+            3590012
+        ],
         "2800411": [
             2050011,
             2050012,
@@ -110464,6 +113160,10 @@
             130001,
             130002
         ],
+        "3600416": [
+            800049,
+            30604005
+        ],
         "2900411": [
             800048,
             30706001
@@ -111935,7 +114635,25 @@
             227009,
             227010,
             227011,
-            227012
+            227012,
+            31101801,
+            31101802,
+            31101803,
+            31101804,
+            31101805,
+            31101806,
+            31101807,
+            31101808,
+            31101809,
+            31101810,
+            31101811,
+            31101812,
+            31101813,
+            31101814,
+            31101815,
+            31101816,
+            31101817,
+            31101818
         ]
     },
     "all": [
@@ -112500,6 +115218,7 @@
         800046,
         800047,
         800048,
+        800049,
         71001,
         71002,
         71003,
@@ -115134,6 +117853,7 @@
         30604002,
         30604003,
         30604004,
+        30604005,
         150279,
         150280,
         150281,
@@ -115235,6 +117955,87 @@
         2050022,
         2050023,
         2050024,
-        2050025
+        2050025,
+        3590001,
+        3590002,
+        3590003,
+        3590004,
+        3590005,
+        3590006,
+        3590007,
+        3590008,
+        3590009,
+        3590010,
+        3590011,
+        3590012,
+        3590013,
+        3590014,
+        3590015,
+        3590016,
+        31101601,
+        31101602,
+        31101603,
+        31101604,
+        31101605,
+        31101606,
+        31101607,
+        31101608,
+        31101609,
+        31101610,
+        31101611,
+        31101612,
+        31101613,
+        31101614,
+        31101615,
+        31101616,
+        31101801,
+        31101802,
+        31101803,
+        31101804,
+        31101805,
+        31101806,
+        31101807,
+        31101808,
+        31101809,
+        31101810,
+        31101811,
+        31101812,
+        31101813,
+        31101814,
+        31101815,
+        31101816,
+        31101817,
+        31101818,
+        31101901,
+        31101902,
+        31101903,
+        31101904,
+        31101905,
+        31101906,
+        31101907,
+        31101908,
+        31101909,
+        40201001,
+        40201002,
+        40201003,
+        40201004,
+        40201005,
+        40201006,
+        40201007,
+        40201008,
+        40201009,
+        40201010,
+        40201011,
+        40201012,
+        40201013,
+        40201014,
+        40201015,
+        40201016,
+        40201017,
+        40201018,
+        40201101,
+        40201102,
+        40201103,
+        40201104
     ]
 }

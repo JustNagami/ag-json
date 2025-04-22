@@ -314,6 +314,24 @@
         "title": "When the City Lights Up Outfit Talk 1",
         "tag_id": 3
     },
+    "114129": {
+        "id": 114129,
+        "file": "talk1",
+        "use_skin_id": 104601,
+        "type": 1,
+        "unlock_condition": 101730,
+        "title": "Translating:【hero_voice$114129$title$0】",
+        "tag_id": 3
+    },
+    "114130": {
+        "id": 114130,
+        "file": "talk1",
+        "use_skin_id": 104501,
+        "type": 1,
+        "unlock_condition": 101731,
+        "title": "Translating:【hero_voice$114130$title$0】",
+        "tag_id": 3
+    },
     "1151": {
         "id": 1151,
         "file": "talk2",
@@ -465,6 +483,24 @@
         "type": 1,
         "unlock_condition": 101716,
         "title": "When the City Lights Up Outfit Talk 2",
+        "tag_id": 3
+    },
+    "115129": {
+        "id": 115129,
+        "file": "talk2",
+        "use_skin_id": 104601,
+        "type": 1,
+        "unlock_condition": 101730,
+        "title": "Translating:【hero_voice$115129$title$0】",
+        "tag_id": 3
+    },
+    "115130": {
+        "id": 115130,
+        "file": "talk2",
+        "use_skin_id": 104501,
+        "type": 1,
+        "unlock_condition": 101731,
+        "title": "Translating:【hero_voice$115130$title$0】",
         "tag_id": 3
     },
     "1161": {
@@ -1639,7 +1675,9 @@
             115114,
             115115,
             115116,
-            115117
+            115117,
+            115129,
+            115130
         ],
         "talk1": [
             1141,
@@ -1658,7 +1696,9 @@
             114114,
             114115,
             114116,
-            114117
+            114117,
+            114129,
+            114130
         ],
         "assistant": [
             1131
@@ -1750,6 +1790,8 @@
             114115,
             114116,
             114117,
+            114129,
+            114130,
             115102,
             115103,
             115104,
@@ -1766,6 +1808,8 @@
             115115,
             115116,
             115117,
+            115129,
+            115130,
             116101,
             117102,
             117103,
@@ -1914,6 +1958,8 @@
         114115,
         114116,
         114117,
+        114129,
+        114130,
         1151,
         115102,
         115103,
@@ -1931,6 +1977,8 @@
         115115,
         115116,
         115117,
+        115129,
+        115130,
         1161,
         116101,
         1162,

@@ -71,11 +71,29 @@
             601
         ]
     },
+    "assetpend_common_branch_b": {
+        "asset_name": "Translating:【asset_pend_info$assetpend_common_branch_b$asset_name$0】",
+        "asset_type": 2,
+        "asset_id": "assetpend_common_branch_b",
+        "asset_desc": "Translating:【asset_pend_info$assetpend_common_branch_b$asset_desc$0】",
+        "asset_stage_type": [
+            601
+        ]
+    },
     "assetpend_common_branch_c": {
         "asset_name": "Countertide Whalesong Story Resource Pack",
         "asset_type": 2,
         "asset_id": "assetpend_common_branch_c",
         "asset_desc": "Enter stages, sound, and video resources needed by side story Countertide Whalesong.",
+        "asset_stage_type": [
+            601
+        ]
+    },
+    "assetpend_common_branch_d": {
+        "asset_name": "Translating:【asset_pend_info$assetpend_common_branch_d$asset_name$0】",
+        "asset_type": 2,
+        "asset_id": "assetpend_common_branch_d",
+        "asset_desc": "Translating:【asset_pend_info$assetpend_common_branch_d$asset_desc$0】",
         "asset_stage_type": [
             601
         ]
@@ -249,7 +267,9 @@
         ],
         "601": [
             "assetpend_common_branch_a",
+            "assetpend_common_branch_b",
             "assetpend_common_branch_c",
+            "assetpend_common_branch_d",
             "assetpend_common_branch_e",
             "assetpend_common_branch_f",
             "assetpend_common_branch_g",

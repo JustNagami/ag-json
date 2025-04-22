@@ -6724,7 +6724,229 @@
         "cost": [],
         "formula_condition": []
     },
+    "18101": {
+        "affix_user": 3,
+        "name": "Translating:【activity_talent$18101$name$0】",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 18101,
+        "desc": "Significantly increases the speed of normal attacks.",
+        "race": 0,
+        "activity_id": 343751,
+        "index": 0,
+        "id": 18101,
+        "stage": 1,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "18102": {
+        "affix_user": 3,
+        "name": "Translating:【activity_talent$18102$name$0】",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 18102,
+        "desc": "Normal attacks restore HP.",
+        "race": 0,
+        "activity_id": 343751,
+        "index": 0,
+        "id": 18102,
+        "stage": 1,
+        "unlock_condition": [
+            1210101
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "18103": {
+        "affix_user": 3,
+        "name": "Translating:【activity_talent$18103$name$0】",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 18103,
+        "desc": "Normal Attack DMG +",
+        "race": 0,
+        "activity_id": 343751,
+        "index": 0,
+        "id": 18103,
+        "stage": 1,
+        "unlock_condition": [
+            1210102
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "18104": {
+        "affix_user": 3,
+        "name": "Translating:【activity_talent$18104$name$0】",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 18104,
+        "desc": "Significantly increases the speed of normal attacks.",
+        "race": 0,
+        "activity_id": 343751,
+        "index": 0,
+        "id": 18104,
+        "stage": 1,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "18105": {
+        "affix_user": 3,
+        "name": "Translating:【activity_talent$18105$name$0】",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 18105,
+        "desc": "Normal attacks restore HP.",
+        "race": 0,
+        "activity_id": 343751,
+        "index": 0,
+        "id": 18105,
+        "stage": 1,
+        "unlock_condition": [
+            1210101
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "18106": {
+        "affix_user": 3,
+        "name": "Translating:【activity_talent$18106$name$0】",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 18106,
+        "desc": "Normal Attack DMG +",
+        "race": 0,
+        "activity_id": 343751,
+        "index": 0,
+        "id": 18106,
+        "stage": 1,
+        "unlock_condition": [
+            1210102
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "18201": {
+        "affix_user": 3,
+        "name": "Translating:【activity_talent$18201$name$0】",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 18201,
+        "desc": "Significantly increases the speed of normal attacks.",
+        "race": 0,
+        "activity_id": 343751,
+        "index": 0,
+        "id": 18201,
+        "stage": 1,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "18202": {
+        "affix_user": 3,
+        "name": "Translating:【activity_talent$18202$name$0】",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 18202,
+        "desc": "Normal attacks restore HP.",
+        "race": 0,
+        "activity_id": 343751,
+        "index": 0,
+        "id": 18202,
+        "stage": 1,
+        "unlock_condition": [
+            1210101
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "18203": {
+        "affix_user": 3,
+        "name": "Translating:【activity_talent$18203$name$0】",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 18203,
+        "desc": "Normal Attack DMG +",
+        "race": 0,
+        "activity_id": 343751,
+        "index": 0,
+        "id": 18203,
+        "stage": 1,
+        "unlock_condition": [
+            1210102
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "18204": {
+        "affix_user": 3,
+        "name": "Translating:【activity_talent$18204$name$0】",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 18204,
+        "desc": "Significantly increases the speed of normal attacks.",
+        "race": 0,
+        "activity_id": 343751,
+        "index": 0,
+        "id": 18204,
+        "stage": 1,
+        "unlock_condition": [],
+        "cost": [],
+        "formula_condition": []
+    },
+    "18205": {
+        "affix_user": 3,
+        "name": "Translating:【activity_talent$18205$name$0】",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 18205,
+        "desc": "Normal attacks restore HP.",
+        "race": 0,
+        "activity_id": 343751,
+        "index": 0,
+        "id": 18205,
+        "stage": 1,
+        "unlock_condition": [
+            1210101
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
+    "18206": {
+        "affix_user": 3,
+        "name": "Translating:【activity_talent$18206$name$0】",
+        "type": 2,
+        "max_level": 1,
+        "affix_id": 18206,
+        "desc": "Normal Attack DMG +",
+        "race": 0,
+        "activity_id": 343751,
+        "index": 0,
+        "id": 18206,
+        "stage": 1,
+        "unlock_condition": [
+            1210102
+        ],
+        "cost": [],
+        "formula_condition": []
+    },
     "get_id_list_by_activity_id": {
+        "343751": [
+            18101,
+            18102,
+            18103,
+            18104,
+            18105,
+            18106,
+            18201,
+            18202,
+            18203,
+            18204,
+            18205,
+            18206
+        ],
         "293425": [
             17101,
             17102,
@@ -7292,6 +7514,18 @@
         17147,
         17148,
         17149,
-        17150
+        17150,
+        18101,
+        18102,
+        18103,
+        18104,
+        18105,
+        18106,
+        18201,
+        18202,
+        18203,
+        18204,
+        18205,
+        18206
     ]
 }

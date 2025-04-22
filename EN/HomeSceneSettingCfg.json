@@ -318,6 +318,48 @@
         "scene_setting": [],
         "obtain_way": []
     },
+    "6036": {
+        "action_suffix": "",
+        "title": "Translating:【home_scene_setting$6036$title$0】",
+        "desc": "Translating:【home_scene_setting$6036$desc$0】",
+        "obtain_word": "",
+        "scene_trial": 0,
+        "limit_display": 0,
+        "prefix_dlc": "",
+        "light_effect": "",
+        "unlock_description": "",
+        "prefix": "X330",
+        "light_effect_delay": "",
+        "id": 6036,
+        "default_music": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [
+            1
+        ],
+        "obtain_way": []
+    },
+    "6037": {
+        "action_suffix": "",
+        "title": "Translating:【home_scene_setting$6037$title$0】",
+        "desc": "Translating:【home_scene_setting$6037$desc$0】",
+        "obtain_word": "",
+        "scene_trial": 0,
+        "limit_display": 0,
+        "prefix_dlc": "",
+        "light_effect": "",
+        "unlock_description": "",
+        "prefix": "X329",
+        "light_effect_delay": "",
+        "id": 6037,
+        "default_music": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [
+            1
+        ],
+        "obtain_way": []
+    },
     "6100": {
         "action_suffix": "",
         "title": "Command Center Lobby",
@@ -355,6 +397,8 @@
         6013,
         6014,
         6015,
+        6036,
+        6037,
         6100
     ]
 }

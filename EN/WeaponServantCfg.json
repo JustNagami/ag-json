@@ -1742,6 +1742,48 @@
             108901
         ]
     },
+    "2550996": {
+        "show_offset_y": "",
+        "race": 5,
+        "type": 2,
+        "story": "Translating:【weapon_servant$2550996$story$0】",
+        "effect_desc": "",
+        "show_offset_x": "",
+        "desc": "Translating:【weapon_servant$2550996$desc$0】",
+        "attrib_addition": 20,
+        "display_type": 0,
+        "starlevel": 5,
+        "show_tiling_scale": "",
+        "id": 2550996,
+        "attribute": [
+            1,
+            100
+        ],
+        "effect": [
+            104601
+        ]
+    },
+    "2550997": {
+        "show_offset_y": "",
+        "race": 5,
+        "type": 2,
+        "story": "Translating:【weapon_servant$2550997$story$0】",
+        "effect_desc": "",
+        "show_offset_x": "",
+        "desc": "Translating:【weapon_servant$2550997$desc$0】",
+        "attrib_addition": 20,
+        "display_type": 0,
+        "starlevel": 5,
+        "show_tiling_scale": "",
+        "id": 2550997,
+        "attribute": [
+            1,
+            100
+        ],
+        "effect": [
+            104501
+        ]
+    },
     "2550998": {
         "show_offset_y": "-0.13",
         "race": 5,
@@ -2026,6 +2068,8 @@
             2550010,
             2550011,
             2550012,
+            2550996,
+            2550997,
             2550998,
             2550999
         ],
@@ -2136,6 +2180,12 @@
         ],
         "421": [
             2550998
+        ],
+        "104501": [
+            2550997
+        ],
+        "104601": [
+            2550996
         ],
         "108901": [
             2550012
@@ -2464,6 +2514,8 @@
         2550010,
         2550011,
         2550012,
+        2550996,
+        2550997,
         2550998,
         2550999,
         2590000,

@@ -1327,6 +1327,22 @@
         "id": 115601,
         "desc": "Try to trigger Brilliant Bolt at the right moment to deal higher DMG."
     },
+    "104601": {
+        "list_icon": "",
+        "name": "Translating:【skill_combo_recommender$104601$name$0】",
+        "list_name": "",
+        "combine_char": "",
+        "id": 104601,
+        "desc": "Translating:【skill_combo_recommender$104601$desc$0】"
+    },
+    "104501": {
+        "list_icon": "",
+        "name": "Translating:【skill_combo_recommender$104501$name$0】",
+        "list_name": "",
+        "combine_char": "",
+        "id": 104501,
+        "desc": "Translating:【skill_combo_recommender$104501$desc$0】"
+    },
     "all": [
         101101,
         101102,
@@ -1433,6 +1449,8 @@
         906101,
         109501,
         102201,
-        115601
+        115601,
+        104601,
+        104501
     ]
 }

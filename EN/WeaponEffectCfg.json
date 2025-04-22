@@ -2729,8 +2729,14 @@
         "spec_char": [
             1072
         ],
-        "strengthen_description": [],
-        "simple_strength_description": []
+        "strengthen_description": [
+            107241,
+            220107201
+        ],
+        "simple_strength_description": [
+            107241,
+            "Translating:【weapon_effect$107201$simple_strength_description$2】"
+        ]
     },
     "107401": {
         "simple_description": "Equipping by Winged Gardener - Yingzhao grants the following effects:\nIncreases the Base DMG of Skills 1, 2, and 3.\nUp to 3 derivative skills can exist at the same time. Switching derivative skills after a Mobile Dodge no longer requires Divine Grace, and casting derivative skills no longer costs Divine Grace..\nAfter dodging, increases the Mod's Independent DMG.",
@@ -3627,6 +3633,106 @@
         "strengthen_description": [],
         "simple_strength_description": []
     },
+    "104501": {
+        "simple_description": "Translating:【weapon_effect$104501$simple_description$0】",
+        "id": 104501,
+        "description": [
+            500104501
+        ],
+        "level_param": [
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            [
+                50,
+                50,
+                50,
+                50,
+                50,
+                50,
+                50
+            ]
+        ],
+        "spec_char": [
+            1045
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "104601": {
+        "simple_description": "Translating:【weapon_effect$104601$simple_description$0】",
+        "id": 104601,
+        "description": [
+            500104601
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ],
+            [
+                1000,
+                1000,
+                1000,
+                1000,
+                1000,
+                1000,
+                1000
+            ],
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ]
+        ],
+        "spec_char": [
+            1046
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
     "all": [
         401,
         402,
@@ -3717,6 +3823,8 @@
         102101,
         102001,
         115601,
-        108901
+        108901,
+        104501,
+        104601
     ]
 }

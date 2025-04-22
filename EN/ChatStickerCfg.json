@@ -1817,7 +1817,39 @@
         "icon": "10211",
         "type": 1
     },
+    "281": {
+        "desc_source": "Obtain by participating in operation events",
+        "name": "Ookuninushi_Carrot",
+        "free": 0,
+        "category": 22,
+        "id": 281,
+        "icon": "10281",
+        "type": 1
+    },
+    "282": {
+        "desc_source": "Obtain by participating in operation events",
+        "name": "Vidar_Dizzy",
+        "free": 0,
+        "category": 22,
+        "id": 282,
+        "icon": "10282",
+        "type": 1
+    },
+    "283": {
+        "desc_source": "Obtain by participating in operation events",
+        "name": "Zhiming_Angry",
+        "free": 0,
+        "category": 22,
+        "id": 283,
+        "icon": "10283",
+        "type": 1
+    },
     "get_id_list_by_category": {
+        "22": [
+            281,
+            282,
+            283
+        ],
         "15": [
             192,
             193,
@@ -2255,6 +2287,9 @@
         208,
         209,
         210,
-        211
+        211,
+        281,
+        282,
+        283
     ]
 }
