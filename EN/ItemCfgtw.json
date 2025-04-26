@@ -1124,7 +1124,7 @@
         "time": [
             2,
             [
-                1727211600
+                1745287200
             ]
         ]
     },
@@ -2303,48 +2303,6 @@
         ],
         "source": []
     },
-    "2901": {
-        "name": "600k Pre-registrations",
-        "display_rare": 5,
-        "type": 12,
-        "compose_id": 0,
-        "rare": 5,
-        "desc": "Rewards for reaching 600k pre-registration around the globe! Thanks for your support!",
-        "desc_source": "600k Pre-registration Milestone",
-        "sub_type": 1202,
-        "decompose_id": 0,
-        "limit": 0,
-        "id": 2901,
-        "icon": "2901",
-        "use": 0,
-        "max": 0,
-        "param": [
-            2901,
-            0
-        ],
-        "source": []
-    },
-    "2902": {
-        "name": "Test Commemoration",
-        "display_rare": 5,
-        "type": 12,
-        "compose_id": 0,
-        "rare": 5,
-        "desc": "「开拓精神与你同在」",
-        "desc_source": "「开拓精神与你同在」",
-        "sub_type": 1202,
-        "decompose_id": 0,
-        "limit": 0,
-        "id": 2902,
-        "icon": "2902",
-        "use": 0,
-        "max": 0,
-        "param": [
-            2902,
-            0
-        ],
-        "source": []
-    },
     "2910": {
         "name": "Clarity of Mind",
         "display_rare": 5,
@@ -2658,23 +2616,6 @@
         "max": 0,
         "source": []
     },
-    "3013": {
-        "decompose_id": 0,
-        "name": "Windy Shore",
-        "compose_id": 0,
-        "type": 13,
-        "id": 3013,
-        "rare": 5,
-        "desc": "A souvenir of times past which can be viewed in the Stickers page.\n—What a beautiful day! Want to go for a walk along the beach together?",
-        "desc_source": "Server Launch Commemoration Reward",
-        "sub_type": 1301,
-        "limit": 0,
-        "display_rare": 5,
-        "icon": "3013",
-        "use": 0,
-        "max": 0,
-        "source": []
-    },
     "3014": {
         "decompose_id": 0,
         "name": "Tranquil Dream",
@@ -2720,23 +2661,6 @@
         "limit": 0,
         "display_rare": 5,
         "icon": "3016",
-        "use": 0,
-        "max": 0,
-        "source": []
-    },
-    "3017": {
-        "decompose_id": 0,
-        "name": "Aether Gazer Employment Certificate",
-        "compose_id": 0,
-        "type": 13,
-        "id": 3017,
-        "rare": 5,
-        "desc": "A souvenir of times past which can be viewed in the Stickers page.\n—Welcome to Aether Gazer!",
-        "desc_source": "Pre-registration Commemoration",
-        "sub_type": 1302,
-        "limit": 0,
-        "display_rare": 5,
-        "icon": "3017",
         "use": 0,
         "max": 0,
         "source": []
@@ -6853,7 +6777,7 @@
         "time": [
             2,
             [
-                1727211600
+                1745287200
             ]
         ]
     },
@@ -100977,6 +100901,82 @@
             ]
         ]
     },
+    "524054": {
+        "decompose_id": 0,
+        "name": "Battle Cry of the Wild Sands Ⅱ",
+        "compose_id": 0,
+        "type": 7,
+        "id": 524054,
+        "rare": 5,
+        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
+        "limit": 0,
+        "sub_type": 0,
+        "display_rare": 5,
+        "icon": "54",
+        "use": 0,
+        "max": 0,
+        "source": [
+            [
+                10001
+            ]
+        ]
+    },
+    "525054": {
+        "decompose_id": 0,
+        "name": "Battle Cry of the Wild Sands Ⅱ",
+        "compose_id": 0,
+        "type": 7,
+        "id": 525054,
+        "rare": 5,
+        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
+        "limit": 0,
+        "sub_type": 0,
+        "display_rare": 5,
+        "icon": "54",
+        "use": 0,
+        "max": 0,
+        "source": [
+            [
+                10001
+            ]
+        ]
+    },
+    "529054": {
+        "decompose_id": 0,
+        "name": "Battle Cry of the Wild Sands Ⅱ",
+        "compose_id": 0,
+        "type": 7,
+        "id": 529054,
+        "rare": 5,
+        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
+        "limit": 0,
+        "sub_type": 0,
+        "display_rare": 5,
+        "icon": "54",
+        "use": 0,
+        "max": 0,
+        "source": [
+            [
+                10001
+            ]
+        ]
+    },
+    "230054": {
+        "decompose_id": 0,
+        "name": "Battle Cry of the Wild Sands Ⅲ",
+        "compose_id": 0,
+        "type": 7,
+        "id": 230054,
+        "rare": 2,
+        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
+        "limit": 0,
+        "sub_type": 0,
+        "display_rare": 2,
+        "icon": "54",
+        "use": 0,
+        "max": 0,
+        "source": []
+    },
     "get_id_list_by_type": {
         "3": [
             11011,
@@ -106680,11 +106680,9 @@
             3010,
             3011,
             3012,
-            3013,
             3014,
             3015,
             3016,
-            3017,
             3018,
             3019,
             3020,
@@ -106752,8 +106750,6 @@
             2801,
             2802,
             2803,
-            2901,
-            2902,
             2910,
             2911,
             2912,
@@ -107966,7 +107962,6 @@
             4003
         ],
         "1302": [
-            3017,
             3019
         ],
         "1301": [
@@ -107981,7 +107976,6 @@
             3010,
             3011,
             3012,
-            3013,
             3014,
             3015,
             3016,
@@ -108033,9 +108027,7 @@
             2713,
             2714,
             2715,
-            2716,
-            2901,
-            2902
+            2716
         ],
         "1201": [
             2001,
@@ -113053,8 +113045,6 @@
         2801,
         2802,
         2803,
-        2901,
-        2902,
         2910,
         2911,
         2912,
@@ -113072,11 +113062,9 @@
         3010,
         3011,
         3012,
-        3013,
         3014,
         3015,
         3016,
-        3017,
         3018,
         3019,
         3020,
