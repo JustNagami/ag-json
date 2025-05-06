@@ -12457,6 +12457,348 @@
             150
         ]
     },
+    "9002": {
+        "talk_anchors": 3,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9002,
+        "talk_content": "Admin, False Deduction has been unlocked. Let's take a look!",
+        "params": [],
+        "guide_component": [
+            "common",
+            "chapterMap",
+            [
+                "toggleView_",
+                4,
+                "button_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -521,
+            274
+        ]
+    },
+    "9003": {
+        "talk_anchors": 3,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9003,
+        "talk_content": "Tap to go to False Deduction.",
+        "params": [
+            "chapterMap",
+            4,
+            306
+        ],
+        "guide_component": [
+            "child_getcom",
+            "chapterMap",
+            [
+                "contentView_",
+                4,
+                "itemParent_"
+            ],
+            "306",
+            "Button"
+        ],
+        "mask_component": [
+            "child",
+            "chapterMap",
+            [
+                "contentView_",
+                4,
+                "itemParent_"
+            ],
+            "306/guide_mask"
+        ],
+        "mask_scale": [],
+        "talk_position": [
+            -400,
+            300
+        ]
+    },
+    "9101": {
+        "talk_anchors": 3,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9101,
+        "talk_content": "Tap Start Deduction.",
+        "params": [],
+        "guide_component": [
+            "common",
+            "challengeRogueTeamEntrace",
+            [
+                "startBtn_"
+            ]
+        ],
+        "mask_component": [
+            "common",
+            "challengeRogueTeamEntrace",
+            [
+                "guideComponents",
+                "guide_start"
+            ]
+        ],
+        "mask_scale": [],
+        "talk_position": [
+            -900,
+            220
+        ]
+    },
+    "9102": {
+        "talk_anchors": 3,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9102,
+        "talk_content": "The higher the reconstruction level of the deduction location, the more dangerous the environment, but the more data you will be able to collect. Let's try deduction at the most basic difficulty level.",
+        "params": [],
+        "guide_component": [
+            "common",
+            "challengeRogueTeamEntraceDifficulty",
+            [
+                "rogueTeamSureBtnView_",
+                "button_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -427,
+            392
+        ]
+    },
+    "9108": {
+        "talk_anchors": 3,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9108,
+        "talk_content": "Choose Modifiers to perform a deduction. This time, we'll use these as an example.",
+        "params": [],
+        "guide_component": [
+            "common",
+            "challengeRogueTeamSectionSelectHero",
+            [
+                "startBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -427,
+            392
+        ]
+    },
+    "9201": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9201,
+        "talk_content": "In False Deduction, tactic program add-ins can be obtained through various means. The tactical effects which they provide can add enhancements to the battlefield.",
+        "params": [],
+        "guide_component": [
+            "common",
+            "challengeRogueTeamTreasureSelect",
+            [
+                "guideComponents",
+                "guide_itemParent"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            -410
+        ]
+    },
+    "9401": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9401,
+        "talk_content": "After you've collected <color=#E8AE5A>6 program add-ins of the same tactic</color>, you will unlock the corresponding Tactical Order and can use it in battle.",
+        "params": [],
+        "guide_component": [
+            "common",
+            "challengeRogueTeamSuitSkill",
+            [
+                "guideComponents",
+                "guide_ult"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            -410
+        ]
+    },
+    "9501": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9501,
+        "talk_content": "Complete certain battle rooms to obtain collectibles and gain significant improvements to battles and exploration.",
+        "params": [],
+        "guide_component": [
+            "common",
+            "challengeRogueTeamTreasureSelect",
+            [
+                "guideComponents",
+                "guide_itemParent"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            -410
+        ]
+    },
+    "9601": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9601,
+        "talk_content": "<color=#E8AE5A>Each time you complete a room</color>, you get Exposure Points. Accumulate Exposure Points to get Techniques.",
+        "params": [],
+        "guide_component": [
+            "rogueTeamMechanismBar",
+            "progressGo_"
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            220
+        ]
+    },
+    "9603": {
+        "talk_anchors": 0,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9603,
+        "talk_content": "In the next room, we'll meet the traveling merchant. Choose the Art of the Deal here.",
+        "params": [],
+        "guide_component": [
+            "common",
+            "challengeRogueTeamTreasureSelect",
+            [
+                "treasureItemList_",
+                1,
+                "commonItem_",
+                "btn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            -410
+        ]
+    },
+    "9604": {
+        "talk_anchors": 3,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9604,
+        "talk_content": "Tap Confirm.",
+        "params": [],
+        "guide_component": [
+            "common",
+            "challengeRogueTeamTreasureSelect",
+            [
+                "rogueTeamSureBtnView_",
+                "button_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -427,
+            392
+        ]
+    },
+    "9701": {
+        "talk_anchors": 2,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9701,
+        "talk_content": "During deduction, Modifiers' <color=#E8AE5A>Transcendence level, Functors, skills, and levels</color> will all be increased to the specified level.",
+        "params": [],
+        "guide_component": [
+            "common",
+            "challengeRogueTeamTeamInfo",
+            [
+                "guideComponents",
+                "guide_info"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -1070,
+            -196
+        ]
+    },
+    "9801": {
+        "talk_anchors": 4,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9801,
+        "talk_content": "You can obtain Research Results at the end of each exploration.",
+        "params": [],
+        "guide_component": [
+            "common",
+            "challengeRogueTeamEntrace",
+            [
+                "technologyTreeBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            832,
+            574
+        ]
+    },
+    "9802": {
+        "talk_anchors": 0,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 9802,
+        "talk_content": "Use Research Results to unlock special effects which will help with future exploration.",
+        "params": [],
+        "guide_component": [
+            "common",
+            "challengeRogueTeamSkillTree",
+            [
+                "skillItem_",
+                3,
+                "itemBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -36,
+            195
+        ]
+    },
     "9901": {
         "talk_anchors": 1,
         "type": "ClickButton",
@@ -14535,6 +14877,20 @@
         8403,
         8501,
         8502,
+        9002,
+        9003,
+        9101,
+        9102,
+        9108,
+        9201,
+        9401,
+        9501,
+        9601,
+        9603,
+        9604,
+        9701,
+        9801,
+        9802,
         9901,
         9902,
         9903,

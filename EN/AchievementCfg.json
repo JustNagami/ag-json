@@ -11484,6 +11484,464 @@
             2512
         ]
     },
+    "63001": {
+        "name": "Through the Wilderness I",
+        "system": "",
+        "type_id": 3,
+        "condition": 300005,
+        "desc": "Clear Difficulty I once in False Deduction: Searching All Over.",
+        "need": 1,
+        "is_hide": 0,
+        "id": 63001,
+        "parameter": [
+            100001,
+            1
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63002": {
+        "name": "Through the Wilderness II",
+        "system": "",
+        "type_id": 3,
+        "condition": 300005,
+        "desc": "Clear Difficulty II once in False Deduction: Searching All Over.",
+        "need": 1,
+        "is_hide": 0,
+        "id": 63002,
+        "parameter": [
+            100001,
+            2
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63003": {
+        "name": "Through the Wilderness III",
+        "system": "",
+        "type_id": 3,
+        "condition": 300005,
+        "desc": "Clear Difficulty III once in False Deduction: Searching All Over.",
+        "need": 1,
+        "is_hide": 0,
+        "id": 63003,
+        "parameter": [
+            100001,
+            3
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63006": {
+        "name": "We're safe, but...",
+        "system": "",
+        "type_id": 3,
+        "condition": 300006,
+        "desc": "Clear the Emergency Evacuation ending once in False Deduction: Searching All Over.",
+        "need": 1,
+        "is_hide": 0,
+        "id": 63006,
+        "parameter": [
+            100001,
+            1
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63007": {
+        "name": "The Me in Another World",
+        "system": "",
+        "type_id": 3,
+        "condition": 300006,
+        "desc": "Clear the Double Clouds ending once in False Deduction: Searching All Over.",
+        "need": 1,
+        "is_hide": 0,
+        "id": 63007,
+        "parameter": [
+            100001,
+            2
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63008": {
+        "name": "The Future is Uncertain",
+        "system": "",
+        "type_id": 3,
+        "condition": 300006,
+        "desc": "Clear the Temporary Peace ending once in False Deduction: Searching All Over.",
+        "need": 1,
+        "is_hide": 0,
+        "id": 63008,
+        "parameter": [
+            100001,
+            3
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63009": {
+        "name": "The Wilderness Treasure",
+        "system": "",
+        "type_id": 3,
+        "condition": 300013,
+        "desc": "Clear False Deduction: Searching All Over with 10 collectibles.",
+        "need": 1,
+        "is_hide": 0,
+        "id": 63009,
+        "parameter": [
+            100001,
+            10
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63010": {
+        "name": "Thorough Preparations",
+        "system": "",
+        "type_id": 3,
+        "condition": 300014,
+        "desc": "Clear False Deduction: Searching All Over with 20 program add-ins.",
+        "need": 1,
+        "is_hide": 0,
+        "id": 63010,
+        "parameter": [
+            100001,
+            0,
+            20
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63011": {
+        "name": "There are sparks on your head...",
+        "system": "",
+        "type_id": 3,
+        "condition": 300009,
+        "desc": "Get 3 Chained Overload Tactical Orders in False Deduction.",
+        "need": 3,
+        "is_hide": 0,
+        "id": 63011,
+        "parameter": [
+            100001,
+            1
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63012": {
+        "name": "Stand by me!",
+        "system": "",
+        "type_id": 3,
+        "condition": 300009,
+        "desc": "Get 3 Kinetic Plating Tactical Orders in False Deduction.",
+        "need": 3,
+        "is_hide": 0,
+        "id": 63012,
+        "parameter": [
+            100001,
+            3
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63013": {
+        "name": "How can I get that knife back?",
+        "system": "",
+        "type_id": 3,
+        "condition": 300009,
+        "desc": "Get 3 Storm of Blades Tactical Orders in False Deduction.",
+        "need": 3,
+        "is_hide": 0,
+        "id": 63013,
+        "parameter": [
+            100001,
+            4
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63014": {
+        "name": "I can travel through dimensions!",
+        "system": "",
+        "type_id": 3,
+        "condition": 300009,
+        "desc": "Get 3 Destruction Time Tactical Orders in False Deduction.",
+        "need": 3,
+        "is_hide": 0,
+        "id": 63014,
+        "parameter": [
+            100001,
+            5
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63015": {
+        "name": "Many Types of Frost",
+        "system": "",
+        "type_id": 3,
+        "condition": 300009,
+        "desc": "Get 3 Storm of Ice Tactical Orders in False Deduction.",
+        "need": 3,
+        "is_hide": 0,
+        "id": 63015,
+        "parameter": [
+            100001,
+            6
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63016": {
+        "name": "Order: Destroy",
+        "system": "",
+        "type_id": 5,
+        "condition": 300012,
+        "desc": "Kill 5 enemies at once with a single Tactical Order in False Deduction.",
+        "need": 1,
+        "is_hide": 0,
+        "id": 63016,
+        "parameter": [
+            0,
+            0,
+            5
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63017": {
+        "name": "Link",
+        "system": "",
+        "type_id": 5,
+        "condition": 300011,
+        "desc": "Kill 500 enemies with Strike in False Deduction.",
+        "need": 500,
+        "is_hide": 0,
+        "id": 63017,
+        "parameter": [
+            0,
+            1
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63018": {
+        "name": "Chain Arc",
+        "system": "",
+        "type_id": 5,
+        "condition": 300011,
+        "desc": "Kill 500 enemies with Energy Shield in False Deduction.",
+        "need": 500,
+        "is_hide": 0,
+        "id": 63018,
+        "parameter": [
+            0,
+            3
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63019": {
+        "name": "Ground Zero",
+        "system": "",
+        "type_id": 5,
+        "condition": 300011,
+        "desc": "Kill 500 enemies with Shadowblade in False Deduction.",
+        "need": 500,
+        "is_hide": 0,
+        "id": 63019,
+        "parameter": [
+            0,
+            4
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63020": {
+        "name": "Not even light can escape.",
+        "system": "",
+        "type_id": 5,
+        "condition": 300011,
+        "desc": "Kill 500 enemies with Absorb in False Deduction.",
+        "need": 500,
+        "is_hide": 0,
+        "id": 63020,
+        "parameter": [
+            0,
+            5
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
+    "63021": {
+        "name": "Hypothermia",
+        "system": "",
+        "type_id": 5,
+        "condition": 300011,
+        "desc": "Kill 500 enemies with Freezing in False Deduction.",
+        "need": 500,
+        "is_hide": 0,
+        "id": 63021,
+        "parameter": [
+            0,
+            6
+        ],
+        "reward": [
+            [
+                1,
+                10
+            ]
+        ],
+        "source": [
+            336,
+            100001
+        ]
+    },
     "get_id_list_by_type_id": [
         [
             10101,
@@ -11800,7 +12258,20 @@
             62005,
             62006,
             62007,
-            62008
+            62008,
+            63001,
+            63002,
+            63003,
+            63006,
+            63007,
+            63008,
+            63009,
+            63010,
+            63011,
+            63012,
+            63013,
+            63014,
+            63015
         ],
         [
             14401,
@@ -11893,7 +12364,13 @@
             53202,
             53301,
             53401,
-            53501
+            53501,
+            63016,
+            63017,
+            63018,
+            63019,
+            63020,
+            63021
         ],
         [
             52101,
@@ -12380,6 +12857,25 @@
         80014,
         80015,
         80016,
-        80017
+        80017,
+        63001,
+        63002,
+        63003,
+        63006,
+        63007,
+        63008,
+        63009,
+        63010,
+        63011,
+        63012,
+        63013,
+        63014,
+        63015,
+        63016,
+        63017,
+        63018,
+        63019,
+        63020,
+        63021
     ]
 }

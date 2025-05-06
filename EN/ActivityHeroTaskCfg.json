@@ -62,7 +62,79 @@
         "task_id": 202407,
         "desc": "We meet \"again,\" Admin. Here's a gift to mark the occasion. What would I like in return, you ask? Hmm... how about you have a chat with me then? We can talk about anything, from what has been happening recently to things that I didn't know happened in the past."
     },
+    "1008": {
+        "main_activity_id": 292811,
+        "activity_id": 292821,
+        "hero_id": 1184,
+        "ans_desc": "\t",
+        "id": 1008,
+        "task_id": 202408,
+        "desc": "Now that I think of it, you've been with Aether Gazer for quite some time now, Admin. Heh, I must say, it's a little embarrassing when I remember how immature I was when I first started to go on missions with you. But we've overcome so many difficulties and learned many new skills together. I'll use this new power to protect everyone in the future! Here's a gift for you, Admin. I hope I'll always be by your side!"
+    },
+    "1009": {
+        "main_activity_id": 292811,
+        "activity_id": 292822,
+        "hero_id": 1011,
+        "ans_desc": "\t",
+        "id": 1009,
+        "task_id": 202409,
+        "desc": "It's been quite a while. I really caused everyone a lot of trouble when I was at the Spealght Factory... But thanks to everyone's help, I get along well with Ausar now. Do you have some time to train with me, Admin? There are some things I'd prefer to give to you in person..."
+    },
+    "1010": {
+        "main_activity_id": 292811,
+        "activity_id": 292823,
+        "hero_id": 1199,
+        "ans_desc": "\t",
+        "id": 1010,
+        "task_id": 202410,
+        "desc": "In the battle with Orochi at the Miyahebis', I realized that I still had so many shortcomings. But thanks to your guidance, Admin, I'm not feeling so lost anymore. From now on, I'll stop at nothing to beat my enemies, no matter how tough they are. Please accept this token of my thanks, Admin. I won't be with you for a while, so would you provide me with guidance once more before we part ways?"
+    },
+    "1011": {
+        "main_activity_id": 292811,
+        "activity_id": 292824,
+        "hero_id": 1041,
+        "ans_desc": "\t",
+        "id": 1011,
+        "task_id": 202411,
+        "desc": "It's been a while I last saw you, Admin, and certainly it's been quite some time since you were last in Omorfies. Thanks to you, a lot has changed here since then. To express our gratitude to you again, the Knights of Convallaria have prepared a gift for you. Please accept it, as well as our wish that everything goes smoothly for you from here on out."
+    },
+    "1012": {
+        "main_activity_id": 292811,
+        "activity_id": 292825,
+        "hero_id": 1071,
+        "ans_desc": "\t",
+        "id": 1012,
+        "task_id": 202412,
+        "desc": "Hey, Admin! I haven't seen you in Xu Heng for some time! How about you drop by and take a look at this treasure I recently acquired? ...Do you like it? Great. I thought you'd like this when I chose it. But this is only one piece of a set. I wasn't able to take everything with me from the marketplace in Xu Heng. Do you have some time to visit the marketplace with me later, Admin?"
+    },
+    "1013": {
+        "main_activity_id": 292811,
+        "activity_id": 292826,
+        "hero_id": 1150,
+        "ans_desc": "\t",
+        "id": 1013,
+        "task_id": 202413,
+        "desc": "Hello again, Admin. Thank you for all the help you've given me. Your help has made it possible for me to shoulder a hefty burden at a time of real need. Please accept this gift from me. However, I fear that I'm still green when it comes to the responsibilities of a squad captain. Would you be so kind to share some of your experiences with me, Admin?"
+    },
+    "1014": {
+        "main_activity_id": 292811,
+        "activity_id": 292827,
+        "hero_id": 1095,
+        "ans_desc": "\t",
+        "id": 1014,
+        "task_id": 202414,
+        "desc": "We meet \"again,\" Admin. Here's a gift to mark the occasion. What would I like in return, you ask? Hmm... how about you have a chat with me then? We can talk about anything, from what has been happening recently to things that I didn't know happened in the past."
+    },
     "get_id_list_by_main_activity_id": {
+        "292811": [
+            1008,
+            1009,
+            1010,
+            1011,
+            1012,
+            1013,
+            1014
+        ],
         "242811": [
             1001,
             1002,
@@ -80,6 +152,13 @@
         1004,
         1005,
         1006,
-        1007
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014
     ]
 }

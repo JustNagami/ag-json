@@ -427,6 +427,27 @@
             10119
         ]
     },
+    "10120": {
+        "sort": 0,
+        "name": "The High Wall",
+        "not_chapter_id": false,
+        "id": 10120,
+        "show_tag_type": 0,
+        "chapter_paint_2": "bg_mainStory_20",
+        "extra_strory_system": "",
+        "desc": "Chapter 20",
+        "extra_story_unlock_condition": "",
+        "jump_system": "",
+        "chapter_paint": "bg_main_20",
+        "drop_icon": "",
+        "toggle": 1,
+        "asset_pend_key": "assetpend_common_chapter_9",
+        "level": 1,
+        "chapter_list": [
+            10120,
+            11120
+        ]
+    },
     "10200": {
         "sort": 0,
         "name": "Source World",
@@ -1140,6 +1161,29 @@
         "level": 1,
         "chapter_list": [
             501
+        ]
+    },
+    "306": {
+        "sort": 0,
+        "name": "False Deduction",
+        "not_chapter_id": false,
+        "id": 306,
+        "show_tag_type": 0,
+        "chapter_paint_2": "map_rogue_team",
+        "extra_strory_system": "",
+        "desc": "False Deduction",
+        "extra_story_unlock_condition": "",
+        "chapter_paint": "bg_map_rogue_team",
+        "drop_icon": "TextureConfig/Operation/icon_roguelike",
+        "toggle": 4,
+        "asset_pend_key": "",
+        "level": 35,
+        "chapter_list": [
+            306
+        ],
+        "jump_system": [
+            336,
+            100001
         ]
     },
     "601": {
@@ -2735,6 +2779,7 @@
             402,
             500,
             501,
+            306,
             701
         ],
         "3": [
@@ -2773,6 +2818,7 @@
             10117,
             10118,
             10119,
+            10120,
             10200,
             10201,
             10202,
@@ -2809,6 +2855,7 @@
         10117,
         10118,
         10119,
+        10120,
         10200,
         10201,
         10202,
@@ -2841,6 +2888,7 @@
         402,
         500,
         501,
+        306,
         601,
         701,
         4040100,

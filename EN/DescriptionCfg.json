@@ -1338,7 +1338,7 @@
         ]
     },
     "101020101": {
-        "description": "Translating:【description$101020101$description$0】",
+        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state:\nDeals Wind DMG equal to <color=#E78300>{1}</color> of ATK and grants <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> every time an attack hits.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material> state:\nDeals Wind DMG equal to <color=#E78300>{2}</color> of ATK and grants <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> every time an attack hits.\n\nPassive:\nMax <color=#E78300>120</color> <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material>. In <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material> state, grants Super Armor and deals Wind DMG equal to <color=#E78300>{3}</color> of ATK to all enemies every <color=#E78300>1</color>s.\nMahêśvara - Reveal, Mahêśvara - Annihilation, Suddhavasa - Reveal, Suddhavasa - Annihilation, and the Just Me Ultimate Skill in <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material> state, will instantly defeat an enemy with less than <color=#E78300>12%</color> HP.\n\n<color=#297DE0>Divine Grace:</color> Grants Divine Grace after a normal attack hits.",
         "maxLv": 60,
         "type": 1,
         "id": 101020101,
@@ -1365,7 +1365,7 @@
         ]
     },
     "101020201": {
-        "description": "Translating:【description$101020201$description$0】",
+        "description": "In <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state:\nMahêśvara - Genesis: Can be unleashed when <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> is full, expending the total amount to deal Wind DMG equal to <color=#E78300>{1}</color> of ATK. A short time after unleashing this skill, it will be replaced with Mahêśvara - Reveal, which can only be used after Mahêśvara - Genesis.\nMahêśvara - Reveal: Deals Wind DMG equal to <color=#E78300>{2}</color> of ATK.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material> state:\nMahêśvara - Disintegration: Can be unleashed when <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> is full, expending the total amount to deal Wind DMG equal to <color=#E78300>{3}</color> of ATK. A short time after unleashing this skill, it will be replaced with Mahêśvara - Annihilation, which can only be used after Mahêśvara - Disintegration.\nMahêśvara - Annihilation: Deals Wind DMG equal to <color=#E78300>{4}</color> of ATK.\n\n<color=#297DE0>Divine Grace:</color>Grants Divine Grace after a skill hits.",
         "maxLv": 60,
         "type": 1,
         "id": 101020201,
@@ -1398,7 +1398,7 @@
         ]
     },
     "101020202": {
-        "description": "Translating:【description$101020202$description$0】",
+        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Catacylsmic Destruction</material> state:\nDeals Wind DMG equal to <color=#E78300>{1}</color> of ATK. After unleashing this skill, normal attacks restore a <color=#E78300>5%</color> Ultimate Skill charge each time they hit for <color=#E78300>4</color>s. Grants <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman </material> each time this skill hits.\n\n<color=#297DE0>Divine Grace:</color>Grants Divine Grace after a skill hits.",
         "maxLv": 60,
         "type": 1,
         "id": 101020202,
@@ -1413,7 +1413,7 @@
         ]
     },
     "101020203": {
-        "description": "Translating:【description$101020203$description$0】",
+        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state:\nSuddhavasa - Genesis: Can be unleashed when Divine Grace is full, expending the total amount to deal Wind DMG equal to <color=#E78300>{1}</color> of ATK. A short time after unleashing this skill, it will be replaced with Suddhavasa - Reveal, which can only be used after Suddhavasa - Genesis.\nSuddhavasa - Reveal: Deals Wind DMG equal to <color=#E78300>{2}</color> of ATK.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material> state:\nSuddhavasa - Disintegration: Can be unleashed when Divine Grace is full, expending the total amount to deal Wind DMG equal to <color=#E78300>{3}</color> of ATK. A short time after unleashing this skill, it will be replaced with Suddhavasa - Annihilation, which can only be used after Suddhavasa - Disintegration.\nSuddhavasa - Annihilation: Deals Wind DMG equal to <color=#E78300>{4}</color> of ATK.",
         "maxLv": 60,
         "type": 1,
         "id": 101020203,
@@ -1446,7 +1446,7 @@
         ]
     },
     "101020208": {
-        "description": "Translating:【description$101020208$description$0】",
+        "description": "The Ultimate Skillchain of Trimūrti - Brahmā and Annihilator - Kali.\nDeals Wind DMG equal to Trimūrti - Brahmā's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>) and switches her to <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Catacylsmic Destruction</material> state.\nDeals Thunder DMG equal to Annihilator - Kali's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>). When this skill hits, increases the Melee DMG of all teammates by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s and reduces enemy Thunder RES by <color=#E78300>{7}</color> for <color=#E78300>{8}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101020208,
@@ -1503,7 +1503,7 @@
         ]
     },
     "101020209": {
-        "description": "Translating:【description$101020209$description$0】",
+        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state:\nDeals Wind DMG equal to <color=#E78300>{1}</color> of ATK and switches the Mod to <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Catacylsmic Destruction</material> state.\nWhen switching to <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Catacylsmic Destruction</material> state, <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> and Ultimate Skill CD both reset and the Ultimate Skillchain is cancelled.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material> state:\nDeals Wind DMG equal to <color=#E78300>{2}</color> of ATK and switches the Mod to <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state.\nWhen switching to <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state, <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material>, Dodge effect CD, Ultimate Skill Charge of the Mod and other Mods with whom the Mod has a preset Ultimate Skillchain, and Ultimate Skill CD are all reset, and the Ultimate Skillchain is restored.\n\nAfter an Asterism Mod attack hits, grants a <color=#E78300>2%, 3%, or 4%</color> Ultimate Skill charge depending on the number of current Asterism Mods on the team. This effect can be triggered once every <color=#E78300>2</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101020209,
@@ -1524,7 +1524,7 @@
         ]
     },
     "101020305": {
-        "description": "Translating:【description$101020305$description$0】",
+        "description": "Extremity Dodge will not trigger the Dodge effect.\nIn <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state when the Dodge effect is not in CD, hold down Dodge to unleash a skill and trigger a Dodge effect. Increases ATK of all teammates by <color=#E78300>{1}</color> for <color=#E78300>{2}</color>s. All teammates recover <color=#E78300>70%</color> Ultimate Skill charge, and the Mod is granted <color=#E78300>20</color> Divine Grace. After unleashing this skill, follow up with a normal attack to start from the third normal attack strike. Gain an additional <color=#E78300>5</color> <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> each time the third, fourth, and fifth normal attack strikes hit.\nDodge Effect: Enters Zero Time, dramatically slowing the movements of all enemies on the field for <color=#E78300>4</color>s. This Dodge effect can be triggered once every <color=#E78300>{3}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101020305,
@@ -8211,7 +8211,7 @@
         ]
     },
     "101072203": {
-        "description": "Shortly after the final strike of a normal attack, Breezy Blessings, or Actus Abacus, Raining Wealth will be replaced by Evil Expeller and can be cast immediately as a follow-up attack of the attacks mentioned above, which will result in different number of strikes, different amounts of damage, and different <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> points obtained upon a hit. <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> is capped at <color=#E78300>50</color>.\nCasting Evil Expeller immediately after the final strike of a normal attack: 1 strike of attack can be delivered, dealing Wind DMG equal to <color=#E78300>{4}</color> of ATK and granting <color=#E78300>6</color> <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> in total.\nCasting Evil Expeller immediately after Breezy Blessings: 3 strikes of attack can be delivered consecutively, dealing Wind DMG equal to <color=#E78300>{5}</color> of ATK and granting <color=#E78300>10</color> <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> in total.\nCasting Evil Expeller immediately after Actus Abacus: 5 strikes of attack can be delivered consecutively, dealing Wind DMG equal to <color=#E78300>{6}</color> of ATK and granting <color=#E78300>14</color> <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> in total.\n\nRaining Wealth: Consumes all <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material>, then leaps into the air and attacks the enemy using Omnicalc. Damage dealt is determined by the <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> expended.\nWhen <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> expended is below <color=#E78300>40</color>, deals Wind DMG equal to <color=#E78300>{1}</color> of ATK in total.\nWhen <color=#E78300>40</color> or more <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> is expended, deals Wind DMG equal to <color=#E78300>{2}</color> of ATK in total.\nCasting Raining Wealth increases the Wind DMG of the entire team by <color=#E78300>10%</color> for <color=#E78300>{3}</color>s. For every <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> expended, this Wind DMG boost further increases by <color=#E78300>0.6%</color>.\n\n<color=#297DE0>Traces:</color> After the last strike of Evil Expeller hits, gains <color=#E78300>1</color> Trace.",
+        "description": "Translating:【description$101072203$description$0】",
         "maxLv": 60,
         "type": 1,
         "id": 101072203,
@@ -9384,7 +9384,7 @@
         ]
     },
     "101089101": {
-        "description": "Translating:【description$101089101$description$0】",
+        "description": "Deals Wind DMG equal to <color=#E78300>{1}</color> of ATK.\n\nPassive:\nThe Mod has <color=#E78300>3</color> types of <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullets</material> and can hold a maximum of <color=#E78300>6</color>.\nWhen holding <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullets</material>, unleashing Gale Dash and Storm Rampage will expend <color=#E78300>1 and 3</color> <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullet(s)</material> respectively, granting different effects:\nExpending <material=underline c=#FFFFFF h=2 event=terminology args=(108902)>Wind Bullets - Azure</material>: When HP is full, grants <color=#E78300>12</color> stacks of the <material=underline c=#FFFFFF h=2 event=terminology args=(108905)>Azure</material> state.\nWhen expended <material=underline c=#FFFFFF h=2 event=terminology args=(108902)>Wind Bullets - Azure</material> hit: Depending on the number of <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullets</material> expended, <color=#E78300>2%</color> of HP will be restored for every <color=#E78300>1</color> that hits.\n<material=underline c=#FFFFFF h=2 event=terminology args=(108905)>Azure</material>: Reduces Received DMG by <color=#E78300>{2}</color> for <color=#E78300>30</color>s when stacks are held. <color=#E78300>1</color> stack is lost every time HP decreases.\nExpending <material=underline c=#FFFFFF h=2 event=terminology args=(108903)>Wind Bullets - Amber</material>: Gain <color=#E78300>1</color> stack of the <material=underline c=#FFFFFF h=2 event=terminology args=(108906)>Amber</material> state. Max <color=#E78300>6</color> stacks.\nWhen expended <material=underline c=#FFFFFF h=2 event=terminology args=(108903)>Wind Bullets - Amber</material> hit: Depending on the number of <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullets</material> used, increases Non-DoT Skill DMG by <color=#E78300>3%</color> for every <color=#E78300>1</color> that hits.\n<material=underline c=#FFFFFF h=2 event=terminology args=(108906)>Amber</material>: Increases DMG by <color=#E78300>2%</color> for every <color=#E78300>1</color> stack.\nExpending <material=underline c=#FFFFFF h=2 event=terminology args=(108904)>Wind Bullets - Crimson</material>: Expends <color=#E78300>1</color> stack of <material=underline c=#FFFFFF h=2 event=terminology args=(108906)>Amber</material> to gain <color=#E78300>10</color> stacks of <material=underline c=#FFFFFF h=2 event=terminology args=(108907)>Crimson</material>. This changes to <color=#E78300>2</color> stacks of <material=underline c=#FFFFFF h=2 event=terminology args=(108907)>Crimson</material> after reaching <color=#E78300>60</color> stacks. Max <color=#E78300>100</color> stacks.\nWhen expended <material=underline c=#FFFFFF h=2 event=terminology args=(108904)>Wind Bullets - Crimson</material> hit: Depending on the number of <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullets</material> used, increases Non-DoT Skill DMG by <color=#E78300>5%</color> for every <color=#E78300>1</color> that hits.\n<material=underline c=#FFFFFF h=2 event=terminology args=(108907)>Crimson</material>: Increases Wind DMG by <color=#E78300>0.3%</color> for every <color=#E78300>1</color> stack.\n\nWhen the <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullet</material> type is <material=underline c=#FFFFFF h=2 event=terminology args=(108904)>Wind Bullets - Crimson</material>, deals DMG to the Mod equal to <color=#E78300>10%</color> of her Max HP when casting a skill. When in the <material=underline c=#FFFFFF h=2 event=terminology args=(108905)>Azure</material> state, expends <color=#E78300>1</color>stack and deals DMG to the Mod equal to <color=#E78300>5%</color> of her Max HP.\nDuring the second, fourth, and sixth normal attack strikes, Divine Grace gain is boosted for <color=#E78300>6</color>s. Max <color=#E78300>2</color> stacks. Each stack provides <color=#E78300>2</color> Divine Grace every <color=#E78300>0.6</color>s. Automatically reloads when Divine Grace is full, expending the total amount to grant <color=#E78300>6</color> <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullets</material> and reset the Skill CD.",
         "maxLv": 60,
         "type": 1,
         "id": 101089101,
@@ -9405,7 +9405,7 @@
         ]
     },
     "101089201": {
-        "description": "Deals Wind DMG equal to <color=#E78300>{1}</color> of ATK. Grants <color=#E78300>4</color> Divine Grace every time an enemy is hit if the skill is cast while the normal attack is generating Divine Grace, and doesn't interrupt normal attack strike counts. Additionally, this skill's remaining CD is reduced by <color=#E78300>25%</color> after it is cast.",
+        "description": "Deals Wind DMG equal to <color=#E78300>{1}</color> of ATK. When Divine Grace is boosted from normal attacks, grants <color=#E78300>4</color> Divine Grace upon every hit. After unleashing, this skill will not interrupt the normal attack strike count, and the remaining skill CD is reduced by <color=#E78300>25%</color>.",
         "maxLv": 60,
         "type": 1,
         "id": 101089201,
@@ -9420,7 +9420,7 @@
         ]
     },
     "101089202": {
-        "description": "Deals Wind DMG equal to <color=#E78300>{1}</color> of ATK. Grants <color=#E78300>2</color> Divine Grace every time an enemy is hit if the skill is cast while the normal attack is generating Divine Grace, and doesn't interrupt normal attack strike counts. Additionally, this skill's remaining CD is reduced by <color=#E78300>25%</color> after it is cast.",
+        "description": "Deals Wind DMG equal to <color=#E78300>{1}</color> of ATK. When Divine Grace is boosted from normal attacks, grants <color=#E78300>2</color> Divine Grace upon every hit. After unleashing this skill, it will not interrupt the normal attack strike count, and the remaining skill CD is reduced by <color=#E78300>25%</color>.",
         "maxLv": 60,
         "type": 1,
         "id": 101089202,
@@ -9435,7 +9435,7 @@
         ]
     },
     "101089203": {
-        "description": "Translating:【description$101089203$description$0】",
+        "description": "Manually reloads, dealing Wind DMG equal to <color=#E78300>{1}</color> of ATK, switching <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullet</material> type, and expending all Divine Grace. Grants <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullet</material> for every <color=#E78300>15</color> Divine Grace.\nWhen this skill is not in CD, use a normal attack and quickly follow up with Gale Dash to unleash the skill and manually reload. This particular trigger does not send the skill into CD and will not interrupt the normal attack strike count. This can be triggered every <color=#E78300>1</color>s. In order to not switch the <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullet</material> type, expend all Divine Grace to earn the corresponding number of <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullets</material>.\nWhen the <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullet</material> type is <material=underline c=#FFFFFF h=2 event=terminology args=(108904)>Wind Bullets - Crimson</material>, this skill will be replaced with Blooming Waltz.\nBlooming Waltz: Deals Wind DMG equal to <color=#E78300>{2}</color> of ATK. Each time this attack hits, expends <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullet</material> to decrease Wind RES of the hit enemy by <color=#E78300>2%</color> for <color=#E78300>{3}</color>s. Max <color=#E78300>6</color> stacks. This skill has a <color=#E78300>2</color>s CD.",
         "maxLv": 60,
         "type": 1,
         "id": 101089203,
@@ -9462,7 +9462,7 @@
         ]
     },
     "101089208": {
-        "description": "Translating:【description$101089208$description$0】",
+        "description": "The Ultimate Skillchain of Tempest - Parvati and Trimūrti - Brahmā.\nDeals Wind DMG equal to Tempest - Parvati's ATK × (<color=#E78300>{1} + {2}</color> × <color=#297DE0>her Ultimate Skill level</color>). Increases ATK of all teammates by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s. After unleashing this skill, resets Mod's Ultimate Skill CD.\nDeals Wind DMG equal to Trimūrti - Brahmā × (<color=#E78300>{3} + {4}</color> × <color=#297DE0>her Ultimate Skill level</color>) and switches the Mod to <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material> state.",
         "maxLv": 60,
         "type": 1,
         "id": 101089208,
@@ -9507,7 +9507,7 @@
         ]
     },
     "101089209": {
-        "description": "Translating:【description$101089209$description$0】",
+        "description": "Deals Wind DMG equal to <color=#E78300>{1}</color> of ATK. Switches <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullet</material> type and fully restores Divine Grace.\n\nWhen the Mod or a teammate uses an Ultimate Skill, unleashing Gale Dash and Storm Rampage expends <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullets</material> to grant a <color=#E78300>12%</color> Ultimate Skill charge.",
         "maxLv": 60,
         "type": 1,
         "id": 101089209,
@@ -9573,7 +9573,7 @@
         ]
     },
     "101089305": {
-        "description": "Translating:【description$101089305$description$0】",
+        "description": "Quickly dodges enemy attacks. Extremity Dodge triggers Dodge effect.\nDodge effect: Enters Zero Time, dramatically slowing the movements of all enemies on the field for <color=#E78300>2</color>s. Grants different effects depending on <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullet</material> type:\n<material=underline c=#FFFFFF h=2 event=terminology args=(108902)>Wind Bullets - Azure</material>: Restores <color=#E78300>30%</color> of HP.\n<material=underline c=#FFFFFF h=2 event=terminology args=(108903)>Wind Bullets - Amber</material>: Grants <color=#E78300>1</color> stack of <material=underline c=#FFFFFF h=2 event=terminology args=(108906)>Amber</material> state.\n<material=underline c=#FFFFFF h=2 event=terminology args=(108904)>Wind Bullets - Crimson</material>: Fully restores Divine Grace.\nDodge effect can be triggered once every <color=#E78300>{1}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101089305,
@@ -12120,7 +12120,7 @@
         ]
     },
     "101156101": {
-        "description": "Translating:【description$101156101$description$0】",
+        "description": "Deals Thunder DMG equal to <color=#E78300>{1}</color> of ATK.\nWhen unleashing the fourth normal attack strike, tap on the normal attack button at the right time to trigger <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>Thunderous Splendor</material> and grant a boost effect: The final normal attack strike deals Thunder DMG equal to <color=#E78300>{2}</color> of ATK.\n\nPassive:\nGrants Super Armor during boosted normal attacks and skills. When <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>Thunderous Splendor</material> is unleashed, the remaining skill CD of this is shortened by <color=#E78300>0.5</color>s. \n\n<color=#297DE0>Rage: </color>Grants Rage after a normal attack hits.",
         "maxLv": 60,
         "type": 1,
         "id": 101156101,
@@ -12141,7 +12141,7 @@
         ]
     },
     "101156201": {
-        "description": "Translating:【description$101156201$description$0】",
+        "description": "The first phase deals Thunder DMG equal to <color=#E78300>{1}</color> of ATK, expending all Rage to deal Thunder DMG equal to <color=#E78300>{2}</color> of ATK in the second phase. When unleashing the fourth normal attack strike, tap on the skill button at the right time to trigger <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>Thunderous Splendor</material> and grant a boost effect: The latter phase deals Thunder DMG equal to <color=#E78300>{3}</color> of ATK. When expended Rage is under <color=#E78300>50</color>, between <color=#E78300>50</color> and <color=#E78300>100</color>, or above <color=#E78300>100</color>, this skill's latter phase Non-DoT Base DMG increases by <color=#E78300>5%</color>, <color=#E78300>10%</color>, and <color=#E78300>15%</color> respectively.\nTriggering the latter phase of <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>Thunderous Splendor</material> inflicts hit enemies with Armor Break for <color=#E78300>{4}</color>s. When expended Rage is under <color=#E78300>50</color>, between <color=#E78300>50</color> and <color=#E78300>100</color>, or above <color=#E78300>100</color>, Armor Break reduces Defense by <color=#E78300>3%</color>, <color=#E78300>6%</color>, and <color=#E78300>9%</color> respectively.",
         "maxLv": 60,
         "type": 1,
         "id": 101156201,
@@ -12174,7 +12174,7 @@
         ]
     },
     "101156202": {
-        "description": "Translating:【description$101156202$description$0】",
+        "description": "Teleports to the enemy's location. The first phase deals Thunder DMG equal to <color=#E78300>{1}</color> of ATK. Within a short period after this skill hits, unleash the latter phase to deal Thunder DMG equal to <color=#E78300>{2}</color> of ATK. After the first phase hits, tap on the skill button at the right time to trigger<material=underline c=#FFFFFF h=2 event=terminology args=(115601)>Thunderous Splendor</material> and grant a boost effect: The latter phase deals Thunder DMG equal to <color=#E78300>{3}</color> of ATK. When the final attack hits, Skill DMG increases by <color=#E78300>{4}</color> for <color=#E78300>{5}</color>s. \n\n<color=#297DE0>Rage:</color> Grants Rage after the boosted latter phase of the attack hits.",
         "maxLv": 60,
         "type": 1,
         "id": 101156202,
@@ -12213,7 +12213,7 @@
         ]
     },
     "101156203": {
-        "description": "Translating:【description$101156203$description$0】",
+        "description": "Expends all Rage, dealing Thunder DMG equal to <color=#E78300>{1}</color> of ATK. Hold down on the skill to charge it up to <color=#E78300>3</color> times. When charging, grants Super Armor and gathers enemies. Depending on the charged strike count, this skill deals Thunder DMG equal to <color=#E78300>{2}, {3}, or {4}</color> of ATK respectively. When expended Rage is under <color=#E78300>50</color>, between <color=#E78300>50</color> and <color=#E78300>100</color>, or above <color=#E78300>100</color>, this skill's latter phase Non-DoT Base DMG increases by <color=#E78300>5%</color>, <color=#E78300>10%</color>, and <color=#E78300>15%</color> respectively.\nThis skill is regarded as triggering <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>Thunderous Splendor</material> when fully charged.",
         "maxLv": 60,
         "type": 1,
         "id": 101156203,
@@ -12246,7 +12246,7 @@
         ]
     },
     "101156209": {
-        "description": "Translating:【description$101156209$description$0】",
+        "description": "Deals Thunder DMG equal to <color=#E78300>{1}</color> of ATK. Reduces enemy Thunder RES by <color=#E78300>{2}</color> for <color=#E78300>{3}</color>s when this skill hits.\nWhen the Mod or a teammate unleashes an Ultimate Skill, Crit DMG increases by <color=#E78300>30%</color> for <color=#E78300>{4}</color>s.\n\nGrants an <color=#E78300>8%</color> Ultimate Skill charge when the Mod or a teammate uses Extremity Dodge. This effect can be triggered once every <color=#E78300>2</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101156209,
@@ -12279,7 +12279,7 @@
         ]
     },
     "101156305": {
-        "description": "Translating:【description$101156305$description$0】",
+        "description": "Quickly dodges enemy attacks. Extremity Dodge triggers Dodge effect. Dodging will not interrupt the normal attack strike count. Using Extremity Dodge grants <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(115602)>Thunderstrike</material> Mark and subsequently triggers <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>Thunderous Splendor</material>, tap on the normal attack button at the right time to boost the latter phase of the attack.\n<material=underline c=#FFFFFF h=2 event=terminology args=(115602)>Thunderstrike</material>: Expends all Marks when unleashing Ninth Tribulation - Thunderclap and reduces charge time by <color=#E78300>1</color> for every <color=#E78300>1</color> Mark held. <color=#E78300>1</color><material=underline c=#FFFFFF h=2 event=terminology args=(115602)>Thunderstrike</material> Mark is lost every time the Mod is hit and loses HP. <material=underline c=#FFFFFF h=2 event=terminology args=(115602)>Thunderstrike</material> Marks will not be lost when unleashing boosted normal attacks and skills. Max <color=#E78300>3</color> <material=underline c=#FFFFFF h=2 event=terminology args=(115602)>Thunderstrike</material> Marks.\nDodge effect: Fully restores Rage, grants <color=#E78300>3</color> <material=underline c=#FFFFFF h=2 event=terminology args=(115602)>Thunderstrike</material> Marks, and resets the CD of Ninth Tribulation - Thunderclap. Dodge effect can be triggered once every <color=#E78300>{1}</color>s.",
         "maxLv": 60,
         "type": 1,
         "id": 101156305,
@@ -14352,7 +14352,7 @@
         ]
     },
     "110200012": {
-        "description": "Translating:【description$110200012$description$0】",
+        "description": "In <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material> state, deals additional Wind DMG equal to <color=#E78300>{1}</color> of ATK every <color=#E78300>1</color>s to all enemies on the field. Deals DMG equal to <color=#E78300>{2}</color> of their Max HP to the Mod or a teammate with above <color=#E78300>20%</color> HP. Each time this DMG is dealt to the Mod or a teammate, ATK increases by <color=#E78300>{3}</color> for <color=#E78300>{4}</color>s. Max <color=#E78300>7</color> stacks. ATK increase is completely removed upon switching to <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation.</material>",
         "maxLv": 1,
         "type": 1,
         "id": 110200012,
@@ -14385,7 +14385,7 @@
         ]
     },
     "110200013": {
-        "description": "Translating:【description$110200013$description$0】",
+        "description": "Upon switching to <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material>, increases the ATK of all teammates by <color=#E78300>{1}</color> for <color=#E78300>{2}</color>s for every <color=#E78300>1</color> time God of Destruction - Raze dealt additional DMG to the Mod or a teammate, up to a maximum of <color=#E78300>40%</color> ATK boost.",
         "maxLv": 1,
         "type": 1,
         "id": 110200013,
@@ -14406,7 +14406,7 @@
         ]
     },
     "110200021": {
-        "description": "Translating:【description$110200021$description$0】",
+        "description": "When the Mod triggers the Dodge effect, grants all teammates <color=#E78300>3</color> stacks of <material=underline c=#FFFFFF h=2 event=terminology args=(102004)>Shadow Lotus</material> for <color=#E78300>15</color>s and restores HP of all teammates by <color=#E78300>{1}</color>.\n<material=underline c=#FFFFFF h=2 event=terminology args=(102004)>Shadow Lotus</material>: Lose <color=#E78300>1</color> stack of <material=underline c=#FFFFFF h=2 event=terminology args=(102004)>Shadow Lotus</material> when attacked to become Invincible for <color=#E78300>3</color>s.",
         "maxLv": 1,
         "type": 1,
         "id": 110200021,
@@ -14421,7 +14421,7 @@
         ]
     },
     "110200022": {
-        "description": "Translating:【description$110200022$description$0】",
+        "description": "Increases ATK of all teammates by <color=#E78300>{1}</color> for <color=#E78300>{2}</color>s when Mahêśvara - Reveal hits, and resets the duration of this effect when Mahêśvara - Annihilation hits.\nReduces all Attribute RES of hit enemies by <color=#E78300>{3}</color> for <color=#E78300>{4}</color>s when Suddhavasa - Reveal hits, and reset the duration of this effect when Suddhavasa - Annihilation hits a RES-reduced enemy.",
         "maxLv": 1,
         "type": 1,
         "id": 110200022,
@@ -14454,7 +14454,7 @@
         ]
     },
     "110200023": {
-        "description": "Translating:【description$110200023$description$0】",
+        "description": "When unleashing the <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> Ultimate Skill or Ultimate Skillchain, increases Crit Rate of all teammates by <color=#E78300>{1}</color> and increases Crit DMG by <color=#E78300>0.2%</color> for every <color=#E78300>0.1%</color> increase to the Mod's or a teammate's Crit Rate above <color=#E78300>100%</color>, up to a maximum of <color=#E78300>200%</color> Crit Rate boost. Lasts <color=#E78300>20</color>s.",
         "maxLv": 1,
         "type": 1,
         "id": 110200023,
@@ -14469,7 +14469,7 @@
         ]
     },
     "110200031": {
-        "description": "Translating:【description$110200031$description$0】",
+        "description": "Using Mahākāla gathers enemies, increases normal attack DMG by <color=#E78300>{1}</color> for <color=#E78300>{2}</color>s, and decreases received DMG by <color=#E78300>{3}</color> for <color=#E78300>{4}</color>s.",
         "maxLv": 1,
         "type": 1,
         "id": 110200031,
@@ -14502,7 +14502,7 @@
         ]
     },
     "110200032": {
-        "description": "Translating:【description$110200032$description$0】",
+        "description": "Increases the Base DMG of Mahêśvara and Suddhavasa by <color=#E78300>{1}</color>.\nUpon using Suddhavasa - Annihilation, the Mahêśvara - Disintegration skill will be replaced with Mahêśvara - Annihilation, which will not grant Divine Grace.",
         "maxLv": 1,
         "type": 1,
         "id": 110200032,
@@ -14517,7 +14517,7 @@
         ]
     },
     "110200033": {
-        "description": "Translating:【description$110200033$description$0】",
+        "description": "Grants <color=#E78300>1</color> stack of bonus effect each time Mahêśvara - Reveal, Mahêśvara - Annihilation, Suddhavasa - Reveal, or Suddhavasa - Annihilation is unleashed. Max <color=#E78300>5</color> stacks. In the <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material> state, unleashing Ultimate Skill increases Independent DMG by <color=#E78300>{1}</color> for every <color=#E78300>1</color> Ultimate Skill stack that hits. After unleashing this skill, all stacks will be expended.",
         "maxLv": 1,
         "type": 1,
         "id": 110200033,
@@ -18832,7 +18832,7 @@
         ]
     },
     "110720023": {
-        "description": "Increases the Non-DoT DMG of <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin's</material> joint attack by <color=#E78300>{1}</color>. <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> can now follow all teammates.",
+        "description": "Translating:【description$110720023$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 110720023,
@@ -19701,7 +19701,7 @@
         "param": []
     },
     "110890011": {
-        "description": "Translating:【description$110890011$description$0】",
+        "description": "Storm Rampage can be charged <color=#E78300>twice</color>.",
         "maxLv": 1,
         "type": 1,
         "id": 110890011,
@@ -19709,7 +19709,7 @@
         "param": []
     },
     "110890012": {
-        "description": "Translating:【description$110890012$description$0】",
+        "description": "Increases Divine Grace charge speed by <color=#E78300>{1}</color> for <color=#E78300>{2}</color>s when unleashing Storm Rampage. Max <color=#E78300>6</color> stacks.",
         "maxLv": 1,
         "type": 1,
         "id": 110890012,
@@ -19730,7 +19730,7 @@
         ]
     },
     "110890013": {
-        "description": "Translating:【description$110890013$description$0】",
+        "description": "Grants <color=#E78300>1</color> stack of a <color=#E78300>{1}</color> increase to Base DMG of Skill 2 for every <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullet</material> expended. Max <color=#E78300>36</color> stacks. Increases Non-DoT Base DMG by <color=#E78300>{2}</color> for every <color=#E78300>1</color> time Storm Rampage hits after <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullets</material> are expended to unleash it.\nWhen <material=underline c=#FFFFFF h=2 event=terminology args=(108907)>Crimson</material> exceeds <color=#E78300>50</color> stacks, inflicts the same enemy with <material=underline c=#FFFFFF h=2 event=terminology args=(108908)>Snow Lotus</material> for <color=#E78300>1</color>s after it has been hit with Blooming Waltz <color=#E78300>6</color> times. When the final attack hits an enemy inflicted with <material=underline c=#FFFFFF h=2 event=terminology args=(108908)>Snow Lotus</material>, the effect will be removed, dealing additional Wind DMG equal to <color=#E78300>{3}</color> of ATK (<color=#E78300>+{4}</color> for every level Skill 3 is upgraded).",
         "maxLv": 1,
         "type": 1,
         "id": 110890013,
@@ -19763,7 +19763,7 @@
         ]
     },
     "110890021": {
-        "description": "Translating:【description$110890021$description$0】",
+        "description": "When manually reloading, increases ATK by <color=#E78300>{1}</color> for <color=#E78300>{2}</color>s for every <color=#E78300>15</color> Divine Grace expended, up to a maximum of <color=#E78300>{3}</color> ATK boost.",
         "maxLv": 1,
         "type": 1,
         "id": 110890021,
@@ -19790,7 +19790,7 @@
         ]
     },
     "110890022": {
-        "description": "Translating:【description$110890022$description$0】",
+        "description": "Divine Grace boost duration granted by normal attacks is changed to <color=#E78300>9</color>s.\nRemaining CD reduction of Gale Dash and Storm Rampage is changed to <color=#E78300>40%</color>. When the remaining skill CD reduction is triggered, the corresponding CD reduction for the other skill will also be triggered.",
         "maxLv": 1,
         "type": 1,
         "id": 110890022,
@@ -19798,7 +19798,7 @@
         "param": []
     },
     "110890023": {
-        "description": "Translating:【description$110890023$description$0】",
+        "description": "When manually reloading, increases the Mod's Wind DMG by <color=#E78300>51%</color> for <color=#E78300>{1}</color>s. For every <color=#E78300>1</color> Divine Grace expended exceeding any mutiple of <color=#E78300>15</color>, this Wind DMG boost is reduced by <color=#E78300>5%</color>, down to a minimum of <color=#E78300>1%</color>.",
         "maxLv": 1,
         "type": 1,
         "id": 110890023,
@@ -19813,7 +19813,7 @@
         ]
     },
     "110890031": {
-        "description": "Translating:【description$110890031$description$0】",
+        "description": "When entering the battle or restoring an Ultimate Skillchain, both the Mod and other Mods with whom the Mod has a preset Ultimate Skillchain are granted the following:\nAfter landing <color=#E78300>15</color> skill hits, increases Skill DMG by <color=#E78300>{1}</color>. When an Ultimate Skillchain is unleashed, this Skill DMG boost is changed to <color=#E78300>{2}</color>. This effect is removed when the Ultimate Skillchain is restored.",
         "maxLv": 1,
         "type": 1,
         "id": 110890031,
@@ -19834,7 +19834,7 @@
         ]
     },
     "110890032": {
-        "description": "Translating:【description$110890032$description$0】",
+        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(108907)>Crimson</material> state is applied to all teammates.",
         "maxLv": 1,
         "type": 1,
         "id": 110890032,
@@ -19842,7 +19842,7 @@
         "param": []
     },
     "110890033": {
-        "description": "Translating:【description$110890033$description$0】",
+        "description": "After expending <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullets</material>, restores HP of all teammates by <color=#E78300>{1}</color>. For every <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(108901)>Wind Bullet</material> expended, grants all teammates <color=#E78300>1</color> stack of Crit boost for <color=#E78300>{4}</color>s. Each stack increases Crit Rate by <color=#E78300>{2}</color> and Crit DMG by <color=#E78300>{3}</color>. Max <color=#E78300>6</color> stacks.\nUpon unleashing the Purifying Whirlwind Ultimate Skill, increases the Crit Rate for Ultimate Skills or Ultimate Skillchains of all teammates by <color=#E78300>{5}</color>.",
         "maxLv": 1,
         "type": 1,
         "id": 110890033,
@@ -21700,7 +21700,7 @@
         ]
     },
     "111560011": {
-        "description": "Translating:【description$111560011$description$0】",
+        "description": "Ninth Tribulation - Thunderclap no longer requires a full charge to unleash.\nUnleashing Ninth Tribulation - Thunderclap will expend all <material=underline c=#FFFFFF h=2 event=terminology args=(115602)>Thunderstrike</material> Marks. Unleashes <color=#E78300>1</color> Thunderbolt attack for every <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(115602)>Thunderstrike</material> Mark expended, dealing Thunder DMG equal to <color=#E78300>{1}</color> of ATK (<color=#E78300>+{2}</color> for every level Skill 3 is upgraded).",
         "maxLv": 1,
         "type": 1,
         "id": 111560011,
@@ -21721,7 +21721,7 @@
         ]
     },
     "111560012": {
-        "description": "Translating:【description$111560012$description$0】",
+        "description": "When the first phase of Third Tribulation - Vanquish hits, increases the Mod's Thunder DMG by <color=#E78300>{1}</color> for <color=#E78300>{2}</color>s and reduces Crit RES of the hit enemy by <color=#E78300>{3}</color> for <color=#E78300>{4}</color>s.\nWhen Ninth Tribulation - Thunderclap is fully charged, it generates a minefield around the hit enemy for <color=#E78300>10</color>s. Reduces Thunder RES of enemies in the area of effect by <color=#E78300>{5}</color>.\nWhen a normal attack hits an enemy within the minefield, increases Crit Rate by <color=#E78300>{6}</color>.\nMax one minefield.",
         "maxLv": 1,
         "type": 1,
         "id": 111560012,
@@ -21766,7 +21766,7 @@
         ]
     },
     "111560013": {
-        "description": "Translating:【description$111560013$description$0】",
+        "description": "After unleashing the first phase of First Tribulation - Gleam, follow up with a normal attack to use a special punch attack, dealing Thunder DMG equal to <color=#E78300>{1}</color> of ATK (<color=#E78300>+{9}</color> for every level normal attack is upgraded). Within <color=#E78300>3</color>s of using the special punch attack, continuously unleash normal attacks to deal Thunder DMG equal to <color=#E78300>{2}</color> of ATK (<color=#E78300>+{10}</color> for every level normal attack is upgraded) each time. Upon tapping on the normal attack button at the right time, the following effect will be triggered and granted: The special punch attack deals Thunder DMG equal to <color=#E78300>{3}</color> of ATK (<color=#E78300>+{11}</color> for every level normal attack is upgraded), and each consecutive attack now deals Thunder DMG equal to <color=#E78300>{4}</color> of ATK (<color=#E78300>+{12}</color> for every level normal attack is upgraded).\nUpon unleashing the first phase of Third Tribulation - Vanquish, unleash a normal attack to use a special kick attack, dealing Thunder DMG equal to <color=#E78300>{5}</color> of ATK (<color=#E78300>+{13}</color> for every level normal attack is upgraded). Within <color=#E78300>3</color>s of using the special kick attack, continuously unleash normal attacks to deal Thunder DMG equal to <color=#E78300>{6}</color> of ATK (<color=#E78300>+{14}</color> for every level normal attack is upgraded) each time. Upon tapping on the normal attack button at the right time, the following effect will be triggered and granted: The special kick attack now deals Thunder DMG equal to <color=#E78300>{7}</color> of ATK (<color=#E78300>+{15}</color> for every level normal attack is upgraded) and each consecutive attack now deals Thunder DMG equal to <color=#E78300>{8}</color> of ATK (<color=#E78300>+{16}</color> for every level normal attack is upgraded).\nThe special kick attack will grant Rage when it hits, with the boosted version granting even more.",
         "maxLv": 1,
         "type": 1,
         "id": 111560013,
@@ -21871,7 +21871,7 @@
         ]
     },
     "111560021": {
-        "description": "Translating:【description$111560021$description$0】",
+        "description": "Each time <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>Thunderous Splendor</material> is triggered, increases the Thunder DMG of all teammates by <color=#E78300>{1}</color> for <color=#E78300>{2}</color>s.",
         "maxLv": 1,
         "type": 1,
         "id": 111560021,
@@ -21892,7 +21892,7 @@
         ]
     },
     "111560022": {
-        "description": "Translating:【description$111560022$description$0】",
+        "description": "When <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>Thunderous Splendor</material> is triggered at least <color=#E78300>3</color> times in a row, increases the Crit Rate of all Thunder attribute Mods on the team by <color=#E78300>{1}</color> for <color=#E78300>{2}</color>s.\nWhen <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>Thunderous Splendor</material> is triggered at least <color=#E78300>5</color> times in a row, increases the Crit DMG of all Thunder attribute Mods on the team by <color=#E78300>{3}</color> for <color=#E78300>{4}</color>s.\nWhen <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>Thunderous Splendor</material> fails to trigger during the window, the count is cleared.",
         "maxLv": 1,
         "type": 1,
         "id": 111560022,
@@ -21925,7 +21925,7 @@
         ]
     },
     "111560023": {
-        "description": "Translating:【description$111560023$description$0】",
+        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(115602)>Thunderstrike</material> no longer reduces the charge time for Ninth Tribulation - Thunderclap, but it increases the speed and range at which enemies are gathered depending on the number of Marks expended. When unleashing a charged Ninth Tribulation - Thunderclap, taunts all enemies and blocks enemy attack DMG.\nUnleashing a fully charged Ninth Tribulation - Thunderclap reduces Thunder RES of hit enemies by <color=#E78300>{1}</color> for <color=#E78300>{2}</color>s.\nAfter unleashing an Ultimate Skill or Ultimate Skillchain, grants a <color=#E78300>20%</color> Ultimate Skill charge to all teammates.",
         "maxLv": 1,
         "type": 1,
         "id": 111560023,
@@ -21946,7 +21946,7 @@
         ]
     },
     "111560031": {
-        "description": "Translating:【description$111560031$description$0】",
+        "description": "No window will trigger. Unleashing the corresponding normal attack or skill will immediately trigger <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>Thunderous Splendor</material> and grant a boost effect.",
         "maxLv": 1,
         "type": 1,
         "id": 111560031,
@@ -21954,7 +21954,7 @@
         "param": []
     },
     "111560032": {
-        "description": "Translating:【description$111560032$description$0】",
+        "description": "Grants <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(115602)>Thunderstrike</material> Mark every <color=#E78300>5</color>s.\nWhen following up a normal attack with Extremity Dodge, triggers <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>Thunderous Splendor</material> and unleashes a special normal attack, dealing Thunder DMG equal to <color=#E78300>{1}</color> of ATK (<color=#E78300>+{2}</color> for every level normal attack is upgraded). This special normal attack will not interrupt the normal attack strike count. When held, <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(115602)>Thunderous Splendor</material> Mark will be expended to unleash this special normal attack after a Non-mobile Dodge.\nWhen the fourth phase of a normal attack or this special normal attack hits, increases Non-DoT DMG dealt by the fourth stage of the next normal attack and this special normal attack by <color=#E78300>{3}</color> for <color=#E78300>5</color>s. Max <color=#E78300>15</color> stacks.",
         "maxLv": 1,
         "type": 1,
         "id": 111560032,
@@ -21981,7 +21981,7 @@
         ]
     },
     "111560033": {
-        "description": "Translating:【description$111560033$description$0】",
+        "description": "When Ninth Tribulation - Thunderclap is fully charged and hits a locked-on enemy, a thunder sphere will form at the enemy's location, dealing Thunder DMG equal to <color=#E78300>{1}</color> of ATK (+<color=#E78300>{2}</color> for every level Skill 3 is upgraded) to surrounding enemies every <color=#E78300>0.5</color>s for a total of <color=#E78300>5</color>s. The thunder sphere will disappear when the enemy is defeated. The thunder sphere duration will be reset when the fourth stage of a normal attack or a special normal attack hits the enemy.\nWhen unleashing the latter phase of First Tribulation - Gleam, grants <color=#E78300>2</color> <material=underline c=#FFFFFF h=2 event=terminology args=(115602)>Thunderstrike</material> Marks. When unleashing the latter phase of Third Tribulation - Vanquish, grants <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(115602)>Thunderstrike</material> mark.",
         "maxLv": 1,
         "type": 1,
         "id": 111560033,
@@ -28997,7 +28997,7 @@
         ]
     },
     "500102001": {
-        "description": "Translating:【description$500102001$description$0】",
+        "description": "Grants the following effects when equipped by Trimūrti - Brahmā.\nIncreases Asterism Mod Final DMG by <color=#E78300>{1}%</color>.\nWhen <color=#297DE0>Suddhavasa - Annihilation</color> hits, deals additional DMG that ignores DEF equal to <color=#E78300>{2}%</color> of the enemy's max HP. This effect can only be triggered once per enemy.\nAether Code <color=#297DE0>God of Destruction - Rija </color> grants the following effect: In <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material></color> state, normal enemies with less than <color=#E78300>{3}%</color> HP will be immediately defeated when hit.\nAether Code <color=#297DE0>God of Creation - Hiranyagarbha</color> grants the following effects: The ATK boost granted to all teammates is changed to <color=#E78300>{4}%</color>, and the All Attribute RES reduction inflicted on enemies is changed to <color=#E78300>{5}%</color>.\nAether Code <color=#297DE0>Unified Triad - Ruination</color> grants an additional effect: Increases Independent DMG by <color=#E78300>{6}%</color> for <color=#E78300>{7}</color>s each time the form is switched.",
         "maxLv": 0,
         "type": 0,
         "id": 500102001,
@@ -31453,7 +31453,7 @@
         ]
     },
     "500108901": {
-        "description": "Translating:【description$500108901$description$0】",
+        "description": "Grants the following effects when equipped by Tempest - Parvati.\nIncreases Independent DMG by <color=#E78300>{1}%</color>.\nWhen <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(108901)>Wind Bullet</material></color> type is switched to <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(108902)>Wind Bullets - Azure</material></color>, the Mod recovers <color=#E78300>{2}%</color> of HP.\nAdds <color=#E78300>12</color> stacks of <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(108905)>Azure</material></color>.\nThe Wind DMG boost granted by each stack of <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(108907)>Crimson</material></color> is changed to a <color=#E78300>0.6%</color> increase.\nWhen auto-reloading, increases Divine Grace charge speed by <color=#E78300>{3}%</color> for <color=#E78300>{4}</color>s.\nAether Code <color=#297DE0>Cyclic Summit - Immolation</color> grants an additional effect: Increases Crit Rate by <color=#E78300>{5}%</color>.",
         "maxLv": 0,
         "type": 0,
         "id": 500108901,
@@ -32197,7 +32197,7 @@
         ]
     },
     "500115601": {
-        "description": "Translating:【description$500115601$description$0】",
+        "description": "Grants the following effects when equipped by Annihilator - Kali:\nUpon entering battle, grants all teammates ith a shield equal to their Max HP.\nEach time <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115601)>Thunderous Splendor</material></color> is triggered, increases the ATK of all teammates by <color=#E78300>{1}%</color> for <color=#E78300>{2}</color>s.\nWhen the Modifier or a teammate unleashes an Ultimate Skill,gain increased Crit DMG by <color=#E78300>60%</color>.\nNormal attack or skill hits, grant different amounts of <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>Dazzling Squall</material></color> points. Max <color=#E78300>150</color> points. Unleashing a skill will expend different amounts of <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>Dazzling Squall </material></color> points and reset the skill CD.\n<color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>Dazzling Squall </material></color>: Normal attacks grant <color=#E78300>1</color> point, boosted normal attacks grant <color=#E78300>2</color> points, skills grant <color=#E78300>3</color> points, and boosted skills grant <color=#E78300>5</color> points.<color=#297DE0>First Tribulation - Gleam</color> expends <color=#E78300>75</color> points, <color=#297DE0>Third Tribulation - Vanquish</color> expends <color=#E78300>25</color> points, and <color=#297DE0>Ninth Tribulation - Thunderclap</color> expends <color=#E78300>100</color> points.",
         "maxLv": 0,
         "type": 0,
         "id": 500115601,
@@ -43920,7 +43920,7 @@
         "param": []
     },
     "700009514": {
-        "description": "<color=#ff3000><Challenging Simulation></color> Elite enemies gain Super Armor when their HP is below 25%, increasing their Movement SPD and DMG dealt by 100%.\nHowever, their DEF drops by 100% and they lose 0.5% HP every second.",
+        "description": "Translating:【description$700009514$description$0】",
         "maxLv": 1,
         "type": 1,
         "id": 700009514,
@@ -47822,7 +47822,7 @@
         ]
     },
     "700070612": {
-        "description": "Shortens the remaining CD of the Mod's skills and Ultimate Skill by <color=#FF9500>{1}</color>s whenever a teammate casts their Ultimate Skill.",
+        "description": "Shortens the remaining CD of the Mod's skills and Ultimate Skill by<color=#FF9500>{1}</color>s whenever a teammate casts their Ultimate Skill.",
         "maxLv": 5,
         "type": 1,
         "id": 700070612,

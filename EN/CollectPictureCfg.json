@@ -3913,6 +3913,101 @@
             ]
         ]
     },
+    "3200401": {
+        "name": "Beyond Reach",
+        "type": 1,
+        "unlock_condition": 800,
+        "picture": "XS0101",
+        "group_display_order": 1,
+        "desc": "Out from above comes Brahmā. Now the enemy will learn what it means to encounter the might of a Prime Modifier.",
+        "id": 3200401,
+        "group_id": 100187,
+        "additional_parameter": [
+            103200401
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "3200601": {
+        "name": "A Meal at Kali's",
+        "type": 1,
+        "unlock_condition": 800,
+        "picture": "XS0102",
+        "group_display_order": 1,
+        "desc": "Having delicious food can always dispel the gloom for a little while and bring a moment of peace and happiness.",
+        "id": 3200601,
+        "group_id": 100188,
+        "additional_parameter": [
+            103200601
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "3201301": {
+        "name": "Against the Vicious",
+        "type": 1,
+        "unlock_condition": 800,
+        "picture": "XS0103",
+        "group_display_order": 1,
+        "desc": "Brahmā enters, surrounded by a sizeable pack of Meruism members, and a hush quickly descends across the crowd.",
+        "id": 3201301,
+        "group_id": 100189,
+        "additional_parameter": [
+            103201301
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "3201401": {
+        "name": "A Bond Known as Order",
+        "type": 1,
+        "unlock_condition": 800,
+        "picture": "XS0104",
+        "group_display_order": 1,
+        "desc": "Ver, Osiris, and I come together in a three-man squad against the Cognizant Visbane lying in wait here.",
+        "id": 3201401,
+        "group_id": 100190,
+        "additional_parameter": [
+            103201401
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "3201701": {
+        "name": "For the Sake of Order",
+        "type": 1,
+        "unlock_condition": 800,
+        "picture": "XS0105",
+        "group_display_order": 1,
+        "desc": "The armed AGI Mecha starts breaking under the force of the heavy hammer blows, and sparks fly everywhere.",
+        "id": 3201701,
+        "group_id": 100191,
+        "additional_parameter": [
+            103201701
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
     "2105911": {
         "name": "The Girl's Hero",
         "type": 2,
@@ -5007,6 +5102,82 @@
         "group_id": 200044,
         "additional_parameter": [
             210810106
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "2107441": {
+        "name": "A Private Conversation",
+        "type": 2,
+        "unlock_condition": 800,
+        "picture": "R7401",
+        "group_display_order": 1,
+        "desc": "In the shadows of the trees she's planted, Yingzhao describes to Admin a childhood dream that never belonged to her but in which you existed.",
+        "id": 2107441,
+        "group_id": 200045,
+        "additional_parameter": [
+            210740104
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "2107442": {
+        "name": "A Private Conversation",
+        "type": 2,
+        "unlock_condition": 800,
+        "picture": "R7401a",
+        "group_display_order": 2,
+        "desc": "In the shadows of the trees she's planted, Yingzhao describes to Admin a childhood dream that never belonged to her but in which you existed.",
+        "id": 2107442,
+        "group_id": 200045,
+        "additional_parameter": [
+            210740104
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "2103961": {
+        "name": "Booze Up",
+        "type": 2,
+        "unlock_condition": 800,
+        "picture": "R9302a",
+        "group_display_order": 1,
+        "desc": "Kuninotokotachi, holding the bottle of sake (a symbol of their mutual affection) at chest level, is extending a heartfelt invitation to Admin.",
+        "id": 2103961,
+        "group_id": 200046,
+        "additional_parameter": [
+            210930106
+        ],
+        "reward": [
+            [
+                1,
+                20
+            ]
+        ]
+    },
+    "2103962": {
+        "name": "Booze Up",
+        "type": 2,
+        "unlock_condition": 800,
+        "picture": "R9302",
+        "group_display_order": 2,
+        "desc": "Kuninotokotachi, holding the bottle of sake (a symbol of their mutual affection) at chest level, is extending a heartfelt invitation to Admin.",
+        "id": 2103962,
+        "group_id": 200046,
+        "additional_parameter": [
+            210930106
         ],
         "reward": [
             [
@@ -7711,7 +7882,12 @@
             3198801,
             3199301,
             3192701,
-            3199701
+            3199701,
+            3200401,
+            3200601,
+            3201301,
+            3201401,
+            3201701
         ],
         [
             2105911,
@@ -7771,7 +7947,11 @@
             2104901,
             2108103,
             2108104,
-            2108105
+            2108105,
+            2107441,
+            2107442,
+            2103961,
+            2103962
         ],
         [
             30110101,
@@ -8303,6 +8483,18 @@
         "OS0101": [
             30110101
         ],
+        "R9302": [
+            2103962
+        ],
+        "R9302a": [
+            2103961
+        ],
+        "R7401a": [
+            2107442
+        ],
+        "R7401": [
+            2107441
+        ],
         "R8102b": [
             2108105
         ],
@@ -8476,6 +8668,21 @@
         ],
         "R5901": [
             2105911
+        ],
+        "XS0105": [
+            3201701
+        ],
+        "XS0104": [
+            3201401
+        ],
+        "XS0103": [
+            3201301
+        ],
+        "XS0102": [
+            3200601
+        ],
+        "XS0101": [
+            3200401
         ],
         "ML0210": [
             3199701
@@ -9476,6 +9683,14 @@
         "300001": [
             30110101
         ],
+        "200046": [
+            2103961,
+            2103962
+        ],
+        "200045": [
+            2107441,
+            2107442
+        ],
         "200044": [
             2108103,
             2108104,
@@ -9617,6 +9832,21 @@
         ],
         "200001": [
             2105911
+        ],
+        "100191": [
+            3201701
+        ],
+        "100190": [
+            3201401
+        ],
+        "100189": [
+            3201301
+        ],
+        "100188": [
+            3200601
+        ],
+        "100187": [
+            3200401
         ],
         "100186": [
             3199701
@@ -10557,6 +10787,14 @@
         "101100201": [
             30110101
         ],
+        "210930106": [
+            2103961,
+            2103962
+        ],
+        "210740104": [
+            2107441,
+            2107442
+        ],
         "210810106": [
             2108103,
             2108104,
@@ -10700,6 +10938,21 @@
         ],
         "210590104": [
             2105911
+        ],
+        "103201701": [
+            3201701
+        ],
+        "103201401": [
+            3201401
+        ],
+        "103201301": [
+            3201301
+        ],
+        "103200601": [
+            3200601
+        ],
+        "103200401": [
+            3200401
         ],
         "103199701": [
             3199701
@@ -11447,6 +11700,11 @@
         3199301,
         3192701,
         3199701,
+        3200401,
+        3200601,
+        3201301,
+        3201401,
+        3201701,
         2105911,
         2108401,
         2108402,
@@ -11505,6 +11763,10 @@
         2108103,
         2108104,
         2108105,
+        2107441,
+        2107442,
+        2103961,
+        2103962,
         30110101,
         30111012,
         30111013,

@@ -700,7 +700,7 @@
         "link_type": 0,
         "id": 6001,
         "mail_sender": "Ookuninushi",
-        "mail_desc": "I've finished adjusting the Hazard Zone Cleaning system. Come and try it out if you've got the time, as I need more data.\n\nOh, and this is for you. I wouldn't recommend going in too often, as it can be quite wearing on the spirit, but if you feel up to it, an extra round won't hurt. Use it as you see fit.\n\nAnyway, I've got research to be... researching. See you later.",
+        "mail_desc": "I've finished adjusting the Hazard Zone Cleaning system. Come and try it out if you've got the time, as I need more data.\n\nOh, and this is for you. I wouldn't suggest going in too often. It can be a bit hard on the spirit. But if you're up for it, one more round won't hurt. Use it however you want.\n\nAnyway, I've got research to be... researching. See you later.",
         "mail_type": 0
     },
     "6002": {
@@ -1068,7 +1068,7 @@
         "link_type": 0,
         "id": 6047,
         "mail_sender": "Thor",
-        "mail_desc": "Almost every year, I've spent my Arrival Day in battle. It's often weeks before I remember to check my mailbox and see all the gifts everyone sent me.\nYou helped me realize just how much everyone wants to celebrate with me. That's why I immediately sent over this comms request.\nSeeing everyone come together just to celebrate my Arrival Day, I... can't help but try to finish up my mission as quickly as possible. Just two more days, and I'll be back to see you all!\nAhem. That's what you taught me, right? You should tell the people you care about most everything that's on your mind.\nWhen I think about the countless battles we've fought together, I realize that the reason I can give it my all is because I know you've always got my back.\nThank you, Admin, for showing me how special my Arrival Day really is.\nKeep an eye out for my next message! As soon as my missions are all wrapped up, I'll return to you in a flash.\n",
+        "mail_desc": "Almost every year, I've spent my Arrival Day in battle. It's often weeks before I remember to check my mailbox and see all the gifts everyone sent me.\nBut you... you reminded me just how much this day means. That’s why I sent this comms request right away.\nSeeing everyone come together just to celebrate my Arrival Day, I... can't help but try to finish up my mission as quickly as possible. Just two more days, and I'll be back to see you all!\nAhem. That's what you taught me, right? You should tell the people you care about most everything that's on your mind.\nWhen I think about the countless battles we've fought together, I realize that the reason I can give it my all is because I know you've always got my back.\nThank you, Admin, for showing me how special my Arrival Day really is.\nKeep an eye out for my next message! As soon as my missions are all wrapped up, I'll return to you in a flash.",
         "mail_type": 1
     },
     "6048": {
@@ -1165,14 +1165,6 @@
         "id": 6059,
         "mail_sender": "Kali",
         "mail_desc": "It's been a long time since we last talked, Admin. I hope things have been going well for you over at Aether Gazer!\nI've been wanting to write you for some time now, but there's been a lot of heavy rain here recently and I've been so busy working on repairing the facilities on Meruism's perimeter, I forgot.\nIn fact, I only opened my Arrival Day gift moments ago, and what a surprise it was! I can't believe that you remembered how fond I am of this spice... You must have spent a lot of time to get ahold of it! I'll treat you to some food the next time you're in Gar!\nYou have no idea how much I've missed this spice. I had a bottle of it before Brahmā brought me to Meruism, and I'd take a sniff of it whenever my hunger was too much to bear and imagine using it on all sorts of delicious food. Heh—it sounds a little weird now, doesn't it?\nJokes aside, the spice does perk you up, and taking it as a tea rightbefore combat can be helpful. I can send you the recipe right now if you're interested.\nAlthough I wasn't able to celebrate my Arrival Day with you, we can still mark the occasion by sharing a cup of the same tea at the same time, can't we?",
-        "mail_type": 1
-    },
-    "6060": {
-        "mail_title": "\"Pure Muscle and Power\"?!",
-        "link_type": 0,
-        "id": 6060,
-        "mail_sender": "Asura",
-        "mail_desc": "Good evening, Admin. This is the only time of the day I can send you a message because the store has been busy, busy, busy!!!\nRemember how you told me I'd totally \"feel it in my bones\" in this job? How everything is going to be pure muscle and power? And how it'd be \"hit after hit after hit\"...?\nYou got me so excited about this job...\nI.... Why didn't you tell me before you recommended it to me that it's actually a fast food restaurant specializing in hamburgers???\nAnd my coworkers are always making funny noises while hammering the meat patties with their hands, and they even said called me small and weak! Hmph, I bet if there was a competition in the store now, my meat hammer would be the fastest.\nBut I must still thank you, Admin. For now, thanks to you, I get to have the all-you-can-eat staff meals here, and I've almost earned enough money for the competition next month.\nI've already booked your Photon Rail ticket, so remember to come and watch my game!",
         "mail_type": 1
     },
     "6061": {
@@ -1565,14 +1557,6 @@
         "id": 640208,
         "mail_sender": "Kali",
         "mail_desc": "Translating:【mail_template$640208$mail_desc$0】",
-        "mail_type": 1
-    },
-    "640209": {
-        "mail_title": "Translating:【mail_template$640209$mail_title$0】",
-        "link_type": 0,
-        "id": 640209,
-        "mail_sender": "Translating:【mail_template$640209$mail_sender$0】",
-        "mail_desc": "Translating:【mail_template$640209$mail_desc$0】",
         "mail_type": 1
     },
     "8003": {
@@ -1994,7 +1978,6 @@
         6057,
         6058,
         6059,
-        6060,
         6061,
         6062,
         6063,
@@ -2044,7 +2027,6 @@
         640206,
         640207,
         640208,
-        640209,
         8003,
         8004,
         11001,

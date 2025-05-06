@@ -131,7 +131,104 @@
         "clue_desc": "The leader of the Burning Scars, a large gang in western Gharpur,\ncraves chaos, and the expansion of his armaments is a reflection of his ambition.",
         "area_type": 1
     },
+    "3021401": {
+        "main_activity_id": 302141,
+        "int": 3021401,
+        "clue_desc": "Translating:【activity_puzzle_clue$3021401$clue_desc$0】",
+        "area_type": 0
+    },
+    "3021402": {
+        "main_activity_id": 302141,
+        "int": 3021402,
+        "clue_desc": "Translating:【activity_puzzle_clue$3021402$clue_desc$0】",
+        "area_type": 0
+    },
+    "3021403": {
+        "main_activity_id": 302141,
+        "int": 3021403,
+        "clue_desc": "Translating:【activity_puzzle_clue$3021403$clue_desc$0】",
+        "area_type": 0
+    },
+    "3221411": {
+        "main_activity_id": 322141,
+        "int": 3221411,
+        "clue_desc": "Translating:【activity_puzzle_clue$3221411$clue_desc$0】",
+        "area_type": 0
+    },
+    "3221412": {
+        "main_activity_id": 322141,
+        "int": 3221412,
+        "clue_desc": "Translating:【activity_puzzle_clue$3221412$clue_desc$0】",
+        "area_type": 0
+    },
+    "3221413": {
+        "main_activity_id": 322141,
+        "int": 3221413,
+        "clue_desc": "Translating:【activity_puzzle_clue$3221413$clue_desc$0】",
+        "area_type": 0
+    },
+    "3221414": {
+        "main_activity_id": 322141,
+        "int": 3221414,
+        "clue_desc": "Translating:【activity_puzzle_clue$3221414$clue_desc$0】",
+        "area_type": 0
+    },
+    "3221415": {
+        "main_activity_id": 322141,
+        "int": 3221415,
+        "clue_desc": "Translating:【activity_puzzle_clue$3221415$clue_desc$0】",
+        "area_type": 0
+    },
+    "2922601": {
+        "main_activity_id": 2922601,
+        "int": 2922601,
+        "clue_desc": "Translating:【activity_puzzle_clue$2922601$clue_desc$0】",
+        "area_type": 1
+    },
+    "2922602": {
+        "main_activity_id": 2922601,
+        "int": 2922602,
+        "clue_desc": "Translating:【activity_puzzle_clue$2922602$clue_desc$0】",
+        "area_type": 1
+    },
+    "2922603": {
+        "main_activity_id": 2922601,
+        "int": 2922603,
+        "clue_desc": "Translating:【activity_puzzle_clue$2922603$clue_desc$0】",
+        "area_type": 1
+    },
+    "2922604": {
+        "main_activity_id": 2922601,
+        "int": 2922604,
+        "clue_desc": "Translating:【activity_puzzle_clue$2922604$clue_desc$0】",
+        "area_type": 2
+    },
+    "2922605": {
+        "main_activity_id": 2922601,
+        "int": 2922605,
+        "clue_desc": "Translating:【activity_puzzle_clue$2922605$clue_desc$0】",
+        "area_type": 2
+    },
     "get_id_list_by_main_activity_id": {
+        "2922601": [
+            2922601,
+            2922602,
+            2922603,
+            2922604,
+            2922605
+        ],
+        "322141": [
+            3221411,
+            3221412,
+            3221413,
+            3221414,
+            3221415
+        ],
+        "302141": [
+            3021401,
+            3021402,
+            3021403
+        ],
         "3622637": [
             3622601,
             3622602,
@@ -187,6 +284,19 @@
         3622602,
         3622603,
         3622604,
-        3622605
+        3622605,
+        3021401,
+        3021402,
+        3021403,
+        3221411,
+        3221412,
+        3221413,
+        3221414,
+        3221415,
+        2922601,
+        2922602,
+        2922603,
+        2922604,
+        2922605
     ]
 }

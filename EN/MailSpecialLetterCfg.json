@@ -914,7 +914,7 @@
         "letter_belongs": 1028,
         "letter_sender_face": 2110281,
         "letter_sender": "Thor",
-        "letter_desc": "Almost every year, I've spent my Arrival Day in battle. It's often weeks before I remember to check my mailbox and see all the gifts everyone sent me.\nYou helped me realize just how much everyone wants to celebrate with me. That's why I immediately sent over this comms request.\nSeeing everyone come together just to celebrate my Arrival Day, I... can't help but try to finish up my mission as quickly as possible. Just two more days, and I'll be back to see you all!\nAhem. That's what you taught me, right? You should tell the people you care about most everything that's on your mind.\nWhen I think about the countless battles we've fought together, I realize that the reason I can give it my all is because I know you've always got my back.\nThank you, Admin, for showing me how special my Arrival Day really is.\nKeep an eye out for my next message! As soon as my missions are all wrapped up, I'll return to you in a flash.\n",
+        "letter_desc": "Almost every year, I've spent my Arrival Day in battle. It's often weeks before I remember to check my mailbox and see all the gifts everyone sent me.\nBut you... you reminded me just how much this day means. That’s why I sent this comms request right away.\nSeeing everyone come together just to celebrate my Arrival Day, I... can't help but try to finish up my mission as quickly as possible. Just two more days, and I'll be back to see you all!\nAhem. That's what you taught me, right? You should tell the people you care about most everything that's on your mind.\nWhen I think about the countless battles we've fought together, I realize that the reason I can give it my all is because I know you've always got my back.\nThank you, Admin, for showing me how special my Arrival Day really is.\nKeep an eye out for my next message! As soon as my missions are all wrapped up, I'll return to you in a flash.",
         "id": 1042,
         "reward_item_list": [
             [
@@ -1932,7 +1932,7 @@
         ]
     },
     "40201": {
-        "letter_send_time_1": "2025,6,6",
+        "letter_send_time_1": "2026,6,6",
         "mail_id": 640201,
         "letter_title": "Translating:【mail_special_letter$40201$letter_title$0】",
         "letter_belongs": 1066,
@@ -1956,7 +1956,7 @@
         ]
     },
     "40202": {
-        "letter_send_time_1": "2025,6,12",
+        "letter_send_time_1": "2026,6,12",
         "mail_id": 640202,
         "letter_title": "Translating:【mail_special_letter$40202$letter_title$0】",
         "letter_belongs": 1127,
@@ -1980,7 +1980,7 @@
         ]
     },
     "40203": {
-        "letter_send_time_1": "2025,6,12",
+        "letter_send_time_1": "2026,6,12",
         "mail_id": 640203,
         "letter_title": "Translating:【mail_special_letter$40203$letter_title$0】",
         "letter_belongs": 1050,
@@ -2004,7 +2004,7 @@
         ]
     },
     "40204": {
-        "letter_send_time_1": "2025,6,12",
+        "letter_send_time_1": "2026,6,12",
         "mail_id": 640204,
         "letter_title": "Translating:【mail_special_letter$40204$letter_title$0】",
         "letter_belongs": 1049,
@@ -2028,7 +2028,7 @@
         ]
     },
     "40205": {
-        "letter_send_time_1": "2025,6,13",
+        "letter_send_time_1": "2026,6,13",
         "mail_id": 640205,
         "letter_title": "Translating:【mail_special_letter$40205$letter_title$0】",
         "letter_belongs": 1024,
@@ -2048,7 +2048,7 @@
         ]
     },
     "40206": {
-        "letter_send_time_1": "2025,6,19",
+        "letter_send_time_1": "2026,6,19",
         "mail_id": 640206,
         "letter_title": "Translating:【mail_special_letter$40206$letter_title$0】",
         "letter_belongs": 1070,
@@ -2072,7 +2072,7 @@
         ]
     },
     "40207": {
-        "letter_send_time_1": "2025,6,20",
+        "letter_send_time_1": "2026,6,20",
         "mail_id": 640207,
         "letter_title": "Translating:【mail_special_letter$40207$letter_title$0】",
         "letter_belongs": 1075,
@@ -2096,7 +2096,7 @@
         ]
     },
     "40208": {
-        "letter_send_time_1": "2025,6,23",
+        "letter_send_time_1": "2026,6,23",
         "mail_id": 640208,
         "letter_title": "Translating:【mail_special_letter$40208$letter_title$0】",
         "letter_belongs": 1056,
@@ -2119,34 +2119,7 @@
             ]
         ]
     },
-    "40209": {
-        "letter_send_time_1": "2025,7,3",
-        "mail_id": 640209,
-        "letter_title": "Translating:【mail_special_letter$40209$letter_title$0】",
-        "letter_belongs": 1013,
-        "letter_sender_face": 2110131,
-        "letter_sender": "Translating:【mail_special_letter$40209$letter_sender$0】",
-        "letter_desc": "Translating:【mail_special_letter$40209$letter_desc$0】",
-        "id": 40209,
-        "reward_item_list": [
-            [
-                50028,
-                10
-            ],
-            [
-                40503,
-                10
-            ],
-            [
-                20001,
-                1
-            ]
-        ]
-    },
     "get_id_list_by_letter_belongs": {
-        "1013": [
-            40209
-        ],
         "1127": [
             40202
         ],
@@ -2436,7 +2409,6 @@
         40205,
         40206,
         40207,
-        40208,
-        40209
+        40208
     ]
 }

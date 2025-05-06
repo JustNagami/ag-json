@@ -318,6 +318,25 @@
         "scene_setting": [],
         "obtain_way": []
     },
+    "6016": {
+        "action_suffix": "",
+        "title": "Afternoon Delight",
+        "desc": "That afternoon in the room, were Brahmā's sudden words true or false? Unfortunately, she's the only one who knows the answer.",
+        "obtain_word": "",
+        "scene_trial": 0,
+        "limit_display": 0,
+        "prefix_dlc": "",
+        "light_effect": "",
+        "unlock_description": "",
+        "prefix": "X313",
+        "light_effect_delay": "",
+        "id": 6016,
+        "default_music": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [],
+        "obtain_way": []
+    },
     "6100": {
         "action_suffix": "",
         "title": "Command Center Lobby",
@@ -355,6 +374,7 @@
         6013,
         6014,
         6015,
+        6016,
         6100
     ]
 }

@@ -1102,6 +1102,32 @@
             ]
         ]
     },
+    "65": {
+        "decompose_id": 0,
+        "name": "Limited-Time Precise Scan Voucher",
+        "display_rare": 5,
+        "type": 1,
+        "compose_id": 0,
+        "limit": 0,
+        "desc": "A data card that allows access to Mimir's vibrant resonation. Used to scan for Modifiers in a given area within a certain period of time. Administrators are requested to pay close attention to the available time window.\n—As resonation imprints require a large amount of computational power from the Mimir system, activation authority has to be strictly controlled.",
+        "sub_type": 1702,
+        "icon": "58",
+        "use": 0,
+        "max": 0,
+        "rare": 5,
+        "littleicon": "58",
+        "id": 65,
+        "param": [
+            62
+        ],
+        "source": [],
+        "time": [
+            5,
+            [
+                290013
+            ]
+        ]
+    },
     "66": {
         "decompose_id": 0,
         "name": "Limited-Time Precise Scan Voucher",
@@ -1891,7 +1917,7 @@
         "compose_id": 0,
         "rare": 5,
         "desc": "\"The survival of the world is at her whim.\"",
-        "desc_source": "Gain by finishing Cooperating Contract Vol.18",
+        "desc_source": "Gain by finishing Cooperating Contract Vol.19",
         "sub_type": 1201,
         "decompose_id": 0,
         "limit": 0,
@@ -2450,6 +2476,27 @@
         ],
         "source": []
     },
+    "2916": {
+        "name": "Troubled Journeys",
+        "display_rare": 5,
+        "type": 12,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "\"As the cloudy mists roll through the towering mountain forests, what could disturb the peace of the world?\"",
+        "desc_source": "Participate in False Deduction: Searching All Over to obtain.",
+        "sub_type": 1201,
+        "decompose_id": 0,
+        "limit": 0,
+        "id": 2916,
+        "icon": "2916",
+        "use": 0,
+        "max": 0,
+        "param": [
+            2916,
+            0
+        ],
+        "source": []
+    },
     "3002": {
         "decompose_id": 0,
         "name": "Trusted Partner",
@@ -2677,7 +2724,7 @@
         "type": 13,
         "id": 3015,
         "rare": 5,
-        "desc": "A souvenir of times past which can be viewed in the Stickers page.\n—The... sheer size of this... We're definitely looking at something bulky here!",
+        "desc": "A souvenir of times past which can be viewed in the Stickers page.\n—Th-this size... That’s one hefty fella for sure!",
         "limit": 0,
         "sub_type": 1301,
         "display_rare": 5,
@@ -3013,6 +3060,40 @@
         "max": 0,
         "source": []
     },
+    "3038": {
+        "decompose_id": 0,
+        "name": "Time to Eat!",
+        "compose_id": 0,
+        "type": 13,
+        "id": 3038,
+        "rare": 5,
+        "desc": "A souvenir of times past which can be viewed in the Stickers page.\n—A hot meal on its way to the table, and with it, a hefty helping of love.",
+        "desc_source": "Participate in the Escort the Transport event to obtain.",
+        "sub_type": 1301,
+        "limit": 0,
+        "display_rare": 5,
+        "icon": "3038",
+        "use": 0,
+        "max": 0,
+        "source": []
+    },
+    "3039": {
+        "decompose_id": 0,
+        "name": "Work, Or...?",
+        "compose_id": 0,
+        "type": 13,
+        "id": 3039,
+        "rare": 5,
+        "desc": "A souvenir of times past which can be viewed in the Stickers page.\n—Maybe it's better if you don't know what she's looking at.",
+        "desc_source": "Participate in the Codename: Cuboid event to obtain.",
+        "sub_type": 1301,
+        "limit": 0,
+        "display_rare": 5,
+        "icon": "3039",
+        "use": 0,
+        "max": 0,
+        "source": []
+    },
     "4001": {
         "decompose_id": 0,
         "name": "Time Spent Together",
@@ -3059,6 +3140,23 @@
         "limit": 0,
         "display_rare": 5,
         "icon": "4003",
+        "use": 0,
+        "max": 0,
+        "source": []
+    },
+    "4004": {
+        "decompose_id": 0,
+        "name": "Meruism Lobby",
+        "compose_id": 0,
+        "type": 18,
+        "id": 4004,
+        "rare": 5,
+        "desc": "A scenery souvenir which can be viewed in the Stickers page.\n—A calm corner of Meruism where many stories are born.",
+        "desc_source": "Participate in the Treasure Hunters event to obtain.",
+        "sub_type": 1801,
+        "limit": 0,
+        "display_rare": 5,
+        "icon": "4004",
         "use": 0,
         "max": 0,
         "source": []
@@ -3417,6 +3515,26 @@
         ],
         "source": []
     },
+    "6016": {
+        "name": "Afternoon Delight",
+        "display_rare": 5,
+        "type": 21,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "That afternoon in the room, were Brahmā's sudden words true or false? Unfortunately, she's the only one who knows the answer.",
+        "decompose_id": 0,
+        "sub_type": 2101,
+        "littleicon": "6016",
+        "limit": 0,
+        "id": 6016,
+        "icon": "6016",
+        "use": 0,
+        "max": 0,
+        "param": [
+            6016
+        ],
+        "source": []
+    },
     "6100": {
         "name": "Command Center Lobby",
         "id": 6100,
@@ -3642,6 +3760,27 @@
         "max": 0,
         "param": [
             7010,
+            0
+        ],
+        "source": []
+    },
+    "7011": {
+        "name": "Senior Administrator",
+        "display_rare": 4,
+        "type": 22,
+        "compose_id": 0,
+        "rare": 4,
+        "desc": "Use this to gain the Senior Administrator title.\n—You have already seen us through much strife.",
+        "desc_source": "Special Title",
+        "sub_type": 0,
+        "decompose_id": 0,
+        "limit": 0,
+        "id": 7011,
+        "icon": "7002",
+        "use": 0,
+        "max": 0,
+        "param": [
+            7011,
             0
         ],
         "source": []
@@ -4072,7 +4211,7 @@
         "type": 23,
         "compose_id": 0,
         "rare": 5,
-        "desc": "Use to obtain the Name Card background: Kindness.\n——The time's right. I remove the lid, and the rising steam is hot like my blood.",
+        "desc": "Use to obtain the Name Card background: Kindness.\n—Perfect timing. I remove the lid, and the rising steam is hot like my blood.",
         "desc_source": "Obtain by participating in Sweet Kitchen.",
         "sub_type": 0,
         "decompose_id": 0,
@@ -4238,6 +4377,36 @@
                 2101
             ]
         ]
+    },
+    "10006": {
+        "decompose_id": 0,
+        "name": "Translating:【item$10006$name$0】",
+        "compose_id": 0,
+        "type": 6,
+        "id": 10006,
+        "rare": 4,
+        "limit": 0,
+        "sub_type": 0,
+        "display_rare": 4,
+        "icon": "10006",
+        "use": 0,
+        "max": 0,
+        "source": []
+    },
+    "10007": {
+        "decompose_id": 0,
+        "name": "Translating:【item$10007$name$0】",
+        "compose_id": 0,
+        "type": 6,
+        "id": 10007,
+        "rare": 4,
+        "limit": 0,
+        "sub_type": 0,
+        "display_rare": 4,
+        "icon": "10007",
+        "use": 0,
+        "max": 0,
+        "source": []
     },
     "20001": {
         "name": "Coolant (S)",
@@ -16891,6 +17060,22 @@
         "max": 0,
         "source": []
     },
+    "50052": {
+        "decompose_id": 0,
+        "name": "Coconut Curry",
+        "compose_id": 0,
+        "type": 10,
+        "id": 50052,
+        "rare": 4,
+        "desc": "Packed in a convenient and heat-retaining container, this curry has a robust aroma, rich flavor, and a lasting aftertaste. Even picky children won't be able to resist the veggies inside! This dish is the perfect way to cheer up a partner who's been busy with gang business!",
+        "limit": 0,
+        "sub_type": 1,
+        "display_rare": 4,
+        "icon": "50052",
+        "use": 0,
+        "max": 0,
+        "source": []
+    },
     "51009": {
         "decompose_id": 0,
         "name": "Duck Blood",
@@ -20285,7 +20470,7 @@
         "type": 6,
         "compose_id": 0,
         "rare": 4,
-        "desc": "A positioning device that can correctly place puzzle pieces.\n——\"Lord Mimir has a hint for you, rookie.\"",
+        "desc": "Translating:【item$5311601$desc$0】",
         "id": 5311601,
         "sub_type": 0,
         "littleicon": "53026",
@@ -20299,6 +20484,29 @@
             1,
             [
                 3622637
+            ]
+        ]
+    },
+    "5315901": {
+        "decompose_id": 0,
+        "name": "Positioner",
+        "type": 6,
+        "compose_id": 0,
+        "rare": 4,
+        "desc": "A positioning device that can correctly place puzzle pieces.\n—\"\"Lord Mimir has a hint for you, rookie.\"\"",
+        "id": 5315901,
+        "sub_type": 0,
+        "littleicon": "53026",
+        "limit": 0,
+        "display_rare": 4,
+        "icon": "53026",
+        "use": 0,
+        "max": 0,
+        "source": [],
+        "time": [
+            1,
+            [
+                2922601
             ]
         ]
     },
@@ -22149,7 +22357,7 @@
         "type": 1,
         "compose_id": 0,
         "rare": 4,
-        "desc": "\"As myself as your witness, rookie, I hereby declare that you have proven yourself! You deserve it.\"\n—Mimir.",
+        "desc": "Translating:【item$5406902$desc$0】",
         "id": 5406902,
         "sub_type": 0,
         "littleicon": "54015",
@@ -96021,7 +96229,11 @@
         "icon": "50",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "310050": {
         "decompose_id": 0,
@@ -96037,7 +96249,11 @@
         "icon": "50",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "410050": {
         "decompose_id": 0,
@@ -96055,7 +96271,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96075,7 +96294,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000267
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96095,7 +96321,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000267
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96115,7 +96348,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000267
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96135,7 +96375,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000267
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96155,7 +96402,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000267
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96175,7 +96429,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000267
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96195,7 +96456,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000267
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96213,7 +96481,11 @@
         "icon": "50",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "320050": {
         "decompose_id": 0,
@@ -96229,7 +96501,11 @@
         "icon": "50",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "420050": {
         "decompose_id": 0,
@@ -96247,7 +96523,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96267,7 +96546,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000266
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96287,7 +96573,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000266
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96307,7 +96600,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000266
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96327,7 +96627,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000266
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96347,7 +96654,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000266
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96367,7 +96681,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000266
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96387,7 +96708,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000266
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96405,7 +96733,11 @@
         "icon": "50",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "330050": {
         "decompose_id": 0,
@@ -96421,7 +96753,11 @@
         "icon": "50",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "430050": {
         "decompose_id": 0,
@@ -96439,7 +96775,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96459,7 +96798,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000265
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96479,7 +96825,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000265
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96499,7 +96852,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000265
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96519,7 +96879,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000265
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96539,7 +96906,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000265
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96559,7 +96933,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000265
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96579,7 +96960,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000265
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96597,7 +96985,11 @@
         "icon": "50",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "340050": {
         "decompose_id": 0,
@@ -96613,7 +97005,11 @@
         "icon": "50",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "440050": {
         "decompose_id": 0,
@@ -96631,7 +97027,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96651,7 +97050,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000264
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96671,7 +97077,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000264
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96691,7 +97104,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000264
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96711,7 +97131,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000264
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96731,7 +97158,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000264
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96751,7 +97185,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000264
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96771,7 +97212,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000264
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96789,7 +97237,11 @@
         "icon": "50",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "350050": {
         "decompose_id": 0,
@@ -96805,7 +97257,11 @@
         "icon": "50",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "450050": {
         "decompose_id": 0,
@@ -96823,7 +97279,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96843,7 +97302,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000263
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96863,7 +97329,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000263
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96883,7 +97356,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000263
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96903,7 +97383,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000263
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96923,7 +97410,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000263
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96943,7 +97437,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000263
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96963,7 +97464,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000263
+            ],
+            [
+                507
             ]
         ]
     },
@@ -96981,7 +97489,11 @@
         "icon": "50",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "360050": {
         "decompose_id": 0,
@@ -96997,7 +97509,11 @@
         "icon": "50",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "460050": {
         "decompose_id": 0,
@@ -97015,7 +97531,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97035,7 +97554,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000262
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97055,7 +97581,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000262
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97075,7 +97608,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000262
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97095,7 +97635,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000262
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97115,7 +97662,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000262
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97135,7 +97689,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000262
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97155,7 +97716,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000262
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97173,7 +97741,11 @@
         "icon": "51",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "310051": {
         "decompose_id": 0,
@@ -97189,7 +97761,11 @@
         "icon": "51",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "410051": {
         "decompose_id": 0,
@@ -97207,7 +97783,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97227,7 +97806,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000273
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97247,7 +97833,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000273
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97267,7 +97860,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000273
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97287,7 +97887,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000273
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97307,7 +97914,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000273
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97327,7 +97941,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000273
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97347,7 +97968,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000273
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97365,7 +97993,11 @@
         "icon": "51",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "320051": {
         "decompose_id": 0,
@@ -97381,7 +98013,11 @@
         "icon": "51",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "420051": {
         "decompose_id": 0,
@@ -97399,7 +98035,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97419,7 +98058,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000272
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97439,7 +98085,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000272
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97459,7 +98112,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000272
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97479,7 +98139,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000272
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97499,7 +98166,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000272
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97519,7 +98193,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000272
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97539,7 +98220,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000272
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97557,7 +98245,11 @@
         "icon": "51",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "330051": {
         "decompose_id": 0,
@@ -97573,7 +98265,11 @@
         "icon": "51",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "430051": {
         "decompose_id": 0,
@@ -97591,7 +98287,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97611,7 +98310,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000271
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97631,7 +98337,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000271
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97651,7 +98364,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000271
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97671,7 +98391,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000271
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97691,7 +98418,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000271
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97711,7 +98445,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000271
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97731,7 +98472,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000271
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97749,7 +98497,11 @@
         "icon": "51",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "340051": {
         "decompose_id": 0,
@@ -97765,7 +98517,11 @@
         "icon": "51",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "440051": {
         "decompose_id": 0,
@@ -97783,7 +98539,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97803,7 +98562,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000270
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97823,7 +98589,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000270
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97843,7 +98616,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000270
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97863,7 +98643,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000270
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97883,7 +98670,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000270
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97903,7 +98697,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000270
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97923,7 +98724,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000270
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97941,7 +98749,11 @@
         "icon": "51",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "350051": {
         "decompose_id": 0,
@@ -97957,7 +98769,11 @@
         "icon": "51",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "450051": {
         "decompose_id": 0,
@@ -97975,7 +98791,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -97995,7 +98814,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000269
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98015,7 +98841,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000269
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98035,7 +98868,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000269
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98055,7 +98895,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000269
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98075,7 +98922,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000269
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98095,7 +98949,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000269
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98115,7 +98976,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000269
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98133,7 +99001,11 @@
         "icon": "51",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "360051": {
         "decompose_id": 0,
@@ -98149,7 +99021,11 @@
         "icon": "51",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "460051": {
         "decompose_id": 0,
@@ -98167,7 +99043,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98187,7 +99066,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000268
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98207,7 +99093,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000268
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98227,7 +99120,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000268
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98247,7 +99147,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000268
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98267,7 +99174,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000268
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98287,7 +99201,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000268
+            ],
+            [
+                507
             ]
         ]
     },
@@ -98307,7 +99228,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000268
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100747,238 +101675,6 @@
             ]
         ]
     },
-    "514054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅰ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 514054,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "515054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅰ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 515054,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "519054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅰ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 519054,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "220054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅱ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 220054,
-        "rare": 2,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 2,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": []
-    },
-    "320054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅱ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 320054,
-        "rare": 3,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 3,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": []
-    },
-    "420054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅱ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 420054,
-        "rare": 4,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 4,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "520054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅱ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 520054,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "521054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅱ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 521054,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "522054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅱ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 522054,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "523054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅱ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 523054,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "524054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅱ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 524054,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "525054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅱ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 525054,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
     "get_id_list_by_type": {
         "3": [
             11011,
@@ -101367,7 +102063,8 @@
             2200004,
             2200005,
             2200006,
-            2200007
+            2200007,
+            2200011
         ],
         "9": [
             2310001,
@@ -101798,6 +102495,9 @@
             952126,
             952127,
             952128,
+            952301,
+            952302,
+            952303,
             961001,
             961002,
             961003,
@@ -105812,7 +106512,8 @@
             50048,
             50049,
             50050,
-            50051
+            50051,
+            50052
         ],
         "5": [
             30002,
@@ -106368,6 +107069,8 @@
             10002,
             10003,
             10004,
+            10006,
+            10007,
             40101,
             40102,
             40103,
@@ -106542,6 +107245,7 @@
             5303001,
             5303101,
             5311601,
+            5315901,
             54006,
             54049,
             81084,
@@ -106608,6 +107312,7 @@
             7008,
             7009,
             7010,
+            7011,
             7012,
             7013,
             7014,
@@ -106641,6 +107346,7 @@
             6013,
             6014,
             6015,
+            6016,
             6100,
             4600703,
             4600803,
@@ -106668,7 +107374,8 @@
         "18": [
             4001,
             4002,
-            4003
+            4003,
+            4004
         ],
         "13": [
             3002,
@@ -106703,7 +107410,9 @@
             3032,
             3033,
             3036,
-            3037
+            3037,
+            3038,
+            3039
         ],
         "12": [
             2001,
@@ -106759,7 +107468,8 @@
             2912,
             2913,
             2914,
-            2915
+            2915,
+            2916
         ],
         "1": [
             1,
@@ -106820,6 +107530,7 @@
             62,
             63,
             64,
+            65,
             66,
             67,
             69,
@@ -107157,6 +107868,7 @@
             50049,
             50050,
             50051,
+            50052,
             2110841,
             2110842,
             2110843,
@@ -107289,7 +108001,8 @@
             2200004,
             2200005,
             2200006,
-            2200007
+            2200007,
+            2200011
         ],
         "618": [
             41701
@@ -107939,6 +108652,7 @@
             6013,
             6014,
             6015,
+            6016,
             6100,
             4600703,
             4600803,
@@ -107963,7 +108677,8 @@
         "1801": [
             4001,
             4002,
-            4003
+            4003,
+            4004
         ],
         "1302": [
             3019
@@ -108000,7 +108715,9 @@
             3032,
             3033,
             3036,
-            3037
+            3037,
+            3038,
+            3039
         ],
         "1204": [
             2910,
@@ -108062,7 +108779,8 @@
             2029,
             2030,
             2031,
-            2915
+            2915,
+            2916
         ],
         "1702": [
             49,
@@ -108072,6 +108790,7 @@
             59,
             63,
             64,
+            65,
             66,
             67,
             78
@@ -108152,6 +108871,7 @@
             7008,
             7009,
             7010,
+            7011,
             7012,
             7013,
             7014,
@@ -108181,6 +108901,8 @@
             10002,
             10003,
             10004,
+            10006,
+            10007,
             51009,
             51010,
             51011,
@@ -108285,6 +109007,7 @@
             5303001,
             5303101,
             5311601,
+            5315901,
             54001,
             54002,
             54003,
@@ -112565,6 +113288,9 @@
             952126,
             952127,
             952128,
+            952301,
+            952302,
+            952303,
             961001,
             961002,
             961003,
@@ -112994,6 +113720,7 @@
         62,
         63,
         64,
+        65,
         66,
         67,
         69,
@@ -113058,6 +113785,7 @@
         2913,
         2914,
         2915,
+        2916,
         3002,
         3003,
         3004,
@@ -113091,9 +113819,12 @@
         3033,
         3036,
         3037,
+        3038,
+        3039,
         4001,
         4002,
         4003,
+        4004,
         5000,
         6000,
         6001,
@@ -113111,6 +113842,7 @@
         6013,
         6014,
         6015,
+        6016,
         6100,
         7001,
         7002,
@@ -113122,6 +113854,7 @@
         7008,
         7009,
         7010,
+        7011,
         7012,
         7013,
         7014,
@@ -113151,6 +113884,8 @@
         10002,
         10003,
         10004,
+        10006,
+        10007,
         20001,
         20002,
         20003,
@@ -113573,6 +114308,7 @@
         50049,
         50050,
         50051,
+        50052,
         51009,
         51010,
         51011,
@@ -113722,6 +114458,7 @@
         5303001,
         5303101,
         5311601,
+        5315901,
         54001,
         54002,
         54003,
@@ -118242,6 +118979,9 @@
         952126,
         952127,
         952128,
+        952301,
+        952302,
+        952303,
         961001,
         961002,
         961003,
@@ -118529,6 +119269,7 @@
         2200005,
         2200006,
         2200007,
+        2200011,
         103901,
         103906,
         114801,

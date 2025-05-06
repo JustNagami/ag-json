@@ -719,14 +719,14 @@
         "title": "Dragon Chant",
         "sub_title": "Living Soul - Osiris",
         "params": "",
-        "show_time": "2024.2.1-2024.2.29",
+        "show_time": "2025.5.6-2025.6.5",
         "icon": "100019",
         "order": 1,
         "jump": [
             525
         ],
         "jump2": [
-            534,
+            531,
             15000010,
             1111,
             111102,
@@ -735,24 +735,24 @@
         "time": [
             [
                 [
-                    2024,
-                    2,
-                    1
+                    2025,
+                    5,
+                    6
                 ],
                 [
-                    5,
+                    10,
                     0,
                     0
                 ]
             ],
             [
                 [
-                    2024,
-                    2,
-                    29
+                    2025,
+                    6,
+                    5
                 ],
                 [
-                    5,
+                    10,
                     0,
                     0
                 ]
@@ -1635,7 +1635,7 @@
         "title": "Veiled Dreams",
         "sub_title": "Trimūrti - Brahmā",
         "params": "",
-        "show_time": "2024.9.26-2024.10.24",
+        "show_time": "2025.5.6-2025.6.5",
         "icon": "icon_102001",
         "order": 1,
         "jump": [
@@ -1651,117 +1651,24 @@
         "time": [
             [
                 [
-                    2024,
-                    9,
-                    26
+                    2025,
+                    5,
+                    6
                 ],
                 [
-                    5,
+                    10,
                     0,
                     0
                 ]
             ],
             [
                 [
-                    2024,
+                    2025,
+                    6,
+                    5
+                ],
+                [
                     10,
-                    24
-                ],
-                [
-                    5,
-                    0,
-                    0
-                ]
-            ]
-        ]
-    },
-    "100037": {
-        "new_recommend": 1,
-        "prefab": "recommend_108901",
-        "show_type": 0,
-        "goods_id": 100037,
-        "info_desc": "",
-        "title": "Where Elegance Meets Extravagance",
-        "sub_title": "Tempest - Parvati",
-        "params": "",
-        "show_time": "",
-        "icon": "icon_108901",
-        "order": 2,
-        "jump": [
-            525
-        ],
-        "jump2": [
-            531,
-            15000023,
-            1089,
-            108901,
-            15
-        ],
-        "time": [
-            [
-                [
-                    2024,
-                    10,
-                    24
-                ],
-                [
-                    5,
-                    0,
-                    0
-                ]
-            ],
-            [
-                [
-                    2024,
-                    11,
-                    21
-                ],
-                [
-                    5,
-                    0,
-                    0
-                ]
-            ]
-        ]
-    },
-    "100038": {
-        "jump2": "",
-        "new_recommend": 1,
-        "prefab": "recommend_109502",
-        "show_type": 0,
-        "goods_id": 100038,
-        "info_desc": "",
-        "title": "Nighttime Romance",
-        "sub_title": "Gray Ibis - Thoth",
-        "params": "",
-        "show_time": "2024.10.24-2024.11.21",
-        "icon": "icon_109502",
-        "order": 1,
-        "jump": [
-            2901,
-            292211
-        ],
-        "time": [
-            [
-                [
-                    2024,
-                    10,
-                    24
-                ],
-                [
-                    5,
-                    0,
-                    0
-                ]
-            ],
-            [
-                [
-                    2024,
-                    11,
-                    21
-                ],
-                [
-                    5,
                     0,
                     0
                 ]
@@ -1777,7 +1684,7 @@
         "title": "Efficiency First",
         "sub_title": "Winged Gardener - Yingzhao",
         "params": "",
-        "show_time": "2024.9.26-2024.10.24",
+        "show_time": "2025.5.6-2025.6.5",
         "icon": "100025",
         "order": 2,
         "jump": [
@@ -1793,24 +1700,24 @@
         "time": [
             [
                 [
-                    2024,
-                    9,
-                    26
+                    2025,
+                    5,
+                    6
                 ],
                 [
-                    5,
+                    10,
                     0,
                     0
                 ]
             ],
             [
                 [
-                    2024,
-                    10,
-                    24
+                    2025,
+                    6,
+                    5
                 ],
                 [
-                    5,
+                    10,
                     0,
                     0
                 ]
@@ -1825,7 +1732,7 @@
         "info_desc": "",
         "title": "Celebration Lucky Wish Box",
         "sub_title": "Open to receive a big reward",
-        "show_time": "2024.9.26-2024.10.24",
+        "show_time": "2025.5.6-2025.6.5",
         "icon": "100015",
         "order": 3,
         "jump": [
@@ -1839,24 +1746,24 @@
         "time": [
             [
                 [
-                    2024,
-                    9,
-                    26
+                    2025,
+                    5,
+                    6
                 ],
                 [
-                    5,
+                    10,
                     0,
                     0
                 ]
             ],
             [
                 [
-                    2024,
-                    10,
-                    24
+                    2025,
+                    6,
+                    5
                 ],
                 [
-                    5,
+                    10,
                     0,
                     0
                 ]
@@ -2304,8 +2211,6 @@
         100034,
         100035,
         100036,
-        100037,
-        100038,
         100039,
         100040,
         100055,

@@ -576,7 +576,36 @@
             -326
         ]
     },
+    "1701": {
+        "closetime": 5,
+        "priority": 1,
+        "talk_adapt": 0,
+        "talk_anchors": 0,
+        "name": "challengeRogueTeamSectionSelectHero",
+        "narrator_icon": "mmr",
+        "id": 1701,
+        "talk_content": "You can disable teammate effects here.",
+        "narrator_name": "Mimir",
+        "guide_component": [
+            "conditionBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "challengeRogueTeamSectionSelectHero"
+            ]
+        ],
+        "skipcondition": [],
+        "talk_position": [
+            320,
+            380
+        ]
+    },
     "get_id_list_by_name": {
+        "challengeRogueTeamSectionSelectHero": [
+            1701
+        ],
         "tetrisGameStageView": [
             1601
         ],
@@ -632,6 +661,7 @@
         1402,
         1501,
         1502,
-        1601
+        1601,
+        1701
     ]
 }

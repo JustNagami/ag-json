@@ -3466,7 +3466,7 @@
         "simple_strength_description": []
     },
     "102001": {
-        "simple_description": "Translating:【weapon_effect$102001$simple_description$0】",
+        "simple_description": "Grants the following effects when equipped by Trimūrti - Brahmā:\nIncreases Asterism Mod Final DMG.\nWhen <color=#297DE0>Suddhavasa - Annihilation</color> hits, deals additional DMG that ignores DEF depending on enemy's max HP. \nAether Code <color=#297DE0>God of Destruction - Rija </color> grants the following effect: While in <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102002)>Cataclysmic Destruction</material></color> state, normal enemies with less than a certain amount of HP will be immediately defeated when hit.\nAether Code <color=#297DE0>God of Creation - Hiranyagarbha</color> grants the following effects: Increases the ATK boost granted to all teammates and the All Attribute RES reduction inflicted on enemies.\nAether Code <color=#297DE0>Unified Triad - Ruination</color> grants an additional effect: Increases Independent DMG each time a form is switched.",
         "id": 102001,
         "description": [
             500102001
@@ -3543,7 +3543,7 @@
         "simple_strength_description": []
     },
     "115601": {
-        "simple_description": "Translating:【weapon_effect$115601$simple_description$0】",
+        "simple_description": "Grants the following effects when equipped by Annihilator - Kali:\nUpon entering battle, grants all teammates with a shield equal to their Max HP.\nEach time <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115601)>Thunderous Splendor</material></color> is triggered, increases the ATK of all teammates by <color=#E78300>{1}%</color> for <color=#E78300>{2}</color>s.\nWhen the Modifier or a teammate unleashes an Ultimate Skill, gain increased Crit DMG.\nAfter each Normal attack or skill hits, grants different amounts of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115603)>Dazzling Squall</material></color> points. Unleashing a skill will expend different amounts of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115603)>Dazzling Squall </material></color> points and reset the skill's CD.",
         "id": 115601,
         "description": [
             500115601
@@ -3575,7 +3575,7 @@
         "simple_strength_description": []
     },
     "108901": {
-        "simple_description": "Translating:【weapon_effect$108901$simple_description$0】",
+        "simple_description": "Grants the following effects when equipped by Tempest - Parvati.\nIncreases Independent DMG.\nWhen <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(108901)>Wind Bullet</material></color> type is switched to <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(108902)>Wind Bullets - Azure</material></color>, the Mod recovers HP.\nAdds stacks of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(108905)>Azure</material></color> state.\nIncreases the Wind DMG boost granted by each stack of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(108907)>Crimson</material></color>.\nWhen auto-reloading, increases Divine Grace charge speed.\nAether Code <color=#297DE0>Cyclic Summit - Immolation</color> grants an additional effect: Increases Crit Rate.",
         "id": 108901,
         "description": [
             500108901

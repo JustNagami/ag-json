@@ -15179,6 +15179,1284 @@
             1031830
         ]
     },
+    "32300": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "source": "",
+        "condition": 500,
+        "desc": "Complete all Chapter 20 - Part I missions on Normal.",
+        "need": 17,
+        "activity_id": 0,
+        "system": "",
+        "id": 32300,
+        "phase": 29,
+        "additional_parameter": [
+            3,
+            29
+        ],
+        "reward": [
+            [
+                40203,
+                3
+            ],
+            [
+                40803,
+                3
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ]
+    },
+    "32301": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-1 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32301,
+        "phase": 29,
+        "additional_parameter": [
+            1032001
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032001
+        ]
+    },
+    "32302": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-2 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32302,
+        "phase": 29,
+        "additional_parameter": [
+            1032002
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032002
+        ]
+    },
+    "32303": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-3 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32303,
+        "phase": 29,
+        "additional_parameter": [
+            1032003
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032003
+        ]
+    },
+    "32304": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-4 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32304,
+        "phase": 29,
+        "additional_parameter": [
+            1032004
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032004
+        ]
+    },
+    "32305": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-5 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32305,
+        "phase": 29,
+        "additional_parameter": [
+            1032005
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032005
+        ]
+    },
+    "32306": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-6 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32306,
+        "phase": 29,
+        "additional_parameter": [
+            1032006
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032006
+        ]
+    },
+    "32307": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-7 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32307,
+        "phase": 29,
+        "additional_parameter": [
+            1032007
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032007
+        ]
+    },
+    "32308": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-8 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32308,
+        "phase": 29,
+        "additional_parameter": [
+            1032008
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032008
+        ]
+    },
+    "32309": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-9 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32309,
+        "phase": 29,
+        "additional_parameter": [
+            1032009
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032009
+        ]
+    },
+    "32310": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-10 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32310,
+        "phase": 29,
+        "additional_parameter": [
+            1032010
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032010
+        ]
+    },
+    "32311": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-11 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32311,
+        "phase": 29,
+        "additional_parameter": [
+            1032011
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032011
+        ]
+    },
+    "32312": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-12 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32312,
+        "phase": 29,
+        "additional_parameter": [
+            1032012
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032012
+        ]
+    },
+    "32313": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-13 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32313,
+        "phase": 29,
+        "additional_parameter": [
+            1032013
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032013
+        ]
+    },
+    "32314": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-14 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32314,
+        "phase": 29,
+        "additional_parameter": [
+            1032014
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032014
+        ]
+    },
+    "32315": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-15 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32315,
+        "phase": 29,
+        "additional_parameter": [
+            1032015
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032015
+        ]
+    },
+    "32316": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-16 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32316,
+        "phase": 29,
+        "additional_parameter": [
+            1032016
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032016
+        ]
+    },
+    "32317": {
+        "name": "Chapter 20 - Part I (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-17 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32317,
+        "phase": 29,
+        "additional_parameter": [
+            1032017
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            10120,
+            1032017
+        ]
+    },
+    "32318": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "source": "",
+        "condition": 500,
+        "desc": "Complete all Chapter 20 - Part II missions on Normal.",
+        "need": 15,
+        "activity_id": 0,
+        "system": "",
+        "id": 32318,
+        "phase": 30,
+        "additional_parameter": [
+            3,
+            30
+        ],
+        "reward": [
+            [
+                40203,
+                3
+            ],
+            [
+                40803,
+                3
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ]
+    },
+    "32319": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-1 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32319,
+        "phase": 30,
+        "additional_parameter": [
+            1032018
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032018
+        ]
+    },
+    "32320": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-2 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32320,
+        "phase": 30,
+        "additional_parameter": [
+            1032019
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032019
+        ]
+    },
+    "32321": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-3 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32321,
+        "phase": 30,
+        "additional_parameter": [
+            1032020
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032020
+        ]
+    },
+    "32322": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-4 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32322,
+        "phase": 30,
+        "additional_parameter": [
+            1032021
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032021
+        ]
+    },
+    "32323": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-5 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32323,
+        "phase": 30,
+        "additional_parameter": [
+            1032022
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032022
+        ]
+    },
+    "32324": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-6 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32324,
+        "phase": 30,
+        "additional_parameter": [
+            1032023
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032023
+        ]
+    },
+    "32325": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-7 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32325,
+        "phase": 30,
+        "additional_parameter": [
+            1032024
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032024
+        ]
+    },
+    "32326": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-8 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32326,
+        "phase": 30,
+        "additional_parameter": [
+            1032025
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032025
+        ]
+    },
+    "32327": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-9 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32327,
+        "phase": 30,
+        "additional_parameter": [
+            1032026
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032026
+        ]
+    },
+    "32328": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-10 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32328,
+        "phase": 30,
+        "additional_parameter": [
+            1032027
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032027
+        ]
+    },
+    "32329": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-11 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32329,
+        "phase": 30,
+        "additional_parameter": [
+            1032028
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032028
+        ]
+    },
+    "32330": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-12 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32330,
+        "phase": 30,
+        "additional_parameter": [
+            1032029
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032029
+        ]
+    },
+    "32331": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-13 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32331,
+        "phase": 30,
+        "additional_parameter": [
+            1032030
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032030
+        ]
+    },
+    "32332": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-14 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32332,
+        "phase": 30,
+        "additional_parameter": [
+            1032031
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032031
+        ]
+    },
+    "32333": {
+        "name": "Chapter 20 - Part II (Normal)",
+        "pre_id": 0,
+        "type": 3,
+        "condition": 401,
+        "desc": "Complete Main Story 20-1-15 on Normal.",
+        "need": 1,
+        "activity_id": 0,
+        "system": "",
+        "id": 32333,
+        "phase": 30,
+        "additional_parameter": [
+            1032032
+        ],
+        "reward": [
+            [
+                40103,
+                1
+            ],
+            [
+                2,
+                3500
+            ],
+            [
+                40803,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            309,
+            11120,
+            1032032
+        ]
+    },
     "40100": {
         "name": "Phase 1",
         "pre_id": 0,
@@ -20630,7 +21908,7 @@
         ]
     },
     "800049": {
-        "name": "Challenge",
+        "name": "Translating:【assignment_list$800049$name$0】",
         "pre_id": 0,
         "type": 203,
         "condition": 50003,
@@ -34072,7 +35350,7 @@
         "pre_id": 0,
         "type": 603,
         "condition": 406,
-        "desc": "Complete any 2 Modifier character tutorials.",
+        "desc": "In Mimir's Observation Post, dispatch M.E.O.Ws 1 time.",
         "need": 2,
         "activity_id": 0,
         "system": "",
@@ -76222,16 +77500,16 @@
         ],
         "source": []
     },
-    "202401": {
+    "202408": {
         "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 1,
         "desc": "Log in to the game during the event period 1 time.",
         "need": 1,
-        "activity_id": 242821,
+        "activity_id": 292821,
         "system": "",
-        "id": 202401,
+        "id": 202408,
         "phase": 0,
         "additional_parameter": [],
         "reward": [
@@ -76254,16 +77532,16 @@
         ],
         "source": []
     },
-    "202402": {
+    "202409": {
         "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 350,
         "desc": "Spend 240 Swigs in total.",
         "need": 240,
-        "activity_id": 242822,
+        "activity_id": 292822,
         "system": "",
-        "id": 202402,
+        "id": 202409,
         "phase": 0,
         "additional_parameter": [
             4
@@ -76288,16 +77566,16 @@
         ],
         "source": []
     },
-    "202403": {
+    "202410": {
         "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 300,
         "desc": "Obtain a total Daily Mission Rating of 100.",
         "need": 100,
-        "activity_id": 242823,
+        "activity_id": 292823,
         "system": "",
-        "id": 202403,
+        "id": 202410,
         "phase": 0,
         "additional_parameter": [
             22
@@ -76322,16 +77600,16 @@
         ],
         "source": []
     },
-    "202404": {
+    "202411": {
         "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 472,
         "desc": "Defeat a Virtual Image boss of any difficulty level in Recurring Dream: Microdream Level or above 1 time.",
         "need": 1,
-        "activity_id": 242824,
+        "activity_id": 292824,
         "system": "",
-        "id": 202404,
+        "id": 202411,
         "phase": 0,
         "additional_parameter": [
             0,
@@ -76358,16 +77636,16 @@
         ],
         "source": []
     },
-    "202405": {
+    "202412": {
         "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 600,
         "desc": "Purchase any item from the Shop 1 time.",
         "need": 1,
-        "activity_id": 242825,
+        "activity_id": 292825,
         "system": "",
-        "id": 202405,
+        "id": 202412,
         "phase": 0,
         "additional_parameter": [
             0,
@@ -76393,16 +77671,16 @@
         ],
         "source": []
     },
-    "202406": {
+    "202413": {
         "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 8,
         "desc": "Interact with a Modifier 1 time.",
         "need": 1,
-        "activity_id": 242826,
+        "activity_id": 292826,
         "system": "",
-        "id": 202406,
+        "id": 202413,
         "phase": 0,
         "additional_parameter": [
             0
@@ -76427,16 +77705,16 @@
         ],
         "source": []
     },
-    "202407": {
+    "202414": {
         "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 401,
         "desc": "Complete Main Story Chapter 19-1-1.",
         "need": 1,
-        "activity_id": 242827,
+        "activity_id": 292827,
         "system": "",
-        "id": 202407,
+        "id": 202414,
         "phase": 0,
         "additional_parameter": [
             1031901
@@ -91781,7 +93059,7 @@
         "pre_id": 0,
         "type": 3002,
         "condition": 162006,
-        "desc": "Clear Rise of the Steel Wings: In Cruise V with 70% or more HP left.",
+        "desc": "Clear Rise of the Steel Wings: In Cruise IV with 70% or more HP left.",
         "need": 1,
         "activity_id": 280412,
         "system": "",
@@ -105226,6 +106504,108 @@
         ],
         "source": []
     },
+    "36402001": {
+        "name": "Daily",
+        "pre_id": 0,
+        "type": 3001,
+        "condition": 1,
+        "desc": "Log in for the first time.",
+        "need": 1,
+        "activity_id": 2900401,
+        "system": "",
+        "id": 36402001,
+        "phase": 0,
+        "additional_parameter": [],
+        "reward": [
+            [
+                5315901,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "36402002": {
+        "name": "Daily",
+        "pre_id": 0,
+        "type": 3001,
+        "condition": 350,
+        "desc": "Spend 120 Swigs",
+        "need": 120,
+        "activity_id": 2900401,
+        "system": "",
+        "id": 36402002,
+        "phase": 0,
+        "additional_parameter": [
+            4
+        ],
+        "reward": [
+            [
+                5315901,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "36402003": {
+        "name": "Daily",
+        "pre_id": 0,
+        "type": 3001,
+        "condition": 402,
+        "desc": "Complete any stage 3 times.",
+        "need": 3,
+        "activity_id": 2900401,
+        "system": "",
+        "id": 36402003,
+        "phase": 0,
+        "additional_parameter": [
+            0
+        ],
+        "reward": [
+            [
+                5315901,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "36402004": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 350,
+        "desc": "Spend 600 Swigs",
+        "need": 600,
+        "activity_id": 2900401,
+        "system": "",
+        "id": 36402004,
+        "phase": 0,
+        "additional_parameter": [
+            4
+        ],
+        "reward": [
+            [
+                5315901,
+                3
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
     "31101601": {
         "name": "Translating:【assignment_list$31101601$name$0】",
         "pre_id": 0,
@@ -109271,13 +110651,13 @@
             202316,
             202317,
             202318,
-            202401,
-            202402,
-            202403,
-            202404,
-            202405,
-            202406,
-            202407,
+            202408,
+            202409,
+            202410,
+            202411,
+            202412,
+            202413,
+            202414,
             202601,
             202602,
             202603,
@@ -109812,6 +111192,7 @@
             3590011,
             3590012,
             3590016,
+            36402004,
             31101601,
             31101602,
             31101603,
@@ -110029,6 +111410,9 @@
             3590013,
             3590014,
             3590015,
+            36402001,
+            36402002,
+            36402003,
             40201001,
             40201002,
             40201003,
@@ -110723,7 +112107,41 @@
             32128,
             32129,
             32130,
-            32131
+            32131,
+            32300,
+            32301,
+            32302,
+            32303,
+            32304,
+            32305,
+            32306,
+            32307,
+            32308,
+            32309,
+            32310,
+            32311,
+            32312,
+            32313,
+            32314,
+            32315,
+            32316,
+            32317,
+            32318,
+            32319,
+            32320,
+            32321,
+            32322,
+            32323,
+            32324,
+            32325,
+            32326,
+            32327,
+            32328,
+            32329,
+            32330,
+            32331,
+            32332,
+            32333
         ],
         "903": [
             10101,
@@ -110819,6 +112237,12 @@
             31101614,
             31101615,
             31101616
+        ],
+        "2900401": [
+            36402001,
+            36402002,
+            36402003,
+            36402004
         ],
         "3600438": [
             3590013,
@@ -111911,26 +113335,26 @@
             202644,
             202645
         ],
-        "242827": [
-            202407
+        "292827": [
+            202414
         ],
-        "242826": [
-            202406
+        "292826": [
+            202413
         ],
-        "242825": [
-            202405
+        "292825": [
+            202412
         ],
-        "242824": [
-            202404
+        "292824": [
+            202411
         ],
-        "242823": [
-            202403
+        "292823": [
+            202410
         ],
-        "242822": [
-            202402
+        "292822": [
+            202409
         ],
-        "242821": [
-            202401
+        "292821": [
+            202408
         ],
         "232002": [
             150178,
@@ -113783,6 +115207,40 @@
             32129,
             32130,
             32131,
+            32300,
+            32301,
+            32302,
+            32303,
+            32304,
+            32305,
+            32306,
+            32307,
+            32308,
+            32309,
+            32310,
+            32311,
+            32312,
+            32313,
+            32314,
+            32315,
+            32316,
+            32317,
+            32318,
+            32319,
+            32320,
+            32321,
+            32322,
+            32323,
+            32324,
+            32325,
+            32326,
+            32327,
+            32328,
+            32329,
+            32330,
+            32331,
+            32332,
+            32333,
             40100,
             40101,
             40102,
@@ -115067,6 +116525,40 @@
         32129,
         32130,
         32131,
+        32300,
+        32301,
+        32302,
+        32303,
+        32304,
+        32305,
+        32306,
+        32307,
+        32308,
+        32309,
+        32310,
+        32311,
+        32312,
+        32313,
+        32314,
+        32315,
+        32316,
+        32317,
+        32318,
+        32319,
+        32320,
+        32321,
+        32322,
+        32323,
+        32324,
+        32325,
+        32326,
+        32327,
+        32328,
+        32329,
+        32330,
+        32331,
+        32332,
+        32333,
         40100,
         40101,
         40102,
@@ -116996,13 +118488,13 @@
         150188,
         150189,
         150190,
-        202401,
-        202402,
-        202403,
-        202404,
-        202405,
-        202406,
-        202407,
+        202408,
+        202409,
+        202410,
+        202411,
+        202412,
+        202413,
+        202414,
         202501,
         202502,
         202503,
@@ -117972,6 +119464,10 @@
         3590014,
         3590015,
         3590016,
+        36402001,
+        36402002,
+        36402003,
+        36402004,
         31101601,
         31101602,
         31101603,

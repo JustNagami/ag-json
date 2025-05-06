@@ -3996,6 +3996,122 @@
             5060117
         ]
     },
+    "1068": {
+        "name": "Birthday Gift",
+        "story": "Enlil still couldn't see the point of birthdays. It felt like there was never anything to celebrate, especially not for his own.\n\"Have you decided what you want, yet?\"\n\"You pick.\"\nEnlil was used to other people making decisions for him, but this time, his adoptive father didn't seem satisfied with the answer.\nPerhaps one day he'd learn that the master sculptor had done an hour's chores as a servant at the Society of Muses before receiving an answer about what to first get him as a welcome gift.\nBut now was not the time. Enlil had his own problems to deal with, anxiously clutching at the corners of his coat, then suddenly releasing them as if he'd had an idea. He was like a fish out of water.\nAt that moment, it felt as though nothing belonged to him, like a guest in his own house. Enlil thought back to his life in the orphanage and asked himself if he had the right to ask for a specific gift.\n\"Just tell me when you think of one.\" Enlil breathed a sigh of relief, then suddenly looked stressed again. He couldn't understand the mind of an artist, but maybe he could do something to fight for his chance to stay.\nHe went to the kitchen, which was the exact opposite of the one in the orphanage: tidy, clean, and spotless... almost as if it had never been used.\nCarefully changing back into his worn-out old clothes, a rush of comfort came back to him, and Enlil quickly started getting lunch ready. The sculptor had come to check on him once after hearing noises, but Enlil didn't notice.\nIt wasn't until he walked out the door, wiping his wet hands on his clothes, that he saw the blue figure with the furrowed brow in front of him. Enlil rushed to explain, but all he could do was hide his hands behind his back and bow his head in shame.\nBut the punishment he was waiting for never came, and he carefully looked up at the sculptor's expression. The sculptor looked puzzled, but even more so, he looked helpless.\n\"It won't happen again.\"\nThen, the next day, Enlil received an apron. It was to keep his clothes from getting dirty.\nIt was hard for him to put his feelings into words at the time, but that was the first time he had ever received a birthday present of his very own.",
+        "task_desc": "In Main Story 11-13: Fervent Theater (Normal), use Blast Squall at least 1 time during the battle and clear the stage.",
+        "id": 1068,
+        "condition": [
+            [
+                50001,
+                50002,
+                50004
+            ],
+            [],
+            [
+                50003
+            ]
+        ],
+        "condition_source": [
+            [
+                [
+                    203,
+                    1068
+                ],
+                [
+                    208,
+                    1068
+                ],
+                [
+                    203,
+                    1068
+                ]
+            ],
+            [],
+            [
+                [
+                    204,
+                    1068
+                ]
+            ]
+        ],
+        "cost": [
+            [
+                [
+                    40504,
+                    24
+                ],
+                [
+                    2,
+                    40000
+                ],
+                [
+                    41501,
+                    10
+                ],
+                [
+                    81068,
+                    5
+                ]
+            ],
+            [
+                [
+                    40203,
+                    24
+                ],
+                [
+                    2,
+                    120000
+                ],
+                [
+                    41501,
+                    20
+                ],
+                [
+                    81068,
+                    10
+                ]
+            ],
+            [
+                [
+                    40203,
+                    40
+                ],
+                [
+                    2,
+                    160000
+                ],
+                [
+                    41501,
+                    30
+                ],
+                [
+                    81068,
+                    15
+                ]
+            ]
+        ],
+        "skill": [
+            [
+                106821,
+                106822,
+                106823,
+                106824
+            ],
+            [
+                106831,
+                106832
+            ],
+            [
+                106841
+            ]
+        ],
+        "source": [
+            309,
+            10111,
+            1011113
+        ]
+    },
     "all": [
         1084,
         1050,
@@ -4030,6 +4146,7 @@
         1024,
         1035,
         1094,
-        1016
+        1016,
+        1068
     ]
 }

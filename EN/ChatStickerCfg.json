@@ -1781,6 +1781,33 @@
         "icon": "10204",
         "type": 1
     },
+    "205": {
+        "desc_source": "Participate in False Deduction: Searching All Over to obtain.",
+        "name": "Zhiming_Eating Noodles",
+        "free": 0,
+        "category": 16,
+        "id": 205,
+        "icon": "10205",
+        "type": 1
+    },
+    "206": {
+        "desc_source": "Participate in False Deduction: Searching All Over to obtain.",
+        "name": "Zhiming_Pondering",
+        "free": 0,
+        "category": 16,
+        "id": 206,
+        "icon": "10206",
+        "type": 1
+    },
+    "207": {
+        "desc_source": "Participate in False Deduction: Searching All Over to obtain.",
+        "name": "Zhiming_Exhausted",
+        "free": 0,
+        "category": 16,
+        "id": 207,
+        "icon": "10207",
+        "type": 1
+    },
     "208": {
         "desc_source": "",
         "name": "Selene_Shhh!",
@@ -1849,6 +1876,11 @@
             281,
             282,
             283
+        ],
+        "16": [
+            205,
+            206,
+            207
         ],
         "15": [
             192,
@@ -2284,6 +2316,9 @@
         202,
         203,
         204,
+        205,
+        206,
+        207,
         208,
         209,
         210,
