@@ -1,0 +1,667 @@
+{
+    "1001": {
+        "closetime": 5,
+        "priority": 1,
+        "talk_adapt": 1,
+        "talk_anchors": 1,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1001,
+        "talk_content": "신입, 여기 우리가 널 위해 준비한 환영식이야. 좋은 활약 기대할게.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "buttonNewbie_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010005
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010113
+            ]
+        ],
+        "talk_position": [
+            568,
+            -284
+        ]
+    },
+    "1003": {
+        "closetime": 5,
+        "priority": -1,
+        "talk_adapt": 2,
+        "talk_anchors": 3,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1003,
+        "talk_content": "관리부가 오픈됐어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "btnGuild_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "playerLevel",
+                30
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010613
+            ]
+        ],
+        "talk_position": [
+            -600,
+            240
+        ]
+    },
+    "1004": {
+        "closetime": 5,
+        "priority": -2,
+        "talk_adapt": 2,
+        "talk_anchors": 2,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1004,
+        "talk_content": "인기 이벤트 참여 입구가 오픈됐어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "@@activityEntraceView_",
+            1
+        ],
+        "mask_component": [
+            "guideComponents",
+            "guide_activity"
+        ],
+        "opencondition": [
+            [
+                "playerLevel",
+                30
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010811
+            ]
+        ],
+        "talk_position": [
+            -760,
+            -330
+        ]
+    },
+    "1005": {
+        "closetime": 5,
+        "priority": -3,
+        "talk_adapt": 1,
+        "talk_anchors": 1,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1005,
+        "talk_content": "관리자가 이제 자신의 기본 직책에 대해 충분히 인지했을 거라 믿어. 그럼, 지금부터 수련을 시작해 볼까?",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "btn_newbie_task"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "playerLevel",
+                41
+            ]
+        ],
+        "skipcondition": [
+            [
+                "playerLevel",
+                45
+            ]
+        ],
+        "talk_position": [
+            568,
+            -267
+        ]
+    },
+    "1101": {
+        "closetime": 5,
+        "priority": 5,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1101,
+        "talk_content": "[능력 강화] 콘텐츠가 오픈되고, 스킬 레벨업 필요 물자 획득 권한이 부여됐어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010102
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1102": {
+        "closetime": 5,
+        "priority": 4,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1102,
+        "talk_content": "[모의 작전] 콘텐츠가 오픈되고, 모디파이어 레벨업 필요 물자 획득 권한이 부여됐어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010108
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1103": {
+        "closetime": 5,
+        "priority": 3,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1103,
+        "talk_content": "[심층 탐구] 콘텐츠가 오픈되고, 웨폰 레벨업 필요 물자 획득 권한이 부여됐어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010113
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1104": {
+        "closetime": 5,
+        "priority": 2,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1104,
+        "talk_content": "[유적 탐사] 콘텐츠가 오픈되고, 모디파이어 돌파 필요 물자 획득 권한이 부여됐어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010204
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1105": {
+        "closetime": 5,
+        "priority": 1,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "chapterMap",
+        "narrator_icon": "mmr",
+        "id": 1105,
+        "talk_content": "[물자 확보], [코인 수집] 콘텐츠가 오픈되고, 모든 물자 권한이 부여됐어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "toggleView_",
+            2,
+            "button_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "stage",
+                1010211
+            ]
+        ],
+        "skipcondition": [
+            [
+                "stage",
+                1010310
+            ]
+        ],
+        "talk_position": [
+            970,
+            285
+        ]
+    },
+    "1201": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 0,
+        "name": "newHero",
+        "narrator_icon": "mmr",
+        "id": 1201,
+        "talk_content": "[연계 필살기 애니메이션] 다시보기 기능이 오픈됐어. 이제 모디파이어들의 연계 필살기 애니메이션을 다시 볼 수 있어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "pages_",
+            2,
+            "buttonComboSkill_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "newHero"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "comboSkillInfo"
+            ]
+        ],
+        "talk_position": [
+            80,
+            125
+        ]
+    },
+    "1202": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 8,
+        "name": "comboSkillInfo",
+        "narrator_icon": "mmr",
+        "id": 1202,
+        "talk_content": "여기서 모디파이어들의 연계 필살기 애니메이션을 볼 수 있어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "viewBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "comboSkillInfo"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "HeroCooperationView"
+            ]
+        ],
+        "talk_position": [
+            -50,
+            100
+        ]
+    },
+    "1301": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 3,
+        "name": "heroPreviewChange",
+        "narrator_icon": "mmr",
+        "id": 1301,
+        "talk_content": "[연계 필살기 애니메이션] 다시보기 기능이 오픈됐어. 이제 모디파이어들의 연계 필살기 애니메이션을 다시 볼 수 있어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "infoBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "heroPreviewChange"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "heroPreviewMain"
+            ]
+        ],
+        "talk_position": [
+            -380,
+            220
+        ]
+    },
+    "1302": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 2,
+        "name": "heroPreviewMain",
+        "narrator_icon": "mmr",
+        "id": 1302,
+        "talk_content": "여기서 모디파이어들의 연계 필살기 애니메이션을 볼 수 있어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "subPages_",
+            1,
+            "cooperationBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "heroPreviewMain"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "HeroCooperationView"
+            ]
+        ],
+        "talk_position": [
+            -650,
+            -685
+        ]
+    },
+    "1401": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 1,
+        "talk_anchors": 1,
+        "name": "home",
+        "narrator_icon": "mmr",
+        "id": 1401,
+        "talk_content": "관리자, 스티커 시스템이 업데이트됐어. 어서 확인해 봐.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "btn_message"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "home"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "userinfo"
+            ]
+        ],
+        "talk_position": [
+            410,
+            -230
+        ]
+    },
+    "1402": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 0,
+        "talk_anchors": 4,
+        "name": "userinfo",
+        "narrator_icon": "mmr",
+        "id": 1402,
+        "talk_content": "관리자, 자유롭게 스티커를 붙여 봐!",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "illustratedStickerBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "userinfo"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "customStickerMain"
+            ]
+        ],
+        "talk_position": [
+            1371,
+            125
+        ]
+    },
+    "1501": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 1,
+        "talk_anchors": 5,
+        "name": "polyhedronLobby",
+        "narrator_icon": "mmr",
+        "id": 1501,
+        "talk_content": "연산 단말기가 업그레이드를 완료해 정보 탐색 효율이 높아졌어. [차원 오프셋]의 최고 레벨이 40레벨에서 20레벨로 낮아졌고, 획득 가능한 보상 총량은 변하지 않았어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "m_policyBtn"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "polyhedronLobby"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "polyhedronPolicyReward"
+            ]
+        ],
+        "talk_position": [
+            830,
+            68
+        ]
+    },
+    "1502": {
+        "closetime": 5,
+        "priority": 0,
+        "talk_adapt": 1,
+        "talk_anchors": 5,
+        "name": "polyhedronLobby",
+        "narrator_icon": "mmr",
+        "id": 1502,
+        "talk_content": "[차원 곡선] 임무 시스템이 업데이트됐어. 이제 고유 상태의 임무를 제공해 전체적인 임무 처리 과정의 복잡도를 낮췄어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "m_taskBtn"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "polyhedronLobby"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "polyhedronTask"
+            ]
+        ],
+        "talk_position": [
+            776,
+            -151
+        ]
+    },
+    "1601": {
+        "closetime": 5,
+        "priority": 1,
+        "talk_adapt": 1,
+        "talk_anchors": 0,
+        "name": "tetrisGameStageView",
+        "narrator_icon": "mmr",
+        "id": 1601,
+        "talk_content": "여기를 터치하면 스킬의 효과를 볼 수 있어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "guideComponents",
+            "guide_mask"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "tetrisGameStageView"
+            ]
+        ],
+        "skipcondition": [
+            [
+                "uiName",
+                "tetrisGameScorePopView"
+            ]
+        ],
+        "talk_position": [
+            -309,
+            -326
+        ]
+    },
+    "1701": {
+        "closetime": 5,
+        "priority": 1,
+        "talk_adapt": 0,
+        "talk_anchors": 0,
+        "name": "challengeRogueTeamSectionSelectHero",
+        "narrator_icon": "mmr",
+        "id": 1701,
+        "talk_content": "여기서 팀원의 특수 효과를 끌 수 있어.",
+        "narrator_name": "미미르",
+        "guide_component": [
+            "conditionBtn_"
+        ],
+        "mask_component": [],
+        "opencondition": [
+            [
+                "uiName",
+                "challengeRogueTeamSectionSelectHero"
+            ]
+        ],
+        "skipcondition": [],
+        "talk_position": [
+            320,
+            380
+        ]
+    },
+    "get_id_list_by_name": {
+        "challengeRogueTeamSectionSelectHero": [
+            1701
+        ],
+        "tetrisGameStageView": [
+            1601
+        ],
+        "polyhedronLobby": [
+            1501,
+            1502
+        ],
+        "userinfo": [
+            1402
+        ],
+        "heroPreviewMain": [
+            1302
+        ],
+        "heroPreviewChange": [
+            1301
+        ],
+        "comboSkillInfo": [
+            1202
+        ],
+        "newHero": [
+            1201
+        ],
+        "chapterMap": [
+            1101,
+            1102,
+            1103,
+            1104,
+            1105
+        ],
+        "home": [
+            1001,
+            1003,
+            1004,
+            1005,
+            1401
+        ]
+    },
+    "all": [
+        1001,
+        1003,
+        1004,
+        1005,
+        1101,
+        1102,
+        1103,
+        1104,
+        1105,
+        1201,
+        1202,
+        1301,
+        1302,
+        1401,
+        1402,
+        1501,
+        1502,
+        1601,
+        1701
+    ]
+}

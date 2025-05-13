@@ -1,0 +1,142 @@
+{
+    "1001": {
+        "skill_cd": "0",
+        "skill_new_icon": "6108216",
+        "skill_new_description": "터치하면 미사일이 발사되고, 길게 누르면 탄환이 발사된다.",
+        "skill_start_description": "무기를 휘둘러 공격을 시전하고, 적군에게 피해를 준다.",
+        "skill_start_icon": "6108101",
+        "affix_effect_skill_desc": "",
+        "id": 1001,
+        "skill_index": "일반공격",
+        "skill_name": "강철 베기",
+        "affix_effect_skill_list": []
+    },
+    "1002": {
+        "skill_cd": "12",
+        "skill_new_icon": "6108214",
+        "skill_new_description": "고정된 대상에게 여러 차례 레이저를 발사한다.",
+        "skill_start_description": "기체 총기를 사용하여 3연 사격을 시전하고, 적군에게 피해를 준다.",
+        "skill_start_icon": "6108104",
+        "affix_effect_skill_desc": "",
+        "id": 1002,
+        "skill_index": "스킬1",
+        "skill_name": "3중 관통",
+        "affix_effect_skill_list": []
+    },
+    "1003": {
+        "skill_cd": "12",
+        "skill_new_icon": "6108215",
+        "skill_new_description": "활강하기 시작하면 도중에 여러 발의 탄환이 발사된다.",
+        "skill_start_description": "가속 엔진을 가동하여 전방으로 돌진해 착지 후 충격파를 생성하여 적군에게 피해를 준다.",
+        "skill_start_icon": "6108205",
+        "affix_effect_skill_desc": "",
+        "id": 1003,
+        "skill_index": "스킬2",
+        "skill_name": "화염 기습",
+        "affix_effect_skill_list": []
+    },
+    "1004": {
+        "skill_cd": "12",
+        "skill_new_icon": "6108201",
+        "skill_new_description": "고정된 대상에게 베기를 시전한다.",
+        "skill_start_description": "공중으로 날아올라 착지하여 적군에게 베기를 시전하고, 동시에 모든 분노를 소모하여 여러 차례 낙뢰를 생성하고 적군에게 피해를 준다.",
+        "skill_start_icon": "6108212",
+        "affix_effect_skill_desc": "공중 비행 시 지속적으로 분노를 소모한다. 분노 소모 후 자동으로 공중 베기 스킬을 시전하여 비행 형태를 종료한다.",
+        "id": 1004,
+        "skill_index": "스킬 3",
+        "skill_name": "청색 유성",
+        "affix_effect_skill_list": [
+            1001,
+            1002,
+            1003,
+            1004
+        ]
+    },
+    "1005": {
+        "skill_cd": "0",
+        "skill_new_icon": "",
+        "skill_new_description": "",
+        "skill_start_description": "빠르게 적군의 공격을 회피한다.\n비이동 회피를 사용하여 블로킹을 시전한다. 블로킹에 성공 시 분노를 획득하고, 해당 피해에 면역되며 적군을 기절시킨다.\n길게 누르면 지속적으로 블로킹 할 수 있고, 동시에 지속적으로 회피 수치를 소모한다.",
+        "skill_start_icon": "6108305",
+        "affix_effect_skill_desc": "",
+        "id": 1005,
+        "skill_index": "회피",
+        "skill_name": "반응 모드",
+        "affix_effect_skill_list": []
+    },
+    "2001": {
+        "skill_cd": "0",
+        "skill_new_icon": "",
+        "skill_new_description": "",
+        "skill_start_description": "무기를 휘둘러 공격을 시전하고, 적군에게 피해를 준다.",
+        "skill_start_icon": "6109101",
+        "affix_effect_skill_desc": "",
+        "id": 2001,
+        "skill_index": "일반공격",
+        "skill_name": "괴력 휘두르기",
+        "affix_effect_skill_list": []
+    },
+    "2002": {
+        "skill_cd": "6",
+        "skill_new_icon": "6109201",
+        "skill_new_description": "전방으로 일정 시간 맹렬하게 돌진하여 부딪친 적군에게 피해를 준다.",
+        "skill_start_description": "지면에서 밟기를 시전하여 적군에게 피해를 준다.",
+        "skill_start_icon": "6109206",
+        "affix_effect_skill_desc": "",
+        "id": 2002,
+        "skill_index": "스킬1",
+        "skill_name": "균열파",
+        "affix_effect_skill_list": []
+    },
+    "2003": {
+        "skill_cd": "6",
+        "skill_new_icon": "6109261",
+        "skill_new_description": "회전 창, 일정 범위 내의 적군을 전방으로 모으고, 동시에 탄알을 소환하여 적군을 공격한다. 마지막으로 해당 적군을 강타해 피해를 준다.",
+        "skill_start_description": "제자리에서 뛰어올라 착지 시 적군에게 피해를 준다.",
+        "skill_start_icon": "6109205",
+        "affix_effect_skill_desc": "",
+        "id": 2003,
+        "skill_index": "스킬2",
+        "skill_name": "창공 순행",
+        "affix_effect_skill_list": []
+    },
+    "2004": {
+        "skill_cd": "0",
+        "skill_new_icon": "",
+        "skill_new_description": "",
+        "skill_start_description": "해당 스킬을 길게 눌러 질주한다. 질주 과정에서 미사일을 발사하며, 미사일이 적군을 명중하면 피해를 준다.",
+        "skill_start_icon": "6109242",
+        "affix_effect_skill_desc": "질주를 통해 분노를 축적한다. 분노가 다 차면 폭주 모드에 진입한다.",
+        "id": 2004,
+        "skill_index": "스킬 3",
+        "skill_name": "붉은 돌격",
+        "affix_effect_skill_list": [
+            2002,
+            2003
+        ]
+    },
+    "2005": {
+        "skill_cd": "0",
+        "skill_new_icon": "",
+        "skill_new_description": "",
+        "skill_start_description": "빠르게 적군의 공격을 회피한다.",
+        "skill_start_icon": "6109305",
+        "affix_effect_skill_desc": "",
+        "id": 2005,
+        "skill_index": "회피",
+        "skill_name": "까치걸음",
+        "affix_effect_skill_list": []
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+    ]
+}

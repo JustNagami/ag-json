@@ -1,0 +1,30 @@
+{
+    "1": {
+        "goods_des": "[달콤한 음식 감사권]을 소모하여, 랜덤으로 조건을 만족하는 식재료 한 쌍 제거하기",
+        "name": "소멸 망치 ",
+        "goods_icon_id": 51033,
+        "coin_id": 53107,
+        "coin_num": 1,
+        "goods_id": 1,
+        "path": "TextureConfig/Item_l",
+        "extra_param": [
+            1
+        ]
+    },
+    "2": {
+        "goods_des": "[달콤한 음식 감사권]을 소모하여, 캐터 필러의 모든 식재료 제거 및 5초간 서빙 중지하기",
+        "name": "아이스 건 ",
+        "goods_icon_id": 51034,
+        "coin_id": 53107,
+        "coin_num": 2,
+        "goods_id": 2,
+        "path": "TextureConfig/Item_l",
+        "extra_param": [
+            5
+        ]
+    },
+    "all": [
+        1,
+        2
+    ]
+}

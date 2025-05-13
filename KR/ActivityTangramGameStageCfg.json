@@ -1,0 +1,322 @@
+{
+    "1001": {
+        "clue_num": 3,
+        "name": "주문 기록",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "음식 주문이 생성되면 <color=#E78300>푸드 트럭</color>으로 발송된다.",
+        "stage_type": 1,
+        "pre_stage": 0,
+        "desc": "화단 구역 18번 테이블의 음식 서비스 단말기에는 이미 완료된 주문 기록이 하나 있다. 주문 내용은 [바다의 별 콜라보 간식 모음x1]이며, 두 번째 주문 시 반값 연동 할인권을 증정한다.",
+        "ori_pos": "",
+        "stageID": 1001,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1002": {
+        "clue_num": 4,
+        "name": "잃어버린 할인권",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>배달원</color>이 주문을 마치고 푸드 트럭으로 돌아갈 준비를 한다. 배달원을 찾으려면 먼저 소속 <color=#E78300>푸드 트럭</color>의 상호명을 알아야 한다.",
+        "stage_type": 1,
+        "pre_stage": 1001,
+        "desc": "화단에서 발견된 바다의 별 콜라보 간식 반값 할인권, 아직 사용자가 연동하지 않은 것 같다. 아무래도 배달원이 여기에 떨어뜨리고 갔나 보다.",
+        "ori_pos": "",
+        "stageID": 1002,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1003": {
+        "clue_num": 5,
+        "name": "놀이공원 지도",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "놀이공원 지도에서 상호명에 따라 <color=#E78300>가게의 구체적인 위치</color>를 찾을 수 있고, 배달원이 소속된 푸드 트럭의 위치를 확인할 수 있다.",
+        "stage_type": 1,
+        "pre_stage": 1002,
+        "desc": "놀이공원 서비스 단말기 내 바다의 별 놀이공원 지도, 브랜드명을 입력하면 해당 브랜드 산하 푸드 트럭 소재 위치를 조회할 수 있다.",
+        "ori_pos": "",
+        "stageID": 1003,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1004": {
+        "clue_num": 5,
+        "name": "안내판",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>푸드 트럭</color> 내 해당 주문 음식이 <color=#E78300>매진</color>되어 <color=#E78300>배정</color>을 신청해야 한다.",
+        "stage_type": 1,
+        "pre_stage": 1003,
+        "desc": "푸드 트럭 앞의 안내판, 가장 눈에 띄는 위치에 이렇게 적혀있다. [본 푸드 트럭의 바다의 별 콜라보 간식 주문이 오늘 매진되었습니다. 필요하시면 백엔드에서 다른 푸드 트럭에 배정하여 음식 배송을 진행할 예정이니 시간이 오래 걸리더라도 기다려 주세요.]",
+        "ori_pos": "",
+        "stageID": 1004,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1005": {
+        "clue_num": 5,
+        "name": "내부 조정 기록",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>배정</color> 신청 생성이 완료되어 담당 <color=#E78300>배달원</color>에게 배치되었다.",
+        "stage_type": 1,
+        "pre_stage": 1004,
+        "desc": "식당칸 서비스 백엔드 조정 기록, 3호 식당칸이 2호 식당칸에 주문 조정 신청을 발송했고, 조정 상태는 완료입니다.",
+        "ori_pos": "",
+        "stageID": 1005,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1006": {
+        "clue_num": 6,
+        "name": "홍보 포스터",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "포스터 내용에 따라 <color=#E78300>구체적인 상호명</color>을 알 수 있으며, <color=#E78300>해당 가게의 구체적인 위치</color>를 조회해야 한다.",
+        "stage_type": 1,
+        "pre_stage": 1005,
+        "desc": "푸드 트럭에 부착된 브랜드 홍보 포스터, 가장 눈에 띄는 곳에 브랜드 광고 문구가 적혀 있다. [황금빛 해안, 여름 파트너!]",
+        "ori_pos": "",
+        "stageID": 1006,
+        "answer": "",
+        "conclusion": ""
+    },
+    "1007": {
+        "clue_num": 0,
+        "name": "",
+        "conclusion_desc": "",
+        "stage_type": 2,
+        "pre_stage": 0,
+        "desc": "",
+        "stageID": 1007,
+        "ori_pos": [
+            1001,
+            1002,
+            1003,
+            1004,
+            1005,
+            1006
+        ],
+        "answer": [
+            1001,
+            1004,
+            1005,
+            1002,
+            1006,
+            1003
+        ],
+        "fixed_pos": [
+            1001,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "conclusion": [
+            470001,
+            470002,
+            470003,
+            470004
+        ],
+        "conclusion_list": [
+            [
+                1001,
+                1004,
+                1005
+            ],
+            [
+                1002
+            ],
+            [
+                1003,
+                1006
+            ]
+        ]
+    },
+    "2001": {
+        "clue_num": 5,
+        "name": "주문 상태",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>주문을 완료</color>한 아폴론이 푸드 트럭로 돌아가 또 <color=#E78300>다른 배송 주문</color>을 받았다.",
+        "stage_type": 1,
+        "pre_stage": 0,
+        "desc": "푸드 트럭 서비스 백엔드에는 해당 푸드 트럭의 모든 운송장이 진행 중으로 표시되어 있다. 일부 인공 운송장 책임자는 [배달원A]이다.",
+        "ori_pos": "",
+        "stageID": 2001,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2002": {
+        "clue_num": 6,
+        "name": "보온 박스",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>다른 배송 주문</color>을 받은 아폴론은 현재 놀이공원에서 배송을 진행하고 있다. 주문이 많아 그의 위치를 확인할 수 없다.",
+        "stage_type": 1,
+        "pre_stage": 2001,
+        "desc": "푸드 트럭 옆 선반에 보온 박스 3개가 놓여 있다. 남은 공간에 하나 더 놓을 수 있을 것 같은데 누군가 주문을 받고 배달하러 나간 것 같다.",
+        "ori_pos": "",
+        "stageID": 2002,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2003": {
+        "clue_num": 6,
+        "name": "운송 상태",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>은방울단 체포에서 벗어난</color> 아폴론은 정오부터 푸드 트럭의 간식 배달원으로 일하며 <color=#E78300>주문 배송</color>을 완료했다.",
+        "stage_type": 1,
+        "pre_stage": 2002,
+        "desc": "푸드 트럭의 운송 게시판에 따르면 18번 테이블 주문을 막 마친 [배달원A]가 등록한 시간은 오늘 정오이다.",
+        "ori_pos": "",
+        "stageID": 2003,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2004": {
+        "clue_num": 6,
+        "name": "놀이공원 방송",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "놀이공원이 방문객에게 <color=#E78300>개장되기 전</color>에 아폴론은 놀이공원 테마 배경 음악 녹음에 참여했다.",
+        "stage_type": 1,
+        "pre_stage": 2003,
+        "desc": "놀이공원 내에 지속적으로 방송되고 있는 음악 페스티벌 테마 배경 음악은 놀이공원 개장 전에 녹음된 내용일 것이다. 자세히 판별해 보면 아폴론의 연주 습관과 비슷한 구간이 있다.",
+        "ori_pos": "",
+        "stageID": 2004,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2005": {
+        "clue_num": 7,
+        "name": "고객의 대화",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>오늘 아침</color> 개장 시, 아폴론이 입장 질서를 유지하는 걸 도왔다.",
+        "stage_type": 1,
+        "pre_stage": 2004,
+        "desc": "테이블에서 두 고객이 이야기를 나누고 있는데, 대강의 내용은 입장할 때 만난 노란 머리 직원이 울고 있는 아이를 재빨리 달래서 입장 행렬이 다시 원활해 졌다는 것이었다.",
+        "ori_pos": "",
+        "stageID": 2005,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2006": {
+        "clue_num": 7,
+        "name": "서비스형 로봇",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "<color=#E78300>오전</color>에 은방울 기사가 놀이공원에서 우연히 아폴론을 만났지만, 아폴론이 <color=#E78300>도주</color>한 것으로 보인다.",
+        "stage_type": 1,
+        "pre_stage": 2005,
+        "desc": "로봇이 신고한 기록에 새로 추가된 내용이 있는데, 오늘 여기사 무리가 놀이공원 직원 한 명을 뒤쫓다가 두 사람이 산 콜라보 간식 세트가 땅에 엎어졌다면서 놀이공원 측에서 관리를 강화하기를 희망한다는 것이었다.",
+        "ori_pos": "",
+        "stageID": 2006,
+        "answer": "",
+        "conclusion": ""
+    },
+    "2007": {
+        "clue_num": 0,
+        "name": "",
+        "conclusion_desc": "",
+        "stage_type": 2,
+        "pre_stage": 0,
+        "desc": "",
+        "stageID": 2007,
+        "ori_pos": [
+            2001,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006
+        ],
+        "answer": [
+            2004,
+            2005,
+            2006,
+            2003,
+            2001,
+            2002
+        ],
+        "fixed_pos": [
+            2004,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "conclusion": [
+            470005,
+            470006,
+            470007,
+            470008
+        ],
+        "conclusion_list": [
+            [
+                2004
+            ],
+            [
+                2005,
+                2006,
+                2003
+            ],
+            [
+                2001,
+                2002
+            ]
+        ]
+    },
+    "3001": {
+        "clue_num": 3,
+        "name": "특수 물감",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "",
+        "stage_type": 3,
+        "pre_stage": 0,
+        "desc": "상자에 든 물감을 물총에 채운 후 적중된 참가자는 탈락한다.",
+        "ori_pos": "",
+        "stageID": 3001,
+        "answer": "",
+        "conclusion": ""
+    },
+    "3002": {
+        "clue_num": 3,
+        "name": "최종 대상",
+        "fixed_pos": "",
+        "conclusion_list": "",
+        "conclusion_desc": "",
+        "stage_type": 3,
+        "pre_stage": 0,
+        "desc": "보물 3개가 적절하게 합쳐졌지만 아무리 봐도 난폭하게 한데 비볐을 뿐이다.",
+        "ori_pos": "",
+        "stageID": 3002,
+        "answer": "",
+        "conclusion": ""
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        3001,
+        3002
+    ]
+}

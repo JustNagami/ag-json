@@ -1,0 +1,1504 @@
+{
+    "5130201": {
+        "monster_level": 80,
+        "name": "불해",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024504,
+        "background_1": "A07",
+        "tips": "어떤 때는 무지가 가장 큰 행복이다...\n기억해라. 이곳에 들어오는 자는 모든 희망을 포기해야 한다.",
+        "map": "5130201",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5130201,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            7000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130202": {
+        "monster_level": 80,
+        "name": "우연",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024501,
+        "background_1": "K10",
+        "tips": "이 전설의 땅에 발을 들이는 것은 계획된 [우연]이다. 여기가 처음이라면 다음 규칙을 따라야 한다. 도움 획득: 적군이 받는 얼음 속성 피해 증가, 시노우 모디파이어 피해 증가.",
+        "map": "5130202",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130202,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            21000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130203": {
+        "monster_level": 80,
+        "name": "엽기",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024502,
+        "background_1": "K11",
+        "tips": "고양이처럼 사방을 수색하고, 햄스터처럼 물건을 약탈해 보관한다. 자물쇠를 채운 방문을 열지 마라. 물건을 방 밖으로 가져가지 마라. 도움 획득: 적군이 받는 얼음 속성 피해 증가, 모디파이어 분노 소모량 감소.",
+        "map": "5130203",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130203,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130204": {
+        "monster_level": 80,
+        "name": "규칙",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024503,
+        "background_1": "K12",
+        "tips": "하지만 괴상한 것은 절대 게임이 아니다. 규칙을 위반한 자는 구제할 수 없다. 불행히도 규칙을 어겼다면 당신이 할 수 있는 것은 기도뿐이다. 도움 획득: 적군이 받는 얼음 속성 피해 대폭 증가.",
+        "map": "5130204",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130204,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            9000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130601": {
+        "monster_level": 80,
+        "name": "수",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024506,
+        "background_1": "K10",
+        "tips": "선인의 검술을 충실하게 모방하여 검술의 기초를 깨닫는다.\n도움 획득: 모디파이어 분노 획득률 증가.",
+        "map": "5130601",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130601,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            100,
+            1000,
+            14000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130602": {
+        "monster_level": 80,
+        "name": "파",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024507,
+        "background_1": "K10",
+        "tips": "기초를 바탕으로 이해하고, 선인이 얻은 것에서 검술을 완성한다. 도움 획득: 모디파이어 크리티컬 피해 증가.",
+        "map": "5130602",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130602,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            19000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130603": {
+        "monster_level": 80,
+        "name": "이",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024508,
+        "background_1": "K09",
+        "tips": "배운 것을 정리하여 고유의 기술에 얽매이지 않고 자신의 일파를 형성한다. 도움 획득: 타오르는 미혹의 불·가구쓰치가 몬스터 처치 시 추가 분노 및 HP 획득.",
+        "map": "5130603",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130603,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5130604": {
+        "monster_level": 80,
+        "name": "마음 단련",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024509,
+        "background_1": "A07",
+        "tips": "기술이 노련하고, 마음이 안정되면 날이 선다.",
+        "map": "5130604",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5130604,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            9000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140801": {
+        "monster_level": 80,
+        "name": "플라이급",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024510,
+        "background_1": "L01",
+        "tips": "고작 이 정도인가? 간지럽군. 도움 획득: 적군의 빛 속성 저항 감소, 천원 모디파이어의 크리티컬 피해 증가",
+        "map": "5140801",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140801,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            23000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140802": {
+        "monster_level": 80,
+        "name": "밴텀급",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024511,
+        "background_1": "L02",
+        "tips": "격투는 누구 목청이 더 큰지 대결하는 게 아니다. 도움 획득: 적군의 빛 속성 저항 감소, 빛 속성으로 적군 처치 시 모든 적군 방어 감소",
+        "map": "5140802",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140802,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            23000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140803": {
+        "monster_level": 80,
+        "name": "페더급",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024512,
+        "background_1": "L01a",
+        "tips": "패배할 때의 자세를 생각해 두시지! 도움 획득: 적군의 빛 속성 저항 감소, 빛 속성으로 적군 처치 시 모든 적군이 추가 피해를 1회 받음",
+        "map": "5140803",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140803,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            32500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140804": {
+        "monster_level": 80,
+        "name": "헤비급",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024513,
+        "background_1": "A07",
+        "tips": "네 도전은 여기까지. 이제부터는 나의 경기다.",
+        "map": "5140804",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5140804,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            9000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140901": {
+        "monster_level": 80,
+        "name": "테스터",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024514,
+        "background_1": "L04",
+        "tips": "그가 이곳에 오기로 한 이유는 그저 따뜻한 밥을 먹기 위해서다. 도움 획득: 천원 모디파이어의 크리티컬 피해 증가",
+        "map": "5140901",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140901,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            26000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140902": {
+        "monster_level": 80,
+        "name": "잔폐물",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024515,
+        "background_1": "L04a",
+        "tips": "성분은 동일하지만 다른 등급으로 평가된다. 도움 획득: 모디파이어의 신능 획득률 증가",
+        "map": "5140902",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140902,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            60000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140903": {
+        "monster_level": 80,
+        "name": "파이프라인",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024516,
+        "background_1": "L03",
+        "tips": "매일 매일 반복되는 작업, 파이프라인은 어쩌면 공장에만 있는 게 아닐지도 모른다. 도움 획득: 물 속성 공격 명중 시 추가로 피해를 1회 줌",
+        "map": "5140903",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140903,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            39000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5140904": {
+        "monster_level": 80,
+        "name": "고난",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024517,
+        "background_1": "A07",
+        "tips": "고난 속에서 발악하는 인간이 가장 잘하는 건, 바로 고난 속에서 신을 만드는 것이다.",
+        "map": "5140904",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5140904,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            9000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150401": {
+        "monster_level": 80,
+        "name": "단행",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024518,
+        "background_1": "K15",
+        "tips": "놀이를 즐겨야 할 나이, 작고 보드라운 손은 칼을 휘두르다 물집이 잡혔다. 도움 획득: 환경의 영향으로 적군이 받는 번개 속성 피해 증가",
+        "map": "5150401",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5150401,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            126000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150402": {
+        "monster_level": 80,
+        "name": "극기",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024519,
+        "background_1": "K15",
+        "tips": "면허개전의 신분에도 그녀는 자만하지 않았다. 고된 훈련도 그녀를 포기하게 할 순 없었다. 도움 획득: 환경의 영향으로 모디파이어의 신능 획득률 증가",
+        "map": "5150402",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5150402,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            33500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150403": {
+        "monster_level": 80,
+        "name": "절약",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024520,
+        "background_1": "K15",
+        "tips": "천재는 늘 그렇다. 칭찬도 부족함이 없고, 질투와 원한 또한 부족함이 없다. 하지만 그녀는 모든 도전자에게 예의를 갖춘다. 도움 획득: 환경의 영향으로 시노우 진영 모디파이어의 피해 증가, 공격 시 추가로 피해를 1회 줌",
+        "map": "5150403",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5150403,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            20000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150404": {
+        "monster_level": 80,
+        "name": "검심",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024521,
+        "background_1": "A07",
+        "tips": "더는 헤매지 않으며, 더는 공허하지 않다. 심성이 칼날처럼 강인하고 검법은 번개처럼 맹렬하다.",
+        "map": "5150404",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5150404,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            13000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150601": {
+        "monster_level": 80,
+        "name": "성벽 위",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024522,
+        "background_1": "K14",
+        "tips": "그들의 책임은 막중하다. 그들은 가장 위험한 전선을 지킨다. 도움 획득: 환경의 영향으로 적군이 받는 물리 속성 피해 증가",
+        "map": "5150601",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5150601,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            105000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150602": {
+        "monster_level": 80,
+        "name": "초야에서",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024523,
+        "background_1": "K14",
+        "tips": "그들은 평범한 신분이지만 가족을 위한 검을 뽑아 들었다. 도움 획득: 환경의 영향으로 모디파이어의 신능 획득률 증가",
+        "map": "5150602",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5150602,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            20500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150603": {
+        "monster_level": 80,
+        "name": "거리에서",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024524,
+        "background_1": "K14",
+        "tips": "그늘은 약하지 않다. 그들은 최선을 다해 충고하고 힘을 바쳤다. 도움 획득: 환경의 영향으로 나일 진영 모디파이어 피해 증가, 공격 시 추가로 피해를 1회 줌",
+        "map": "5150603",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5150603,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            17000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5150604": {
+        "monster_level": 80,
+        "name": "시모교우 지역",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024525,
+        "background_1": "A07",
+        "tips": "혼란스럽고, 혼잡하고, 탐욕스럽고, 성실하고, 다정하고, 용감한... 사람들이 모두 여기 있다.",
+        "map": "5150604",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5150604,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170601": {
+        "monster_level": 80,
+        "name": "진동",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024526,
+        "background_1": "I10",
+        "tips": "미약한 진동, 감지한 베인 에너지 역치는 비교적 낮으며, 인원 피해나 재산 손실은 없다. 도움 획득: 환경의 영향으로 적군이 받는 물리 속성 피해 증가",
+        "map": "5170601",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5170601,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            55000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170602": {
+        "monster_level": 80,
+        "name": "균열",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024527,
+        "background_1": "I08",
+        "tips": "지표층과 에너지층 사이의 틈, 범위 6.33*2.09로 우선 처리해야 한다. 도움 획득: 환경의 영향으로 모디파이어 에너지 획득률 증가",
+        "map": "5170602",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5170602,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            18000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170603": {
+        "monster_level": 80,
+        "name": "함몰",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024528,
+        "background_1": "I10",
+        "tips": "일부 구역의 모의 구성이 해제되어 인원 피해가 발생. 우선 처리해야 한다. 도움 획득: 환경의 영향으로 나일 진영 모디파이어 피해 증가, 공격 시 추가로 피해를 1회 줌",
+        "map": "5170603",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5170603,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            14000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170604": {
+        "monster_level": 80,
+        "name": "알 수 없음",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024529,
+        "background_1": "A07",
+        "tips": "앞길을 알 수 없게 만드는 것, 바로 잘못된 정보가 가져오는 결과이다.",
+        "map": "5170604",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5170604,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170701": {
+        "monster_level": 80,
+        "name": "진동",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024530,
+        "background_1": "A08",
+        "tips": "미약한 진동, 감지한 베인 에너지 역치는 비교적 낮으며, 인원 피해나 재산 손실은 없다. 도움 획득: 환경의 영향으로 적군이 받는 빛 속성 피해 증가",
+        "map": "5170701",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5170701,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            18000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170702": {
+        "monster_level": 80,
+        "name": "균열",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024531,
+        "background_1": "A08",
+        "tips": "지표층과 에너지층 사이의 틈, 범위 6.33*2.09로 우선 처리해야 한다. 도움 획득: 환경의 영향으로 모디파이어 신능 획득률 증가",
+        "map": "5170702",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5170702,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            9000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170703": {
+        "monster_level": 80,
+        "name": "함몰",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024532,
+        "background_1": "A08",
+        "tips": "일부 구역의 모의 구성이 해제되어 인원 피해가 발생. 우선 처리해야 한다. 도움 획득: 환경의 영향으로 위그드라실 진영 모디파이어 피해 증가, 공격 시 추가로 피해를 1회 줌",
+        "map": "5170703",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5170703,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            10000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5170704": {
+        "monster_level": 80,
+        "name": "알 수 없음",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024533,
+        "background_1": "A07",
+        "tips": "앞길을 알 수 없게 만드는 것, 바로 잘못된 정보가 가져오는 결과이다.",
+        "map": "5170704",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5170704,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            8600
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5180201": {
+        "monster_level": 80,
+        "name": "진동",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024534,
+        "background_1": "I09",
+        "tips": "미약한 진동, 감지한 베인 에너지 역치는 비교적 낮으며, 인원 피해나 재산 손실은 없다. 도움 획득: 환경의 영향으로 적군이 받는 어둠 속성 피해 증가",
+        "map": "5180201",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5180201,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            80000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5180202": {
+        "monster_level": 80,
+        "name": "균열",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024535,
+        "background_1": "I09a",
+        "tips": "지표층과 에너지층 사이의 틈, 범위 6.33*2.09로 우선 처리해야 한다. 도움 획득: 환경의 영향으로 모디파이어 에너지 획득률 증가",
+        "map": "5180202",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5180202,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            20500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5180203": {
+        "monster_level": 80,
+        "name": "함몰",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024536,
+        "background_1": "I09",
+        "tips": "일부 구역의 모의 구성이 해제되어 인원 피해가 발생. 우선 처리해야 한다. 도움 획득: 환경의 영향으로 올림푸스 진영 모디파이어 피해 증가, 공격 시 추가로 피해를 1회 줌",
+        "map": "5180203",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5180203,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            18500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5180204": {
+        "monster_level": 80,
+        "name": "알 수 없음",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024537,
+        "background_1": "A07",
+        "tips": "앞길을 알 수 없게 만드는 것, 바로 잘못된 정보가 가져오는 결과이다.",
+        "map": "5180204",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5180204,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5180205": {
+        "monster_level": 80,
+        "name": "진동",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024570,
+        "background_1": "A08",
+        "tips": "미약한 진동, 감지한 베인 에너지 역치는 비교적 낮으며, 인원 피해나 재산 손실은 없다. 도움 획득: 환경의 영향으로 적군이 받는 빛 속성 피해 증가",
+        "map": "5170701",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5180205,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            80000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5180206": {
+        "monster_level": 80,
+        "name": "균열",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024571,
+        "background_1": "A08",
+        "tips": "지표층과 신능층 사이의 틈, 범위 6.33*2.09로 우선 처리해야 한다. 도움 획득: 환경의 영향으로 모디파이어 신능 획득률 증가",
+        "map": "5170702",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5180206,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            20500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5180207": {
+        "monster_level": 80,
+        "name": "함몰",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024572,
+        "background_1": "A08",
+        "tips": "일부 구역의 모의 구성이 해제되어 인원 피해가 발생. 우선 처리해야 한다. 도움 획득: 환경의 영향으로 위그드라실 진영 모디파이어 피해 증가, 공격 시 추가로 피해를 1회 줌",
+        "map": "5170703",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5180207,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            18500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5180208": {
+        "monster_level": 80,
+        "name": "알 수 없음",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024573,
+        "background_1": "A07",
+        "tips": "앞길을 알 수 없게 만드는 것, 바로 잘못된 정보가 가져오는 결과이다.",
+        "map": "5170704",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5180208,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5191101": {
+        "monster_level": 80,
+        "name": "진동",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024538,
+        "background_1": "F10",
+        "tips": "미약한 진동, 감지한 베인 에너지 역치는 비교적 낮으며, 인원 피해나 재산 손실은 없다. 도움 획득: 환경의 영향으로 적군이 받는 어둠 속성 피해 증가",
+        "map": "5191101",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5191101,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            88000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5191102": {
+        "monster_level": 80,
+        "name": "균열",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024539,
+        "background_1": "F08a",
+        "tips": "지표층과 에너지층 사이의 틈, 범위 6.33*2.09로 우선 처리해야 한다. 도움 획득: 환경의 영향으로 모디파이어 신능 획득률 증가",
+        "map": "5191102",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5191102,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            28000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5191103": {
+        "monster_level": 80,
+        "name": "함몰",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024540,
+        "background_1": "F08c",
+        "tips": "일부 구역의 모의 구성이 해제되어 인원 피해가 발생. 우선 처리해야 한다. 도움 획득: 환경의 영향으로 올림푸스 진영 모디파이어 피해 증가, 공격 시 추가로 피해를 1회 줌",
+        "map": "5191103",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5191103,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            30000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5191104": {
+        "monster_level": 80,
+        "name": "알 수 없음",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024541,
+        "background_1": "A07",
+        "tips": "앞길을 알 수 없게 만드는 것, 바로 잘못된 정보가 가져오는 결과이다.",
+        "map": "5191104",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5191104,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            17000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5191201": {
+        "monster_level": 80,
+        "name": "진동",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024542,
+        "background_1": "F09",
+        "tips": "미약한 진동, 감지한 베인 에너지 역치는 비교적 낮으며, 인원 피해나 재산 손실은 없다. 도움 획득: 환경의 영향으로 적군이 받는 물리 속성 피해 증가",
+        "map": "5191201",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5191201,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            82000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5191202": {
+        "monster_level": 80,
+        "name": "균열",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024543,
+        "background_1": "F10a",
+        "tips": "지표층과 에너지층 사이의 틈, 범위 6.33*2.09로 우선 처리해야 한다. 도움 획득: 환경의 영향으로 모디파이어 분노 획득률 증가",
+        "map": "5191202",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5191202,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            26000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5191203": {
+        "monster_level": 80,
+        "name": "함몰",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024544,
+        "background_1": "F09",
+        "tips": "일부 구역의 모의 구성이 해제되어 인원 피해가 발생. 우선 처리해야 한다. 도움 획득: 환경의 영향으로 올림푸스 진영 모디파이어 피해 증가, 공격 시 추가로 피해를 1회 줌",
+        "map": "5191203",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5191203,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            28000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5191204": {
+        "monster_level": 80,
+        "name": "알 수 없음",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024545,
+        "background_1": "A07",
+        "tips": "앞길을 알 수 없게 만드는 것, 바로 잘못된 정보가 가져오는 결과이다.",
+        "map": "5191204",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5191204,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            16000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5200401": {
+        "monster_level": 80,
+        "name": "진동",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024546,
+        "background_1": "L02",
+        "tips": "미약한 진동, 감지한 베인 에너지 역치는 비교적 낮으며, 인원 피해나 재산 손실은 없다. 도움 획득: 환경의 영향으로 <color=#E78300>적군이 받는 바람 속성 피해 증가</color>",
+        "map": "5200401",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5200401,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            50000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5200402": {
+        "monster_level": 80,
+        "name": "균열",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024547,
+        "background_1": "L07",
+        "tips": "지표층과 에너지층 사이의 틈, 범위 6.33*2.09로 우선 처리해야 한다. 도움 획득: 환경의 영향으로 <color=#E78300>모디파이어 신능 획득률 증가</color>",
+        "map": "5200402",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5200402,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            25000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5200403": {
+        "monster_level": 80,
+        "name": "함몰",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024548,
+        "background_1": "L02",
+        "tips": "일부 구역의 모의 구성이 해제되어 인원 피해가 발생. 우선 처리해야 한다. 도움 획득: 환경의 영향으로 <color=#E78300>아스테리즘 진영 모디파이어 피해 증가</color>, 공격 시 추가로 피해를 1회 줌",
+        "map": "5200403",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5200403,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            500,
+            1000,
+            27000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5200404": {
+        "monster_level": 80,
+        "name": "알 수 없음",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024549,
+        "background_1": "A07",
+        "tips": "앞길을 알 수 없게 만드는 것, 바로 잘못된 정보가 가져오는 결과이다.",
+        "map": "5200404",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5200404,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            14500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5200501": {
+        "monster_level": 80,
+        "name": "진동",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024550,
+        "background_1": "L02a",
+        "tips": "미약한 진동, 감지한 베인 에너지 역치는 비교적 낮으며, 인원 피해나 재산 손실은 없다. 도움 획득: 환경의 영향으로 <color=#E78300>적군이 받는 바람 속성 피해 증가</color>",
+        "map": "5200501",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5200501,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            50000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5200502": {
+        "monster_level": 80,
+        "name": "균열",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024551,
+        "background_1": "L05",
+        "tips": "지표층과 에너지층 사이의 틈, 범위 6.33*2.09로 우선 처리해야 한다. 도움 획득: 환경의 영향으로 <color=#E78300>모디파이어 신능 획득률 증가</color>",
+        "map": "5200502",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5200502,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            25000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5200503": {
+        "monster_level": 80,
+        "name": "함몰",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024552,
+        "background_1": "L06",
+        "tips": "일부 구역의 모의 구성이 해제되어 인원 피해가 발생. 우선 처리해야 한다. 도움 획득: 환경의 영향으로 <color=#E78300>아스테리즘 진영 모디파이어 피해 증가</color>, 공격 시 추가로 피해를 1회 줌",
+        "map": "5200503",
+        "need_default_team": 1,
+        "user_exp": 30,
+        "id": 5200503,
+        "hero_exp": 60,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            27000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5200504": {
+        "monster_level": 80,
+        "name": "알 수 없음",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024553,
+        "background_1": "A07",
+        "tips": "앞길을 알 수 없게 만드는 것, 바로 잘못된 정보가 가져오는 결과이다.",
+        "map": "5200504",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5200504,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            14500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5250301": {
+        "monster_level": 80,
+        "name": "이상",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "I18c",
+        "tips": "HP 에너지 잔류 감지됨, 이상 수치가 낮습니다. 도움 획득: 환경의 영향을 받아 <color=#E78300>적군이 받는 불 속성 피해가 증가합니다.</color>",
+        "map": "5250301",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5250301,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            50000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5250302": {
+        "monster_level": 80,
+        "name": "경고",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "I18c",
+        "tips": "사고로 인해 전방이 붕괴되었습니다. 인근 주민들은 접근을 자제해 주시기 바랍니다. 도움 획득: 환경의 영향을 받아 <color=#E78300>모디파이어의 신능 획득률이 증가합니다.</color>",
+        "map": "5250302",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5250302,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            25000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5250303": {
+        "monster_level": 80,
+        "name": "봉쇄",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "I18c",
+        "tips": "주민 대피 완료, 봉쇄선 배치 완료. 도움 획득: 환경의 영향을 받아 <color=#E78300>아스테리즘 진영의 모디파이어 피해가 증가하며 공격 시 추가로 피해를 1회 줍니다.</color>",
+        "map": "5250303",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5250303,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            27000
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "5250304": {
+        "monster_level": 80,
+        "name": "함락",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "A07",
+        "tips": "거대한 그림자가 언덕에서 뛰어내리며, 땅이 갈라지는 비명과 함께 거미줄 같은 금이 갔습니다.",
+        "map": "5250304",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5250304,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            14500
+        ],
+        "team_type": [
+            201,
+            0
+        ]
+    },
+    "all": [
+        5130201,
+        5130202,
+        5130203,
+        5130204,
+        5130601,
+        5130602,
+        5130603,
+        5130604,
+        5140801,
+        5140802,
+        5140803,
+        5140804,
+        5140901,
+        5140902,
+        5140903,
+        5140904,
+        5150401,
+        5150402,
+        5150403,
+        5150404,
+        5150601,
+        5150602,
+        5150603,
+        5150604,
+        5170601,
+        5170602,
+        5170603,
+        5170604,
+        5170701,
+        5170702,
+        5170703,
+        5170704,
+        5180201,
+        5180202,
+        5180203,
+        5180204,
+        5180205,
+        5180206,
+        5180207,
+        5180208,
+        5191101,
+        5191102,
+        5191103,
+        5191104,
+        5191201,
+        5191202,
+        5191203,
+        5191204,
+        5200401,
+        5200402,
+        5200403,
+        5200404,
+        5200501,
+        5200502,
+        5200503,
+        5200504,
+        5250301,
+        5250302,
+        5250303,
+        5250304
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "101": {
+        "scene_show_name": "아이돌 매치 실내 무대",
+        "diy_scene_prefab": "WT01",
+        "cam_director_prefab": "WT01_VCam",
+        "id": 101,
+        "scene_name": "WT01",
+        "stage_picture": "mng_001"
+    },
+    "102": {
+        "scene_show_name": "아이돌 매치 활동실",
+        "diy_scene_prefab": "WT02",
+        "cam_director_prefab": "WT02_VCam",
+        "id": 102,
+        "scene_name": "WT02",
+        "stage_picture": "mng_002"
+    },
+    "103": {
+        "scene_show_name": "해변 음악 페스티벌 무대",
+        "diy_scene_prefab": "WT03",
+        "cam_director_prefab": "WT03_VCam",
+        "id": 103,
+        "scene_name": "WT03",
+        "stage_picture": "mng_003"
+    },
+    "104": {
+        "scene_show_name": "키비타바 실내 무대",
+        "diy_scene_prefab": "WT04",
+        "cam_director_prefab": "WT04_VCam",
+        "id": 104,
+        "scene_name": "WT04",
+        "stage_picture": "mng_004"
+    },
+    "all": [
+        101,
+        102,
+        103,
+        104
+    ]
+}

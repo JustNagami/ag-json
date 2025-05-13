@@ -1,0 +1,130 @@
+{
+    "101": {
+        "type_icon": "icon_skineffect_home",
+        "tag_title": "메인 화면 배경",
+        "type_desc": "배경 효과",
+        "type": 1,
+        "id": 101,
+        "tag_desc": "메인 화면 배경 변경"
+    },
+    "102": {
+        "type_icon": "icon_skineffect_home",
+        "tag_title": "배경 모션",
+        "type_desc": "장면 효과",
+        "type": 1,
+        "id": 102,
+        "tag_desc": "메인 화면 배경 모션 변경"
+    },
+    "201": {
+        "type_icon": "icon_skineffect_performance",
+        "tag_title": "필살기 연출",
+        "type_desc": "연출 효과",
+        "type": 2,
+        "id": 201,
+        "tag_desc": "개인 필살기 연출 변경"
+    },
+    "202": {
+        "type_icon": "icon_skineffect_performance",
+        "tag_title": "승리 포즈",
+        "type_desc": "연출 효과",
+        "type": 2,
+        "id": 202,
+        "tag_desc": "승리 포즈 연출 변경"
+    },
+    "203": {
+        "type_icon": "icon_skineffect_performance",
+        "tag_title": "전투 대기 포즈",
+        "type_desc": "연출 효과",
+        "type": 2,
+        "id": 203,
+        "tag_desc": "전투 대기 포즈 연출 변경"
+    },
+    "401": {
+        "type_icon": "icon_skineffect_key",
+        "tag_title": "웨폰 외형",
+        "type_desc": "웨폰 효과",
+        "type": 4,
+        "id": 401,
+        "tag_desc": "웨폰 외형 디자인 변경"
+    },
+    "402": {
+        "type_icon": "icon_skineffect_key",
+        "tag_title": "웨폰 표현 효과",
+        "type_desc": "웨폰 효과",
+        "type": 4,
+        "id": 402,
+        "tag_desc": "웨폰 표현 효과 변경"
+    },
+    "501": {
+        "type_icon": "icon_skineffect_action",
+        "tag_title": "교신 모션",
+        "type_desc": "교신 모션",
+        "type": 5,
+        "id": 501,
+        "tag_desc": "메인 화면 교신 모션 변경"
+    },
+    "601": {
+        "type_icon": "icon_skineffect_lines",
+        "tag_title": "교신 대사",
+        "type_desc": "대사 효과",
+        "type": 6,
+        "id": 601,
+        "tag_desc": "메인 화면 교신 대사 변경"
+    },
+    "602": {
+        "type_icon": "icon_skineffect_lines",
+        "tag_title": "전투 음성",
+        "type_desc": "대사 효과",
+        "type": 6,
+        "id": 602,
+        "tag_desc": "전투 대사 변경"
+    },
+    "701": {
+        "type_icon": "icon_skineffect_skill",
+        "tag_title": "스킬 이펙트",
+        "type_desc": "스킬 이펙트",
+        "type": 7,
+        "id": 701,
+        "tag_desc": "스킬 시전 이펙트 변경"
+    },
+    "702": {
+        "type_icon": "icon_skineffect_skill",
+        "tag_title": "공격 이펙트",
+        "type_desc": "스킬 이펙트",
+        "type": 7,
+        "id": 702,
+        "tag_desc": "일반공격 이펙트 변경"
+    },
+    "703": {
+        "type_icon": "icon_skineffect_skill",
+        "tag_title": "필살기 이펙트",
+        "type_desc": "스킬 이펙트",
+        "type": 7,
+        "id": 703,
+        "tag_desc": "필살기 시전 이펙트 변경"
+    },
+    "704": {
+        "type_icon": "icon_skineffect_skill",
+        "tag_title": "연계 이펙트",
+        "type_desc": "스킬 이펙트",
+        "type": 7,
+        "id": 704,
+        "tag_desc": "연계 필살기 시전 이펙트 변경"
+    },
+    "all": [
+        101,
+        102,
+        201,
+        202,
+        203,
+        401,
+        402,
+        501,
+        601,
+        602,
+        701,
+        702,
+        703,
+        704
+    ]
+}

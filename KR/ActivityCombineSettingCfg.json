@@ -1,0 +1,156 @@
+{
+    "1": {
+        "score": 10,
+        "desc": "",
+        "factor_pool": "",
+        "hex": 0,
+        "rounds": 30,
+        "begin_time": 0,
+        "map_bigger": 0,
+        "id": 1,
+        "food_cost": 1,
+        "cells_list": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "2": {
+        "score": 20,
+        "desc": "진상 손님과 재해 생성 확률이 증가했습니다",
+        "factor_pool": "",
+        "hex": 0,
+        "rounds": 60,
+        "begin_time": 0,
+        "map_bigger": 0,
+        "id": 2,
+        "food_cost": 0,
+        "cells_list": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "3": {
+        "score": 30,
+        "desc": "재해 생성 확률이 증가했습니다",
+        "factor_pool": "",
+        "hex": 0,
+        "rounds": 100,
+        "begin_time": 0,
+        "map_bigger": 0,
+        "id": 3,
+        "food_cost": 1,
+        "cells_list": [
+            1,
+            2,
+            0,
+            0,
+            1
+        ]
+    },
+    "4": {
+        "score": 40,
+        "desc": "경영 규모가 확대되었습니다\n진상 손님 생성 확률이 증가합니다",
+        "factor_pool": "",
+        "hex": 0,
+        "rounds": 150,
+        "begin_time": 0,
+        "map_bigger": 1,
+        "id": 4,
+        "food_cost": 0,
+        "cells_list": [
+            1,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "5": {
+        "score": 50,
+        "desc": "진상 손님 생성 확률이 감소했습니다\n재해 생성 확률이 증가합니다",
+        "factor_pool": "",
+        "hex": 0,
+        "rounds": 200,
+        "begin_time": 0,
+        "map_bigger": 0,
+        "id": 5,
+        "food_cost": 0,
+        "cells_list": [
+            -1,
+            1,
+            1,
+            -1,
+            1
+        ]
+    },
+    "6": {
+        "score": 55,
+        "desc": "진상 손님 생성 확률이 감소했습니다",
+        "factor_pool": "",
+        "hex": 0,
+        "rounds": 240,
+        "begin_time": 0,
+        "map_bigger": 0,
+        "id": 6,
+        "food_cost": 1,
+        "cells_list": [
+            1,
+            0,
+            1,
+            -1,
+            0
+        ]
+    },
+    "7": {
+        "score": 58,
+        "desc": "재해 생성 확률이 감소했습니다",
+        "factor_pool": "",
+        "hex": 0,
+        "rounds": 280,
+        "begin_time": 0,
+        "map_bigger": 0,
+        "id": 7,
+        "food_cost": 0,
+        "cells_list": [
+            -1,
+            1,
+            1,
+            0,
+            -1
+        ]
+    },
+    "8": {
+        "score": 60,
+        "desc": "진상 손님과 재해 생성 확률이 감소했습니다",
+        "factor_pool": "",
+        "hex": 0,
+        "rounds": 320,
+        "begin_time": 0,
+        "map_bigger": 0,
+        "id": 8,
+        "food_cost": 1,
+        "cells_list": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ]
+}

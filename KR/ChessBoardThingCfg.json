@@ -1,0 +1,76 @@
+{
+    "1": {
+        "fix_walkable": 1,
+        "name": "자리 차지용",
+        "small_map_icon": "",
+        "id": 1,
+        "destoryable": 0
+    },
+    "2": {
+        "fix_walkable": 1,
+        "name": "카트",
+        "small_map_icon": "mechanic_02",
+        "id": 2,
+        "destoryable": 0
+    },
+    "3": {
+        "fix_walkable": 1,
+        "name": "시장 관리",
+        "small_map_icon": "mechanic_03",
+        "id": 3,
+        "destoryable": 0
+    },
+    "4": {
+        "fix_walkable": 1,
+        "name": "룰렛",
+        "small_map_icon": "mechanic_04",
+        "id": 4,
+        "destoryable": 0
+    },
+    "1000": {
+        "fix_walkable": 0,
+        "name": "빈 아이템",
+        "small_map_icon": "",
+        "id": 1000,
+        "destoryable": 0
+    },
+    "1001": {
+        "fix_walkable": 0,
+        "name": "골드",
+        "small_map_icon": "item_01",
+        "id": 1001,
+        "destoryable": 1
+    },
+    "1002": {
+        "fix_walkable": 0,
+        "name": "바리케이트",
+        "small_map_icon": "item_02",
+        "id": 1002,
+        "destoryable": 1
+    },
+    "1003": {
+        "fix_walkable": 0,
+        "name": "폭탄",
+        "small_map_icon": "item_03",
+        "id": 1003,
+        "destoryable": 1
+    },
+    "1004": {
+        "fix_walkable": 1,
+        "name": "장애물",
+        "small_map_icon": "",
+        "id": 1004,
+        "destoryable": 0
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        1000,
+        1001,
+        1002,
+        1003,
+        1004
+    ]
+}

@@ -1,0 +1,1100 @@
+{
+    "5050201": {
+        "map": "5050201",
+        "name": "물결Ⅰ",
+        "drop_lib_id": 10002001,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "F01",
+        "monster_level": 80,
+        "tips": "회랑 경보: 위협\n위협: 일반 적군 격퇴 시 정예 적군의 모디파이드 수치 증가",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050201,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050202
+        ],
+        "next_unlock_id_list": [
+            5050202
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            8980
+        ],
+        "position": [
+            250,
+            -134
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050202": {
+        "map": "5050202",
+        "name": "물결Ⅱ",
+        "drop_lib_id": 10002002,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "F01",
+        "monster_level": 80,
+        "tips": "회랑 경보: 마법 거울\n마법 거울: 맵 내에 생성되며, 줍는 즉시 정예 적군의 모디파이드 수치 증가",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050202,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050203
+        ],
+        "next_unlock_id_list": [
+            5050203
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "position": [
+            607,
+            35
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050203": {
+        "map": "5050203",
+        "name": "물결Ⅲ",
+        "drop_lib_id": 10002003,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "F01a",
+        "monster_level": 80,
+        "tips": "회랑 경보: 보좌, 마법 거울, 위협\n보좌: 맵 내에 생존한 일반 적군이 정예 적군의 모디파이드 수치를 지속적으로 감소시킴",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050203,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050204
+        ],
+        "next_unlock_id_list": [
+            5050204
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            11500
+        ],
+        "position": [
+            1000,
+            37
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050204": {
+        "map": "5050204",
+        "name": "물결Ⅳ",
+        "drop_lib_id": 10002004,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "F03",
+        "monster_level": 80,
+        "tips": "회랑 경보: 음향 증폭, 마법 거울\n음향 증폭: 정예 적군이 태그를 연속 획득하며, 모디파이드 모드 진입 시 초기화됨",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050204,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050205
+        ],
+        "next_unlock_id_list": [
+            5050205
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "position": [
+            1400,
+            -46
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050205": {
+        "map": "5050205",
+        "name": "물결Ⅴ",
+        "drop_lib_id": 10002005,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "F03a",
+        "monster_level": 80,
+        "tips": "회랑 경보: 보좌, 마법 거울, 위협",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050205,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050206
+        ],
+        "next_unlock_id_list": [
+            5050206
+        ],
+        "attribute_factor": [
+            1100,
+            1000,
+            11500
+        ],
+        "position": [
+            1779,
+            -46
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050206": {
+        "map": "5050206",
+        "name": "침묵의 피날레",
+        "drop_lib_id": 10002006,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "F03a",
+        "monster_level": 80,
+        "tips": "회랑 경보: 보좌, 음향 증폭, 마법 거울, 위협",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 0,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5050206,
+        "affix_type_in_map": "",
+        "next_show_id_list": [],
+        "next_unlock_id_list": [],
+        "attribute_factor": [
+            1350,
+            1000,
+            12000
+        ],
+        "position": [
+            2172,
+            -136
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050207": {
+        "map": "5050207",
+        "name": "뿌리Ⅰ",
+        "drop_lib_id": 10002007,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "H01",
+        "monster_level": 80,
+        "tips": "회랑 경보: 돌연변이\n모든 웨이브 적군이 새로운 태그 보유",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050207,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050208
+        ],
+        "next_unlock_id_list": [
+            5050208
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            5000
+        ],
+        "position": [
+            250,
+            -134
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050208": {
+        "map": "5050208",
+        "name": "뿌리Ⅱ",
+        "drop_lib_id": 10002008,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "H02",
+        "monster_level": 80,
+        "tips": "회랑 경보: 신역의 압박\n신역의 압박: 비스베인이 간헐적으로 신역 권능의 충격을 받으며, 그동안 전투 능력 상실",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050208,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050209
+        ],
+        "next_unlock_id_list": [
+            5050209
+        ],
+        "attribute_factor": [
+            1200,
+            1000,
+            8000
+        ],
+        "position": [
+            607,
+            35
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050209": {
+        "map": "5050209",
+        "name": "뿌리Ⅲ",
+        "drop_lib_id": 10002009,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "H02a",
+        "monster_level": 80,
+        "tips": "회랑 경보: 쌍둥이, 신역의 압박\n해당 회랑 내의 전투베인과 팬텀베인이 교대로 신역 권능의 충격을 받음",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050209,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050210
+        ],
+        "next_unlock_id_list": [
+            5050210
+        ],
+        "attribute_factor": [
+            1200,
+            1000,
+            6500
+        ],
+        "position": [
+            1000,
+            37
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050210": {
+        "map": "5050210",
+        "name": "뿌리Ⅳ",
+        "drop_lib_id": 10002010,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "H04",
+        "monster_level": 80,
+        "tips": "회랑 경보: 쌍둥이, 신역의 압박\n해당 회랑 내의 비스베인 2명이 동시에 신역 권능의 충격을 받음",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050210,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050211
+        ],
+        "next_unlock_id_list": [
+            5050211
+        ],
+        "attribute_factor": [
+            1200,
+            1000,
+            6500
+        ],
+        "position": [
+            1400,
+            -46
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050211": {
+        "map": "5050211",
+        "name": "뿌리Ⅴ",
+        "drop_lib_id": 10002011,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "H04b",
+        "monster_level": 80,
+        "tips": "회랑 경보: 원한\n원한: 비스베인이 처치된 후 그 동료가 대폭 강화 효과를 얻음",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050211,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050212
+        ],
+        "next_unlock_id_list": [
+            5050212
+        ],
+        "attribute_factor": [
+            1200,
+            1000,
+            6500
+        ],
+        "position": [
+            1779,
+            -46
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050212": {
+        "map": "5050212",
+        "name": "진부한 피날레",
+        "drop_lib_id": 10002012,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "X11",
+        "monster_level": 80,
+        "tips": "회랑 경보: 쌍둥이, 신역의 압박, 원한\n해당 회랑 내의 비스베인 2명이 동시에 신역 권능의 충격을 받음",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 0,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5050212,
+        "affix_type_in_map": "",
+        "next_show_id_list": [],
+        "next_unlock_id_list": [],
+        "attribute_factor": [
+            1350,
+            1000,
+            10500
+        ],
+        "position": [
+            2172,
+            -136
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050213": {
+        "map": "5050213",
+        "name": "흩어진 검Ⅰ",
+        "drop_lib_id": 10002013,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "C01a",
+        "monster_level": 80,
+        "tips": "회랑 경보: 진화, 에너지 방패\n모든 웨이브에 더 강력한 적군 등장. 필드 가장자리 근처의 에너지 서클에 방패가 부여됨",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050213,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050214
+        ],
+        "next_unlock_id_list": [
+            5050214
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            5310
+        ],
+        "position": [
+            250,
+            -134
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050214": {
+        "map": "5050214",
+        "name": "흩어진 검Ⅱ",
+        "drop_lib_id": 10002014,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "C01",
+        "monster_level": 80,
+        "tips": "회랑 경보: 옵시디언, 에너지 방패\n옵시디언: 적군이 방패 획득, 150회 피격 시 일시적으로 사라짐",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050214,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050215
+        ],
+        "next_unlock_id_list": [
+            5050215
+        ],
+        "attribute_factor": [
+            1600,
+            1000,
+            4000
+        ],
+        "position": [
+            607,
+            35
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050215": {
+        "map": "5050215",
+        "name": "흩어진 검Ⅲ",
+        "drop_lib_id": 10002015,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "C03",
+        "monster_level": 80,
+        "tips": "회랑 경보: 에너지 방패, 스위치\n스위치: 적군이 일정 간격으로 공격 상태 전환",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050215,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050216
+        ],
+        "next_unlock_id_list": [
+            5050216
+        ],
+        "attribute_factor": [
+            1600,
+            1000,
+            9300
+        ],
+        "position": [
+            1000,
+            37
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050216": {
+        "map": "5050216",
+        "name": "흩어진 검Ⅳ",
+        "drop_lib_id": 10002016,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "C04",
+        "monster_level": 80,
+        "tips": "회랑 경보: 에너지 방패, 스위치\n스위치: 적군이 일정 간격으로 공격 상태 전환",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050216,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050217
+        ],
+        "next_unlock_id_list": [
+            5050217
+        ],
+        "attribute_factor": [
+            1600,
+            1000,
+            9300
+        ],
+        "position": [
+            1400,
+            -46
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050217": {
+        "map": "5050217",
+        "name": "흩어진 검Ⅴ",
+        "drop_lib_id": 10002017,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "C05a",
+        "monster_level": 80,
+        "tips": "회랑 경보: 에너지 방패, 스위치\n스위치: 적군이 일정 간격으로 공격 상태 전환",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050217,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050218
+        ],
+        "next_unlock_id_list": [
+            5050218
+        ],
+        "attribute_factor": [
+            1600,
+            1000,
+            9300
+        ],
+        "position": [
+            1779,
+            -46
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050218": {
+        "map": "5050218",
+        "name": "벚꽃 피날레",
+        "drop_lib_id": 10002018,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "C07",
+        "monster_level": 80,
+        "tips": "회랑 경보: 에너지 방패, 스위치\n스위치: 적군이 일정 간격으로 전투 모드 전환",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 0,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5050218,
+        "affix_type_in_map": "",
+        "next_show_id_list": [],
+        "next_unlock_id_list": [],
+        "attribute_factor": [
+            1800,
+            1000,
+            25000
+        ],
+        "position": [
+            2172,
+            -136
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050219": {
+        "map": "5050219",
+        "name": "성운Ⅰ",
+        "drop_lib_id": 10002019,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "B01c",
+        "monster_level": 80,
+        "tips": "회랑 경보: 진화\n모든 웨이브에 더 강력한 적군 등장",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050219,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050220
+        ],
+        "next_unlock_id_list": [
+            5050220
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            6980
+        ],
+        "position": [
+            250,
+            -134
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050220": {
+        "map": "5050220",
+        "name": "성운Ⅱ",
+        "drop_lib_id": 10002020,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "B04",
+        "monster_level": 80,
+        "tips": "회랑 경보: 위협 계승\n위협 계승: 경과하는 시간에 따라 위협 수치 증가, 위협 수치가 증가할수록 이후 더 강력한 적군 등장. 모디파이어가 필살기 시전 시 위협 수치 감소",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050220,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050221
+        ],
+        "next_unlock_id_list": [
+            5050221
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            5310
+        ],
+        "position": [
+            607,
+            35
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050221": {
+        "map": "5050221",
+        "name": "성운Ⅲ",
+        "drop_lib_id": 10002021,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "B08",
+        "monster_level": 80,
+        "tips": "회랑 경보: 안전하지 않은 코드, 위협 계승\n안전하지 않은 코드: 필살기 수치를 수동으로 회복할 수 없음, 메인 컨트롤 모디파이어가 적군 명중 시 획득",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050221,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050222
+        ],
+        "next_unlock_id_list": [
+            5050222
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            5310
+        ],
+        "position": [
+            1000,
+            37
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050222": {
+        "map": "5050222",
+        "name": "성운Ⅳ",
+        "drop_lib_id": 10002022,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "B10",
+        "monster_level": 80,
+        "tips": "회랑 경보: 안전하지 않은 코드, 방어 의뢰\n방어 의뢰: 적군이 끊임없이 방어 태그 획득, 모디파이어가 필살기 시전 시 적군의 태그가 제거됨",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050222,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050223
+        ],
+        "next_unlock_id_list": [
+            5050223
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            9000
+        ],
+        "position": [
+            1400,
+            -46
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050223": {
+        "map": "5050223",
+        "name": "성운Ⅴ",
+        "drop_lib_id": 10002023,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "B10",
+        "monster_level": 80,
+        "tips": "회랑 경보: 안전하지 않은 코드, 공격 의뢰\n공격 의뢰: 적군이 끊임없이 공격 태그 획득, 모디파이어가 필살기 시전 시 적군의 태그가 제거됨",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050223,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050224
+        ],
+        "next_unlock_id_list": [
+            5050224
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            13000
+        ],
+        "position": [
+            1779,
+            -46
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050224": {
+        "map": "5050224",
+        "name": "암담한 피날레",
+        "drop_lib_id": 10002024,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "B03e",
+        "monster_level": 80,
+        "tips": "회랑 경보: 안전하지 않은 코드, 해결책\n해결책: 적군이 끊임없이 고강도 태그 획득, 모디파이어가 필살기 시전 시 적군의 태그가 제거됨",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 0,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5050224,
+        "affix_type_in_map": "",
+        "next_show_id_list": [],
+        "next_unlock_id_list": [],
+        "attribute_factor": [
+            1000,
+            1000,
+            23000
+        ],
+        "position": [
+            2172,
+            -136
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050225": {
+        "map": "5050225",
+        "name": "석비Ⅰ",
+        "drop_lib_id": 10002025,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "A02",
+        "monster_level": 80,
+        "tips": "회랑 경보: 에너지층 매개체\n에너지층 매개체: 적군의 침략성이 더욱 강해지며 공격에 파괴 효과 추가",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050225,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050226
+        ],
+        "next_unlock_id_list": [
+            5050226
+        ],
+        "attribute_factor": [
+            800,
+            1000,
+            6840
+        ],
+        "position": [
+            250,
+            -134
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050226": {
+        "map": "5050226",
+        "name": "석비Ⅱ",
+        "drop_lib_id": 10002026,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "A03",
+        "monster_level": 80,
+        "tips": "회랑 경보: 에너지층 매개체\n에너지층 매개체: 적군의 침략성이 더욱 강해지며 공격에 타격 효과 추가",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050226,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050227
+        ],
+        "next_unlock_id_list": [
+            5050227
+        ],
+        "attribute_factor": [
+            800,
+            1000,
+            6840
+        ],
+        "position": [
+            607,
+            35
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050227": {
+        "map": "5050227",
+        "name": "석비Ⅲ",
+        "drop_lib_id": 10002027,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "A06",
+        "monster_level": 80,
+        "tips": "회랑 경보: 포맷\n포맷: 메인 컨트롤 모디파이어가 지속적으로 최대 HP에 따른 피해를 입음",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050227,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050228
+        ],
+        "next_unlock_id_list": [
+            5050228
+        ],
+        "attribute_factor": [
+            800,
+            1000,
+            6840
+        ],
+        "position": [
+            1000,
+            37
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050228": {
+        "map": "5050228",
+        "name": "석비Ⅳ",
+        "drop_lib_id": 10002028,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "A06",
+        "monster_level": 80,
+        "tips": "회랑 경보: 포맷, 침식 컴파일\n침식 컴파일: 적군이 간헐적으로 방어 버프 획득, 공격 동작이 중지되고 모디파이어의 포맷 속도가 빨라짐",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050228,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050229
+        ],
+        "next_unlock_id_list": [
+            5050229
+        ],
+        "attribute_factor": [
+            850,
+            1000,
+            9300
+        ],
+        "position": [
+            1400,
+            -46
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050229": {
+        "map": "5050229",
+        "name": "석비Ⅴ",
+        "drop_lib_id": 10002029,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "A07",
+        "monster_level": 80,
+        "tips": "회랑 경보: 포맷, 원한\n원한: 비스베인이 처치된 후 그 동료가 대폭 강화 효과를 얻음",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 40,
+        "cost": 20,
+        "user_exp": 20,
+        "id": 5050229,
+        "affix_type_in_map": "",
+        "next_show_id_list": [
+            5050230
+        ],
+        "next_unlock_id_list": [
+            5050230
+        ],
+        "attribute_factor": [
+            850,
+            1000,
+            9300
+        ],
+        "position": [
+            1779,
+            -46
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "5050230": {
+        "map": "5050230",
+        "name": "모래 피날레",
+        "drop_lib_id": 10002030,
+        "hero_list": "",
+        "ai_level": 1,
+        "background_1": "A07",
+        "monster_level": 80,
+        "tips": "회랑 경보: 포맷, 침식 컴파일",
+        "affix_type": "",
+        "need_default_team": 1,
+        "hero_exp": 0,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5050230,
+        "next_show_id_list": [],
+        "next_unlock_id_list": [],
+        "attribute_factor": [
+            1000,
+            1000,
+            31500
+        ],
+        "position": [
+            2172,
+            -136
+        ],
+        "affix_type_in_map": [
+            [
+                173,
+                1,
+                0
+            ]
+        ],
+        "team_type": [
+            306,
+            0
+        ]
+    },
+    "all": [
+        5050201,
+        5050202,
+        5050203,
+        5050204,
+        5050205,
+        5050206,
+        5050207,
+        5050208,
+        5050209,
+        5050210,
+        5050211,
+        5050212,
+        5050213,
+        5050214,
+        5050215,
+        5050216,
+        5050217,
+        5050218,
+        5050219,
+        5050220,
+        5050221,
+        5050222,
+        5050223,
+        5050224,
+        5050225,
+        5050226,
+        5050227,
+        5050228,
+        5050229,
+        5050230
+    ]
+}

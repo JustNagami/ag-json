@@ -1,0 +1,169 @@
+{
+    "1": {
+        "word": "",
+        "face": "",
+        "action": "normal",
+        "cueName": "",
+        "id": 1,
+        "awbName": "",
+        "sheetName": ""
+    },
+    "2": {
+        "action": "enter",
+        "id": 2,
+        "face": [
+            "joy",
+            "joy",
+            "joy"
+        ],
+        "sheetName": [
+            "activity_v_2_0",
+            "activity_v_2_0",
+            "activity_v_2_0"
+        ],
+        "cueName": [
+            "activity_v_2_0_enter1",
+            "activity_v_2_0_enter2",
+            "activity_v_2_0_enter3"
+        ],
+        "awbName": [
+            "activity_v_2_0.awb",
+            "activity_v_2_0.awb",
+            "activity_v_2_0.awb"
+        ],
+        "word": [
+            "어머~ 멋진 손님! 첫눈에 보고 딱 알겠네, 우리 참 잘 맞을 것 같은데~ 우선 입장권 10% 할인 해드릴게. 자, 여기 앉아요, 우선 에버베인 보리차로 목 좀 축이시고~",
+            "아이고, 귀한 손님이 오셨네~ 아, 입장 전에 일단 요금부터 내주셔야지, 가격? 아휴, 문제 없지~ 바로 멤버십 가격으로 맞춰드릴게!",
+            "어서 오세요! 날씨도 쌀쌀한데 어서 들어오세요!"
+        ]
+    },
+    "3": {
+        "action": "seal",
+        "id": 3,
+        "face": [
+            "normal",
+            "normal",
+            "normal"
+        ],
+        "sheetName": [
+            "activity_v_2_0",
+            "activity_v_2_0",
+            "activity_v_2_0"
+        ],
+        "cueName": [
+            "activity_v_2_0_fail1",
+            "activity_v_2_0_fail2",
+            "activity_v_2_0_fail3"
+        ],
+        "awbName": [
+            "activity_v_2_0.awb",
+            "activity_v_2_0.awb",
+            "activity_v_2_0.awb"
+        ],
+        "word": [
+            "아차, 몇 번 더 해봐~ 이 세상에 돈으로 해결 안되는 문제는 없다고들 하잖아.",
+            "까비~ 대상 받을 뻔 했는데... 사기? 무슨 그런 섭섭한 말씀을 하실까? 우리 백해 날인은 성실, 투명하기로 유명하다구.",
+            "아이고, 너무 아깝네... 한 번만 더 하면 될 것 같은데... 음? 운수가 트이는 팔찌? 하하, 그럼 당연히 있지! 역시 안목이 있다니까! 5% 할인해 줄게, 손님한테만 특별 서비스해 주는 거야~"
+        ]
+    },
+    "4": {
+        "action": "reward1",
+        "id": 4,
+        "face": [
+            "joy",
+            "surprise"
+        ],
+        "sheetName": [
+            "activity_v_2_0",
+            "activity_v_2_0"
+        ],
+        "cueName": [
+            "activity_v_2_0_normal1",
+            "activity_v_2_0_normal2"
+        ],
+        "awbName": [
+            "activity_v_2_0.awb",
+            "activity_v_2_0.awb"
+        ],
+        "word": [
+            "아이고, 축하합니다~ 상품을 받은 소감이 어때? 재밌지? 뒤에 더 많은 상품들이 기다리고 있으니 기대하시라구~",
+            "아주 하늘에게 선택받은 자라니까~ 이걸 벌써 손에 넣다니."
+        ]
+    },
+    "5": {
+        "action": "reward2",
+        "id": 5,
+        "face": [
+            "surprise"
+        ],
+        "sheetName": [
+            "activity_v_2_0"
+        ],
+        "cueName": [
+            "activity_v_2_0_main1"
+        ],
+        "awbName": [
+            "activity_v_2_0.awb"
+        ],
+        "word": [
+            "이걸 손에 넣은 손님은 많지 않은데, 이렇게 간단하게 손에 넣다니, 아이고~ 이거 너무 밑지는 장사인데?"
+        ]
+    },
+    "6": {
+        "action": "click",
+        "id": 6,
+        "face": [
+            "joy",
+            "joy",
+            "normal"
+        ],
+        "sheetName": [
+            "activity_v_2_0",
+            "activity_v_2_0",
+            "activity_v_2_0"
+        ],
+        "cueName": [
+            "activity_v_2_0_click1",
+            "activity_v_2_0_click2",
+            "activity_v_2_0_click3"
+        ],
+        "awbName": [
+            "activity_v_2_0.awb",
+            "activity_v_2_0.awb",
+            "activity_v_2_0.awb"
+        ],
+        "word": [
+            "돈 얘기 꺼내면 감정 상하지만, 돈 얘기 안 꺼내면 더 서운하지~",
+            "돈벌레 같은 존재? 하하, 농담도 참, 물론 저녁 장터의 분위기를 말하는 거지.",
+            "허위 마케팅? 아이고, 오해 마시게~ 우리는 고객님의 소비에 재미를 더하는 것뿐이야. 상품 구매뿐 아니라 이벤트 참여의 즐거움까지 고려한 거지, 이걸 어떻게 사기라 할 수 있겠어?"
+        ]
+    },
+    "get_id_list_by_action": {
+        "click": [
+            6
+        ],
+        "reward2": [
+            5
+        ],
+        "reward1": [
+            4
+        ],
+        "seal": [
+            3
+        ],
+        "enter": [
+            2
+        ],
+        "normal": [
+            1
+        ]
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ]
+}

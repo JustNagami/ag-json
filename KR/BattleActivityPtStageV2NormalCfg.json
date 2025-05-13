@@ -1,0 +1,628 @@
+{
+    "5090201": {
+        "monster_level": 80,
+        "name": "옛 성",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 10008001,
+        "background_1": "J03b",
+        "tips": "천록 무역이 내건 현상 의뢰 수행을 위해 옛 성의 상도를 정리한다. 천원 모디파이어가 도움 획득: Ω 포인트에서 크리티컬 피해 50% 증가.",
+        "map": "5090201",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5090201,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            11000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5090202": {
+        "monster_level": 80,
+        "name": "숲속",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10008002,
+        "background_1": "J13",
+        "tips": "천록 무역이 내건 현상 의뢰 수행을 위해 숲속의 상도를 정리한다. 천원 모디파이어가 도움 획득: Ω 포인트에서 크리티컬 피해 50% 증가.",
+        "map": "5090202",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5090202,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1200,
+            1000,
+            23000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5090203": {
+        "monster_level": 80,
+        "name": "운잔",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10008003,
+        "background_1": "J04",
+        "tips": "천록 무역이 내건 현상 의뢰 수행을 위해 운잔의 상도를 정리한다. 천원 모디파이어가 도움 획득: Ω 포인트에서 크리티컬 피해 50% 증가.",
+        "map": "5090203",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5090203,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1200,
+            1000,
+            24000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5100201": {
+        "monster_level": 80,
+        "name": "동반천 거리",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 10009001,
+        "background_1": "J10b",
+        "tips": "출동 준비, 반천 거리로 가서 정리 임무를 실시한다. 분노형 모디파이어의 분노 획득률 50% 증가.",
+        "map": "5100201",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5100201,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            8500
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5100202": {
+        "monster_level": 80,
+        "name": "서반천 거리",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10009002,
+        "background_1": "J10b",
+        "tips": "출동 준비, 반천 거리로 가서 정리 임무를 실시한다. 천원 모디파이어의 크리티컬 피해 40% 증가.",
+        "map": "5100202",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5100202,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            8500
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5100203": {
+        "monster_level": 80,
+        "name": "장안교",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10009003,
+        "background_1": "J10b",
+        "tips": "출동 준비, 반천 거리로 가서 정리 임무를 실시한다. 태일·경진 [남극의 바닷소리] 시전 시 최종 피해 25% 증가, 9초 지속.",
+        "map": "5100203",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5100203,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            9500
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5110401": {
+        "monster_level": 80,
+        "name": "골짜기 입구",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 10010001,
+        "background_1": "J03a",
+        "tips": "빈 골짜기는 일을 모르니 여유롭기만 하다. 신능형 모디파이어의 신능 획득률 50% 증가.",
+        "map": "5110401",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5110401,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            20000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5110402": {
+        "monster_level": 80,
+        "name": "개울",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 10010002,
+        "background_1": "J03b",
+        "tips": "개울가에 교목이 드리워 골짜기가 안개로 자욱하다. 천원 모디파이어의 크리티컬 확률 30% 증가.",
+        "map": "5110402",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5110402,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            20000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5110403": {
+        "monster_level": 80,
+        "name": "깊은 산속",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 10010003,
+        "background_1": "J03b",
+        "tips": "깊은 숲에서 학을 만나고, 샘의 길에서 사슴을 만난다. 천원 모디파이어가 도움 획득: Ω포인트에서 크리티컬 피해 50% 증가.",
+        "map": "5110403",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5110403,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            16000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120301": {
+        "monster_level": 80,
+        "name": "바람 소리",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10011001,
+        "background_1": "K01",
+        "tips": "숲 깊은 곳에서 모략의 속삭임이 바람을 타고 왔다. 도움 획득: 모디파이어 분노 획득률 증가.",
+        "map": "5120301",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5120301,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            18000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120302": {
+        "monster_level": 80,
+        "name": "관목의 흔들림",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10011002,
+        "background_1": "K02",
+        "tips": "다람쥐가 놀라 도망친 자리에는 구멍 난 솔방울만이 남았다. 도움 획득: 시노우 모디파이어 크리티컬 피해 증가.",
+        "map": "5120302",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5120302,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            22000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120303": {
+        "monster_level": 80,
+        "name": "도깨비불 ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10011003,
+        "background_1": "K03",
+        "tips": "희미한 빛을 내는 균 다발이 거칠게 자라고 있다. 도움 획득: 얼음 속성으로 적군 처치 후 생존한 몬스터에게 피해를 1회 줌.",
+        "map": "5120303",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5120303,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            10000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120401": {
+        "monster_level": 80,
+        "name": "제사 ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10012001,
+        "background_1": "K05a",
+        "tips": "암흑 속에서. 도움 획득: 시노우 모디파이어의 크리티컬 피해 증가.",
+        "map": "5120401",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5120401,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            20000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120402": {
+        "monster_level": 80,
+        "name": "제단 ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10012002,
+        "background_1": "K02a",
+        "tips": "제단에서. 도움 획득: 얼음 속성으로 적군 처치 후 생존한 몬스터에게 피해를 1회 줌",
+        "map": "5120402",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5120402,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            20000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120403": {
+        "monster_level": 80,
+        "name": "제물 ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10012003,
+        "background_1": "K06a",
+        "tips": "어리석음 속에서. 도움 획득: 번개 속성으로 적군 처치 후 생존한 몬스터에게 기절 1회 부여.",
+        "map": "5120403",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5120403,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            16000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5130501": {
+        "monster_level": 80,
+        "name": "수호 ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10013001,
+        "background_1": "K10",
+        "tips": "선인의 검술을 충실하게 모방하여 검술의 기초를 깨닫는다.\n도움 획득: 모디파이어 분노 획득률 증가.",
+        "map": "5130501",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130501,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5130502": {
+        "monster_level": 80,
+        "name": "파",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10013002,
+        "background_1": "K10",
+        "tips": "기초를 바탕으로 이해하고, 선인이 얻은 것에서 검술을 완성한다. 도움 획득: 모디파이어 크리티컬 피해 증가.",
+        "map": "5130502",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130502,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5130503": {
+        "monster_level": 80,
+        "name": "이별의 한",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10013003,
+        "background_1": "K09a",
+        "tips": "배운 것을 정리하여 고유의 기술에 얽매이지 않고 자신의 일파를 형성한다. 도움 획득: 타오르는 미혹의 불·가구쓰치가 몬스터 처치 시 추가 분노 및 HP 획득.",
+        "map": "5130503",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5130503,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            10000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140501": {
+        "monster_level": 80,
+        "name": "플라이급",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024510,
+        "background_1": "L01",
+        "tips": "[고작 이 정도인가? 간지럽군.] 도움 획득: 천원 모디파이어의 크리티컬 피해 증가.",
+        "map": "5140501",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140501,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140502": {
+        "monster_level": 80,
+        "name": "밴텀급",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024511,
+        "background_1": "L02",
+        "tips": "[격투는 누구 목청이 더 큰지 대결하는 게 아니다.]  도움 획득: 바람 속성으로 적군 처치 시 생존한 몬스터에게 일시적으로 취약 부여",
+        "map": "5140502",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140502,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140503": {
+        "monster_level": 80,
+        "name": "페더급",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024512,
+        "background_1": "L01a",
+        "tips": "[패배할 때의 자세를 생각해 두시지!] 도움 획득: 빛 속성으로 적군 처치 시 생존한 몬스터에게 피해를 1회 줌",
+        "map": "5140503",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140503,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            10000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140601": {
+        "monster_level": 80,
+        "name": "테스터",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024510,
+        "background_1": "L04",
+        "tips": "그가 이곳에 오기로 한 이유는 그저 따뜻한 밥을 먹기 위해서다. 도움 획득: 천원 모디파이어의 크리티컬 피해 증가",
+        "map": "5140601",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140601,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140602": {
+        "monster_level": 80,
+        "name": "잔폐물",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024511,
+        "background_1": "L04a",
+        "tips": "성분은 동일하지만 다른 등급으로 평가된다. 도움 획득: 모디파이어의 신능 획득률 증가",
+        "map": "5140602",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140602,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            12000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140603": {
+        "monster_level": 80,
+        "name": "파이프라인",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024512,
+        "background_1": "L03a",
+        "tips": "매일 매일 반복되는 작업, 파이프라인은 어쩌면 공장에만 있는 게 아닐지도 모른다. 도움 획득: 물 속성 공격 명중 시 추가로 피해를 1회 줌",
+        "map": "5140603",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 20,
+        "id": 5140603,
+        "hero_exp": 40,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            10000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "all": [
+        5090201,
+        5090202,
+        5090203,
+        5100201,
+        5100202,
+        5100203,
+        5110401,
+        5110402,
+        5110403,
+        5120301,
+        5120302,
+        5120303,
+        5120401,
+        5120402,
+        5120403,
+        5130501,
+        5130502,
+        5130503,
+        5140501,
+        5140502,
+        5140503,
+        5140601,
+        5140602,
+        5140603
+    ]
+}

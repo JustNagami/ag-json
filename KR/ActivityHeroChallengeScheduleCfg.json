@@ -1,0 +1,170 @@
+{
+    "2428401": {
+        "score": 25,
+        "name": "메아리 계시",
+        "select_type": 0,
+        "linkgame_des": "클리어하지 않은 메아리 계시 스테이지 1회 완료",
+        "type": 1,
+        "server_type": 1,
+        "priority": 1,
+        "activity_id": 242841,
+        "id": 2428401,
+        "pre_condition": [],
+        "remove_condition": [
+            112001
+        ]
+    },
+    "2428402": {
+        "score": 25,
+        "name": "신능 훈련",
+        "select_type": 0,
+        "linkgame_des": "신능 훈련 스테이지 1회 완료",
+        "type": 1,
+        "server_type": 2,
+        "priority": 2,
+        "activity_id": 242841,
+        "id": 2428402,
+        "pre_condition": [
+            112001
+        ],
+        "remove_condition": []
+    },
+    "2428403": {
+        "score": 25,
+        "name": "의지 훈련",
+        "select_type": 0,
+        "linkgame_des": "의지 훈련 스테이지 1회 완료",
+        "type": 1,
+        "server_type": 3,
+        "priority": 3,
+        "activity_id": 242841,
+        "id": 2428403,
+        "pre_condition": [
+            112001
+        ],
+        "remove_condition": []
+    },
+    "2428404": {
+        "score": 25,
+        "name": "기술 훈련",
+        "select_type": 0,
+        "linkgame_des": "기술 훈련 스테이지 1회 완료",
+        "type": 1,
+        "server_type": 4,
+        "priority": 4,
+        "activity_id": 242841,
+        "id": 2428404,
+        "pre_condition": [
+            112001
+        ],
+        "remove_condition": []
+    },
+    "2428405": {
+        "score": 100,
+        "name": "침식 저항",
+        "select_type": 0,
+        "linkgame_des": "침식 저항 스테이지 1회 완료",
+        "type": 1,
+        "server_type": 5,
+        "priority": 5,
+        "activity_id": 242851,
+        "id": 2428405,
+        "pre_condition": [
+            112001
+        ],
+        "remove_condition": []
+    },
+    "2428406": {
+        "score": 25,
+        "name": "만끽하는 즐거움",
+        "select_type": 0,
+        "linkgame_des": "만끽하는 즐거움 스테이지 1회 완료",
+        "type": 2,
+        "server_type": 6,
+        "priority": 1,
+        "activity_id": 242841,
+        "id": 2428406,
+        "pre_condition": [],
+        "remove_condition": [
+            112011
+        ]
+    },
+    "2428407": {
+        "score": 25,
+        "name": "여유로운 시간",
+        "select_type": 0,
+        "linkgame_des": "여유로운 시간 미니 게임 1회 완료",
+        "type": 2,
+        "server_type": 7,
+        "priority": 2,
+        "activity_id": 242841,
+        "id": 2428407,
+        "pre_condition": [],
+        "remove_condition": []
+    },
+    "2428408": {
+        "score": 25,
+        "name": "추억의 여행지",
+        "select_type": 0,
+        "linkgame_des": "추억의 여행지 임의 레벨 의뢰 1회 수락",
+        "type": 3,
+        "server_type": 8,
+        "priority": 1,
+        "activity_id": 242841,
+        "id": 2428408,
+        "pre_condition": [],
+        "remove_condition": []
+    },
+    "get_id_list_by_type": [
+        [
+            2428401,
+            2428402,
+            2428403,
+            2428404,
+            2428405
+        ],
+        [
+            2428406,
+            2428407
+        ],
+        [
+            2428408
+        ]
+    ],
+    "get_id_list_by_server_type": [
+        [
+            2428401
+        ],
+        [
+            2428402
+        ],
+        [
+            2428403
+        ],
+        [
+            2428404
+        ],
+        [
+            2428405
+        ],
+        [
+            2428406
+        ],
+        [
+            2428407
+        ],
+        [
+            2428408
+        ]
+    ],
+    "all": [
+        2428401,
+        2428402,
+        2428403,
+        2428404,
+        2428405,
+        2428406,
+        2428407,
+        2428408
+    ]
+}

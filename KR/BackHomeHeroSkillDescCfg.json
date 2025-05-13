@@ -1,0 +1,67 @@
+{
+    "1": {
+        "neg_desc": "%s%% 감속",
+        "pos_desc": "%s%% 가속",
+        "skill_id": 1,
+        "desc": "%s 판매 속도 "
+    },
+    "2": {
+        "neg_desc": "%s%% 감소",
+        "pos_desc": "%s%% 증가",
+        "skill_id": 2,
+        "desc": "%s 수익 "
+    },
+    "3": {
+        "neg_desc": "%s%% 증가",
+        "pos_desc": "%s%% 감소",
+        "skill_id": 3,
+        "desc": "자신의 체력 소모 "
+    },
+    "4": {
+        "neg_desc": "%s 감소",
+        "pos_desc": "%s 증가",
+        "skill_id": 4,
+        "desc": "인기도 "
+    },
+    "5": {
+        "neg_desc": "%s%% 감속",
+        "pos_desc": "%s%% 가속",
+        "skill_id": 5,
+        "desc": "자신의 체력 회복 "
+    },
+    "6": {
+        "neg_desc": "%s%% 감속",
+        "pos_desc": "%s%% 가속",
+        "skill_id": 6,
+        "desc": "모든 캐릭터의 체력 회복 "
+    },
+    "8": {
+        "neg_desc": "%s%% 감소",
+        "pos_desc": "%s%% 증가",
+        "skill_id": 8,
+        "desc": "대성공 확률 "
+    },
+    "9": {
+        "neg_desc": "%s%% 감소",
+        "pos_desc": "%s%% 증가",
+        "skill_id": 9,
+        "desc": "의뢰 수익 "
+    },
+    "10": {
+        "neg_desc": "%s%% 증가",
+        "pos_desc": "%s%% 감소",
+        "skill_id": 10,
+        "desc": "의뢰에 필요한 체력 "
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+    ]
+}

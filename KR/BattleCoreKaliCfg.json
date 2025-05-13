@@ -1,0 +1,440 @@
+{
+    "5200201": {
+        "monster_level": 80,
+        "name": "위탁물",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200201,
+        "map": "5200201",
+        "tips": "박물관 안이 난장판이다. 칼리가 찾으려는 것은 원래 로비 중앙에 놓여 있던 한 신비로운 석판이었다. 박물관의 CCTV를 확인한 후 그 도둑놈들의 방향을 알게 된 그녀는 즉시 출발했다.\n<color=#FF9500>추천 강화 효과: [풍치전체]</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200201,
+        "next_show_id_list": [
+            5200202
+        ],
+        "next_unlock_id_list": [
+            5200202
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            10000
+        ],
+        "position": [
+            250,
+            -134
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200202": {
+        "monster_level": 80,
+        "name": "또 다른 무리",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200202,
+        "map": "5200202",
+        "tips": "외출 후 CCTV 단서를 잃은 칼리는 방향을 잃어버렸다. 그때 한 무리의 사람들이 천천히 그녀에게 접근하는데...\n<color=#FF9500>추천 강화 효과: [풍치전체]</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200202,
+        "next_show_id_list": [
+            5200203
+        ],
+        "next_unlock_id_list": [
+            5200203
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            12000
+        ],
+        "position": [
+            607,
+            35
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200203": {
+        "monster_level": 80,
+        "name": "뜻밖의 목격자",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200203,
+        "map": "5200203",
+        "tips": "칼리에게 제압당한 조직원은 그녀에게 한 무리의 사람들이 박물관에서 나온 누 근처의 권투장에 들어갔다고 말해줬다. 칼리는 조직원들을 경찰에게 맡기고 즉시 권투장으로 향한다.\n<color=#FF9500>추천 강화 효과: [반석 같은 안정감]</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200203,
+        "next_show_id_list": [
+            5200204
+        ],
+        "next_unlock_id_list": [
+            5200204
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            7000
+        ],
+        "position": [
+            1000,
+            37
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200204": {
+        "monster_level": 80,
+        "name": "진입 금지",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200204,
+        "map": "5200204",
+        "tips": "보물을 훔쳐 간 사람이 가엘의 권투장에 숨어 있다. 칼리는 권투장에 들어가려 했지만 경비가 그녀를 막아 선다... 권투장 경기 자격이 없으면 입장이 금지되어 있다.\n<color=#FF9500>추천 강화 효과: [반석 같은 안정감]</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200204,
+        "next_show_id_list": [
+            5200205
+        ],
+        "next_unlock_id_list": [
+            5200205
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            7000
+        ],
+        "position": [
+            1400,
+            -46
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200205": {
+        "monster_level": 80,
+        "name": "주먹 대결",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200205,
+        "map": "5200205",
+        "tips": "빈민촌에서는 돈뿐 아니라 주먹도 어디든 갈 수 있는 통행증이 되어준다.\n<color=#FF9500>추천 강화 효과: [무인의 극의]</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200205,
+        "next_show_id_list": [
+            5200206
+        ],
+        "next_unlock_id_list": [
+            5200206
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            7500
+        ],
+        "position": [
+            1779,
+            -46
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200206": {
+        "monster_level": 80,
+        "name": "패싸움",
+        "background_1": "D02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200206,
+        "map": "5200206",
+        "tips": "칼리는 순조롭게 권투장에 들어갔지만 불청객을 본 권투장 내 다른 사람들이 그녀를 둘러쌓기 시작했다.\n<color=#FF9500>추천 강화 효과: [무인의 극의]</color>",
+        "sub_type": 1,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200206,
+        "next_show_id_list": [
+            5200207
+        ],
+        "next_unlock_id_list": [
+            5200207
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            12000
+        ],
+        "position": [
+            2172,
+            -136
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200207": {
+        "monster_level": 80,
+        "name": "승리자?",
+        "background_1": "I02",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200207,
+        "map": "5200207",
+        "tips": "상황이 진정됐을 때, 칼리는 이미 로비에 서 있던 모든 쓰러뜨렸다. 그리고 심판이 휘슬을 불며 그녀의 손을 들었다.\n하지만 지금은 아직 승리를 즐길 때가 아니다!\n<color=#FF9500>추천 강화 효과: [급속 돌진]</color>",
+        "sub_type": 2,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "user_exp": 0,
+        "id": 5200207,
+        "next_show_id_list": [
+            5200208
+        ],
+        "next_unlock_id_list": [
+            5200208
+        ],
+        "attribute_factor": [
+            400,
+            1000,
+            7000
+        ],
+        "position": [
+            250,
+            -134
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5200208": {
+        "monster_level": 80,
+        "name": "계속 질주",
+        "background_1": "I03",
+        "type": 79,
+        "ai_level": 4,
+        "drop_lib_id": 5200208,
+        "map": "5200208",
+        "tips": "결국 그 도둑들은 혼란을 틈타 도망쳤다. 칼리의 추격은 계속될 것이다.\n<color=#FF9500>추천 강화 효과: [급속 돌진]</color>",
+        "sub_type": 2,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "next_show_id_list": "",
+        "next_unlock_id_list": "",
+        "user_exp": 0,
+        "id": 5200208,
+        "attribute_factor": [
+            200,
+            1000,
+            7000
+        ],
+        "position": [
+            607,
+            35
+        ],
+        "hero_list": [
+            [
+                1156,
+                115605
+            ],
+            [
+                0,
+                0
+            ],
+            [
+                0,
+                0
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "all": [
+        5200201,
+        5200202,
+        5200203,
+        5200204,
+        5200205,
+        5200206,
+        5200207,
+        5200208
+    ]
+}

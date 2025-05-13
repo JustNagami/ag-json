@@ -1,0 +1,769 @@
+{
+    "101": {
+        "question_desc": "맑은 날이 좋아? 비 오는 날이 좋아?",
+        "activity": 101,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "맑은 날",
+            "비 오는 날"
+        ],
+        "hero_comment": [
+            "맑은 날! 어? 관리자님도 맑은 날이 더 좋으세요? 오예, 다음에 시간 되면 화창한 날에 같이 소풍 가요!",
+            "비 오는 날도 좋죠, 창밖에 빗방울 소리 들으면서 잠들기 딱이죠. 하지만 그래도 전 맑은 날이 더 좋은 거 같아요~"
+        ]
+    },
+    "102": {
+        "question_desc": "강아지? 고양이?",
+        "activity": 102,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "고양이",
+            "고양이"
+        ],
+        "hero_comment": [
+            "고양이요! 고양이는 너무 사랑스러운 존재인 것 같아요. 관리자님이랑 같이 고양이 기르고 싶다~ 아, 매일 미미르 님이랑 같이 임무 나가는 것도 고양이 기르는 거랑 비슷한 셈인가?",
+            "관리자님은 고양이보다 강아지가 더 좋으세요? 집 아래 문방구에 엄청 귀여운 강아지가 있다고요? 저도 보고 싶어요, 데려가 주세요!"
+        ]
+    },
+    "103": {
+        "question_desc": "둘 중 누가 더 계획을 잘 세웁니까?",
+        "activity": 103,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "베르단디",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "관리자님, 너무 겸손하세요~ 제 마음속에 관리자님은 가장 믿음직한 사람이에요, 항상 믿고 있다고요!",
+            "제 마음속에 관리자님은 가장 믿음직한 사람이에요, 늘 믿어요!"
+        ]
+    },
+    "104": {
+        "question_desc": "둘 중 누가 더 요리하는 것을 좋아합니까? ",
+        "activity": 104,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "베르단디",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "전 바비큐에는 자신이 있어요! 제가 직접 구운 바비큐를 한번 맛보면 절대 잊지 못하실걸요~ 음... 오늘 우리 집에 놀러 오실래요?",
+            "대단해요... 평소 일밖에 안 하시는 줄 알았는데, 관리자님에게 이런 면이 다 있었네요? 아~ 관리자님이 만든 요리 먹고 싶다~"
+        ]
+    },
+    "105": {
+        "question_desc": "주스? 우유?",
+        "activity": 105,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "주스",
+            "우유"
+        ],
+        "hero_comment": [
+            "어? 관리자님도 주스 좋아하시는구나~ 잘됐네요, 집에 대량으로 구매한 주스가 있는데, 보내드릴게요!",
+            "오~ 관리자님 우유 좋아하시는구나~ 기억해 둘게요! 다음에 마트 갈 때 좀 사놔야겠다~"
+        ]
+    },
+    "201": {
+        "question_desc": "소풍? 클라이밍?",
+        "activity": 201,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "소풍",
+            "클라이밍"
+        ],
+        "hero_comment": [
+            "소풍은 정말 편안하고 기분 좋은 야외 행사예요. 관리자님도 같은 생각이죠? 언제 같이 소풍 가요~",
+            "와~ 관리자님 클라이밍 좋아하세요? 상당히 격렬한 운동을 좋아하시는군요."
+        ]
+    },
+    "202": {
+        "question_desc": "다큐멘터리? 판타지?",
+        "activity": 202,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "다큐멘터리",
+            "판타지"
+        ],
+        "hero_comment": [
+            "주말에 집에서 다큐멘터리 보는 걸 좋아해요. 관리자님도 시간 나면 같이 봐요~",
+            "음, 판타지는 많이 보지 못해서요. 관리자님, 추천해 주실 작품이 있나요?"
+        ]
+    },
+    "203": {
+        "question_desc": "둘 중 누가 더 방향감각이 좋습니까?",
+        "activity": 203,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "포세이돈",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "관리자님... 전에 제가 길을 잃었던 거... 잊으셨어요?",
+            "관리자님이랑 나가면 너무 든든해요~"
+        ]
+    },
+    "204": {
+        "question_desc": "여름? 겨울?",
+        "activity": 204,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "여름",
+            "겨울"
+        ],
+        "hero_comment": [
+            "여름은 바다가 가장 아름다운 시기예요. 밤이 되면 별들이 헤엄치고, 아침이 되면 태양에 아름답게 물들죠... 관리자님이랑 같이 바다 보러 가고 싶어요~",
+            "겨울도 좋아요~ 온천 가기 딱 좋은 계절이죠."
+        ]
+    },
+    "205": {
+        "question_desc": "둘 중 누가 더 이야기를 잘 들어줍니까?",
+        "activity": 205,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "포세이돈",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "관리자님 요즘 고민거리가 뭔가요? 제게 말해주실래요?",
+            "네? 제 얘길 많이 들려달라고요?"
+        ]
+    },
+    "301": {
+        "question_desc": "쉬는 날 집에 있는 편입니까? 밖으로 나가는 편입니까?",
+        "activity": 301,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "집에 있는 편",
+            "밖으로 나가는 편"
+        ],
+        "hero_comment": [
+            "쉬는 날? 난 주로 집에서 체스를 두지. 잠시 일에서 손을 떼고 마인드를 리셋하는 게, 새로운 도전에 대처하는 데 도움이 되거든. 너도 그렇게 생각한다니 기쁘네.",
+            "여가 시간을 이용해 시야를 넓힌다... 음, 나쁘지 않은 생각이야. 참고하도록 하지."
+        ]
+    },
+    "302": {
+        "question_desc": "시간 날 때 직접 요리를 합니까?",
+        "activity": 302,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "예",
+            "아니요"
+        ],
+        "hero_comment": [
+            "...요리할 줄 알아? 그렇게 안 봤는데, 꽤 생활력이 있군.",
+            "시간을 쪼개서 알차게 활용하고 효율성을 높이는 것이 작업을 추진하는 데 중요하게 작용하지. 역시 우린 같은 부류의 사람이야."
+        ]
+    },
+    "303": {
+        "question_desc": "웜톤? 쿨톤?",
+        "activity": 303,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "웜톤",
+            "쿨톤"
+        ],
+        "hero_comment": [
+            "따뜻한 색조를 더 좋아하나? 음... 또 너의 새로운 모습을 발견한 것 같네.",
+            "차가운 색조는 사고회로를 뚜렷하게 하지. 같은 생각이라니, 다행이야."
+        ]
+    },
+    "304": {
+        "question_desc": "사람이 많은 곳을 좋아합니까? 적은 곳을 좋아합니까?",
+        "activity": 304,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "많은 곳",
+            "적은 곳"
+        ],
+        "hero_comment": [
+            "...시끌벅적한 곳을 더 좋아하나? 음, 추천할 만한 곳이 있을까?",
+            "조용한 곳은 마음이 차분해지고, 자아를 돌아보게 하지. 그래서 난 조용한 곳이 좋아, 너는 어때? 그런 경험이 있나?"
+        ]
+    },
+    "305": {
+        "question_desc": "둘 중 누가 더 공감 능력이 좋습니까?",
+        "activity": 305,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "티르 ",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "그렇게 보이나? ...내 공감 능력이 좋다기보다는 네가 항상 먼저 내 생각을 읽는 것 같은데.",
+            "넌 항상 남의 고민을 잘 알아차리지. 그게 내가 널 높이 사는 이유기도 하고."
+        ]
+    },
+    "401": {
+        "question_desc": "일출? 일몰?",
+        "activity": 401,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "일출",
+            "일몰"
+        ],
+        "hero_comment": [
+            "흐음~그래? 일출이 더 좋아?",
+            "해가 지는 건 아주 아름답지~ 어린 양은 어떻게 생각해? 후후, 좋아~"
+        ]
+    },
+    "402": {
+        "question_desc": "둘 중 누가 더 복잡한 일을 잘 처리합니까?",
+        "activity": 402,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "하데스",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "음~ 어린 양이 날 그렇게까지 신뢰하다니, 기분이 좋은걸~",
+            "역시~ 민타와 로크를 제외하고, 가장 내 곁에 두고 싶은 사람이라니까~"
+        ]
+    },
+    "403": {
+        "question_desc": "봄? 가을?",
+        "activity": 403,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "봄",
+            "가을"
+        ],
+        "hero_comment": [
+            "봄이 더 좋아? 귀엽네~",
+            "가을, 만물이 익어가는 계절이지. 난 가을이 참 좋아~"
+        ]
+    },
+    "404": {
+        "question_desc": "클래식 음악을 좋아합니까? 팝을 좋아합니까?",
+        "activity": 404,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "클래식",
+            "팝"
+        ],
+        "hero_comment": [
+            "고상한 취향을 가진 어린 양을 어떻게 안 좋아하겠어~ 잘 따라오고 있네, 아주 마음에 들어~",
+            "흠~ 이런 취향의 음악을 좋아하는구나, 흥미로운데?"
+        ]
+    },
+    "405": {
+        "question_desc": "달콤한 음식을 좋아합니까? 새콤한 음식을 좋아합니까?",
+        "activity": 405,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "달콤",
+            "새콤"
+        ],
+        "hero_comment": [
+            "후후, 일부러 나한테 맞추려고 노력하는 건 아니지?",
+            "네 입맛은 꼭 너처럼 특별해~ 우리 어린 양에 대해 점점 더 궁금해지는데?"
+        ]
+    },
+    "501": {
+        "question_desc": "솜 베개? 경추 베개?",
+        "activity": 501,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "솜 베개",
+            "경추 베개"
+        ],
+        "hero_comment": [
+            "오네이로이는 말랑한 게 좋은데... 관리자님도 그래요? 헤, 좋다...",
+            "관리자님, 이런 거 좋아하는구나... 이거 베고 자면, 어떤 꿈을 꿀까..."
+        ]
+    },
+    "502": {
+        "question_desc": "둘 중 누가 더 매운 음식을 잘 먹습니까?",
+        "activity": 502,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "오네이로이",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "제가... 매운 거? 흐윽... 싫어...",
+            "저는 매운 거 먹으면 눈물 나는데... 관리자님은 대단해요..."
+        ]
+    },
+    "503": {
+        "question_desc": "낮? 밤?",
+        "activity": 503,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "낮",
+            "밤"
+        ],
+        "hero_comment": [
+            "아침에는... 밝아서 잠이 안 와요...",
+            "하암~ 밤이 죠아... 안고 잘 거야... 음... 빛 싫어..."
+        ]
+    },
+    "504": {
+        "question_desc": "과일 사탕? 다크 초콜릿?",
+        "activity": 504,
+        "correct_answer": 1,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "과일 사탕",
+            "다크 초콜릿"
+        ],
+        "hero_comment": [
+            "달달한 거... 좋아요... 관리자님도 좋아하면... 나눠줄게요...",
+            "너무 써..."
+        ]
+    },
+    "505": {
+        "question_desc": " 둘 중 누가 더 사교에 능합니까?",
+        "activity": 505,
+        "correct_answer": 2,
+        "stroy_id_list": "",
+        "answer_desc": [
+            "오네이로이",
+            "<nickname>"
+        ],
+        "hero_comment": [
+            "...에? 제가요?",
+            "관리자님은 사람들이랑 잘 노는데... 전 자꾸 잠이 와서..."
+        ]
+    },
+    "2125211": {
+        "question_desc": "가장 좋아하는 책은 뭐야?",
+        "activity": 2125211,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910804011
+        ]
+    },
+    "2125212": {
+        "question_desc": "가장 인상 깊은 추억이 있어?",
+        "activity": 2125212,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910804021
+        ]
+    },
+    "2125213": {
+        "question_desc": "휴가를 보내고 싶은 장소는?",
+        "activity": 2125213,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910804031
+        ]
+    },
+    "2125214": {
+        "question_desc": "관리자의 내일 일정은?",
+        "activity": 2125214,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "바비큐 먹기",
+            "보고서 처리"
+        ],
+        "stroy_id_list": [
+            910804051,
+            910804041
+        ]
+    },
+    "2125215": {
+        "question_desc": "맑은 날이 좋아? 비 오는 날이 좋아?",
+        "activity": 2125215,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "비 오는 날?",
+            "맑은 날?"
+        ],
+        "stroy_id_list": [
+            910804061,
+            910804071
+        ]
+    },
+    "2125216": {
+        "question_desc": "전투 방면에서... 관리자는 날 어떻게 생각해?",
+        "activity": 2125216,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "별로",
+            "넌 최선을 다하고 있어"
+        ],
+        "stroy_id_list": [
+            910804091,
+            910804081
+        ]
+    },
+    "2125221": {
+        "question_desc": "연구 말고 다른 취미는 없어?",
+        "activity": 2125221,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910801011
+        ]
+    },
+    "2125222": {
+        "question_desc": "네 실험실을 구경해도 될까?",
+        "activity": 2125222,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910801021
+        ]
+    },
+    "2125223": {
+        "question_desc": "지금 몸 상태는 어때?",
+        "activity": 2125223,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910801031
+        ]
+    },
+    "2125224": {
+        "question_desc": "인간으로서 모디파이어들 사이에서 사는 건 어떤 느낌이야?",
+        "activity": 2125224,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "위축돼",
+            "특별한 건 없어"
+        ],
+        "stroy_id_list": [
+            910801051,
+            910801041
+        ]
+    },
+    "2125225": {
+        "question_desc": "관리자는 날 어떻게 생각해?",
+        "activity": 2125225,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "넌 그냥 집명이야",
+            "..."
+        ],
+        "stroy_id_list": [
+            910801061,
+            910801071
+        ]
+    },
+    "2125226": {
+        "question_desc": "관리자는 무슨 선물을 받고 싶어?",
+        "activity": 2125226,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "마음이 담긴 선물",
+            "선물은 필요 없어"
+        ],
+        "stroy_id_list": [
+            910801081,
+            910801091
+        ]
+    },
+    "2125231": {
+        "question_desc": "너랑 [원전초본] 속 협객 중에 누가 더 강해?",
+        "activity": 2125231,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910802011
+        ]
+    },
+    "2125232": {
+        "question_desc": "비디오 게임 좋아해?",
+        "activity": 2125232,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910802021
+        ]
+    },
+    "2125233": {
+        "question_desc": "약목궁에서의 수행은 재밌었어?",
+        "activity": 2125233,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910802031
+        ]
+    },
+    "2125234": {
+        "question_desc": "관리자는 천통술을 배워보고 싶어?",
+        "activity": 2125234,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "응",
+            "아니"
+        ],
+        "stroy_id_list": [
+            910802041,
+            910802051
+        ]
+    },
+    "2125235": {
+        "question_desc": "관리자는 내가 한 음식을 먹어보고 싶어?",
+        "activity": 2125235,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "아니, 됐어",
+            "물론이지!"
+        ],
+        "stroy_id_list": [
+            910802071,
+            910802061
+        ]
+    },
+    "2125236": {
+        "question_desc": "관리자는 [원전초본]을 어떻게 생각해?",
+        "activity": 2125236,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "괜찮은 소녀 만화",
+            "희대의 명작!"
+        ],
+        "stroy_id_list": [
+            910802091,
+            910802081
+        ]
+    },
+    "2125241": {
+        "question_desc": "평소에 마음의 방에서는 뭘 해?",
+        "activity": 2125241,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910803011
+        ]
+    },
+    "2125242": {
+        "question_desc": "네가 바라는 삶은 어떤 모습이야?",
+        "activity": 2125242,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910803021
+        ]
+    },
+    "2125243": {
+        "question_desc": "나에 대한 생각이 바뀌었어?",
+        "activity": 2125243,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910803031
+        ]
+    },
+    "2125244": {
+        "question_desc": "왜 인간은 짠 음식과 단 음식을 두고 싸우는 걸까... 넌 감자칩과 크림빵 중에서 뭘 더 좋아해?",
+        "activity": 2125244,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "감자칩",
+            "크림빵"
+        ],
+        "stroy_id_list": [
+            910803041,
+            910803051
+        ]
+    },
+    "2125245": {
+        "question_desc": "이봐, 어느 옷이 내 신분에 더 잘 맞는다고 생각해?",
+        "activity": 2125245,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "수수한 의상",
+            "화려한 예복"
+        ],
+        "stroy_id_list": [
+            910803071,
+            910803061
+        ]
+    },
+    "2125246": {
+        "question_desc": "당신은 어떤 유형의 이야기를 좋아하죠?",
+        "activity": 2125246,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "마음이 따듯해지는 이야기",
+            "치열한 다툼이 있는 이야기"
+        ],
+        "stroy_id_list": [
+            910803081,
+            910803091
+        ]
+    },
+    "2125251": {
+        "question_desc": "사방원에 있지 않을 때는 주로 뭘 하나요?",
+        "activity": 2125251,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910805011
+        ]
+    },
+    "2125252": {
+        "question_desc": "고수를 가득 뿌린 만두를 한 그릇 준다면 먹을 건가요?",
+        "activity": 2125252,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910805021
+        ]
+    },
+    "2125253": {
+        "question_desc": "어린아이와 노는 걸 좋아해요?",
+        "activity": 2125253,
+        "correct_answer": 0,
+        "hero_comment": "",
+        "answer_desc": [],
+        "stroy_id_list": [
+            910805031
+        ]
+    },
+    "2125254": {
+        "question_desc": "관리자는 지금도 나를 경계하고 있나요?",
+        "activity": 2125254,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "어느 정도는",
+            "..."
+        ],
+        "stroy_id_list": [
+            910805041,
+            910805051
+        ]
+    },
+    "2125255": {
+        "question_desc": "관리자님은 제 성격이 어떤 것 같나요?",
+        "activity": 2125255,
+        "correct_answer": 1,
+        "hero_comment": "",
+        "answer_desc": [
+            "괜찮은 정도?",
+            "누구보다 완벽해!"
+        ],
+        "stroy_id_list": [
+            910805061,
+            910805071
+        ]
+    },
+    "2125256": {
+        "question_desc": "기회가 된다면 같이 에버베인 구도시에 가볼래요?",
+        "activity": 2125256,
+        "correct_answer": 2,
+        "hero_comment": "",
+        "answer_desc": [
+            "안 될 건 없지?",
+            "물론"
+        ],
+        "stroy_id_list": [
+            910805091,
+            910805081
+        ]
+    },
+    "all": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        201,
+        202,
+        203,
+        204,
+        205,
+        301,
+        302,
+        303,
+        304,
+        305,
+        401,
+        402,
+        403,
+        404,
+        405,
+        501,
+        502,
+        503,
+        504,
+        505,
+        2125211,
+        2125212,
+        2125213,
+        2125214,
+        2125215,
+        2125216,
+        2125221,
+        2125222,
+        2125223,
+        2125224,
+        2125225,
+        2125226,
+        2125231,
+        2125232,
+        2125233,
+        2125234,
+        2125235,
+        2125236,
+        2125241,
+        2125242,
+        2125243,
+        2125244,
+        2125245,
+        2125246,
+        2125251,
+        2125252,
+        2125253,
+        2125254,
+        2125255,
+        2125256
+    ]
+}

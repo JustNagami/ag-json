@@ -1,0 +1,379 @@
+{
+    "0": {
+        "desc_battle": "",
+        "icon_battle": "0",
+        "name": "0",
+        "type": -1,
+        "dismantle_return": 0,
+        "upgrade_cost": 0,
+        "condition": 0,
+        "desc": "0",
+        "sub_type": 0,
+        "activity_id": 101591,
+        "mini_tip": "",
+        "id": 0,
+        "icon": "0",
+        "title": "무인기 유형 선택 ",
+        "sub_array": [
+            1001,
+            1009
+        ]
+    },
+    "1001": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1001",
+        "name": "제어형-A",
+        "type": 0,
+        "dismantle_return": 160,
+        "upgrade_cost": 160,
+        "condition": 0,
+        "desc": "사정거리 <color=#FF9500>10</color>m, <color=#FF9500>3</color>초마다 <color=#FF9500>230%</color>의 단일 피해를 1회 입힘, 명중된 적군의 이동속도 <color=#FF9500>35%</color> 감소, <color=#FF9500>2.5</color>초간 지속",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "분기점 ",
+        "id": 1001,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1001",
+        "title": "           무인기 강화 ",
+        "desc_battle": [
+            "낮은 피해, 감속"
+        ],
+        "sub_array": [
+            1002
+        ]
+    },
+    "1002": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1002",
+        "name": "제어형-A1",
+        "type": 0,
+        "dismantle_return": 250,
+        "upgrade_cost": 250,
+        "condition": 0,
+        "desc": "사정거리 <color=#FF9500>12</color>m, <color=#FF9500>3</color>초마다 <color=#FF9500>350%</color>의 단일 피해를 1회 입힘, 명중된 적군의 이동속도 <color=#FF9500>35%</color> 감소, <color=#FF9500>2.5</color>초간 지속",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "강화 ",
+        "id": 1002,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1002",
+        "title": "무인기 분기점 루트 선택 ",
+        "desc_battle": [
+            "보통 피해, 감속"
+        ],
+        "sub_array": [
+            1003,
+            1004
+        ]
+    },
+    "1003": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1003",
+        "name": "광역피해형 서브",
+        "type": 0,
+        "dismantle_return": 300,
+        "upgrade_cost": 300,
+        "condition": 101601,
+        "desc": "사정거리 <color=#FF9500>12</color>m, 초당 <color=#FF9500>50%</color>의 범위 피해를 입힘, 범위 내 적군의 이동속도 <color=#FF9500>35%</color> 감소, <color=#FF9500>2.5</color>초간 지속",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "분기점 ",
+        "id": 1003,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1003",
+        "title": "강화할 무인기 선택 ",
+        "desc_battle": [
+            "범위 피해, 감속"
+        ],
+        "sub_array": [
+            1005,
+            1006
+        ]
+    },
+    "1004": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1004",
+        "name": "빙결형 서브",
+        "type": 0,
+        "dismantle_return": 300,
+        "upgrade_cost": 300,
+        "condition": 101602,
+        "desc": "사정거리 <color=#FF9500>12</color>m, <color=#FF9500>8</color>초마다 빙결탄 1개 발사, 명중 시 반경 <color=#FF9500>4</color>m 내에 <color=#FF9500>500%</color>의 범위 피해를 입히고 명중된 적군에게 빙결 상태 부여, <color=#FF9500>3</color>초간 지속",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "분기점 ",
+        "id": 1004,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1004",
+        "title": "강화할 무인기 선택 ",
+        "desc_battle": [
+            "빙결탄 발사"
+        ],
+        "sub_array": [
+            1007,
+            1008
+        ]
+    },
+    "1005": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1005",
+        "name": "용해 장치",
+        "type": 0,
+        "dismantle_return": 200,
+        "upgrade_cost": 200,
+        "condition": 101601,
+        "desc": "장치 최대 레벨 <color=#FF9500>3</color>, 적군의 HP가 낮을수록 입히는 피해 증가, 적군의 HP가 <color=#FF9500>1%</color> 손실될 때마다 추가로 <color=#FF9500>1%</color>, <color=#FF9500>2%</color>, <color=#FF9500>3%</color>의 피해를 입힘",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "LV{0}",
+        "id": 1005,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1005",
+        "title": "",
+        "desc_battle": [
+            "HP가 낮을수록 피해 증가",
+            "HP가 낮을수록 피해 증가",
+            "HP가 낮을수록 피해 증가"
+        ],
+        "sub_array": []
+    },
+    "1006": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1006",
+        "name": "혼란 장치",
+        "type": 0,
+        "dismantle_return": 300,
+        "upgrade_cost": 300,
+        "condition": 101601,
+        "desc": "장치 최대 레벨 <color=#FF9500>2</color>, <color=#FF9500>25</color>, <color=#FF9500>15</color>초마다 범위 내의 적군을 혼란시킴, <color=#FF9500>5</color>초간 지속",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "LV{0}",
+        "id": 1006,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1006",
+        "title": "",
+        "desc_battle": [
+            "25초마다 적군에게 혼란 부여",
+            "15초마다 적군에게 혼란 부여"
+        ],
+        "sub_array": []
+    },
+    "1007": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1007",
+        "name": "쇄빙 장치",
+        "type": 0,
+        "dismantle_return": 200,
+        "upgrade_cost": 200,
+        "condition": 101602,
+        "desc": "장치 최대 레벨 <color=#FF9500>3</color>, 빙결 해제 시 추가로 <color=#FF9500>300%</color>, <color=#FF9500>600%</color>, <color=#FF9500>900%</color>의 피해를 입힘",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "LV{0}",
+        "id": 1007,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1007",
+        "title": "",
+        "desc_battle": [
+            "빙결 해제 시 보통 피해 받음",
+            "빙결 해제 시 높은 피해 받음",
+            "빙결 해제 시 강력한 피해 받음"
+        ],
+        "sub_array": []
+    },
+    "1008": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1008",
+        "name": "극한 장치",
+        "type": 0,
+        "dismantle_return": 300,
+        "upgrade_cost": 300,
+        "condition": 101602,
+        "desc": "장치 최대 레벨 <color=#FF9500>2</color>, 빙결탄의 영향 범위를 <color=#FF9500>6</color>m, <color=#FF9500>8</color>m로 확대",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "LV{0}",
+        "id": 1008,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1008",
+        "title": "",
+        "desc_battle": [
+            "빙결 범위 소폭 증가",
+            "빙결 범위 대폭 증가"
+        ],
+        "sub_array": []
+    },
+    "1009": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1009",
+        "name": "공격형-B",
+        "type": 1,
+        "dismantle_return": 110,
+        "upgrade_cost": 110,
+        "condition": 0,
+        "desc": "사정거리 <color=#FF9500>10</color>m, <color=#FF9500>1.5</color>초마다 <color=#FF9500>180%</color>의 단일 피해를 1회 입힘",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "분기점 ",
+        "id": 1009,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1009",
+        "title": "           무인기 강화 ",
+        "desc_battle": [
+            "보통 피해"
+        ],
+        "sub_array": [
+            1010
+        ]
+    },
+    "1010": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1010",
+        "name": "공격형-B1",
+        "type": 1,
+        "dismantle_return": 160,
+        "upgrade_cost": 160,
+        "condition": 0,
+        "desc": "사정거리 <color=#FF9500>12</color>m, <color=#FF9500>1.5</color>초마다 <color=#FF9500>250%</color>의 단일 피해를 1회 입힘",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "강화 ",
+        "id": 1010,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1010",
+        "title": "무인기 분기점 루트 선택",
+        "desc_battle": [
+            "높은 피해"
+        ],
+        "sub_array": [
+            1011,
+            1012
+        ]
+    },
+    "1011": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1011",
+        "name": "화염형 서브",
+        "type": 1,
+        "dismantle_return": 230,
+        "upgrade_cost": 230,
+        "condition": 101601,
+        "desc": "사정거리 <color=#FF9500>12</color>m, <color=#FF9500>6</color>초마다 화염탄 1개 발사, 명중 시 반경 <color=#FF9500>5</color>m 내에 <color=#FF9500>500%</color>의 범위 피해를 입힘",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "분기점 ",
+        "id": 1011,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1011",
+        "title": "강화할 무인기 선택",
+        "desc_battle": [
+            "화염탄 발사"
+        ],
+        "sub_array": [
+            1013,
+            1014
+        ]
+    },
+    "1012": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1012",
+        "name": "저격형 서브",
+        "type": 1,
+        "dismantle_return": 275,
+        "upgrade_cost": 275,
+        "condition": 101602,
+        "desc": "사정거리 <color=#FF9500>20</color>m, <color=#FF9500>8</color>초마다 적군을 저격하고, 정예 대상을 우선 선택해 <color=#FF9500>2000%</color>의 단일 피해를 1회 입힘",
+        "sub_type": 1,
+        "activity_id": 101591,
+        "mini_tip": "분기점 ",
+        "id": 1012,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1012",
+        "title": "강화할 무인기 선택",
+        "desc_battle": [
+            "저속 강공의 원거리 사정거리"
+        ],
+        "sub_array": [
+            1015,
+            1016
+        ]
+    },
+    "1013": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1013",
+        "name": "연소 장치",
+        "type": 1,
+        "dismantle_return": 200,
+        "upgrade_cost": 200,
+        "condition": 101601,
+        "desc": "장치 최대 레벨 <color=#FF9500>3</color>, 화염탄으로 적군 명중 시 <color=#FF9500>1</color>, <color=#FF9500>2</color>, <color=#FF9500>3</color>급의 점화 상태 부여, <color=#FF9500>12</color>초간 지속",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "LV{0}",
+        "id": 1013,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1013",
+        "title": "",
+        "desc_battle": [
+            "명중 시 1급 점화 부여",
+            "명중 시 2급 점화 부여",
+            "명중 시 3급 점화 부여"
+        ],
+        "sub_array": []
+    },
+    "1014": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1014",
+        "name": "다발 장치",
+        "type": 1,
+        "dismantle_return": 300,
+        "upgrade_cost": 300,
+        "condition": 101601,
+        "desc": "장치 최대 레벨 <color=#FF9500>2</color>, 추가로 <color=#FF9500>1</color>, <color=#FF9500>2</color>개의 화염탄 발사",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "LV{0}",
+        "id": 1014,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1014",
+        "title": "",
+        "desc_battle": [
+            "화염탄 2발 발사",
+            "화염탄 3발 발사"
+        ],
+        "sub_array": []
+    },
+    "1015": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1015",
+        "name": "과부하 장치",
+        "type": 1,
+        "dismantle_return": 200,
+        "upgrade_cost": 200,
+        "condition": 101602,
+        "desc": "장치 최대 레벨 <color=#FF9500>3</color>, 저격 속도 증가, 공격 간격을 <color=#FF9500>7</color>, <color=#FF9500>6</color>, <color=#FF9500>5</color>초로 변경",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "LV{0}",
+        "id": 1015,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1015",
+        "title": "",
+        "desc_battle": [
+            "발사 속도 증가",
+            "발사 속도 증가",
+            "발사 속도 증가"
+        ],
+        "sub_array": []
+    },
+    "1016": {
+        "icon_battle": "TextureConfig/MardukUI/boss/snakeactive_buff02/1016",
+        "name": "표식 장치",
+        "type": 1,
+        "dismantle_return": 300,
+        "upgrade_cost": 300,
+        "condition": 101602,
+        "desc": "장치 최대 레벨 <color=#FF9500>2</color>, 공격하여 대상에 표식을 남기고, 입히는 피해 <color=#FF9500>50%</color>, <color=#FF9500>100%</color> 증가, <color=#FF9500>3</color>초간 지속",
+        "sub_type": 2,
+        "activity_id": 101591,
+        "mini_tip": "LV{0}",
+        "id": 1016,
+        "icon": "TextureConfig/MardukUI/boss/snakeactive/1016",
+        "title": "",
+        "desc_battle": [
+            "대상에게 50% 취약 부여",
+            "대상에게 100% 취약 부여"
+        ],
+        "sub_array": []
+    },
+    "all": [
+        0,
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016
+    ]
+}

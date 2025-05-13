@@ -1,0 +1,3830 @@
+{
+    "401": {
+        "simple_description": "크리티컬 피해 증가.",
+        "id": 401,
+        "description": [
+            500000401
+        ],
+        "level_param": [
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "402": {
+        "simple_description": "필살기 피해 증가.",
+        "id": 402,
+        "description": [
+            500000402
+        ],
+        "level_param": [
+            [
+                240,
+                280,
+                320,
+                360,
+                400,
+                440,
+                480
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "403": {
+        "simple_description": "크리티컬 확률 증가.",
+        "id": 403,
+        "description": [
+            500000403
+        ],
+        "level_param": [
+            [
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "404": {
+        "simple_description": "공격력 증가.",
+        "id": 404,
+        "description": [
+            500000404
+        ],
+        "level_param": [
+            [
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "405": {
+        "simple_description": "방어력 증가.",
+        "id": 405,
+        "description": [
+            500000405
+        ],
+        "level_param": [
+            [
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "406": {
+        "simple_description": "회피 효과 발동 시, 스킬 피해 증가.",
+        "id": 406,
+        "description": [
+            500000406
+        ],
+        "level_param": [
+            [
+                300,
+                350,
+                400,
+                450,
+                500,
+                550,
+                600
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "407": {
+        "simple_description": "스킬 및 필살기를 시전해 명중 순간 크리티컬 확률 증가.",
+        "id": 407,
+        "description": [
+            500000407
+        ],
+        "level_param": [
+            [
+                90,
+                105,
+                120,
+                135,
+                150,
+                165,
+                180
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "408": {
+        "simple_description": "피격 시, 공격력 및 방어력 증가.",
+        "id": 408,
+        "description": [
+            500000408
+        ],
+        "level_param": [
+            [
+                60,
+                70,
+                80,
+                90,
+                100,
+                110,
+                120
+            ],
+            [
+                50,
+                50,
+                50,
+                50,
+                50,
+                50,
+                50
+            ],
+            [
+                90,
+                90,
+                90,
+                90,
+                90,
+                90,
+                90
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "409": {
+        "simple_description": "회피 효과 발동 시, 시스템 수치 획득률 증가.",
+        "id": 409,
+        "description": [
+            500000409
+        ],
+        "level_param": [
+            [
+                180,
+                210,
+                240,
+                270,
+                300,
+                330,
+                360
+            ],
+            [
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "410": {
+        "simple_description": "일반공격으로 크리티컬 발동 시, 공격력 증가.",
+        "id": 410,
+        "description": [
+            500000410
+        ],
+        "level_param": [
+            [
+                30,
+                35,
+                40,
+                45,
+                50,
+                55,
+                60
+            ],
+            [
+                90,
+                90,
+                90,
+                90,
+                90,
+                90,
+                90
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "411": {
+        "simple_description": "회피 효과 발동 시, 크리티컬 확률 증가.",
+        "id": 411,
+        "description": [
+            500000411
+        ],
+        "level_param": [
+            [
+                90,
+                105,
+                120,
+                135,
+                150,
+                165,
+                180
+            ],
+            [
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "412": {
+        "simple_description": "일반공격 적군 명중 시, 스킬 피해 증가.",
+        "id": 412,
+        "description": [
+            500000412
+        ],
+        "level_param": [
+            [
+                48,
+                56,
+                64,
+                72,
+                80,
+                88,
+                96
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "413": {
+        "simple_description": "회피 효과 발동 시, 공격력 증가.",
+        "id": 413,
+        "description": [
+            500000413
+        ],
+        "level_param": [
+            [
+                180,
+                210,
+                240,
+                270,
+                300,
+                330,
+                360
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "414": {
+        "simple_description": "적군 HP의 따라 자신이 공격 명중 시 모디파이드 수치 증가.",
+        "id": 414,
+        "description": [
+            500000414
+        ],
+        "level_param": [
+            [
+                180,
+                210,
+                240,
+                270,
+                300,
+                330,
+                360
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "415": {
+        "simple_description": "회피 효과 발동 시, 방패 획득.",
+        "id": 415,
+        "description": [
+            500000415
+        ],
+        "level_param": [
+            [
+                42,
+                49,
+                56,
+                63,
+                70,
+                77,
+                84
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "416": {
+        "simple_description": "자신이 발동하는 절대 공간의 지속 시간이 연장된다.\n절대 공간 상태일 경우, 스킬 피해 증가.",
+        "id": 416,
+        "description": [
+            500000416
+        ],
+        "level_param": [
+            [
+                300,
+                350,
+                400,
+                450,
+                500,
+                550,
+                600
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "417": {
+        "simple_description": "시스템 수치 소모 시, 소모량에 따라 스킬 피해 증가.",
+        "id": 417,
+        "description": [
+            500000417
+        ],
+        "level_param": [
+            [
+                240,
+                280,
+                320,
+                360,
+                400,
+                440,
+                480
+            ],
+            [
+                240,
+                280,
+                320,
+                360,
+                400,
+                440,
+                480
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "418": {
+        "simple_description": "스킬 및 필살기를 시전해 명중 시 크리티컬 확률 증가, 크리티컬 피해 증가.",
+        "id": 418,
+        "description": [
+            500000418
+        ],
+        "level_param": [
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            [
+                300,
+                350,
+                400,
+                450,
+                500,
+                550,
+                600
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "419": {
+        "simple_description": "회피 효과 발동 시, 공격자가 받는 피해가 증가하며, 해당 유형의 효과는 중첩될 수 없다.\n극한회피 시마다, 회피 효과의 쿨타임이 단축된다.",
+        "id": 419,
+        "description": [
+            500000419
+        ],
+        "level_param": [
+            [
+                90,
+                105,
+                120,
+                135,
+                150,
+                165,
+                180
+            ],
+            [
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "420": {
+        "simple_description": "이상 상태인 적군에게 입히는 명중 순간 피해 증가.\n이상 상태: 타격, 점화, 기절, 빙결, 속박, 혼란",
+        "id": 420,
+        "description": [
+            500000420
+        ],
+        "level_param": [
+            [
+                150,
+                175,
+                200,
+                225,
+                250,
+                275,
+                300
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "421": {
+        "simple_description": "전투 시작 시 HP가 처음으로 일정 수치보다 낮으면, 자신이 최대 HP의 방패를 획득한다. 방패가 파괴될 시 자신을 원형 중심으로 주변에 확산성 물결을 발사한다. 물결은 적군을 격퇴하고 물 속성 피해를 준다.",
+        "id": 421,
+        "description": [
+            500000421
+        ],
+        "level_param": [
+            [
+                200,
+                250,
+                300,
+                350,
+                400,
+                450,
+                500
+            ],
+            [
+                19070,
+                19070,
+                19070,
+                19070,
+                19070,
+                19070,
+                19070
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "422": {
+        "simple_description": "스킬 피해 증가.",
+        "id": 422,
+        "description": [
+            500000422
+        ],
+        "level_param": [
+            [
+                60,
+                75,
+                90,
+                105,
+                120,
+                135,
+                150
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "423": {
+        "simple_description": "회피 효과 발동 시, 자신의 필살기 획득률 증가.",
+        "id": 423,
+        "description": [
+            500000423
+        ],
+        "level_param": [
+            [
+                480,
+                560,
+                640,
+                720,
+                800,
+                880,
+                960
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "424": {
+        "simple_description": "적군 명중 시, 명중한 적군에게 파괴 상태를 부여한다. 해당 효과는 쿨타임을 가지며, 중첩될 수 없다.",
+        "id": 424,
+        "description": [
+            500000424
+        ],
+        "level_param": [
+            [
+                96,
+                112,
+                128,
+                144,
+                160,
+                176,
+                192
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "425": {
+        "simple_description": "모디파이드 레벨이 <color=#ED6117>B</color> 이상일 시, 일반공격 피해 증가.\n모디파이드 레벨이 <color=#ED6117>A</color> 이상일 시, 스킬 피해 증가.\n모디파이드 레벨이 <color=#ED6117>S</color> 이상일 시, 필살기 피해 증가.\n모디파이드 레벨이 <color=#ED6117>Ω</color>일 시, 이상 모든 효과가 다시 향상한다. ",
+        "id": 425,
+        "description": [
+            500000425
+        ],
+        "level_param": [
+            [
+                60,
+                75,
+                90,
+                105,
+                120,
+                135,
+                150
+            ],
+            [
+                60,
+                75,
+                90,
+                105,
+                120,
+                135,
+                150
+            ],
+            [
+                60,
+                75,
+                90,
+                105,
+                120,
+                135,
+                150
+            ]
+        ],
+        "spec_char": [],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "109901": {
+        "simple_description": "삭망·츠쿠요미 장착 시 효과는 다음과 같다. \n스킬3 <color=#2380BF>[삭망·달밤]</color>이 <color=#2380BF>[삭망·달의 끝]</color>으로 변경된다.\n신능이 최대이면 <color=#2380BF>[삭망·달의 끝]</color>의 쿨타임이 초기화된다.\n<color=#2380BF>[망·달의 끝]</color>의 차지 시간이 단축되고, 보조 도검의 파동 피해가 증가한다.",
+        "id": 109901,
+        "description": [
+            500109901
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ]
+        ],
+        "spec_char": [
+            1099
+        ],
+        "strengthen_description": [
+            109941,
+            220109901
+        ],
+        "simple_strength_description": [
+            109941,
+            "삭망·츠쿠요미 장착 시 다음 효과 획득:\n스킬3 <color=#2380BF>[삭망·달밤]</color>이 <color=#2380BF>[삭망·달의 끝]</color>으로 변경된다.\n일반공격이 적군 명중 시마다 신능을 추가로 획득한다. 차지 시 경직 효과를 획득한다.\n신능이 최대이면 <color=#2380BF>[삭망·달의 끝]</color>의 쿨타임이 초기화된다.\n<color=#2380BF>[망·달의 끝]</color>의 차지 시간이 단축되고, 기본 피해가 증가한다."
+        ]
+    },
+    "103801": {
+        "simple_description": "불꽃·헤라 장착 시 효과는 다음과 같다. \n스킬2 <color=#2380BF>[히트 엠브레이스]</color>가 <color=#2380BF>[버닝 댄스]</color>로 변경된다.\n<color=#2380BF>[버닝 댄스]</color>가 점화 상태인 적군에게 입히는 피해가 증가한다.",
+        "id": 103801,
+        "description": [
+            500103801
+        ],
+        "level_param": [
+            [
+                280,
+                350,
+                420,
+                490,
+                560,
+                630,
+                700
+            ]
+        ],
+        "spec_char": [
+            1038
+        ],
+        "strengthen_description": [
+            103841,
+            220103801
+        ],
+        "simple_strength_description": [
+            103841,
+            "불꽃·헤라 장착 시 효과는 다음과 같다. \n스킬3의 기본 피해가 증가한다.\n스킬2 <color=#297DE0>[히트 엠브레이스]</color>가 <color=#297DE0>[버닝 댄스]</color>로 변경된다.\n<color=#297DE0>[버닝 댄스]</color>가 [점화] 상태인 적군 명중 순간 피해가 증가한다."
+        ]
+    },
+    "103901": {
+        "simple_description": "바다·포세이돈 장착 시 효과는 다음과 같다. \n스킬1 <color=#2380BF>[바다의 은총]</color>이 <color=#2380BF>[고래의 노래]</color>로 변경된다.\n<color=#2380BF>[고래의 노래]</color>를 시전해 자신 또는 아군을 치료 시, 치료를 받은 자신 또는 아군의 해당 시스템 수치 획득률이 증가하며, 시스템 수치를 획득한다.",
+        "id": 103901,
+        "description": [
+            500103901
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        ],
+        "spec_char": [
+            1039
+        ],
+        "strengthen_description": [
+            103941,
+            220103901
+        ],
+        "simple_strength_description": [
+            103941,
+            "바다·포세이돈 장착 시 효과는 다음과 같다.\n스킬1 <color=#297DE0>[바다의 은총]</color>이 <color=#297DE0>[고래의 노래]</color>로 변경된다.\n치료 버프가 증가한다.\n출전 시 치료 효과 증가에 따라 스킬 피해가 증가한다.\n<color=#297DE0>[고래의 노래]</color>를 시전해 자신 또는 아군을 치료 시, 치료를 받은 자신 또는 아군의 해당 시스템 수치 획득률이 증가하며, 해당 시스템 수치를 획득한다."
+        ]
+    },
+    "104802": {
+        "simple_description": "혜성·젠키보우텐구 장착 시 효과는 다음과 같다. \n스킬1 <color=#2380BF>[지정 타격]</color>이 <color=#2380BF>[단계 폭발]</color>로 변경된다. \n<color=#2380BF>[단계 폭발]</color>의 폭발 횟수는 대폭 증가하지만, 동일한 적군에 대한 후속 폭발 피해는 차례로 감소한다.",
+        "id": 104802,
+        "description": [
+            500104802
+        ],
+        "level_param": [
+            [
+                640,
+                550,
+                460,
+                370,
+                280,
+                190,
+                100
+            ]
+        ],
+        "spec_char": [
+            1048
+        ],
+        "strengthen_description": [
+            104841,
+            220104802
+        ],
+        "simple_strength_description": [
+            104841,
+            "혜성·젠키보우텐구 장착 시 효과는 다음과 같다.\n스킬2, 스킬3의 기본 피해가 증가한다. \n스킬1 <color=#297DE0>[지정 타격]</color>이 <color=#297DE0>[단계 폭발]</color>로 변경된다.\n<color=#297DE0>[단계 폭발]</color>의 폭발 횟수는 증가하지만, 동일한 적군에 대한 후속 폭발 피해는 순차적으로 감소한다."
+        ]
+    },
+    "106601": {
+        "simple_description": "사쿠라·오쿠니누시 장착 시 다음 효과 획득:\n스킬 <color=#2380BF>[토끼 슈팅]</color>이 <color=#2380BF>[토끼 포스]</color>로 대체된다.\n전용 펑터의 레벨에 따라 <color=#2380BF>[토끼 포스]</color>의 명중 순간 기본 피해가 증가하며, 끌어당기는 범위 반경이 증가한다.",
+        "id": 106601,
+        "description": [
+            500106601
+        ],
+        "level_param": [
+            [
+                200,
+                400,
+                600,
+                800,
+                1000,
+                1200,
+                1400
+            ],
+            [
+                160,
+                200,
+                240,
+                280,
+                320,
+                360,
+                400
+            ]
+        ],
+        "spec_char": [
+            1066
+        ],
+        "strengthen_description": [
+            106641,
+            220106601
+        ],
+        "simple_strength_description": [
+            106641,
+            "사쿠라·오쿠니누시 장착 시 효과는 다음과 같다.\n스킬 <color=#297DE0>[토끼 슈팅]</color>이 <color=#297DE0>[토끼 포스]</color>로 대체된다.\n전용 펑터의 레벨에 따라 <color=#297DE0>[토끼 포스]</color>의 명중 순간 독립 피해가 증가하며, 끌어당기는 범위 반경이 증가한다.\n자신 또는 아군이 임의의 <material=underline c=#297DE0 h=2 event=terminology args=(106601)>[점술 효과]</material> 보유 시, 크리티컬 피해가 증가한다."
+        ]
+    },
+    "108401": {
+        "simple_description": "약속·베르단디 장착 시 효과는 다음과 같다. \n스킬1 <color=#2380BF>[고속돌진]</color>이 <color=#2380BF>[허리케인 돌격]</color>으로 변경된다. \n<color=#2380BF>[허리케인 돌격]</color> 또는 <color=#2380BF>[계명]</color> 시전 시 신능을 획득하고, 피해가 증가한다.",
+        "id": 108401,
+        "description": [
+            500108401
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ],
+            [
+                50,
+                50,
+                50,
+                50,
+                50,
+                50,
+                50
+            ]
+        ],
+        "spec_char": [
+            1084
+        ],
+        "strengthen_description": [
+            108441,
+            220108401
+        ],
+        "simple_strength_description": [
+            108441,
+            "약속·베르단디 장착 시 효과는 다음과 같다.\n스킬1 <color=#2380BF>[고속돌진]</color>이 <color=#2380BF>[허리케인 돌격]</color>으로 변경된다.\n<color=#2380BF>[허리케인 돌격]</color> 또는 <color=#2380BF>[계명]</color> 시전 시 신능을 획득하고, 독립 피해가 증가한다."
+        ]
+    },
+    "109301": {
+        "simple_description": "그림자·쿠니노토코타치 장착 시 효과는 다음과 같다. \n<color=#2380BF>[하늘의 의지]</color> 시전 후 고정한 적군에게 수리검 습격을 1회 진행해 물리 피해를 준다. <color=#2380BF>[땅의 의지]</color> 시전 후 주변 적군에게 범위성 충격을 진행해 물리 피해를 준다. \n전용 펑터의 레벨에 따라 <color=#2380BF>[인법]</color>의 피해가 증가한다.",
+        "id": 109301,
+        "description": [
+            500109301
+        ],
+        "level_param": [
+            [
+                3750,
+                3750,
+                3750,
+                3750,
+                3750,
+                3750,
+                3750
+            ],
+            [
+                3750,
+                3750,
+                3750,
+                3750,
+                3750,
+                3750,
+                3750
+            ],
+            [
+                240,
+                300,
+                360,
+                420,
+                480,
+                540,
+                600
+            ]
+        ],
+        "spec_char": [
+            1093
+        ],
+        "strengthen_description": [
+            109341,
+            220109301
+        ],
+        "simple_strength_description": [
+            109341,
+            "그림자·쿠니노토코타치 장착 시 다음 효과 획득:\n<color=#2380BF>[하늘의 의지]</color>, <color=#2380BF>[땅의 의지]</color>의 쿨타임이 단축된다.\n<color=#2380BF>[하늘의 의지]</color> 시전 후 잠금된 적군에게 수리검 습격을 1회 진행해 물리 피해를 주며, <color=#2380BF>[땅의 의지]</color> 시전 후 주변 적군에게 범위성 충격을 1회 진행해 물리 피해를 준다.\n전용 펑터 레벨에 따라 <color=#2380BF>[인법]</color> 독립 피해가 증가한다.\n필살기 시전 시 더 이상 [인지]를 소모하지 않는다."
+        ]
+    },
+    "101901": {
+        "simple_description": "폭풍·슈 장착 시 효과는 다음과 같다. \n스킬3 <color=#2380BF>[파죽지세]</color>가 <color=#2380BF>[승리의 기세]</color>로 변경된다. \n<color=#2380BF>[승리의 기세]</color>로 1명의 적군만 명중 시, 크리티컬 확률 및 크리티컬 피해가 증가한다.",
+        "id": 101901,
+        "description": [
+            500101901
+        ],
+        "level_param": [
+            [
+                160,
+                200,
+                240,
+                280,
+                320,
+                360,
+                400
+            ],
+            [
+                160,
+                200,
+                240,
+                280,
+                320,
+                360,
+                400
+            ]
+        ],
+        "spec_char": [
+            1019
+        ],
+        "strengthen_description": [
+            101941,
+            220101901
+        ],
+        "simple_strength_description": [
+            101941,
+            "폭풍·슈 장착 시 효과는 다음과 같다.\n스킬3 <color=#297DE0>[파죽지세]</color>가 <color=#297DE0>[승리의 기세]</color>로 변경된다.\n<color=#297DE0>[승리의 기세]</color> 명중 순간의 크리티컬 확률, 크리티컬 피해가 증가한다.\n<color=#297DE0>[승리의 기세]</color> 명중 시 전체 아군 바람 속성 피해가 증가한다."
+        ]
+    },
+    "108001": {
+        "simple_description": "서리·비다르 장착 시 효과는 다음과 같다. \n일반공격 <color=#2380BF>[빙원 사냥]</color>이 <color=#2380BF>[서리의 이빨]</color>로 변경된다. \n일반공격 명중 시 일정 확률로 전방의 적군에게 빙결 상태를 부여한다. 일반공격으로 빙결 상태의 적군 명중 후마다 추가로 분노를 획득한다. 일반공격 명중 후 자신을 제외한 일반공격이 전방의 적군을 직접 명중할 경우 얼음 속성 피해를 부여하며, 스킬 피해로 간주한다.",
+        "id": 108001,
+        "description": [
+            500108001
+        ],
+        "level_param": [
+            [
+                400,
+                500,
+                600,
+                700,
+                800,
+                900,
+                1000
+            ],
+            [
+                20,
+                20,
+                20,
+                20,
+                20,
+                20,
+                20
+            ]
+        ],
+        "spec_char": [
+            1080
+        ],
+        "strengthen_description": [
+            108041,
+            220108001
+        ],
+        "simple_strength_description": [
+            108041,
+            "서리·비다르 장착 시 다음 효과 획득:\n일반공격 <color=#2380BF>[빙원 사냥]</color>이 <color=#2380BF>[서리의 이빨]</color>로 변경된다.\n일반공격 시 일정 확률로 명중한 적군에게 빙결 상태를 부여한다. 일반공격으로 빙결 상태인 적군 명중 시 추가로 분노를 획득한다. 일반공격 명중 시 전방에 자신의 일반공격이 아닌 공격에 명중된 적군에게 얼음 속성 피해를 준다.\n일반공격이 적군에게 얼음 속성 저항을 감소시킨다."
+        ]
+    },
+    "105001": {
+        "simple_description": "진홍·부젠보우텐구 장착 시 효과는 다음과 같다. \n스킬2 <color=#2380BF>[적색·풍류의 검]</color>이 <color=#2380BF>[적색·자연의 검]</color>으로 변경된다. \n십자 도광이 일정 거리를 날아가 적군 명중 시 추가로 인장을 획득하고, 명중된 적군에게 파괴 상태를 부여한다.",
+        "id": 105001,
+        "description": [
+            500105001
+        ],
+        "level_param": [
+            [
+                160,
+                200,
+                240,
+                280,
+                320,
+                360,
+                400
+            ]
+        ],
+        "spec_char": [
+            1050
+        ],
+        "strengthen_description": [
+            105042,
+            220105001
+        ],
+        "simple_strength_description": [
+            105042,
+            "진홍·부젠보우텐구 장착 시 효과는 다음과 같다. \n스킬2 <color=#2380BF>[적색·풍류의 검]</color>이 <color=#2380BF>[적색·자연의 검]</color>으로 변경된다. \n십자 도광이 일정 거리를 날아가 적군 명중 시 추가로 인장을 획득하고, 명중된 적군에게 파괴 상태를 부여한다."
+        ]
+    },
+    "114801": {
+        "simple_description": "추격·젠키보우텐구 장착 시 효과는 다음과 같다. \n최대 인장 개수가 증가한다. \n인장 소모 시 피해가 증가한다.",
+        "id": 114801,
+        "description": [
+            500114801
+        ],
+        "level_param": [
+            [
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+            ],
+            [
+                50,
+                50,
+                50,
+                50,
+                50,
+                50,
+                50
+            ]
+        ],
+        "spec_char": [
+            1148
+        ],
+        "strengthen_description": [
+            114841,
+            220114801
+        ],
+        "simple_strength_description": [
+            114841,
+            "추격·젠키보우텐구 장착 시 효과는 다음과 같다. \n스킬3의 기본 피해가 증가한다.\n최대 인장 개수가 증가한다. \n인장 소모 시 피해가 증가한다."
+        ]
+    },
+    "102701": {
+        "simple_description": "스노우·레비아탄 장착 시 효과는 다음과 같다. \n회피 스킬 <color=#2380BF>[빙검의 굴절]</color>이 <color=#2380BF>[폭풍의 반격]</color>으로 변경된다. \n회피 효과 발동 후 또는 회피 효과 사용 가능 시 수신에 성공한 뒤, 일정 시간 내에 일반공격 키를 누르면 닻으로 스킬 공격을 시전한다. 해당 반격은 얼음 속성 피해를 입히고, 명중 대상에게 빙결 상태를 부여한다. \n수신에 성공해도 회피 효과를 획득하며, 이때 회피 효과는 쿨타임이 진행되지 않는다. \n반격 피해가 증가한다.",
+        "id": 102701,
+        "description": [
+            500102701
+        ],
+        "level_param": [
+            [
+                400,
+                500,
+                600,
+                700,
+                800,
+                900,
+                1000
+            ],
+            [
+                20,
+                22,
+                25,
+                28,
+                30,
+                32,
+                35
+            ],
+            [
+                8500,
+                8500,
+                8500,
+                8500,
+                8500,
+                8500,
+                8500
+            ]
+        ],
+        "spec_char": [
+            1027
+        ],
+        "strengthen_description": [
+            102741,
+            220102701
+        ],
+        "simple_strength_description": [
+            102741,
+            "스노우·레비아탄 장착 시 다음 효과 획득:\n회피 스킬 <color=#2380BF>[빙검의 굴절]</color>이 <color=#2380BF>[폭풍의 반격]</color>으로 변경된다.\n회피 효과 발동 후 또는 회피 효과 사용 가능 시 수신에 성공한 뒤, 일정 시간 내에 일반공격 키를 누르면 닻으로 스킬 공격을 시전한다. 해당 공격은 얼음 속성 피해를 주고, 명중된 적군에게 빙결 상태를 부여한다.\n수신에 성공해도 회피 효과를 획득할 수 있으며, 이때 회피 효과는 쿨타임이 진행되지 않는다.\n반격 시 피해가 증가한다.\n회피 시 반드시 회피 효과가 발동되며, 회피 효과가 일정 시간 지속되는 것으로 변경된다."
+        ]
+    },
+    "109401": {
+        "simple_description": "루미너스·헬라 장착 시 효과는 다음과 같다. \n포대 상태에서 포격 시의 신능 소모량이 감소하며, 기본 피해가 증가한다.",
+        "id": 109401,
+        "description": [
+            500109401
+        ],
+        "level_param": [
+            [
+                320,
+                400,
+                480,
+                560,
+                640,
+                720,
+                800
+            ]
+        ],
+        "spec_char": [
+            1094
+        ],
+        "strengthen_description": [
+            109441,
+            220109401
+        ],
+        "simple_strength_description": [
+            109441,
+            "루미너스·헬라 장착 시 효과는 다음과 같다.\n포대 상태에서 포격 시의 신능 소모량이 감소하며, 독립 피해가 증가한다."
+        ]
+    },
+    "103601": {
+        "simple_description": "",
+        "id": 103601,
+        "description": [
+            500103601
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ]
+        ],
+        "spec_char": [
+            1036
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "103701": {
+        "simple_description": "다크네스·호드르 장착 시 효과는 다음과 같다. \n스킬3 <color=#2380BF>[습격의 화살]</color>이 <color=#2380BF>[습격의 시간]</color>으로 변경된다.\n패시브 효과가 제공하는 최대 피해 상한이 향상한다.",
+        "id": 103701,
+        "description": [
+            500103701
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ]
+        ],
+        "spec_char": [
+            1037
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "101101": {
+        "simple_description": "동심·오시리스 장착 시 효과는 다음과 같다. \n모든 신격의 3단계 효과를 획득한다.\n<color=#2380BF>[금기의 칼날]</color>의 기본 피해가 증가한다.",
+        "id": 101101,
+        "description": [
+            500101101
+        ],
+        "level_param": [
+            [
+                360,
+                450,
+                540,
+                630,
+                720,
+                810,
+                900
+            ]
+        ],
+        "spec_char": [
+            1011
+        ],
+        "strengthen_description": [
+            101141,
+            220101101
+        ],
+        "simple_strength_description": [
+            101141,
+            "동심·오시리스 장착 시 다음 효과 획득:\n모든 신격의 3단계 효과를 획득한다.\n<color=#2380BF>[금기의 칼날]</color>의 기본 피해가 증가한다.\n<color=#2380BF>[단죄의 낫]</color>의 기본 피해가 증가한다."
+        ]
+    },
+    "119901": {
+        "simple_description": "진리·츠쿠요미 장착 시 효과는 다음과 같다. \n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(119901)>[뇌극의 인장]</material></color>을 제거할 때마다 또는 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(119901)>[뇌극의 인장]</material></color> 상태의 적군을 처치할 때, 공격력이 증가한다. \n<color=#297DE0>[뇌극·황천]</color> 3식이 모든 분노를 소모하는 것으로 변경되며, 분노 소모량에 따라 <color=#297DE0>[뇌극·황천]</color> 3식의 피해가 증가한다.",
+        "id": 119901,
+        "description": [
+            500119901
+        ],
+        "level_param": [
+            [
+                60,
+                75,
+                90,
+                105,
+                120,
+                135,
+                150
+            ],
+            [
+                90,
+                90,
+                90,
+                90,
+                90,
+                90,
+                90
+            ],
+            [
+                15,
+                15,
+                15,
+                15,
+                15,
+                15,
+                15
+            ]
+        ],
+        "spec_char": [
+            1199
+        ],
+        "strengthen_description": [
+            119941,
+            220119901
+        ],
+        "simple_strength_description": [
+            119941,
+            "진리·츠쿠요미 장착 시 효과는 다음과 같다. \n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(119901)>[뇌극의 인장]</material></color>을 제거할 때마다 또는 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(119901)>[뇌극의 인장]</material></color> 상태의 적군을 처치할 시 공격력이 증가한다.\n<color=#297DE0>[뇌극·황천]</color> 1식, <color=#297DE0>[뇌극·황천]</color> 2식은 더 이상 분노를 소모하지 않고, <color=#297DE0>[뇌극·황천]</color> 3식이 모든 분노를 소모하는 것으로 변경되며, 소모한 분노에 따라 <color=#297DE0>[뇌극·황천]</color> 3식의 독립 피해가 증가한다."
+        ]
+    },
+    "118401": {
+        "simple_description": "서약·베르단디 장착 시 효과는 다음과 같다. \n자신 또는 아군에게 <color=#2380BF>[플레지 가디언]</color>의 방패가 부여될 시 번개 속성 피해가 증가한다.\n<color=#2380BF>[플레지 가디언]</color>의 방패가 제거 또는 리셋될 시 자신을 중심으로 폭발을 1회 일으켜 번개 속성 피해를 입힌다.",
+        "id": 118401,
+        "description": [
+            500118401
+        ],
+        "level_param": [
+            [
+                200,
+                250,
+                300,
+                350,
+                400,
+                450,
+                500
+            ],
+            [
+                120,
+                120,
+                120,
+                120,
+                120,
+                120,
+                120
+            ],
+            [
+                4800,
+                4800,
+                4800,
+                4800,
+                4800,
+                4800,
+                4800
+            ]
+        ],
+        "spec_char": [
+            1184
+        ],
+        "strengthen_description": [
+            118441,
+            220118401
+        ],
+        "simple_strength_description": [
+            118441,
+            "서약·베르단디 장착 시 효과는 다음과 같다.\n자신 또는 아군에게 <color=#297DE0>[플레지 가디언]</color>의 방패가 부여될 시 공격력, 번개 속성 피해가 증가한다.\n<color=#297DE0>[플레지 가디언]</color>으로 시전되는 방패가 제거 또는 초기화될 시 자신을 중심으로 폭발을 1회 일으켜 번개 속성 범위 피해를 준다.\n<color=#297DE0>[카운터 어택]</color> 시전 시 모든 적군을 도발한다.\n자신의 필살기 또는 연계 필살기 공격 명중 순간 모디파이드 수치가 증가한다.\n<color=#297DE0>[플레지 가디언]</color>의 쿨타임이 단축된다."
+        ]
+    },
+    "105901": {
+        "simple_description": "태양·아폴론 장착 시 효과는 다음과 같다. \n패시브에 필요한 명중 횟수가 감소한다.\n자신이 크리티컬 피해 발동 시 에너지를 획득하며, 확률적으로 <color=#2380BF>[빛의 교차]</color>의 쿨타임이 초기화된다.",
+        "id": 105901,
+        "description": [
+            500105901
+        ],
+        "level_param": [
+            [
+                60,
+                70,
+                80,
+                90,
+                100,
+                110,
+                120
+            ],
+            [
+                120,
+                140,
+                160,
+                180,
+                200,
+                220,
+                240
+            ]
+        ],
+        "spec_char": [
+            1059
+        ],
+        "strengthen_description": [
+            105941,
+            220105901
+        ],
+        "simple_strength_description": [
+            105941,
+            "태양·아폴론 장착 시 효과는 다음과 같다. \n패시브에 필요한 명중횟수가 감소한다.\n자신이 크리티컬 발동 시 에너지를 획득하며, 일정 확률로 <color=#2380BF>[빛의 교차]</color>의 쿨타임이 초기화된다.\n추가 공격의 명중 순간 기본 피해가 증가한다.\n추가 공격 명중 시 적군에게 빛 속성 저항 감소 효과를 부여한다."
+        ]
+    },
+    "109601": {
+        "simple_description": "질주·헤르메스 장착 시 효과는 다음과 같다. \n일반공격 마지막 단계 후 일반공격을 연속 클릭하면 분노를 소모해 <color=#2380BF>[바람의 질주]</color>의 추가 공격을 진행하며, 해당 경로로 추가 시전한 <color=#2380BF>[바람의 질주]</color>는 쿨타임이 적용되지 않는다. \n<color=#2380BF>[바람의 질주]</color>의 추가 공격에 명중된 적군의 바람 속성 저항이 감소한다.",
+        "id": 109601,
+        "description": [
+            500109601
+        ],
+        "level_param": [
+            [
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+            ]
+        ],
+        "spec_char": [
+            1096
+        ],
+        "strengthen_description": [
+            109641,
+            220109601
+        ],
+        "simple_strength_description": [
+            109641,
+            "질주·헤르메스 장착 시 효과는 다음과 같다. \n스킬3의 기본 피해가 증가한다.\n일반공격 마지막 단계 후 일반공격을 연속 클릭하면 분노를 소모해 <color=#297DE0>[바람의 질주]</color>의 추가 공격을 진행하며, 해당 경로로 추가 시전한 <color=#297DE0>[바람의 질주]</color>는 쿨타임이 적용되지 않는다. \n<color=#297DE0>[바람의 질주]</color>의 추가 공격에 명중된 적군의 바람 속성 저항이 감소한다."
+        ]
+    },
+    "102601": {
+        "simple_description": "은팔·누아다 장착 시 효과는 다음과 같다. \n차지가 완료된 <color=#2380BF>[화염 세례]</color> 와 <color=#2380BF>[지진 폭탄]</color>의 스킬 피해가 증가한다. \n차지가 완료된 <color=#2380BF>[화염 세례]</color> 또는 <color=#2380BF>[지진 폭탄]</color> 시전 시 명중된 적군에게 <color=#2380BF>[맹렬한 불길]</color> 상태를 부여한다. <color=#2380BF>[맹렬한 불길]</color> 상태인 적군에게 입히는 피해가 증가한다. \n차지가 완료된 스킬을 시전해 <color=#2380BF>[맹렬한 불길]</color> 상태인 적군을 공격 시 폭파를 일으켜 범위 불 속성 피해를 입힌다.",
+        "id": 102601,
+        "description": [
+            500102601
+        ],
+        "level_param": [
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ],
+            [
+                7700,
+                7700,
+                7700,
+                7700,
+                7700,
+                7700,
+                7700
+            ],
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ]
+        ],
+        "spec_char": [
+            1026
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "105801": {
+        "simple_description": "용의 검·가구쓰치 장착 시 효과는 다음과 같다. \n피격 시 공격력이 증가한다. \n<color=#2380BF>[춤추는 지옥불·개]</color> 시전 시 화염의 파도를 발동하며, 경로상의 적군에게 불 속성 피해를 입힌다. <color=#2380BF>[춤추는 지옥불·개]</color>로 다수의 적군을 명중하면 추가로 에너지를 획득한다. \n전용 펑터의 레벨에 따라 화염의 파도의 피해가 증가한다.",
+        "id": 105801,
+        "description": [
+            500105801
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ],
+            [
+                70,
+                70,
+                70,
+                70,
+                70,
+                70,
+                70
+            ],
+            [
+                2550,
+                2550,
+                2550,
+                2550,
+                2550,
+                2550,
+                2550
+            ],
+            [
+                240,
+                300,
+                360,
+                420,
+                480,
+                540,
+                600
+            ]
+        ],
+        "spec_char": [
+            1058
+        ],
+        "strengthen_description": [
+            105841,
+            220105801
+        ],
+        "simple_strength_description": [
+            105841,
+            "용의 검·가구쓰치 장착 시 효과는 다음과 같다.\n자신이 피격 시 공격력이 증가한다.\n<color=#2380BF>[춤추는 지옥불·개]</color> 시전 시 화염의 파도를 발동하며, 경로상의 적군에게 불 속성 피해를 입힌다. <color=#2380BF>[춤추는 지옥불·개]</color>로 다수의 적군을 명중하면 추가로 에너지를 획득한다.\n전용 펑터의 레벨에 따라 화염의 파도의 피해가 증가한다."
+        ]
+    },
+    "109701": {
+        "simple_description": "마도로미·오네이로이 장착 시 효과는 다음과 같다. \n스킬2 <color=#2380BF>[꿈 속 동화]</color>가 <color=#2380BF>[꿈의 낙원]</color>으로 변경된다.\n<color=#2380BF>[꿈의 낙원]</color> 지속시간 동안 아군 전체가 받는 피해가 감소하고, 명중한 적군에게 <color=#2380BF>[몽경]</color> 상태를 부여한다. 일정 시간 간격으로 자신이 모든 <color=#2380BF>[몽경]</color> 상태인 적군에게 어둠 속성 피해를 입힌다.",
+        "id": 109701,
+        "description": [
+            500109701
+        ],
+        "level_param": [
+            [
+                800,
+                1000,
+                1200,
+                1400,
+                1600,
+                1800,
+                2000
+            ]
+        ],
+        "spec_char": [
+            1097
+        ],
+        "strengthen_description": [
+            109741,
+            220109701
+        ],
+        "simple_strength_description": [
+            109741,
+            "마도로미·오네이로이 장착 시 효과는 다음과 같다.\n스킬2 <color=#297DE0>[꿈 속 동화]</color>가 <color=#297DE0>[꿈의 낙원]</color>으로 변경된다.\n<color=#297DE0>[꿈의 낙원]</color> 지속시간 동안 스킬1 [양 한 마리], 스킬3 [부서진 꿈]의 기본 피해가 증가한다.\n<color=#297DE0>[꿈의 낙원]</color> 지속시간 동안 전체 아군이 받는 피해가 감소하고, 명중한 적군에게 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(109703)>[몽경]</material></color> 상태를 부여하여, 일정 시간마다 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(109703)>[몽경]</material></color> 상태의 적군에게 어둠 속성 피해를 준다."
+        ]
+    },
+    "113901": {
+        "simple_description": "심연·포세이돈 장착 시 효과는 다음과 같다.\n적군을 일정 횟수 명중 시마다 에너지를 획득한다. \n<color=#2380BF>[심연의 경계]</color> 상태 시 <color=#2380BF>[서리의 빛]</color>의 얼음 속성 피해 버프 효과가 증가하며, <color=#2380BF>[만물 봉인]</color>에 명중된 적군의 얼음 속성 저항 감소 효과가 증가한다. \n<color=#2380BF>[심연의 경계]</color> 상태에서 <color=#2380BF>[서리의 빛]</color> 또는 <color=#2380BF>[만물 봉인]</color> 시전 시마다 해당 스킬의 기본 피해가 증가한다.",
+        "id": 113901,
+        "description": [
+            500113901
+        ],
+        "level_param": [
+            [
+                240,
+                230,
+                220,
+                210,
+                200,
+                190,
+                180
+            ],
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ]
+        ],
+        "spec_char": [
+            1139
+        ],
+        "strengthen_description": [
+            113941,
+            220113901
+        ],
+        "simple_strength_description": [
+            113941,
+            "심연·포세이돈 장착 시 효과는 다음과 같다.\n적군을 일정 횟수 명중 시마다 에너지를 획득한다. \n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(113903)>[심연의 경계]</material></color> 상태 시 <color=#297DE0>[서리의 빛]</color>의 얼음 속성 피해 버프 효과가 증가하며, <color=#297DE0>[만물 봉인]</color>에 명중된 적군의 얼음 속성 저항 감소 효과가 증가한다. \n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(113903)>[심연의 경계]</material></color> 상태에서 <color=#297DE0>[서리의 빛]</color> 또는 <color=#297DE0>[만물 봉인]</color> 시전 시마다 해당 스킬의 기본 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(113903)>[심연의 경계]</material></color> 상태일 경우, 초당 자동으로 추가로 에너지를 획득한다.\n3번째 및 이후 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(113903)>[심연의 경계]</material></color> 상태 종료 시, <color=#297DE0>[은빛 메아리]</color>의 남은 쿨타임이 단축된다."
+        ]
+    },
+    "113801": {
+        "simple_description": "환영·헤라 장착 시 효과는 다음과 같다. \n회피 효과 <color=#297DE0>[환각의 빛]</color>이 <color=#297DE0>[흩어진 깃털]</color>로 변경된다. \n회피 시 반드시 회피 효과가 발동된다. 회피를 길게 눌러 에너지를 소모해 추가로 회피 효과를 1회 발동할 수 있다. 해당 효과는 쿨타임을 가진다. <color=#297DE0>[서광의 기도]</color>의 영향을 받은 자신 또는 아군이 절대 공간에서 입히는 피해가 증가한다.",
+        "id": 113801,
+        "description": [
+            500113801
+        ],
+        "level_param": [
+            [
+                320,
+                400,
+                480,
+                560,
+                640,
+                720,
+                800
+            ]
+        ],
+        "spec_char": [
+            1138
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "105601": {
+        "simple_description": "천둥·칼리 장착 시 효과는 다음과 같다. \n출전 시, 자신이 회피 효과 발동 시, 또는 모디파이드 공간 진입 시 강화 효과를 1회 획득한다. \n강화 효과 발동 시마다 공격력이 증가한다. \n강화된 <color=#2380BF>[진노·우뢰 소리]</color>의 추가 발차기 및 강화된 <color=#2380BF>[진노·벼락 치기]</color>의 차지는 회피에 의해 중단하지 않으며, 회피 후 스킬을 터치하면 계속해서 시전할 수 있다.",
+        "id": 105601,
+        "description": [
+            500105601
+        ],
+        "level_param": [
+            [
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+            ],
+            [
+                50,
+                50,
+                50,
+                50,
+                50,
+                50,
+                50
+            ]
+        ],
+        "spec_char": [
+            1056
+        ],
+        "strengthen_description": [
+            105641,
+            220105601
+        ],
+        "simple_strength_description": [
+            105641,
+            "천둥·칼리 장착 시 효과는 다음과 같다.\n스킬1, 2, 3 기본 피해가 증가한다.\n출전 시, 자신이 회피 효과 발동 시마다, 또는 모디파이드 공간 진입 시마다 강화 효과를 1회 획득한다.\n강화 효과 시전 시마다 공격력이 증가한다.\n강화된 <color=#297DE0>[진노·우뢰 소리]</color>의 추가 발차기 및 강화된 <color=#297DE0>[진노·벼락 치기]</color>의 차지는 회피에 의해 중단되지 않으며, 회피 후 스킬을 터치하면 발차기 및 차지를 계속할 수 있다."
+        ]
+    },
+    "111101": {
+        "simple_description": "생혼·오시리스 장착 시 효과는 다음과 같다. \n최대 인장 개수가 증가한다. 출전 시 자신 및 미리 조합된 연계 필살기의 모디파이어가 필살기 수치를 회복한다. \n<color=#2380BF>[어둠의 깃털]</color>이 쿨타임일 경우 재시전 시 인장이 소모되지 않는다. \n<color=#2380BF>[종말의 쇠락]</color>으로 적군 명중 시마다 간헐적으로 HP를 회복한다. 남은 인장을 모두 소모하고, 추가로 소모한 인장 개수에 따라 <color=#2380BF>[종말의 쇠락]</color>의 피해가 증가한다.\n<color=#2380BF>[명부의 심판 모드]</color>에서 <color=#2380BF>[종말의 쇠락]</color>의 피해 버프 효과 및 HP 회복 효과가 증가한다.",
+        "id": 111101,
+        "description": [
+            500111101
+        ],
+        "level_param": [
+            [
+                50,
+                100,
+                150,
+                200,
+                250,
+                300,
+                350
+            ],
+            [
+                120,
+                140,
+                160,
+                180,
+                200,
+                220,
+                240
+            ],
+            [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ],
+            [
+                80,
+                80,
+                80,
+                80,
+                80,
+                80,
+                80
+            ]
+        ],
+        "spec_char": [
+            1111
+        ],
+        "strengthen_description": [
+            111141,
+            220111101
+        ],
+        "simple_strength_description": [
+            111141,
+            "생혼·오시리스 장착 시 다음 효과 획득\n최대 인장 개수가 증가한다. 출전 후 자신 및 자신과 미리 조합된 연계 필살기의 모디파이어가 필살기 수치를 회복한다.\n<color=#2380BF>[어둠의 깃털]</color> 쿨타임 상태일 경우 재시전해도 인장을 소모하지 않는다. <color=#2380BF>[영겁의 윤무]</color>도 더는 인장을 소모하지 않는다.\n<color=#2380BF>[종말의 쇠락]</color>을 명중 시마다 간헐적으로 HP를 회복한다. 남은 인장을 모두 소모하고, 추가로 소모한 인장에 따라 <color=#2380BF>[종말의 쇠락]</color>의 독립 피해가 증가한다.\n<color=#2380BF>[명부의 심판 모드]</color>에서 시전하는 <color=#2380BF>[종말의 쇠락]</color>의 피해 버프 효과 및 HP 회복 효과가 증가한다."
+        ]
+    },
+    "101301": {
+        "simple_description": "장월·아수라 장착 시 효과는 다음과 같다. \n<color=#2380BF>[속박의 화염]</color> 상태와 강화된 <color=#2380BF>[초월의 화염]</color> 간에 연대 관계를 변경한다. 또한 강화된 <color=#2380BF>[초월의 화염]</color>의 시전 타이밍을 변경한다.\n<color=#2380BF>[속박의 화염]</color> 상태 지속시간 동안 명중한 횟수에 따라 <color=#2380BF>[초월의 화염]</color>의 피해가 증가한다.",
+        "id": 101301,
+        "description": [
+            500101301
+        ],
+        "level_param": [
+            [
+                24,
+                30,
+                36,
+                42,
+                48,
+                54,
+                60
+            ],
+            [
+                6600,
+                6600,
+                6600,
+                6600,
+                6600,
+                6600,
+                6600
+            ],
+            [
+                24,
+                30,
+                36,
+                42,
+                48,
+                54,
+                60
+            ],
+            [
+                80,
+                80,
+                80,
+                80,
+                80,
+                80,
+                80
+            ]
+        ],
+        "spec_char": [
+            1013
+        ],
+        "strengthen_description": [
+            101341,
+            220101301
+        ],
+        "simple_strength_description": [
+            101341,
+            "장월·아수라가 장착 시 효과는 다음과 같다.\n<color=#2380BF>[속박의 화염]</color> 상태와 강화 <color=#2380BF>[초월의 화염]</color>간의 연관성을 변경하고, 동시에 강화 <color=#2380BF>[초월의 화염]</color> 시전 시기를 변경한다.\n<color=#2380BF>[속박의 화염]</color> 상태 지속시간 동안 일반공격이 명중한 횟수에 따라 <color=#2380BF>[초월의 화염]</color> 피해가 증가한다.\n<color=#2380BF>[불꽃 날리기]</color>의 쿨타임이 단축된다."
+        ]
+    },
+    "103201": {
+        "simple_description": "킹·티르 장착 시 효과는 다음과 같다. \n일반공격 <color=#2380BF>[디스커버드 어택]</color>이 <color=#2380BF>[킹의 진군]</color>으로 변경된다. \n대검 유형이 <color=#2380BF>[대검·퀸]</color>일 시 피해가 증가하며, 공격 모드를 변경한다.",
+        "id": 103201,
+        "description": [
+            500103201
+        ],
+        "level_param": [
+            [
+                320,
+                400,
+                480,
+                560,
+                640,
+                720,
+                800
+            ],
+            [
+                3170,
+                3170,
+                3170,
+                3170,
+                3170,
+                3170,
+                3170
+            ]
+        ],
+        "spec_char": [
+            1032
+        ],
+        "strengthen_description": [
+            103241,
+            220103201
+        ],
+        "simple_strength_description": [
+            103241,
+            "킹·티르 장착 시 효과는 다음과 같다.\n일반공격 <color=#2380BF>[디스커버드 어택]</color>이 <color=#2380BF>[킹의 진군]</color>으로 변경된다.\n최대 인장 개수가 증가하고, <color=#2380BF>[프론트 컨트롤]</color> 직접 시전 시 추가로 인장을 획득한다.\n대검 유형이 <color=#2380BF>[대검·퀸]</color>일 시 독립 피해가 증가하며, 공격 모드를 변경한다."
+        ]
+    },
+    "103501": {
+        "simple_description": "크로커·소베크 장착 시 효과는 다음과 같다. \n<color=#2380BF>[맹렬한 포효]</color>의 공격 빈도가 증가한다.\n공격 명중 시 명중한 적군의 물 속성 저항이 감소된다.",
+        "id": 103501,
+        "description": [
+            500103501
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ],
+            [
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60
+            ]
+        ],
+        "spec_char": [
+            1035
+        ],
+        "strengthen_description": [
+            103541,
+            220103501
+        ],
+        "simple_strength_description": [
+            103541,
+            "크로커·소베크 장착 시 효과는 다음과 같다.\n스킬2 기본 피해가 증가한다.\n<color=#297DE0>[맹렬한 포효]</color>의 공격 빈도가 증가한다.\n공격 명중 시 명중한 적군의 물 속성 저항이 감소한다.\n<color=#297DE0>[사냥감 포착]</color>이 적군을 지면으로 던져 명중 시 자신의 피해가 증가한다. 적군을 잡을 수 없을 경우에는 <color=#297DE0>[사냥감 포착]</color> 후반 공격 명중 시 자신이 필살기 수치를 회복한다."
+        ]
+    },
+    "103301": {
+        "simple_description": "계명·헤임달 장착 시 효과는 다음과 같다. \n스킬3 <color=#2380BF>[극야의 빛]</color>이 <color=#2380BF>[최상의 신역]</color>으로 변경한다.\n<color=#2380BF>[최상의 신역]</color>으로 생성된 <color=#2380BF>[진리의 영역]</color>의 지속시간이 연장되며, 범위 반경이 증가한다. \n마지막에 생성된 <color=#2380BF>[진리의 영역]</color> 범위 내 아군의 스킬 피해가 일정 시간 간격마다 증가한다.",
+        "id": 103301,
+        "description": [
+            500103301
+        ],
+        "level_param": [
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ],
+            [
+                50,
+                50,
+                50,
+                50,
+                50,
+                50,
+                50
+            ]
+        ],
+        "spec_char": [
+            1033
+        ],
+        "strengthen_description": [
+            103341,
+            220103301
+        ],
+        "simple_strength_description": [
+            103341,
+            "계명·헤임달 장착 시 효과는 다음과 같다.\n스킬3 기본 피해가 증가한다.\n스킬3 <color=#297DE0>[극야의 빛]</color>이 <color=#297DE0>[최상의 신역]</color>으로 변경된다.\n<color=#297DE0>[최상의 신역]</color>으로 생성된 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(103301)>[진리의 영역]</material></color>의 지속시간이 연장되며, 범위 반경이 증가한다.\n<color=#297DE0>[최상의 신역]</color> 시전 시 전체 아군의 모든 속성 피해가 증가하고, 초간 지속된다.\n<color=#297DE0>[최상의 신역]</color> 시전 후 전체 아군이 필살기 수치를 획득한다.\n마지막에 생성된 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(103301)>[진리의 영역]</material></color> 범위 내 아군의 스킬 피해가 일정 시간마다 증가한다."
+        ]
+    },
+    "112701": {
+        "simple_description": "역조·레비아탄 장착 시 효과는 다음과 같다. \n표식 획득 성공 시 또는 [심해의 치유] 시전 시마다 [어둠의 파도]의 남은 쿨타임이 단축된다. [심해의 치유] 시전 시 자신을 추적하는 영역을 생성하고, 영역 범위 내의 적군은 피격 시 근거리 피해 저항이 감소한다.",
+        "id": 112701,
+        "description": [
+            500112701
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ]
+        ],
+        "spec_char": [
+            1127
+        ],
+        "strengthen_description": [
+            112741,
+            220112701
+        ],
+        "simple_strength_description": [
+            112741,
+            "역조·레비아탄 장착 시 효과는 다음과 같다. \n스킬3 [심해의 치유]의 기본 피해가 증가한다.\n표식 획득 성공 또는 <color=#297DE0>[심해의 치유]</color>를 시전할 때마다 <color=#297DE0>[어둠의 파도]</color>의 남은 쿨타임이 단축된다. <color=#297DE0>[심해의 치유]</color> 시전 시 자신을 따라다니는 영역을 생성하고, 영역 범위 내의 적군이 피격 시 근거리 피해 저항이 감소한다."
+        ]
+    },
+    "108101": {
+        "simple_description": "파도·스카디 장착 시 효과는 다음과 같다. \n<color=#2380BF>[부러진 얼음]</color> 및 <color=#2380BF>[흩날리는 결정]</color>에 명중된 적군의 얼음 속성 저항이 감소된다. \n얼음 속성 저항 감소 상태인 적군 명중 순간 피해가 증가하고, 얼음 속성 저항 감소량에 따라 피해가 증가한다.",
+        "id": 108101,
+        "description": [
+            500108101
+        ],
+        "level_param": [
+            [
+                120,
+                120,
+                120,
+                120,
+                120,
+                120,
+                120
+            ],
+            [
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150
+            ],
+            [
+                640,
+                800,
+                960,
+                1120,
+                1280,
+                1440,
+                1600
+            ]
+        ],
+        "spec_char": [
+            1081
+        ],
+        "strengthen_description": [
+            108141,
+            220108101
+        ],
+        "simple_strength_description": [
+            108141,
+            "파도·스카디 장착 시 다음 효과 획득:\n<color=#2380BF>[부러진 얼음]</color> 및 <color=#2380BF>[흩날리는 결정]</color>이 명중된 적군의 얼음 속성 저항을 감소시킨다.\n얼음 속성 저항 감소 상태인 적군의 피해가 증가하고, 얼음 속성 저항 감소가 높을수록 피해도 증가한다.\n[순항모드] 시 자동으로 칼날 형태 미사일을 발사한다.\n장벽을 생성하는 동안의 블로킹 및 [부러진 얼음] 시전 시 [쇄빙] 표식을 더는 소모하지 않는다."
+        ]
+    },
+    "111901": {
+        "simple_description": "스카라베·슈 장착 시 효과는 다음과 같다. \n추격 및 반격 피해가 증가한다. \n추격 시전 또는 반격 발동 중에 자세를 변경하고, 최종 선택한 자세에 따라 추가로 추격 또는 반격을 1회 시전한다. 해당 효과로 인해 추가로 발생한 추격 및 반격은 해당 효과의 발동 조건에 해당되지 않는다.",
+        "id": 111901,
+        "description": [
+            500111901
+        ],
+        "level_param": [
+            [
+                160,
+                200,
+                240,
+                280,
+                320,
+                360,
+                400
+            ]
+        ],
+        "spec_char": [
+            1119
+        ],
+        "strengthen_description": [
+            111941,
+            220111901
+        ],
+        "simple_strength_description": [
+            111941,
+            "스카라베·슈 장착 시 효과는 다음과 같다.\n추격 및 반격의 기본 피해가 증가한다.\n추격 시전 또는 반격 발동 중에 자세를 전환하고, 추가로 상응 스킬의 추격 또는 반격을 1회 시전할 수 있으며, 추가로 발생한 추격 및 반격은 해당 효과를 계속 발동시킬 수 없다."
+        ]
+    },
+    "104201": {
+        "simple_description": "인형사·하데스 장착 시 효과는 다음과 같다. \n<color=#2380BF>[페어 댄스]</color> 상태에서 고정 피해가 증가한다. \n<color=#2380BF>[페어 댄스]</color> 상태에서 로크와 민타가 협동 공격을 진행할 시 적군의 위치에 대량의 실로 만들어진 날카로운 고리를 만들어 어둠 속성 피해를 입힌다.",
+        "id": 104201,
+        "description": [
+            500104201
+        ],
+        "level_param": [
+            [
+                12000,
+                12000,
+                12000,
+                12000,
+                12000,
+                12000,
+                12000
+            ],
+            [
+                80000,
+                100000,
+                120000,
+                140000,
+                160000,
+                180000,
+                200000
+            ]
+        ],
+        "spec_char": [
+            1042
+        ],
+        "strengthen_description": [
+            104241,
+            220104201
+        ],
+        "simple_strength_description": [
+            104241,
+            "인형사·하데스 장착 시 효과는 다음과 같다. \n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104203)>[페어 댄스]</material></color> 상태에서 고정 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104203)>[페어 댄스]</material></color> 상태에서 로크와 민타가 협동 공격을 진행할 시 적군의 위치에 대량의 실로 만들어진 날카로운 고리 3개를 만들어 어둠 속성 피해를 준다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104203)>[페어 댄스]</material></color> 상태일 경우, 슈퍼 아머 효과를 획득하고 받는 피해가 감소한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104203)>「페어 댄스」</material></color> 상태에 진입 시마다, 자신의 독립 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104201)>[지옥의 숨결]</material></color> 표식 획득 간격이 단축된다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104201)>[지옥의 숨결]</material></color> 표식 보유 시 자신이 표식 수량에 따라 크리티컬 확률, 크리티컬 피해 증가 효과를 최대 횟수로 간주한다."
+        ]
+    },
+    "106801": {
+        "simple_description": "정화의 바람·엔릴 장착 시 효과는 다음과 같다. \n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(106801)>[풍경]</material></color> 표식을 획득할 때마다 피해가 증가한다. \n강화되지 않은 <color=#2380BF>[바람 원소 변이]</color> 시전 시에도 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(106801)>[풍경]</material></color> 표식을 획득한다. \n강화된 <color=#2380BF>[바람 원소 변이]</color> 시전 종료 후 강화되지 않은 <color=#2380BF>[바람 원소 변이]</color>의 스킬 강화 효과를 획득한다.",
+        "id": 106801,
+        "description": [
+            500106801
+        ],
+        "level_param": [
+            [
+                60,
+                75,
+                90,
+                105,
+                120,
+                135,
+                150
+            ],
+            [
+                50,
+                50,
+                50,
+                50,
+                50,
+                50,
+                50
+            ]
+        ],
+        "spec_char": [
+            1068
+        ],
+        "strengthen_description": [
+            106841,
+            220106801
+        ],
+        "simple_strength_description": [
+            106841,
+            "정화의 바람·엔릴 장착 시 효과는 다음과 같다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(106801)>[풍경]</material></color> 표식을 획득할 때마다 피해가 증가한다.\n강화되지 않은 <color=#297DE0>[바람 원소 변이]</color> 시전 시 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(106801)>[풍경]</material></color> 표식을 획득한다.\n강화된 <color=#297DE0>[바람 원소 변이]</color> 시전 종료 후 강화되지 않은 <color=#297DE0>[바람 원소 변이]</color>의 스킬 강화 효과를 획득한다.\n필살기 또는 연계 필살기 시전 시, 전체 아군 필살기 피해가 증가한다."
+        ]
+    },
+    "106701": {
+        "simple_description": "오션·오케아노스 장착 시 효과는 다음과 같다. \n크리티컬 확률이 증가한다.\n매단계 일반공격이 명중하거나 매회 스킬을 시전할 시, 단계 수를 누적할 수 있다. 단계 수가 최대이거나, 단계 정지 또는 중단되면 일시적으로 환영이 생성되어 고정 적군에게 공격을 연속 발동한다. 단계 수에 따라 공격 횟수가 결정된다. 환영이 공격을 발동하는 동안 단계 수를 누적할 수 없고, 물 속성 피해를 입히며, 소모한 단계 수에 따라 피해가 증가한다. ",
+        "id": 106701,
+        "description": [
+            500106701
+        ],
+        "level_param": [
+            [
+                60,
+                75,
+                90,
+                105,
+                120,
+                135,
+                150
+            ]
+        ],
+        "spec_char": [
+            1067
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "104101": {
+        "simple_description": "은방울의 현·아테나 장착 시 효과는 다음과 같다. \n[조화의 음폭]의 피해가 증가한다.\n<color=#2380BF>[공명하는 칼날]</color> 상태일 때 자동으로 소모하는 신능이 감소한다. <color=#2380BF>[공명하는 칼날]</color> 상태 지속시간 동안 일반공격 판정에 성공 및 <color=#ED6117>5</color>회 명중 후 <color=#2380BF>[완벽한 조화]</color> 상태에 진입한다. \n<color=#2380BF>[완벽한 조화]</color>: 상태 지속시간 동안 경직 효과 획득하고, 단계별 일반공격과 시전하는 모든 스킬을 판정 성공 또는 완벽한 판정 성공으로 간주하며, 임의의 <color=#2380BF>[조화]</color> 중첩 횟수를 모두 <color=#ED6117>3, 5, 7</color>의 배수로 간주한다.",
+        "id": 104101,
+        "description": [
+            500104101
+        ],
+        "level_param": [
+            [
+                70,
+                70,
+                70,
+                70,
+                70,
+                70,
+                70
+            ],
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ],
+            [
+                500,
+                550,
+                600,
+                650,
+                700,
+                750,
+                800
+            ]
+        ],
+        "spec_char": [
+            1041
+        ],
+        "strengthen_description": [
+            104141,
+            220104101
+        ],
+        "simple_strength_description": [
+            104141,
+            "은방울의 현·아테나 장착 시 효과는 다음과 같다. \n<color=#297DE0>[조화의 음폭]</color>의 명중 순간 독립 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104101)>[공명하는 칼날]</material></color> 상태일 경우 신능 자동 소모가 감소한다. <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104101)>[공명하는 칼날]</material></color> 상태 지속시간 동안 모든 일반공격 판정 성공 및 일정 횟수 명중 시 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104104)>[완벽한 조화]</material></color> 상태에 진입한다. \n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104104)>[완벽한 조화]</material></color>: 상태 지속시간 동안 경직 효과를 획득하고, <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104102)>[조화 판정]</material></color>을 활성화하지 않지만 단계별 일반공격과 시전하는 모든 스킬을 판정 성공 또는 완벽한 판정 성공으로 간주하며, <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104103)>[조화]</material></color> 중첩 횟수를 모두 임의 배수로 간주하고, 판정 성공 또는 완벽한 판정 성공 시 추가로 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104103)>[조화]</material></color> 중첩 횟수를 획득한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104101)>[공명하는 칼날]</material></color> 상태에서 필살기 또는 연계 필살기 시전 시 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104103)>[조화]</material></color> 단계 수가 보류된다.\n완벽한 판정의 판정 구간이 증가한다."
+        ]
+    },
+    "102401": {
+        "simple_description": "자칼·아누비스 장착 시 효과는 다음과 같다. \n<color=#2380BF>[아돌프]</color>가 자동 공격 시 일정 확률로 특수공격을 시전해 어둠 속성 피해를 입히고, 명중된 적군에게 기절 상태를 부여한다. \n<color=#2380BF>[아돌프의 돌격]</color> 시전 시, <color=#2380BF>[아돌프]</color>의 협동 공격이 폭발 효과를 부여하여 소범위 적군에게 어둠 속성 피해를 입힌다. \n<color=#2380BF>[아돌프의 광무]</color> 시전 시, <color=#2380BF>[아돌프]</color>의 협동 공격이 특수공격으로 전환된다.\n<color=#2380BF>[아돌프의 응시]</color> 또는 <color=#2380BF>[아돌프의 마구베기]</color> 시전 시, <color=#2380BF>[아돌프]</color>가 고정한 적군과의 거리에 따라 협동 공격 또는 특수공격을 선택하여 시전한다.\n특수공격의 피해가 증가한다.",
+        "id": 102401,
+        "description": [
+            500102401
+        ],
+        "level_param": [
+            [
+                12000,
+                12000,
+                12000,
+                12000,
+                12000,
+                12000,
+                12000
+            ],
+            [
+                40,
+                40,
+                40,
+                40,
+                40,
+                40,
+                40
+            ],
+            [
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000
+            ],
+            [
+                154,
+                154,
+                154,
+                154,
+                154,
+                154,
+                154
+            ],
+            [
+                280,
+                350,
+                420,
+                490,
+                560,
+                630,
+                700
+            ],
+            [
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000
+            ],
+            [
+                154,
+                154,
+                154,
+                154,
+                154,
+                154,
+                154
+            ],
+            [
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000
+            ],
+            [
+                154,
+                154,
+                154,
+                154,
+                154,
+                154,
+                154
+            ]
+        ],
+        "spec_char": [
+            1024
+        ],
+        "strengthen_description": [
+            102441,
+            220102401
+        ],
+        "simple_strength_description": [
+            102441,
+            "자칼·아누비스 장착 시 효과는 다음과 같다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102401)>[아돌프]</material></color>가 자동 공격 시 일정 확률로 특수공격을 시전해 어둠 속성 피해를 주고, 명중된 적군에게 기절 상태를 부여한다. \n<color=#297DE0>[아돌프의 돌격]</color> 시전 시, <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102401)>[아돌프]</material></color>의 협동 공격이 추가로 폭발 효과를 부여하여 소범위 적군에게 어둠 속성 피해를 준다.\n<color=#297DE0>[아돌프의 광무]</color> 시전 시, <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102401)>[아돌프]</material></color>의 협동 공격이 특수공격으로 변경된다.\n<color=#297DE0>[아돌프의 응시]</color> 또는 <color=#297DE0>[아돌프의 마구베기]</color> 시전 시 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102401)>[아돌프]</material></color>가 고정한 적군과의 거리에 따라 협동 공격 또는 특수공격을 선택하여 시전한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102401)>[아돌프]</material></color>특수공격의 명중 순간 피해가 증가한다.\n크리티컬 확률이 증가한다."
+        ]
+    },
+    "101601": {
+        "simple_description": "황료·킨구 장착 시 효과는 다음과 같다. \n<color=#297DE0>[돌격 전술]</color>의 전기톱 모드로 <color=#297DE0>[스핀 슬래시]</color>의 검을 드는 동작을 중단시키고, 바로 황료를 사용해 적군을 벨 수 있다. \n<color=#297DE0>[돌격 전술]</color>의 전기톱 모드 시전 시, 슈퍼 아머 효과를 획득한다. 적군 명중 시, 물리 속성 피해가 증가한다. \n모디파이드 모드일 때 <color=#297DE0>[돌격 전술]</color>, <color=#297DE0>[공성 전술]</color>의 전기톱 모드를 시전하면 소모한 신능에 따라 스킬 피해가 증가한다.",
+        "id": 101601,
+        "description": [
+            500101601
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ],
+            [
+                120,
+                120,
+                120,
+                120,
+                120,
+                120,
+                120
+            ]
+        ],
+        "spec_char": [
+            1016
+        ],
+        "strengthen_description": [
+            101641,
+            220101601
+        ],
+        "simple_strength_description": [
+            101641,
+            "황료·킨구 장착 시 효과는 다음과 같다.\n<color=#297DE0>[돌격 전술]</color>의 전기톱 모드로 <color=#297DE0>[스핀 슬래시]</color>의 검을 드는 동작을 중단시키고, 바로 황료를 사용해 적군을 벨 수 있다.\n<color=#297DE0>[돌격 전술]</color>의 전기톱 모드 시전 시, 슈퍼 아머 효과를 획득한다. 명중 시 물리 속성 피해가 증가한다.\n모디파이드 모드일 때 <color=#297DE0>[돌격 전술]</color>, <color=#297DE0>[공성 전술]</color>의 전기톱 모드를 시전하면 소모한 신능에 따라 스킬 피해가 증가한다.\n<color=#297DE0>[공성 전술]</color>의 대검 모드가 명중한 적군에게 물리 속성 저항 감소를 부여한다."
+        ]
+    },
+    "105201": {
+        "simple_description": "맘바·마르두크 장착 시 효과는 다음과 같다. \n아군이 스킬 또는 필살기 시전 시, 랜덤으로 자신의 <color=#297DE0>[쾌속 반응 전술]</color> 또는 <color=#297DE0>[우세 포위 전술]</color>에 해당하는 무인기를 호출하며, 물리 속성 피해를 입히고, 아군 전체의 추가 공격력이 증가한다. \n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105203)>[흉풍 모드]</material></color>: 아군이 해당 모드 무인기 호출 시 에너지 소모량이 감소하고, 아군 전체의 스킬2 기본 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105204)>[악풍 모드]</material></color>: 아군이 해당 모드 무인기 호출 시 에너지 획득률이 증가하고, 아군 전체의 스킬3 기본 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105205)>[선풍 모드]</material></color>: 아군이 해당 모드 무인기 호출 시 해당 아군의 속성 종류와 수량에 따라 각각 적군에게 해당 속성 저항 감소 효과를 부여한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105206)>[태풍 모드]</material></color>: 아군이 해당 모드 무인기 호출 시 크리티컬 확률이 증가하고, 효과 지속시간 동안 절대 공간 진입 시 지속시간이 초기화되고, 크리티컬 확률 버프 효과를 아군과 공유한다.",
+        "id": 105201,
+        "description": [
+            500105201
+        ],
+        "level_param": [
+            [
+                1800,
+                1800,
+                1800,
+                1800,
+                1800,
+                1800,
+                1800
+            ],
+            [
+                10800,
+                12600,
+                14400,
+                16200,
+                18000,
+                19800,
+                21600
+            ],
+            [
+                200,
+                190,
+                180,
+                170,
+                160,
+                150,
+                140
+            ],
+            [
+                50,
+                50,
+                50,
+                50,
+                50,
+                50,
+                50
+            ],
+            [
+                120,
+                120,
+                120,
+                120,
+                120,
+                120,
+                120
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            [
+                50,
+                50,
+                50,
+                50,
+                50,
+                50,
+                50
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            [
+                50,
+                50,
+                50,
+                50,
+                50,
+                50,
+                50
+            ],
+            [
+                50,
+                50,
+                50,
+                50,
+                50,
+                50,
+                50
+            ]
+        ],
+        "spec_char": [
+            1052
+        ],
+        "strengthen_description": [
+            105241,
+            220105201
+        ],
+        "simple_strength_description": [
+            105241,
+            "맘바·마르두크 장착 시 효과는 다음과 같다.\n아군이 스킬 또는 필살기 시전 시, 랜덤으로 자신의 <color=#297DE0>[쾌속 반응 전술]</color> 또는 <color=#297DE0>[우세 포위 전술]</color>에 해당하는 무인기를 호출해 해당하는 물리 속성 피해를 주고, 아군 전체의 추가 공격력이 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105203)>[흉풍 모드]</material></color>: 아군이 해당 모드 무인기 호출 시 에너지 소모량이 감소한다. 전체 아군의 스킬2 기본 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105204)>[악풍 모드]</material></color>: 아군이 해당 모드 무인기 호출 시 에너지 획득률이 증가한다. 전체 아군의 스킬3 기본 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105205)>[선풍 모드]</material></color>: 아군이 해당 모드 무인기 호출 시 해당 아군의 속성 종류에 따라 각각 적군에게 해당 속성 저항 감소 상태를 부여한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(105206)>[태풍 모드]</material></color>: 아군이 해당 모드 무인기 호출 시 전체 아군의 크리티컬 확률이 증가한다."
+        ]
+    },
+    "101701": {
+        "simple_description": "영묘·바스테트 장착 시 효과는 다음과 같다. \n자신의 방어관통이 증가하고, 크리티컬 피해가 증가한다. 적군의 뒤에서 공격 시 크리티컬 확률이 대폭 증가한다. \n<color=#2380BF>[묘신의 우롱]</color> 시전 시 <color=#2380BF>[밤 그림자]</color> 상태에 진입한다.\n<color=#2380BF>[밤 그림자]</color>: 몸을 숨기고, 이동속도가 증가한다. 해당 상태 진입 후 입히는 첫 피해가 증가하며, 명중 후 또는 피해를 받으면 상태가 종료된다.",
+        "id": 101701,
+        "description": [
+            500101701
+        ],
+        "level_param": [
+            [
+                200,
+                250,
+                300,
+                350,
+                400,
+                450,
+                500
+            ],
+            [
+                200,
+                250,
+                300,
+                350,
+                400,
+                450,
+                500
+            ],
+            [
+                200,
+                200,
+                200,
+                200,
+                200,
+                200,
+                200
+            ]
+        ],
+        "spec_char": [
+            1017
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "102801": {
+        "simple_description": "썬더·토르 장착 시 효과는 다음과 같다. \n<color=#2380BF>[광뢰]</color> 상태일 시, 스킬 명중 시마다 낙뢰를 1회 생성해 번개 속성 피해를 입힌다. <color=#2380BF>[묠니르]</color>를 사용해 파생 스킬이 아닌 공격 명중 시마다, <color=#2380BF>[야릉그레이프]</color>를 사용해 마지막 일격을 제외한 스킬 공격 명중 시마다, 자신의 피해가 증가하고, 해당 효과는 중첩될 수 있다.\n<color=#2380BF>[분노의 벼락]</color> 상태에서 마지막 일격 시전 시, 중첩된 효과 층수에 따라 해당 스킬 공격력이 증가한다.\n<color=#2380BF>[추락 번개]</color> 명중 시, 중첩된 효과 층수에 따라 <color=#2380BF>[추락 번개]</color>의 기본 피해가 증가한다. <color=#2380BF>[추락 번개]</color> 종료 후 중첩된 모든 효과 층수를 제거한다.",
+        "id": 102801,
+        "description": [
+            500102801
+        ],
+        "level_param": [
+            [
+                5000,
+                5000,
+                5000,
+                5000,
+                5000,
+                5000,
+                5000
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            [
+                70,
+                70,
+                70,
+                70,
+                70,
+                70,
+                70
+            ],
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ],
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ]
+        ],
+        "spec_char": [
+            1028
+        ],
+        "strengthen_description": [
+            102841,
+            220102801
+        ],
+        "simple_strength_description": [
+            102841,
+            "썬더·토르 장착 시 효과는 다음과 같다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102802)>[광뢰]</material></color> 상태일 경우, 시전해 스킬 명중 시마다 낙뢰를 1회 발생시켜 적군에게 번개 속성 피해를 준다. <color=#297DE0>[묠니르]</color>를 사용해 비파생 스킬을 시전해 명중 시마다, <color=#297DE0>[야릉그레이프]</color>를 사용해 마지막 주먹 외의 스킬 공격으로 명중 시마다 자신의 피해가 증가하며, 여러 회 중첩될 수 있다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102803)>[분노의 벼락]</material></color> 상태에서 마지막 주먹을 시전하면, 해당 스킬 명중 순간 공격력이 증가한다.\n<color=#297DE0>[추락 번개]</color>를 시전해 명중 시, 보유한 횟수에 따라 <color=#297DE0>[추락 번개]</color> 독립 피해가 증가한다. <color=#297DE0>[추락 번개]</color> 종료 후 모든 횟수를 제거한다."
+        ]
+    },
+    "113201": {
+        "simple_description": "낙인의 화염·티르 장착 시 효과는 다음과 같다. \n신격 <color=#2380BF>[불타는 검의 제재-순간 연소]</color>의 추가 효과: 장검을 회수한 후 강력한 공격 시전 시, <color=#2380BF>[낙인]</color>을 획득한다.\n신격 <color=#2380BF>[불타는 갑옷의 징계-불길 응집]</color>의 추가 효과: 소모한 <color=#2380BF>[낙인]</color>에 따라 <color=#2380BF>[폭렬의 강공]</color>의 기본 피해가 증가한다.\n<color=#2380BF>[화염의 갑옷]</color> 자세일 시, 일반공격 명중 시마다 <color=#2380BF>[낙인]</color>을 획득한다.\n<color=#2380BF>[연검]</color> 자세일 시, 일반공격 또는 스킬 시전 시마다 추가로 스킬 공격을 발동한다.\n일반공격 시전 시마다 추가로 불 속성 피해를 입힌다.\n<color=#2380BF>[폭렬의 강공]</color> 시전 시, 공격마다 추가 불 속성 피해를 입히고, 이후 <color=#2380BF>[낙인]</color>을 소모한다.\n<color=#2380BF>[불의 강탈]</color> 시전 시, 공격마다 추가 불 속성 피해를 입힌다.\n발동한 추가 스킬 공격 명중 시, 입히는 피해가 증가한다.",
+        "id": 113201,
+        "description": [
+            500113201
+        ],
+        "level_param": [
+            [
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000
+            ],
+            [
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000,
+                6000
+            ],
+            [
+                9000,
+                9000,
+                9000,
+                9000,
+                9000,
+                9000,
+                9000
+            ],
+            [
+                160,
+                200,
+                240,
+                280,
+                320,
+                360,
+                400
+            ],
+            [
+                16,
+                20,
+                24,
+                28,
+                32,
+                36,
+                40
+            ]
+        ],
+        "spec_char": [
+            1132
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "107501": {
+        "simple_description": "청심·능광 장착 시 효과는 다음과 같다. \n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(107503)>[열식]</material></color> 시전 시, 아군 전체의 크리티컬 확률이 증가하고, 전체 속성 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(107507)>[태양열]</material></color>의 확률이 상승한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(107508)>[맹렬한 태양열]</material></color>의 지속시간이 연장된다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(107509)>[열이]</material></color>의 지속시간이 단축된다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(107510)>[연이]</material></color>의 지속시간이 연장된다.",
+        "id": 107501,
+        "description": [
+            500107501
+        ],
+        "level_param": [
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            [
+                100,
+                125,
+                150,
+                175,
+                200,
+                225,
+                250
+            ],
+            [
+                100,
+                125,
+                150,
+                175,
+                200,
+                225,
+                250
+            ],
+            [
+                80,
+                150,
+                220,
+                290,
+                360,
+                430,
+                500
+            ],
+            [
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                70
+            ],
+            [
+                4,
+                10,
+                16,
+                22,
+                28,
+                34,
+                40
+            ],
+            [
+                10,
+                20,
+                30,
+                40,
+                50,
+                60,
+                70
+            ]
+        ],
+        "spec_char": [
+            1075
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "107001": {
+        "simple_description": "십요·금오 장착 시 효과는 다음과 같다. \n공중으로 솟구치거나 땅에 착지할 시 <color=#2380BF>[요]</color> 표식을 획득한다.\n<color=#2380BF>[일릉]</color> 상태에서 <color=#2380BF>[봉래검법]</color>이 <color=#2380BF>[요]</color> 표식을 획득하기 위해 필요한 적군 명중 횟수가 감소한다.\n<color=#2380BF>[마귀의 화염]</color>은 더 이상 <color=#2380BF>[요]</color> 표식을 소모하지 않는다.\n표식이 최대일 때마다 크리티컬 확률, 최대 신능 상한, 신능 획득률이 증가한다. ",
+        "id": 107001,
+        "description": [
+            500107001
+        ],
+        "level_param": [
+            [
+                30,
+                35,
+                40,
+                45,
+                50,
+                55,
+                60
+            ],
+            [
+                50,
+                60,
+                70,
+                80,
+                90,
+                100,
+                110
+            ],
+            [
+                50,
+                60,
+                70,
+                80,
+                90,
+                100,
+                110
+            ],
+            [
+                30,
+                40,
+                50,
+                60,
+                70,
+                80,
+                90
+            ]
+        ],
+        "spec_char": [
+            1070
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "107101": {
+        "simple_description": "청군·맹장 장착 시 효과는 다음과 같다. \n바람 속성 피해가 증가한다.\n패시브로 획득한 속성 피해 버프 효과가 증가한다.\n자신 또는 아군의 바람 속성 공격을 받은 적군이, 자신의 번개 속성 공격에 명중될 경우, 번개 속성 및 바람 속성 저항이 감소된다.\n번개 속성 저항이 감소된 적군 명중 시 크리티컬 확률이 증가한다.\n바람 속성 저항이 감소된 적군 명중 시 크리티컬 피해가 증가한다.",
+        "id": 107101,
+        "description": [
+            500107101
+        ],
+        "level_param": [
+            [
+                80,
+                120,
+                160,
+                200,
+                240,
+                280,
+                320
+            ],
+            [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            [
+                50,
+                75,
+                100,
+                125,
+                150,
+                175,
+                200
+            ],
+            [
+                50,
+                75,
+                100,
+                125,
+                150,
+                175,
+                200
+            ],
+            [
+                40,
+                40,
+                40,
+                40,
+                40,
+                40,
+                40
+            ]
+        ],
+        "spec_char": [
+            1071
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "107201": {
+        "simple_description": "백해·녹양 장착 시 효과는 다음과 같다. \n<color=#2380BF>[프랑]</color>의 지속시간이 연장된다.\n<color=#2380BF>[프랑]</color>의 협동 공격이 부여하는 바람 속성 저항 감소 효과는 중첩될 수 있다.\n<color=#2380BF>[프랑]</color> 효과 종료 시 자신을 제외한 아군의 필살기 수치가 회복되고, 동행하는 모디파이어 위치에서 폭발을 일으켜 바람 속성 피해를 준다. 폭발 시 명중한 적군에게 파괴 상태를 부여한다.\n<color=#2380BF>[액막이 재주]</color>의 마지막 단계 공격 명중 시 자신의 필살기의 남은 쿨타임이 단축된다.\n필살기 또는 연계 필살기 시전 시 <color=#2380BF>[재물운]</color>을 획득한다.",
+        "id": 107201,
+        "description": [
+            500107201
+        ],
+        "level_param": [
+            [
+                16,
+                20,
+                24,
+                28,
+                32,
+                36,
+                40
+            ],
+            [
+                80,
+                80,
+                80,
+                80,
+                80,
+                80,
+                80
+            ],
+            [
+                8000,
+                8000,
+                8000,
+                8000,
+                8000,
+                8000,
+                8000
+            ],
+            [
+                60,
+                75,
+                90,
+                105,
+                120,
+                135,
+                150
+            ],
+            [
+                120,
+                120,
+                120,
+                120,
+                120,
+                120,
+                120
+            ],
+            [
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+            ],
+            [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            [
+                20,
+                30,
+                40,
+                50,
+                60,
+                70,
+                80
+            ]
+        ],
+        "spec_char": [
+            1072
+        ],
+        "strengthen_description": [
+            107241,
+            220107201
+        ],
+        "simple_strength_description": [
+            107241,
+            "Translating:【weapon_effect$107201$simple_strength_description$2】"
+        ]
+    },
+    "107401": {
+        "simple_description": "순천·영초 장착 시 효과는 다음과 같다. \n파생 스킬이 3개 존재할 수 있다. 이동 회피 후 파생 스킬로 대체 시 신능이 필요하지 않으며, 파생 스킬 시전 시 더는 신능을 소모하지 않는다.\n<color=#2380BF>[천공 파괴]</color>, <color=#2380BF>[바다의 포효]</color>, <color=#2380BF>[거대한 기세]</color> 및 상응하는 파생 스킬의 기본 피해가 증가한다.\n회피 후 자신의 독립 피해가 증가한다.",
+        "id": 107401,
+        "description": [
+            500107401
+        ],
+        "level_param": [
+            [
+                120,
+                180,
+                240,
+                300,
+                360,
+                420,
+                480
+            ],
+            [
+                50,
+                75,
+                100,
+                125,
+                150,
+                175,
+                200
+            ],
+            [
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60
+            ]
+        ],
+        "spec_char": [
+            1074
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "107601": {
+        "simple_description": "태일·경진 장착 시 효과는 다음과 같다. \n천원 신계 모디파이어의 최종 피해가 증가한다.\n천원 신계 모디파이어의 근거리 피해 및 원거리 피해가 증가한다.\n투척 명중으로 정체 효과가 부여된 적이 영향을 받는 간격이 단축된다.\n자신이 전체 적군에게 파괴 부여 시 효과가 강화된다.\n자신의 부유 상태 또는 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(107605)>[극한의 심연]</material></color> 상태인 적군에 대한 독립 피해가 증가한다.\n모디파이드 수치를 보유한 적군 출전 시 모디파이드 수치가 증가한다. 모디파이드 모드 해제 후 모디파이드 수치가 증가한다.",
+        "id": 107601,
+        "description": [
+            500107601
+        ],
+        "level_param": [
+            [
+                50,
+                75,
+                100,
+                125,
+                150,
+                175,
+                200
+            ],
+            [
+                80,
+                120,
+                160,
+                200,
+                240,
+                280,
+                320
+            ],
+            [
+                80,
+                150,
+                220,
+                290,
+                360,
+                430,
+                500
+            ],
+            [
+                80,
+                80,
+                80,
+                80,
+                80,
+                80,
+                80
+            ],
+            [
+                20,
+                30,
+                40,
+                50,
+                60,
+                70,
+                80
+            ],
+            [
+                270,
+                260,
+                250,
+                240,
+                230,
+                220,
+                210
+            ],
+            [
+                60,
+                70,
+                80,
+                90,
+                100,
+                110,
+                120
+            ]
+        ],
+        "spec_char": [
+            1076
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "105501": {
+        "simple_description": "월광·쿠라미츠하 장착 시 효과는 다음과 같다. \n<color=#2380BF>[성에]</color>의 단계별 효과가 증가한다.\n연결하는 <color=#2380BF>[서리 파괴]</color>가 부여하는 얼음 속성 저항이 추가로 감소한다. 신격 <color=#2380BF>[얼어붙은 신의 피-서린 그림자]</color>의 <color=#2380BF>[달빛의 그림자]</color>가 크리티컬 발동 시 부여되는 얼음 속성 저항이 추가로 감소한다.\n모디파이드 모드 진입 시 적군의 모든 제어 저항 및 제어 저항 점수가 제거된다. 모디파이드 모드 상태일 경우 적군에게 제어 상태가 부여될 때마다 제어 저항 점수가 제거되고, 서리 폭발을 1회 추가로 생성하여 얼음 속성 피해를 준다. 모디파이드 모드마다 발동 횟수 제한이 있다.\n연결하는 <color=#2380BF>[서리 파괴]</color>, <color=#2380BF>[달빛의 그림자]</color>가 적군 명중 시마다 자신의 피해가 증가한다.\n<color=#2380BF>[서리 파괴]</color>의 기본 피해가 증가한다.",
+        "id": 105501,
+        "description": [
+            500105501
+        ],
+        "level_param": [
+            [
+                160,
+                200,
+                240,
+                280,
+                320,
+                360,
+                400
+            ],
+            [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            [
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+            ],
+            [
+                100,
+                125,
+                150,
+                175,
+                200,
+                225,
+                250
+            ],
+            [
+                5000,
+                5000,
+                5000,
+                5000,
+                5000,
+                5000,
+                5000
+            ],
+            [
+                60,
+                75,
+                90,
+                105,
+                120,
+                135,
+                150
+            ],
+            [
+                60,
+                60,
+                60,
+                60,
+                60,
+                60,
+                60
+            ]
+        ],
+        "spec_char": [
+            1055
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "104901": {
+        "simple_description": "거울 속 황천·이자나미 장착 시 다음 효과 획득:\n<color=#2380BF>[거울 유람]</color> 획득 시 자신이 HP를 회복한다.\n<color=#2380BF>[피안·서리춤]</color>, <color=#2380BF>[피안·매서운 얼음]</color> 및 해당하는 파생 스킬과 신격 <color=#2380BF>[언덕의 주인-타락]</color>에 해당하는 스킬의 기본 피해가 증가한다.\n신격 <color=#2380BF>[불변의 거울-빙결]</color> 활성화 시, 모디파이드 모드 상태일 경우 해당 신격 효과가 더 이상 발동되지 않는다. 모디파이드 모드에서 자신이 공격 명중 시마다 빙결 상태가 아닌 적군에게 빙결 상태를 부여하며, 모디파이드 모드가 종료될 때까지 지속된다. 자신이 빙결 상태인 적군을 일정 횟수 명중할 때마다 적군의 빙결 상태가 제거되고, 동시에 추가로 스킬 공격이 1회 발동된다.\n<color=#2380BF>[얼음 거울]</color> 파괴 회피를 통해 회피 효과 발동 시 다음 몇 차례 <color=#2380BF>[깨진 거울·어둠]</color>의 명중 순간 공격력이 증가한다. <color=#2380BF>[피안·천인]</color>이 <color=#2380BF>[얼음 거울]</color> 파괴 블로킹을 통해 회피 효과 발동 시 다음 몇 차례 <color=#2380BF>[깨진 거울·심원]</color> 명중 순간 공격력이 증가한다.",
+        "id": 104901,
+        "description": [
+            500104901
+        ],
+        "level_param": [
+            [
+                280,
+                350,
+                420,
+                490,
+                560,
+                630,
+                700
+            ],
+            [
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+            ],
+            [
+                7000,
+                7000,
+                7000,
+                7000,
+                7000,
+                7000,
+                7000
+            ],
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ]
+        ],
+        "spec_char": [
+            1049
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "115801": {
+        "simple_description": "타오르는 미혹의 불·가구쓰치 장착 시 다음 효과 획득:\n축적 게이지 획득률이 증가한다.\n<color=#2380BF>[융해]</color> 상태 종료 시마다 크리티컬 피해가 증가한다.\n<color=#2380BF>[타오르는 마음]</color> 레벨 증가 후 일시적으로 <color=#2380BF>[까마귀의 미혹]</color>, <color=#2380BF>[섬멸의 화염참]</color> 연결 시, 연결한 스킬 명중 순간 공격력이 증가한다.\n<color=#2380BF>[섬멸의 화염참]</color> 시전 종료 시 <color=#2380BF>[타오르는 마음]</color>이 최고 레벨을 달성하면 <color=#2380BF>[섬멸의 화염참]</color>의 남은 쿨타임이 단축된다.",
+        "id": 115801,
+        "description": [
+            500115801
+        ],
+        "level_param": [
+            [
+                400,
+                500,
+                600,
+                700,
+                800,
+                900,
+                1000
+            ],
+            [
+                40,
+                40,
+                40,
+                40,
+                40,
+                40,
+                40
+            ],
+            [
+                400,
+                400,
+                400,
+                400,
+                400,
+                400,
+                400
+            ]
+        ],
+        "spec_char": [
+            1158
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "106001": {
+        "simple_description": "구사·육오 장착 시 효과는 다음과 같다.\n스킬3 기본 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(106001)>[장창 대열]</material></color> 범위 내에 있으면 <color=#297DE0>[붕창식]</color>이 <color=#297DE0>[붕산식]</color>으로 변경된다.\n자신이 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(106001)>[장창 대열]</material></color> 범위 내에 없으면, <color=#297DE0>[반격의 일격]</color>, <color=#297DE0>[유호소암]</color> 시전 시 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(106001)>[장창 대열]</material></color>이 자신 곁으로 이동한다.\n처음 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(106001)>[장창 대열]</material></color>이 비활성화되면 분노를 회복한다.\n<color=#297DE0>[돌파의 장창 대열·9]</color>의 정예와 보스급 적군에 대한 명중 순간 크리티컬 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(106001)>[장창 대열]</material></color> 활성화 시 독립 피해가 증가한다.",
+        "id": 106001,
+        "description": [
+            500106001
+        ],
+        "level_param": [
+            [
+                180,
+                270,
+                360,
+                450,
+                540,
+                630,
+                720
+            ],
+            [
+                120,
+                180,
+                240,
+                300,
+                360,
+                420,
+                480
+            ],
+            [
+                50,
+                75,
+                100,
+                125,
+                150,
+                175,
+                200
+            ],
+            [
+                120,
+                120,
+                120,
+                120,
+                120,
+                120,
+                120
+            ],
+            [
+                240,
+                300,
+                360,
+                420,
+                480,
+                540,
+                600
+            ]
+        ],
+        "spec_char": [
+            1060
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "106101": {
+        "simple_description": "현기·집명이 장착 시 효과는 다음과 같다.\n독립 피해가 증가한다.\n스킬3의 기본 피해가 증가한다.\n처음 필살기 또는 연계 필살기 시전 시 <color=#297DE0>[진정한 깨달음]</color>이 <color=#297DE0>[특급 연산]</color>으로 대체된다. 이후 필살기 또는 연계 필살기를 2회 시전할 때마다 <color=#297DE0>[진정한 깨달음]</color>이 <color=#297DE0>[특급 연산]</color>으로 대체된다.\n신능 최대치가 증가하고, 자동으로 신능을 회복한다. <color=#297DE0>[연산]</color>, <color=#297DE0>[특급 연산]</color> 활성화 시 신능을 회복한다.",
+        "id": 106101,
+        "description": [
+            500106101
+        ],
+        "level_param": [
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ],
+            [
+                280,
+                350,
+                420,
+                490,
+                560,
+                630,
+                700
+            ],
+            [
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+            ],
+            [
+                400,
+                400,
+                400,
+                400,
+                400,
+                400,
+                400
+            ],
+            [
+                400,
+                500,
+                600,
+                700,
+                800,
+                900,
+                1000
+            ]
+        ],
+        "spec_char": [
+            1061
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "115001": {
+        "simple_description": "붉은 물결·부젠보우텐구 장착 시 효과는 다음과 같다.\n<color=#2380BF>[1식·열공]</color>, <color=#2380BF>[2식·파망]</color>, <color=#2380BF>[3식·창뢰]</color>, <color=#2380BF>[9식·붉은 물결]</color>과 해당하는 파생 스킬의 기본 피해가 증가한다.\n<color=#2380BF>[벚꽃 충만]</color> 상태가 아닌 경우 일반공격, <color=#2380BF>[1식·열공]</color>, <color=#2380BF>[3식·창뢰]</color>로 획득하는 신능이 증가한다.\n<color=#2380BF>[벚꽃 충만]</color> 상태에 진입하면 일정 포인트의 <color=#2380BF>[요앵]</color>을 획득한다.\n<color=#2380BF>[1식·열공]</color>, <color=#2380BF>[3식·창뢰]</color>의 마지막 공격 명중 시, <color=#2380BF>[1식·결찰]</color>, <color=#2380BF>[3식·앵무]</color>를 연속 연결해 세 번째 시전의 마지막 공격 명중 시 추가 공격을 발동하고 번개 속성 피해를 준다.",
+        "id": 115001,
+        "description": [
+            500115001
+        ],
+        "level_param": [
+            [
+                180,
+                270,
+                360,
+                450,
+                540,
+                630,
+                720
+            ],
+            [
+                7000,
+                7000,
+                7000,
+                7000,
+                7000,
+                7000,
+                7000
+            ]
+        ],
+        "spec_char": [
+            1150
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "101501": {
+        "simple_description": "미치광이 사자·세크메트 장착 시 효과는 다음과 같다.\n모디파이드 모드 진입 시 <color=#2380BF>[예리한 발톱]</color>의 쿨타임이 초기화되고 신능이 최대치까지 회복된다.\n<color=#2380BF>[예리한 발톱]</color>이 적군에게 부여하는 물리 피해 저항이 감소한다.\n<color=#2380BF>[갉아먹는 발톱]</color>의 명중 순간 기본 피해가 증가한다.\n필살기 또는 연계 필살기 시전 시, 전체 아군의 물리 공격 명중 순간의 크리티컬 확률이 증가한다.",
+        "id": 101501,
+        "description": [
+            500101501
+        ],
+        "level_param": [
+            [
+                50,
+                50,
+                50,
+                50,
+                50,
+                50,
+                50
+            ],
+            [
+                160,
+                200,
+                240,
+                280,
+                320,
+                360,
+                400
+            ],
+            [
+                100,
+                125,
+                150,
+                175,
+                200,
+                225,
+                250
+            ]
+        ],
+        "spec_char": [
+            1015
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "109501": {
+        "simple_description": "창로·토트 장착 시 효과는 다음과 같다.\n독립 피해가 증가한다.\n스킬 1, 2, 3 기본 피해가 증가한다.\n간헐적으로 에너지를 회복한다. <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(109501)>[견인의 실]</material></color> 상태 종료 후 에너지를 회복한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(109501)>[견인의 실]</material></color> 상태가 아닐 경우, <color=#297DE0>[칼날춤]</color> 또는 <color=#297DE0>[실의 비]</color> 시전 후, <color=#297DE0>[칼날춤]</color>, <color=#297DE0>[실의 비]</color>는 <color=#297DE0>[칼의 비단]</color>, <color=#297DE0>[꿰매진 그림자]</color>로 대체되고, <color=#297DE0>[칼의 비단]</color>, <color=#297DE0>[꿰매진 그림자]</color>의 쿨타임을 초기화하며, 이중 임의 스킬 시전 시 <color=#297DE0>[칼의 비단]</color>, <color=#297DE0>[꿰매진 그림자]</color>는 <color=#297DE0>[칼날춤]</color>, <color=#297DE0>[실의 비]</color>로 돌아간다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(109501)>[견인의 실]</material></color> 상태일 경우, <color=#297DE0>[칼의 비단]</color> 시전 후 <color=#297DE0>[칼의 비단]</color>이 <color=#297DE0>[찰나의 운율·칼날]</color>로 대체되고, <color=#297DE0>[꿰매진 그림자]</color> 시전 후 <color=#297DE0>[꿰매진 그림자]</color>가 <color=#297DE0>[찰나의 운율·실]</color>로 대체되며, <color=#297DE0>[찰나의 운율·칼날]</color> 또는 <color=#297DE0>[찰나의 운율·실]</color> 시전 후, <color=#297DE0>[찰나의 운율·칼날]</color>, <color=#297DE0>[찰나의 운율·실]</color>이 <color=#297DE0>[칼의 비단]</color>, <color=#297DE0>[꿰매진 그림자]</color>로 돌아간다.",
+        "id": 109501,
+        "description": [
+            500109501
+        ],
+        "level_param": [
+            [
+                100,
+                125,
+                150,
+                175,
+                200,
+                225,
+                250
+            ],
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ],
+            [
+                240,
+                300,
+                360,
+                420,
+                480,
+                540,
+                600
+            ]
+        ],
+        "spec_char": [
+            1095
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "128401": {
+        "simple_description": "암야의 빛·베르단디 장착 시 획득 효과는 다음과 같다.\n독립 피해가 증가한다.\n스킬1, 2, 3 기본 피해가 증가한다.\n<color=#297DE0>[빛의 검흔]</color> 명중 시 적군에게 추가 빛 속성 저항 감소를 부여한다.\n<color=#297DE0>[광휘]</color>, <color=#297DE0>[운명의 재앙]</color>을 시전해 1 신능을 소모할 때마다, 스킬 명중 순간 스킬 피해 증가가 증가한다.\n모디파이드 모드 진입 시 <color=#297DE0>[찰나의 광휘]</color>, <color=#297DE0>[운명의 파도]</color> 쿨타임이 초기화된다.",
+        "id": 128401,
+        "description": [
+            500128401
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ],
+            [
+                48,
+                60,
+                72,
+                84,
+                96,
+                108,
+                120
+            ],
+            [
+                48,
+                60,
+                72,
+                84,
+                96,
+                108,
+                120
+            ],
+            [
+                120,
+                120,
+                120,
+                120,
+                120,
+                120,
+                120
+            ],
+            [
+                5,
+                5,
+                5,
+                5,
+                5,
+                5,
+                5
+            ]
+        ],
+        "spec_char": [
+            1284
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "119701": {
+        "simple_description": "꿈의 그림자·오네이로이 장착 시 획득 효과는 다음과 같다.\n크리티컬 확률이 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(119703)>[몽상]</material></color> 상태에 진입 시, 자신의 크리티컬 확률이 일정 수치 이상이면 아군의 크리티컬 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(119705)>[파몽]</material></color> 집계 횟수 최대치가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(119705)>[파몽]</material></color> 발동 시마다, 어둠 속성 아군의 수량에 따라 이번에 부여하는 피해 집계 횟수가 증가한다.\n신격 <color=#297DE0>[무한 몽상·꿈의 형상]</color>이 공격력 버프 효과 발동 시, 어둠 속성 아군의 수량에 따라 추가 횟수를 발동한다.",
+        "id": 119701,
+        "description": [
+            500119701
+        ],
+        "level_param": [
+            [
+                360,
+                450,
+                540,
+                630,
+                720,
+                810,
+                900
+            ],
+            [
+                360,
+                450,
+                540,
+                630,
+                720,
+                810,
+                900
+            ],
+            [
+                400,
+                500,
+                600,
+                700,
+                800,
+                900,
+                1000
+            ]
+        ],
+        "spec_char": [
+            1197
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "102201": {
+        "simple_description": "유월·셀레네 장착 시 효과는 다음과 같다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102207)>[보름달의 장막]</material></color> 상태가 아닌 경우 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102203)>[월상]</material></color>을 획득할 때마다 독립 피해가 증가한다. <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102207)>[보름달의 장막]</material></color> 상태일 경우, 단계당 독립 피해 효과가 증가하고, 효과 지속시간이 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102207)>[보름달의 장막]</material></color> 상태 종료까지 지속된다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102208)>[초승달 달무리]</material></color>와 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102209)>[보름달의 빛]</material></color>의 범위가 전장 전체로 확대된다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102201)>[초승달]</material></color> 상태에서 회피 효과 발동 시 자신이 HP를 회복한다.\n어둠 속성 모디파이어 아군이 필살기 또는 연계 필살기 시전 후 필살기 수치를 획득한다.",
+        "id": 102201,
+        "description": [
+            500102201
+        ],
+        "level_param": [
+            [
+                20,
+                25,
+                30,
+                35,
+                40,
+                45,
+                50
+            ],
+            [
+                80,
+                80,
+                80,
+                80,
+                80,
+                80,
+                80
+            ],
+            [
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+            ],
+            [
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150
+            ]
+        ],
+        "spec_char": [
+            1022
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "102101": {
+        "simple_description": "희광·아르테미스 장착 시 효과는 다음과 같다.\n독립 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102101)>[빛의 소리]</material></color> 획득률이 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102102)>[아침의 빛]</material></color> 상태일 경우, 받는 피해가 감소한다. 특수 일반공격을 시전해 명중 시마다 자신의 HP를 회복한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102104)>[소나타]</material></color> 상태일 경우, 아군 모든 속성 피해가 증가하며, 독립 피해가 증가한다.",
+        "id": 102101,
+        "description": [
+            500102101
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ],
+            [
+                500,
+                500,
+                500,
+                500,
+                500,
+                500,
+                500
+            ],
+            [
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150
+            ],
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ]
+        ],
+        "spec_char": [
+            1021
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "102001": {
+        "simple_description": "삼상·브라흐마 장착 시 효과는 다음과 같다.\n아스테리즘 신계 모디파이어 최종 피해가 증가한다.\n<color=#297DE0>[초선정천·파멸]</color> 명중 시 적군에게 적군 최대 HP의 일정 비율만큼 방어를 무시하는 피해를 준다.\n신격 <color=#297DE0>[파멸의 신·리카]</color>의 추가 효과: <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102002)>[파멸]</material></color> 상태일 경우 HP가 일정 수치보다 낮은 일반 적군 명중 후 적군을 바로 처치한다.\n신격 <color=#297DE0>[창생의 신·금란]</color>의 추가 효과: 적군에게 부여하는 모든 속성 저항 감소 효과가 증가하고, 전체 아군에게 부여하는 공격력 버프 효과가 증가한다.\n신격 <color=#297DE0>[삼위일체·파괴]</color>의 추가 효과: 형태를 전환할 때마다 독립 피해가 증가한다.",
+        "id": 102001,
+        "description": [
+            500102001
+        ],
+        "level_param": [
+            [
+                50,
+                75,
+                100,
+                125,
+                150,
+                175,
+                200
+            ],
+            [
+                60,
+                70,
+                80,
+                90,
+                100,
+                110,
+                120
+            ],
+            [
+                150,
+                180,
+                210,
+                240,
+                270,
+                300,
+                330
+            ],
+            [
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150
+            ],
+            [
+                150,
+                150,
+                150,
+                150,
+                150,
+                150,
+                150
+            ],
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ],
+            [
+                200,
+                200,
+                200,
+                200,
+                200,
+                200,
+                200
+            ]
+        ],
+        "spec_char": [
+            1020
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "115601": {
+        "simple_description": "절멸·칼리 장착 시 효과는 다음과 같다.\n출전 시 전체 아군에게 각자의 최대 HP만큼의 방패 수치를 가진 방패를 부여한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115601)>[빛나는 번개]</material></color>를 발동할 때마다 전체 아군의 공격력이 증가한다.\n자신 또는 팀원이 1인 필살기 시전 시 크리티컬 피해가 증가한다.\n일반공격 또는 스킬이 명중 시마다 각기 다른 포인트의 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color>을 획득한다. 스킬 시전 후 각기 다른 포인트의 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color>을 소모해 스킬 쿨타임을 초기화한다.",
+        "id": 115601,
+        "description": [
+            500115601
+        ],
+        "level_param": [
+            [
+                160,
+                200,
+                240,
+                280,
+                320,
+                360,
+                400
+            ],
+            [
+                70,
+                70,
+                70,
+                70,
+                70,
+                70,
+                70
+            ]
+        ],
+        "spec_char": [
+            1156
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "108901": {
+        "simple_description": "분화·파르바티 장착 시 효과는 다음과 같다.\n독립 피해가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(108901)>[바람탄]</material></color> 유형이 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(108902)>[바람탄·심람]</material></color>으로 전환 시 자신이 HP를 회복한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(108905)>[심람]</material></color> 상태 횟수가 증가한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(108907)>[적홍]</material></color>이 제공하는 바람 속성 피해 효과 증가한다.\n자동 장전 시 신능 획득률이 증가한다.\n신격 <color=#297DE0>[설산 윤회·범아]</color>의 추가 효과: 크리티컬 확률이 증가한다.",
+        "id": 108901,
+        "description": [
+            500108901
+        ],
+        "level_param": [
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ],
+            [
+                80,
+                100,
+                120,
+                140,
+                160,
+                180,
+                200
+            ],
+            [
+                500,
+                500,
+                500,
+                500,
+                500,
+                500,
+                500
+            ],
+            [
+                120,
+                120,
+                120,
+                120,
+                120,
+                120,
+                120
+            ],
+            [
+                100,
+                150,
+                200,
+                250,
+                300,
+                350,
+                400
+            ]
+        ],
+        "spec_char": [
+            1089
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "104501": {
+        "simple_description": "\t",
+        "id": 104501,
+        "description": [
+            500104501
+        ],
+        "level_param": [
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            [
+                50,
+                50,
+                50,
+                50,
+                50,
+                50,
+                50
+            ]
+        ],
+        "spec_char": [
+            1045
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "104601": {
+        "simple_description": "\t",
+        "id": 104601,
+        "description": [
+            500104601
+        ],
+        "level_param": [
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ],
+            [
+                1000,
+                1000,
+                1000,
+                1000,
+                1000,
+                1000,
+                1000
+            ],
+            [
+                120,
+                150,
+                180,
+                210,
+                240,
+                270,
+                300
+            ]
+        ],
+        "spec_char": [
+            1046
+        ],
+        "strengthen_description": [],
+        "simple_strength_description": []
+    },
+    "all": [
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        109901,
+        103801,
+        103901,
+        104802,
+        106601,
+        108401,
+        109301,
+        101901,
+        108001,
+        105001,
+        114801,
+        102701,
+        109401,
+        103601,
+        103701,
+        101101,
+        119901,
+        118401,
+        105901,
+        109601,
+        102601,
+        105801,
+        109701,
+        113901,
+        113801,
+        105601,
+        111101,
+        101301,
+        103201,
+        103501,
+        103301,
+        112701,
+        108101,
+        111901,
+        104201,
+        106801,
+        106701,
+        104101,
+        102401,
+        101601,
+        105201,
+        101701,
+        102801,
+        113201,
+        107501,
+        107001,
+        107101,
+        107201,
+        107401,
+        107601,
+        105501,
+        104901,
+        115801,
+        106001,
+        106101,
+        115001,
+        101501,
+        109501,
+        128401,
+        119701,
+        102201,
+        102101,
+        102001,
+        115601,
+        108901,
+        104501,
+        104601
+    ]
+}

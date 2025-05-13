@@ -1,0 +1,825 @@
+{
+    "1001": {
+        "description": "이번 게임에서 [고유 물자] 스킬 사용 시 소비-1",
+        "name": "고유 물자",
+        "effect_type": 1,
+        "id": 1001,
+        "icon": "",
+        "gain_type": 3,
+        "associated_illustrations": 0,
+        "effect": [
+            [
+                1001
+            ],
+            -1
+        ]
+    },
+    "1002": {
+        "description": "물자가 0일 때 추가로 3라운드 더 조작 가능",
+        "name": "저소모",
+        "effect_type": 2,
+        "id": 1002,
+        "icon": "combinegame_hero_skill_1",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            3
+        ]
+    },
+    "1003": {
+        "description": "물자 획득 시 30% 확률로 추가 1개 획득",
+        "name": "지속",
+        "effect_type": 3,
+        "id": 1003,
+        "icon": "combinegame_hero_skill_2",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            30,
+            1
+        ]
+    },
+    "1004": {
+        "description": "알리사 다음 3회 스킬 사용 시 인력 소모 없음",
+        "name": "경량화",
+        "effect_type": 4,
+        "id": 1004,
+        "icon": "combinegame_hero_skill_3",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            3
+        ]
+    },
+    "1005": {
+        "description": "현재 인력 수만큼 물자 획득",
+        "name": "교환",
+        "effect_type": 5,
+        "id": 1005,
+        "icon": "combinegame_hero_skill_4",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            3,
+            1
+        ]
+    },
+    "1006": {
+        "description": "알리사 다음 6회 스킬 사용 시 인력 소모 없음",
+        "name": "고효율화",
+        "effect_type": 4,
+        "id": 1006,
+        "icon": "combinegame_hero_skill_5",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            6
+        ]
+    },
+    "1007": {
+        "description": "기지국 1개당 처리 진행도 20 획득",
+        "name": "후원 지원",
+        "effect_type": 6,
+        "id": 1007,
+        "icon": "combinegame_hero_skill_6",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            3,
+            20
+        ]
+    },
+    "2001": {
+        "description": "이번 게임에서 [초급 교섭] 스킬 사용 시 소비-1",
+        "name": "초급 교섭",
+        "effect_type": 1,
+        "id": 2001,
+        "icon": "",
+        "gain_type": 3,
+        "associated_illustrations": 0,
+        "effect": [
+            [
+                1002
+            ],
+            -1
+        ]
+    },
+    "2002": {
+        "description": "[교섭 교착] 해제 시 추가로 랜덤 [교섭 교착] 1개 더 해결",
+        "name": "반중력탄",
+        "effect_type": 15,
+        "id": 2002,
+        "icon": "combinegame_hero_skill_7",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            -1
+        ]
+    },
+    "2003": {
+        "description": "공격형 스킬 사용 시 인력 소모 없음",
+        "name": "감소 완화",
+        "effect_type": 8,
+        "id": 2003,
+        "icon": "combinegame_hero_skill_8",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            1003,
+            1010
+        ]
+    },
+    "2004": {
+        "description": "이동형 스킬 사용 시 이동 거리+1",
+        "name": "자기 제어",
+        "effect_type": 9,
+        "id": 2004,
+        "icon": "combinegame_hero_skill_9",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            1
+        ]
+    },
+    "2005": {
+        "description": "현재 물자 수만큼 인력 획득",
+        "name": "서비스 정신",
+        "effect_type": 5,
+        "id": 2005,
+        "icon": "combinegame_hero_skill_10",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            1,
+            3
+        ]
+    },
+    "2006": {
+        "description": "[봉쇄 구역] 해제 시 추가로 랜덤 [봉쇄 구역] 1개 더 해결",
+        "name": "탄약 연구",
+        "effect_type": 10,
+        "id": 2006,
+        "icon": "combinegame_hero_skill_11",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            1
+        ]
+    },
+    "2007": {
+        "description": "시엘 다음 6회 스킬 사용 시 인력 소모 없음",
+        "name": "훈련의 은혜",
+        "effect_type": 4,
+        "id": 2007,
+        "icon": "combinegame_hero_skill_12",
+        "gain_type": 1,
+        "associated_illustrations": 0,
+        "effect": [
+            6
+        ]
+    },
+    "3001": {
+        "description": "[고유 물자] 스킬 해제\n\n<color=#F0C48F>고유 물자: 지정 위치에 1레벨 물자 배치</color>",
+        "name": "고유 물자",
+        "effect_type": 11,
+        "id": 3001,
+        "icon": "combinegame_factor_1",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1001
+        ]
+    },
+    "3002": {
+        "description": "[초급 교섭] 스킬 해제\n\n<color=#F0C48F>초급 교섭: [교섭 교착] 해제 및 물자 2개 획득</color>",
+        "name": "초급 교섭",
+        "effect_type": 11,
+        "id": 3002,
+        "icon": "combinegame_factor_2",
+        "gain_type": 2,
+        "associated_illustrations": 5,
+        "effect": [
+            1002
+        ]
+    },
+    "3003": {
+        "description": "2레벨 인력 해제",
+        "name": "기초 파견",
+        "effect_type": 11,
+        "id": 3003,
+        "icon": "combinegame_factor_5",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1003
+        ]
+    },
+    "3004": {
+        "description": "2레벨 연구 해제",
+        "name": "주제 기획",
+        "effect_type": 12,
+        "id": 3004,
+        "icon": "combinegame_factor_6",
+        "gain_type": 2,
+        "associated_illustrations": 2,
+        "effect": [
+            3,
+            3
+        ]
+    },
+    "3005": {
+        "description": "[운송 경로] 스킬 해제\n\n<color=#F0C48F>운송 경로: 지정 셀을 4칸 이동 가능</color>",
+        "name": "운송 경로",
+        "effect_type": 11,
+        "id": 3005,
+        "icon": "combinegame_factor_7",
+        "gain_type": 2,
+        "associated_illustrations": 4,
+        "effect": [
+            1004
+        ]
+    },
+    "3006": {
+        "description": "3레벨 인력 해제",
+        "name": "진급 파견",
+        "effect_type": 11,
+        "id": 3006,
+        "icon": "combinegame_factor_8",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1005
+        ]
+    },
+    "3007": {
+        "description": "[기지국] 스킬 해제\n\n<color=#F0C48F>기지국: 빈 공간에 기지국을 세워 매 라운드 처리 진행도 1 제공</color>",
+        "name": "기지국",
+        "effect_type": 11,
+        "id": 3007,
+        "icon": "combinegame_factor_9",
+        "gain_type": 2,
+        "associated_illustrations": 6,
+        "effect": [
+            1006
+        ]
+    },
+    "3008": {
+        "description": "[기회 포착] 스킬 해제\n\n<color=#F0C48F>기회 포착: 1레벨 셀을 2레벨로 레벨업</color>",
+        "name": "기회 포착",
+        "effect_type": 12,
+        "id": 3008,
+        "icon": "combinegame_factor_10",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1,
+            3
+        ]
+    },
+    "3009": {
+        "description": "[고효율 작전] 스킬 해제\n\n<color=#F0C48F>고효율 작전: [비스베인] 지속시간 6라운드 단축</color>",
+        "name": "고효율 작전",
+        "effect_type": 12,
+        "id": 3009,
+        "icon": "combinegame_factor_11",
+        "gain_type": 2,
+        "associated_illustrations": 3,
+        "effect": [
+            2,
+            3
+        ]
+    },
+    "3010": {
+        "description": "3레벨 물자 해제",
+        "name": "물자 지원",
+        "effect_type": 13,
+        "id": 3010,
+        "icon": "combinegame_factor_12",
+        "gain_type": 2,
+        "associated_illustrations": 2,
+        "effect": [
+            3,
+            2
+        ]
+    },
+    "3011": {
+        "description": "3레벨 연구 해제",
+        "name": "실험 몰두",
+        "effect_type": 13,
+        "id": 3011,
+        "icon": "combinegame_factor_13",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1,
+            2
+        ]
+    },
+    "3012": {
+        "description": "1레벨 인력 없음",
+        "name": "인력 자원 개선",
+        "effect_type": 13,
+        "id": 3012,
+        "icon": "combinegame_factor_14",
+        "gain_type": 2,
+        "associated_illustrations": 3,
+        "effect": [
+            2,
+            2
+        ]
+    },
+    "3013": {
+        "description": "1레벨 물자 없음",
+        "name": "물자 저장",
+        "effect_type": 14,
+        "id": 3013,
+        "icon": "combinegame_factor_15",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1007,
+            1005
+        ]
+    },
+    "3014": {
+        "description": "1레벨 연구 없음",
+        "name": "탁월한 성과",
+        "effect_type": 11,
+        "id": 3014,
+        "icon": "combinegame_factor_16",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1008
+        ]
+    },
+    "3015": {
+        "description": "[임기응변] 스킬 해제 및 [기회 포착] 스킬 제거\n\n<color=#F0C48F>임기응변: 1, 2레벨 셀을 3레벨로 레벨업</color>",
+        "name": "임기응변",
+        "effect_type": 14,
+        "id": 3015,
+        "icon": "combinegame_factor_17",
+        "gain_type": 2,
+        "associated_illustrations": 5,
+        "effect": [
+            1009,
+            1002
+        ]
+    },
+    "3016": {
+        "description": "[물자 통합] 스킬 해제\n\n<color=#F0C48F>물자 통합: 3*3 범위의 물자 합병</color>",
+        "name": "물자 통합",
+        "effect_type": 15,
+        "id": 3016,
+        "icon": "combinegame_factor_18",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            -3
+        ]
+    },
+    "3017": {
+        "description": "[논리 설득] 스킬 해제 및 [초급 교섭] 스킬 제거\n\n<color=#F0C48F>논리 설득: 5*5 범위 내 모든 [교섭 교착] 해제, 해제마다 물자 2개 획득</color>",
+        "name": "논리 설득",
+        "effect_type": 12,
+        "id": 3017,
+        "icon": "combinegame_factor_19",
+        "gain_type": 2,
+        "associated_illustrations": 2,
+        "effect": [
+            3,
+            4
+        ]
+    },
+    "3018": {
+        "description": "모든 스킬 소모-1",
+        "name": "전술 조정",
+        "effect_type": 12,
+        "id": 3018,
+        "icon": "combinegame_factor_20",
+        "gain_type": 2,
+        "associated_illustrations": 3,
+        "effect": [
+            2,
+            4
+        ]
+    },
+    "3019": {
+        "description": "4레벨 인력 해제",
+        "name": "추가 파견",
+        "effect_type": 12,
+        "id": 3019,
+        "icon": "combinegame_factor_21",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1,
+            4
+        ]
+    },
+    "3020": {
+        "description": "4레벨 연구 해제",
+        "name": "데이터 검증",
+        "effect_type": 14,
+        "id": 3020,
+        "icon": "combinegame_factor_22",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1010,
+            1003
+        ]
+    },
+    "3021": {
+        "description": "4레벨 물자 해제",
+        "name": "물자 배치",
+        "effect_type": 16,
+        "id": 3021,
+        "icon": "combinegame_factor_23",
+        "gain_type": 2,
+        "associated_illustrations": 5,
+        "effect": []
+    },
+    "3022": {
+        "description": "[공중 궤도 회선] 스킬 해제 및 [운송 경로] 스킬 제거\n\n<color=#F0C48F>공중 궤도 회선: 지정 셀을 6칸 이동 가능</color>",
+        "name": "공중 궤도 회선",
+        "effect_type": 14,
+        "id": 3022,
+        "icon": "combinegame_factor_24",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1011,
+            1001
+        ]
+    },
+    "3023": {
+        "description": "[교섭 교착] 발생하지 않음, [논리 설득] 제거",
+        "name": "협력 강화",
+        "effect_type": 13,
+        "id": 3023,
+        "icon": "combinegame_factor_25",
+        "gain_type": 2,
+        "associated_illustrations": 2,
+        "effect": [
+            3,
+            3
+        ]
+    },
+    "3024": {
+        "description": "[공중 투하 물자] 스킬 해제 및 [고유 물자] 스킬 제거\n\n<color=#F0C48F>공중 투하 물자: 지정 위치에 3레벨 물자 배치</color>",
+        "name": "공중 투하 물자",
+        "effect_type": 11,
+        "id": 3024,
+        "icon": "combinegame_factor_26",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1012
+        ]
+    },
+    "3025": {
+        "description": "2레벨 인력 없음",
+        "name": "인력 자원 최적화",
+        "effect_type": 13,
+        "id": 3025,
+        "icon": "combinegame_factor_27",
+        "gain_type": 2,
+        "associated_illustrations": 3,
+        "effect": [
+            2,
+            3
+        ]
+    },
+    "3026": {
+        "description": "[쾌속 전이] 스킬 해제\n\n<color=#F0C48F>쾌속 전이: 지정 셀을 원하는 거리만큼 이동 가능</color>",
+        "name": "쾌속 전이",
+        "effect_type": 14,
+        "id": 3026,
+        "icon": "combinegame_factor_28",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1013,
+            1007
+        ]
+    },
+    "3027": {
+        "description": "2레벨 연구 없음",
+        "name": "뚜렷한 효과",
+        "effect_type": 11,
+        "id": 3027,
+        "icon": "combinegame_factor_29",
+        "gain_type": 2,
+        "associated_illustrations": 2,
+        "effect": [
+            1014
+        ]
+    },
+    "3029": {
+        "description": "[전술 배치] 스킬 해제\n\n<color=#F0C48F>전술 배치: 3*3 범위의 인력 합병</color>",
+        "name": "전술 배치",
+        "effect_type": 17,
+        "id": 3029,
+        "icon": "combinegame_factor_31",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1
+        ]
+    },
+    "3030": {
+        "description": "5레벨 인력 해제",
+        "name": "최종 파견",
+        "effect_type": 13,
+        "id": 3030,
+        "icon": "combinegame_factor_32",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1,
+            3
+        ]
+    },
+    "3032": {
+        "description": "2레벨 물자 없음",
+        "name": "물자 집합",
+        "effect_type": 11,
+        "id": 3032,
+        "icon": "combinegame_factor_34",
+        "gain_type": 2,
+        "associated_illustrations": 7,
+        "effect": [
+            1015
+        ]
+    },
+    "3034": {
+        "description": "[위기 탈출] 스킬 해제\n\n<color=#F0C48F>위기 탈출: 봉쇄 구역 1개 해제</color>",
+        "name": "위기 탈출",
+        "effect_type": 11,
+        "id": 3034,
+        "icon": "combinegame_factor_36",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1016
+        ]
+    },
+    "3035": {
+        "description": "5레벨 연구 해제",
+        "name": "성과 전환",
+        "effect_type": 17,
+        "id": 3035,
+        "icon": "combinegame_factor_31",
+        "gain_type": 2,
+        "associated_illustrations": 0,
+        "effect": [
+            1
+        ]
+    },
+    "3036": {
+        "description": "[앵커포인트 봉쇄] 스킬 해제\n\n<color=#F0C48F>앵커포인트 봉쇄: 빈 공간에 앵커포인트 봉쇄 설치 및 처리 진행도 50 획득</color>",
+        "name": "앵커포인트 봉쇄",
+        "effect_type": 11,
+        "id": 3036,
+        "icon": "combinegame_factor_38",
+        "gain_type": 2,
+        "associated_illustrations": 8,
+        "effect": [
+            1017
+        ]
+    },
+    "4001": {
+        "description": "Translating:【activity_civilization_factor$4001$description$0】",
+        "name": "Translating:【activity_civilization_factor$4001$name$0】",
+        "effect_type": 12,
+        "id": 4001,
+        "icon": "combinegame_factor_10",
+        "gain_type": 2,
+        "associated_illustrations": 1,
+        "effect": [
+            1,
+            2
+        ]
+    },
+    "4002": {
+        "description": "Translating:【activity_civilization_factor$4002$description$0】",
+        "name": "Translating:【activity_civilization_factor$4002$name$0】",
+        "effect_type": 12,
+        "id": 4002,
+        "icon": "combinegame_factor_3",
+        "gain_type": 2,
+        "associated_illustrations": 2,
+        "effect": [
+            3,
+            2
+        ]
+    },
+    "4003": {
+        "description": "Translating:【activity_civilization_factor$4003$description$0】",
+        "name": "Translating:【activity_civilization_factor$4003$name$0】",
+        "effect_type": 12,
+        "id": 4003,
+        "icon": "combinegame_factor_4",
+        "gain_type": 2,
+        "associated_illustrations": 3,
+        "effect": [
+            2,
+            2
+        ]
+    },
+    "get_id_list_by_effect_type": {
+        "17": [
+            3029,
+            3035
+        ],
+        "16": [
+            3021
+        ],
+        "14": [
+            3013,
+            3015,
+            3020,
+            3022,
+            3026
+        ],
+        "13": [
+            3010,
+            3011,
+            3012,
+            3023,
+            3025,
+            3030
+        ],
+        "12": [
+            3004,
+            3008,
+            3009,
+            3017,
+            3018,
+            3019,
+            4001,
+            4002,
+            4003
+        ],
+        "11": [
+            3001,
+            3002,
+            3003,
+            3005,
+            3006,
+            3007,
+            3014,
+            3024,
+            3027,
+            3032,
+            3034,
+            3036
+        ],
+        "10": [
+            2006
+        ],
+        "9": [
+            2004
+        ],
+        "8": [
+            2003
+        ],
+        "15": [
+            2002,
+            3016
+        ],
+        "6": [
+            1007
+        ],
+        "5": [
+            1005,
+            2005
+        ],
+        "4": [
+            1004,
+            1006,
+            2007
+        ],
+        "3": [
+            1003
+        ],
+        "2": [
+            1002
+        ],
+        "1": [
+            1001,
+            2001
+        ]
+    },
+    "get_id_list_by_gain_type": [
+        [
+            1002,
+            1003,
+            1004,
+            1005,
+            1006,
+            1007,
+            2002,
+            2003,
+            2004,
+            2005,
+            2006,
+            2007
+        ],
+        [
+            3001,
+            3002,
+            3003,
+            3004,
+            3005,
+            3006,
+            3007,
+            3008,
+            3009,
+            3010,
+            3011,
+            3012,
+            3013,
+            3014,
+            3015,
+            3016,
+            3017,
+            3018,
+            3019,
+            3020,
+            3021,
+            3022,
+            3023,
+            3024,
+            3025,
+            3026,
+            3027,
+            3029,
+            3030,
+            3032,
+            3034,
+            3035,
+            3036,
+            4001,
+            4002,
+            4003
+        ],
+        [
+            1001,
+            2001
+        ]
+    ],
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        3001,
+        3002,
+        3003,
+        3004,
+        3005,
+        3006,
+        3007,
+        3008,
+        3009,
+        3010,
+        3011,
+        3012,
+        3013,
+        3014,
+        3015,
+        3016,
+        3017,
+        3018,
+        3019,
+        3020,
+        3021,
+        3022,
+        3023,
+        3024,
+        3025,
+        3026,
+        3027,
+        3029,
+        3030,
+        3032,
+        3034,
+        3035,
+        3036,
+        4001,
+        4002,
+        4003
+    ]
+}

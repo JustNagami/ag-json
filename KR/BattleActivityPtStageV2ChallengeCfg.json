@@ -1,0 +1,420 @@
+{
+    "5090204": {
+        "monster_level": 80,
+        "name": "속심",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10008004,
+        "background_1": "J13",
+        "tips": "운잔 위의 요새는 더욱 강한 실력으로만 도전할 수 있다. 천원 모디파이어가 도움 획득: Ω 포인트에서 크리티컬 피해 50% 증가.",
+        "map": "5090204",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5090204,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1200,
+            1500,
+            29000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5090205": {
+        "monster_level": 80,
+        "name": "속념",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10008005,
+        "background_1": "J04",
+        "tips": "운잔 위의 요새는 더욱 강한 실력으로만 도전할 수 있다. 천원 모디파이어가 도움 획득: Ω 포인트에서 크리티컬 피해 50% 증가.",
+        "map": "5090205",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5090205,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1200,
+            1500,
+            38000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5100204": {
+        "monster_level": 80,
+        "name": "이항",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10009004,
+        "background_1": "J12",
+        "tips": "출동 준비, 이항으로 가서 호송 임무를 실시한다.",
+        "map": "5100204",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5100204,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1200,
+            1500,
+            18500
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5100205": {
+        "monster_level": 80,
+        "name": "낙천",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10009005,
+        "background_1": "J12",
+        "tips": "출동 준비, 이항으로 가서 위험 호송 임무를 실시한다.",
+        "map": "5100205",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5100205,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1200,
+            1500,
+            20000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5110404": {
+        "monster_level": 80,
+        "name": "어둠과 빛",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 10010004,
+        "background_1": "J16",
+        "tips": "어두웠다 밝아지는 것은 산간의 아침과 저녁이다.",
+        "map": "5110404",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5110404,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            35000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5110405": {
+        "monster_level": 80,
+        "name": "옳고 그름",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 10010005,
+        "background_1": "J16",
+        "tips": "세상 사람들은 이익에 따라 행동할 뿐, 옳고 그름에 따르지 않는다.",
+        "map": "5110405",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5110405,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            500,
+            1000,
+            24000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120304": {
+        "monster_level": 80,
+        "name": "비명 ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10011004,
+        "background_1": "K05",
+        "tips": "시모교우 지역은 과거와 다르지 않다.",
+        "map": "5120304",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5120304,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            500,
+            1000,
+            12000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120305": {
+        "monster_level": 80,
+        "name": "비통의 울음 ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10011005,
+        "background_1": "K06",
+        "tips": "단지 시선이 맞닿은 걸까... 아니면 대립일까?",
+        "map": "5120305",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5120305,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            30000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120404": {
+        "monster_level": 80,
+        "name": "악령 ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10012004,
+        "background_1": "K01a",
+        "tips": "인간은 귀신에 대한 경외감을 잃지 않아야 한다. ",
+        "map": "5120404",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5120404,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            20500
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120405": {
+        "monster_level": 80,
+        "name": "대지의 분노 ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10012005,
+        "background_1": "K03a",
+        "tips": "신의 공포는 인간의 용기에서 나온다. ",
+        "map": "5120405",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5120405,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            700,
+            1000,
+            16000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5130504": {
+        "monster_level": 80,
+        "name": "이론과 실천",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10013004,
+        "background_1": "K09b",
+        "tips": "학문은 책만으로 완성되지 않으며 실천과 결합되어야 한다. ",
+        "map": "5130504",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5130504,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            10500
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5130505": {
+        "monster_level": 80,
+        "name": "공방 일치",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 10013005,
+        "background_1": "K09a",
+        "tips": "동적인 것과 정적인 것을 서로 전환하며 때를 기다린다. ",
+        "map": "5130505",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5130505,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            4200
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140504": {
+        "monster_level": 80,
+        "name": "라이트급",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024513,
+        "background_1": "L02a",
+        "tips": "[사냥꾼은, 영원히 도태되지 않는다.]",
+        "map": "5140504",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5140504,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            10500
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140505": {
+        "monster_level": 80,
+        "name": "미들급",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024513,
+        "background_1": "L02",
+        "tips": "[이 경기장에 들어올 수 있는 승자는 한 명뿐이다.]",
+        "map": "5140505",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5140505,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            4200
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140604": {
+        "monster_level": 80,
+        "name": "무감각",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024513,
+        "background_1": "L03",
+        "tips": "잠에 든 척하는 사람을 어떻게 깨워야 하는가?",
+        "map": "5140604",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5140604,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            10500
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140605": {
+        "monster_level": 80,
+        "name": "폭주",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 12024513,
+        "background_1": "L04",
+        "tips": "온화한 수단은 어떠한 바람도 불러오지 않는다.",
+        "map": "5140605",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5140605,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            1000,
+            1000,
+            4200
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "all": [
+        5090204,
+        5090205,
+        5100204,
+        5100205,
+        5110404,
+        5110405,
+        5120304,
+        5120305,
+        5120404,
+        5120405,
+        5130504,
+        5130505,
+        5140504,
+        5140505,
+        5140604,
+        5140605
+    ]
+}

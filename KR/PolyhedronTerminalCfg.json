@@ -1,0 +1,1076 @@
+{
+    "1001": {
+        "cost": 3,
+        "name": "강화 단련",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이어의 최대 HP가 <color=#FF9500>5%</color> 증가한다.",
+        "classify": 1,
+        "id": 1001,
+        "icon": "terminal_26",
+        "effect_id": 1001,
+        "pre_id_list": [
+            0,
+            1002,
+            1003
+        ]
+    },
+    "1002": {
+        "cost": 3,
+        "name": "전력투구",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이어의 공격력이 <color=#FF9500>3%</color> 증가한다.",
+        "classify": 1,
+        "id": 1002,
+        "icon": "terminal_24",
+        "effect_id": 1002,
+        "pre_id_list": [
+            1001,
+            1004,
+            1018
+        ]
+    },
+    "1003": {
+        "cost": 3,
+        "name": "방어 특훈",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이어의 방어력이 <color=#FF9500>5%</color> 증가한다.",
+        "classify": 1,
+        "id": 1003,
+        "icon": "terminal_25",
+        "effect_id": 1003,
+        "pre_id_list": [
+            1001,
+            1007,
+            1018,
+            9002
+        ]
+    },
+    "1004": {
+        "cost": 3,
+        "name": "극한 수정",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이어의 모디파이드 수치가 <color=#FF9500>30%</color> 증가한다.",
+        "classify": 1,
+        "id": 1004,
+        "icon": "terminal_10",
+        "effect_id": 1004,
+        "pre_id_list": [
+            1002,
+            1005,
+            1008,
+            1101,
+            9001
+        ]
+    },
+    "1005": {
+        "cost": 3,
+        "name": "방어 특훈",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이어의 방어력이 <color=#FF9500>5%</color> 증가한다.",
+        "classify": 1,
+        "id": 1005,
+        "icon": "terminal_25",
+        "effect_id": 1005,
+        "pre_id_list": [
+            1004,
+            1101,
+            1006
+        ]
+    },
+    "1006": {
+        "cost": 3,
+        "name": "신속한 운동",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이어의 회피 에너지 회복속도가 <color=#FF9500>10%</color> 증가한다.",
+        "classify": 1,
+        "id": 1006,
+        "icon": "terminal_35",
+        "effect_id": 1006,
+        "pre_id_list": [
+            1005,
+            1010,
+            1018
+        ]
+    },
+    "1007": {
+        "cost": 3,
+        "name": "생존본능",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "적군 1명 존재할 때마다 모디파이어의 방어력이 <color=#FF9500>2%</color>(최대 20%) 증가한다.",
+        "classify": 1,
+        "id": 1007,
+        "icon": "terminal_25",
+        "effect_id": 1007,
+        "pre_id_list": [
+            1003,
+            1102,
+            1010
+        ]
+    },
+    "1008": {
+        "cost": 3,
+        "name": "투쟁 본능",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "적군 1명 존재할 때마다 모디파이어의 공격력이 <color=#FF9500>1%</color>(최대 10%) 증가한다.",
+        "classify": 1,
+        "id": 1008,
+        "icon": "terminal_24",
+        "effect_id": 1008,
+        "pre_id_list": [
+            1004,
+            1009,
+            1015
+        ]
+    },
+    "1009": {
+        "cost": 3,
+        "name": "전투 집중",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이어의 크리티컬 확률이 <color=#FF9500>5%</color> 증가한다.",
+        "classify": 1,
+        "id": 1009,
+        "icon": "terminal_24",
+        "effect_id": 1009,
+        "pre_id_list": [
+            1008,
+            1016
+        ]
+    },
+    "1010": {
+        "cost": 3,
+        "name": "강화 단련",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이어의 최대 HP가 <color=#FF9500>5%</color> 증가한다.",
+        "classify": 1,
+        "id": 1010,
+        "icon": "terminal_26",
+        "effect_id": 1010,
+        "pre_id_list": [
+            1006,
+            1007,
+            1013,
+            1015,
+            1101
+        ]
+    },
+    "1011": {
+        "cost": 3,
+        "name": "대치 전략",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이어가 HP 최대치의 적군 공격 시 해당 피해가 <color=#FF9500>40%</color> 증가한다.",
+        "classify": 1,
+        "id": 1011,
+        "icon": "terminal_24",
+        "effect_id": 1011,
+        "pre_id_list": [
+            1012,
+            1013,
+            1102
+        ]
+    },
+    "1012": {
+        "cost": 3,
+        "name": "최대치 적재",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이드 모드에서 모디파이어가 입히는 피해가 <color=#FF9500>15%</color> 증가한다.",
+        "classify": 1,
+        "id": 1012,
+        "icon": "terminal_10",
+        "effect_id": 1012,
+        "pre_id_list": [
+            1011,
+            1017
+        ]
+    },
+    "1013": {
+        "cost": 3,
+        "name": "전력투구",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이어의 공격력이 <color=#FF9500>3%</color> 증가한다.",
+        "classify": 1,
+        "id": 1013,
+        "icon": "terminal_24",
+        "effect_id": 1013,
+        "pre_id_list": [
+            1010,
+            1011,
+            1017
+        ]
+    },
+    "1014": {
+        "cost": 3,
+        "name": "잠재력 폭발",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이어의 크리티컬 피해가 <color=#FF9500>20%</color> 증가한다.",
+        "classify": 1,
+        "id": 1014,
+        "icon": "terminal_24",
+        "effect_id": 1014,
+        "pre_id_list": [
+            1015,
+            1017,
+            1016,
+            1103
+        ]
+    },
+    "1015": {
+        "cost": 3,
+        "name": "백어택 기습",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "뒤에서 몬스터 공격 시 피해가 <color=#FF9500>10%</color> 증가한다.",
+        "classify": 1,
+        "id": 1015,
+        "icon": "terminal_24",
+        "effect_id": 1015,
+        "pre_id_list": [
+            1008,
+            1010,
+            1014
+        ]
+    },
+    "1016": {
+        "cost": 3,
+        "name": "강공 책략",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "현재 HP가 <color=#FF9500>80%</color> 초과 시 피해가 <color=#FF9500>10%</color> 증가한다.",
+        "classify": 1,
+        "id": 1016,
+        "icon": "terminal_24",
+        "effect_id": 1016,
+        "pre_id_list": [
+            1009,
+            1014,
+            1103
+        ]
+    },
+    "1017": {
+        "cost": 3,
+        "name": "수비 책략",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "현재 HP가 <color=#FF9500>40%</color> 미만 시 받는 피해가 <color=#FF9500>10%</color> 감소한다.",
+        "classify": 1,
+        "id": 1017,
+        "icon": "terminal_25",
+        "effect_id": 1017,
+        "pre_id_list": [
+            1012,
+            1013,
+            1014,
+            1103
+        ]
+    },
+    "1018": {
+        "cost": 3,
+        "name": "민첩한 행동",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이어의 최대 회피 에너지가 <color=#FF9500>40%</color> 증가한다.",
+        "classify": 1,
+        "id": 1018,
+        "icon": "terminal_35",
+        "effect_id": 1018,
+        "pre_id_list": [
+            1002,
+            1006,
+            1003
+        ]
+    },
+    "1101": {
+        "cost": 9,
+        "name": "예비 방어선",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "전투 시작 시마다 부활 포인트를 추가로 <color=#FF9500>1</color> 획득한다.",
+        "classify": 1,
+        "id": 1101,
+        "icon": "terminal_101",
+        "effect_id": 1101,
+        "pre_id_list": [
+            1004,
+            1005,
+            1010
+        ]
+    },
+    "1102": {
+        "cost": 9,
+        "name": "체질 강화",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "부활 후 남은 HP가 <color=#FF9500>30%</color> 증가한다.",
+        "classify": 1,
+        "id": 1102,
+        "icon": "terminal_102",
+        "effect_id": 1102,
+        "pre_id_list": [
+            1007,
+            1011
+        ]
+    },
+    "1103": {
+        "cost": 9,
+        "name": "전세 분석",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "모디파이어가 적군 1명 처치 시마다 해당 모디파이어의 공격력이 <color=#FF9500>1%</color>(최대 10%) 증가한다.",
+        "classify": 1,
+        "id": 1103,
+        "icon": "terminal_103",
+        "effect_id": 1103,
+        "pre_id_list": [
+            1014,
+            1016,
+            1017
+        ]
+    },
+    "9001": {
+        "cost": 9,
+        "name": "논리 노드",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "모디파이어가 기억의 보물 1개 보유 시마다 최대 HP <color=#FF9500>0.4%</color> 증가하고, 공격력이 <color=#FF9500>0.4%</color> 증가하고, 방어력이 <color=#FF9500>0.4%</color> 증가한다.",
+        "classify": 1,
+        "id": 9001,
+        "icon": "terminal_30",
+        "effect_id": 9001,
+        "pre_id_list": [
+            1004,
+            3010
+        ]
+    },
+    "2001": {
+        "cost": 3,
+        "name": "추가 저축",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "전투 시작 시마다 추가로 <color=#FF9500>100</color> 냥이 코인을 획득한다.",
+        "classify": 2,
+        "id": 2001,
+        "icon": "terminal_29",
+        "effect_id": 2001,
+        "pre_id_list": [
+            0,
+            2002,
+            2003,
+            2004
+        ]
+    },
+    "2002": {
+        "cost": 3,
+        "name": "불확실성",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "시공간 균열의 출현 확률이 <color=#FF9500>10%</color> 증가한다.",
+        "classify": 2,
+        "id": 2002,
+        "icon": "terminal_28",
+        "effect_id": 2002,
+        "pre_id_list": [
+            2001,
+            2005
+        ]
+    },
+    "2003": {
+        "cost": 3,
+        "name": "의료 보장",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "스테이지 종료 시마다 모디파이어가 자신의 HP를 <color=#FF9500>3%</color> 회복한다.",
+        "classify": 2,
+        "id": 2003,
+        "icon": "terminal_34",
+        "effect_id": 2003,
+        "pre_id_list": [
+            2001,
+            2006
+        ]
+    },
+    "2004": {
+        "cost": 3,
+        "name": "운명의 선택",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "포기 옵션 선택 시 획득하는 냥이 코인 수량이 <color=#FF9500>80</color>개 증가한다.",
+        "classify": 2,
+        "id": 2004,
+        "icon": "terminal_28",
+        "effect_id": 2004,
+        "pre_id_list": [
+            2001,
+            2009,
+            2016,
+            9002
+        ]
+    },
+    "2005": {
+        "cost": 3,
+        "name": "자산 관리",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "스테이지 종료 시마다 추가로 <color=#FF9500>20</color> 냥이 코인을 획득한다.",
+        "classify": 2,
+        "id": 2005,
+        "icon": "terminal_29",
+        "effect_id": 2005,
+        "pre_id_list": [
+            2002,
+            9003,
+            2007,
+            2006
+        ]
+    },
+    "2006": {
+        "cost": 3,
+        "name": "물류 전송",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "다차원 상점의 새로고침 횟수가 <color=#FF9500>3</color>회 증가한다.",
+        "classify": 2,
+        "id": 2006,
+        "icon": "terminal_29",
+        "effect_id": 2006,
+        "pre_id_list": [
+            2003,
+            2005,
+            2101
+        ]
+    },
+    "2007": {
+        "cost": 3,
+        "name": "미지의 가능성",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "[토끼 타자기]의 속성 증가 효과가 <color=#FF9500>10%</color>까지 증가한다.",
+        "classify": 2,
+        "id": 2007,
+        "icon": "terminal_28",
+        "effect_id": 2007,
+        "pre_id_list": [
+            2005,
+            2008
+        ]
+    },
+    "2008": {
+        "cost": 3,
+        "name": "신속 지원",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "팀원 부활에 필요한 스테이지가 <color=#FF9500>1</color>개 감소한다.",
+        "classify": 2,
+        "id": 2008,
+        "icon": "terminal_34",
+        "effect_id": 2008,
+        "pre_id_list": [
+            2007,
+            2012,
+            2101
+        ]
+    },
+    "2009": {
+        "cost": 3,
+        "name": "회원 할인",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "다차원 상점의 1번째 상품의 가격이 <color=#FF9500>50%</color> 할인된다.",
+        "classify": 2,
+        "id": 2009,
+        "icon": "terminal_29",
+        "effect_id": 2009,
+        "pre_id_list": [
+            2004,
+            2010
+        ]
+    },
+    "2010": {
+        "cost": 3,
+        "name": "말재간",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "다차원 상점의 무료 새로고침 기회를 추가로 <color=#FF9500>1</color>회 획득한다.",
+        "classify": 2,
+        "id": 2010,
+        "icon": "terminal_29",
+        "effect_id": 2010,
+        "pre_id_list": [
+            2009,
+            2101,
+            2011
+        ]
+    },
+    "2011": {
+        "cost": 3,
+        "name": "의료 보장",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "스테이지 종료 시마다 모디파이어가 자신의 HP를 <color=#FF9500>3%</color> 회복한다.",
+        "classify": 2,
+        "id": 2011,
+        "icon": "terminal_34",
+        "effect_id": 2011,
+        "pre_id_list": [
+            2010,
+            2012,
+            2103,
+            2013
+        ]
+    },
+    "2012": {
+        "cost": 3,
+        "name": "대항 전략",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "BOSS가 주는 첫 번째 피해에 면역된다.",
+        "classify": 2,
+        "id": 2012,
+        "icon": "terminal_28",
+        "effect_id": 2012,
+        "pre_id_list": [
+            2008,
+            2011,
+            2103
+        ]
+    },
+    "2013": {
+        "cost": 3,
+        "name": "신속 지원",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "팀원 부활에 필요한 스테이지가 <color=#FF9500>1</color>개 감소한다.",
+        "classify": 2,
+        "id": 2013,
+        "icon": "terminal_34",
+        "effect_id": 2013,
+        "pre_id_list": [
+            2017,
+            2102,
+            2015,
+            2011,
+            2014
+        ]
+    },
+    "2014": {
+        "cost": 3,
+        "name": "모빌리티",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "모디파이어의 이동속도가 <color=#FF9500>15%</color> 증가한다.",
+        "classify": 2,
+        "id": 2014,
+        "icon": "terminal_27",
+        "effect_id": 2014,
+        "pre_id_list": [
+            2013,
+            2103
+        ]
+    },
+    "2015": {
+        "cost": 3,
+        "name": "상업 기법",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "골드 스테이지에서 추가로 <color=#FF9500>100</color> 냥이 코인을 획득한다.",
+        "classify": 2,
+        "id": 2015,
+        "icon": "terminal_29",
+        "effect_id": 2015,
+        "pre_id_list": [
+            2016,
+            2013
+        ]
+    },
+    "2016": {
+        "cost": 3,
+        "name": "심층 협력",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "다차원 상점의 상품 옵션이 <color=#FF9500>1</color>개 증가한다.",
+        "classify": 2,
+        "id": 2016,
+        "icon": "terminal_29",
+        "effect_id": 2016,
+        "pre_id_list": [
+            2004,
+            2015,
+            2102,
+            2017
+        ]
+    },
+    "2017": {
+        "cost": 3,
+        "name": "자산 관리",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "스테이지 종료 시마다 추가로 <color=#FF9500>10</color> 냥이 코인을 획득한다.",
+        "classify": 2,
+        "id": 2017,
+        "icon": "terminal_29",
+        "effect_id": 2017,
+        "pre_id_list": [
+            2016,
+            2013
+        ]
+    },
+    "2101": {
+        "cost": 9,
+        "name": "생명의 존속",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "다차원 상점에서 무료 HP 회복 기회를 1회 제공한다.",
+        "classify": 2,
+        "id": 2101,
+        "icon": "terminal_104",
+        "effect_id": 2101,
+        "pre_id_list": [
+            2006,
+            2008,
+            2010
+        ]
+    },
+    "2102": {
+        "cost": 9,
+        "name": "휴전 정비",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "BOSS 처치 시 추가로 부활 포인트가 <color=#FF9500>1</color> 보충된다.",
+        "classify": 2,
+        "id": 2102,
+        "icon": "terminal_105",
+        "effect_id": 2102,
+        "pre_id_list": [
+            2016,
+            2013
+        ]
+    },
+    "2103": {
+        "cost": 9,
+        "name": "초과 수확",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "BOSS 처치 시 휴대한 냥이 코인이 <color=#FF9500>10%</color> 증가한다.",
+        "classify": 2,
+        "id": 2103,
+        "icon": "terminal_106",
+        "effect_id": 2103,
+        "pre_id_list": [
+            2011,
+            2012,
+            2014
+        ]
+    },
+    "9002": {
+        "cost": 9,
+        "name": "논리 노드",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "스테이지 종료 시마다 랜덤으로 모디파이어의 속성 1개가 향상한다.",
+        "classify": 2,
+        "id": 9002,
+        "icon": "terminal_31",
+        "effect_id": 9002,
+        "pre_id_list": [
+            1003,
+            2004
+        ]
+    },
+    "3001": {
+        "cost": 3,
+        "name": "자원 배치",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "비콘 휴대 가능 수+1",
+        "classify": 3,
+        "id": 3001,
+        "icon": "terminal_36",
+        "effect_id": 3001,
+        "pre_id_list": [
+            0,
+            3002,
+            3009
+        ]
+    },
+    "3002": {
+        "cost": 3,
+        "name": "전장 정리",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "BOSS 처치 시 기억의 보물 <color=#FF9500>1</color>개의 레벨이 랜덤으로 증가한다.",
+        "classify": 3,
+        "id": 3002,
+        "icon": "terminal_33",
+        "effect_id": 3002,
+        "pre_id_list": [
+            3001,
+            3003
+        ]
+    },
+    "3003": {
+        "cost": 3,
+        "name": "운명의 끌림",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "라운드마다 기억의 보물 보상이 추가로 <color=#FF9500>1</color>회 초기화된다.",
+        "classify": 3,
+        "id": 3003,
+        "icon": "terminal_37",
+        "effect_id": 3003,
+        "pre_id_list": [
+            3002,
+            3102,
+            3004
+        ]
+    },
+    "3004": {
+        "cost": 3,
+        "name": "행운 재림",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "기억의 보물 획득 시 <color=#FF9500>10%</color>의 확률로 1개의 레벨이 증가한다.",
+        "classify": 3,
+        "id": 3004,
+        "icon": "terminal_33",
+        "effect_id": 3004,
+        "pre_id_list": [
+            3003,
+            3005,
+            9003
+        ]
+    },
+    "3005": {
+        "cost": 3,
+        "name": "자원 배치",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "비콘 휴대 가능 수+1",
+        "classify": 3,
+        "id": 3005,
+        "icon": "terminal_36",
+        "effect_id": 3005,
+        "pre_id_list": [
+            3006,
+            3004,
+            3102
+        ]
+    },
+    "3006": {
+        "cost": 3,
+        "name": "운명의 끌림",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "라운드마다 기억의 보물 보상이 추가로 <color=#FF9500>1</color>회 초기화된다.",
+        "classify": 3,
+        "id": 3006,
+        "icon": "terminal_37",
+        "effect_id": 3006,
+        "pre_id_list": [
+            3103,
+            3007,
+            3005
+        ]
+    },
+    "3007": {
+        "cost": 3,
+        "name": "불확실성",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "시공간 균열의 출현 확률이 <color=#FF9500>10%</color> 증가한다.",
+        "classify": 3,
+        "id": 3007,
+        "icon": "terminal_33",
+        "effect_id": 3007,
+        "pre_id_list": [
+            3006,
+            3008
+        ]
+    },
+    "3008": {
+        "cost": 3,
+        "name": "프로 감정사",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "레벨업 가능한 기억의 보물 <color=#FF9500>1</color>개의 최대 레벨이 증가한다.",
+        "classify": 3,
+        "id": 3008,
+        "icon": "terminal_37",
+        "effect_id": 3008,
+        "pre_id_list": [
+            3007,
+            3102,
+            3001
+        ]
+    },
+    "3009": {
+        "cost": 3,
+        "name": "솔루션",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "정예 스테이지의 출현 확률이 <color=#FF9500>10%</color> 증가한다.",
+        "classify": 3,
+        "id": 3009,
+        "icon": "terminal_33",
+        "effect_id": 3009,
+        "pre_id_list": [
+            3012,
+            3010,
+            3001
+        ]
+    },
+    "3010": {
+        "cost": 3,
+        "name": "행운 재림",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "기억의 보물 획득 시 <color=#FF9500>10%</color>의 확률로 1개의 레벨이 증가한다.",
+        "classify": 3,
+        "id": 3010,
+        "icon": "terminal_33",
+        "effect_id": 3010,
+        "pre_id_list": [
+            3009,
+            3011,
+            9001
+        ]
+    },
+    "3011": {
+        "cost": 3,
+        "name": "자원 배치",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "비콘 휴대 가능 수+1",
+        "classify": 3,
+        "id": 3011,
+        "icon": "terminal_36",
+        "effect_id": 3011,
+        "pre_id_list": [
+            3010,
+            3012,
+            3101,
+            3014,
+            3016
+        ]
+    },
+    "3012": {
+        "cost": 3,
+        "name": "운명의 끌림",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "라운드마다 기억의 보물 보상이 추가로 <color=#FF9500>1</color>회 초기화된다.",
+        "classify": 3,
+        "id": 3012,
+        "icon": "terminal_37",
+        "effect_id": 3012,
+        "pre_id_list": [
+            3009,
+            3013,
+            3101,
+            3011
+        ]
+    },
+    "3013": {
+        "cost": 3,
+        "name": "프로 감정사",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "레벨업 가능한 기억의 보물 <color=#FF9500>1</color>개의 최대 레벨이 증가한다.",
+        "classify": 3,
+        "id": 3013,
+        "icon": "terminal_37",
+        "effect_id": 3013,
+        "pre_id_list": [
+            3012,
+            3101,
+            3014
+        ]
+    },
+    "3014": {
+        "cost": 3,
+        "name": "솔루션",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "정예 스테이지의 출현 확률이 <color=#FF9500>10%</color> 증가한다.",
+        "classify": 3,
+        "id": 3014,
+        "icon": "terminal_33",
+        "effect_id": 3014,
+        "pre_id_list": [
+            3015,
+            3011,
+            3101,
+            3013
+        ]
+    },
+    "3015": {
+        "cost": 3,
+        "name": "운명의 끌림",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "라운드마다 기억의 보물 보상이 추가로 <color=#FF9500>1</color>회 초기화된다.",
+        "classify": 3,
+        "id": 3015,
+        "icon": "terminal_37",
+        "effect_id": 3015,
+        "pre_id_list": [
+            3014,
+            3103
+        ]
+    },
+    "3016": {
+        "cost": 3,
+        "name": "운명의 끌림",
+        "hinge": 0,
+        "need_level": 1,
+        "desc": "라운드마다 기억의 보물 보상이 추가로 <color=#FF9500>1</color>회 초기화된다.",
+        "classify": 3,
+        "id": 3016,
+        "icon": "terminal_37",
+        "effect_id": 3016,
+        "pre_id_list": [
+            3011,
+            3103
+        ]
+    },
+    "3101": {
+        "cost": 9,
+        "name": "전투의 준비",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "첫 스테이지 보상이 전용 기억의 보물 1개로 변경된다.",
+        "classify": 3,
+        "id": 3101,
+        "icon": "terminal_107",
+        "effect_id": 3101,
+        "pre_id_list": [
+            3011,
+            3012,
+            3013,
+            3014
+        ]
+    },
+    "3102": {
+        "cost": 9,
+        "name": "계획된 선물",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "BOSS 처치 시 기억의 보물 보상을 추가로 <color=#FF9500>1</color>회 선택할 수 있다.",
+        "classify": 3,
+        "id": 3102,
+        "icon": "terminal_108",
+        "effect_id": 3102,
+        "pre_id_list": [
+            3003,
+            3008,
+            3005
+        ]
+    },
+    "3103": {
+        "cost": 9,
+        "name": "개척 정신",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "게임 내에서 [삼라만상이 깃든 곳] 계열의 기억의 보물을 선택할 수 있다.",
+        "classify": 3,
+        "id": 3103,
+        "icon": "terminal_109",
+        "effect_id": 3103,
+        "pre_id_list": [
+            3016,
+            3015,
+            3006
+        ]
+    },
+    "9003": {
+        "cost": 9,
+        "name": "논리 노드",
+        "hinge": 1,
+        "need_level": 1,
+        "desc": "<color=#FF9500>6</color>개 스테이지 완료 시마다 기억의 보물 1개의 레벨이 랜덤으로 증가한다.",
+        "classify": 3,
+        "id": 9003,
+        "icon": "terminal_32",
+        "effect_id": 9003,
+        "pre_id_list": [
+            2005,
+            3004
+        ]
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016,
+        1017,
+        1018,
+        1101,
+        1102,
+        1103,
+        9001,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2101,
+        2102,
+        2103,
+        9002,
+        3001,
+        3002,
+        3003,
+        3004,
+        3005,
+        3006,
+        3007,
+        3008,
+        3009,
+        3010,
+        3011,
+        3012,
+        3013,
+        3014,
+        3015,
+        3016,
+        3101,
+        3102,
+        3103,
+        9003
+    ]
+}

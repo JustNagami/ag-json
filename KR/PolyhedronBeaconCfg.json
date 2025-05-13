@@ -1,0 +1,175 @@
+{
+    "1": {
+        "name": "두둑한 준비",
+        "id": 1,
+        "icon": "beacon_14",
+        "condition": 0,
+        "desc": "전투 시작 시마다 추가로 <color=#FF9500>200</color> 냥이 코인을 획득한다.",
+        "effect_id_list": [
+            117
+        ],
+        "require_terminal_list": []
+    },
+    "2": {
+        "name": "블러디 헌트",
+        "id": 2,
+        "icon": "beacon_1",
+        "condition": 30101,
+        "desc": "모디파이어의 최대 HP가 <color=#FF9500>20%</color> 증가한다.",
+        "effect_id_list": [
+            103
+        ],
+        "require_terminal_list": []
+    },
+    "3": {
+        "name": "프로 레노베이터",
+        "id": 3,
+        "icon": "beacon_11",
+        "condition": 30102,
+        "desc": "기억의 보물 획득 시 <color=#FF9500>20%</color>의 확률로 1개 레벨 업그레이드한다.",
+        "effect_id_list": [
+            112
+        ],
+        "require_terminal_list": []
+    },
+    "4": {
+        "name": "용병 갬빗",
+        "id": 4,
+        "icon": "beacon_13",
+        "condition": 30103,
+        "desc": "제1층 스테이지의 선택 시 스테이지 옵션이 1개 추가된다.",
+        "effect_id_list": [
+            108
+        ],
+        "require_terminal_list": []
+    },
+    "5": {
+        "name": "보수적인 전략",
+        "id": 5,
+        "icon": "beacon_6",
+        "condition": 30104,
+        "desc": "전투 시작 시마다 부활 포인트를 추가로 <color=#FF9500>1</color> 획득한다.",
+        "effect_id_list": [
+            115
+        ],
+        "require_terminal_list": []
+    },
+    "6": {
+        "name": "동조 레볼루션",
+        "id": 6,
+        "icon": "beacon_12",
+        "condition": 30105,
+        "desc": "같은 계열의 모디파이어 2명만 있으면 신계 공명의 최고 효과를 발동할 수 있다.",
+        "effect_id_list": [
+            113
+        ],
+        "require_terminal_list": []
+    },
+    "7": {
+        "name": "무역 정책",
+        "id": 7,
+        "icon": "beacon_7",
+        "condition": 30106,
+        "desc": "다차원 상점의 무료 새로고침 기회를 추가로 <color=#FF9500>2</color>회 획득한다.",
+        "effect_id_list": [
+            107
+        ],
+        "require_terminal_list": []
+    },
+    "8": {
+        "name": "포춘 코드",
+        "id": 8,
+        "icon": "beacon_16",
+        "condition": 30107,
+        "desc": "포기 옵션을 선택하면 냥이 코인의 획득량이 <color=#FF9500>100</color>개 증가한다.",
+        "effect_id_list": [
+            102
+        ],
+        "require_terminal_list": []
+    },
+    "9": {
+        "name": "프라이빗 루트",
+        "id": 9,
+        "icon": "beacon_9",
+        "condition": 30108,
+        "desc": "다차원 상점의 상품 옵션이 <color=#FF9500>3</color>개 증가한다.",
+        "effect_id_list": [
+            106
+        ],
+        "require_terminal_list": []
+    },
+    "10": {
+        "name": "자신과의 싸움",
+        "id": 10,
+        "icon": "beacon_10",
+        "condition": 30109,
+        "desc": "이번 전투에서 리더만 출전 시 리더의 공격력이 <color=#FF9500>3000</color> 증가하고, 기본 최대 HP 상한이 <color=#FF9500>100%</color> 증가한다.",
+        "effect_id_list": [
+            109,
+            110,
+            111
+        ],
+        "require_terminal_list": []
+    },
+    "11": {
+        "name": "잔혹한 천칭",
+        "id": 11,
+        "icon": "beacon_5",
+        "condition": 30110,
+        "desc": "전투 시 아군 모디파이어의 공격력이 <color=#FF9500>600</color> 증가하고, 적군 유닛의 공격력이 <color=#FF9500>20%</color> 증가한다.",
+        "effect_id_list": [
+            104,
+            105
+        ],
+        "require_terminal_list": []
+    },
+    "12": {
+        "name": "복수의 증명",
+        "id": 12,
+        "icon": "beacon_2",
+        "condition": 30111,
+        "desc": "전투 중 팀원 모디파이어가 처치되면 리더의 피해가 <color=#FF9500>50%</color> 증가하고, 최대 2회 중첩된다.",
+        "effect_id_list": [
+            101
+        ],
+        "require_terminal_list": []
+    },
+    "13": {
+        "name": "바운티 헌터",
+        "id": 13,
+        "icon": "beacon_8",
+        "condition": 30112,
+        "desc": "이번 다차원 변수에서 획득한 다차원 단말기 경험치, 차원 오프셋 경험치가 <color=#FF9500>50%</color> 증가한다.",
+        "effect_id_list": [
+            114
+        ],
+        "require_terminal_list": []
+    },
+    "14": {
+        "name": "영감이 반짝",
+        "id": 14,
+        "icon": "beacon_15",
+        "condition": 30113,
+        "desc": "보물 레벨업 스테이지에서 추가로 1회 보상 선택 횟수를 획득한다.",
+        "effect_id_list": [
+            116
+        ],
+        "require_terminal_list": []
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+    ]
+}

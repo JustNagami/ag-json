@@ -1,0 +1,561 @@
+{
+    "10101": {
+        "description": "부두 구역에서 이스터에그 찾기",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 10101,
+        "title": "여름 시작Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 10101,
+        "camera_move": [
+            12,
+            12
+        ]
+    },
+    "10102": {
+        "description": "앞에 있는 아폴론과 대화",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 10102,
+        "title": "여름 시작Ⅱ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 10102,
+        "camera_move": [
+            6,
+            9
+        ]
+    },
+    "10103": {
+        "description": "아폴론이 표시한 곳으로 이동",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 10103,
+        "title": "여름 시작Ⅲ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 10103,
+        "camera_move": [
+            8,
+            3
+        ]
+    },
+    "10201": {
+        "description": "앞에 구조를 요청하는 사람이 있다",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 10201,
+        "title": "신비한 이스터에그Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 10201,
+        "camera_move": [
+            12,
+            9
+        ]
+    },
+    "10202": {
+        "description": "세크메트의 행방 찾기",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 10202,
+        "title": "신비한 이스터에그Ⅱ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 10202,
+        "camera_move": [
+            9,
+            14
+        ]
+    },
+    "10203": {
+        "description": "앞에 있는 바스테트와 대화",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 10203,
+        "title": "신비한 이스터에그Ⅲ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 10203,
+        "camera_move": [
+            11,
+            10
+        ]
+    },
+    "20101": {
+        "description": "킨구와 소베크 찾기",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 20101,
+        "title": "해상 모터보트 경기Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20101,
+        "camera_move": [
+            6,
+            4
+        ]
+    },
+    "20102": {
+        "description": "먼 곳의 모터보트 경기 참여",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 20102,
+        "title": "해상 모터보트 경기Ⅱ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20102,
+        "camera_move": [
+            13,
+            15
+        ]
+    },
+    "20103": {
+        "description": "모터보트 경기의 시상식 참여",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 20103,
+        "title": "해상 모터보트 경기Ⅲ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20103,
+        "camera_move": [
+            12,
+            11
+        ]
+    },
+    "20201": {
+        "description": "감시하는 오리 추격",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 20201,
+        "title": "태양 추격Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20201,
+        "camera_move": [
+            13,
+            15
+        ]
+    },
+    "20202": {
+        "description": "앞에서 말싸움이 일어났다",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 20202,
+        "title": "태양 추격Ⅱ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20202,
+        "camera_move": [
+            5,
+            4
+        ]
+    },
+    "20301": {
+        "description": "앞에 무슨 일이 있는지 확인",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 20301,
+        "title": "오리와 로봇 위기Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20301,
+        "camera_move": [
+            6,
+            4
+        ]
+    },
+    "20302": {
+        "description": "앞으로 가서 싸움 말리기",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 20302,
+        "title": "오리와 로봇 위기Ⅱ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 20302,
+        "camera_move": [
+            12,
+            11
+        ]
+    },
+    "30101": {
+        "description": "아이브스 악기상으로 이동",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 30101,
+        "title": "사운드 오브 뮤직Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30101,
+        "camera_move": [
+            11,
+            7
+        ]
+    },
+    "30102": {
+        "description": "인상 속의 꽃집으로 이동",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 30102,
+        "title": "사운드 오브 뮤직Ⅱ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30102,
+        "camera_move": [
+            14,
+            13
+        ]
+    },
+    "30103": {
+        "description": "옷가게에서 변장",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 30103,
+        "title": "사운드 오브 뮤직Ⅲ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30103,
+        "camera_move": [
+            10,
+            10
+        ]
+    },
+    "30104": {
+        "description": "두 번째 경기 승리 보상 수령",
+        "cost": 20,
+        "type": 1,
+        "condition_type": 30104,
+        "title": "사운드 오브 뮤직Ⅳ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30104,
+        "camera_move": [
+            4,
+            8
+        ]
+    },
+    "30201": {
+        "description": "은방울 기사 따라가기",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 30201,
+        "title": "오리 추격Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30201,
+        "camera_move": [
+            11,
+            7
+        ]
+    },
+    "30202": {
+        "description": "도둑 오리 잡기",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 30202,
+        "title": "오리 추격Ⅱ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30202,
+        "camera_move": [
+            4,
+            7
+        ]
+    },
+    "30301": {
+        "description": "그 사람 쫓기",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 30301,
+        "title": "놀라운 도둑단Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30301,
+        "camera_move": [
+            14,
+            11
+        ]
+    },
+    "30302": {
+        "description": "제로원을 쫓아 앨범 음반 되찾기",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 30302,
+        "title": "놀라운 도둑단Ⅱ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 30302,
+        "camera_move": [
+            4,
+            7
+        ]
+    },
+    "40101": {
+        "description": "크레스웰 광장으로 이동",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 40101,
+        "title": "즐거운 물대포 작전Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40101,
+        "camera_move": [
+            13,
+            9
+        ]
+    },
+    "40102": {
+        "description": "특수 물감 찾기",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 40102,
+        "title": "즐거운 물대포 작전Ⅱ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40102,
+        "camera_move": [
+            4,
+            7
+        ]
+    },
+    "40103": {
+        "description": "즐거운 물대포 대작전 경기장으로 돌아가기",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 40103,
+        "title": "즐거운 물대포 작전Ⅲ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40103,
+        "camera_move": [
+            11,
+            13
+        ]
+    },
+    "40104": {
+        "description": "거대 오리의 파괴 행위 저지",
+        "cost": 20,
+        "type": 1,
+        "condition_type": 40104,
+        "title": "즐거운 물대포 작전Ⅳ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40104,
+        "camera_move": [
+            3,
+            8
+        ]
+    },
+    "40201": {
+        "description": "두 소년의 로봇 전투 구경",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 40201,
+        "title": "로봇 전투Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40201,
+        "camera_move": [
+            8,
+            6
+        ]
+    },
+    "40202": {
+        "description": "앞에 있는 포세이돈과 인사",
+        "cost": 20,
+        "type": 1,
+        "condition_type": 40202,
+        "title": "로봇 전투Ⅱ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40202,
+        "camera_move": [
+            12,
+            15
+        ]
+    },
+    "40301": {
+        "description": "즐거운 놀이를 위해 준비",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 40301,
+        "title": "사랑과 평화의 시간Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40301,
+        "camera_move": [
+            14,
+            11
+        ]
+    },
+    "40302": {
+        "description": "워터슬라이드 구역으로 이동",
+        "cost": 20,
+        "type": 1,
+        "condition_type": 40302,
+        "title": "사랑과 평화의 시간Ⅱ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 40302,
+        "camera_move": [
+            5,
+            6
+        ]
+    },
+    "50101": {
+        "description": "분위기 점수 감정소로 이동",
+        "cost": 5,
+        "type": 1,
+        "condition_type": 50101,
+        "title": "분위기를 뜨겁게Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 50101,
+        "camera_move": [
+            7,
+            11
+        ]
+    },
+    "50102": {
+        "description": "무대로 이동해 보물 배치",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 50102,
+        "title": "최종 단계Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 50102,
+        "camera_move": [
+            5,
+            13
+        ]
+    },
+    "50103": {
+        "description": "오리를 쫓아 리모콘 되찾기",
+        "cost": 0,
+        "type": 1,
+        "condition_type": 50103,
+        "title": "최종 단계Ⅱ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 50103,
+        "camera_move": []
+    },
+    "50104": {
+        "description": "무대로 돌아가기",
+        "cost": 15,
+        "type": 1,
+        "condition_type": 50104,
+        "title": "최종 단계Ⅲ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 50104,
+        "camera_move": [
+            5,
+            13
+        ]
+    },
+    "50201": {
+        "description": "근방에 있는 오리 혼내주기",
+        "cost": 10,
+        "type": 1,
+        "condition_type": 50201,
+        "title": "미스터리한 선물Ⅰ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 50201,
+        "camera_move": [
+            5,
+            13
+        ]
+    },
+    "50202": {
+        "description": "미스터리한 인물 찾기",
+        "cost": 20,
+        "type": 1,
+        "condition_type": 50202,
+        "title": "미스터리한 선물Ⅱ",
+        "hide_need": 1,
+        "finishevent": 0,
+        "need": 1,
+        "id": 50202,
+        "camera_move": [
+            5,
+            3
+        ]
+    },
+    "all": [
+        10101,
+        10102,
+        10103,
+        10201,
+        10202,
+        10203,
+        20101,
+        20102,
+        20103,
+        20201,
+        20202,
+        20301,
+        20302,
+        30101,
+        30102,
+        30103,
+        30104,
+        30201,
+        30202,
+        30301,
+        30302,
+        40101,
+        40102,
+        40103,
+        40104,
+        40201,
+        40202,
+        40301,
+        40302,
+        50101,
+        50102,
+        50103,
+        50104,
+        50201,
+        50202
+    ]
+}

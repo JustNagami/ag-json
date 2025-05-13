@@ -1,0 +1,165 @@
+{
+    "1": {
+        "name": "생존본능",
+        "id": 1,
+        "new_condition": 0,
+        "icon": "beacon_1",
+        "desc": "전투 중 리더가 치명적 일격을 받을 경우 즉시 최대 HP 20%를 회복하고, 전투 중 1회만 발동된다.",
+        "effect_id_list": [
+            44001
+        ],
+        "require_terminal_list": []
+    },
+    "2": {
+        "name": "복수의 증명",
+        "id": 2,
+        "new_condition": 20303,
+        "icon": "beacon_2",
+        "desc": "전투 중 팀원 모디파이어가 처치되면 리더의 피해가 50% 증가하고, 최대 2단계까지 중첩된다.",
+        "effect_id_list": [
+            44002
+        ],
+        "require_terminal_list": []
+    },
+    "3": {
+        "name": "포춘 코드",
+        "id": 3,
+        "new_condition": 0,
+        "icon": "beacon_3",
+        "desc": "포기 옵션을 선택하면 냥이 코인의 획득량이 100% 증가한다.",
+        "effect_id_list": [
+            11001
+        ],
+        "require_terminal_list": []
+    },
+    "4": {
+        "name": "블러디 헌트",
+        "id": 4,
+        "new_condition": 0,
+        "icon": "beacon_4",
+        "desc": "전투 중 모디파이어의 방어가 10% 감소하고, 치료 효과가 20% 증가한다.",
+        "effect_id_list": [
+            44003
+        ],
+        "require_terminal_list": []
+    },
+    "5": {
+        "name": "잔혹한 천칭",
+        "id": 5,
+        "new_condition": 20401,
+        "icon": "beacon_5",
+        "desc": "전투 시 아군 모디파이어와 적군의 공격력이 20% 증가한다.",
+        "effect_id_list": [
+            44004,
+            44005
+        ],
+        "require_terminal_list": []
+    },
+    "6": {
+        "name": "프라이빗 루트",
+        "id": 6,
+        "new_condition": 20515,
+        "icon": "beacon_6",
+        "desc": "다차원 상점의 상품 옵션이 3개 증가한다.",
+        "effect_id_list": [
+            11002
+        ],
+        "require_terminal_list": []
+    },
+    "7": {
+        "name": "무역 정책",
+        "id": 7,
+        "new_condition": 20515,
+        "icon": "beacon_7",
+        "desc": "다차원 상점의 상품을 무료로 2회 새로고침할 수 있다.",
+        "effect_id_list": [
+            11003
+        ],
+        "require_terminal_list": [
+            201
+        ]
+    },
+    "8": {
+        "name": "용병 갬빗",
+        "id": 8,
+        "new_condition": 20520,
+        "icon": "beacon_8",
+        "desc": "제1층 스테이지의 선택 시 스테이지 옵션이 1개 추가된다.",
+        "effect_id_list": [
+            11004
+        ],
+        "require_terminal_list": []
+    },
+    "9": {
+        "name": "협동 작전",
+        "id": 9,
+        "new_condition": 20540,
+        "icon": "beacon_9",
+        "desc": "출전 화면에서 팀의 리더를 변경할 수 있다.",
+        "effect_id_list": [
+            11005
+        ],
+        "require_terminal_list": []
+    },
+    "10": {
+        "name": "자신과의 싸움",
+        "id": 10,
+        "new_condition": 20403,
+        "icon": "beacon_10",
+        "desc": "이번 전투에서 리더만 출전 시 리더의 공격력이 100% 증가하고, 최대 HP 상한이 100% 증가한다.",
+        "effect_id_list": [
+            11034,
+            18001,
+            44006
+        ],
+        "require_terminal_list": []
+    },
+    "11": {
+        "name": "프로 레노베이터",
+        "id": 11,
+        "new_condition": 0,
+        "icon": "beacon_11",
+        "desc": "성장 가능한 기억의 보물을 획득하면 기억의 보물의 성장도가 2회 향상된다.",
+        "effect_id_list": [
+            11006
+        ],
+        "require_terminal_list": []
+    },
+    "12": {
+        "name": "동조 레볼루션",
+        "id": 12,
+        "new_condition": 20520,
+        "icon": "beacon_12",
+        "desc": "같은 계열의 모디파이어 2명만 있으면 신계 공명의 최고 효과를 발동할 수 있다.",
+        "effect_id_list": [
+            44007
+        ],
+        "require_terminal_list": []
+    },
+    "13": {
+        "name": "바운티 헌터",
+        "id": 13,
+        "new_condition": 20525,
+        "icon": "beacon_13",
+        "desc": "다차원 변수에서 결정 포인트 획득량이 50% 증가한다.",
+        "effect_id_list": [
+            11007
+        ],
+        "require_terminal_list": []
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+    ]
+}

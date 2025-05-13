@@ -1,0 +1,60 @@
+{
+    "1": {
+        "id": 1,
+        "name": "난리치는 오리",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_01",
+        "desc": "평범한 오리, 사방에서 난리치는 걸 좋아한다.\n격퇴 시 +100포인트"
+    },
+    "2": {
+        "id": 2,
+        "name": "물방울 부는 오리",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_02",
+        "desc": "실수로 물방울 속으로 들어간 오리, 물방울을 방패로 사용해도 된다는 것을 발견한 후 더 건방져졌다. 여러 번 혼내줘야 멈출 것 같다.\n격퇴 시 +600포인트, 추가로 분노 20포인트 보상"
+    },
+    "3": {
+        "id": 3,
+        "name": "여행객",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_03",
+        "desc": "즐기러 온 일반 여행객, 실수로 그들을 공격하지 않게 조심하자!\n격퇴 시 -100포인트"
+    },
+    "4": {
+        "id": 4,
+        "name": "아주 빠른 오리",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_04",
+        "desc": "속도가 아주 빠른 오리, 잘 보고 있어야 맞출 수 있다.\n격퇴 시 +200포인트"
+    },
+    "5": {
+        "id": 5,
+        "name": "난리치는 오리",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_01",
+        "desc": "평범한 오리, 사방에서 난리치는 걸 좋아한다.\n격퇴 시 +100포인트, 남은 시간 1초 증가"
+    },
+    "6": {
+        "id": 6,
+        "name": "물방울 부는 오리",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_02",
+        "desc": "실수로 물방울 속으로 들어간 오리, 물방울을 방패로 사용해도 된다는 것을 발견한 후 더 건방져졌다. 여러 번 혼내줘야 멈출 것 같다.\n격퇴 시 +600포인트, 남은 시간 3초 증가, 추가로 분노 20포인트 보상"
+    },
+    "7": {
+        "id": 7,
+        "name": "여행객",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_03",
+        "desc": "즐기러 온 일반 여행객, 실수로 그들을 공격하지 않게 조심하자!\n격퇴 시 -100포인트, 남은 시간 3초 감소"
+    },
+    "8": {
+        "id": 8,
+        "name": "아주 빠른 오리",
+        "pitcture_path": "TextureConfig/Summer2024/Summer2024_CrazyDuck/CrazyDuck_monster_04",
+        "desc": "속도가 아주 빠른 오리, 잘 보고 있어야 맞출 수 있다.\n격퇴 시 +200포인트, 남은 시간 1초 증가"
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+    ]
+}

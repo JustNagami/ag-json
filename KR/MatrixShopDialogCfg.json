@@ -1,0 +1,79 @@
+{
+    "1": {
+        "voice_name": "",
+        "type": 1,
+        "id": 1,
+        "voice_sheet": "",
+        "content": "난 상품이 아니야."
+    },
+    "2": {
+        "voice_name": "",
+        "type": 2,
+        "id": 2,
+        "voice_sheet": "",
+        "content": "손님이 왔군."
+    },
+    "3": {
+        "voice_name": "",
+        "type": 2,
+        "id": 3,
+        "voice_sheet": "",
+        "content": "마음껏 구경해."
+    },
+    "4": {
+        "voice_name": "",
+        "type": 3,
+        "id": 4,
+        "voice_sheet": "",
+        "content": "역시 안목이 좋네, 다음에 또 와."
+    },
+    "5": {
+        "voice_name": "",
+        "type": 4,
+        "id": 5,
+        "voice_sheet": "",
+        "content": "다른 상품을 보고싶어?"
+    },
+    "6": {
+        "voice_name": "",
+        "type": 5,
+        "id": 6,
+        "voice_sheet": "",
+        "content": "다음에 또 와."
+    },
+    "7": {
+        "voice_name": "",
+        "type": 5,
+        "id": 7,
+        "voice_sheet": "",
+        "content": "그럼, 잘가~"
+    },
+    "get_id_list_by_type": [
+        [
+            1
+        ],
+        [
+            2,
+            3
+        ],
+        [
+            4
+        ],
+        [
+            5
+        ],
+        [
+            6,
+            7
+        ]
+    ],
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ]
+}

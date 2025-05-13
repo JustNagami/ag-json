@@ -1,0 +1,604 @@
+{
+    "602101": {
+        "name": "전투 강화",
+        "type": 0,
+        "id": 602101,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602101",
+        "rare": 1,
+        "desc": "일반공격 피해 180% 증가"
+    },
+    "602102": {
+        "name": "영역 내 공명 ",
+        "type": 0,
+        "id": 602102,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602102",
+        "rare": 3,
+        "desc": "스킬 및 필살기의 쿨타임 35% 단축"
+    },
+    "602103": {
+        "name": "대치 전략(인간형)",
+        "type": 0,
+        "id": 602103,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602103",
+        "rare": 2,
+        "desc": "인간형 적군에게 주는 피해 70% 증가"
+    },
+    "602104": {
+        "name": "대치 전략(비스베인)",
+        "type": 0,
+        "id": 602104,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602104",
+        "rare": 2,
+        "desc": "비스베인형 적군에게 주는 피해 70% 증가"
+    },
+    "602105": {
+        "name": "대치 전략(로봇) ",
+        "type": 0,
+        "id": 602105,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602105",
+        "rare": 2,
+        "desc": "로봇형 적군에게 주는 피해 70% 증가"
+    },
+    "602106": {
+        "name": "기술 마스터리",
+        "type": 0,
+        "id": 602106,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602106",
+        "rare": 1,
+        "desc": "스킬 피해 40% 증가"
+    },
+    "602107": {
+        "name": "필살기 마스터리",
+        "type": 0,
+        "id": 602107,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602107",
+        "rare": 1,
+        "desc": "필살기 피해 160% 증가"
+    },
+    "602108": {
+        "name": "용광로",
+        "type": 0,
+        "id": 602108,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602108",
+        "rare": 1,
+        "desc": "공격력 6% 증가, 적군 처치 시마다 추가로 6% 증가, 최대 36%"
+    },
+    "602109": {
+        "name": "정면 수비",
+        "type": 0,
+        "id": 602109,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602109",
+        "rare": 2,
+        "desc": "받는 정면 피해 25% 감소, 비정면 피해 25% 증가"
+    },
+    "602110": {
+        "name": "에너지 집중 반응",
+        "type": 0,
+        "id": 602110,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602110",
+        "rare": 2,
+        "desc": "고정 적군에 대한 피해 60% 증가, 비고정 15% 감소"
+    },
+    "602111": {
+        "name": "원시 전술",
+        "type": 0,
+        "id": 602111,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602111",
+        "rare": 2,
+        "desc": "스킬 피해 60% 감소, 일반공격 피해 600% 증가"
+    },
+    "602112": {
+        "name": "운명의 선택",
+        "type": 0,
+        "id": 602112,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602112",
+        "rare": 2,
+        "desc": "주사위 1개 획득, 버프 3종 사이에서 전환(일반공격 피해 80% 증가, 스킬 피해 80% 증가, 필살기 피해 80% 증가)"
+    },
+    "602113": {
+        "name": "고효율 모드",
+        "type": 0,
+        "id": 602113,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602113",
+        "rare": 2,
+        "desc": "회피 효과의 쿨타임 50% 단축"
+    },
+    "602114": {
+        "name": "방어 역장 ",
+        "type": 0,
+        "id": 602114,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602114",
+        "rare": 1,
+        "desc": "방어력 40% 증가"
+    },
+    "602115": {
+        "name": "전선 구조",
+        "type": 0,
+        "id": 602115,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602115",
+        "rare": 1,
+        "desc": "일반공격 시 HP 20% 회복, 해당 효과는 10초당 최대 1회 발동"
+    },
+    "602116": {
+        "name": "약점 탐지 장치 ",
+        "type": 0,
+        "id": 602116,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602116",
+        "rare": 1,
+        "desc": "크리티컬 확률 40% 증가 "
+    },
+    "602117": {
+        "name": "약점 확대 장치 ",
+        "type": 0,
+        "id": 602117,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602117",
+        "rare": 2,
+        "desc": "크리티컬 피해 100% 증가"
+    },
+    "602118": {
+        "name": "무아지경",
+        "type": 0,
+        "id": 602118,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602118",
+        "rare": 3,
+        "desc": "크리티컬 확률 40% 증가, 크리티컬 피해 100% 증가"
+    },
+    "602119": {
+        "name": "절대적 제어 ",
+        "type": 0,
+        "id": 602119,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602119",
+        "rare": 1,
+        "desc": "자신이 발동한 절대 공간의 지속시간 2초 연장"
+    },
+    "602120": {
+        "name": "절대적 초감각 ",
+        "type": 0,
+        "id": 602120,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602120",
+        "rare": 2,
+        "desc": "자신이 발동한 절대 공간에 있는 모디파이어의 크리티컬 확률 100% 증가"
+    },
+    "602201": {
+        "name": "통각 딜레이",
+        "type": 1,
+        "id": 602201,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602201",
+        "rare": 2,
+        "desc": "일반공격 시 경직 효과 획득"
+    },
+    "602202": {
+        "name": "권능 해방",
+        "type": 1,
+        "id": 602202,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602202",
+        "rare": 3,
+        "desc": "일반공격 5회 시전 시마다 강력한 범위 공격 1회 발동, 공격력 200%의 피해를 주고 방어력 30% 감소 부여, 6초간 지속"
+    },
+    "602203": {
+        "name": "이동식 냉각",
+        "type": 1,
+        "id": 602203,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602203",
+        "rare": 2,
+        "desc": "이동 시 얼음 폭발 발동, 공격력 300%의 피해를 주고 빙결 효과 부여, 2초간 지속"
+    },
+    "602204": {
+        "name": "흡수 회복",
+        "type": 1,
+        "id": 602204,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602204",
+        "rare": 1,
+        "desc": "적군 처치 시 HP 20% 회복, 해당 효과는 30초당 최대 1회 발동"
+    },
+    "602205": {
+        "name": "바람의 인도",
+        "type": 1,
+        "id": 602205,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602205",
+        "rare": 3,
+        "desc": "스킬 시전 시 적군을 집중 시키고 공격력 800%의 피해를 줌, 해당 효과는 8초당 최대 1회 발동"
+    },
+    "602206": {
+        "name": "필드 감지",
+        "type": 1,
+        "id": 602206,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602206",
+        "rare": 1,
+        "desc": "주변에 아군 모디파이어 존재 시 자신의 공격력 30% 증가"
+    },
+    "602207": {
+        "name": "최상의 지원",
+        "type": 1,
+        "id": 602207,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602207",
+        "rare": 1,
+        "desc": "주변에 적군 수가 4명 이상이면 공격력 20% 증가, 회피 수치 회복속도 100% 증가"
+    },
+    "602208": {
+        "name": "특화 대치",
+        "type": 1,
+        "id": 602208,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602208",
+        "rare": 2,
+        "desc": "정예 및 보스 적군에게 주는 피해 50% 증가, 정예 및 보스 적군에게 받는 피해 10% 감소"
+    },
+    "602209": {
+        "name": "액운",
+        "type": 1,
+        "id": 602209,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602209",
+        "rare": 2,
+        "desc": "일반 적군에게 주는 피해가 15% 감소하는 대신 5%의 확률로 일반 적군 바로 처치, 해당 효과는 1초당 최대 1회 발동"
+    },
+    "602210": {
+        "name": "코어 과부하",
+        "type": 1,
+        "id": 602210,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602210",
+        "rare": 2,
+        "desc": "공격력이 50% 증가하고, 피해를 주면 공격력이 추가로 5% 증가, 해당 공격력 버프 효과가 100% 도달 시 공격력 30% 하락, 4초간 지속"
+    },
+    "602211": {
+        "name": "열광의 난사 ",
+        "type": 1,
+        "id": 602211,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602211",
+        "rare": 2,
+        "desc": "일반공격 시 공격력 50%의 난사 피해 부여"
+    },
+    "602212": {
+        "name": "권능 점프",
+        "type": 1,
+        "id": 602212,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602212",
+        "rare": 3,
+        "desc": "회피 효과 발동 시 장창 1개를 소환하여 공격력 1,400%의 피해를 줌, 해당 효과는 8초당 최대 1회 발동"
+    },
+    "602213": {
+        "name": "충전 보호 ",
+        "type": 1,
+        "id": 602213,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602213",
+        "rare": 2,
+        "desc": "HP 8%의 방패 획득, 해당 효과는 5초당 최대 1회 발동"
+    },
+    "602214": {
+        "name": "집중 전환",
+        "type": 1,
+        "id": 602214,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602214",
+        "rare": 2,
+        "desc": "쿨타임 상태인 스킬을 1개 보유할 때만 피해가 100% 증가"
+    },
+    "602215": {
+        "name": "치료 변환기 ",
+        "type": 1,
+        "id": 602215,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602215",
+        "rare": 2,
+        "desc": "치료 시 치료 장치에 에너지를 저장, 에너지가 최대일 때 주변 적군에게 공격력 2,000%의 피해를 줌"
+    },
+    "602216": {
+        "name": "권능 판정",
+        "type": 1,
+        "id": 602216,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602216",
+        "rare": 3,
+        "desc": "회피 효과 발동 시 전방으로 거대한 망치를 1개 던져 공격력 1,000%의 피해를 주고 대량의 방어 돌파치 부여, 해당 효과는 8초당 최대 1회 발동"
+    },
+    "602301": {
+        "name": "정비 로봇",
+        "type": 2,
+        "id": 602301,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602301",
+        "rare": 1,
+        "desc": "모든 방어탑이 HP를 20% 회복"
+    },
+    "602302": {
+        "name": "불안정한 역장",
+        "type": 2,
+        "id": 602302,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602302",
+        "rare": 2,
+        "desc": "방어탑 주변의 적군 피해 10% 감소, 이동속도 25% 감소"
+    },
+    "602303": {
+        "name": "압박 차단",
+        "type": 2,
+        "id": 602303,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602303",
+        "rare": 3,
+        "desc": "방어탑 HP가 80%/60%/30%까지 감소 시, 전장 내 모든 적군에게 최대 HP 30%의 피해를 주고 기절 효과 부여, 4초간 지속, 이동속도 20% 감소"
+    },
+    "602304": {
+        "name": "최종 전선 ",
+        "type": 2,
+        "id": 602304,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602304",
+        "rare": 1,
+        "desc": "방어탑의 HP가 20% 미만일 시 주변 모디파이어의 피해 120% 증가"
+    },
+    "602305": {
+        "name": "순환 진동",
+        "type": 2,
+        "id": 602305,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602305",
+        "rare": 2,
+        "desc": "방어탑이 5초 간격으로 주변에 충격파 1회 유도, 명중한 적군에게 HP 15%의 피해를 주고 기절 효과 부여, 0.5초간 지속"
+    },
+    "602306": {
+        "name": "단단한 아머 ",
+        "type": 2,
+        "id": 602306,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602306",
+        "rare": 1,
+        "desc": "방어탑이 받는 피해 10% 감소"
+    },
+    "602307": {
+        "name": "무한 압박",
+        "type": 2,
+        "id": 602307,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602307",
+        "rare": 2,
+        "desc": "방어탑이 공격 명중한 적군의 전체 속성 저항 40% 감소, 3초간 지속"
+    },
+    "602308": {
+        "name": "포격 장전",
+        "type": 2,
+        "id": 602308,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602308",
+        "rare": 1,
+        "desc": "방어탑 주변의 모디파이어가 공격 시 20%의 확률로 미사일 1개 발사, 모디파이어 공격력 100%의 피해를 줌"
+    },
+    "602309": {
+        "name": "진지 방어",
+        "type": 2,
+        "id": 602309,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602309",
+        "rare": 1,
+        "desc": "방어탑 주변 모디파이어의 공격력 30% 증가"
+    },
+    "602310": {
+        "name": "긴급 자금",
+        "type": 2,
+        "id": 602310,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602310",
+        "rare": 1,
+        "desc": "방어탑에서 강화를 구매할 때마다 전체 아군이 재화 20 추가 획득"
+    },
+    "602311": {
+        "name": "자금 지원 협의",
+        "type": 2,
+        "id": 602311,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602311",
+        "rare": 1,
+        "desc": "준비 단계마다 전체 아군이 재화 30 추가 획득"
+    },
+    "602312": {
+        "name": "가시 갑옷",
+        "type": 2,
+        "id": 602312,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602312",
+        "rare": 1,
+        "desc": "방어탑의 적군 공격 시 HP 10%의 피해를 받음, 해당 효과는 2초당 최대 1회 발동"
+    },
+    "602313": {
+        "name": "방어 역장 재구성",
+        "type": 2,
+        "id": 602313,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602313",
+        "rare": 4,
+        "desc": "모디파이어가 특수 역장을 획득하여 주변의 모디파이어가 받는 피해를 10%/15%/20%/25%/30% 감소시킴(자신 포함). 자신이 절대 공간 발동 시, 모든 아군 모디파이어가 2%/4%/6%/8%/10%의 HP 회복(선택한 토폴로지 모듈 수량에 따라 증가)"
+    },
+    "602314": {
+        "name": "회전 역장 재구성",
+        "type": 2,
+        "id": 602314,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602314",
+        "rare": 4,
+        "desc": "모디파이어가 특수 역장을 획득하여 주변의 모디파이어 스킬 쿨타임을 10%/15%/20%/25%/30% 단축시킴(자신 포함). 역장 내 모디파이어가 스킬 시전 시 랜덤 스킬 1개의 쿨타임 초기화, 해당 효과는 3초당 최대 1회 발동(선택한 토폴로지 모듈 수량에 따라 증가)"
+    },
+    "602315": {
+        "name": "공격 역장 재구성",
+        "type": 2,
+        "id": 602315,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602315",
+        "rare": 4,
+        "desc": "모디파이어가 특수 역장을 획득하여 주변 모디파이어의 공격력을 10%/15%/20%/25%/30% 증가시킴(자신 포함). 자신이 필살기 시전 시, 명중한 적군에게 전체 속성 저항 10%/15%/20%/25%/30% 감소 부여, 5초간 지속(선택한 토폴로지 모듈 수량에 따라 증가)"
+    },
+    "602316": {
+        "name": "악몽",
+        "type": 2,
+        "id": 602316,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602316",
+        "rare": 2,
+        "desc": "주기적으로 적군 1명에게 [악몽] 상태 부여, 공격 및 이동 불가, 처치 시 해당 상태가 다른 적군에게 전이됨"
+    },
+    "602317": {
+        "name": "공존 구조",
+        "type": 2,
+        "id": 602317,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602317",
+        "rare": 1,
+        "desc": "방어탑이 피격 시 15%의 확률로 이번 피해가 주변의 랜덤 모디파이어 1명에게 전이됨, 모디파이어는 HP 1%의 피해를 받음"
+    },
+    "602318": {
+        "name": "연쇄 펄스",
+        "type": 2,
+        "id": 602318,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602318",
+        "rare": 2,
+        "desc": "방어탑이 5초마다 전류 방사 효과 획득, 공격이 적군 명중 시 전이 진행, 최대 5회 전이, 명중한 적군에게 탑 공격력 5,000%의 피해를 줌"
+    },
+    "602319": {
+        "name": "정밀 절단 시스템",
+        "type": 2,
+        "id": 602319,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602319",
+        "rare": 2,
+        "desc": "적군의 최대 방어 돌파치 50% 감소"
+    },
+    "602401": {
+        "name": "등가 교환",
+        "type": 3,
+        "id": 602401,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602401",
+        "rare": 5,
+        "desc": "현재 방어탑을 즉시 파괴하고 모디파이어 쿨타임 30% 증가, 전체 공격력 120% 상승, 회피 에너지 회복 100% 가속. [그런데 대가는 뭐지?]"
+    },
+    "602402": {
+        "name": "투영",
+        "type": 3,
+        "id": 602402,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602402",
+        "rare": 5,
+        "desc": "몬스터 처치에 참여하여 해당 코드 효과를 구축한다. 망령: 회피 효과를 발동할 때마다 전방으로 베기 1회 발동, 공격력 1,000%의 피해를 줌. 보안팀 병사: 회피 효과를 발동할 때마다 진지 생성 공격, 공격력 1,200%의 피해를 줌. 미노타우로스: 회피 효과를 발동할 때마다 목표 지점에서 적군에게 충돌, 공격력 2,000%의 피해를 줌"
+    },
+    "602403": {
+        "name": "궤도 변형",
+        "type": 3,
+        "id": 602403,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602403",
+        "rare": 5,
+        "desc": "회피 효과 발동 시, 현재 고정 적군을 고정하고 적군의 행동을 5초간 정체시킴, 해당 효과는 12초의 쿨타임을 가짐"
+    },
+    "602404": {
+        "name": "행운의 깃털 ",
+        "type": 3,
+        "id": 602404,
+        "icon": "TextureConfig/VersionUI/XuHeng3rdUI/StrongholdUI/BattleIcon/602404",
+        "rare": 5,
+        "desc": "피해를 받을 때마다 판정을 1회 진행하고 40%의 확률로 이번 피해 회피, 공격할 때마다 판정을 1회 진행하고 40%의 확률로 [둔화 공격]\\ 발동, 대상 몬스터에게 둔화 및 피해 감소 효과 부여, 5초간 지속"
+    },
+    "get_id_list_by_type": {
+        "3": [
+            602401,
+            602402,
+            602403,
+            602404
+        ],
+        "2": [
+            602301,
+            602302,
+            602303,
+            602304,
+            602305,
+            602306,
+            602307,
+            602308,
+            602309,
+            602310,
+            602311,
+            602312,
+            602313,
+            602314,
+            602315,
+            602316,
+            602317,
+            602318,
+            602319
+        ],
+        "1": [
+            602201,
+            602202,
+            602203,
+            602204,
+            602205,
+            602206,
+            602207,
+            602208,
+            602209,
+            602210,
+            602211,
+            602212,
+            602213,
+            602214,
+            602215,
+            602216
+        ],
+        "0": [
+            602101,
+            602102,
+            602103,
+            602104,
+            602105,
+            602106,
+            602107,
+            602108,
+            602109,
+            602110,
+            602111,
+            602112,
+            602113,
+            602114,
+            602115,
+            602116,
+            602117,
+            602118,
+            602119,
+            602120
+        ]
+    },
+    "all": [
+        602101,
+        602102,
+        602103,
+        602104,
+        602105,
+        602106,
+        602107,
+        602108,
+        602109,
+        602110,
+        602111,
+        602112,
+        602113,
+        602114,
+        602115,
+        602116,
+        602117,
+        602118,
+        602119,
+        602120,
+        602201,
+        602202,
+        602203,
+        602204,
+        602205,
+        602206,
+        602207,
+        602208,
+        602209,
+        602210,
+        602211,
+        602212,
+        602213,
+        602214,
+        602215,
+        602216,
+        602301,
+        602302,
+        602303,
+        602304,
+        602305,
+        602306,
+        602307,
+        602308,
+        602309,
+        602310,
+        602311,
+        602312,
+        602313,
+        602314,
+        602315,
+        602316,
+        602317,
+        602318,
+        602319,
+        602401,
+        602402,
+        602403,
+        602404
+    ]
+}

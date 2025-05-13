@@ -1,0 +1,39 @@
+{
+    "1": {
+        "id": 1,
+        "name": "꽥꽥거리는 오리",
+        "icon": "TextureConfig/Summer2024/Summer2024_DuckParty/DuckParty_monster_01",
+        "desc": "경계할 때 날카로운 음파를 발포하고, 명중 후 유저를 혼란에 빠뜨린다. 전진 시 조작 반대 방향으로 이동한다."
+    },
+    "2": {
+        "id": 2,
+        "name": "물방울 부는 오리",
+        "icon": "TextureConfig/Summer2024/Summer2024_DuckParty/DuckParty_monster_02",
+        "desc": "경계할 때 버블을 내뿜는다. 명중 후 유저를 일정 시간 가둔다. 음파 스킬을 사용하면 버블을 터뜨릴 수 있다."
+    },
+    "3": {
+        "id": 3,
+        "name": "왕관을 쓴 오리",
+        "icon": "TextureConfig/Summer2024/Summer2024_DuckParty/DuckParty_monster_03",
+        "desc": "도망치지 않는 오리, 하지만 발버둥 칠 땐 더 빨리 탈출한다. 포획에 실패하면 제자리로 전송된다. 드롭된 왕관을 주우면 진행도가 초기화되며, 포획에 성공하면 왕관 버프를 획득한다. 왕관 버프: 체력 회복속도가 대폭 증가하고, 음파 스킬 쿨타임이 대폭 감소한다."
+    },
+    "4": {
+        "id": 4,
+        "name": "토네이도 오리",
+        "icon": "TextureConfig/Summer2024/Summer2024_DuckParty/DuckParty_monster_04",
+        "desc": "경계할 때 물기둥을 세 줄기 만들어 유저를 방해하고, 명중 후 유저를 감속시킨다."
+    },
+    "5": {
+        "id": 5,
+        "name": "돌진하는 오리",
+        "icon": "TextureConfig/Summer2024/Summer2024_DuckParty/DuckParty_monster_05",
+        "desc": "경계할 때 그대로 먼 곳으로 돌진하여 유저에게서 달아난다."
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ]
+}

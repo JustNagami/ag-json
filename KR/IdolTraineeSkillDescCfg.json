@@ -1,0 +1,370 @@
+{
+    "DEFAULT_JOIN": {
+        "pattern": "<color=#0></color>{0}{1}, {2}",
+        "format_str_key": "DEFAULT_JOIN",
+        "is_full_info": false
+    },
+    "DEFAULT_JOIN_NO_SUFFIX": {
+        "pattern": "<color=#0></color>{0}{1}",
+        "format_str_key": "DEFAULT_JOIN_NO_SUFFIX",
+        "is_full_info": false
+    },
+    "DEFAULT_JOIN_NO_PREFIX": {
+        "pattern": "<color=#0></color>{1}, {2}",
+        "format_str_key": "DEFAULT_JOIN_NO_PREFIX",
+        "is_full_info": false
+    },
+    "DEFAULT_PREFIX": {
+        "pattern": "{3}% 확률",
+        "format_str_key": "DEFAULT_PREFIX",
+        "is_full_info": false
+    },
+    "DEFAULT_SUFFIX": {
+        "pattern": "{5}턴간 지속",
+        "format_str_key": "DEFAULT_SUFFIX",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_POS_1": {
+        "pattern": "{6} 속성 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_POS_1",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_1": {
+        "pattern": "{6} 속성 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_NEG_1",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_1": {
+        "pattern": "{0}의 {6} 속성 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_1",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_1": {
+        "pattern": "{0}의 {6} 속성 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_1",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_1": {
+        "pattern": "{0}의 {4}턴 후 {6} 속성이 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_1",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_1": {
+        "pattern": "{0}의 {4}턴 후 {6} 속성이 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_1",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_FULL_POS_1": {
+        "pattern": "{3}% 확률로 {0}의 {4}턴 후 {6} 속성 {2}% 감소, {5}턴간 지속",
+        "format_str_key": "BUFF_EFFECT_FULL_POS_1",
+        "is_full_info": true
+    },
+    "BUFF_EFFECT_FULL_NEG_1": {
+        "pattern": "{3}% 확률로 {0}의 {4}턴 후 {6} 속성 {2}% 감소, {5}턴간 지속",
+        "format_str_key": "BUFF_EFFECT_FULL_NEG_1",
+        "is_full_info": true
+    },
+    "BUFF_EFFECT_POS_2": {
+        "pattern": "{6} 스타일 동작 득점 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_POS_2",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_2": {
+        "pattern": "{6} 스타일 동작 득점 {2} 감소",
+        "format_str_key": "BUFF_EFFECT_NEG_2",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_2": {
+        "pattern": "{0}의 {6} 스타일 동작 득점 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_2",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_2": {
+        "pattern": "{0}의 {6} 스타일 동작 득점 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_2",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_2": {
+        "pattern": "{0}의 {4}턴 후 {6} 스타일 동작에 득점 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_2",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_2": {
+        "pattern": "{0}의 {4}턴 후 {6} 스타일 동작에 득점 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_2",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_POS_3": {
+        "pattern": "스킬 시전 확률 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_POS_3",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_3": {
+        "pattern": "스킬 시전 확률 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_NEG_3",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_3": {
+        "pattern": "{0}의 스킬 시전 확률 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_3",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_3": {
+        "pattern": "{0}의 스킬 시전 확률 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_3",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_3": {
+        "pattern": "{0}의 {4}턴 후 스킬 시전 확률 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_3",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_3": {
+        "pattern": "{0}의 {4}턴 후 스킬 시전 확률 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_3",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_POS_4": {
+        "pattern": "동작 득점 {2} 추가 증가",
+        "format_str_key": "BUFF_EFFECT_POS_4",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_4": {
+        "pattern": "동작 득점 {2} 감소",
+        "format_str_key": "BUFF_EFFECT_NEG_4",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_4": {
+        "pattern": "{0}의 동작 득점 {2} 추가 증가",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_4",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_4": {
+        "pattern": "{0}의 동작 득점 {2} 감소",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_4",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_4": {
+        "pattern": "{0}의 {4}턴 후 동작에 득점 {2} 추가 증가",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_4",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_4": {
+        "pattern": "{0}의 {4}턴 후 동작에 득점 {2} 감소",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_4",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_POS_5": {
+        "pattern": "동작 득점 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_POS_5",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_5": {
+        "pattern": "동작 득점 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_NEG_5",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_5": {
+        "pattern": "{0}의 동작 득점 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_5",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_5": {
+        "pattern": "{0}의 동작 득점 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_5",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_5": {
+        "pattern": "{0}의 {4}턴 후 동작에 득점 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_5",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_5": {
+        "pattern": "{0}의{4}턴 후 동작에 득점 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_5",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_POS_6": {
+        "pattern": "모든 속성 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_POS_6",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_6": {
+        "pattern": "모든 속성 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_NEG_6",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_6": {
+        "pattern": "{0}의 모든 속성 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_6",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_6": {
+        "pattern": "{0}의 모든 속성 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_6",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_6": {
+        "pattern": "{0}의 {4}턴 후 모든 속성 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_6",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_6": {
+        "pattern": "{0}의 {4}턴 후 모든 속성 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_6",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_POS_7": {
+        "pattern": "모든 스타일 동작 득점 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_POS_7",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_7": {
+        "pattern": "모든 스타일 동작 득점 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_NEG_7",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_7": {
+        "pattern": "{0}의 모든 스타일 동작 득점 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_7",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_7": {
+        "pattern": "{0}의 모든 스타일 동작 득점 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_7",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_7": {
+        "pattern": "{0}의 {4}턴 후 모든 스타일 동작에 득점 {2}% 증가",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_7",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_7": {
+        "pattern": "{0}의 {4}턴 후 모든 스타일 동작에 득점 {2}% 감소",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_7",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_POS_8": {
+        "pattern": "동작 득점이 {6} 속성의 {1}%만큼 추가 증가",
+        "format_str_key": "BUFF_EFFECT_POS_8",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_NEG_8": {
+        "pattern": "동작 득점이 {6} 속성의 {1}%만큼 감소",
+        "format_str_key": "BUFF_EFFECT_NEG_8",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_POS_8": {
+        "pattern": "{0} 동작 득점이 {6} 속성의 {1}%만큼 추가 증가",
+        "format_str_key": "BUFF_EFFECT_ROUND_POS_8",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_ROUND_NEG_8": {
+        "pattern": "{0} 동작 득점이 {6} 속성의 {1}%만큼 감소",
+        "format_str_key": "BUFF_EFFECT_ROUND_NEG_8",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_POS_8": {
+        "pattern": "{0}의 {4}턴 후 동작에 득점이 {6} 속성의 {1}%만큼 추가 증가",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_POS_8",
+        "is_full_info": false
+    },
+    "BUFF_EFFECT_DELAY_ROUND_NEG_8": {
+        "pattern": "{0}의 {4}턴 후 동작에 득점이 {6} 속성의 {1}%만큼 감소",
+        "format_str_key": "BUFF_EFFECT_DELAY_ROUND_NEG_8",
+        "is_full_info": false
+    },
+    "DEFAULT_CONDITION_1": {
+        "pattern": "%s 캐릭터가 %s 상태 시",
+        "format_str_key": "DEFAULT_CONDITION_1",
+        "is_full_info": false
+    },
+    "DEFAULT_CONDITION_2": {
+        "pattern": "%s 캐릭터가 %s개 이상의 상태 효과 보유 시",
+        "format_str_key": "DEFAULT_CONDITION_2",
+        "is_full_info": false
+    },
+    "DEFAULT_CONDITION_3": {
+        "pattern": "%s 캐릭터가 이번 턴에 스킬 효과 발동 시",
+        "format_str_key": "DEFAULT_CONDITION_3",
+        "is_full_info": false
+    },
+    "DEFAULT_CONDITION_4": {
+        "pattern": "%s 캐릭터가 %s번째 스킬 효과 발동 시",
+        "format_str_key": "DEFAULT_CONDITION_4",
+        "is_full_info": false
+    },
+    "DEFAULT_CONDITION_5": {
+        "pattern": "%s 캐릭터가 %s 스타일 동작 사용 시",
+        "format_str_key": "DEFAULT_CONDITION_5",
+        "is_full_info": false
+    },
+    "DEFAULT_ROUND_PROBABILITY": {
+        "pattern": "턴마다 %s%% 확률로 적용",
+        "format_str_key": "DEFAULT_ROUND_PROBABILITY",
+        "is_full_info": false
+    },
+    "all": [
+        "DEFAULT_JOIN",
+        "DEFAULT_JOIN_NO_SUFFIX",
+        "DEFAULT_JOIN_NO_PREFIX",
+        "DEFAULT_PREFIX",
+        "DEFAULT_SUFFIX",
+        "BUFF_EFFECT_POS_1",
+        "BUFF_EFFECT_NEG_1",
+        "BUFF_EFFECT_ROUND_POS_1",
+        "BUFF_EFFECT_ROUND_NEG_1",
+        "BUFF_EFFECT_DELAY_ROUND_POS_1",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_1",
+        "BUFF_EFFECT_FULL_POS_1",
+        "BUFF_EFFECT_FULL_NEG_1",
+        "BUFF_EFFECT_POS_2",
+        "BUFF_EFFECT_NEG_2",
+        "BUFF_EFFECT_ROUND_POS_2",
+        "BUFF_EFFECT_ROUND_NEG_2",
+        "BUFF_EFFECT_DELAY_ROUND_POS_2",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_2",
+        "BUFF_EFFECT_POS_3",
+        "BUFF_EFFECT_NEG_3",
+        "BUFF_EFFECT_ROUND_POS_3",
+        "BUFF_EFFECT_ROUND_NEG_3",
+        "BUFF_EFFECT_DELAY_ROUND_POS_3",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_3",
+        "BUFF_EFFECT_POS_4",
+        "BUFF_EFFECT_NEG_4",
+        "BUFF_EFFECT_ROUND_POS_4",
+        "BUFF_EFFECT_ROUND_NEG_4",
+        "BUFF_EFFECT_DELAY_ROUND_POS_4",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_4",
+        "BUFF_EFFECT_POS_5",
+        "BUFF_EFFECT_NEG_5",
+        "BUFF_EFFECT_ROUND_POS_5",
+        "BUFF_EFFECT_ROUND_NEG_5",
+        "BUFF_EFFECT_DELAY_ROUND_POS_5",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_5",
+        "BUFF_EFFECT_POS_6",
+        "BUFF_EFFECT_NEG_6",
+        "BUFF_EFFECT_ROUND_POS_6",
+        "BUFF_EFFECT_ROUND_NEG_6",
+        "BUFF_EFFECT_DELAY_ROUND_POS_6",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_6",
+        "BUFF_EFFECT_POS_7",
+        "BUFF_EFFECT_NEG_7",
+        "BUFF_EFFECT_ROUND_POS_7",
+        "BUFF_EFFECT_ROUND_NEG_7",
+        "BUFF_EFFECT_DELAY_ROUND_POS_7",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_7",
+        "BUFF_EFFECT_POS_8",
+        "BUFF_EFFECT_NEG_8",
+        "BUFF_EFFECT_ROUND_POS_8",
+        "BUFF_EFFECT_ROUND_NEG_8",
+        "BUFF_EFFECT_DELAY_ROUND_POS_8",
+        "BUFF_EFFECT_DELAY_ROUND_NEG_8",
+        "DEFAULT_CONDITION_1",
+        "DEFAULT_CONDITION_2",
+        "DEFAULT_CONDITION_3",
+        "DEFAULT_CONDITION_4",
+        "DEFAULT_CONDITION_5",
+        "DEFAULT_ROUND_PROBABILITY"
+    ]
+}

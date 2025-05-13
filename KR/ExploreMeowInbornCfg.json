@@ -1,0 +1,59 @@
+{
+    "10001": {
+        "inborn_icon": "2001",
+        "inborn_name": "데이터 공유",
+        "id": 10001,
+        "inborn_description": "에인소프 탐색 시, 탐색 수익 <color=#F6C800>30%</color> 증가",
+        "inborn_effect": [
+            10001,
+            30
+        ]
+    },
+    "10002": {
+        "inborn_icon": "2002",
+        "inborn_name": "데이터 공유",
+        "id": 10002,
+        "inborn_description": "노이한자 탐색 시, 탐색 수익 <color=#F6C800>30%</color> 증가",
+        "inborn_effect": [
+            10002,
+            30
+        ]
+    },
+    "10003": {
+        "inborn_icon": "2003",
+        "inborn_name": "데이터 공유",
+        "id": 10003,
+        "inborn_description": "사사나미 탐색 시, 탐색 수익 <color=#F6C800>30%</color> 증가",
+        "inborn_effect": [
+            10003,
+            30
+        ]
+    },
+    "10004": {
+        "inborn_icon": "2004",
+        "inborn_name": "데이터 공유",
+        "id": 10004,
+        "inborn_description": "오모피스 탐색 시, 탐색 수익 <color=#F6C800>30%</color> 증가",
+        "inborn_effect": [
+            10004,
+            30
+        ]
+    },
+    "10005": {
+        "inborn_icon": "2005",
+        "inborn_name": "데이터 공유",
+        "id": 10005,
+        "inborn_description": "에버베인 탐색 시, 탐색 수익 <color=#F6C800>30%</color> 증가",
+        "inborn_effect": [
+            10005,
+            30
+        ]
+    },
+    "all": [
+        10001,
+        10002,
+        10003,
+        10004,
+        10005
+    ]
+}

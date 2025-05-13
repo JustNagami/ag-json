@@ -1,0 +1,238 @@
+{
+    "1001": {
+        "description": "<color=#FF9500>40</color>칸 이동할 때마다 주사위 <color=#FF9500>1</color>개 획득, <color=#FF9500>%s</color>칸 이동 필요",
+        "name": "정밀 장치",
+        "type": 1001,
+        "updateround": 40,
+        "remainround": -1,
+        "id": 1001,
+        "icon": "buff_1",
+        "param": [
+            2
+        ],
+        "des_params": [
+            1
+        ]
+    },
+    "1002": {
+        "description": "시야 범위 <color=#FF9500>+3</color>",
+        "name": "암순응",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1002,
+        "icon": "buff_2",
+        "param": [
+            3,
+            3
+        ]
+    },
+    "1003": {
+        "description": "<color=#FF9500>[회수 파이프]</color> 끄기 능력 보유",
+        "name": "누워서 떡 먹기",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1003,
+        "icon": "buff_3",
+        "param": [
+            5,
+            1
+        ]
+    },
+    "1004": {
+        "description": "<color=#FF9500>[견고한 컨테이너]</color> 파괴 능력 보유",
+        "name": "장애물 제거",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1004,
+        "icon": "buff_4",
+        "param": [
+            4,
+            1
+        ]
+    },
+    "1005": {
+        "description": "<color=#FF9500>[추진기]</color> 조절 능력 보유",
+        "name": "탄성 위치에너지",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1005,
+        "icon": "buff_5",
+        "param": [
+            7,
+            1
+        ]
+    },
+    "1006": {
+        "description": "<color=#FF9500>[리프트]</color> 조작 능력 보유",
+        "name": "고도 변경",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1006,
+        "icon": "buff_6",
+        "param": [
+            6,
+            1
+        ]
+    },
+    "1007": {
+        "description": "<color=#FF9500>[헤드 콘솔]</color> 조작 능력 보유",
+        "name": "마이너스 벡터",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1007,
+        "icon": "buff_12",
+        "param": [
+            16,
+            1
+        ]
+    },
+    "1008": {
+        "description": "<color=#FF9500>[회수 파이프]</color> 임시 끄기 능력 보유",
+        "name": "불안정 평형",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1008,
+        "icon": "buff_13",
+        "param": [
+            17,
+            1
+        ]
+    },
+    "1009": {
+        "description": "시야 범위 <color=#FF9500>+2</color>",
+        "name": "암순응",
+        "type": 1000,
+        "updateround": -1,
+        "des_params": "",
+        "remainround": -1,
+        "id": 1009,
+        "icon": "buff_2",
+        "param": [
+            3,
+            2
+        ]
+    },
+    "2001": {
+        "description": "<color=#FF9500>%s</color> 턴 동안 시야 범위 <color=#FF9500>+3</color>",
+        "name": "감각 보조",
+        "type": 1000,
+        "updateround": -1,
+        "remainround": 30,
+        "id": 2001,
+        "icon": "buff_7",
+        "param": [
+            3,
+            3
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2002": {
+        "description": "<color=#FF9500>%s</color>턴 동안 행동치 <color=#FF9500>2배 소모</color>",
+        "name": "행동 정체",
+        "type": 1000,
+        "updateround": -1,
+        "remainround": 10,
+        "id": 2002,
+        "icon": "buff_8",
+        "param": [
+            8,
+            1000
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2003": {
+        "description": "<color=#FF9500>%s</color>턴 후 원점으로 복귀",
+        "name": "정밀 직감",
+        "type": 1001,
+        "updateround": 30,
+        "remainround": 30,
+        "id": 2003,
+        "icon": "buff_9",
+        "param": [
+            6
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2004": {
+        "description": "<color=#FF9500>%s</color>턴 후 주사위 <color=#FF9500>2</color>개 소멸",
+        "name": "파손 위험",
+        "type": 1001,
+        "updateround": 20,
+        "remainround": 20,
+        "id": 2004,
+        "icon": "buff_10",
+        "param": [
+            7
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2005": {
+        "description": "<color=#FF9500>%s</color>턴 후 주사위 <color=#FF9500>2</color>개 획득",
+        "name": "지각 사례",
+        "type": 1001,
+        "updateround": 20,
+        "remainround": 20,
+        "id": 2005,
+        "icon": "buff_11",
+        "param": [
+            8
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "2006": {
+        "description": "<color=#FF9500>%s</color>턴 후 원점으로 돌아갑니다.",
+        "name": "정밀 직감",
+        "type": 1001,
+        "updateround": 30,
+        "remainround": 30,
+        "id": 2006,
+        "icon": "buff_9",
+        "param": [
+            11
+        ],
+        "des_params": [
+            2
+        ]
+    },
+    "all": [
+        1001,
+        1002,
+        1003,
+        1004,
+        1005,
+        1006,
+        1007,
+        1008,
+        1009,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+    ]
+}

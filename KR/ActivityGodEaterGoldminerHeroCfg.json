@@ -1,0 +1,26 @@
+{
+    "1045": {
+        "hero_icon": "1045",
+        "last_time": 15,
+        "skill_des": "획득한 포인트 30% 증가, 15초 지속. 기본 폭약 1개 소지.",
+        "skill_charge": 500,
+        "hero_id": 1045,
+        "hero_name": "알리사",
+        "boom": 1,
+        "skill_param": 1.3
+    },
+    "1046": {
+        "hero_icon": "1046",
+        "last_time": 15,
+        "skill_des": "갈고리 속도 200% 증가, 15초 지속.",
+        "skill_charge": 500,
+        "hero_id": 1046,
+        "hero_name": "시엘",
+        "boom": 1,
+        "skill_param": 2.5
+    },
+    "all": [
+        1045,
+        1046
+    ]
+}

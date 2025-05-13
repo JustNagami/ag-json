@@ -1,0 +1,66 @@
+{
+    "1": {
+        "chapterID": 1,
+        "name": "한정 수집 시련",
+        "activityID": 293231,
+        "type": 1,
+        "tetris_stage_list": [
+            1
+        ]
+    },
+    "2": {
+        "chapterID": 2,
+        "name": "수집 시련A",
+        "activityID": 293251,
+        "type": 2,
+        "tetris_stage_list": [
+            2,
+            3,
+            4
+        ]
+    },
+    "3": {
+        "chapterID": 3,
+        "name": "수집 시련B",
+        "activityID": 293252,
+        "type": 2,
+        "tetris_stage_list": [
+            5,
+            6
+        ]
+    },
+    "get_id_list_by_tetris_stage_list": [
+        [
+            1
+        ],
+        [
+            2
+        ],
+        [
+            2
+        ],
+        [
+            2
+        ],
+        [
+            3
+        ],
+        [
+            3
+        ]
+    ],
+    "get_id_list_by_type": [
+        [
+            1
+        ],
+        [
+            2,
+            3
+        ]
+    ],
+    "all": [
+        1,
+        2,
+        3
+    ]
+}

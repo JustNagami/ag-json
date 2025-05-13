@@ -1,0 +1,220 @@
+{
+    "5250211": {
+        "monster_level": 80,
+        "name": "보스 쉬움",
+        "ai_level": 4,
+        "type": 83,
+        "map": "5250201",
+        "background_1": "I18d",
+        "tips": "",
+        "hero_list": "",
+        "can_switch_restrict_hero_list": "",
+        "sub_type": 1,
+        "drop_lib_id": 34375101,
+        "id": 5250211,
+        "need_default_team": 0,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "team_type": [
+            221,
+            0
+        ]
+    },
+    "5250212": {
+        "monster_level": 80,
+        "name": "보스 보통",
+        "ai_level": 4,
+        "type": 83,
+        "map": "5250201",
+        "background_1": "I18d",
+        "tips": "",
+        "hero_list": "",
+        "can_switch_restrict_hero_list": "",
+        "sub_type": 1,
+        "drop_lib_id": 34375102,
+        "id": 5250212,
+        "need_default_team": 0,
+        "attribute_factor": [
+            1000,
+            1000,
+            2000
+        ],
+        "team_type": [
+            221,
+            0
+        ]
+    },
+    "5250213": {
+        "monster_level": 80,
+        "name": "보스 어려움",
+        "ai_level": 4,
+        "type": 83,
+        "map": "5250201",
+        "background_1": "I18d",
+        "tips": "",
+        "hero_list": "",
+        "can_switch_restrict_hero_list": "",
+        "sub_type": 1,
+        "drop_lib_id": 34375103,
+        "id": 5250213,
+        "need_default_team": 0,
+        "attribute_factor": [
+            1000,
+            1000,
+            3000
+        ],
+        "team_type": [
+            221,
+            0
+        ]
+    },
+    "5250202": {
+        "monster_level": 80,
+        "name": "예상치 못한 소동",
+        "ai_level": 4,
+        "type": 83,
+        "map": "5250202",
+        "background_1": "I18",
+        "tips": "동부 황야에 갑작스러운 신비한 힘이 출현했습니다.",
+        "hero_list": "",
+        "can_switch_restrict_hero_list": "",
+        "sub_type": 2,
+        "drop_lib_id": 34371101,
+        "id": 5250202,
+        "need_default_team": 0,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "team_type": [
+            221,
+            0
+        ]
+    },
+    "5250203": {
+        "monster_level": 80,
+        "name": "아라가미라 명명된 자",
+        "ai_level": 4,
+        "type": 83,
+        "map": "5250203",
+        "background_1": "I18a",
+        "tips": "신의 이름을 빌린 적군.",
+        "hero_list": "",
+        "can_switch_restrict_hero_list": "",
+        "sub_type": 2,
+        "drop_lib_id": 34371101,
+        "id": 5250203,
+        "need_default_team": 0,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "team_type": [
+            221,
+            0
+        ]
+    },
+    "5250204": {
+        "monster_level": 80,
+        "name": "잔해와 분노",
+        "ai_level": 4,
+        "type": 83,
+        "map": "5250204",
+        "background_1": "I18b",
+        "tips": "비명, 울음, 기도... 이들은 본래 사람들의 삶에 있어서는 안 될 것들입니다.",
+        "hero_list": "",
+        "can_switch_restrict_hero_list": "",
+        "sub_type": 2,
+        "drop_lib_id": 34371101,
+        "id": 5250204,
+        "need_default_team": 0,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "team_type": [
+            221,
+            0
+        ]
+    },
+    "5250205": {
+        "monster_level": 80,
+        "name": "이에는 이",
+        "ai_level": 4,
+        "type": 83,
+        "map": "5250205",
+        "background_1": "I18c",
+        "tips": "지키기 위해 싸우며, 마지막 순간까지 싸울 것입니다.",
+        "hero_list": "",
+        "can_switch_restrict_hero_list": "",
+        "sub_type": 2,
+        "drop_lib_id": 34371101,
+        "id": 5250205,
+        "need_default_team": 0,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "team_type": [
+            221,
+            0
+        ]
+    },
+    "5250206": {
+        "monster_level": 80,
+        "name": "모든 것이 끝을 맞이할 때",
+        "ai_level": 4,
+        "type": 83,
+        "map": "5250206",
+        "background_1": "I18d",
+        "tips": "앞으로 무엇이 다가올지라도, 우리는 여전히 아름다운 희망을 품고 계속 싸울 것입니다.",
+        "hero_list": "",
+        "can_switch_restrict_hero_list": "",
+        "sub_type": 3,
+        "drop_lib_id": 34372501,
+        "id": 5250206,
+        "need_default_team": 0,
+        "attribute_factor": [
+            1000,
+            1000,
+            1000
+        ],
+        "team_type": [
+            221,
+            0
+        ]
+    },
+    "get_id_list_by_sub_type": [
+        [
+            5250211,
+            5250212,
+            5250213
+        ],
+        [
+            5250202,
+            5250203,
+            5250204,
+            5250205
+        ],
+        [
+            5250206
+        ]
+    ],
+    "all": [
+        5250211,
+        5250212,
+        5250213,
+        5250202,
+        5250203,
+        5250204,
+        5250205,
+        5250206
+    ]
+}

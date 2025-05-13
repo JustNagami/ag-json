@@ -1,0 +1,60 @@
+{
+    "Normal": {
+        "value": 0,
+        "name": "Normal",
+        "annotation": ""
+    },
+    "Charge": {
+        "value": 1,
+        "name": "Charge",
+        "annotation": "지속 차지"
+    },
+    "Transfiguration": {
+        "value": 2,
+        "name": "Transfiguration",
+        "annotation": "형태 변환"
+    },
+    "Persist": {
+        "value": 3,
+        "name": "Persist",
+        "annotation": "지속 시전"
+    },
+    "Strengthen": {
+        "value": 4,
+        "name": "Strengthen",
+        "annotation": "강화스킬"
+    },
+    "Switch": {
+        "value": 5,
+        "name": "Switch",
+        "annotation": "분기점 선택"
+    },
+    "Prepare": {
+        "value": 6,
+        "name": "Prepare",
+        "annotation": "사전 준비"
+    },
+    "get_id_list_by_value": {
+        "6": [
+            "Prepare"
+        ],
+        "5": [
+            "Switch"
+        ],
+        "4": [
+            "Strengthen"
+        ],
+        "3": [
+            "Persist"
+        ],
+        "2": [
+            "Transfiguration"
+        ],
+        "1": [
+            "Charge"
+        ],
+        "0": [
+            "Normal"
+        ]
+    }
+}

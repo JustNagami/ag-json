@@ -1,0 +1,212 @@
+{
+    "5090206": {
+        "monster_level": 80,
+        "name": "극기",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "J04",
+        "tips": "약목궁의 계율에서 말하길: \"극기로 심신을 다지면 인의가 너를 보호할 것이니라.\"",
+        "map": "5090206",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5090206,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2000,
+            2000,
+            70000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5100206": {
+        "monster_level": 80,
+        "name": "옛 성의 폐허",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "J02a",
+        "tips": "출동 준비, 옛 성의 폐허로 가서 고위험 호송 임무를 실시한다.",
+        "map": "5100206",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5100206,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            2000,
+            180000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5110406": {
+        "monster_level": 80,
+        "name": "억제 결계",
+        "ai_level": 3,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "J15",
+        "tips": "자신의 몸으로 잡념을 막아내니 맑은 공기가 천지를 뒤덮는다.",
+        "map": "5110406",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5110406,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            1000,
+            320000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120306": {
+        "monster_level": 80,
+        "name": "맹수 떼 ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "K04",
+        "tips": "성벽 쪽에서 귀청을 찢는 듯한 소리가 난다.",
+        "map": "5120306",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5120306,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            1000,
+            320000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5120406": {
+        "monster_level": 80,
+        "name": "만개 ",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "K04a",
+        "tips": "불씨로서 숲 전체를 피워내리라. ",
+        "map": "5120406",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5120406,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            1000,
+            320000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5130506": {
+        "monster_level": 80,
+        "name": "마음 단련",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "K12",
+        "tips": "기술이 노련하고, 마음이 안정되면 날이 선다. ",
+        "map": "5130506",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5130506,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            1000,
+            350000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140506": {
+        "monster_level": 80,
+        "name": "헤비급",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "L03a",
+        "tips": "[네 도전은 여기까지. 이제부터는 나의 경기다.]",
+        "map": "5140506",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5140506,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            1000,
+            350000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "5140606": {
+        "monster_level": 80,
+        "name": "고난",
+        "ai_level": 4,
+        "hero_list": "",
+        "drop_lib_id": 0,
+        "background_1": "L04a",
+        "tips": "고난 속에서 발악하는 인간이 가장 잘하는 건, 바로 고난 속에서 신을 만드는 것이다.",
+        "map": "5140606",
+        "affix_type": "",
+        "need_default_team": 1,
+        "user_exp": 0,
+        "id": 5140606,
+        "hero_exp": 0,
+        "level": 1,
+        "attribute_factor": [
+            2500,
+            1000,
+            350000
+        ],
+        "team_type": [
+            200,
+            0
+        ]
+    },
+    "all": [
+        5090206,
+        5100206,
+        5110406,
+        5120306,
+        5120406,
+        5130506,
+        5140506,
+        5140606
+    ]
+}
