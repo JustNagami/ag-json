@@ -8211,7 +8211,7 @@
         ]
     },
     "101072203": {
-        "description": "Translating:【description$101072203$description$0】",
+        "description": "Shortly after the final strike of a normal attack, Breezy Blessings, or Actus Abacus, Raining Wealth will be replaced by Evil Expeller and can be cast immediately as a follow-up attack of the attacks mentioned above, which will result in different number of strikes, different amounts of DMG, and different <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> points obtained upon a hit. <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> is capped at <color=#E78300>50</color>.\nCasting Evil Expeller immediately after the final strike of a normal attack: 1 strike of attack can be delivered, dealing Wind DMG equal to <color=#E78300>{1}</color> of ATK and granting <color=#E78300>6</color> <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> in total.\nCasting Evil Expeller immediately after Breezy Blessings: 3 strikes of attack can be delivered consecutively, dealing Wind DMG equal to <color=#E78300>{2}</color> of ATK and granting <color=#E78300>10</color> <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> in total.\nCasting Evil Expeller immediately after Actus Abacus: 5 strikes of attack can be delivered consecutively, dealing Wind DMG equal to <color=#E78300>{3}</color> of ATK and granting <color=#E78300>14</color> <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> in total.\n\nRaining Wealth: Consumes all <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material>, then leaps into the air and attacks the enemy using Omnicalc. Damage dealt is determined by the <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> expended.\nWhen <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> expended is below <color=#E78300>40</color>, deals Wind DMG equal to <color=#E78300>{4}</color> of ATK in total.\nWhen <color=#E78300>40</color> or more <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> is expended, deals Wind DMG equal to <color=#E78300>{5}</color> of ATK in total.\nCasting Raining Wealth increases the Wind DMG of the entire team by <color=#E78300>10%</color> for <color=#E78300>{6}</color>s. For every <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material> expended, this Wind DMG boost further increases by <color=#E78300>0.6%</color>.\n\n<color=#297DE0>Traces:</color> After the last strike of Evil Expeller hits, gains <color=#E78300>1</color> Trace.",
         "maxLv": 60,
         "type": 1,
         "id": 101072203,
@@ -18832,7 +18832,7 @@
         ]
     },
     "110720023": {
-        "description": "Translating:【description$110720023$description$0】",
+        "description": "Increases the Non-DoT DMG of <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin's</material> joint attack by <color=#E78300>{1}</color>. \n<material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> can now follow all teammates. Increases the Skill DMG of teammates followed by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> by <color=#E78300>{2}</color>. Whenever a Mod is followed by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material>, if the Rating gain rate is not lower than <color=#E78300>20%</color>, increases the Skill DMG of the followed teammate by an additional <color=#E78300>{3}</color>.",
         "maxLv": 1,
         "type": 1,
         "id": 110720023,
@@ -25203,7 +25203,7 @@
         ]
     },
     "200001141": {
-        "description": "Translating:【description$200001141$description$0】",
+        "description": "Whenever a Mod followed by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> casts a skill, the Non-DoT Crit DMG of Wind attacks increases by <color=#E78300>{1}</color> for <color=#E78300>4</color>s. Effect stacks up to <color=#E78300>5</color> times.\nReduces the Crit RES of enemies hit by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin's</material> joint attack by <color=#E78300>{2}</color> for <color=#E78300>{3}</color>s.\nFor every <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> on the field, increases the Mod's Ultimate Skill charge speed by <color=#E78300>{4}</color> and Ultimate Skill DMG by <color=#E78300>{5}</color>.",
         "maxLv": 1,
         "type": 1,
         "id": 200001141,
@@ -25242,7 +25242,7 @@
         ]
     },
     "200001142": {
-        "description": "Translating:【description$200001142$description$0】",
+        "description": "Increases the Non-DoT DMG of <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin's</material> joint attack by <color=#E78300>{1}</color>. \n<material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> can now follow all teammates. Increases the Skill DMG of teammates followed by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> by <color=#E78300>{2}</color>. Whenever a Mod is followed by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material>, if the Rating gain rate is not lower than <color=#E78300>20%</color>, increases the Skill DMG of the followed teammate by an additional <color=#E78300>{3}</color>.",
         "maxLv": 1,
         "type": 1,
         "id": 200001142,
@@ -25269,7 +25269,7 @@
         ]
     },
     "200001143": {
-        "description": "Translating:【description$200001143$description$0】",
+        "description": "Aether Code: Prodigy of Math - Magic's ATK boost effect can stack up to <color=#E78300>3</color> times.",
         "maxLv": 1,
         "type": 1,
         "id": 200001143,
