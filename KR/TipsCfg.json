@@ -2599,7 +2599,7 @@
     },
     "7103": {
         "id": 7103,
-        "desc": "모디파이어가 레스토랑에 파견되었습니다.",
+        "desc": "하우스 영웅이 파견되었습니다.",
         "define": "ERROR_BACKHOME_HERO_ALREADY_ENTRUST",
         "audio": "ui_tips01"
     },
@@ -3523,7 +3523,7 @@
     },
     "30101": {
         "id": 30101,
-        "desc": "본부 레벨 상승 필요",
+        "desc": "90d366850b6bf2c580430142c92cc838",
         "define": "GOD_EATER_SHOP_ERROR",
         "audio": "ui_tips03"
     },
@@ -5035,7 +5035,7 @@
     },
     "60330": {
         "id": 60330,
-        "desc": "<color=#7D8A98>%s</color>의 모든 콘텐츠를 보유하고 있습니다.\n<color=#7D8A98>%s</color>을(를) 에인소프 코인으로 교환하시겠습니까?",
+        "desc": "<color=#7D8A98>%s</color>의 모든 콘텐츠를 보유하고 있습니다.\n<color=#7D8A98>%s</color>을(를) 골드로 교환하시겠습니까?",
         "define": "SKIN_LIMIT_TIME_DESC_4",
         "audio": "ui_tips02"
     },
@@ -6835,7 +6835,7 @@
     },
     "71305": {
         "id": 71305,
-        "desc": "획득 확률 <color=#FF9300>%s</color>(아래 모디파이어는 확률이 균등 분배됩니다)",
+        "desc": "획득 확률 <color=#FF9300>%s</color>",
         "define": "DRAW_PROBABILITY",
         "audio": "ui_tips01"
     },
@@ -7723,19 +7723,19 @@
     },
     "80032": {
         "id": 80032,
-        "desc": "공식 에뮬레이터는 현재 결제를 지원하지 않습니다. 모바일 버전에서 결제해 주시기 바랍니다.",
+        "desc": "해당 기능을 사용할 수 없습니다. 모바일로 이동해 주세요",
         "define": "PC_SHOP_TIPS1",
         "audio": "ui_tips02"
     },
     "80033": {
         "id": 80033,
-        "desc": "공식 에뮬레이터는 현재 결제를 지원하지 않습니다. 모바일 버전에서 결제해 주시기 바랍니다.",
+        "desc": "아직 구매할 수 없습니다. 모바일로 이동해 주세요",
         "define": "PC_SHOP_TIPS2",
         "audio": "ui_tips02"
     },
     "80034": {
         "id": 80034,
-        "desc": "공식 에뮬레이터는 현재 결제를 지원하지 않습니다. 모바일 버전에서 결제해 주시기 바랍니다.",
+        "desc": "미지원",
         "define": "PC_SHOP_TIPS3",
         "audio": "ui_tips02"
     },
@@ -12355,31 +12355,31 @@
     },
     "281106": {
         "id": 281106,
-        "desc": "%s 오픈",
+        "desc": "6be149b9d6a368529454c8c5a2133891",
         "define": "OPEN_SUFFIX",
         "audio": "ui_tips03"
     },
     "281107": {
         "id": 281107,
-        "desc": "%s 버리기",
+        "desc": "c80645ec01e7886916a289aca54efd42",
         "define": "ROGUE_TEAM_DISCARD_ITEM_WF",
         "audio": "ui_tips03"
     },
     "281108": {
         "id": 281108,
-        "desc": "%s 획득",
+        "desc": "a24355bdf45d068798bc47dfeb3eb2c1",
         "define": "ROGUE_TEAM_OBTAIN_WF",
         "audio": "ui_tips03"
     },
     "281109": {
         "id": 281109,
-        "desc": "%s 잃음",
+        "desc": "1373c64065bc3d226c83eee24e388e66",
         "define": "ROGUE_TEAM_LOST_WF",
         "audio": "ui_tips03"
     },
     "281110": {
         "id": 281110,
-        "desc": "수집품 효과로 %s 획득",
+        "desc": "dc08979961e93ee016713c2600473215",
         "define": "ROGUE_TEAM_RELIC_EFFECT_ACTIVE_WF",
         "audio": "ui_tips03"
     },
@@ -13795,7 +13795,7 @@
     },
     "348005": {
         "id": 348005,
-        "desc": "단계%s",
+        "desc": "%s단계",
         "define": "CULTIVATE_HERO_REWARD",
         "audio": "ui_tips03"
     },
@@ -15349,7 +15349,7 @@
     },
     "358026": {
         "id": 358026,
-        "desc": "누적 획득-",
+        "desc": "누적 획득",
         "define": "EXPLORE_MEOW_DEBLOCKING_CONDITION",
         "audio": "ui_tips01"
     },
@@ -15367,7 +15367,7 @@
     },
     "359002": {
         "id": 359002,
-        "desc": "획득 확률 <color=#FF9300>1.60%</color>(아래 모디파이어는 확률이 균등 분배됩니다)",
+        "desc": "획득 확률 <color=#FF9300>1.60%</color>",
         "define": "DRAW_POOL_PROBABILITY_S_2",
         "audio": "ui_tips03"
     },
@@ -15385,7 +15385,7 @@
     },
     "359005": {
         "id": 359005,
-        "desc": "획득 확률 <color=#FF9300>7.80%</color>(아래 모디파이어는 확률이 균등 분배됩니다)",
+        "desc": "획득 확률 <color=#FF9300>7.80%</color>",
         "define": "DRAW_POOL_PROBABILITY_A_2",
         "audio": "ui_tips03"
     },
@@ -15403,7 +15403,7 @@
     },
     "359008": {
         "id": 359008,
-        "desc": "획득 확률 <color=#FF9300>6.00%</color>(아래 모디파이어는 확률이 균등 분배됩니다)",
+        "desc": "획득 확률 <color=#FF9300>6.00%</color>",
         "define": "DRAW_POOL_PROBABILITY_B_2",
         "audio": "ui_tips03"
     },
@@ -15415,7 +15415,7 @@
     },
     "359010": {
         "id": 359010,
-        "desc": "획득 확률 <color=#FF9300>84.60%</color>(아래 펑터는 확률이 균등 분배됩니다)",
+        "desc": "획득 확률 <color=#FF9300>84.60%</color>",
         "define": "DRAW_POOL_PROBABILITY_C_2",
         "audio": "ui_tips03"
     },
@@ -15427,7 +15427,7 @@
     },
     "359012": {
         "id": 359012,
-        "desc": "획득 확률 <color=#FF9300>1.60%</color>(아래 펑터는 확률이 균등 분배됩니다)",
+        "desc": "획득 확률 <color=#FF9300>1.60%</color>",
         "define": "DRAW_POOL_PROBABILITY_FIVE_WEAPON_2",
         "audio": "ui_tips03"
     },
@@ -15445,7 +15445,7 @@
     },
     "359015": {
         "id": 359015,
-        "desc": "획득 확률 <color=#FF9300>11.08%</color>(아래 펑터는 확률이 균등 분배됩니다)",
+        "desc": "획득 확률 <color=#FF9300>11.08%</color>",
         "define": "DRAW_POOL_PROBABILITY_FOUR_WEAPON_2",
         "audio": "ui_tips03"
     },
@@ -15463,7 +15463,7 @@
     },
     "359018": {
         "id": 359018,
-        "desc": "획득 확률 <color=#FF9300>87.32%</color>(아래 펑터는 확률이 균등 분배됩니다)",
+        "desc": "획득 확률 <color=#FF9300>87.32%</color>",
         "define": "DRAW_POOL_PROBABILITY_THREE_WEAPON_2",
         "audio": "ui_tips03"
     },
@@ -15565,13 +15565,13 @@
     },
     "359035": {
         "id": 359035,
-        "desc": "특별 업무 협력",
+        "desc": "96b8a08f005e87c8ff29b52fc5347781",
         "define": "WEAPON_DRAW_POOL_RACE_GODEATER_1",
         "audio": "ui_tips03"
     },
     "359036": {
         "id": 359036,
-        "desc": "작전 회의 준비 중",
+        "desc": "54ba9e5dabe9443bc3626e1ee9439626",
         "define": "WEAPON_DRAW_POOL_RACE_GODEATER_2",
         "audio": "ui_tips03"
     },
@@ -16345,7 +16345,7 @@
     },
     "410011": {
         "id": 410011,
-        "desc": "[%s] 팀원으로 설정 시 전투 가능",
+        "desc": "[%s] 아군으로 설정 시 전투 가능",
         "define": "TEST_CHALLENGE_TIPS_10",
         "audio": "ui_tips03"
     },
@@ -16603,7 +16603,7 @@
     },
     "420103": {
         "id": 420103,
-        "desc": "1. 퍼즐 조각은 선택 후 드래그해 움직일 수 있으며, 조각과 같은 방향의 배치 가능한 구역으로만 옮길 수 있습니다.\n2. 조각이 속한 퍼즐 구역을 선택하면 해당 구역을 회전시켜 조각 방향과 배치할 수 있는 구역을 변경할 수 있습니다.\n3. 일부 조각 구역은 완료 후에도 조각이 속한 구역이 완료될 때까지 움직일 수 있습니다.\n4. 퍼즐 구역 완료 시 단서가 해제되며, 모든 구역의 단서를 수집하고 확인하면 최종 보상을 받을 수 있습니다.\n5. 일일 임무를 완료해 위치추적 장치를 충분히 획득하면, 한 번에 모든 퍼즐을 완료할 수 있습니다.",
+        "desc": "1. 퍼즐 조각은 선택 후 드래그해 움직일 수 있으며, 조각과 같은 방향의 배치 가능한 구역으로만 옮길 수 있습니다.\n2. 조각이 속한 퍼즐 구역을 선택하면 해당 구역을 회전시켜 조각 방향과 배치할 수 있는 구역을 변경할 수 있습니다.\n3. 일부 조각 구역은 완료 후에도 조각이 속한 구역이 완료될 때까지 움직일 수 있습니다.\n4. 퍼즐 구역 완료 시 단서가 해제되며, 모든 구역의 단서를 수집하고 확인하면 최종 조상을 받을 수 있습니다.\n5. 일일 임무를 완료해 위치추적 장치를 충분히 획득하면, 한 번에 모든 퍼즐을 완료할 수 있습니다.",
         "define": "ACTIVITY_PUZZLE_III_EXPLAIN",
         "audio": "ui_tips03"
     },
@@ -16615,13 +16615,13 @@
     },
     "420105": {
         "id": 420105,
-        "desc": "모든 단서 확인 시 코스모늄 %s개 획득",
+        "desc": "모든 단서 확인 시 %s 획득 가능",
         "define": "ACTIVITY_PUZZLE_III_FINALREWARD_SHOW",
         "audio": "ui_tips01"
     },
     "420106": {
         "id": 420106,
-        "desc": "단서 완료, 코스모늄 %s개 획득",
+        "desc": "단서 완료, %s 획득",
         "define": "ACTIVITY_PUZZLE_III_FINALREWARD_GET",
         "audio": "ui_tips01"
     },
@@ -16639,7 +16639,7 @@
     },
     "420109": {
         "id": 420109,
-        "desc": "단서 찾기",
+        "desc": "600773e299e3a743d915a999c923efc3",
         "define": "TANGRAM_PUZZLE_PLAY_BTN",
         "audio": "ui_tips01"
     },
@@ -17839,7 +17839,7 @@
     },
     "439239": {
         "id": 439239,
-        "desc": "턴 %d/%d",
+        "desc": "턴 수 %d/%d",
         "define": "ACTIVITY_COMBINE_GAME_TURN",
         "audio": "ui_tips03"
     },
@@ -17911,7 +17911,7 @@
     },
     "439251": {
         "id": 439251,
-        "desc": "턴 %d",
+        "desc": "턴 수 %d",
         "define": "ACTIVITY_COMBINE_GAME_TURN_2",
         "audio": "ui_tips03"
     },
@@ -18943,7 +18943,7 @@
     },
     "447026": {
         "id": 447026,
-        "desc": "현재 맵의 주문을 새로고침하시겠습니까?",
+        "desc": "현재 맵의 주문을 초기화할까요?",
         "define": "ORDER_REFRESH_TIPS1",
         "audio": "ban"
     },
@@ -19843,7 +19843,7 @@
     },
     "451017": {
         "id": 451017,
-        "desc": "[특수 협력자 탐측] 이벤트 탐측 오픈. 이벤트 기간 동안 관리자는 이번 <color=#E78300>콜라보 한정 펑터</color> 중 한 명을 선택하여, 해당 펑터의 탐측 획득 확률을 <color=#E78300>대폭 증가시킬 수 있습니다</color>!\n\n[특수 협력자 탐측]에서, <color=#FF9500>10</color>회 탐색 시마다 반드시 <color=#FF9500>4</color>성 이상의 펑터를 획득합니다. 최대 <color=#FF9500>70</color>회 탐측 시 반드시 선택한 <color=#FF9500>5</color>성 펑터를 획득합니다. 5성 펑터를 획득하면 현재 탐측 횟수가 초기화됩니다.\n탐측 시 4성 펑터를 획득하면, <color=#FF9500>반드시</color> 선택한 펑터와 동일한 신계의 펑터를 획득합니다.\n탐측 시 5성 펑터를 획득하면, <color=#FF9500>반드시</color> 현재 선택한 <color=#E78300>콜라보 한정 펑터</color>를 획득합니다.\n\nUP 펑터 변경 시 탐측 횟수는 초기화되지 않습니다.\n\n5성 펑터를 획득하면 동시에 100개의 <color=#B67FE3>공명의 빛</color>을 획득합니다. 4성 펑터를 획득하면 동시에 20개의 <color=#B67FE3>공명의 빛</color>을 획득하며, 3성 펑터를 획득하면 동시에 10개의 <color=#B67FE3>공명의 빛</color>을 획득합니다.\n\n[특수 협력자 탐측]은 펑터 탐측이며, 모든 펑터 탐측은 보장 횟수를 공유합니다.\n\n<color=#FF9500>콜라보 한정 펑터는 소환으로 획득할 수 없으며, 해당 이벤트 탐측 종료 후 다른 경로로는 획득할 수 없습니다.</color>\n\n<color=#9A9A9A>※하루 최대 15,000회 탐측 가능 (모든 탐측 종류 포함).</color>",
+        "desc": "7153db614a342b45048a368f4e788676",
         "define": "DRAW_POOL_DESC_TEMP_FIXED_17",
         "audio": "ui_tips02"
     },
@@ -19891,7 +19891,7 @@
     },
     "451201": {
         "id": 451201,
-        "desc": "*이벤트 기간, <color=#FF9300>UP</color> 모디파이어 획득 확률이 <color=#FF9300>대폭 증가</color>하고, S 모디파이어 획득 확률의 <color=#FF9300>%s</color>에 해당합니다.",
+        "desc": "*아래 S 모디파이어는 획득 확률이 <color=#FF9300>균등하게 분배</color>됩니다.\n이벤트 기간, UP 모디파이어 획득 확률이 <color=#FF9300>대폭 증가</color>하고, S 모디파이어 획득 확률의 <color=#FF9300>%s</color>에 해당합니다.",
         "define": "DRAW_POOL_UP_1",
         "audio": "ui_tips02"
     },
@@ -19927,13 +19927,13 @@
     },
     "451207": {
         "id": 451207,
-        "desc": "Translating:【game_tips$451207$desc$0】",
+        "desc": "44227793162f718a30ea130a762e12e2",
         "define": "DRAW_POOL_DESC_TEMP_12",
         "audio": "ui_tips02"
     },
     "451208": {
         "id": 451208,
-        "desc": "Translating:【game_tips$451208$desc$0】",
+        "desc": "e61086f972a278c170b861c977325a92",
         "define": "DRAW_POOL_DESC_TEMP_13",
         "audio": "ui_tips02"
     },
@@ -21541,7 +21541,7 @@
     },
     "469005": {
         "id": 469005,
-        "desc": "1. [블루 스타·다크메탈]과 [붉은 기사·쿠쉬르방]을 조종해 적군을 처치하고 임무를 완료하면 보상을 획득할 수 있습니다.\n2. [블루 스타·다크메탈]과 [붉은 기사·쿠쉬르방]의 스킬은 해당하는 강화 효과가 있으며, 더 많은 스테이지를 클리어해 더 많은 강화 효과를 해제할 수 있습니다.",
+        "desc": "1. [푸른 별·다크메탈]과 [붉은 기사·쿠쉬르방]을 조종해 적군을 처치하고 임무를 완료하면 보상을 획득할 수 있습니다.\n2. [푸른 별·다크메탈]과 [붉은 기사·쿠쉬르방]의 스킬은 해당하는 강화 효과가 있으며, 더 많은 스테이지를 클리어해 더 많은 강화 효과를 해제할 수 있습니다.",
         "define": "ACTIVITY_MONSTER_COSPLAY_DESCRIBE",
         "audio": "ui_tips01"
     },
@@ -22135,7 +22135,7 @@
     },
     "475007": {
         "id": 475007,
-        "desc": "1. 화면 우측에 블록이 나타나며, 블록을 보드 위로 드래그하여 한 행 또는 열을 채워 제거하면 득점하고 제거한 블록이 많을수록 높은 점수를 획득합니다.\n2. 스킬을 활용하세요. 지정 턴 동안 버티면 해당 스킬이 해제됩니다.\n3. 한정 수집 시련에서 스킬을 적절히 활용해 더 높은 점수에 도전하세요.",
+        "desc": "1. 화면 우측에 블록이 나타나며, 블록을 보드 위로 드래그하여 한 행 또는 열을 채워 제거하면 득점하고 제거한 블록이 많을수록 점수가 높아집니다.\n2. 스킬을 활용하세요. 지정 턴 수를 버티면 해당 스킬이 해제됩니다.\n3. 한정 수집 시련에서 스킬을 적절히 활용해 더 높은 점수에 도전하세요.",
         "define": "TETRIS_GAME_HOME_DESC",
         "audio": "ui_tips01"
     },
@@ -23173,463 +23173,463 @@
     },
     "495001": {
         "id": 495001,
-        "desc": "점수 %s 달성",
+        "desc": "432290ecdddf60da511ad36145329490",
         "define": "GOLDMINER_STAGE_POINT_NEED",
         "audio": "ui_tips02"
     },
     "495002": {
         "id": 495002,
-        "desc": "<color=#B5CBE9>%s/%s</color>",
+        "desc": "e2138bd849abb9d046ff19f5465ccc11",
         "define": "GODEATER_DES_1",
         "audio": "ui_tips02"
     },
     "495003": {
         "id": 495003,
-        "desc": "현상금 임무 수량",
+        "desc": "7449b5e0527d617b69dcbc88309533bc",
         "define": "GODEATER_DES_2",
         "audio": "ui_tips02"
     },
     "495004": {
         "id": 495004,
-        "desc": "%s 자동 사냥 수익",
+        "desc": "dd69797e4c571879e35baf2b40509273",
         "define": "GODEATER_DES_3",
         "audio": "ui_tips02"
     },
     "495005": {
         "id": 495005,
-        "desc": "+%s/시간",
+        "desc": "4664b880487bef9f7e415ec214d273ac",
         "define": "GODEATER_DES_4",
         "audio": "ui_tips02"
     },
     "495006": {
         "id": 495006,
-        "desc": "연합 본부 %s레벨 달성",
+        "desc": "d5b567c11112d67b3f4ef4ca4f9ad57f",
         "define": "GODEATER_DES_5",
         "audio": "ui_tips02"
     },
     "495007": {
         "id": 495007,
-        "desc": "관리자님, 저 듣고 있어요.\n대답이 없었던 건 제가 생각 중이었기 때문이에요. 제가 정말 에테르 게이저에 잘 적응하고 모두와 잘 지낼 수 있을까요... 제가 말주변이 부족한 건 사실이니까요.\n하지만 관리자님이 걱정해 주셔서 정말 위안이 됐어요.... 아니, 기쁨이라는 표현이 더 정확할까요?\n죄송해요, 또 이상한 말을 했네요.\n어쨌든, 관리자님의 마음을 저버리지 않도록 노력해 볼게요.",
+        "desc": "499502f37d099421810c28cae3d9061a",
         "define": "ACTIVITY_GODEATER_HERO_GIFT_DES",
         "audio": "ui_tips02"
     },
     "495008": {
         "id": 495008,
-        "desc": "전투 드롭",
+        "desc": "59c126b4fd49a7e8b88901ffea1bebbf",
         "define": "BATTLE_DROP",
         "audio": "ui_tips02"
     },
     "495009": {
         "id": 495009,
-        "desc": "1. [황야의 방어전] 콘텐츠에서 관리자는 연합 본부에서 다양한 작전에 참여해 [오라클 세포 시퀀스]를 수집하고, [전략 보급 창고]에서 보상을 교환할 수 있습니다.\n2. 일부 콘텐츠는 연합 본부 레벨을 올려야 해제됩니다.\n3. [긴급임무 처리 단말기]의 현상수배를 완료하면 연합 본부 레벨을 올릴 수 있습니다.",
+        "desc": "4a0cbb6b4e0fe07a54b538ef55553403",
         "define": "GOD_EATER_GAME_TIPS_1",
         "audio": "ui_tips02"
     },
     "495010": {
         "id": 495010,
-        "desc": "1. [긴급임무 처리 단말기]의 현상수배를 완료해 [연합 작전 진행도]를 획득하고, 연합 본부 레벨을 올리세요.\n2. 연합 본부 레벨이 오를 때마다 [긴급임무 처리 단말기]에 새로운 현상수배가 추가됩니다.\n3. 일정량의 현상수배를 완료하면 [작전 진행도 마일리지]에서 보상을 받을 수 있습니다.",
+        "desc": "212d6d3c81de543106be86b4f8bfef78",
         "define": "GOD_EATER_GAME_TIPS_2",
         "audio": "ui_tips02"
     },
     "495011": {
         "id": 495011,
-        "desc": "1. [황야 협곡의 사냥꾼] 콘텐츠에서는 제공된 체험용 모디파이어 중 1명을 선택해 참여할 수 있습니다. 갈고리를 발사해 물자를 수집하고 아라가미와 맞서 싸울 수 있습니다.\n2. 각 모디파이어마다 고유한 스킬이 있으니, 전략적으로 선택해 스테이지를 클리어하세요.",
+        "desc": "9ddf0a02295f0779be4f713c5a50f332",
         "define": "GOD_EATER_GAME_TIPS_3",
         "audio": "ui_tips02"
     },
     "495012": {
         "id": 495012,
-        "desc": "1. [갑작스러운 소동] 콘텐츠에서는 제공된 체험용 모디파이어 중 1명을 선택해 출전하고, 높은 위험 등급의 적군 [피타] 및 다른 적군들과 맞서야 합니다.\n2. [피타]는 3레벨로 나뉘며, 연합 본부 레벨을 올려야 해제됩니다.\n3. 각 레벨의 [피타]와의 전투에서는 여러 번의 전투를 통해 누적 피해량을 쌓아 처치할 수 있습니다.\n4. [피타]에게 일정 피해를 입히면 체험용 모디파이어의 강화스킬을 해제할 수 있습니다.\n5. 매일 일반 적군 스테이지 2개가 새로고침 됩니다.",
+        "desc": "b41bee8ef1e97bcb7d383955c87ca507",
         "define": "GOD_EATER_GAME_TIPS_4",
         "audio": "ui_tips02"
     },
     "495013": {
         "id": 495013,
-        "desc": "1. [미지의 먹구름] 콘텐츠에서는 제공된 체험용 모디파이어 중 한 명을 선택해 모의 연산을 진행합니다.\n2. 모의 연산에서는 물자가 소진되기 전에 [피타]를 처치하면 승리합니다.\n3. 모의 연산 중 [신탁 인자]를 수집해 처리 진행도를 높이면, 더 많은 능력과 액티브 스킬을 해제할 수 있어 클리어에 도움이 됩니다.\n4. 모의 연산에서는 인력 자원을 소모해 스킬을 시전할 수 있습니다.\n5. 지정된 임무를 완료하면 해당 보상을 수령할 수 있습니다.",
+        "desc": "e6dedad1afd83b99dd49fd4461053a44",
         "define": "GOD_EATER_GAME_TIPS_5",
         "audio": "ui_tips02"
     },
     "495014": {
         "id": 495014,
-        "desc": "동부 황야 어딘가에서 대량의 신탁 인자 에너지 신호가 감지되었다. 감지된 아라가미들은 협곡 어딘가에 모여 있는 듯하다...",
+        "desc": "32470e95e1cb7f1df6653a276177be22",
         "define": "GOD_EATER_GAME_DESC_1",
         "audio": "ui_tips02"
     },
     "495015": {
         "id": 495015,
-        "desc": "고위험 경보가 갑자기 울려 퍼지고, 지평선 너머에서 검은 그림자가 빠르게 다가오며 거대한 포효가 황야를 가로질렀다. 광란과 수호의 전투가 시작되었다...",
+        "desc": "668ad7c15da2772aace183c4677cbc6d",
         "define": "GOD_EATER_GAME_DESC_2",
         "audio": "ui_tips02"
     },
     "495016": {
         "id": 495016,
-        "desc": "미지의 먹구름이 드리운 가운데, 우리는 폭풍의 한가운데에 서 있다.",
+        "desc": "18a57ff4353bce64f067b77a25ae5ba5",
         "define": "GOD_EATER_GAME_DESC_3",
         "audio": "ui_tips02"
     },
     "495017": {
         "id": 495017,
-        "desc": "야, 내 물건 내려놔!",
+        "desc": "73d40000c6d373f61477fb3adbb50f89",
         "define": "GOLDMINER_THIEF_CHAT_1",
         "audio": "ui_tips02"
     },
     "495018": {
         "id": 495018,
-        "desc": "내가 방금 잡은 건데, 왜 네 손에 있는 거야!",
+        "desc": "d28791fe684099b8bbf4ebd3432f5c90",
         "define": "GOLDMINER_THIEF_CHAT_2",
         "audio": "ui_tips02"
     },
     "495019": {
         "id": 495019,
-        "desc": "도둑 대화3",
+        "desc": "c956d26b5b190e3a3369ee97bb32fa40",
         "define": "GOLDMINER_THIEF_CHAT_3",
         "audio": "ui_tips02"
     },
     "495020": {
         "id": 495020,
-        "desc": "[긴급임무 처리 단말기]가 새로운 임무를 수신했습니다.",
+        "desc": "1a8cf50837b8d02004e7e78f93489f34",
         "define": "GODEATER_LV_DES_1",
         "audio": "ui_tips02"
     },
     "495021": {
         "id": 495021,
-        "desc": "[전략 보급 창고]에 새로운 지원 물자가 해제되었습니다.",
+        "desc": "c5463bc6d27121b0f944a4e43d2ba6c6",
         "define": "GODEATER_LV_DES_2",
         "audio": "ui_tips02"
     },
     "495022": {
         "id": 495022,
-        "desc": "[미지의 먹구름] 해제 완료",
+        "desc": "463803d308d9d9ebf12e13abace554b4",
         "define": "GODEATER_DES_6",
         "audio": "ui_tips02"
     },
     "495023": {
         "id": 495023,
-        "desc": "정말로 종료하시겠습니까?",
+        "desc": "982b0700c214139c6c40a04bbdf4d32e",
         "define": "GODEATER_GOLDMINER_QUIT",
         "audio": "ui_tips02"
     },
     "495024": {
         "id": 495024,
-        "desc": "Translating:【game_tips$495024$desc$0】",
+        "desc": "bee6994a1124fc48f60f4cf2063febbf",
         "define": "GOLDMINER_SKILL_CHARGE",
         "audio": "ui_tips02"
     },
     "495025": {
         "id": 495025,
-        "desc": "%s 후 오픈",
+        "desc": "431b7247a17332c2f220f8fd615125fb",
         "define": "GOLDMINER_ENTER_TIPS_1",
         "audio": "ui_tips02"
     },
     "495026": {
         "id": 495026,
-        "desc": "이전 스테이지 클리어",
+        "desc": "3be4e51ea68b63e882240c49a904a020",
         "define": "GOLDMINER_ENTER_TIPS_2",
         "audio": "ui_tips02"
     },
     "495101": {
         "id": 495101,
-        "desc": "이벤트 남은 시간: %s",
+        "desc": "f0a54b4e8ec08c43c6af11b8b34c3e2a",
         "define": "GODEATER_CIVILIZATION_TIME",
         "audio": "ui_tips02"
     },
     "495102": {
         "id": 495102,
-        "desc": "셀",
+        "desc": "21a8ef274686d6b40b28f84dd8b09b79",
         "define": "GODEATER_CIVILIZATION_FACTOR_TYPE_1",
         "audio": "ui_tips02"
     },
     "495103": {
         "id": 495103,
-        "desc": "일반 강화",
+        "desc": "11b3fc2484432dfc032f0bd2f2dd2f03",
         "define": "GODEATER_CIVILIZATION_FACTOR_TYPE_2",
         "audio": "ui_tips02"
     },
     "495104": {
         "id": 495104,
-        "desc": "전용 강화-시엘",
+        "desc": "67a959ff28d58181408d60acc0ea66d4",
         "define": "GODEATER_CIVILIZATION_FACTOR_TYPE_3",
         "audio": "ui_tips02"
     },
     "495105": {
         "id": 495105,
-        "desc": "전용 강화-알리사",
+        "desc": "5685d265b5c0aa15fead9a9e98374286",
         "define": "GODEATER_CIVILIZATION_FACTOR_TYPE_4",
         "audio": "ui_tips02"
     },
     "495106": {
         "id": 495106,
-        "desc": "생존 시간:",
+        "desc": "c117514bfc1024b9d0dc38f02cafbc33",
         "define": "GODEATER_CIVILIZATION_ROUND_TIME",
         "audio": "ui_tips02"
     },
     "495107": {
         "id": 495107,
-        "desc": "일반 강화 효과 선택",
+        "desc": "f6360dfcc2a948022697bfb3822114b4",
         "define": "GODEATER_CIVILIZATION_COMMON_FACTOR_SELECT",
         "audio": "ui_tips02"
     },
     "495108": {
         "id": 495108,
-        "desc": "전용 강화 효과 선택",
+        "desc": "6fa4f33b41476308835e089f87d3784c",
         "define": "GODEATER_CIVILIZATION_SPECIAL_FACTOR_SELECT",
         "audio": "ui_tips02"
     },
     "495109": {
         "id": 495109,
-        "desc": "최대 이동 거리: %d",
+        "desc": "8f374aacd35dbb1c8d6576e73939f10c",
         "define": "GODEATER_CIVILIZATION_GAME_SETTING_1",
         "audio": "ui_tips02"
     },
     "495110": {
         "id": 495110,
-        "desc": "물자 셀 최고 레벨: %d",
+        "desc": "07416e10406aad7ef93261d4e24248b5",
         "define": "GODEATER_CIVILIZATION_GAME_SETTING_2",
         "audio": "ui_tips02"
     },
     "495111": {
         "id": 495111,
-        "desc": "물자 셀 최저 레벨: %d",
+        "desc": "4f5b5e8ed0a75249c705cd547893f6c2",
         "define": "GODEATER_CIVILIZATION_GAME_SETTING_3",
         "audio": "ui_tips02"
     },
     "495112": {
         "id": 495112,
-        "desc": "인력 셀 최고 레벨: %d",
+        "desc": "170ac624d1498c17f4a3c4971260e69c",
         "define": "GODEATER_CIVILIZATION_GAME_SETTING_4",
         "audio": "ui_tips02"
     },
     "495113": {
         "id": 495113,
-        "desc": "인력 셀 최저 레벨: %d",
+        "desc": "65d988bac7d88f9bc61f119235cc1977",
         "define": "GODEATER_CIVILIZATION_GAME_WIN_TIPS",
         "audio": "ui_tips02"
     },
     "495114": {
         "id": 495114,
-        "desc": "연구 셀 최고 레벨: %d",
+        "desc": "6ec6f5c6bd17a8ea18f345fda404ff51",
         "define": "GODEATER_CIVILIZATION_GAME_FAIL_TIPS",
         "audio": "ui_tips02"
     },
     "495115": {
         "id": 495115,
-        "desc": "연구 셀 최저 레벨: %d",
+        "desc": "a2f6cf10551a27c9f8a65766e322a7ff",
         "define": "GODEATER_CIVILIZATION_GAME_WIN_TITLE",
         "audio": "ui_tips02"
     },
     "495116": {
         "id": 495116,
-        "desc": "먹구름이 걷히고, 마침내 새벽이 밝아온다.",
+        "desc": "cad5e564d1aee38f948c2e120ee27ba1",
         "define": "GODEATER_CIVILIZATION_GAME_FAIL_TITLE",
         "audio": "ui_tips02"
     },
     "495117": {
         "id": 495117,
-        "desc": "알 수 없는 오류 발생, 전술 연산 중단...",
+        "desc": "748483b44851813740fddf56a949d591",
         "define": "GODEATER_CIVILIZATION_GAME_DESC",
         "audio": "ui_tips02"
     },
     "495118": {
         "id": 495118,
-        "desc": "게임 승리",
+        "desc": "dcfb2a3f77bfa67367671df546a33856",
         "define": "GOD_EATER_SHOP_LOCK_DES",
         "audio": "ui_tips02"
     },
     "495119": {
         "id": 495119,
-        "desc": "게임 패배",
+        "desc": "712f9daf8e0c35e93ae0e266f5ac5fe2",
         "define": "GODEATER_CIVILIZATION_EXIT_CONFIRM_TIPS",
         "audio": "ui_tips02"
     },
     "495120": {
         "id": 495120,
-        "desc": "1. [미지의 먹구름] 콘텐츠에서는 제공된 모디파이어 중 한 명을 선택해 모의 연산을 진행합니다.\n2. 모의 연산에서는 물자가 소진되기 전에 [피타]를 처치하면 승리합니다 \n3. 모의 연산 중 [신탁 인자]를 수집해 처리 진행도를 높이면, 더 많은 능력과 액티브 스킬을 해제할 수 있어 클리어에 도움이 됩니다.\n4. 모의 연산에서는 인력 자원을 소모해 스킬을 시전할 수 있습니다.\n5. 지정된 임무를 완료하면 해당 보상을 수령할 수 있습니다.",
+        "desc": "75f3b12095fa38971806a68dba449691",
         "define": "GODEATER_CIVILIZATION_SOURCE_FOOD",
         "audio": "ui_tips02"
     },
     "495121": {
         "id": 495121,
-        "desc": "[긴급임무 처리 단말기]가 새로운 현상금 임무를 수신했습니다.",
+        "desc": "68424e54dcdad1fda9000a2a6f995ab6",
         "define": "GODEATER_CIVILIZATION_SOURCE_POP",
         "audio": "ui_tips02"
     },
     "495122": {
         "id": 495122,
-        "desc": "[전략 보급 창고]에 새로운 상품이 해제되었습니다.",
+        "desc": "1fda06360f05e3a840dcff358f1a293e",
         "define": "GODEATER_CIVILIZATION_SOURCE_TECH",
         "audio": "ui_tips02"
     },
     "495123": {
         "id": 495123,
-        "desc": "연합 본부 %s레벨 해제",
+        "desc": "d8d6467dfc20efc40f135dc6be77bcf4",
         "define": "GODEATER_CIVILIZATION_GAME_TIMEOUT",
         "audio": "ui_tips02"
     },
     "495124": {
         "id": 495124,
-        "desc": "정말로 연산을 종료하시겠습니까?",
+        "desc": "eb9595fa4a1eab696eb20633dba6bdde",
         "define": "GODEATER_CIVILIZATION_GAME_NOT_SELECTED_HERO",
         "audio": "ui_tips03"
     },
     "495125": {
         "id": 495125,
-        "desc": "물자: 작전할 때마다 일정량의 물자가 소모되며, 물자가 부족하면 게임에서 패배합니다.",
+        "desc": "809586d6fd42ccac5012fd779a3b59cf",
         "define": "GODEATER_CIVILIZATION_GAME_NOT_SELECTED_HERO_TIPS",
         "audio": "ui_tips02"
     },
     "495126": {
         "id": 495126,
-        "desc": "인력: 인력을 소모해 스킬을 사용할 수 있습니다.",
+        "desc": "a88bfc7958cde07c921be1b5b1f27c1f",
         "define": "GODEATER_CIVILIZATION_GAME_VICTORY_DESC",
         "audio": "ui_tips02"
     },
     "495127": {
         "id": 495127,
-        "desc": "연구: 처리 진행도를 올려 강화 효과를 획득합니다.",
+        "desc": "a29a0a2c50e107e1148832941c8da931",
         "define": "GODEATER_CIVILIZATION_GAME_BOSS_APPEAR_TIPS",
         "audio": "ui_tips02"
     },
     "495201": {
         "id": 495201,
-        "desc": "1. [포획 작전]은 [동부 평원]과 [황야 균열지]로 구성됩니다.\n2. [동부 평원]의 스테이지를 클리어하면 일정량의 [응합 재료]를 획득할 수 있으며, 지원 보급소에서 필요한 아이템으로 교환할 수 있습니다.\n3. [동부 평원] 스테이지 도전 시 [체력]이 소모됩니다.\n4. [황야 균열지] 스테이지 도전 시 편식인자 시퀀스가 필요하며, 편식인자 시퀀스는 이벤트 임무 완료 또는 기밀팀 연구실에서 구매하여 획득할 수 있습니다.\n5. [황야 균열지]의 버프 효과는 매일 랜덤으로 대체되며, 해당 공격 속성이 강화되는 대신 스테이지 내 다른 공격 속성은 약화됩니다.\n6. [황야 균열지]에서는 스테이지에서 드롭한 각인 세트를 선택할 수 있으며, 선택 가능한 각인 유형은 매일 변경됩니다.",
+        "desc": "51d265f5c62b14065a99a05820228b41",
         "define": "ACTIVITY_PT_DESCRIBE_4_2",
         "audio": "ui_tips02"
     },
     "495202": {
         "id": 495202,
-        "desc": "가호의 장벽은 감옥이 될 수 있습니다. 위험이 확산되기 전, 갇힌 맹수를 처치해야 합니다.",
+        "desc": "85bf19ae9ef33ff046de3684a410f955",
         "define": "ACTIVITY_PT_RULE_4_2",
         "audio": "ui_tips02"
     },
     "495203": {
         "id": 495203,
-        "desc": "[동부 평원] 임의 스테이지 %d회 클리어",
+        "desc": "9e30a8db0bbbab44da1923b70e4d63ac",
         "define": "ACTIVITY_GODEATER_ROULETTE_TASK_DESC",
         "audio": "ui_tips02"
     },
     "491001": {
         "id": 491001,
-        "desc": "고대의 흔적",
+        "desc": "591dab918e61baf59dd96ab3bdc0c7f1",
         "define": "MULTI_HEART_DEMON_NAME",
         "audio": "ui_tips02"
     },
     "491002": {
         "id": 491002,
-        "desc": "에너지층 깊숙한 곳, 비스베인들이 노니는 공간. 평소에는 아무도 발을 들이지 않는 이곳에 에테르 게이저의 외근 작전 전문요원들이 단속적인 신능 파동을 감지하고 찾아온다. 그들이 향하는 곳에는 익숙하면서도 흐릿한 형체들이 끝없이 주변의 적군들과 싸우고 있었으며, 마치 멈출 수 없는 필름처럼 반복되고 있다.",
+        "desc": "5c3e28eb40a391cc592885c2272a1da7",
         "define": "MULTI_HEART_DEMON_DESC",
         "audio": "ui_tips02"
     },
     "491003": {
         "id": 491003,
-        "desc": "1. [고대의 흔적] 콘텐츠에서 관리자는 3명의 모디파이어를 선택하여 링 경기 형식으로 3명의 다른 심마를 상대해야 합니다.\n2. [잔류의 흔적] 전투에서는 유저가 자유롭게 임의의 모디파이어를 선택하여 도전할 수 가능하지만, [응실의 흔적] 전투에서는 체험용 모디파이어만 사용하여 도전할 수 있습니다.\n3. 스테이지 도전은 제한된 기간 동안 오픈되며, 각 도전 기간은 2주간 지속됩니다.\n4. 각 도전 주기가 종료된 후 2주간의 쿨타임이 있으며, 이 기간 동안에는 도전할 수 없습니다.\n5. 도전 시, 각 전투의 클리어 시간과 피격 횟수는 스테이지 완료 시 받는 평가 점수에 영향을 줍니다. 도전 종료 후, 모든 모디파이어의 남은 HP에 따라 추가 점수가 부여됩니다. [응실의 흔적] 난이도에서 완료한 도전만 랭킹에 반영됩니다.\n6. 도전 완료 시 이미 도전 시간이 종료되었다면, 해당 클리어 기록은 랭킹 기록에 반영되지 않으니 새로고침 시간을 주의해 주세요.\n7. 도전 콘텐츠의 랭킹 보상은 쿨타임 주기 2주 차 수요일에 지급됩니다.\n8. 도전 시간이 종료되면 랭킹 총 순위가 일시적으로 숨겨지며, 결산 후 다시 표시됩니다.\n9. 랭킹 보상 및 일반 보상은 도전이 새로고침 될 때마다 함께 초기화됩니다.",
+        "desc": "7b3d14dd597c3de9c80f5ee6307a6bbb",
         "define": "MULTI_HEART_DEMON_GAMEPLAY_DESC",
         "audio": "ui_tips02"
     },
     "491004": {
         "id": 491004,
-        "desc": "고대의 흔적·잔류",
+        "desc": "3fbfa795d8b2235270fb66f691afa73a",
         "define": "MULTI_HEART_DEMON_STAGE_EASY_NAME",
         "audio": "ui_tips02"
     },
     "491005": {
         "id": 491005,
-        "desc": "고대의 흔적·응실",
+        "desc": "104c052e0b4dcf5346582595bf42f78a",
         "define": "MULTI_HEART_DEMON_STAGE_HARD_NAME",
         "audio": "ui_tips02"
     },
     "491006": {
         "id": 491006,
-        "desc": "잔류의 흔적",
+        "desc": "b91ca905b0363289f87a3fcdd9a74da1",
         "define": "MULTI_HEART_DEMON_EASY_NAME",
         "audio": "ui_tips02"
     },
     "491007": {
         "id": 491007,
-        "desc": "응실의 흔적",
+        "desc": "25603b104b2e3f630c00feb5762f426c",
         "define": "MULTI_HEART_DEMON_HARD_NAME",
         "audio": "ui_tips02"
     },
     "491008": {
         "id": 491008,
-        "desc": "첫 전투",
+        "desc": "84de022ba27c58cc802bc9a364416d84",
         "define": "MULTI_HEART_DEMON_ORDER_1",
         "audio": "ui_tips02"
     },
     "491009": {
         "id": 491009,
-        "desc": "두 번째 전투",
+        "desc": "f014675eae703d7e6fca9f9e03d912b2",
         "define": "MULTI_HEART_DEMON_ORDER_2",
         "audio": "ui_tips02"
     },
     "491010": {
         "id": 491010,
-        "desc": "마지막 전투",
+        "desc": "3e2796096d3d99dee4714c826e239d35",
         "define": "MULTI_HEART_DEMON_ORDER_3",
         "audio": "ui_tips02"
     },
     "491011": {
         "id": 491011,
-        "desc": "이번 도전을 포기하시겠습니까?",
+        "desc": "d1275c634583d8b1ce17e5b5b72a3de2",
         "define": "MULTI_HEART_DEMON_GIVE_UP_CONFIRM_TIPS",
         "audio": "ui_tips02"
     },
     "491012": {
         "id": 491012,
-        "desc": "이번 도전 성적",
+        "desc": "87ffd67331c3a756c40b208ca27d11d2",
         "define": "MULTI_HEART_DEMON_TITLE_SCORE",
         "audio": "ui_tips02"
     },
     "491013": {
         "id": 491013,
-        "desc": "누적 점수:",
+        "desc": "501905e35f176702f5f216f77debf9cd",
         "define": "MULTI_HEART_DEMON_TOTAL_SCORE",
         "audio": "ui_tips02"
     },
     "491014": {
         "id": 491014,
-        "desc": "세 명의 모디파이어를 선택 후 도전을 시작하세요",
+        "desc": "3dc4da4050430edf4d11f5bb6e9f0dd1",
         "define": "MULTI_HEART_DEMON_HERO_NOT_ENOUGH",
         "audio": "ui_tips03"
     },
     "491015": {
         "id": 491015,
-        "desc": "이미 시작한 도전을 먼저 완료해 주세요",
+        "desc": "197a8fe5a5d0c3fb41a9d893ef9b0bcd",
         "define": "MULTI_HEART_DEMON_CHALLENGE_HAS_BEGUN",
         "audio": "ui_tips03"
     },
     "491016": {
         "id": 491016,
-        "desc": "이번 성적을 포기하시겠습니까?",
+        "desc": "9eb41a31b12ddb5e27aedb6c74ef71ee",
         "define": "MULTI_HEART_DEMON_NOT_SAVE_CONFIRM_TIPS",
         "audio": "ui_tips02"
     },
     "491017": {
         "id": 491017,
-        "desc": "이번 성적을 저장하시겠습니까?",
+        "desc": "3880d1c14ff8ac6690b3979fb7ae5e47",
         "define": "MULTI_HEART_DEMON_SAVE_CONFIRM_TIPS",
         "audio": "ui_tips02"
     },
     "491018": {
         "id": 491018,
-        "desc": "팀에 동일한 모디파이어가 존재합니다.",
+        "desc": "0fb83258fec3076ce36c49ab6459f065",
         "define": "MULTI_HEART_DEMON_SELECT_SAME_HERO",
         "audio": "ui_tips02"
     },
     "491019": {
         "id": 491019,
-        "desc": "%d\n<color=#b6c4d9><size=22>(%d+%d)</size></color>",
+        "desc": "19e803cc1bca568356e9ea50d3c279b7",
         "define": "MULTI_HEART_DEMON_TOTAL_SCORE_2",
         "audio": "ui_tips02"
     },
     "491020": {
         "id": 491020,
-        "desc": "도전 남은 시간: %s",
+        "desc": "7942652a56d98f9072f2a8e5f8d054be",
         "define": "MULTI_HEART_DEMON_CHALLENGE_TIME",
         "audio": "ui_tips02"
     },
     "491021": {
         "id": 491021,
-        "desc": "이번 도전이 종료되었습니다. 다음 도전 오픈을 기다려 주세요.",
+        "desc": "cfaab804e69738bd91673c33d2c10853",
         "define": "MULTI_HEART_DEMON_REFRESH_TIPS",
         "audio": "ui_tips02"
     },

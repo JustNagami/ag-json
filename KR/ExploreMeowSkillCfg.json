@@ -150,7 +150,7 @@
         ]
     },
     "10003": {
-        "skill_description": "탐색 시간이 8시간 이상일 시, 탐색 코인 수익 <color=#F6C800>%s%%</color> 증가",
+        "skill_description": "탐색 시간이 8시간 초과 시, 탐색 코인 수익 <color=#F6C800>%s%%</color> 증가",
         "skill_type": 3,
         "skill_icon": "1003",
         "id": 10003,
@@ -225,7 +225,7 @@
         ]
     },
     "10004": {
-        "skill_description": "탐색 시간이 8시간 이상일 시, 탐색 경험치 수익 <color=#F6C800>%s%%</color> 증가",
+        "skill_description": "탐색 시간이 8시간 초과 시, 탐색 경험치 수익 <color=#F6C800>%s%%</color> 증가",
         "skill_type": 4,
         "skill_icon": "1004",
         "id": 10004,

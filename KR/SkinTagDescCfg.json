@@ -2,7 +2,7 @@
     "101": {
         "type_icon": "icon_skineffect_home",
         "tag_title": "메인 화면 배경",
-        "type_desc": "배경 효과",
+        "type_desc": "장면 효과",
         "type": 1,
         "id": 101,
         "tag_desc": "메인 화면 배경 변경"
@@ -57,19 +57,19 @@
     },
     "501": {
         "type_icon": "icon_skineffect_action",
-        "tag_title": "교신 모션",
-        "type_desc": "교신 모션",
+        "tag_title": "모션",
+        "type_desc": "모션",
         "type": 5,
         "id": 501,
-        "tag_desc": "메인 화면 교신 모션 변경"
+        "tag_desc": "메인 화면 모션 변경"
     },
     "601": {
         "type_icon": "icon_skineffect_lines",
-        "tag_title": "교신 대사",
+        "tag_title": "교감 대사",
         "type_desc": "대사 효과",
         "type": 6,
         "id": 601,
-        "tag_desc": "메인 화면 교신 대사 변경"
+        "tag_desc": "메인 화면 교감 대사 변경"
     },
     "602": {
         "type_icon": "icon_skineffect_lines",

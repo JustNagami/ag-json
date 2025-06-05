@@ -1503,7 +1503,7 @@
         ]
     },
     "101020209": {
-        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material> 상태일 경우:\n총 공격력 <color=#E78300>{1}</color>의 바람 속성 피해를 주고, 자신이 <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material> 상태로 전환된다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material>로 전환되면 <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>[범]</material> 포인트를 초기화하고, 자신의 필살기 쿨타임도 초기화하며 연계 필살기가 해제된다.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material>:\n총 공격력 <color=#E78300>{2}</color>의 바람 속성 피해를 주고, 자신이 <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material> 상태로 전환된다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material>으로 전환 시 <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>[범]</material> 포인트 및 회피 효과 쿨타임을 초기화하며, 자신과 미리 조합된 연계 필살기의 모디파이어 필살기 수치 및 필살기의 쿨타임을 초기화하고, 연계 필살기가 해제된다.\n\n아스테리즘 신계 모디파이어 공격 명중 후, 출전 시 팀 내 아스테리즘 신계 모디파이어 수량에 따라 <color=#E78300>2%, 3%, 4%</color>의 필살기 수치를 획득하며, 해당 효과는 <color=#E78300>2</color>초마다 최대 1회 발동된다.",
+        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material> 상태일 경우:\n총 공격력 <color=#E78300>{1}</color>의 바람 속성 피해를 주고, 자신이 <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material> 상태로 전환된다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material>로 전환되면 <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>[범]</material> 포인트를 초기화하고, 자신의 필살기 쿨타임도 초기화하며 연계 필살기가 해제된다.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]\\</material>:\n총 공격력 <color=#E78300>{2}</color>의 바람 속성 피해를 주고, 자신이 <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material> 상태로 전환된다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material>으로 전환 시 <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>[범]</material> 포인트 및 회피 효과 쿨타임을 초기화하며, 자신과 미리 조합된 연계 필살기의 모디파이어 필살기 수치 및 필살기의 쿨타임을 초기화하고, 연계 필살기가 해제된다.\n\n아스테리즘 신계 모디파이어 공격 명중 후, 출전 시 팀 내 아스테리즘 신계 모디파이어 수량에 따라 <color=#E78300>2%, 3%, 4%</color>의 필살기 수치를 획득하며, 해당 효과는 <color=#E78300>2</color>초당 최대 1회 발동한다.",
         "maxLv": 60,
         "type": 1,
         "id": 101020209,
@@ -4734,7 +4734,7 @@
         ]
     },
     "101045101": {
-        "description": "Translating:【description$101045101$description$0】",
+        "description": "d0ee821cecd210d986ad02936e5b7bda",
         "maxLv": 60,
         "type": 1,
         "id": 101045101,
@@ -4767,7 +4767,7 @@
         ]
     },
     "101045201": {
-        "description": "Translating:【description$101045201$description$0】",
+        "description": "601d76bb855a6de005933fb4e9ccba03",
         "maxLv": 60,
         "type": 1,
         "id": 101045201,
@@ -4794,7 +4794,7 @@
         ]
     },
     "101045202": {
-        "description": "Translating:【description$101045202$description$0】",
+        "description": "8f1cbd6ed4d449ceae39c4530a550ec7",
         "maxLv": 60,
         "type": 1,
         "id": 101045202,
@@ -4845,7 +4845,7 @@
         ]
     },
     "101045203": {
-        "description": "Translating:【description$101045203$description$0】",
+        "description": "cf9dc7ca18ac076806879f0443ee1329",
         "maxLv": 60,
         "type": 1,
         "id": 101045203,
@@ -4884,7 +4884,7 @@
         ]
     },
     "101045208": {
-        "description": "Translating:【description$101045208$description$0】",
+        "description": "3e69d55212812d8342a25ed1cf5d23e7",
         "maxLv": 60,
         "type": 1,
         "id": 101045208,
@@ -4917,7 +4917,7 @@
         ]
     },
     "101045209": {
-        "description": "Translating:【description$101045209$description$0】",
+        "description": "b7d409d278d46599254197428dd68ace",
         "maxLv": 60,
         "type": 1,
         "id": 101045209,
@@ -4944,7 +4944,7 @@
         ]
     },
     "101045305": {
-        "description": "Translating:【description$101045305$description$0】",
+        "description": "5675cb490f401f668c4bea3de6eeee8b",
         "maxLv": 60,
         "type": 1,
         "id": 101045305,
@@ -4965,7 +4965,7 @@
         ]
     },
     "101046101": {
-        "description": "Translating:【description$101046101$description$0】",
+        "description": "6a368bf10adb9b7a45871ca640bce065",
         "maxLv": 60,
         "type": 1,
         "id": 101046101,
@@ -4992,7 +4992,7 @@
         ]
     },
     "101046201": {
-        "description": "Translating:【description$101046201$description$0】",
+        "description": "e868024bacc5fd8e1643e044cbb7a321",
         "maxLv": 60,
         "type": 1,
         "id": 101046201,
@@ -5013,7 +5013,7 @@
         ]
     },
     "101046202": {
-        "description": "Translating:【description$101046202$description$0】",
+        "description": "4e6107794060f49fccdb5e7b0289819c",
         "maxLv": 60,
         "type": 1,
         "id": 101046202,
@@ -5040,7 +5040,7 @@
         ]
     },
     "101046203": {
-        "description": "Translating:【description$101046203$description$0】",
+        "description": "993b69961f77c350d5b34b9913eb8c92",
         "maxLv": 60,
         "type": 1,
         "id": 101046203,
@@ -5085,7 +5085,7 @@
         ]
     },
     "101046209": {
-        "description": "Translating:【description$101046209$description$0】",
+        "description": "68f7f6f2f6bc1e4894c70fa625d6fde5",
         "maxLv": 60,
         "type": 1,
         "id": 101046209,
@@ -5112,7 +5112,7 @@
         ]
     },
     "101046305": {
-        "description": "Translating:【description$101046305$description$0】",
+        "description": "134788be832ff651eee7c18d93098c7c",
         "maxLv": 60,
         "type": 1,
         "id": 101046305,
@@ -8211,7 +8211,7 @@
         ]
     },
     "101072203": {
-        "description": "일반공격 마지막 단계, [바람 같은 운세], [칼 같은 계산] 시전 후 일시적으로 [비 같은 재물]이 [액막이 재주]로 대체되고, 연결할 수 있다. 연결 시 단계별 피해를 입히며, 명중 시 각기 다른 <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>[재물운]</material>을 획득한다. <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>[재물운]</material>의 최대 점수는 <color=#E78300>50</color>이다.\n일반공격 마지막 단계 후 [액막이 재주] 연결: 1단계를 시전할 수 있으며, 총 공격력 <color=#E78300>{1}</color>의 바람 속성 피해를 입히고, <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>[재물운]</material>을 총 <color=#E78300>6</color> 획득한다.\n[바람 같은 운세] 후 [액막이 재주] 연결: 3단계 연속 시전할 수 있으며, 총 공격력 <color=#E78300>{2}</color>의 바람 속성 피해를 입히고, <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>[재물운]</material>을 총 <color=#E78300>10</color> 획득한다.\n[칼 같은 계산] 후 [액막이 재주] 연결: 5단계 연속 시전할 수 있으며 총 공격력 <color=#E78300>{3}</color>의 바람 속성 피해를 입히고, <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>[재물운]</material>을 총 <color=#E78300>14</color> 획득한다.\n\n[비 같은 재물]: <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>[재물운]</material>을 모두 소모하여 공중으로 뛰어올라 신산자로 적군을 공격한다. 소모한 <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>[재물운]</material>에 따라 적군에게 입히는 피해가 달라진다.\n소모한 <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>[재물운]</material>이 <color=#E78300>40</color> 이하일 시, 총 공격력 <color=#E78300>{4}</color>의 바람 속성 피해를 입힌다.\n소모한 <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>[재물운]</material>이 <color=#E78300>40</color> 이상일 시, 총 공격력 <color=#E78300>{5}</color>의 바람 속성 피해를 입힌다.\n[비 같은 재물] 시전 시 전체 아군의 바람 속성 피해가 <color=#E78300>10%</color> 증가하며, <color=#E78300>{6}</color>초간 지속된다. <material=underline c=#FFFFFF h=2 event=terminology args=(107201)>[재물운]</material>을 <color=#E78300>1</color> 소모할 때마다 부여되는 바람 속성 피해가 추가로 <color=#E78300>0.6%</color> 증가한다.\n\n<color=#297DE0>인장:</color> [액막이 재주]를 시전하여 마지막 단계 명중 시 인장을 <color=#FF9500>1</color>개 획득한다.",
+        "description": "일반공격 마지막 단계, [바람 같은 운세], [칼 같은 계산] 시전 후 일시적으로 [비 같은 재물]이 [액막이 재주]로 대체되고, 연결할 수 있다. 연결 시 단계별 피해를 주며, 명중 시 각기 다른 [재물운]을 획득한다. [재물운]의 최대 점수는 <color=#FF9500>50</color>이다.\n일반공격 마지막 단계 후 [액막이 재주] 연결: 1단계를 시전할 수 있으며, 총 공격력 <color=#FF9500>{4}</color>의 바람 속성 피해를 주고, [재물운]을 총 <color=#FF9500>6</color> 획득한다.\n[바람 같은 운세] 후 [액막이 재주] 연결: 3단계 연속 시전할 수 있으며, 총 공격력 <color=#FF9500>{5}</color>의 바람 속성 피해를 주고, [재물운]을 총 <color=#FF9500>10</color> 획득한다.\n[칼 같은 계산] 후 [액막이 재주] 연결: 5단계 연속 시전할 수 있으며 총 공격력 <color=#FF9500>{6}</color>의 바람 속성 피해를 주고, [재물운]을 총 <color=#FF9500>14</color> 획득한다.\n\n[비 같은 재물]: [재물운]을 모두 소모하여 공중으로 뛰어올라 신산자로 적군을 공격한다. 소모한 [재물운]에 따라 적군에게 주는 피해가 달라진다.\n소모한 [재물운]이 <color=#FF9500>40</color> 미만이면 총 공격력 <color=#FF9500>{1}</color>의 바람 속성 피해를 준다.\n소모한 [재물운]이 <color=#FF9500>40</color> 이상이면 총 공격력 <color=#FF9500>{2}</color>의 바람 속성 피해를 준다.\n[비 같은 재물] 시전 시 전체 아군의 바람 속성 피해가 <color=#FF9500>10%</color> 증가하며, <color=#FF9500>{3}</color>초간 지속된다. [재물운]을 <color=#FF9500>1</color> 소모할 때마다 부여되는 바람 속성 피해가 추가로 <color=#FF9500>0.6%</color> 증가한다.\n\n<color=#0068C3>인장: [액막이 재주]를 시전하여 마지막 단계 명중 시 인장을 <color=#FF9500>1</color>개 획득한다.</color>",
         "maxLv": 60,
         "type": 1,
         "id": 101072203,
@@ -8484,7 +8484,7 @@
         ]
     },
     "101074209": {
-        "description": "신의 사제로 바람을 부리는 힘을 시전해 적군에게 맹렬한 다단계 공격을 시전하고 총 공격력 <color=#E78300>{1}</color>의 바람 속성 피해를 준다.\n\n자신 또는 팀원이 필살기 시전 시 <color=#E78300>20%</color>의 필살기 수치를 획득한다.",
+        "description": "신의 사제로 바람을 부리는 힘을 시전해 적군에게 맹렬한 다단계 공격을 시전하고 총 공격력 <color=#FF9500>{1}</color>의 바람 속성 피해를 준다.\n\n자신 또는 아군이 필살기 시전 시 <color=#FF9500>20%</color>의 필살기 수치를 획득한다.",
         "maxLv": 60,
         "type": 1,
         "id": 101074209,
@@ -8709,7 +8709,7 @@
         ]
     },
     "101075209": {
-        "description": "천남법문을 철저히 깨우치고 습득한 극치의 공격법으로, 맹렬한 불꽃을 터뜨릴 수 있다.\n임의 스킬의 <material=underline c=#FFFFFF h=2 event=terminology args=(107503)>[열식]</material> 시전 후 전체 아군이 <material=underline c=#FFFFFF h=2 event=terminology args=(107507)>[태양열]</material>을 획득하며, <color=#E78300>{3}</color>초간 지속된다. 필살기 시전 후 전체 아군이 <material=underline c=#FFFFFF h=2 event=terminology args=(107508)>[맹렬한 태양열]</material>을 획득하며, <color=#E78300>{4}</color>초간 지속된다. <material=underline c=#FFFFFF h=2 event=terminology args=(107508)>[맹렬한 태양열]</material> 보유 시 <material=underline c=#FFFFFF h=2 event=terminology args=(107507)>[태양열]</material>의 버프 효과가 비활성화된다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(107507)>[태양열]</material>: <color=#E78300>50%</color>의 확률로 명중 순간의 독립 피해가 <color=#E78300>{1}</color> 증가한다.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(107508)>[맹렬한 태양열]</material>: <color=#E78300>100%</color>의 확률로 명중 순간의 독립 피해가 <color=#E78300>{2}</color> 증가한다.\n\n자신 또는 팀원이 크리티컬 발동 시 <color=#E78300>3%</color>의 필살기 수치를 획득하며, 해당 효과는 <color=#E78300>2</color>초마다 최대 1회 발동된다.",
+        "description": "천남법문을 철저히 깨우치고 습득한 극치의 공격법으로, 맹렬한 불꽃을 터뜨릴 수 있다.\n임의 스킬의 [열식] 시전 후 전체 아군이 [태양열]을 획득하며, <color=#FF9500>{3}</color>초간 지속된다. 필살기 시전 후 전체 아군이 [맹렬한 태양열]을 획득하며, <color=#FF9500>{4}</color>초간 지속된다. [맹렬한 태양열] 보유 시 [태양열]의 버프 효과가 비활성화된다.\n[태양열]: <color=#FF9500>50%</color>의 확률로 명중 순간의 독립 피해가 <color=#FF9500>{1}</color> 증가한다.\n[맹렬한 태양열]: <color=#FF9500>100%</color>의 확률로 명중 순간의 독립 피해가 <color=#FF9500>{2}</color> 증가한다.\n\n자신 또는 아군이 크리티컬 발동 시 <color=#FF9500>3%</color>의 필살기 수치를 획득하며, 해당 효과는 <color=#FF9500>2</color>초당 최대 1회 발동한다.",
         "maxLv": 60,
         "type": 1,
         "id": 101075209,
@@ -9522,7 +9522,7 @@
         ]
     },
     "101089281": {
-        "description": "Translating:【description$101089281$description$0】",
+        "description": "ff615f2fe8f608bca654bf7e2d787031",
         "maxLv": 60,
         "type": 1,
         "id": 101089281,
@@ -12141,7 +12141,7 @@
         ]
     },
     "101156201": {
-        "description": "전반 단계에 총 공격력 <color=#E78300>{1}</color>의 번개 속성 피해를 주고, 후반 단계에 총 공격력 <color=#E78300>{2}</color>의 번개 속성 피해를 준다. 전반 단계 시전 시 판정을 진행하며, 적절한 타이밍에 터치 시 <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>[빛나는 번개]</material>를 발동해 강화 효과를 획득한다. 강화 효과: 후반 단계가 총 공격력 <color=#E78300>{3}</color>의 번개 속성 피해를 주는 것으로 변경된다. 소모한 분노가 <color=#E78300>50</color> 이하일 때 스킬 후반 단계 명중 순간 기본 피해가 <color=#E78300>5%</color> 증가하고, 소모한 분노가 <color=#E78300>50</color> 이상, <color=#E78300>100</color> 이하일 때 스킬 후반 단계 명중 순간 기본 피해가 <color=#E78300>10%</color> 증가하며, 소모한 분노가 <color=#E78300>100</color>이면 스킬 후반 단계 명중 순간 기본 피해가 <color=#E78300>15%</color> 증가한다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(115601)>[빛나는 번개]</material>를 발동한 후반 공격은 명중한 적군에게 파괴 상태를 부여하며, <color=#E78300>{4}</color>초간 지속된다. 소모한 분노가 <color=#E78300>50</color> 이하일 때 부여하는 파괴 상태가 방어력을 <color=#E78300>3%</color> 감소하고, 소모한 분노가 <color=#E78300>50</color> 이상, <color=#E78300>100</color> 이하일 때 부여하는 파괴 상태가 방어력을 <color=#E78300>6%</color> 감소하며, 소모한 분노가 <color=#E78300>100</color>이면, 부여하는 파괴 상태가 방어력을 <color=#E78300>9%</color> 감소한다.",
+        "description": "전반 단계에 총 공격력 <color=#E78300>{1}</color>의 번개 속성 피해를 주고, 후반 단계에 총 공격력 <color=#E78300>{2}</color>의 번개 속성 피해를 준다. 전반 단계 시전 시 판정을 진행하며, 적절한 타이밍에 터치 시 <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>[빛나는 번개]</material>를 발동해 강화 효과를 획득한다. 강화 효과: 후반 단계가 총 공격력 <color=#E78300>{3}</color>의 번개 속성 피해를 주는 것으로 변경된다. 소모한 분노가 <color=#E78300>50</color> 미만이면 스킬 후반 단계 명중 순간 기본 피해가 <color=#E78300>5%</color> 증가하고, 소모한 분노가 <color=#E78300>50</color> 이상 <color=#E78300>100</color> 미만이면 스킬 후반 단계 명중 순간 기본 피해가 <color=#E78300>10%</color> 증가하며, 소모한 분노가 <color=#E78300>100</color>이면 스킬 후반 단계 명중 순간 기본 피해가 <color=#E78300>15%</color> 증가한다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(115601)>[빛나는 번개]</material>를 발동한 후반 공격은 명중한 적군에게 파괴 상태를 부여하며, <color=#E78300>{4}</color>초간 지속된다. 소모한 분노가 <color=#E78300>50</color> 미만이면 부여하는 파괴 상태가 방어력을 <color=#E78300>3%</color> 감소하고, 소모한 분노가 <color=#E78300>50</color> 이상 <color=#E78300>100</color> 미만이면 부여하는 파괴 상태가 방어력을 <color=#E78300>6%</color> 감소하며, 소모한 분노가 <color=#E78300>100</color>이면, 부여하는 파괴 상태가 방어력을 <color=#E78300>9%</color> 감소한다.",
         "maxLv": 60,
         "type": 1,
         "id": 101156201,
@@ -12213,7 +12213,7 @@
         ]
     },
     "101156203": {
-        "description": "모든 분노를 소모해 공격력 <color=#E78300>{1}</color>의 번개 속성 피해를 준다. 길게 눌러 <color=#E78300>3</color>단계 차지를 진행할 수 있으며, 차지 시 슈퍼 아머 효과를 획득하고 적군을 집중시키며, 차지의 단계에 따라 각각 공격력 <color=#E78300>{2}, {3}, {4}</color>의 번개 속성 피해를 준다. 소모한 분노가 <color=#E78300>50</color> 이하일 때 해당 스킬 명중 순간 기본 피해가 <color=#E78300>5%</color> 증가하고, 소모한 분노가 <color=#E78300>50</color> 이상, <color=#E78300>100</color> 이하일 때 해당 스킬 명중 순간 기본 피해가 <color=#E78300>10%</color> 증가하며, 소모한 분노가 <color=#E78300>100</color>이면 해당 스킬 명중 순간 기본 피해가 <color=#E78300>15%</color> 증가한다.\n차지 완료 시의 해당 스킬을 <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>[빛나는 번개]</material>로 간주한다.",
+        "description": "모든 분노를 소모해 공격력 <color=#E78300>{1}</color>의 번개 속성 피해를 준다. 길게 눌러 <color=#E78300>3</color>단계 차지를 진행할 수 있으며, 차지 시 슈퍼 아머 효과를 획득하고 적군을 집중시키며, 차지의 단계에 따라 각각 공격력 <color=#E78300>{2}, {3}, {4}</color>의 번개 속성 피해를 준다. 소모한 분노가 <color=#E78300>50</color> 미만이면 해당 스킬 명중 순간 기본 피해가 <color=#E78300>5%</color> 증가하고, 소모한 분노가 <color=#E78300>50</color> 이상 <color=#E78300>100</color> 미만이면 해당 스킬 명중 순간 기본 피해가 <color=#E78300>10%</color> 증가하며, 소모한 분노가 <color=#E78300>100</color>이면 해당 스킬 명중 순간 기본 피해가 <color=#E78300>15%</color> 증가한다.\n차지 완료 시의 해당 스킬을 <material=underline c=#FFFFFF h=2 event=terminology args=(115601)>[빛나는 번개]</material>로 간주한다.",
         "maxLv": 60,
         "type": 1,
         "id": 101156203,
@@ -12246,7 +12246,7 @@
         ]
     },
     "101156209": {
-        "description": "총 공격력 <color=#E78300>{1}</color>의 번개 속성 피해를 준다. 명중 시 적군에게 번개 속성 저항 <color=#E78300>{2}</color> 감소를 부여하고, <color=#E78300>{3}</color>초간 지속된다.\n자신 또는 팀원이 1인 필살기 시전 시 크리티컬 피해가 <color=#E78300>30%</color> 증가하며, <color=#E78300>{4}</color>초간 지속된다.\n\n자신 또는 팀원 극한회피 시 <color=#E78300>8%</color>의 필살기 수치를 획득하며, 해당 효과는 <color=#E78300>2</color>초마다 최대 1회 발동된다.",
+        "description": "총 공격력 <color=#E78300>{1}</color>의 번개 속성 피해를 준다. 명중 시 적군에게 번개 속성 저항 <color=#E78300>{2}</color> 감소를 부여하고, <color=#E78300>{3}</color>초간 지속된다.\n자신 또는 아군이 1인 필살기 시전 시 크리티컬 피해가 <color=#E78300>30%</color> 증가하며, <color=#E78300>{4}</color>초간 지속된다.\n\n자신 또는 아군 극한회피 시 <color=#E78300>8%</color>의 필살기 수치를 획득하며, 해당 효과는 <color=#E78300>2</color>초당 최대 1회 발동한다.",
         "maxLv": 60,
         "type": 1,
         "id": 101156209,
@@ -14352,7 +14352,7 @@
         ]
     },
     "110200012": {
-        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material> 상태일 경우, <color=#E78300>1</color>초마다 전체 적군에게 공격력 <color=#E78300>{1}</color>의 바람 속성 피해를 주는 것으로 변경된다. HP가 <color=#E78300>20%</color> 이상인 자신 또는 팀원에게 최대 HP <color=#E78300>{2}</color>의 피해를 주고, 자신 또는 팀원이 해당 피해를 받으면 공격력이 <color=#E78300>{3}</color> 증가한다. <color=#E78300>{4}</color>초간 지속되고, 최대 <color=#E78300>7</color>회 중첩된다. <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material>으로 전환 시 전체 아군의 해당 공격력 버프 효과를 제거한다.",
+        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material> 상태일 경우, <color=#E78300>1</color>초마다 전체 적군에게 공격력 <color=#E78300>{1}</color>의 바람 속성 피해를 주는 것으로 변경된다. HP가 <color=#E78300>20%</color> 이상인 자신 또는 아군에게 최대 HP <color=#E78300>{2}</color>의 피해를 주고, 자신 또는 아군이 해당 피해를 받으면 공격력이 <color=#E78300>{3}</color> 증가한다. <color=#E78300>{4}</color>초간 지속되고, 최대 <color=#E78300>7</color>회 중첩된다. <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material>으로 전환 시 전체 아군의 해당 공격력 버프 효과를 제거한다.",
         "maxLv": 1,
         "type": 1,
         "id": 110200012,
@@ -14454,7 +14454,7 @@
         ]
     },
     "110200023": {
-        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material>의 필살기 또는 연계 필살기 시전 시, 전체 아군의 크리티컬 확률이 <color=#E78300>{1}</color> 증가하며, 자신 또는 팀원의 크리티컬 확률이 <color=#E78300>100%</color>보다 <color=#E78300>0.1%</color> 높을 때마다 크리티컬 피해가 <color=#E78300>0.2%</color> 증가한다. 해당 효과는 크리티컬 피해는 최대 <color=#E78300>200%</color>까지 증가하며, <color=#E78300>20</color>초간 지속된다.",
+        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material>의 필살기 또는 연계 필살기 시전 시, 전체 아군의 크리티컬 확률이 <color=#E78300>{1}</color> 증가하며, 자신 또는 아군의 크리티컬 확률이 <color=#E78300>100%</color>보다 <color=#E78300>0.1%</color> 높을 때마다 <color=#E78300>0.2%</color> 증가한다. 해당 효과는 크리티컬 피해는 최대 <color=#E78300>200%</color>까지 증가하며, <color=#E78300>20</color>초간 지속된다.",
         "maxLv": 1,
         "type": 1,
         "id": 110200023,
@@ -14592,7 +14592,7 @@
         ]
     },
     "110210013": {
-        "description": "자신이 <material=underline c=#FFFFFF h=2 event=terminology args=(102102)>[아침의 빛]</material> 상태일 경우:\n신격 [황야의 사냥·수렵의 숲]의 스킬 피해 버프 효과가 <color=#E78300>5</color>단계로 유지된다.\n신격 [황야의 사냥·수렵의 숲]의 물리 저항 감소 효과가 <color=#E78300>4</color>단계로 유지되며, 지속적으로 전체 적군에게 부여하는 것으로 변경된다.\n신격 [황야의 사냥·밤 사냥]의 발동 공격이 공격 모드 변경 후의 공격만 발동한다.",
+        "description": "자신이 <material=underline c=#FFFFFF h=2 event=terminology args=(102102)>[아침의 빛]</material> 상태일 경우:\n신격 [황야의 사냥·사냥의 숲]의 스킬 피해 버프 효과가 <color=#E78300>5</color>단계로 유지된다.\n신격 [황야의 사냥·사냥의 숲]의 물리 저항 감소 효과가 <color=#E78300>4</color>단계로 유지되며, 지속적으로 전체 적군에게 부여하는 것으로 변경된다.\n신격 [황야의 사냥·밤사냥]의 발동 공격이 공격 모드 변경 후의 공격만 발동한다.",
         "maxLv": 1,
         "type": 1,
         "id": 110210013,
@@ -16375,7 +16375,7 @@
         ]
     },
     "110450011": {
-        "description": "Translating:【description$110450011$description$0】",
+        "description": "6b8767f8fdb851d100533f3a1f82917e",
         "maxLv": 1,
         "type": 1,
         "id": 110450011,
@@ -16390,7 +16390,7 @@
         ]
     },
     "110450012": {
-        "description": "Translating:【description$110450012$description$0】",
+        "description": "0d3a9fc00eb5c79d7085398becf2be89",
         "maxLv": 1,
         "type": 1,
         "id": 110450012,
@@ -16398,7 +16398,7 @@
         "param": []
     },
     "110450013": {
-        "description": "Translating:【description$110450013$description$0】",
+        "description": "43563b9090ac302a2ea5fe01ee33f857",
         "maxLv": 1,
         "type": 1,
         "id": 110450013,
@@ -16406,7 +16406,7 @@
         "param": []
     },
     "110450021": {
-        "description": "Translating:【description$110450021$description$0】",
+        "description": "69fd0f7b1ff9ce9bc262208bbf2f74f4",
         "maxLv": 1,
         "type": 1,
         "id": 110450021,
@@ -16433,7 +16433,7 @@
         ]
     },
     "110450022": {
-        "description": "Translating:【description$110450022$description$0】",
+        "description": "c7e9c0c602f3e563f5136fefef559527",
         "maxLv": 1,
         "type": 1,
         "id": 110450022,
@@ -16441,7 +16441,7 @@
         "param": []
     },
     "110450023": {
-        "description": "Translating:【description$110450023$description$0】",
+        "description": "952f07ed6d66a752d18ebbfe0027e2ce",
         "maxLv": 1,
         "type": 1,
         "id": 110450023,
@@ -16486,7 +16486,7 @@
         ]
     },
     "110450031": {
-        "description": "Translating:【description$110450031$description$0】",
+        "description": "553242cf5a25f351dc3ce28ac75016dc",
         "maxLv": 1,
         "type": 1,
         "id": 110450031,
@@ -16507,7 +16507,7 @@
         ]
     },
     "110450032": {
-        "description": "Translating:【description$110450032$description$0】",
+        "description": "4d62faef033ecef334fa27abbad6f598",
         "maxLv": 1,
         "type": 1,
         "id": 110450032,
@@ -16515,7 +16515,7 @@
         "param": []
     },
     "110450033": {
-        "description": "Translating:【description$110450033$description$0】",
+        "description": "3a7e3c38bd1a99b10aa560c148ed2680",
         "maxLv": 1,
         "type": 1,
         "id": 110450033,
@@ -16523,7 +16523,7 @@
         "param": []
     },
     "110460011": {
-        "description": "Translating:【description$110460011$description$0】",
+        "description": "3753111a3ac5c3757c53f3cc0f05337e",
         "maxLv": 1,
         "type": 1,
         "id": 110460011,
@@ -16531,7 +16531,7 @@
         "param": []
     },
     "110460012": {
-        "description": "Translating:【description$110460012$description$0】",
+        "description": "48223c461a3624183e9a9b98b842e284",
         "maxLv": 1,
         "type": 1,
         "id": 110460012,
@@ -16539,7 +16539,7 @@
         "param": []
     },
     "110460013": {
-        "description": "Translating:【description$110460013$description$0】",
+        "description": "6a14c165057fd04e19c3ca0acebce759",
         "maxLv": 1,
         "type": 1,
         "id": 110460013,
@@ -16584,7 +16584,7 @@
         ]
     },
     "110460021": {
-        "description": "Translating:【description$110460021$description$0】",
+        "description": "c33179e9cae4094eb117088a20b81a24",
         "maxLv": 1,
         "type": 1,
         "id": 110460021,
@@ -16592,7 +16592,7 @@
         "param": []
     },
     "110460022": {
-        "description": "Translating:【description$110460022$description$0】",
+        "description": "bc706c103955106803eb307d6706a5a9",
         "maxLv": 1,
         "type": 1,
         "id": 110460022,
@@ -16619,7 +16619,7 @@
         ]
     },
     "110460023": {
-        "description": "Translating:【description$110460023$description$0】",
+        "description": "dbd8c831ce8f915b77609bf59af18ee8",
         "maxLv": 1,
         "type": 1,
         "id": 110460023,
@@ -16634,7 +16634,7 @@
         ]
     },
     "110460031": {
-        "description": "Translating:【description$110460031$description$0】",
+        "description": "404c6cd8d9404d8f0b34c667a7eaa5ff",
         "maxLv": 1,
         "type": 1,
         "id": 110460031,
@@ -16655,7 +16655,7 @@
         ]
     },
     "110460032": {
-        "description": "Translating:【description$110460032$description$0】",
+        "description": "7e8ac2dc61e384000ef3fd3e6d89b4e9",
         "maxLv": 1,
         "type": 1,
         "id": 110460032,
@@ -16663,7 +16663,7 @@
         "param": []
     },
     "110460033": {
-        "description": "Translating:【description$110460033$description$0】",
+        "description": "2316facb481a169019094916d8a63f2c",
         "maxLv": 1,
         "type": 1,
         "id": 110460033,
@@ -18832,7 +18832,7 @@
         ]
     },
     "110720023": {
-        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(107202)>[프랑]</material>의 협동 공격 명중 순간 피해가 <color=#E78300>{1}</color> 증가한다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(107202)>[프랑]</material>이 아군 전체를 따라다니는 것으로 변경된다.",
+        "description": "[프랑]의 협동 공격 명중 순간 피해가 <color=#ED6117>{1}</color> 증가하고, [프랑]이 아군 전체를 따라다니는 것으로 변경된다.",
         "maxLv": 1,
         "type": 1,
         "id": 110720023,
@@ -19343,7 +19343,7 @@
         "param": []
     },
     "110760033": {
-        "description": "[남극의 바닷소리·양] 시전 후 자신의 공격력이 <color=#E78300>{5}</color> 증가하고, <color=#E78300>{6}</color>초간 지속된다.\n[남극의 바닷소리·양]으로 적군 집중 시, 집중 범위 내 정예 및 보스 적군과 집중 영향을 받지 않는 일반 적군에게 <material=underline c=#FFFFFF h=2 event=terminology args=(107605)>[극한의 심연]</material> 상태를 부여하며, <color=#E78300>{1}</color>초간 지속된다.\n모든 아군의 공격이 <material=underline c=#FFFFFF h=2 event=terminology args=(107605)>[극한의 심연]</material> 상태인 적군에게 명중 시 자신의 공격을 발동해 공격력 <color=#E78300>{3}</color>의 물 속성 피해를 입히고, 스킬3 [남극의 바닷소리]가 1레벨 증가할 때마다 피해가 <color=#E78300>{4}</color> 증가한다. 해당 효과는 <color=#E78300>{2}</color>초마다 최대 1회 발동된다.",
+        "description": "[남극의 바닷소리·양] 시전 후 자신의 공격력이 <color=#ED6117>{4}</color> 증가하고, <color=#ED6117>{5}</color>초간 지속된다.\n[남극의 바닷소리·양]이 적군을 집중시킬 시 집중 범위 내 정예 및 보스 적군과 집중 영향을 받지 않는 일반 적군에게 [극한의 심연] 상태를 부여하며, <color=#ED6117>{1}</color>초간 지속된다.\n전체 아군이 [극한의 심연] 상태인 적군을 공격 명중 시 자신이 공격을 발동하고 공격력 <color=#ED6117>{3}</color>의 물 속성 피해를 준다. 해당 효과는 <color=#ED6117>{2}</color>초마다 최대 1회 발동되며, 피해 배율은 스킬3 [남극의 바닷소리] 레벨에 따라 증가한다.",
         "maxLv": 1,
         "type": 1,
         "id": 110760033,
@@ -25203,7 +25203,7 @@
         ]
     },
     "200001141": {
-        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(107202)>[프랑]</material>이 따라다니는 모디파이어가 스킬 시전 시마다 바람 공격 명중 순간의 크리티컬 피해가 <color=#E78300>{1}</color> 증가하고, <color=#E78300>4</color>초간 지속된다. 해당 효과는 최대 <color=#E78300>5</color>회까지 중첩된다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(107202)>[프랑]</material>의 협동 공격 명중 시, 명중된 적의 크리티컬 저항이 <color=#E78300>{2}</color> 감소하고, <color=#E78300>{3}</color>초간 지속된다.\n필드에 <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>[프랑]</material>이 <color=#E78300>1</color>개 존재할 때마다 자신의 필살기 획득률이 <color=#E78300>{4}</color>, 필살기 피해가 <color=#E78300>{5}</color> 증가한다.",
+        "description": "8fa3aed0554f11250fae14c8e8b61099",
         "maxLv": 1,
         "type": 1,
         "id": 200001141,
@@ -25242,7 +25242,7 @@
         ]
     },
     "200001142": {
-        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(107202)>[프랑]</material>의 협동 공격 명중 순간 피해가 <color=#E78300>{1}</color> 증가한다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(107202)>[프랑]</material>이 아군 전체를 따라다니는 것으로 변경된다. <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>[프랑]</material>이 따라다니는 팀원의 스킬 피해가 <color=#E78300>{2}</color> 증가한다. <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>[프랑]</material>이 팀원을 따라다닐 때, 포인트 획득률이 <color=#E78300>20%</color> 이하일 경우 따라다니는 팀원의 스킬 피해가 추가로 <color=#E78300>{3}</color> 증가한다.",
+        "description": "4725c6d69992ef93e44d64235220bc2f",
         "maxLv": 1,
         "type": 1,
         "id": 200001142,
@@ -25269,7 +25269,7 @@
         ]
     },
     "200001143": {
-        "description": "신격 [술수의 달인]의 공격력 버프 효과가 최대 <color=#E78300>3</color>회까지 중첩된다.",
+        "description": "63fa22088f142d2ad8a9972f4826c96d",
         "maxLv": 1,
         "type": 1,
         "id": 200001143,
@@ -26701,7 +26701,7 @@
         ]
     },
     "220107201": {
-        "description": "백해·녹양 장착 시 효과는 다음과 같다.\n<color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(107202)>[프랑]</material></color>의 지속시간이 <color=#E78300>{8}</color>초 연장된다.\n<color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(107202)>[프랑]</material></color>의 협동 공격이 부여하는 바람 속성 감소 효과가 추가로 중첩된다. 중첩될 때마다 바람 속성 저항이 추가로 <color=#E78300>{1}%</color> 감소하며, 최대 <color=#E78300>{2}</color>회까지 추가로 중첩된다.\n자신 또는 팀원을 따라다니는 <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(107202)>[프랑]</material></color> 1개마다 아군 전체가 필살기 수치를 <color=#E78300>10%</color> 획득한다.\n<color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(107202)>[프랑]</material></color> 효과 종료 시 따라다니는 모디파이어 위치에서 폭발을 일으켜 총 공격력 <color=#E78300>{3}%</color>의 바람 속성 피해를 입힌다. 폭발 시 명중된 적군에게 파괴 상태를 부여하여 방어력을 <color=#E78300>{4}%</color> 감소시키고, <color=#E78300>{5}</color>초간 지속된다.\n필살기 또는 연계 필살기 시전 시 자신의 필살기 쿨타임이 <color=#E78300>3</color>초 감소한다.\n필살기 또는 연계 필살기 시전 시 <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(107201)>[재물운]을 <color=#E78300>10</color> 획득한다.\n필살기 획득률이 <color=#E78300>{6}%</color> 증가한다.",
+        "description": "d9ed407fc0a562e63343ddb6ff371ca8",
         "maxLv": 0,
         "type": 0,
         "id": 220107201,
@@ -29437,7 +29437,7 @@
         ]
     },
     "500102801": {
-        "description": "썬더·토르 장착 시 효과는 다음과 같다. \n<color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(102802)>[광뢰]</material></color> 상태일 시, 스킬 명중 시마다 낙뢰를 1회 생성해 공격력 <color=#E78300>{1}%</color>의 번개 속성 피해를 입힌다. <color=#297DE0>[묠니르]</color>를 사용해 파생 스킬이 아닌 공격 명중 시마다, 또는 <color=#297DE0>[야릉그레이프]</color>를 사용해 마지막 일격을 제외한 스킬 공격 명중 시마다, 자신의 피해가 <color=#E78300>{2}%</color> 증가하고, <color=#E78300>{3}</color>초간 지속된다. 해당 효과는 최대 <color=#E78300>3</color>회까지 중첩될 수 있다.\n<color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(102803)>[분노의 벼락]</material></color> 상태에서 마지막 일격 시전 시, 중첩 횟수를 <color=#E78300>1</color>회 보유할 때마다 해당 스킬의 명중 순간 공격력이 <color=#E78300>{5}%</color> 증가하며, <color=#E78300>3</color>회 보유할 때마다 <color=#E78300>4</color>회로 간주한다. \n<color=#297DE0>[추락 번개]</color> 명중 시, 중첩 횟수를 <color=#E78300>1</color>회 보유할 때마다 <color=#297DE0>[추락 번개]</color>의 기본 피해가 <color=#E78300>{4}%</color> 증가하며, <color=#E78300>3</color>회 보유할 때마다 <color=#E78300>4</color>회로 간주한다. <color=#297DE0>[추락 번개]</color> 종료 후 중첩된 모든 횟수를 제거한다.",
+        "description": "썬더·토르 장착 시 효과는 다음과 같다. \n<color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(102802)>[광뢰]</material></color> 상태일 시, 스킬 명중 시마다 낙뢰를 1회 생성해 공격력 <color=#E78300>{1}%</color>의 번개 속성 피해를 입힌다. <color=#297DE0>[묠니르]</color>를 사용해 파생 스킬이 아닌 공격 명중 시마다, 또는 <color=#297DE0>[야릉그레이프]</color>를 사용해 마지막 일격을 제외한 스킬 공격 명중 시마다, 자신의 피해가 <color=#E78300>{2}%</color> 증가하고, <color=#E78300>{3}</color>초간 지속된다. 해당 효과는 최대 <color=#E78300>3</color>회까지 중첩될 수 있다.\n<color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(102803)>[분노의 벼락]</material></color> 상태에서 마지막 일격 시전 시, 중첩 횟수를 <color=#E78300>1</color>회 보유할 때마다 해당 스킬의 명중 순간 공격력이 <color=#E78300>{5}%</color> 증가하며, <color=#E78300>3</color>회 보유할 때마다 color=#E78300>4</color>회로 간주한다. \n<color=#297DE0>[추락 번개]</color> 명중 시, 중첩 횟수를 <color=#E78300>1</color>회 보유할 때마다 <color=#297DE0>[추락 번개]</color>의 기본 피해가 <color=#E78300>{4}%</color> 증가하며, <color=#E78300>3</color>회 보유할 때마다 <color=#E78300>4</color>회로 간주한다. <color=#297DE0>[추락 번개]</color> 종료 후 중첩된 모든 횟수를 제거한다.",
         "maxLv": 0,
         "type": 0,
         "id": 500102801,
@@ -29925,7 +29925,7 @@
         ]
     },
     "500104501": {
-        "description": "Translating:【description$500104501$description$0】",
+        "description": "b07a291ca0af4c4827f2f1c14440fa25",
         "maxLv": 0,
         "type": 0,
         "id": 500104501,
@@ -29997,7 +29997,7 @@
         ]
     },
     "500104601": {
-        "description": "Translating:【description$500104601$description$0】",
+        "description": "4cab1ecb18487511aa4a4f2c1201ebae",
         "maxLv": 0,
         "type": 0,
         "id": 500104601,
@@ -32197,7 +32197,7 @@
         ]
     },
     "500115601": {
-        "description": "절멸·칼리 장착 시 효과는 다음과 같다.\n출전 시 전체 아군에게 각자의 최대 HP만큼의 방패 수치를 가진 방패를 부여한다.\n<color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115601)>[빛나는 번개]</material></color>를 발동할 때마다 전체 아군 공격력이 <color=#E78300>{1}%</color> 증가하며, <color=#E78300>{2}</color>초간 지속된다.\n자신 또는 팀원이 1인 필살기 시전 시 크리티컬 피해 증가가 <color=#E78300>60%</color>로 변경된다.\n일반공격 또는 스킬이 명중할 때마다 각기 다른 포인트의 <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color>을 획득하며, <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color> 최대치는 <color=#E78300>150</color>이다. 스킬 시전 후 다른 포인트의 <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color>을 소모해 스킬 쿨타임을 초기화한다.\n<color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color>: 일반공격 <color=#E78300>1</color>, 강화한 일반공격 <color=#E78300>2</color>, 스킬 <color=#E78300>3</color>, 강화된 스킬 <color=#E78300>5</color>를 획득한다. <color=#297DE0>[일겁·강렬한 빛]</color>이 <color=#E78300>75</color>를 소모한다. <color=#297DE0>[삼겁·죄악 토벌]</color>이 <color=#E78300>25</color>를 소모한다. <color=#297DE0>[구겁·붕괴의 번개]</color>는 <color=#E78300>100</color>을 소모한다.",
+        "description": "절멸·칼리 장착 시 효과는 다음과 같다.\n출전 시 전체 아군에게 각자의 최대 HP만큼의 방패 수치를 가진 방패를 부여한다.\n<color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115601)>[빛나는 번개]</material></color>를 발동할 때마다 전체 아군 공격력이 <color=#E78300>{1}%</color> 증가하며, <color=#E78300>{2}</color>초간 지속된다.\n자신 또는 아군이 1인 필살기 시전 시 크리티컬 피해 증가가 <color=#E78300>60%</color>로 변경된다.\n일반공격 또는 스킬이 명중 시마다 다른 포인트의 <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color>을 획득하며, <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color> 최대치는 <color=#E78300>150</color>이다. 스킬 시전 후 다른 포인트의 <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color>을 소모해 스킬 쿨타임을 초기화한다.\n<color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color>: 일반공격 <color=#E78300>1</color>, 강화한 일반공격 <color=#E78300>2</color>, 스킬 <color=#E78300>3</color>, 강화된 스킬 <color=#E78300>5</color>를 획득한다. <color=#297DE0>[일겁·강렬한 빛]</color>이 <color=#E78300>75</color>를 소모한다. <color=#297DE0>[삼겁·죄악 토벌]</color>이 <color=#E78300>25</color>를 소모한다. <color=#297DE0>[구겁·붕괴의 번개]</color>는 <color=#E78300>100</color>을 소모한다.",
         "maxLv": 0,
         "type": 0,
         "id": 500115601,
@@ -33944,7 +33944,7 @@
         ]
     },
     "600000055": {
-        "description": "물리 속성 피해가 {1} 증가한다.\n시스템 수치를 획득 또는 회복 시마다 [삭월] 1단계를 획득하고, 최대 30회 중첩될 수 있다. [삭월] 단계당 자신의 물리 속성 스킬 공격 명중 순간 스킬 피해가 {2} 증가한다.\n출전 시 [망월] 3단계를 획득하며, 시스템 수치 소모 시마다 1회를 잃는다. [망월] 단계당 자신의 물리 속성 공격 명중 순간 크리티컬 피해가 {3} 증가한다.",
+        "description": "물리 속성 피해가 {1} 증가한다.\n시스템 수치를 획득 또는 회복 시마다 [삭월] 1단계를 획득하고, 최대 30회 중첩될 수 있다. [삭월] 단계당 자신의 물리 속성 스킬 공격 명중 순간 스킬 피해가 {2} 증가한다.\n출전 시 [삭월] 3단계를 획득하며, 시스템 수치 소모 시마다 1회를 잃는다. [망월] 단계당 자신의 물리 속성 공격 명중 순간 크리티컬 피해가 {3} 증가한다.",
         "maxLv": 1,
         "type": 1,
         "id": 600000055,
@@ -34064,7 +34064,7 @@
         ]
     },
     "600000059": {
-        "description": "물리 속성 피해가 {1} 증가한다.\n물리 속성 공격 명중 순간의 크리티컬 피해가 {2} 증가한다.",
+        "description": "의물리 속성 피해가 {1} 증가한다.\n물리 속성 공격 명중 순간의 크리티컬 피해가 {2} 증가한다.",
         "maxLv": 1,
         "type": 1,
         "id": 600000059,
@@ -34130,7 +34130,7 @@
         ]
     },
     "600000061": {
-        "description": "번개 속성 공격 명중 시 명중된 적군의 번개 속성 저항이 {1} 감소하며, {2}초간 지속된다. 여러 개의 각인 효과는 중첩되지 않는다.\n자신 또는 팀원의 번개 속성 피해 증가 시 번개 속성 피해 증가 상태인 자신 또는 팀원의 번개 속성 공격 명중 순간의 크리티컬 확률이 {3} 증가하며, {4}초간 지속된다. 여러 각인 효과는 중첩되지 않는다.",
+        "description": "번개 속성 공격 명중 시 명중된 적군의 번개 속성 저항이 {1} 감소하며, {2}초간 지속된다. 여러 개의 각인 효과는 중첩되지 않는다.\n자신 또는 아군의 번개 속성 피해 증가 시 번개 속성 피해 증가 상태인 자신 또는 아군의 번개 속성 공격 명중 순간의 크리티컬 확률이 {3} 증가하며, {4}초간 지속된다. 여러 각인 효과는 중첩되지 않는다.",
         "maxLv": 1,
         "type": 1,
         "id": 600000061,
@@ -34190,7 +34190,7 @@
         ]
     },
     "600000070": {
-        "description": "모든 속성 피해가 {1} 증가한다.\n신기사 장착 시 공격력이 {2}, 필살기 획득률이 {3}, 필살기 피해가 {4} 증가한다.",
+        "description": "5ba5529b59cb008f079068498e2d4dc6",
         "maxLv": 1,
         "type": 1,
         "id": 600000070,
@@ -34223,7 +34223,7 @@
         ]
     },
     "600000071": {
-        "description": "스킬 피해가 {1} 증가한다.\n신기사 장착 시 크리티컬 확률이 {2}, 일반공격 피해가 {3}, 피해가 {4} 증가한다.",
+        "description": "54a83f63f30cda7d0a2f7125d1da0e24",
         "maxLv": 1,
         "type": 1,
         "id": 600000071,
@@ -40644,7 +40644,7 @@
         "param": []
     },
     "700000802": {
-        "description": "전투 중 팀원 모디파이어가 처치되면 리더의 피해가 50% 증가하고, 최대 2단계까지 중첩된다.",
+        "description": "전투 중 아군 모디파이어가 처치되면 리더의 피해가 50% 증가하고, 최대 2단계까지 중첩된다.",
         "maxLv": 1,
         "type": 1,
         "id": 700000802,
@@ -42543,7 +42543,7 @@
         "param": []
     },
     "700009146": {
-        "description": "팀원의 피해가 10% 증가하고 메인 컨트롤 모디파이어가 받는 피해가 30% 증가한다.",
+        "description": "아군의 피해가 10% 증가하고 메인 컨트롤 모디파이어가 받는 피해가 30% 증가한다.",
         "maxLv": 1,
         "type": 1,
         "id": 700009146,
@@ -42567,7 +42567,7 @@
         "param": []
     },
     "700009149": {
-        "description": "모디파이어가 받는 피해가 20% 증가한다. 모디파이어의 HP가 50% 이상일 시 적군에게 입히는 피해가 10% 증가한다.",
+        "description": "모디파이어가 받는 피해가 20% 증가한다. 모디파이어의 HP가 50%보다 높을 시 입히는 피해가 10% 증가한다.",
         "maxLv": 1,
         "type": 1,
         "id": 700009149,
@@ -42575,7 +42575,7 @@
         "param": []
     },
     "700009150": {
-        "description": "3초마다 모디파이어의 HP가 최대 HP 3%만큼 감소하고, 공격력이 25% 증가한다.",
+        "description": "모디파이어가 3초마다 최대 HP 3%의 HP 소모 상태를 획득하고, 공격력이 25% 증가한다.",
         "maxLv": 1,
         "type": 1,
         "id": 700009150,
@@ -42615,7 +42615,7 @@
         "param": []
     },
     "700009155": {
-        "description": "모디파이어의 빙결, 기절, 속박 효과의 지속시간이 30% 연장되고, 적군의 피해가 30% 증가한다.",
+        "description": "모디파이어의 빙결, 기절, 속박 효과의 지속시간이 30% 연장되고, 적군이 입히는 피해가 30% 증가한다.",
         "maxLv": 1,
         "type": 1,
         "id": 700009155,
@@ -46016,7 +46016,7 @@
         ]
     },
     "700018101": {
-        "description": "캐릭터가 강화 획득",
+        "description": "42f3e41b4492b72e2da94cde0a7f5f61",
         "maxLv": 1,
         "type": 1,
         "id": 700018101,
@@ -46024,7 +46024,7 @@
         "param": []
     },
     "700018102": {
-        "description": "캐릭터가 강화 획득",
+        "description": "a47df70a6afebdb673e002659b4c4e50",
         "maxLv": 1,
         "type": 1,
         "id": 700018102,
@@ -46032,7 +46032,7 @@
         "param": []
     },
     "700018103": {
-        "description": "캐릭터가 강화 획득",
+        "description": "9d66790f350770e374ce66a16c19da58",
         "maxLv": 1,
         "type": 1,
         "id": 700018103,
@@ -46040,7 +46040,7 @@
         "param": []
     },
     "700018104": {
-        "description": "캐릭터가 강화 획득",
+        "description": "aba022dd6486210438be4bb9e9c4342a",
         "maxLv": 1,
         "type": 1,
         "id": 700018104,
@@ -46048,7 +46048,7 @@
         "param": []
     },
     "700018105": {
-        "description": "캐릭터가 강화 획득",
+        "description": "93197eed31a2aa268b7b30e37f511420",
         "maxLv": 1,
         "type": 1,
         "id": 700018105,
@@ -46056,7 +46056,7 @@
         "param": []
     },
     "700018106": {
-        "description": "캐릭터가 강화 획득",
+        "description": "9c2e1183641495b69588d00b4a52c33b",
         "maxLv": 1,
         "type": 1,
         "id": 700018106,
@@ -46064,7 +46064,7 @@
         "param": []
     },
     "700018201": {
-        "description": "캐릭터가 강화 획득",
+        "description": "54a2ec6c042711aa981c229b0fe6b1f6",
         "maxLv": 1,
         "type": 1,
         "id": 700018201,
@@ -46072,7 +46072,7 @@
         "param": []
     },
     "700018202": {
-        "description": "캐릭터가 강화 획득",
+        "description": "0d54790ada832216227c4f1b7cfa62a6",
         "maxLv": 1,
         "type": 1,
         "id": 700018202,
@@ -46080,7 +46080,7 @@
         "param": []
     },
     "700018203": {
-        "description": "캐릭터가 강화 획득",
+        "description": "910f4fd4c9f0c6b8dc54a2bb3586b3c3",
         "maxLv": 1,
         "type": 1,
         "id": 700018203,
@@ -46088,7 +46088,7 @@
         "param": []
     },
     "700018204": {
-        "description": "캐릭터가 강화 획득",
+        "description": "fdf71df993213429dcf125b2aa1b476e",
         "maxLv": 1,
         "type": 1,
         "id": 700018204,
@@ -46096,7 +46096,7 @@
         "param": []
     },
     "700018205": {
-        "description": "캐릭터가 강화 획득",
+        "description": "8225942c2e65ce4624ba7b5f86419c5f",
         "maxLv": 1,
         "type": 1,
         "id": 700018205,
@@ -46104,7 +46104,7 @@
         "param": []
     },
     "700018206": {
-        "description": "캐릭터가 강화 획득",
+        "description": "ce9d8164bd324a81875bb5fb91bb010e",
         "maxLv": 1,
         "type": 1,
         "id": 700018206,
@@ -54828,7 +54828,7 @@
         ]
     },
     "21107210121": {
-        "description": "신산자로 바람을 조종해 적군에게 최대 5단계 공격을 진행하고, 총 공격력 <color=#E78300>{1}</color>의 바람 속성 피해를 준다.",
+        "description": "9bb5abb415d05dbcfd3506c94278f97f",
         "maxLv": 60,
         "type": 1,
         "id": 21107210121,
@@ -54843,7 +54843,7 @@
         ]
     },
     "21107220122": {
-        "description": "신산자를 사용하여 빠르게 활주한 후 맹렬한 일격을 진행하고 총 공격력 <color=#E78300>{1}</color>의 바람 속성 피해를 준다.",
+        "description": "0aa482496922e75cce559f3a6de3ef52",
         "maxLv": 60,
         "type": 1,
         "id": 21107220122,
@@ -54858,7 +54858,7 @@
         ]
     },
     "21107220223": {
-        "description": "신산자를 던져 적군에게 소용돌이 공격을 진행하고, 총 공격력 <color=#E78300>{1}</color>의 바람 속성 피해를 준다.",
+        "description": "302686d87ce01a6952952a0b0dc32d14",
         "maxLv": 60,
         "type": 1,
         "id": 21107220223,
@@ -54873,7 +54873,7 @@
         ]
     },
     "21107220324": {
-        "description": "일반공격 마지막 단계, [바람 같은 운세], [칼 같은 계산] 시전 후 일시적으로 [비 같은 재물]이 [액막이 재주]로 대체되고, 연결할 수 있다. 연결 시 단계별 피해를 입히며, 명중 시 각기 다른 [재물운]을 획득한다. [재물운]의 최대 점수는 <color=#E78300>50</color>이다.\n일반공격 마지막 단계 후 [액막이 재주] 연결: 1단계를 시전할 수 있으며, 총 공격력 <color=#E78300>{1}</color>의 바람 속성 피해를 입히고, [재물운]을 총 <color=#E78300>6</color> 획득한다.\n[바람 같은 운세] 후 [액막이 재주] 연결: 3단계 연속 시전할 수 있으며, 총 공격력 <color=#E78300>{2}</color>의 바람 속성 피해를 입히고, [재물운]을 총 <color=#E78300>10</color> 획득한다.\n[칼 같은 계산] 후 [액막이 재주] 연결: 5단계 연속 시전할 수 있으며 총 공격력 <color=#E78300>{3}</color>의 바람 속성 피해를 입히고, [재물운]을 총 <color=#E78300>14</color> 획득한다.\n\n[비 같은 재물]: [재물운]을 모두 소모하여 공중으로 뛰어올라 신산자로 적군을 공격한다. 소모한 [재물운]에 따라 적군에게 입히는 피해가 달라진다.\n소모한 [재물운]이 <color=#E78300>40</color> 이하일 시, 총 공격력 <color=#E78300>{4}</color>의 바람 속성 피해를 힙힌다.\n소모한 [재물운]이 <color=#E78300>40</color> 이상일 시, 총 공격력 <color=#E78300>{5}</color>의 바람 속성 피해를 입힌다.\n[비 같은 재물] 시전 시 전체 아군의 바람 속성 피해가 <color=#E78300>10%</color> 증가하며, <color=#E78300>{6}</color>초간 지속된다. [재물운]을 <color=#E78300>1</color> 소모할 때마다 부여되는 바람 속성 피해가 추가로 <color=#E78300>0.6%</color> 증가한다.\n\n<color=#297DE0>인장:</color> [액막이 재주]를 시전하여 마지막 단계 명중 시 인장을 <color=#E78300>1</color>개 획득한다.",
+        "description": "470f6b272692d78ea33392725165f21f",
         "maxLv": 60,
         "type": 1,
         "id": 21107220324,

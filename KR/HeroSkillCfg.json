@@ -208,7 +208,7 @@
         "name": "항출운창",
         "cd": 15000,
         "strengthen_desc": "",
-        "simpleDesc": "<material=underline c=#FFFFFF h=2 event=terminology args=(107101)>[청손 자세]</material>: 해당 스킬이 [항출운창·손]으로 대체된다. 신능이 최대치일 시 시전 가능하며 바람 속성 피해를 준다. 자신은 <material=underline c=#FFFFFF h=2 event=terminology args=(107102)>[창진 자세]</material>로 전환하며, 모든 <material=underline c=#FFFFFF h=2 event=terminology args=(107103)>[물]</material> 표식이 제거되고, [항출운창·진]의 쿨타임을 초기화한다. <material=underline c=#FFFFFF h=2 event=terminology args=(107105)>[운뢰]</material>를 여러 개 소환하여 고정된 대상을 공격해 번개 속성 피해를 준다. 신능 소진 시 <material=underline c=#FFFFFF h=2 event=terminology args=(107101)>[청손 자세]</material>로 전환된다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(107102)>[창진 자세]</material>: 해당 스킬이 [항출운창·진]으로 대체된다. 신능을 소모해 3단계 공격을 시전해 피해를 주고, 공격 마지막 단계에서 전방에 <material=underline c=#FFFFFF h=2 event=terminology args=(107105)>[운뢰]</material>를 여러 개 소환한다. [풍뢰 격파] 교차 시전 타이밍에 따라 4식의 검술이 파생되고, 각자 다른 번개 속성 피해를 준다.\n1식: 바로 시전한다.\n2식: 2단계 이전에만 [풍뢰 격파]를 교차 시전한다.\n3식: 3단계 이전에만 [풍뢰 격파]를 교차 시전한다.\n4식: 2단계 및 3단계 전에 [풍뢰 격파]를 교차 시전한다.",
+        "simpleDesc": "<material=underline c=#FFFFFF h=2 event=terminology args=(107101)>[청손 자세]</material>: 해당 스킬이 [항출운창·손]으로 대체된다. 신능이 최대치일 시 시전 가능하며 바람 속성 피해를 준다. 자신은 <material=underline c=#FFFFFF h=2 event=terminology args=(107102)>[창진 자세]</material>로 전환하며, 모든 <material=underline c=#FFFFFF h=2 event=terminology args=(107103)>[물]</material> 표식이 제거되고, [항출운창·진]의 쿨타임을 초기화한다. <material=underline c=#FFFFFF h=2 event=terminology args=(107105)>[운뢰]</material>를 여러 개 소환하여 고정된 대상을 공격해 번개 속성 피해를 준다. 신능 소진 시 <material=underline c=#FFFFFF h=2 event=terminology args=(107101)>[청손 자세]</material>로 전환된다.\nmaterial=underline c=#FFFFFF h=2 event=terminology args=(107102)>[창진 자세]</material>: 해당 스킬이 [항출운창·진]으로 대체된다. 신능을 소모해 3단계 공격을 시전해 피해를 주고, 공격 마지막 단계에서 전방에 <material=underline c=#FFFFFF h=2 event=terminology args=(107105)>[운뢰]</material>를 여러 개 소환한다. [풍뢰 격파] 교차 시전 타이밍에 따라 4식의 검술이 파생되고, 각자 다른 번개 속성 피해를 준다.\n1식: 바로 시전한다.\n2식: 2단계 이전에만 [풍뢰 격파]를 교차 시전한다.\n3식: 3단계 이전에만 [풍뢰 격파]를 교차 시전한다.\n4식: 2단계 및 3단계 전에 [풍뢰 격파]를 교차 시전한다.",
         "MaxUseCount": 0,
         "id": 1071203,
         "EnergyChange": 0,
@@ -574,10 +574,10 @@
         ]
     },
     "1045101": {
-        "name": "Translating:【skill$1045101$name$0】",
+        "name": "35f0a4b649792d7fa88ac00e79f5be4b",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1045101$simpleDesc$0】",
+        "simpleDesc": "87f35f91c28dbec3877dcce12a068c94",
         "MaxUseCount": 0,
         "id": 1045101,
         "EnergyChange": 0,
@@ -592,10 +592,10 @@
         ]
     },
     "1045201": {
-        "name": "Translating:【skill$1045201$name$0】",
+        "name": "e4e4185a156ae0d48e50c4ba8ca7bb11",
         "cd": 6000,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1045201$simpleDesc$0】",
+        "simpleDesc": "05fc7f83084047914fe44ffc2bc45aa3",
         "MaxUseCount": 0,
         "id": 1045201,
         "EnergyChange": 0,
@@ -611,10 +611,10 @@
         ]
     },
     "1045202": {
-        "name": "Translating:【skill$1045202$name$0】",
+        "name": "dd0d0153fcf8cf1c4c01a5138eb07141",
         "cd": 3000,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1045202$simpleDesc$0】",
+        "simpleDesc": "eb992162affa9e12eb62b07dd7800fa4",
         "MaxUseCount": 0,
         "id": 1045202,
         "EnergyChange": 0,
@@ -629,10 +629,10 @@
         ]
     },
     "1045203": {
-        "name": "Translating:【skill$1045203$name$0】",
+        "name": "81fea2e6dc70fff508fc00435aeab299",
         "cd": 500,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1045203$simpleDesc$0】",
+        "simpleDesc": "5cb58bf1e0542b7257ca1b2a57e0eec0",
         "MaxUseCount": 0,
         "abilities": "",
         "id": 1045203,
@@ -645,10 +645,10 @@
         ]
     },
     "1045209": {
-        "name": "Translating:【skill$1045209$name$0】",
+        "name": "1faed15f753de8807b36541660e36761",
         "cd": 20000,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1045209$simpleDesc$0】",
+        "simpleDesc": "ea3f6db6b242b8a335afba2f4a677de8",
         "MaxUseCount": 0,
         "id": 1045209,
         "EnergyChange": 0,
@@ -663,10 +663,10 @@
         ]
     },
     "1045305": {
-        "name": "Translating:【skill$1045305$name$0】",
+        "name": "2275ac3e0c5339da263dae8ee251bb75",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1045305$simpleDesc$0】",
+        "simpleDesc": "37266c68bfdefa9812789afd316b4eb3",
         "MaxUseCount": 2,
         "abilities": "",
         "id": 1045305,
@@ -679,10 +679,10 @@
         ]
     },
     "1046101": {
-        "name": "Translating:【skill$1046101$name$0】",
+        "name": "042caebd3b6e7a6f5db41bd0ff99cc3f",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1046101$simpleDesc$0】",
+        "simpleDesc": "1996d1baf51f05d3da4cdb207c915488",
         "MaxUseCount": 0,
         "id": 1046101,
         "EnergyChange": 0,
@@ -697,10 +697,10 @@
         ]
     },
     "1046201": {
-        "name": "Translating:【skill$1046201$name$0】",
+        "name": "66012dfb4fdeb40bef2aa691d297554b",
         "cd": 6000,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1046201$simpleDesc$0】",
+        "simpleDesc": "551e54a1173ce69b45eb8fb8275c41b3",
         "MaxUseCount": 0,
         "id": 1046201,
         "EnergyChange": 0,
@@ -715,10 +715,10 @@
         ]
     },
     "1046202": {
-        "name": "Translating:【skill$1046202$name$0】",
+        "name": "8a93eedb346f58c6fb6a6e9cb33c57d9",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1046202$simpleDesc$0】",
+        "simpleDesc": "1ad0d044a342bbe392697bd0943d775a",
         "MaxUseCount": 0,
         "abilities": "",
         "id": 1046202,
@@ -731,10 +731,10 @@
         ]
     },
     "1046203": {
-        "name": "Translating:【skill$1046203$name$0】",
+        "name": "b837aca5e6be27f5d3838e7bd547b82d",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1046203$simpleDesc$0】",
+        "simpleDesc": "a8f79f02950dc006b543243729cfca7f",
         "MaxUseCount": 0,
         "abilities": "",
         "id": 1046203,
@@ -747,10 +747,10 @@
         ]
     },
     "1046209": {
-        "name": "Translating:【skill$1046209$name$0】",
+        "name": "40a0d659577578ef0caeeb4d02cf218a",
         "cd": 20000,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1046209$simpleDesc$0】",
+        "simpleDesc": "a4952ac0134cb579c7a68352ba07c9c4",
         "MaxUseCount": 0,
         "id": 1046209,
         "EnergyChange": 0,
@@ -765,10 +765,10 @@
         ]
     },
     "1046305": {
-        "name": "Translating:【skill$1046305$name$0】",
+        "name": "05939c9c8d22ecfe4edf81ecda303e24",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1046305$simpleDesc$0】",
+        "simpleDesc": "963877b5a73da6dfcbc706f64a50305b",
         "MaxUseCount": 2,
         "abilities": "",
         "id": 1046305,
@@ -6547,7 +6547,7 @@
         "name": "신사 현상",
         "cd": 20000,
         "strengthen_desc": "",
-        "simpleDesc": "바람 속성 피해를 준다.\n\n자신 또는 팀원이 필살기 시전 시 필살기 수치를 획득한다.",
+        "simpleDesc": "바람 속성 피해를 준다.\n\n자신 또는 아군이 필살기 시전 시 필살기 수치를 획득한다.",
         "MaxUseCount": 0,
         "id": 1074209,
         "EnergyChange": 0,
@@ -6741,7 +6741,7 @@
         "name": "길조와 성요",
         "cd": 20000,
         "strengthen_desc": "",
-        "simpleDesc": "임의 스킬의 <material=underline c=#FFFFFF h=2 event=terminology args=(107503)>[열식]</material> 시전 시 전체 아군이 <material=underline c=#FFFFFF h=2 event=terminology args=(107507)>[태양열]</material>을 획득한다. 필살기 시전 시 전체 아군이 <material=underline c=#FFFFFF h=2 event=terminology args=(107508)>[맹렬한 태양열]</material>을 획득한다. <material=underline c=#FFFFFF h=2 event=terminology args=(107508)>[맹렬한 태양열]</material> 보유 시 <material=underline c=#FFFFFF h=2 event=terminology args=(107507)>[태양열]</material>의 버프 효과가 비활성화된다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(107507)>[태양열]</material>: 일정 확률로 명중 순간의 독립 피해가 증가한다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(107508)>[맹렬한 태양열]</material>: 더 높은 확률로 명중 순간의 독립 피해가 증가한다.\n\n자신 또는 팀원이 크리티컬 발동 시 필살기 수치를 획득한다.",
+        "simpleDesc": "임의 스킬의 <material=underline c=#FFFFFF h=2 event=terminology args=(107503)>[열식]</material> 시전 시 전체 아군이 <material=underline c=#FFFFFF h=2 event=terminology args=(107507)>[태양열]</material>을 획득한다. 필살기 시전 시 전체 아군이 <material=underline c=#FFFFFF h=2 event=terminology args=(107508)>[맹렬한 태양열]</material>을 획득한다. <material=underline c=#FFFFFF h=2 event=terminology args=(107508)>[맹렬한 태양열]</material> 보유 시 <material=underline c=#FFFFFF h=2 event=terminology args=(107507)>[태양열]</material>의 버프 효과가 비활성화된다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(107507)>[태양열]</material>: 일정 확률로 명중 순간의 독립 피해가 증가한다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(107508)>[맹렬한 태양열]</material>: 더 높은 확률로 명중 순간의 독립 피해가 증가한다.\n\n자신 또는 아군이 크리티컬 발동 시 필살기 수치를 획득한다.",
         "MaxUseCount": 0,
         "abilities": "",
         "id": 1075209,
@@ -8050,7 +8050,7 @@
         ]
     },
     "1020101": {
-        "name": "창생과 파멸",
+        "name": "복수와 파멸",
         "cd": 0,
         "strengthen_desc": "",
         "simpleDesc": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material> 상태일 경우:\n바람 속성 피해를 주고, 공격 명중 시마다 <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>[범]</material> 포인트를 획득한다.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material> 상태일 경우:\n바람 속성 피해를 주고, 공격 명중 시마다 <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>[범]</material> 포인트를 획득한다.\n\n패시브:\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material> 상태일 경우: 슈퍼 아머 효과를 획득하고, 초당 전체 적군에게 바람 속성 피해를 준다.\n[대자재천·진상], [대자재천·파멸], [초선정천·진상], [초선정천·파멸], <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material> 상태의 필살기 [범아일여]가 HP가 일정 수치보다 높지 않은 적군 명중 시 적군을 바로 처치한다.\n\n<color=#297DE0>신능:</color> 일반공격 명중 후 신능을 획득한다.",
@@ -8123,7 +8123,7 @@
         "name": "범아일여",
         "cd": 20000,
         "strengthen_desc": "",
-        "simpleDesc": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material> 상태일 경우:\n바람 속성 피해를 주고, 자신이 <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material> 상태로 전환된다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material>로 전환되면 <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>[범]</material> 포인트를 초기화하고, 자신의 필살기 쿨타임도 초기화하며 연계 필살기가 해제된다.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material>:\n바람 속성 피해를 주고, 자신이 <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material> 상태로 전환된다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material>으로 전환되면 <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>[범]</material> 포인트 및 회피 효과 쿨타임을 초기화하며, 자신과 미리 조합된 연계 필살기의 모디파이어 필살기 수치 및 필살기의 쿨타임을 초기화하고, 연계 필살기가 해제된다.\n\n아스테리즘 신계 모디파이어 공격 명중 후, 출전 시 팀 내 아스테리즘 신계 모디파이어 수량에 따른 필살기 수치를 획득한다.",
+        "simpleDesc": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material> 상태일 경우:\n바람 속성 피해를 주고, 자신이 <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material> 상태로 전환된다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]</material>로 전환되면 <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>[범]</material> 포인트를 초기화하고, 자신의 필살기 쿨타임도 초기화하며 연계 필살기가 해제된다.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>[파멸]\\</material>:\n바람 속성 피해를 주고, 자신이 <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material> 상태로 전환된다.\n<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>[창생]</material>으로 전환되면 <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>[범]</material> 포인트 및 회피 효과 쿨타임을 초기화하며, 자신과 미리 조합된 연계 필살기의 모디파이어 필살기 수치 및 필살기의 쿨타임을 초기화하고, 연계 필살기가 해제된다.\n\n아스테리즘 신계 모디파이어 공격 명중 후, 출전 시 팀 내 아스테리즘 신계 모디파이어 수량에 따른 필살기 수치를 획득한다.",
         "MaxUseCount": 0,
         "abilities": "",
         "id": 1020209,
@@ -8225,7 +8225,7 @@
         "name": "겁말의 시간",
         "cd": 20000,
         "strengthen_desc": "",
-        "simpleDesc": "번개 속성 피해를 준다. 명중 시 적군에게 번개 속성 저항 감소를 부여한다.\n자신 또는 팀원이 1인 필살기 시전 시 크리티컬 피해가 증가한다.\n\n자신 또는 팀원 극한회피 시 필살기 수치를 획득한다.",
+        "simpleDesc": "번개 속성 피해를 준다. 명중 시 적군에게 번개 속성 저항 감소를 부여한다.\n자신 또는 아군이 1인 필살기 시전 시 크리티컬 피해가 증가한다.\n\n자신 또는 아군이 극한회피 시 필살기 수치를 획득한다.",
         "MaxUseCount": 0,
         "id": 1156209,
         "EnergyChange": 0,
@@ -9815,7 +9815,7 @@
     },
     "1045208": {
         "element_type": "",
-        "name": "Translating:【skill$1045208$name$0】",
+        "name": "762e896c2877d519f129f625b800bfca",
         "cd": 0,
         "strengthen_desc": "",
         "simpleDesc": "",
@@ -9829,7 +9829,7 @@
     },
     "1089281": {
         "element_type": "",
-        "name": "Translating:【skill$1089281$name$0】",
+        "name": "52c2d9931ff3be4da61b6044c2aa809a",
         "cd": 0,
         "strengthen_desc": "",
         "simpleDesc": "",

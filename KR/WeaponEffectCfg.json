@@ -2735,7 +2735,7 @@
         ],
         "simple_strength_description": [
             107241,
-            "Translating:【weapon_effect$107201$simple_strength_description$2】"
+            "0667b4fddf8d20e52d8fb230caba071d"
         ]
     },
     "107401": {
@@ -3543,7 +3543,7 @@
         "simple_strength_description": []
     },
     "115601": {
-        "simple_description": "절멸·칼리 장착 시 효과는 다음과 같다.\n출전 시 전체 아군에게 각자의 최대 HP만큼의 방패 수치를 가진 방패를 부여한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115601)>[빛나는 번개]</material></color>를 발동할 때마다 전체 아군의 공격력이 증가한다.\n자신 또는 팀원이 1인 필살기 시전 시 크리티컬 피해가 증가한다.\n일반공격 또는 스킬이 명중 시마다 각기 다른 포인트의 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color>을 획득한다. 스킬 시전 후 각기 다른 포인트의 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color>을 소모해 스킬 쿨타임을 초기화한다.",
+        "simple_description": "절멸·칼리 장착 시 효과는 다음과 같다.\n출전 시 전체 아군에게 각자의 최대 HP만큼의 방패 수치를 가진 방패를 부여한다.\n<color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115601)>[빛나는 번개]</material></color>를 발동할 때마다 전체 아군의 공격력이 증가한다.\n자신 또는 아군이 1인 필살기 시전 시 크리티컬 피해가 증가한다.\n일반공격 또는 스킬이 명중 시마다 다른 포인트의 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color>을 획득한다. 스킬 시전 후 다른 포인트의 <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115603)>[번쩍이는 천둥]</material></color>을 소모해 스킬 쿨타임을 초기화한다.",
         "id": 115601,
         "description": [
             500115601
@@ -3634,7 +3634,7 @@
         "simple_strength_description": []
     },
     "104501": {
-        "simple_description": "\t",
+        "simple_description": "7157a2bd4f3a350ff0f9c550087e2e53",
         "id": 104501,
         "description": [
             500104501
@@ -3693,7 +3693,7 @@
         "simple_strength_description": []
     },
     "104601": {
-        "simple_description": "\t",
+        "simple_description": "0174cb3c652116e348f6caccea709431",
         "id": 104601,
         "description": [
             500104601
