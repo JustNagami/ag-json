@@ -1407,6 +1407,28 @@
         "id": 2125,
         "information2": "While they originally slithered over the surface of Shashvat's Source Layer, after being tamed by Cognizant Visbanes, they have become the vanguard force of the Cognizant Visbanes' invasion of the Surface Layer and their mission to spread Bane Energy."
     },
+    "2129": {
+        "skill3": "",
+        "skill2": "Swift Retreat",
+        "information3": "This Aragami typically feeds on the remains of its own kind. They infest Alisa's world in ever-growing numbers.",
+        "type": 0,
+        "model_name": "2129_tpose",
+        "skill_desc6": "",
+        "desc": "A mysterious creature known as an Aragami. It has a giant tail that looks like the face of an ogre.",
+        "race": 10,
+        "skill_desc2": "Ogretail leaps backwards quickly to pull away from the enemy.",
+        "skill4": "",
+        "skill_desc5": "",
+        "skill_desc3": "",
+        "skill5": "",
+        "information1": "Born through the predation, aggregation, and differentiation of countless Oracle Cells. Since these cells exhibit independent vital functions, this type of organism can be regarded as a collection of a large number of organisms.",
+        "skill_desc1": "Ogretail gathers its strength briefly before pouncing forward quickly and biting the enemy with its sharp teeth.",
+        "skill_desc4": "",
+        "skill6": "",
+        "skill1": "Predatory Rush",
+        "id": 2129,
+        "information2": "Conventional weapons are essentially useless against the Aragami, and not even Divine Grace weapons are much better. Fortunately, with the help of the God Eaters, Aether Gazer and CORG manage to find a way to deal with the Aragami."
+    },
     "3004": {
         "skill3": "Spirit Blade - Gale",
         "skill2": "Spirit Blade - Shattered Moon",
@@ -2199,6 +2221,28 @@
         "id": 3049,
         "information2": "This new product was designed and produced by the Infinite Power Group to capture the high-end security market in Shashvat, but before it could be officially released, a test machine made an untimely appearance in the slums of Gharpur."
     },
+    "3050": {
+        "skill3": "",
+        "skill2": "Violent Quake",
+        "information3": "Kongous are characterized by their agile movements and brute-force attacks, and can fire vacuum waves from the pipe-shaped organs on their backs.",
+        "type": 1,
+        "model_name": "3050_tpose",
+        "skill_desc6": "",
+        "desc": "One of the mysterious creatures called Aragami, Kongous have a body like a sturdy ape.",
+        "race": 10,
+        "skill_desc2": "Kongou gathers its strength and smashes the ground violently, dealing DMG to surrounding enemies.",
+        "skill4": "",
+        "skill_desc5": "",
+        "skill_desc3": "",
+        "skill5": "",
+        "information1": "Aragami are formed by the predation, clustering, and evolution of Oracle Cells. As Oracle Cells are capable of independent activity, an Aragami can be viewed as a collective entity of countless lifeforms.",
+        "skill_desc1": "Kongou jumps up slightly and coils its body before rolling forward quickly, slamming heavily into enemies in its way.",
+        "skill_desc4": "",
+        "skill6": "",
+        "skill1": "Rolling Impact",
+        "id": 3050,
+        "information2": "Conventional weapons are virtually ineffective against Aragami. Even Divine Grace weapons have limited impact. However, with the help of the God Eaters, Aether Gazer and CORG have developed methods to combat them."
+    },
     "3044": {
         "skill3": "Deer God's Fury ",
         "skill2": "Bane Fire ",
@@ -2815,14 +2859,39 @@
         "id": 4043,
         "information2": "From a nameless street urchin to the most elite of the Group's armed force, his legendary journey obscures what is also a tragic fate. His prosthetic modifications have brought great power, but his mind and beliefs have also been distorted beyond recognition, as he no longer belongs to himself."
     },
+    "4045": {
+        "skill3": "Thunderbolt",
+        "skill2": "Air Cutter",
+        "information3": "With powerful lightning strikes and high defense capabilities, the Dyaus Pita dominates the battlefield like a true emperor.",
+        "type": 2,
+        "model_name": "4045_tpose",
+        "skill_desc6": "",
+        "desc": "One of the mysterious creatures called Aragami, the Dyaus Pita has a pitch-black body and a sinister human-like face.",
+        "race": 10,
+        "skill_desc2": "Heavenly Father spins its huge body to lacerate the enemy with its sharp wing-like limbs.",
+        "skill4": "",
+        "skill_desc5": "",
+        "skill_desc3": "Heavenly Father gathers destructive power, forming several purple energy spheres that are launched in all directions, dealing DMG to enemies.",
+        "skill5": "",
+        "information1": "Aragami are formed by the predation, clustering, and evolution of Oracle Cells. As Oracle Cells are capable of independent activity, an Aragami can be viewed as a collective entity of countless lifeforms.",
+        "skill_desc1": "Heavenly Father unfolds its wing-like limbs and releases destructive energy, becoming more ferocious and dangerous.",
+        "skill_desc4": "",
+        "skill6": "",
+        "skill1": "Unleashed Wings",
+        "id": 4045,
+        "information2": "Conventional weapons are virtually ineffective against Aragami. Even Divine Grace weapons have limited impact. However, with the help of the God Eaters, Aether Gazer and CORG have developed methods to combat them."
+    },
     "get_id_list_by_race": {
         "10": [
             2114,
             2123,
+            2129,
             3047,
             3048,
+            3050,
             4041,
-            4042
+            4042,
+            4045
         ],
         "6": [
             2020,
@@ -3018,6 +3087,7 @@
         2123,
         2124,
         2125,
+        2129,
         3004,
         3005,
         3006,
@@ -3054,6 +3124,7 @@
         3047,
         3048,
         3049,
+        3050,
         3044,
         4010,
         4012,
@@ -3081,6 +3152,7 @@
         4040,
         4041,
         4042,
-        4043
+        4043,
+        4045
     ]
 }

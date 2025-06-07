@@ -971,7 +971,7 @@
         "progress_show": 0,
         "type": 1015,
         "id": 5104501,
-        "desc": "Translating:【condition$5104501$desc$0】",
+        "desc": "Scarlet Echo - Alisa reaches Lv. 70",
         "params": [
             1045,
             70
@@ -981,7 +981,7 @@
         "progress_show": 0,
         "type": 1015,
         "id": 5104601,
-        "desc": "Translating:【condition$5104601$desc$0】",
+        "desc": "Blood Bullet - Ciel reaches Lv. 70",
         "params": [
             1046,
             70
@@ -1806,7 +1806,7 @@
         "progress_show": 0,
         "type": 1017,
         "id": 101730,
-        "desc": "Translating:【condition$101730$desc$0】",
+        "desc": "Have Shimmering Snow and Midnight Monologues",
         "params": [
             104601,
             6036
@@ -1816,7 +1816,7 @@
         "progress_show": 0,
         "type": 1017,
         "id": 101731,
-        "desc": "Translating:【condition$101731$desc$0】",
+        "desc": "Have Rosy Passion and New Journey",
         "params": [
             104501,
             6037
@@ -4528,7 +4528,7 @@
         "progress_show": 1,
         "type": 11006,
         "id": 110061,
-        "desc": "Translating:【condition$110061$desc$0】",
+        "desc": "Complete a stage on Normal or higher difficulty",
         "params": [
             1
         ]
@@ -4537,7 +4537,7 @@
         "progress_show": 1,
         "type": 11006,
         "id": 110062,
-        "desc": "Translating:【condition$110062$desc$0】",
+        "desc": "Complete a stage on Challenging difficulty",
         "params": [
             2
         ]
@@ -4546,7 +4546,7 @@
         "progress_show": 1,
         "type": 11007,
         "id": 110071,
-        "desc": "Translating:【condition$110071$desc$0】",
+        "desc": "Play a stage on Challenging difficulty",
         "params": [
             2
         ]
@@ -5782,29 +5782,11 @@
             2
         ]
     },
-    "1210101": {
-        "progress_show": 0,
-        "type": 12101,
-        "id": 1210101,
-        "desc": "Translating:【condition$1210101$desc$0】",
-        "params": [
-            30
-        ]
-    },
-    "1210102": {
-        "progress_show": 0,
-        "type": 12101,
-        "id": 1210102,
-        "desc": "Translating:【condition$1210102$desc$0】",
-        "params": [
-            50
-        ]
-    },
     "1210201": {
         "progress_show": 0,
         "type": 12102,
         "id": 1210201,
-        "desc": "Translating:【condition$1210201$desc$0】",
+        "desc": "Joint HQ reaches Lv. 1",
         "params": [
             1
         ]
@@ -5813,7 +5795,7 @@
         "progress_show": 0,
         "type": 12102,
         "id": 1210202,
-        "desc": "Translating:【condition$1210202$desc$0】",
+        "desc": "Joint HQ reaches Lv. 2",
         "params": [
             2
         ]
@@ -5822,9 +5804,27 @@
         "progress_show": 0,
         "type": 12102,
         "id": 1210203,
-        "desc": "Translating:【condition$1210203$desc$0】",
+        "desc": "Joint HQ reaches Lv. 3",
         "params": [
             3
+        ]
+    },
+    "1210301": {
+        "progress_show": 0,
+        "type": 12103,
+        "id": 1210301,
+        "desc": "Defeat T1 Heavenly Father",
+        "params": [
+            1
+        ]
+    },
+    "1210302": {
+        "progress_show": 0,
+        "type": 12103,
+        "id": 1210302,
+        "desc": "Defeat T2 Heavenly Father",
+        "params": [
+            2
         ]
     },
     "all": [
@@ -6434,10 +6434,10 @@
         1200205,
         1200206,
         1200207,
-        1210101,
-        1210102,
         1210201,
         1210202,
-        1210203
+        1210203,
+        1210301,
+        1210302
     ]
 }

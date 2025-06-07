@@ -1,7 +1,7 @@
 {
     "5250211": {
         "monster_level": 80,
-        "name": "Translating:【battle_god_eater_daily_monster$5250211$name$0】",
+        "name": "T1 Boss",
         "ai_level": 4,
         "type": 83,
         "map": "5250201",
@@ -14,9 +14,9 @@
         "id": 5250211,
         "need_default_team": 0,
         "attribute_factor": [
+            800,
             1000,
-            1000,
-            1000
+            20000
         ],
         "team_type": [
             221,
@@ -25,7 +25,7 @@
     },
     "5250212": {
         "monster_level": 80,
-        "name": "Translating:【battle_god_eater_daily_monster$5250212$name$0】",
+        "name": "T2 Boss",
         "ai_level": 4,
         "type": 83,
         "map": "5250201",
@@ -38,9 +38,9 @@
         "id": 5250212,
         "need_default_team": 0,
         "attribute_factor": [
+            800,
             1000,
-            1000,
-            2000
+            30000
         ],
         "team_type": [
             221,
@@ -49,7 +49,7 @@
     },
     "5250213": {
         "monster_level": 80,
-        "name": "Translating:【battle_god_eater_daily_monster$5250213$name$0】",
+        "name": "T3 Boss",
         "ai_level": 4,
         "type": 83,
         "map": "5250201",
@@ -62,9 +62,9 @@
         "id": 5250213,
         "need_default_team": 0,
         "attribute_factor": [
+            800,
             1000,
-            1000,
-            3000
+            40000
         ],
         "team_type": [
             221,
@@ -73,12 +73,12 @@
     },
     "5250202": {
         "monster_level": 80,
-        "name": "Translating:【battle_god_eater_daily_monster$5250202$name$0】",
+        "name": "Unexpected Commotion",
         "ai_level": 4,
         "type": 83,
         "map": "5250202",
         "background_1": "I18",
-        "tips": "Translating:【battle_god_eater_daily_monster$5250202$tips$0】",
+        "tips": "A mysterious power has suddenly appeared in the eastern wasteland.",
         "hero_list": "",
         "can_switch_restrict_hero_list": "",
         "sub_type": 2,
@@ -86,9 +86,9 @@
         "id": 5250202,
         "need_default_team": 0,
         "attribute_factor": [
+            500,
             1000,
-            1000,
-            1000
+            10000
         ],
         "team_type": [
             221,
@@ -97,12 +97,12 @@
     },
     "5250203": {
         "monster_level": 80,
-        "name": "Translating:【battle_god_eater_daily_monster$5250203$name$0】",
+        "name": "Aragami",
         "ai_level": 4,
         "type": 83,
         "map": "5250203",
         "background_1": "I18a",
-        "tips": "Translating:【battle_god_eater_daily_monster$5250203$tips$0】",
+        "tips": "An enemy who is called a god.",
         "hero_list": "",
         "can_switch_restrict_hero_list": "",
         "sub_type": 2,
@@ -110,9 +110,9 @@
         "id": 5250203,
         "need_default_team": 0,
         "attribute_factor": [
+            500,
             1000,
-            1000,
-            1000
+            3200
         ],
         "team_type": [
             221,
@@ -121,12 +121,12 @@
     },
     "5250204": {
         "monster_level": 80,
-        "name": "Translating:【battle_god_eater_daily_monster$5250204$name$0】",
+        "name": "Ruins and Anger",
         "ai_level": 4,
         "type": 83,
         "map": "5250204",
         "background_1": "I18b",
-        "tips": "Translating:【battle_god_eater_daily_monster$5250204$tips$0】",
+        "tips": "Screams, wails, desperate prayers—these were sounds no one should ever have to hear in their lifetime.",
         "hero_list": "",
         "can_switch_restrict_hero_list": "",
         "sub_type": 2,
@@ -134,9 +134,9 @@
         "id": 5250204,
         "need_default_team": 0,
         "attribute_factor": [
+            500,
             1000,
-            1000,
-            1000
+            3200
         ],
         "team_type": [
             221,
@@ -145,12 +145,12 @@
     },
     "5250205": {
         "monster_level": 80,
-        "name": "Translating:【battle_god_eater_daily_monster$5250205$name$0】",
+        "name": "An Eye for an Eye",
         "ai_level": 4,
         "type": 83,
         "map": "5250205",
         "background_1": "I18c",
-        "tips": "Translating:【battle_god_eater_daily_monster$5250205$tips$0】",
+        "tips": "We fight to protect until the very end.",
         "hero_list": "",
         "can_switch_restrict_hero_list": "",
         "sub_type": 2,
@@ -158,9 +158,9 @@
         "id": 5250205,
         "need_default_team": 0,
         "attribute_factor": [
+            500,
             1000,
-            1000,
-            1000
+            3200
         ],
         "team_type": [
             221,
@@ -169,12 +169,12 @@
     },
     "5250206": {
         "monster_level": 80,
-        "name": "Translating:【battle_god_eater_daily_monster$5250206$name$0】",
+        "name": "The End of Everything",
         "ai_level": 4,
         "type": 83,
         "map": "5250206",
         "background_1": "I18d",
-        "tips": "Translating:【battle_god_eater_daily_monster$5250206$tips$0】",
+        "tips": "No matter what's waiting for us, we'll continue to fight with positive expectations for the future.",
         "hero_list": "",
         "can_switch_restrict_hero_list": "",
         "sub_type": 3,

@@ -4734,7 +4734,7 @@
         ]
     },
     "101045101": {
-        "description": "Translating:【description$101045101$description$0】",
+        "description": "Perform four consecutive attacks on the ground, dealing a total of <color=#E78300>{1}</color> fire DMG with ATK. When continuing to cast the fifth Normal Attack, leap into the air, gaining a stagger effect while airborne. Execute the fifth and sixth Normal Attacks, dealing a total of <color=#E78300>{2}</color> fire DMG with ATK. When the fifth Normal Attack hits, the Divine Grace gain rate increases by <color=#E78300>25%</color> for <color=#E78300>{3}</color> seconds. \n In \"Gun Mode,\" tap or hold Normal Attack to attack, dealing <color=#E78300>{4}</color> fire DMG with ATK each time. \n\n <color=#297DE0>Divine Grace:</color> In \"Slash Mode,\" hitting with Normal Attack will grant Divine Grace.",
         "maxLv": 60,
         "type": 1,
         "id": 101045101,
@@ -4759,93 +4759,87 @@
                 ""
             ],
             [
-                400,
-                10.253,
+                7.667,
+                0.205,
                 true,
                 "%"
             ]
         ]
     },
     "101045201": {
-        "description": "Translating:【description$101045201$description$0】",
+        "description": "While on the ground, deal a total of <color=#E78300>{1}</color> fire DMG with ATK, and after casting, connect to a Normal Attack starting from the fourth hit. \n Each time in the air, you can cast <color=#E78300>1</color> time, dealing a total of <color=#E78300>{2}</color> fire DMG with ATK. If you hit while having the effect that increases Divine Grace gain rate from Normal Attacks, the Divine Grace gain rate is additionally increased by <color=#E78300>50%</color> and the duration is refreshed, automatically connecting to the sixth hit of the Normal Attack after casting. \n \"Explosive Eruption\": Consume <color=#E78300>25</color> Divine Grace to fire <color=#E78300>3</color> bullets, each dealing <color=#E78300>{3}</color> fire DMG with ATK.",
         "maxLv": 60,
         "type": 1,
         "id": 101045201,
         "extra_param": "",
         "param": [
             [
-                500,
-                12.82,
+                220,
+                5.64,
                 true,
                 "%"
             ],
             [
-                500,
-                12.816,
+                850,
+                21.79,
                 true,
                 "%"
             ],
             [
-                900,
-                23.076,
+                30,
+                0.769,
                 true,
                 "%"
             ]
         ]
     },
     "101045202": {
-        "description": "Translating:【description$101045202$description$0】",
+        "description": "When on the ground, God Arc switches to Predator Form and deals fire DMG equal to <color=#E78300>{1}</color> ATK, and upon a successful predation gains <color=#E78300>20</color> points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material>.\nWhen airborne, the skill can be activated only when Divine Grace is full; consuming all Divine Grace, God Arc switches to Predator Form and deals fire DMG equal to <color=#E78300>{2}</color> ATK, and upon a successful predation gains <color=#E78300>60</color> points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material>.\nCan be chained during a dodge, with God Arc switching to Predator Form to deal fire DMG equal to <color=#E78300>{3}</color> ATK; depending on the impact distance, a successful predation gains up to <color=#E78300>90</color> points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material>.\n<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> cap is <color=#E78300>100</color> points; each time the <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> fills, <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> increases by <color=#E78300>1</color> level, and each level in <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> boosts ATK by <color=#E78300>7%</color>.\n\nWhen God Arc in Predator Form hits special enemies, it grants different bullets; when entering \"Gun Mode\", this skill is replaced with \"Aragami Bullets,\" dealing different DMG:\nOgretail: Deals physical DMG equal to <color=#E78300>{4}</color> ATK;\nKongou: Deals wind DMG equal to <color=#E78300>{5}</color> ATK;\nDyaus Pita: Deals a total of <color=#E78300>{6}</color> ATK as lightning DMG.",
         "maxLv": 60,
         "type": 1,
         "id": 101045202,
         "extra_param": "",
         "param": [
             [
-                400,
-                10.256,
-                true,
-                "%"
-            ],
-            [
-                400,
-                10.256,
-                true,
-                "%"
-            ],
-            [
-                400,
-                10.256,
-                true,
-                "%"
-            ],
-            [
-                10,
-                0,
-                false,
-                ""
-            ],
-            [
-                500,
-                12.82,
-                true,
-                "%"
-            ],
-            [
-                900,
-                23.076,
-                true,
-                "%"
-            ],
-            [
                 100,
-                2.559,
+                2.564,
+                true,
+                "%"
+            ],
+            [
+                300,
+                7.692,
+                true,
+                "%"
+            ],
+            [
+                150,
+                3.846,
+                true,
+                "%"
+            ],
+            [
+                200,
+                5.128,
+                true,
+                "%"
+            ],
+            [
+                300,
+                7.692,
+                true,
+                "%"
+            ],
+            [
+                400,
+                10.246,
                 true,
                 "%"
             ]
         ]
     },
     "101045203": {
-        "description": "Translating:【description$101045203$description$0】",
+        "description": "The grounded opening move <material=underline c=#FFFFFF h=2 event=terminology args=(104504)>\"Zero Stance\"</material> interrupts ground-based Normal Attack, Skills, and Dodge actions, and does not break the first three-hit combo of Normal Attack.\n<material=underline c=#FFFFFF h=2 event=terminology args=(104504)>\"Zero Stance\"</material> performs a defensive move; upon a successful block, gain <color=#E78300>25</color> points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material>. This effect can trigger at most once every <color=#E78300>0.5</color> seconds, granting invincibility for <color=#E78300>{1}</color> seconds; defending removes any invincibility gained through this skill and non-move Dodge.\nFor a brief period after casting <material=underline c=#FFFFFF h=2 event=terminology args=(104504)>\"Zero Stance\"</material>, \"Reaper's Strike\" is replaced by <material=underline c=#FFFFFF h=2 event=terminology args=(104504)>\"IE Blade Cannon Explosion\"</material>, and \"Self-Devouring Fury\" is replaced by <material=underline c=#FFFFFF h=2 event=terminology args=(104504)>\"IE Purgatory Flames\"</material>; <material=underline c=#FFFFFF h=2 event=terminology args=(104504)>\"Zero Stance\"</material> can chain into casting <material=underline c=#FFFFFF h=2 event=terminology args=(104504)>\"IE Blade Cannon Explosion\"</material>, and <material=underline c=#FFFFFF h=2 event=terminology args=(104504)>\"Zero Stance\"</material> or <material=underline c=#FFFFFF h=2 event=terminology args=(104504)>\"IE Blade Cannon Explosion\"</material> can chain into casting <material=underline c=#FFFFFF h=2 event=terminology args=(104504)>\"IE Purgatory Flames\"</material>.\n\"IE Blade Cannon Explosion\": Deals fire DMG totaling <color=#E78300>{2}</color> of ATK; when cast, skill DMG is increased by <color=#E78300>{3}</color> for <color=#E78300>{4}</color> seconds.\n\"IE Purgatory Flames\": Consumes all Divine Grace and deals fire DMG equal to <color=#E78300>{5}</color> of ATK; upon casting, gain the <material=underline c=#FFFFFF h=2 event=terminology args=(104503)>\"God Arc Controlled\"</material> state, lasting up to <color=#E78300>12</color> seconds. For every <color=#E78300>40</color> points of Divine Grace consumed, Crit DMG increases by <color=#E78300>7%</color> for <color=#E78300>{6}</color> seconds, and this bonus further rises by an additional <color=#E78300>7%</color> per level of <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material>.\n\"God Arc Controlled\": Based on the level of <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> when this state is gained, if <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> is below <color=#E78300>3</color>, gain <color=#E78300>0.8</color> points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> every <color=#E78300>0.12</color> seconds; if <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> is at <color=#E78300>3</color>, consume <color=#E78300>1.3</color> points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> every <color=#E78300>0.12</color> seconds; exiting this state occurs when <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> changes level.",
         "maxLv": 60,
         "type": 1,
         "id": 101045203,
@@ -4858,8 +4852,26 @@
                 ""
             ],
             [
-                600,
-                15.38,
+                150,
+                3.84,
+                true,
+                "%"
+            ],
+            [
+                12,
+                0,
+                false,
+                "%"
+            ],
+            [
+                10,
+                0,
+                false,
+                ""
+            ],
+            [
+                120,
+                3.076,
                 true,
                 "%"
             ],
@@ -4867,24 +4879,12 @@
                 10,
                 0,
                 false,
-                "%"
-            ],
-            [
-                15,
-                0,
-                false,
                 ""
-            ],
-            [
-                100,
-                2.564,
-                true,
-                "%"
             ]
         ]
     },
     "101045208": {
-        "description": "Translating:【description$101045208$description$0】",
+        "description": "Blood Bullet - Ciel and Scarlet Echo - Alisa's Ultimate Skillchain.\nBlood Bullet - Ciel deals <color=#E78300>{1}+{2}</color>×<color=#297DE0>own Ultimate Skill level</color> Ice DMG; when cast, the entire team's Mechanic's Base DMG increases by <color=#E78300>{5}</color> for <color=#E78300>{6}</color> seconds. If the user is the leader, they gain an ATK increase of <color=#E78300>{7}</color> for <color=#E78300>{8}</color> seconds.\nScarlet Echo - Alisa deals <color=#E78300>{3}+{4}</color>×<color=#297DE0>own Ultimate Skill level</color> Fire DMG; when cast, the entire team's Mechanic's Crit Rate increases by <color=#E78300>{9}</color> and Crit DMG increases by <color=#E78300>{10}</color> for <color=#E78300>{11}</color> seconds. If the user is the leader, they gain a DMG increase of <color=#E78300>{12}</color> for <color=#E78300>{13}</color> seconds.",
         "maxLv": 60,
         "type": 1,
         "id": 101045208,
@@ -4913,11 +4913,65 @@
                 0,
                 false,
                 "%"
+            ],
+            [
+                30,
+                0,
+                false,
+                "%"
+            ],
+            [
+                20,
+                0,
+                false,
+                ""
+            ],
+            [
+                80,
+                0,
+                false,
+                "%"
+            ],
+            [
+                20,
+                0,
+                false,
+                ""
+            ],
+            [
+                10,
+                0,
+                false,
+                "%"
+            ],
+            [
+                20,
+                0,
+                false,
+                "%"
+            ],
+            [
+                20,
+                0,
+                false,
+                ""
+            ],
+            [
+                120,
+                0,
+                false,
+                "%"
+            ],
+            [
+                20,
+                0,
+                false,
+                ""
             ]
         ]
     },
     "101045209": {
-        "description": "Translating:【description$101045209$description$0】",
+        "description": "Deals Fire DMG equal to <color=#E78300>{1}</color> ATK; on cast, own Fire DMG increases by <color=#E78300>{2}</color> for <color=#E78300>{3}</color> sec; if in \"Gun Mode\", exit \"Gun Mode\".\n\nAutomatically gains <color=#E78300>2%</color> Ultimate Skill charge per second. When self or a teammate triggers Zero Time and when self gains \"Liberation Index\", gain <color=#E78300>10%</color> Ultimate Skill charge; this effect can trigger at most once every <color=#E78300>2</color> sec.",
         "maxLv": 60,
         "type": 1,
         "id": 101045209,
@@ -4944,7 +4998,7 @@
         ]
     },
     "101045305": {
-        "description": "Translating:【description$101045305$description$0】",
+        "description": "In \"Slash Mode\", executing a non-movement Dodge triggers Block; upon a successful block, gain <color=#E78300>25</color> points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material>, and this effect can trigger at most once every <color=#E78300>0.5</color> seconds, granting Invincible for <color=#E78300>{1}</color> seconds; defending removes the Invincible effect earned from the non-movement Dodge and <material=underline c=#FFFFFF h=2 event=terminology args=(104504)>\"Zero Stance\"</material>.\nIn \"Slash Mode\", long-pressing Movement Dodge enters \"Gun Mode\": gain Unyielding, Normal Attack changes its attack pattern, \"Fatal Slash Assault\" is replaced with \"Explosive Eruption\", and \"Star Pulse\" is replaced with \"Slash Mode\", allowing you to exit Gun Mode via the replacement skill.\nMovement Dodge in \"Slash Mode\" and Dodge in \"Gun Mode\" let you evade enemy attacks; Extremity Dodge triggers the dodge effect.\nDodge effect: Enter Zero Time to greatly Slow all enemy actions for <color=#E78300>3</color> seconds; the dodge effect can trigger at most once every <color=#E78300>{2}</color> seconds.",
         "maxLv": 60,
         "type": 1,
         "id": 101045305,
@@ -4965,7 +5019,7 @@
         ]
     },
     "101046101": {
-        "description": "Translating:【description$101046101$description$0】",
+        "description": "Deals a total of <color=#E78300>{1}</color> ATK Ice DMG.\nAfter dealing Crit <color=#E78300>100</color> times, gain <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(104603)>“Blood Point”</material> Mark, with a maximum of <color=#E78300>2</color> <material=underline c=#FFFFFF h=2 event=terminology args=(104603)>“Blood Point”</material> Marks.\nWhile on the ground, holding down during a Normal Attack consumes <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(104603)>“Blood Point”</material> Mark to unleash the enhanced Normal Attack \"Blood Rage Devour\".\n\"Blood Rage Devour\": Continuously deals DMG to yourself and enemies, dealing <color=#E78300>{2}</color> ATK Ice DMG to enemies, inflicting <color=#E78300>4%</color> of Max HP DMG to yourself. After each hit, the DMG dealt to yourself increases by <color=#E78300>0.3%</color> of Max HP, while DMG to enemies increases by <color=#E78300>3%</color>. The final hit will create an explosive attack, dealing <color=#E78300>{3}</color> ATK Ice DMG. When the explosive attack hits, for every <color=#E78300>1%</color> of lost HP, the DMG of the explosive attack increases by <color=#E78300>0.3%</color>, and restores <color=#E78300>0.2%</color> HP upon hit; this attack does not interrupt the combo of Normal Attacks.\n\nIn \"Gun Mode\", Normal Attacks deal <color=#E78300>{4}</color> ATK Ice DMG.\n\nWhile in the air, deals a total of <color=#E78300>{5}</color> ATK Ice DMG, then automatically transitions into the falling attack of \"Blood's Swift Strike\".\n\n<color=#297DE0>Divine Grace:</color> When not in \"Gun Mode\", Normal Attacks on the ground will gain Divine Grace upon hitting.",
         "maxLv": 60,
         "type": 1,
         "id": 101046101,
@@ -4978,42 +5032,60 @@
                 "%"
             ],
             [
-                800,
-                20.502,
+                40,
+                1.025,
                 true,
                 "%"
             ],
             [
-                35,
-                0.72,
+                160,
+                4.1,
+                true,
+                "%"
+            ],
+            [
+                100,
+                2.564,
+                true,
+                "%"
+            ],
+            [
+                72,
+                1.441,
                 true,
                 "%"
             ]
         ]
     },
     "101046201": {
-        "description": "Translating:【description$101046201$description$0】",
+        "description": "While on the ground, deal <color=#E78300>{1}</color> ATK Ice DMG, leap into the air when attacking, and automatically connect to a falling attack, dealing a total of <color=#E78300>{2}</color> ATK Ice DMG, gaining Unyielding effect while in the air; while airborne, tap to cast early to immediately connect to a falling attack.\n \"Spiral Throw\": Consume <color=#E78300>25</color> Divine Grace to deal a total of <color=#E78300>{3}</color> ATK Ice DMG.",
         "maxLv": 60,
         "type": 1,
         "id": 101046201,
         "extra_param": "",
         "param": [
             [
-                200,
-                5.128,
+                400,
+                10.256,
                 true,
                 "%"
             ],
             [
-                150,
-                3.846,
+                400,
+                10.256,
+                true,
+                "%"
+            ],
+            [
+                300,
+                7.692,
                 true,
                 "%"
             ]
         ]
     },
     "101046202": {
-        "description": "Translating:【description$101046202$description$0】",
+        "description": "When entering the field, if the Crit Rate increases to no less than <color=#E78300>40%</color>, the Crit Rate will drop to <color=#E78300>40%</color>. For every 1% decrease in Crit Rate, the gain rate of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>“Liberation Index”</material> increases by <color=#E78300>1%</color>, with a maximum increase of <color=#E78300>25%</color> provided by this effect.\nConsume all Divine Grace to enter a charging state, gaining <color=#E78300>1</color> point of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>“Liberation Index”</material> for every <color=#E78300>1</color> point consumed; reaching the maximum charging time will trigger a predatory attack. During charging, you can tap again to immediately perform a predatory attack, dealing <color=#E78300>{1}</color> ATK of Ice DMG. Depending on the charging time, you can gain up to an additional <color=#E78300>100</color> points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>“Liberation Index”</material> upon hitting; during casting, you gain a stiffening effect, reducing DMG taken by <color=#E78300>{2}</color>.\nThe maximum <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>“Liberation Index”</material> is <color=#E78300>100</color> points. Each time the <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>“Liberation Index”</material> is full, the <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>“Liberation Stage”</material> increases by <color=#E78300>1</color> level. Based on the level of <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>“Liberation Stage”</material>, when your <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>“Liberation Stage”</material> is at levels <color=#E78300>1, 2, 3</color>, your Crit Rate increases by <color=#E78300>1%, 3%, 6%</color> respectively.\nWhen the <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>“Liberation Index”</material> and <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>“Liberation Stage”</material> are full, performing a normal attack in “Gun Mode” will enter <material=underline c=#FFFFFF h=2 event=terminology args=(104604)>“Liberation State”</material>, lasting <color=#E78300>15</color> seconds.\n<material=underline c=#FFFFFF h=2 event=terminology args=(104604)>“Liberation State”</material>: Upon entering, consume <color=#E78300>20</color> points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>“Liberation Index”</material>, dealing a total of <color=#E78300>{3}</color> ATK of Ice DMG. After that, every <color=#E78300>0.1</color> seconds, consume <color=#E78300>1</color> point of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>“Liberation Index”</material>, with your effects changing to <color=#E78300>5</color> times based on the level of <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>“Liberation Stage”</material>.\n\nWhen the God Arc's predatory form hits a special enemy, different bullets will be obtained; when entering “Gun Mode”, this skill will be replaced by “Aragami Bullet”, dealing different DMG:\nOgretail: Deals <color=#E78300>{4}</color> ATK of Physical DMG;\nVajra: Deals <color=#E78300>{5}</color> ATK of Wind DMG;\nFather Deus: Deals a total of <color=#E78300>{6}</color> ATK of Thunder DMG.\n\nWhile in the air, consume <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(104603)>“Blood Point”</material> mark to strike the ground, dealing a total of <color=#E78300>{7}</color> ATK of Ice DMG.",
         "maxLv": 60,
         "type": 1,
         "id": 101046202,
@@ -5026,66 +5098,60 @@
                 "%"
             ],
             [
+                80,
+                0,
+                false,
+                "%"
+            ],
+            [
                 500,
                 12.82,
                 true,
                 "%"
             ],
             [
-                900,
-                23.075,
+                200,
+                5.128,
+                true,
+                "%"
+            ],
+            [
+                300,
+                7.692,
+                true,
+                "%"
+            ],
+            [
+                400,
+                10.248,
+                true,
+                "%"
+            ],
+            [
+                1500,
+                38.46,
                 true,
                 "%"
             ]
         ]
     },
     "101046203": {
-        "description": "Translating:【description$101046203$description$0】",
+        "description": "While on the ground, enter \"Gun Mode,\" gain a stagger effect, normal attack changes attack mode, \"Blood's Swift Strike\" is replaced by \"Spinning Throw,\" \"Blood Awakening\" is replaced by \"Aragami Bullet,\" \"Blood Bullet\" is replaced by \"Form Change,\" and you can exit \"Gun Mode\" through this replacement skill.\n\nWhile in the air, charge towards the ground, dealing a total of <color=#E78300>{1}</color> ice attribute DMG; when cast, reset the remaining cooldown of \"Blood's Swift Strike,\" this skill has a <color=#E78300>16</color> second cooldown.",
         "maxLv": 60,
         "type": 1,
         "id": 101046203,
         "extra_param": "",
         "param": [
             [
-                100,
-                2.564,
-                true,
-                "%"
-            ],
-            [
-                3000,
-                76.92,
-                true,
-                "%"
-            ],
-            [
-                500,
-                12.82,
-                true,
-                "%"
-            ],
-            [
-                900,
-                23.076,
-                true,
-                "%"
-            ],
-            [
-                900,
-                23.068,
-                true,
-                "%"
-            ],
-            [
-                760,
-                19.48,
+                2280,
+                58.452,
                 true,
                 "%"
             ]
         ]
     },
     "101046209": {
-        "description": "Translating:【description$101046209$description$0】",
+        "description": "Deals a total of <color=#E78300>{1}</color> ATK Ice DMG; increases own Ice DMG by <color=#E78300>{2}</color> for <color=#E78300>{3}</color> seconds; if in \"Gun Mode\", exit \"Gun Mode\".\n\nAutomatically gain <color=#E78300>2%</color> Ultimate Skill charge per second. When self or teammate triggers Zero Time, gain <color=#E78300>15%</color> Ultimate Skill charge, this effect can trigger once every <color=#E78300>0.5</color> seconds at most.",
         "maxLv": 60,
         "type": 1,
         "id": 101046209,
@@ -5112,7 +5178,7 @@
         ]
     },
     "101046305": {
-        "description": "Translating:【description$101046305$description$0】",
+        "description": "When not moving while dodging, defend and successfully block an attack to gain <color=#E78300>25</color> points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material>, this effect can trigger once every <color=#E78300>0.5</color> seconds.\nMoving dodge can evade enemy attacks, while extreme dodge triggers the dodge effect.\nDodge effect: Entering Zero Time significantly slows down all enemies' actions for <color=#E78300>3</color> seconds; the dodge effect can trigger once every <color=#E78300>{1}</color> seconds at most.",
         "maxLv": 60,
         "type": 1,
         "id": 101046305,
@@ -9522,7 +9588,7 @@
         ]
     },
     "101089281": {
-        "description": "Translating:【description$101089281$description$0】",
+        "description": "The Ultimate Skillchain of Living Soul - Osiris and Tempest - Parvati.\nDeals Wind DMG equal to Living Soul - Osiris' ATK × <color=#E78300>{1}+{2}</color> × <color=#297DE0>Living Soul - Osiris' Ultimate Skill Level</color> in total. The Mod enters <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld Mode</material>, increasing all teammates' DMG by <color=#E78300>20%+0.2%</color> × <color=#297DE0>the Mod's Ultimate Skill Level</color> until <material=underline c=#FFFFFF h=2 event=terminology args=(111101)>Judge of the Underworld Mode</material> ends.\nDeals Wind DMG equal to Tempest - Parvati's ATK × <color=#E78300>{3}+{4}</color> × <color=#297DE0>Flaming Wheel - Parvati's Ultimate Skill Level</color>. When cast, increases all teammates' ATK by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s. Resets the CD of the Mod's Ultimate Skill.",
         "maxLv": 60,
         "type": 1,
         "id": 101089281,
@@ -9530,32 +9596,26 @@
         "param": [
             [
                 1000,
-                0,
-                false,
+                50,
+                true,
                 "%"
             ],
             [
                 25.641,
-                0,
-                false,
+                1.282,
+                true,
                 "%"
             ],
             [
                 1400,
-                0,
-                false,
+                70,
+                true,
                 "%"
             ],
             [
                 35.897,
-                0,
-                false,
-                "%"
-            ],
-            [
-                20,
-                0,
-                false,
+                1.795,
+                true,
                 "%"
             ],
             [
@@ -11250,7 +11310,7 @@
         ]
     },
     "101132209": {
-        "description": "Recalls the longsword and switches to <material=underline c=#FFFFFF h=2 event=terminology args=(113201)>Burning Sword</material> stance. Then, coalesces the flames using Divine Power and unleashes a mighty slash attack within a large area, dealing Fire DMG equal to <color=#E78300>{1}</color> ATK in total. When a hit is landed, all teammates gain <color=#E78300>{2}</color> more Skill DMG and <color=#E78300>{3}</color> more Ultimate Skill DMG for <color=#E78300>{4}</color>s.\n\nGains a <color=#E78300>20%</color> Ultimate Skill charge when the Mod or a teammate casts the Ultimate Skill.",
+        "description": "Recalls the longsword and switches to <material=underline c=#FFFFFF h=2 event=terminology args=(113201)>Burning Sword</material> stance. Then, coalesces the flames using Divine Power and unleashes a mighty slash attack within a large area, dealing Fire DMG equal to <color=#E78300>{1}</color> ATK in total. When a hit is landed, all teammates gain <color=#E78300>{2}</color> more Skill DMG and <color=#E78300>{3}</color> more Ultimate Skill DMG for <color=#E78300>{4}</color>s.\n\n Gains a <color=#E78300>20%</color> Ultimate Skill charge when the Mod or a teammate casts the Ultimate Skill.",
         "maxLv": 60,
         "type": 1,
         "id": 101132209,
@@ -16375,22 +16435,22 @@
         ]
     },
     "110450011": {
-        "description": "Translating:【description$110450011$description$0】",
+        "description": "For each <color=#E78300>1</color> level in its <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material>, Fire DMG increases by <color=#E78300>{1}</color>.",
         "maxLv": 1,
         "type": 1,
         "id": 110450011,
         "extra_param": "",
         "param": [
             [
-                10,
-                10,
+                7,
+                7,
                 true,
                 "%"
             ]
         ]
     },
     "110450012": {
-        "description": "Translating:【description$110450012$description$0】",
+        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(104504)>\"Zero Stance\"</material>, \"Nimbleness Stance\" successfully blocks an attack, the obtained <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Eruption Index\"</material> changes to <color=#E78300>50</color> points.\n<material=underline c=#FFFFFF h=2 event=terminology args=(104503)>\"God Arc Controlled\"</material> state, the effect of gaining or consuming points is multiplied by <color=#E78300>2</color> and will not exit the state as <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> increases or decreases.",
         "maxLv": 1,
         "type": 1,
         "id": 110450012,
@@ -16398,34 +16458,41 @@
         "param": []
     },
     "110450013": {
-        "description": "Translating:【description$110450013$description$0】",
+        "description": "Based on the points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> and the Level of <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material>, the base DMG of \"Death Strike\" increases on hit, with every <color=#E78300>1</color> point in <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> boosting its base DMG by <color=#E78300>{1}</color>, and each <color=#E78300>1</color> Level of <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> counting as <color=#E78300>100</color> points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material>",
         "maxLv": 1,
         "type": 1,
         "id": 110450013,
         "extra_param": "",
-        "param": []
+        "param": [
+            [
+                0.2,
+                0.2,
+                true,
+                "%"
+            ]
+        ]
     },
     "110450021": {
-        "description": "Translating:【description$110450021$description$0】",
+        "description": "When a normal attack or skill action on the ground follows up <material=underline c=#FFFFFF h=2 event=terminology args=(104504)>Zero Stance</material>, it deals AoE DMG once, dealing Fire DMG equal to <color=#E78300>{1}</color> of ATK in total and inflicts Armor Break, reducing their DEF by <color=#E78300>{2}</color> for <color=#E78300>{3}</color>s. Stacks up to <color=#E78300>3</color> times.",
         "maxLv": 1,
         "type": 1,
         "id": 110450021,
         "extra_param": "",
         "param": [
             [
-                80,
-                2.051,
+                250,
+                6.41,
                 true,
                 "%"
             ],
             [
-                7,
-                7,
+                5,
+                5,
                 true,
                 "%"
             ],
             [
-                6,
+                10,
                 0,
                 false,
                 ""
@@ -16433,7 +16500,7 @@
         ]
     },
     "110450022": {
-        "description": "Translating:【description$110450022$description$0】",
+        "description": "When triggering Aether Code: Myriad Combat Skills - Spin Attack, reduces the duration of <material=underline c=#FFFFFF h=2 event=terminology args=(104503)>God Arc Controlled</material> by <color=#E78300>0.5</color>s.",
         "maxLv": 1,
         "type": 1,
         "id": 110450022,
@@ -16441,44 +16508,44 @@
         "param": []
     },
     "110450023": {
-        "description": "Translating:【description$110450023$description$0】",
+        "description": "When a normal attack action on the ground follows up <material=underline c=#FFFFFF h=2 event=terminology args=(104504)>Zero Stance</material>, increases Normal Attack DMG by <color=#E78300>{1}</color> and DMG by <color=#E78300>{2}</color> for <color=#E78300>{3}</color>s. Stacks up to <color=#E78300>3</color> times.\nWhen a skill action on the ground follows up <material=underline c=#FFFFFF h=2 event=terminology args=(104504)>Zero Stance</material>, increases ATK by <color=#E78300>{4}</color> and Skill DMG by <color=#E78300>{5}</color> for <color=#E78300>{6}</color>s. Stacks up to <color=#E78300>3</color> times.",
         "maxLv": 1,
         "type": 1,
         "id": 110450023,
         "extra_param": "",
         "param": [
             [
-                10,
-                10,
+                3,
+                3,
                 true,
                 "%"
             ],
             [
-                10,
-                10,
+                3,
+                3,
                 true,
                 "%"
             ],
             [
-                5,
+                7,
                 0,
                 false,
                 ""
             ],
             [
-                10,
-                10,
+                8,
+                8,
                 true,
                 "%"
             ],
             [
-                10,
-                10,
+                8,
+                8,
                 true,
                 "%"
             ],
             [
-                5,
+                7,
                 0,
                 false,
                 ""
@@ -16486,7 +16553,7 @@
         ]
     },
     "110450031": {
-        "description": "Translating:【description$110450031$description$0】",
+        "description": "Entering \"Gun Mode\" increases Normal Attack DMG by <color=#E78300>{1}</color>. Every second, this effect increases by an additional <color=#E78300>{1}</color>, up to a maximum of <color=#E78300>{2}</color>, lasting until exiting \"Gun Mode.\" \n Normal Attacks in \"Gun Mode\" gain <color=#E78300>3</color> Divine Grace with each hit.",
         "maxLv": 1,
         "type": 1,
         "id": 110450031,
@@ -16499,15 +16566,15 @@
                 "%"
             ],
             [
-                300,
-                300,
+                200,
+                200,
                 true,
                 "%"
             ]
         ]
     },
     "110450032": {
-        "description": "Translating:【description$110450032$description$0】",
+        "description": "When in \"Gun Mode\" and Divine Grace is full, using Normal Attack consumes all Divine Grace, randomly triggering \"Aragami Gun Bullet\" and granting <color=#E78300>90</color> points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material>.",
         "maxLv": 1,
         "type": 1,
         "id": 110450032,
@@ -16515,7 +16582,7 @@
         "param": []
     },
     "110450033": {
-        "description": "Translating:【description$110450033$description$0】",
+        "description": "Each time you perform a Normal Attack in \"Gun Mode\", it consumes <color=#E78300>10</color> points of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Burst Gauge\"</material> and triggers \"Explosive Eruption\", converting that trigger into <color=#E78300>5</color> bullets.",
         "maxLv": 1,
         "type": 1,
         "id": 110450033,
@@ -16523,7 +16590,7 @@
         "param": []
     },
     "110460011": {
-        "description": "Translating:【description$110460011$description$0】",
+        "description": "<material=underline c=#FFFFFF h=2 event=terminology args=(104604)>\"Liberation State\"</material> duration extended to <color=#E78300>20</color> seconds.",
         "maxLv": 1,
         "type": 1,
         "id": 110460011,
@@ -16531,7 +16598,7 @@
         "param": []
     },
     "110460012": {
-        "description": "Translating:【description$110460012$description$0】",
+        "description": "Each time you consume <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material>, the remaining cooldown time of \"Bloody Blitz\" is reduced by <color=#E78300>0.2</color> seconds.",
         "maxLv": 1,
         "type": 1,
         "id": 110460012,
@@ -16539,63 +16606,37 @@
         "param": []
     },
     "110460013": {
-        "description": "Translating:【description$110460013$description$0】",
+        "description": "Based on the level of <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material>, when your own <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> level is Lv.1, Lv.2, and Lv.3 respectively, the entire team's Divine Mechanism increases ATK by <color=#E78300>{1}, {2}, {3}</color>.\nWhen in <material=underline c=#FFFFFF h=2 event=terminology args=(104604)>\"Erupt State\"</material>, the buff effect based on the level of <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> is fixed at Lv.3.",
         "maxLv": 1,
         "type": 1,
         "id": 110460013,
         "extra_param": "",
         "param": [
             [
-                1,
-                1,
+                1.5,
+                1.5,
                 true,
                 "%"
             ],
             [
-                3,
-                3,
+                4.5,
+                4.5,
                 true,
                 "%"
             ],
             [
-                6,
-                6,
-                true,
-                "%"
-            ],
-            [
-                1,
-                1,
-                true,
-                "%"
-            ],
-            [
-                3,
-                3,
-                true,
-                "%"
-            ],
-            [
-                6,
-                6,
+                9,
+                9,
                 true,
                 "%"
             ]
         ]
     },
     "110460021": {
-        "description": "Translating:【description$110460021$description$0】",
+        "description": "Casting an attack marked with <material=underline c=#FFFFFF h=2 event=terminology args=(104603)>\"Blood Point\"</material> consumes, increases Crit DMG by <color=#E78300>10%</color>, increases Ice DMG by <color=#E78300>10%</color>, lasts for <color=#E78300>12</color> seconds, and can stack up to <color=#E78300>4</color> layers.",
         "maxLv": 1,
         "type": 1,
         "id": 110460021,
-        "extra_param": "",
-        "param": []
-    },
-    "110460022": {
-        "description": "Translating:【description$110460022$description$0】",
-        "maxLv": 1,
-        "type": 1,
-        "id": 110460022,
         "extra_param": "",
         "param": [
             [
@@ -16605,8 +16646,8 @@
                 "%"
             ],
             [
-                5,
-                5,
+                10,
+                10,
                 true,
                 "%"
             ],
@@ -16618,23 +16659,31 @@
             ]
         ]
     },
+    "110460022": {
+        "description": "When the <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> increases or decreases, the count of <material=underline c=#FFFFFF h=2 event=terminology args=(104603)>\"Blood Points\"</material> marked is counted as <color=#E78300>2</color> times.",
+        "maxLv": 1,
+        "type": 1,
+        "id": 110460022,
+        "extra_param": "",
+        "param": []
+    },
     "110460023": {
-        "description": "Translating:【description$110460023$description$0】",
+        "description": "While in <material=underline c=#FFFFFF h=2 event=terminology args=(104604)>\"Liberation State\"</material>, after the fourth hit of a Normal Attack, summon multiple \"Penetration Bulletss\" around the locked-on enemy, each dealing <color=#E78300>{1}</color> ATK Ice DMG. The number of summoned \"Penetration Bulletss\" equals the number of hits from the last \"Blood Rage Devour\" attack, and the effect of summoning \"Penetration Bulletss\" can trigger a maximum of once during each <material=underline c=#FFFFFF h=2 event=terminology args=(104604)>\"Liberation State\"</material>.",
         "maxLv": 1,
         "type": 1,
         "id": 110460023,
         "extra_param": "",
         "param": [
             [
-                120,
-                3.076,
+                300,
+                7.692,
                 true,
                 "%"
             ]
         ]
     },
     "110460031": {
-        "description": "Translating:【description$110460031$description$0】",
+        "description": "When not in \"Gun Mode\", dodging and then casting the first hit of a Normal Attack or using \"Bloody Blitz\" will trigger Blade Wave attacks: \nNormal Attack first hit: triggers <color=#E78300>3</color> Blade Wave attacks, each dealing <color=#E78300>{1}</color> ATK in Ice DMG; \n \"Bloody Blitz\": triggers a Blade Wave attack, dealing <color=#E78300>{2}</color> ATK in Ice DMG.",
         "maxLv": 1,
         "type": 1,
         "id": 110460031,
@@ -16655,7 +16704,7 @@
         ]
     },
     "110460032": {
-        "description": "Translating:【description$110460032$description$0】",
+        "description": "Normal Attack while not in \"Gun Mode\", \"Bloody Blitz\", and the falling attack of \"Bloody Blitz\" hit the same enemy within <color=#E78300>3</color> seconds, gaining <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(104603)>\"Mark\"</material>. This effect can trigger once every <color=#E78300>15</color> seconds at most.",
         "maxLv": 1,
         "type": 1,
         "id": 110460032,
@@ -16663,7 +16712,7 @@
         "param": []
     },
     "110460033": {
-        "description": "Translating:【description$110460033$description$0】",
+        "description": "When casting \"Bloody Blitz\" drop attack early, the remaining CD of \"Bloody Blitz\" is reduced; the earlier the drop attack is cast, the more the remaining CD is shortened, up to a maximum of <color=#E78300>4</color> seconds. While performing a Normal Attack in the air, the timer for the early cast drop attack is reset; each time the remaining CD reduction is triggered, the remaining interval time for the Aether Code \"Skilled Technique: Combo\" to gain the <material=underline c=#FFFFFF h=2 event=terminology args=(104603)>\"Blood Point\"</material> mark is shortened by <color=#E78300>1</color> second.",
         "maxLv": 1,
         "type": 1,
         "id": 110460033,
@@ -18832,7 +18881,7 @@
         ]
     },
     "110720023": {
-        "description": "Increases the Non-DoT DMG of <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin's</material> joint attack by <color=#E78300>{1}</color>. \n<material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> can now follow all teammates. Increases the Skill DMG of teammates followed by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> by <color=#E78300>{2}</color>. Whenever a Mod is followed by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material>, if the Rating gain rate is not lower than <color=#E78300>20%</color>, increases the Skill DMG of the followed teammate by an additional <color=#E78300>{3}</color>.",
+        "description": "Increases the Non-DoT DMG of <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin's</material> joint attack by <color=#E78300>{1}</color>. \n<material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> can now follow all teammates.",
         "maxLv": 1,
         "type": 1,
         "id": 110720023,
@@ -25203,7 +25252,7 @@
         ]
     },
     "200001141": {
-        "description": "Whenever a Mod followed by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> casts a skill, the Non-DoT Crit DMG of Wind attacks increases by <color=#E78300>{1}</color> for <color=#E78300>4</color>s. Effect stacks up to <color=#E78300>5</color> times.\nReduces the Crit RES of enemies hit by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin's</material> joint attack by <color=#E78300>{2}</color> for <color=#E78300>{3}</color>s.\nFor every <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> on the field, increases the Mod's Ultimate Skill charge speed by <color=#E78300>{4}</color> and Ultimate Skill DMG by <color=#E78300>{5}</color>.",
+        "description": "Whenever a Mod followed by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> casts a skill, the Non-DoT Crit DMG of Wind attacks increases by <color=#E78300>{1}</color> for <color=#E78300>4</color>s. Effect stacks up to <color=#E78300>5</color> times.\nReduces the Crit RES of enemies hit by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin's</material> joint attack by <color=#E78300>{2}</color> for <color=#E78300>{3}</color>s.\nFor every <color=#E78300>1</color> <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> on the field, increases the Mod's Ultimate Skill DMG by <color=#E78300>{4}</color>.",
         "maxLv": 1,
         "type": 1,
         "id": 200001141,
@@ -25232,17 +25281,11 @@
                 10,
                 false,
                 "%"
-            ],
-            [
-                10,
-                10,
-                false,
-                "%"
             ]
         ]
     },
     "200001142": {
-        "description": "Increases the Non-DoT DMG of <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin's</material> joint attack by <color=#E78300>{1}</color>. \n<material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> can now follow all teammates. Increases the Skill DMG of teammates followed by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> by <color=#E78300>{2}</color>. Whenever a Mod is followed by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material>, if the Rating gain rate is not lower than <color=#E78300>20%</color>, increases the Skill DMG of the followed teammate by an additional <color=#E78300>{3}</color>.",
+        "description": "Increases the Non-DoT DMG of <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin's</material> joint attack by <color=#E78300>{1}</color>. \n<material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> can now follow all teammates. When the HP of a teammate followed by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> is not lower than <color=#E78300>80%</color>, increases their Non-DoT Skill DMG by <color=#E78300>{2}</color>. When the Rating gain rate of a teammate followed by a material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material> is not lower than <color=#E78300>20%</color>, increases their Non-DoT Skill DMG by <color=#E78300>{3}</color>.",
         "maxLv": 1,
         "type": 1,
         "id": 200001142,
@@ -26701,7 +26744,7 @@
         ]
     },
     "220107201": {
-        "description": "Translating:【description$220107201$description$0】",
+        "description": "Equipping by Omnisight - Luliang grants the following effects:\n<color=#297DE0>Extends the duration of <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material></color> by <color=#E78300>8</color>s.\n<color=#297DE0>The Wind RES debuff granted by a <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material></color> joint attack can be stacked (up to <color=#E78300>{1}</color> stack(s)), with each stack further reducing enemy's Wind RES by <color=#E78300>{2}</color>%.\nWhen a <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin</material></color> is following the Mod or a teammate, restores teammates' Ultimate Skill charge by <color=#E78300>10%</color>.\n<color=#297DE0>When the <material=underline c=#FFFFFF h=2 event=terminology args=(107202)>Lucky Coin's </material></color> effect ends, an explosion detonates at the position where the Mod followed by the Lucky Coin is, dealing Wind DMG equal to <color=#E78300>{3}%</color> of ATK in total. Enemies hit by the explosion will also be inflicted with Armor Break, reducing their DEF by <color=#E78300>{4}%</color> for <color=#E78300>{5}</color>s.\nAfter using the Ultimate Skill or Ultimate Skillchain, the remaining CD of the Mod's Ultimate Skill will be reduced by <color=#E78300>3</color>s.\nGains <color=#E78300>10</color> <color=#297DE0><material=underline c=#FFFFFF h=2 event=terminology args=(107201)>Fortune</material></color> when casting an Ultimate Skill or an Ultimate Skillchain.\nIncreases the Ultimate Skill charge speed by <color=#E78300>{6}%</color>.",
         "maxLv": 0,
         "type": 0,
         "id": 220107201,
@@ -29925,18 +29968,64 @@
         ]
     },
     "500104501": {
-        "description": "Translating:【description$500104501$description$0】",
+        "description": "When Scarlet Echo - Alisa is equipped, gain the following effects.\nEach time you cast <color=#297DE0>\"Death Strike\"</color>, Fire DMG increases by <color=#E78300>{1}%</color> and Independent DMG increases by <color=#E78300>{2}%</color> for <color=#E78300>{3}</color> seconds, stacking up to <color=#E78300>4</color> times.\nWhen the current <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(104601)>\"Liberation Index\"</material></color> exceeds <color=#E78300>50</color> points, Normal Attack DMG increases by <color=#E78300>{4}%</color> and Skill DMG increases by <color=#E78300>{5}%</color>.\nWhen entering the <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(104503)>\"God Arc Controlled\"</material></color> state, if not already in the <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(104503)>\"God Arc Controlled\"</material></color> state, reset the remaining CD of <color=#297DE0>\"Death Strike\"</color>. For the next <color=#E78300>{6}</color> seconds, after casting <color=#297DE0>\"Death Strike\"</color>, its remaining CD is reduced by <color=#E78300>90%</color> and you gain <color=#E78300>20</color> Divine Grace. During this duration, if a Block with <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(104504)>\"Zero Stance\"</material></color> is successful, the effect's duration is refreshed; this reset effect can trigger at most <color=#E78300>1</color> time per duration.",
         "maxLv": 0,
         "type": 0,
         "id": 500104501,
         "param": [
             [
                 "0",
+                "4",
+                "4",
                 "10",
                 "10",
+                "5",
+                "1.6"
+            ],
+            [
+                "0",
+                "5",
+                "5",
                 "10",
                 "10",
-                "5"
+                "5",
+                "2"
+            ],
+            [
+                "0",
+                "6",
+                "6",
+                "10",
+                "10",
+                "5",
+                "2.4"
+            ],
+            [
+                "0",
+                "7",
+                "7",
+                "10",
+                "10",
+                "5",
+                "2.8"
+            ],
+            [
+                "0",
+                "8",
+                "8",
+                "10",
+                "10",
+                "5",
+                "3.2"
+            ],
+            [
+                "0",
+                "9",
+                "9",
+                "10",
+                "10",
+                "5",
+                "3.6"
             ],
             [
                 "0",
@@ -29944,60 +30033,22 @@
                 "10",
                 "10",
                 "10",
-                "5"
-            ],
-            [
-                "0",
-                "10",
-                "10",
-                "10",
-                "10",
-                "5"
-            ],
-            [
-                "0",
-                "10",
-                "10",
-                "10",
-                "10",
-                "5"
-            ],
-            [
-                "0",
-                "10",
-                "10",
-                "10",
-                "10",
-                "5"
-            ],
-            [
-                "0",
-                "10",
-                "10",
-                "10",
-                "10",
-                "5"
-            ],
-            [
-                "0",
-                "10",
-                "10",
-                "10",
-                "10",
-                "5"
+                "5",
+                "4"
             ]
         ],
         "extra_param": [
             "0",
+            "4%/5%/6%/7%/8%/9%/10",
+            "4%/5%/6%/7%/8%/9%/10",
             "10",
             "10",
-            "10",
-            "10",
-            "5"
+            "5",
+            "1.6/2/2.4/2.8/3.2/3.6/4"
         ]
     },
     "500104601": {
-        "description": "Translating:【description$500104601$description$0】",
+        "description": "When Blood Bullet - Ciel is equipped, gain the following effects.\nWhen <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(104601)>“Liberation Index”</material></color> is not less than <color=#E78300>50</color>, <color=#297DE0>“Penetration Bullets”</color> attack will increase Crit Rate by <color=#E78300>{1}%</color> upon hit.\nDuring each attack of <color=#297DE0>“Spinning Throw”</color>, if <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(104601)>“Liberation Index”</material></color> is not less than <color=#E78300>50, 100</color>, it will trigger <color=#E78300>1, 2</color> <color=#297DE0>“Penetration Bullets”</color> respectively.\nWhen successfully blocking enemy attacks, either for yourself or a teammate, trigger <color=#E78300>4</color> <color=#297DE0>“Penetration Bullets”</color> against the attacker, this effect can trigger once every <color=#E78300>0.5</color> seconds at most; if <color=#297DE0>“Penetration Bullets”</color> is triggered through this method again within <color=#E78300>5</color> seconds, it will additionally trigger <color=#E78300>1</color> <color=#297DE0>“Penetration Bullets”</color>, up to a maximum of <color=#E78300>4</color> additional triggers.\nEach <color=#297DE0>“Penetration Bullets”</color> triggered through this exclusive key will deal <color=#E78300>{2}%</color> of attack power as Ice DMG.\nEach attack marked by <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(104603)>“Blood Point”</material></color> will add <color=#E78300>1</color> layer of <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(104605)>“Blood Rage”</material></color> status to the hit enemy, lasting <color=#E78300>16</color> seconds, stacking up to <color=#E78300>4</color> layers; when the number of <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(104605)>“Blood Rage”</material></color> layers on the enemy is <color=#E78300>1, 2, 3, 4</color>, if your HP is not higher than <color=#E78300>25%, 50%, 75%, 100%</color>, your attack's Independent DMG will increase by <color=#E78300>{3}%</color> upon hit.\nWhen HP drops to <color=#E78300>1</color>, gain invincibility for <color=#E78300>{4}</color> seconds; while in the air, casting <color=#297DE0>“Blood Awakening”</color> or <color=#297DE0>“Blood Bullet”</color> grants a brief invincibility effect; while in the air, after performing a Normal Attack followed by the falling attack of <color=#297DE0>“Bloody Blitz”</color>, gain a brief invincibility effect.",
         "maxLv": 0,
         "type": 0,
         "id": 500104601,
@@ -30006,50 +30057,58 @@
                 "0",
                 "12",
                 "100",
-                "12"
+                "28",
+                "3"
             ],
             [
                 "0",
                 "15",
                 "100",
-                "15"
+                "35",
+                "3"
             ],
             [
                 "0",
                 "18",
                 "100",
-                "18"
+                "42",
+                "3"
             ],
             [
                 "0",
                 "21",
                 "100",
-                "21"
+                "49",
+                "3"
             ],
             [
                 "0",
                 "24",
                 "100",
-                "24"
+                "56",
+                "3"
             ],
             [
                 "0",
                 "27",
                 "100",
-                "27"
+                "63",
+                "3"
             ],
             [
                 "0",
                 "30",
                 "100",
-                "30"
+                "70",
+                "3"
             ]
         ],
         "extra_param": [
             "0",
             "12%/15%/18%/21%/24%/27%/30",
             "100",
-            "12%/15%/18%/21%/24%/27%/30"
+            "28%/35%/42%/49%/56%/63%/70",
+            "3"
         ]
     },
     "500104802": {
@@ -32197,7 +32256,7 @@
         ]
     },
     "500115601": {
-        "description": "Grants the following effects when equipped by Annihilator - Kali:\nUpon entering battle, grants all teammates ith a shield equal to their Max HP.\nEach time <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115601)>Thunderous Splendor</material></color> is triggered, increases the ATK of all teammates by <color=#E78300>{1}%</color> for <color=#E78300>{2}</color>s.\nWhen the Modifier or a teammate unleashes an Ultimate Skill,gain increased Crit DMG by <color=#E78300>60%</color>.\nNormal attack or skill hits, grant different amounts of <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>Dazzling Squall</material></color> points. Max <color=#E78300>150</color> points. Unleashing a skill will expend different amounts of <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>Dazzling Squall </material></color> points and reset the skill CD.\n<color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>Dazzling Squall </material></color>: Normal attacks grant <color=#E78300>1</color> point, boosted normal attacks grant <color=#E78300>2</color> points, skills grant <color=#E78300>3</color> points, and boosted skills grant <color=#E78300>5</color> points.<color=#297DE0>First Tribulation - Gleam</color> expends <color=#E78300>75</color> points, <color=#297DE0>Third Tribulation - Vanquish</color> expends <color=#E78300>25</color> points, and <color=#297DE0>Ninth Tribulation - Thunderclap</color> expends <color=#E78300>100</color> points.",
+        "description": "Grants the following effects when equipped by Annihilator - Kali.\nWhen entering battle, grants all teammates a shield with a value equal to the Max HP of each Mod.\nEach time <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115601)>Thunderous Splendor</material></color> is triggered, increases the ATK of all teammates by <color=#E78300>{1}%</color> for <color=#E78300>{2}</color>s.\nWhen the Mod or a teammate unleashes an Ultimate Skill, now increases Crit DMG by <color=#E78300>60%</color>.\nAfter each normal attack or skill hits, grants different amounts of <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>Dazzling Squall</material></color> points. Max <color=#E78300>150</color> points. Unleashing a skill will expend different amounts of <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>Dazzling Squall </material></color> points and reset the skill CD.\n<color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115603)>Dazzling Squall </material></color>: Normal attacks grant <color=#E78300>1</color> point, boosted normal attacks grant <color=#E78300>2</color> points, skills grant <color=#E78300>3</color> points, and boosted skills grant <color=#E78300>5</color> points.<color=#297DE0>First Tribulation - Gleam</color> expends <color=#E78300>75</color> points, <color=#297DE0>Third Tribulation - Vanquish</color> expends <color=#E78300>25</color> points, and <color=#297DE0>Ninth Tribulation - Thunderclap</color> expends <color=#E78300>100</color> points.",
         "maxLv": 0,
         "type": 0,
         "id": 500115601,
@@ -34190,7 +34249,7 @@
         ]
     },
     "600000070": {
-        "description": "Translating:【description$600000070$description$0】",
+        "description": "Increases Attribute DMG by {1}.\nWhen equipped by a God Eater, increases ATK by {2}, Ultimate Skill charge speed by {3}, and Ultimate Skill DMG by {4}.",
         "maxLv": 1,
         "type": 1,
         "id": 600000070,
@@ -34203,7 +34262,13 @@
                 "%"
             ],
             [
-                20,
+                25,
+                0,
+                false,
+                "%"
+            ],
+            [
+                40,
                 0,
                 false,
                 "%"
@@ -34213,17 +34278,11 @@
                 0,
                 false,
                 "%"
-            ],
-            [
-                20,
-                0,
-                false,
-                "%"
             ]
         ]
     },
     "600000071": {
-        "description": "Translating:【description$600000071$description$0】",
+        "description": "Increases Skill DMG by {1}.\nWhen equipped by a God Eater, increases Crit Rate by {2}, Normal Attack DMG by {3}, and DMG by {4}.",
         "maxLv": 1,
         "type": 1,
         "id": 600000071,
@@ -34248,7 +34307,7 @@
                 "%"
             ],
             [
-                20,
+                30,
                 0,
                 false,
                 "%"
@@ -43920,7 +43979,7 @@
         "param": []
     },
     "700009514": {
-        "description": "Translating:【description$700009514$description$0】",
+        "description": "<color=#ff3000>Challenging Simulation</color> grants \"Super Armor\" when the elite enemy's HP is below 25%, increases SPD by 100%, and increases DMG by 100%\nwhile reducing DEF by 100%, losing 0.5% HP per second.",
         "maxLv": 1,
         "type": 1,
         "id": 700009514,
@@ -46016,7 +46075,7 @@
         ]
     },
     "700018101": {
-        "description": "Character enhanced.",
+        "description": "Fire DMG +20%",
         "maxLv": 1,
         "type": 1,
         "id": 700018101,
@@ -46024,7 +46083,7 @@
         "param": []
     },
     "700018102": {
-        "description": "Character enhanced.",
+        "description": "Divine Grace Charge Speed +100%",
         "maxLv": 1,
         "type": 1,
         "id": 700018102,
@@ -46032,7 +46091,7 @@
         "param": []
     },
     "700018103": {
-        "description": "Character enhanced.",
+        "description": "Each time you cast \"IE Blade Cannon Explosion\", gain 10 Erupt Points",
         "maxLv": 1,
         "type": 1,
         "id": 700018103,
@@ -46040,7 +46099,7 @@
         "param": []
     },
     "700018104": {
-        "description": "Character enhanced.",
+        "description": "Upon triggering the block effect of Zero Stance or non-mobile dodge, automatically triggers a counterattack and resets the remaining CD of all skills.",
         "maxLv": 1,
         "type": 1,
         "id": 700018104,
@@ -46048,7 +46107,7 @@
         "param": []
     },
     "700018105": {
-        "description": "Character enhanced.",
+        "description": "The Normal Attack in \"Slash Mode\" retains only the last three segments, triggering additional attacks when casting aerial skills and performing downward attacks.",
         "maxLv": 1,
         "type": 1,
         "id": 700018105,
@@ -46056,7 +46115,7 @@
         "param": []
     },
     "700018106": {
-        "description": "Character enhanced.",
+        "description": "When casting \"Zero Stance\", gain Super Armor for 5 sec; \"IE Blade Cannon Explosion\" and \"IE Purgatory Flames\" gain 2 extra attack projectiles",
         "maxLv": 1,
         "type": 1,
         "id": 700018106,
@@ -46064,7 +46123,7 @@
         "param": []
     },
     "700018201": {
-        "description": "Character enhanced.",
+        "description": "Ice DMG +20%",
         "maxLv": 1,
         "type": 1,
         "id": 700018201,
@@ -46072,7 +46131,7 @@
         "param": []
     },
     "700018202": {
-        "description": "Character enhanced.",
+        "description": "Grants 1 Blood Mark every 8s.",
         "maxLv": 1,
         "type": 1,
         "id": 700018202,
@@ -46080,7 +46139,7 @@
         "param": []
     },
     "700018203": {
-        "description": "Character enhanced.",
+        "description": "Increases the DMG of all falling attacks by 100% for 2s.",
         "maxLv": 1,
         "type": 1,
         "id": 700018203,
@@ -46088,7 +46147,7 @@
         "param": []
     },
     "700018204": {
-        "description": "Character enhanced.",
+        "description": "When not in \"Gun Mode\", performing a Normal Attack or using Skills triggers an additional attack.",
         "maxLv": 1,
         "type": 1,
         "id": 700018204,
@@ -46096,7 +46155,7 @@
         "param": []
     },
     "700018205": {
-        "description": "Character enhanced.",
+        "description": "Blood Rage Devouring triggers additional attacks. When used, it gathers nearby enemies and grants a shield equal to 300% of the Mod's Max HP.",
         "maxLv": 1,
         "type": 1,
         "id": 700018205,
@@ -46104,7 +46163,7 @@
         "param": []
     },
     "700018206": {
-        "description": "Character enhanced.",
+        "description": "After using Bloody Blitz and leaping into the air, resets the remaining CD of all skills if the next falling attack used is different from the previous one.",
         "maxLv": 1,
         "type": 1,
         "id": 700018206,
@@ -54873,7 +54932,7 @@
         ]
     },
     "21107220324": {
-        "description": "Translating:【description$21107220324$description$0】",
+        "description": "Shortly after the final strike of a normal attack, Breezy Blessings, or Actus Abacus, Raining Wealth will be replaced by Evil Expeller and can be cast immediately as a follow-up attack of the attacks mentioned above, which will result in different number of strikes, different amounts of DMG, and different Fortune points obtained upon a hit. Fortune is capped at <color=#E78300>50</color>.\nCasting Evil Expeller immediately after the final strike of a normal attack: 1 strike of attack can be delivered, dealing Wind DMG equal to <color=#E78300>{1}</color> of ATK and granting <color=#E78300>6</color> Fortune in total.\nCasting Evil Expeller immediately after Breezy Blessings: 3 strikes of attack can be delivered consecutively, dealing Wind DMG equal to <color=#E78300>{2}</color> of ATK and granting <color=#E78300>10</color> Fortune in total.\nCasting Evil Expeller immediately after Actus Abacus: 5 strikes of attack can be delivered consecutively, dealing Wind DMG equal to <color=#E78300>{3}</color> of ATK and granting <color=#E78300>14</color> Fortune in total.\n\nRaining Wealth: Consumes all Fortune, then leaps into the air and attacks the enemy using Omnicalc. Damage dealt is determined by the Fortune expended.\nWhen Fortune expended is below <color=#E78300>40</color>, deals Wind DMG equal to <color=#E78300>{4}</color> of ATK in total.\nWhen <color=#E78300>40</color> or more Fortune is expended, deals Wind DMG equal to <color=#E78300>{5}</color> of ATK in total.\nCasting Raining Wealth increases the Wind DMG of the entire team by <color=#E78300>10%</color> for <color=#E78300>{6}</color>s. For every <color=#E78300>1</color> Fortune expended, this Wind DMG boost further increases by <color=#E78300>0.6%</color>.\n\n<color=#297DE0>Traces:</color> After the last strike of Evil Expeller hits, gains <color=#E78300>1</color> Trace.",
         "maxLv": 60,
         "type": 1,
         "id": 21107220324,

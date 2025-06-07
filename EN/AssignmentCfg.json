@@ -21908,11 +21908,11 @@
         ]
     },
     "800049": {
-        "name": "Translating:【assignment_list$800049$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 203,
         "condition": 50003,
-        "desc": "Score 20,000 in Crisis Analysis.",
+        "desc": "Score 20,000 in Crisis Analysis",
         "need": 1,
         "activity_id": 3600416,
         "system": "",
@@ -21944,6 +21944,118 @@
             359001,
             3610001,
             3618407
+        ]
+    },
+    "800050": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 203,
+        "condition": 302,
+        "desc": "Obtain a total of 10,000 Cohesive Materials in Beast Confinement Protocol",
+        "need": 10000,
+        "activity_id": 340043,
+        "system": "",
+        "id": 800050,
+        "phase": 0,
+        "additional_parameter": [
+            53160
+        ],
+        "reward": [
+            [
+                54016,
+                50
+            ],
+            [
+                40803,
+                5
+            ],
+            [
+                40301,
+                100
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            15801,
+            341001,
+            342431
+        ]
+    },
+    "800051": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 203,
+        "condition": 350,
+        "desc": "Use 800 Oracle Cell Sequences in the Strategic Logistics Depot",
+        "need": 800,
+        "activity_id": 340044,
+        "system": "",
+        "id": 800051,
+        "phase": 0,
+        "additional_parameter": [
+            75
+        ],
+        "reward": [
+            [
+                54016,
+                50
+            ],
+            [
+                40103,
+                4
+            ],
+            [
+                40301,
+                100
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            15801,
+            341001,
+            340001
+        ]
+    },
+    "800052": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 203,
+        "condition": 2305,
+        "desc": "Collect 10 different types of general enhancements in Haze From the Unknown",
+        "need": 10,
+        "activity_id": 340045,
+        "system": "",
+        "id": 800052,
+        "phase": 0,
+        "additional_parameter": [],
+        "reward": [
+            [
+                54016,
+                50
+            ],
+            [
+                40203,
+                5
+            ],
+            [
+                40301,
+                100
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            15801,
+            341001,
+            340001
         ]
     },
     "71001": {
@@ -103223,7 +103335,7 @@
         ]
     },
     "30604005": {
-        "name": "Translating:【assignment_list$30604005$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 9,
         "condition": 50003,
@@ -106407,7 +106519,7 @@
         "pre_id": 0,
         "type": 3001,
         "condition": 1,
-        "desc": "Log in for the first time.",
+        "desc": "Log in for the first time every day",
         "need": 1,
         "activity_id": 3600438,
         "system": "",
@@ -106457,7 +106569,7 @@
         "pre_id": 0,
         "type": 3001,
         "condition": 402,
-        "desc": "Complete any stage 3 times.",
+        "desc": "Clear any stage 3 times",
         "need": 3,
         "activity_id": 3600438,
         "system": "",
@@ -106607,17 +106719,18 @@
         "source": []
     },
     "31101601": {
-        "name": "Translating:【assignment_list$31101601$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2304,
-        "desc": "Translating:【assignment_list$31101601$desc$0】",
+        "desc": "Use Alisa to clear Predictive Simulation 1 time",
         "need": 1,
         "activity_id": 343731,
         "system": "",
         "id": 31101601,
         "phase": 0,
         "additional_parameter": [
+            1,
             1
         ],
         "reward": [
@@ -106641,18 +106754,19 @@
         "source": []
     },
     "31101602": {
-        "name": "Translating:【assignment_list$31101602$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2304,
-        "desc": "Translating:【assignment_list$31101602$desc$0】",
+        "desc": "Use Ciel to clear Predictive Simulation 1 time",
         "need": 1,
         "activity_id": 343731,
         "system": "",
         "id": 31101602,
         "phase": 0,
         "additional_parameter": [
-            2
+            2,
+            1
         ],
         "reward": [
             [
@@ -106675,12 +106789,12 @@
         "source": []
     },
     "31101603": {
-        "name": "Translating:【assignment_list$31101603$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2305,
-        "desc": "Translating:【assignment_list$31101603$desc$0】",
-        "need": 5,
+        "desc": "Collect 3 different types of general enhancements",
+        "need": 3,
         "activity_id": 343731,
         "system": "",
         "id": 31101603,
@@ -106707,12 +106821,12 @@
         "source": []
     },
     "31101604": {
-        "name": "Translating:【assignment_list$31101604$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2305,
-        "desc": "Translating:【assignment_list$31101604$desc$0】",
-        "need": 10,
+        "desc": "Collect 6 different types of general enhancements",
+        "need": 6,
         "activity_id": 343731,
         "system": "",
         "id": 31101604,
@@ -106739,12 +106853,12 @@
         "source": []
     },
     "31101605": {
-        "name": "Translating:【assignment_list$31101605$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2305,
-        "desc": "Translating:【assignment_list$31101605$desc$0】",
-        "need": 15,
+        "desc": "Collect 10 different types of general enhancements",
+        "need": 10,
         "activity_id": 343731,
         "system": "",
         "id": 31101605,
@@ -106771,12 +106885,12 @@
         "source": []
     },
     "31101606": {
-        "name": "Translating:【assignment_list$31101606$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2305,
-        "desc": "Translating:【assignment_list$31101606$desc$0】",
-        "need": 20,
+        "desc": "Collect 15 different types of general enhancements",
+        "need": 15,
         "activity_id": 343731,
         "system": "",
         "id": 31101606,
@@ -106803,12 +106917,12 @@
         "source": []
     },
     "31101607": {
-        "name": "Translating:【assignment_list$31101607$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2305,
-        "desc": "Translating:【assignment_list$31101607$desc$0】",
-        "need": 25,
+        "desc": "Collect 20 different types of general enhancements",
+        "need": 20,
         "activity_id": 343731,
         "system": "",
         "id": 31101607,
@@ -106835,12 +106949,12 @@
         "source": []
     },
     "31101608": {
-        "name": "Translating:【assignment_list$31101608$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2305,
-        "desc": "Translating:【assignment_list$31101608$desc$0】",
-        "need": 30,
+        "desc": "Collect 25 different types of general enhancements",
+        "need": 25,
         "activity_id": 343731,
         "system": "",
         "id": 31101608,
@@ -106867,12 +106981,12 @@
         "source": []
     },
     "31101609": {
-        "name": "Translating:【assignment_list$31101609$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2305,
-        "desc": "Translating:【assignment_list$31101609$desc$0】",
-        "need": 35,
+        "desc": "Collect 30 different types of general enhancements",
+        "need": 30,
         "activity_id": 343731,
         "system": "",
         "id": 31101609,
@@ -106899,12 +107013,12 @@
         "source": []
     },
     "31101610": {
-        "name": "Translating:【assignment_list$31101610$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2305,
-        "desc": "Translating:【assignment_list$31101610$desc$0】",
-        "need": 38,
+        "desc": "Collect 33 different types of general enhancements",
+        "need": 33,
         "activity_id": 343731,
         "system": "",
         "id": 31101610,
@@ -106931,11 +107045,11 @@
         "source": []
     },
     "31101611": {
-        "name": "Translating:【assignment_list$31101611$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2306,
-        "desc": "Translating:【assignment_list$31101611$desc$0】",
+        "desc": "Collect 2 types of Alisa's exclusive enhancements",
         "need": 2,
         "activity_id": 343731,
         "system": "",
@@ -106965,11 +107079,11 @@
         "source": []
     },
     "31101612": {
-        "name": "Translating:【assignment_list$31101612$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2306,
-        "desc": "Translating:【assignment_list$31101612$desc$0】",
+        "desc": "Collect 4 types of Alisa's exclusive enhancements",
         "need": 4,
         "activity_id": 343731,
         "system": "",
@@ -106999,11 +107113,11 @@
         "source": []
     },
     "31101613": {
-        "name": "Translating:【assignment_list$31101613$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2306,
-        "desc": "Translating:【assignment_list$31101613$desc$0】",
+        "desc": "Collect 6 types of Alisa's exclusive enhancements",
         "need": 6,
         "activity_id": 343731,
         "system": "",
@@ -107033,11 +107147,11 @@
         "source": []
     },
     "31101614": {
-        "name": "Translating:【assignment_list$31101614$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2306,
-        "desc": "Translating:【assignment_list$31101614$desc$0】",
+        "desc": "Collect 2 types of Ciel's exclusive enhancements",
         "need": 2,
         "activity_id": 343731,
         "system": "",
@@ -107067,11 +107181,11 @@
         "source": []
     },
     "31101615": {
-        "name": "Translating:【assignment_list$31101615$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2306,
-        "desc": "Translating:【assignment_list$31101615$desc$0】",
+        "desc": "Collect 4 types of Ciel's exclusive enhancements",
         "need": 4,
         "activity_id": 343731,
         "system": "",
@@ -107101,11 +107215,11 @@
         "source": []
     },
     "31101616": {
-        "name": "Translating:【assignment_list$31101616$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 2306,
-        "desc": "Translating:【assignment_list$31101616$desc$0】",
+        "desc": "Collect 6 types of Ciel's exclusive enhancements",
         "need": 6,
         "activity_id": 343731,
         "system": "",
@@ -107135,13 +107249,13 @@
         "source": []
     },
     "31101801": {
-        "name": "Translating:【assignment_list$31101801$name$0】",
+        "name": "Phase 1 Mission",
         "pre_id": 0,
         "type": 3005,
         "condition": 320006,
-        "desc": "Translating:【assignment_list$31101801$desc$0】",
+        "desc": "Clear Sudden Commotion stages on Normal 2 times",
         "need": 2,
-        "activity_id": 0,
+        "activity_id": 340001,
         "system": "",
         "id": 31101801,
         "phase": 1,
@@ -107162,48 +107276,20 @@
             1,
             100
         ],
-        "source": []
+        "source": [
+            18005
+        ]
     },
     "31101802": {
-        "name": "Translating:【assignment_list$31101802$name$0】",
-        "pre_id": 0,
-        "type": 3006,
-        "condition": 51202,
-        "desc": "Translating:【assignment_list$31101802$desc$0】",
-        "need": 1,
-        "activity_id": 0,
-        "system": "",
-        "id": 31101802,
-        "phase": 1,
-        "additional_parameter": [
-            1010102
-        ],
-        "reward": [
-            [
-                1,
-                60
-            ],
-            [
-                74,
-                30
-            ]
-        ],
-        "unlock_condition": [
-            1,
-            100
-        ],
-        "source": []
-    },
-    "31101803": {
-        "name": "Translating:【assignment_list$31101803$name$0】",
+        "name": "Phase 1 Mission",
         "pre_id": 0,
         "type": 3005,
         "condition": 320001,
-        "desc": "Translating:【assignment_list$31101803$desc$0】",
+        "desc": "In \"Predator of the Wilds Rift,\" accumulate 15 successful resource captures.",
         "need": 15,
-        "activity_id": 0,
+        "activity_id": 340001,
         "system": "",
-        "id": 31101803,
+        "id": 31101802,
         "phase": 1,
         "additional_parameter": [
             8,
@@ -107228,18 +107314,20 @@
             1,
             100
         ],
-        "source": []
+        "source": [
+            18004
+        ]
     },
-    "31101804": {
-        "name": "Translating:【assignment_list$31101804$name$0】",
+    "31101803": {
+        "name": "Phase 1 Mission",
         "pre_id": 0,
         "type": 3005,
         "condition": 320001,
-        "desc": "Translating:【assignment_list$31101804$desc$0】",
+        "desc": "In \"Predator of the Wilds Rift\", capture monsters a total of 3 times",
         "need": 3,
-        "activity_id": 0,
+        "activity_id": 340001,
         "system": "",
-        "id": 31101804,
+        "id": 31101803,
         "phase": 1,
         "additional_parameter": [
             10,
@@ -107259,18 +107347,20 @@
             1,
             100
         ],
-        "source": []
+        "source": [
+            18004
+        ]
     },
-    "31101805": {
-        "name": "Translating:【assignment_list$31101805$name$0】",
+    "31101804": {
+        "name": "Phase 1 Mission",
         "pre_id": 0,
         "type": 3005,
         "condition": 320002,
-        "desc": "Translating:【assignment_list$31101805$desc$0】",
+        "desc": "Complete 4 stages in \"Predators of the Wilds Rift\"",
         "need": 4,
-        "activity_id": 0,
+        "activity_id": 340001,
         "system": "",
-        "id": 31101805,
+        "id": 31101804,
         "phase": 1,
         "additional_parameter": [],
         "reward": [
@@ -107287,18 +107377,20 @@
             1,
             100
         ],
-        "source": []
+        "source": [
+            18004
+        ]
     },
-    "31101806": {
-        "name": "Translating:【assignment_list$31101806$name$0】",
+    "31101805": {
+        "name": "Phase 1 Mission",
         "pre_id": 0,
         "type": 3006,
         "condition": 350,
-        "desc": "Translating:【assignment_list$31101806$desc$0】",
+        "desc": "Use 800 Oracle Cell Sequences in the Strategic Logistics Depot",
         "need": 800,
-        "activity_id": 0,
+        "activity_id": 340001,
         "system": "",
-        "id": 31101806,
+        "id": 31101805,
         "phase": 1,
         "additional_parameter": [
             75
@@ -107317,53 +107409,28 @@
             1,
             100
         ],
-        "source": []
-    },
-    "31101807": {
-        "name": "Translating:【assignment_list$31101807$name$0】",
-        "pre_id": 0,
-        "type": 3005,
-        "condition": 2304,
-        "desc": "Translating:【assignment_list$31101807$desc$0】",
-        "need": 1,
-        "activity_id": 0,
-        "system": "",
-        "id": 31101807,
-        "phase": 2,
-        "additional_parameter": [
-            1,
-            0
-        ],
-        "reward": [
+        "source": [
+            18002,
+            307,
             [
-                1,
-                30
-            ],
-            [
-                74,
-                10
+                307
             ]
-        ],
-        "unlock_condition": [
-            1,
-            100
-        ],
-        "source": []
+        ]
     },
-    "31101808": {
-        "name": "Translating:【assignment_list$31101808$name$0】",
+    "31101806": {
+        "name": "Phase 1 Mission",
         "pre_id": 0,
         "type": 3006,
-        "condition": 2304,
-        "desc": "Translating:【assignment_list$31101808$desc$0】",
+        "condition": 320007,
+        "desc": "Defeat T1 Heavenly Father in Sudden Commotion",
         "need": 1,
-        "activity_id": 0,
+        "activity_id": 340001,
         "system": "",
-        "id": 31101808,
-        "phase": 2,
+        "id": 31101806,
+        "phase": 1,
         "additional_parameter": [
-            1,
-            0
+            343751,
+            5250211
         ],
         "reward": [
             [
@@ -107379,18 +107446,53 @@
             1,
             100
         ],
-        "source": []
+        "source": [
+            18005
+        ]
     },
-    "31101809": {
-        "name": "Translating:【assignment_list$31101809$name$0】",
+    "31101807": {
+        "name": "Phase 2 Mission",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 2306,
+        "desc": "Collect 1 Character exclusive enhance in \"Haze From the Unknown\"",
+        "need": 1,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101807,
+        "phase": 2,
+        "additional_parameter": [
+            1,
+            2
+        ],
+        "reward": [
+            [
+                1,
+                60
+            ],
+            [
+                74,
+                30
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            18003
+        ]
+    },
+    "31101808": {
+        "name": "Phase 2 Mission",
         "pre_id": 0,
         "type": 3005,
         "condition": 2305,
-        "desc": "Translating:【assignment_list$31101809$desc$0】",
+        "desc": "Collect 10 different universal enhances in \"Haze From the Unknown\"",
         "need": 10,
-        "activity_id": 0,
+        "activity_id": 340001,
         "system": "",
-        "id": 31101809,
+        "id": 31101808,
         "phase": 2,
         "additional_parameter": [],
         "reward": [
@@ -107407,21 +107509,23 @@
             1,
             100
         ],
-        "source": []
+        "source": [
+            18003
+        ]
     },
-    "31101810": {
-        "name": "Translating:【assignment_list$31101810$name$0】",
+    "31101809": {
+        "name": "Phase 2 Mission",
         "pre_id": 0,
         "type": 3005,
         "condition": 320006,
-        "desc": "Translating:【assignment_list$31101810$desc$0】",
+        "desc": "Clear Sudden Commotion stages on Normal 4 times",
         "need": 4,
-        "activity_id": 0,
+        "activity_id": 340001,
         "system": "",
-        "id": 31101810,
+        "id": 31101809,
         "phase": 2,
         "additional_parameter": [
-            1046
+            0
         ],
         "reward": [
             [
@@ -107437,48 +107541,20 @@
             1,
             100
         ],
-        "source": []
+        "source": [
+            18005
+        ]
     },
-    "31101811": {
-        "name": "Translating:【assignment_list$31101811$name$0】",
-        "pre_id": 0,
-        "type": 3006,
-        "condition": 51202,
-        "desc": "Translating:【assignment_list$31101811$desc$0】",
-        "need": 1,
-        "activity_id": 0,
-        "system": "",
-        "id": 31101811,
-        "phase": 2,
-        "additional_parameter": [
-            1010102
-        ],
-        "reward": [
-            [
-                1,
-                60
-            ],
-            [
-                74,
-                30
-            ]
-        ],
-        "unlock_condition": [
-            1,
-            100
-        ],
-        "source": []
-    },
-    "31101812": {
-        "name": "Translating:【assignment_list$31101812$name$0】",
+    "31101810": {
+        "name": "Phase 2 Mission",
         "pre_id": 0,
         "type": 3005,
         "condition": 320001,
-        "desc": "Translating:【assignment_list$31101812$desc$0】",
+        "desc": "In \"Predator of the Wilds\", capture monsters 8 times.",
         "need": 8,
-        "activity_id": 0,
+        "activity_id": 340001,
         "system": "",
-        "id": 31101812,
+        "id": 31101810,
         "phase": 2,
         "additional_parameter": [
             10,
@@ -107498,96 +107574,89 @@
             1,
             100
         ],
-        "source": []
+        "source": [
+            18004
+        ]
     },
-    "31101813": {
-        "name": "Translating:【assignment_list$31101813$name$0】",
-        "pre_id": 0,
-        "type": 3005,
-        "condition": 2305,
-        "desc": "Translating:【assignment_list$31101813$desc$0】",
-        "need": 20,
-        "activity_id": 0,
-        "system": "",
-        "id": 31101813,
-        "phase": 3,
-        "additional_parameter": [],
-        "reward": [
-            [
-                1,
-                30
-            ]
-        ],
-        "unlock_condition": [
-            1,
-            100
-        ],
-        "source": []
-    },
-    "31101814": {
-        "name": "Translating:【assignment_list$31101814$name$0】",
-        "pre_id": 0,
-        "type": 3005,
-        "condition": 2305,
-        "desc": "Translating:【assignment_list$31101814$desc$0】",
-        "need": 30,
-        "activity_id": 0,
-        "system": "",
-        "id": 31101814,
-        "phase": 3,
-        "additional_parameter": [],
-        "reward": [
-            [
-                1,
-                30
-            ]
-        ],
-        "unlock_condition": [
-            1,
-            100
-        ],
-        "source": []
-    },
-    "31101815": {
-        "name": "Translating:【assignment_list$31101815$name$0】",
+    "31101811": {
+        "name": "Phase 2 Mission",
         "pre_id": 0,
         "type": 3006,
-        "condition": 2304,
-        "desc": "Translating:【assignment_list$31101815$desc$0】",
+        "condition": 320007,
+        "desc": "Defeat T2 Heavenly Father in Sudden Commotion",
         "need": 1,
-        "activity_id": 0,
+        "activity_id": 340001,
         "system": "",
-        "id": 31101815,
-        "phase": 3,
+        "id": 31101811,
+        "phase": 2,
         "additional_parameter": [
-            1,
-            0
+            343751,
+            5250212
         ],
         "reward": [
             [
                 1,
                 60
+            ],
+            [
+                74,
+                30
             ]
         ],
         "unlock_condition": [
             1,
             100
         ],
-        "source": []
+        "source": [
+            18005
+        ]
     },
-    "31101816": {
-        "name": "Translating:【assignment_list$31101816$name$0】",
+    "31101812": {
+        "name": "Phase 2 Mission",
+        "pre_id": 0,
+        "type": 3006,
+        "condition": 2304,
+        "desc": "Use Alisa to complete \"Basic Calculation\" once in \"Haze From the Unknown\"",
+        "need": 1,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101812,
+        "phase": 2,
+        "additional_parameter": [
+            1,
+            2
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ],
+            [
+                74,
+                10
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            18003
+        ]
+    },
+    "31101813": {
+        "name": "Final Phase Mission",
         "pre_id": 0,
         "type": 3005,
-        "condition": 51202,
-        "desc": "Translating:【assignment_list$31101816$desc$0】",
-        "need": 1,
-        "activity_id": 0,
+        "condition": 350,
+        "desc": "Use 4,000 Oracle Cell Sequences in the Strategic Logistics Depot",
+        "need": 4000,
+        "activity_id": 340001,
         "system": "",
-        "id": 31101816,
+        "id": 31101813,
         "phase": 3,
         "additional_parameter": [
-            1010102
+            75
         ],
         "reward": [
             [
@@ -107599,16 +107668,103 @@
             1,
             100
         ],
-        "source": []
+        "source": [
+            18002,
+            307,
+            [
+                307
+            ]
+        ]
+    },
+    "31101814": {
+        "name": "Final Phase Mission",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 320007,
+        "desc": "Defeat T3 Heavenly Father in Sudden Commotion",
+        "need": 1,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101814,
+        "phase": 3,
+        "additional_parameter": [
+            343751,
+            5250213
+        ],
+        "reward": [
+            [
+                1,
+                30
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            18005
+        ]
+    },
+    "31101815": {
+        "name": "Final Phase Mission",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 2305,
+        "desc": "Collect 20 different universal enhances in \"Haze From the Unknown\"",
+        "need": 20,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101815,
+        "phase": 3,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                30
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            18003
+        ]
+    },
+    "31101816": {
+        "name": "Final Phase Mission",
+        "pre_id": 0,
+        "type": 3005,
+        "condition": 2305,
+        "desc": "Collect 30 different universal enhances in \"Haze From the Unknown\"",
+        "need": 30,
+        "activity_id": 340001,
+        "system": "",
+        "id": 31101816,
+        "phase": 3,
+        "additional_parameter": [],
+        "reward": [
+            [
+                1,
+                30
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            18003
+        ]
     },
     "31101817": {
-        "name": "Translating:【assignment_list$31101817$name$0】",
+        "name": "Final Phase Mission",
         "pre_id": 0,
         "type": 3006,
         "condition": 320002,
-        "desc": "Translating:【assignment_list$31101817$desc$0】",
+        "desc": "Complete 8 stages in \"Predator of the Wilds Rift\"",
         "need": 8,
-        "activity_id": 0,
+        "activity_id": 340001,
         "system": "",
         "id": 31101817,
         "phase": 3,
@@ -107623,40 +107779,45 @@
             1,
             100
         ],
-        "source": []
+        "source": [
+            18004
+        ]
     },
     "31101818": {
-        "name": "Translating:【assignment_list$31101818$name$0】",
+        "name": "Final Phase Mission",
         "pre_id": 0,
-        "type": 3005,
-        "condition": 350,
-        "desc": "Translating:【assignment_list$31101818$desc$0】",
-        "need": 4000,
-        "activity_id": 0,
+        "type": 3006,
+        "condition": 2304,
+        "desc": "Use Alisa to clear \"Haze From the Unknown\" once in \"Calculation\"",
+        "need": 1,
+        "activity_id": 340001,
         "system": "",
         "id": 31101818,
         "phase": 3,
         "additional_parameter": [
-            75
+            1,
+            1
         ],
         "reward": [
             [
                 1,
-                30
+                60
             ]
         ],
         "unlock_condition": [
             1,
             100
         ],
-        "source": []
+        "source": [
+            18003
+        ]
     },
     "31101901": {
-        "name": "Translating:【assignment_list$31101901$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 501,
-        "desc": "Translating:【assignment_list$31101901$desc$0】",
+        "desc": "Complete a total of 2 missions",
         "need": 2,
         "activity_id": 340001,
         "system": "",
@@ -107699,11 +107860,11 @@
         "source": []
     },
     "31101902": {
-        "name": "Translating:【assignment_list$31101902$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 501,
-        "desc": "Translating:【assignment_list$31101902$desc$0】",
+        "desc": "Complete a total of 4 missions",
         "need": 4,
         "activity_id": 340001,
         "system": "",
@@ -107746,11 +107907,11 @@
         "source": []
     },
     "31101903": {
-        "name": "Translating:【assignment_list$31101903$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 501,
-        "desc": "Translating:【assignment_list$31101903$desc$0】",
+        "desc": "Complete a total of 6 missions",
         "need": 6,
         "activity_id": 340001,
         "system": "",
@@ -107793,11 +107954,11 @@
         "source": []
     },
     "31101904": {
-        "name": "Translating:【assignment_list$31101904$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 501,
-        "desc": "Translating:【assignment_list$31101904$desc$0】",
+        "desc": "Complete a total of 8 missions",
         "need": 8,
         "activity_id": 340001,
         "system": "",
@@ -107840,11 +108001,11 @@
         "source": []
     },
     "31101905": {
-        "name": "Translating:【assignment_list$31101905$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 501,
-        "desc": "Translating:【assignment_list$31101905$desc$0】",
+        "desc": "Complete a total of 10 missions",
         "need": 10,
         "activity_id": 340001,
         "system": "",
@@ -107887,11 +108048,11 @@
         "source": []
     },
     "31101906": {
-        "name": "Translating:【assignment_list$31101906$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 501,
-        "desc": "Translating:【assignment_list$31101906$desc$0】",
+        "desc": "Complete a total of 12 missions",
         "need": 12,
         "activity_id": 340001,
         "system": "",
@@ -107934,11 +108095,11 @@
         "source": []
     },
     "31101907": {
-        "name": "Translating:【assignment_list$31101907$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 501,
-        "desc": "Translating:【assignment_list$31101907$desc$0】",
+        "desc": "Complete a total of 14 missions",
         "need": 14,
         "activity_id": 340001,
         "system": "",
@@ -107981,11 +108142,11 @@
         "source": []
     },
     "31101908": {
-        "name": "Translating:【assignment_list$31101908$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 501,
-        "desc": "Translating:【assignment_list$31101908$desc$0】",
+        "desc": "Complete a total of 16 missions",
         "need": 16,
         "activity_id": 340001,
         "system": "",
@@ -108028,11 +108189,11 @@
         "source": []
     },
     "31101909": {
-        "name": "Translating:【assignment_list$31101909$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 501,
-        "desc": "Translating:【assignment_list$31101909$desc$0】",
+        "desc": "Complete a total of 18 missions",
         "need": 18,
         "activity_id": 340001,
         "system": "",
@@ -108079,7 +108240,7 @@
         "pre_id": 0,
         "type": 3001,
         "condition": 1,
-        "desc": "Log in for the first time.",
+        "desc": "Log in for the first time every day",
         "need": 1,
         "activity_id": 340041,
         "system": "",
@@ -108203,11 +108364,11 @@
         "source": []
     },
     "40201006": {
-        "name": "Translating:【assignment_list$40201006$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 302,
-        "desc": "Translating:【assignment_list$40201006$desc$0】",
+        "desc": "Obtain a total of 900 Cohesive Materials",
         "need": 900,
         "activity_id": 340041,
         "system": "",
@@ -108229,11 +108390,11 @@
         "source": []
     },
     "40201007": {
-        "name": "Translating:【assignment_list$40201007$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 302,
-        "desc": "Translating:【assignment_list$40201007$desc$0】",
+        "desc": "Obtain a total of 1,000 Cohesive Materials",
         "need": 1000,
         "activity_id": 340041,
         "system": "",
@@ -108255,11 +108416,11 @@
         "source": []
     },
     "40201008": {
-        "name": "Translating:【assignment_list$40201008$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 302,
-        "desc": "Translating:【assignment_list$40201008$desc$0】",
+        "desc": "Obtain a total of 1,500 Cohesive Materials",
         "need": 1500,
         "activity_id": 340041,
         "system": "",
@@ -108281,11 +108442,11 @@
         "source": []
     },
     "40201009": {
-        "name": "Translating:【assignment_list$40201009$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 302,
-        "desc": "Translating:【assignment_list$40201009$desc$0】",
+        "desc": "Obtain a total of 2,000 Cohesive Materials",
         "need": 2000,
         "activity_id": 340041,
         "system": "",
@@ -108307,11 +108468,11 @@
         "source": []
     },
     "40201010": {
-        "name": "Translating:【assignment_list$40201010$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 302,
-        "desc": "Translating:【assignment_list$40201010$desc$0】",
+        "desc": "Obtain a total of 2,500 Cohesive Materials",
         "need": 2500,
         "activity_id": 340041,
         "system": "",
@@ -108333,11 +108494,11 @@
         "source": []
     },
     "40201011": {
-        "name": "Translating:【assignment_list$40201011$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 302,
-        "desc": "Translating:【assignment_list$40201011$desc$0】",
+        "desc": "Obtain a total of 3,000 Cohesive Materials",
         "need": 3000,
         "activity_id": 340041,
         "system": "",
@@ -108359,11 +108520,11 @@
         "source": []
     },
     "40201012": {
-        "name": "Translating:【assignment_list$40201012$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 302,
-        "desc": "Translating:【assignment_list$40201012$desc$0】",
+        "desc": "Obtain a total of 3,500 Cohesive Materials",
         "need": 3500,
         "activity_id": 340041,
         "system": "",
@@ -108385,11 +108546,11 @@
         "source": []
     },
     "40201013": {
-        "name": "Translating:【assignment_list$40201013$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 302,
-        "desc": "Translating:【assignment_list$40201013$desc$0】",
+        "desc": "Obtain a total of 4,000 Cohesive Materials",
         "need": 4000,
         "activity_id": 340041,
         "system": "",
@@ -108411,11 +108572,11 @@
         "source": []
     },
     "40201014": {
-        "name": "Translating:【assignment_list$40201014$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 302,
-        "desc": "Translating:【assignment_list$40201014$desc$0】",
+        "desc": "Obtain a total of 4,500 Cohesive Materials",
         "need": 4500,
         "activity_id": 340041,
         "system": "",
@@ -108437,11 +108598,11 @@
         "source": []
     },
     "40201015": {
-        "name": "Translating:【assignment_list$40201015$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 302,
-        "desc": "Translating:【assignment_list$40201015$desc$0】",
+        "desc": "Obtain a total of 7,000 Cohesive Materials",
         "need": 7000,
         "activity_id": 340041,
         "system": "",
@@ -108463,11 +108624,11 @@
         "source": []
     },
     "40201016": {
-        "name": "Translating:【assignment_list$40201016$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 410,
-        "desc": "Translating:【assignment_list$40201016$desc$0】",
+        "desc": "Clear Side Story: Oracle's Lost Music - Shadow in the Wilderness",
         "need": 1,
         "activity_id": 340041,
         "system": "",
@@ -108489,11 +108650,11 @@
         "source": []
     },
     "40201017": {
-        "name": "Translating:【assignment_list$40201017$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 410,
-        "desc": "Translating:【assignment_list$40201017$desc$0】",
+        "desc": "Clear Side Story: Oracle's Lost Music - Flickering Flames",
         "need": 1,
         "activity_id": 340041,
         "system": "",
@@ -108515,11 +108676,11 @@
         "source": []
     },
     "40201018": {
-        "name": "Translating:【assignment_list$40201018$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 410,
-        "desc": "Translating:【assignment_list$40201018$desc$0】",
+        "desc": "Clear Side Story: Oracle's Lost Music - A New Dawn",
         "need": 1,
         "activity_id": 340041,
         "system": "",
@@ -108541,11 +108702,11 @@
         "source": []
     },
     "40201101": {
-        "name": "Translating:【assignment_list$40201101$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 11006,
-        "desc": "Translating:【assignment_list$40201101$desc$0】",
+        "desc": "Complete a challenge 1 time on any difficulty",
         "need": 1,
         "activity_id": 343501,
         "system": "",
@@ -108571,11 +108732,11 @@
         "source": []
     },
     "40201102": {
-        "name": "Translating:【assignment_list$40201102$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 11008,
-        "desc": "Translating:【assignment_list$40201102$desc$0】",
+        "desc": "Complete a challenge 1 time with 1,000,000 points on any difficulty",
         "need": 1,
         "activity_id": 343501,
         "system": "",
@@ -108601,11 +108762,11 @@
         "source": []
     },
     "40201103": {
-        "name": "Translating:【assignment_list$40201103$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 11007,
-        "desc": "Translating:【assignment_list$40201103$desc$0】",
+        "desc": "Participate in the challenge on Solid Shadow difficulty 1 time",
         "need": 1,
         "activity_id": 343501,
         "system": "",
@@ -108631,11 +108792,11 @@
         "source": []
     },
     "40201104": {
-        "name": "Translating:【assignment_list$40201104$name$0】",
+        "name": "Challenge",
         "pre_id": 0,
         "type": 3002,
         "condition": 11006,
-        "desc": "Translating:【assignment_list$40201104$desc$0】",
+        "desc": "Complete the challenge on Solid Shadow difficulty 1 time",
         "need": 1,
         "activity_id": 343501,
         "system": "",
@@ -108656,28 +108817,307 @@
         ],
         "source": []
     },
+    "40202001": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 9,
+        "condition": 302,
+        "desc": "Obtain a total of 10,000 Cohesive Materials in Beast Confinement Protocol",
+        "need": 10000,
+        "activity_id": 340043,
+        "system": "",
+        "id": 40202001,
+        "phase": 0,
+        "additional_parameter": [
+            53160
+        ],
+        "reward": [
+            [
+                14,
+                2500
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            15801,
+            341001,
+            342431
+        ]
+    },
+    "40202002": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 9,
+        "condition": 350,
+        "desc": "Use 800 Oracle Cell Sequences in the Strategic Logistics Depot",
+        "need": 800,
+        "activity_id": 340044,
+        "system": "",
+        "id": 40202002,
+        "phase": 0,
+        "additional_parameter": [
+            75
+        ],
+        "reward": [
+            [
+                14,
+                1500
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            15801,
+            341001,
+            340001
+        ]
+    },
+    "40202003": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 9,
+        "condition": 2305,
+        "desc": "Collect 10 different types of general enhancements in Haze From the Unknown",
+        "need": 10,
+        "activity_id": 340045,
+        "system": "",
+        "id": 40202003,
+        "phase": 0,
+        "additional_parameter": [],
+        "reward": [
+            [
+                14,
+                2000
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            15801,
+            341001,
+            340001
+        ]
+    },
+    "40202004": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 9,
+        "condition": 320007,
+        "desc": "Defeat T2 Heavenly Father - Dyaus Pita in Sudden Commotion",
+        "need": 1,
+        "activity_id": 340046,
+        "system": "",
+        "id": 40202004,
+        "phase": 0,
+        "additional_parameter": [
+            343751,
+            5250212
+        ],
+        "reward": [
+            [
+                14,
+                2500
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            15801,
+            341001,
+            340001
+        ]
+    },
+    "40202005": {
+        "name": "Weekly",
+        "pre_id": 0,
+        "type": 8,
+        "condition": 350,
+        "desc": "Spend 1,200 Swigs.",
+        "need": 1200,
+        "activity_id": 0,
+        "system": "",
+        "id": 40202005,
+        "phase": 0,
+        "additional_parameter": [
+            4
+        ],
+        "reward": [
+            [
+                14,
+                1200
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            332
+        ]
+    },
+    "40202006": {
+        "name": "Weekly",
+        "pre_id": 0,
+        "type": 8,
+        "condition": 350,
+        "desc": "Spend 800 Swigs",
+        "need": 800,
+        "activity_id": 0,
+        "system": "",
+        "id": 40202006,
+        "phase": 0,
+        "additional_parameter": [
+            4
+        ],
+        "reward": [
+            [
+                14,
+                1000
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": [
+            332
+        ]
+    },
+    "40203001": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 360001,
+        "desc": "Obtain 1 Alisa from Scan",
+        "need": 1,
+        "activity_id": 340047,
+        "system": "",
+        "id": 40203001,
+        "phase": 0,
+        "additional_parameter": [
+            1045
+        ],
+        "reward": [
+            [
+                30049,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40203002": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 360001,
+        "desc": "Obtain 2 Alisas from Scan",
+        "need": 2,
+        "activity_id": 340047,
+        "system": "",
+        "id": 40203002,
+        "phase": 0,
+        "additional_parameter": [
+            1045
+        ],
+        "reward": [
+            [
+                30049,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40203003": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 360001,
+        "desc": "Obtain 1 Sherry from Scan",
+        "need": 1,
+        "activity_id": 340047,
+        "system": "",
+        "id": 40203003,
+        "phase": 0,
+        "additional_parameter": [
+            1046
+        ],
+        "reward": [
+            [
+                30049,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
+    "40203004": {
+        "name": "Challenge",
+        "pre_id": 0,
+        "type": 3002,
+        "condition": 360001,
+        "desc": "Gain 2 Shears from Scan",
+        "need": 2,
+        "activity_id": 340047,
+        "system": "",
+        "id": 40203004,
+        "phase": 0,
+        "additional_parameter": [
+            1046
+        ],
+        "reward": [
+            [
+                30049,
+                1
+            ]
+        ],
+        "unlock_condition": [
+            1,
+            100
+        ],
+        "source": []
+    },
     "get_id_list_by_type": {
         "3006": [
-            31101802,
+            31101805,
             31101806,
-            31101808,
             31101811,
-            31101815,
-            31101817
+            31101812,
+            31101817,
+            31101818
         ],
         "3005": [
             31101801,
+            31101802,
             31101803,
             31101804,
-            31101805,
             31101807,
+            31101808,
             31101809,
             31101810,
-            31101812,
             31101813,
             31101814,
-            31101816,
-            31101818
+            31101815,
+            31101816
         ],
         "1101": [
             30701001,
@@ -111234,7 +111674,11 @@
             40201101,
             40201102,
             40201103,
-            40201104
+            40201104,
+            40203001,
+            40203002,
+            40203003,
+            40203004
         ],
         "3001": [
             130001,
@@ -111549,7 +111993,11 @@
             30604003,
             30604004,
             30604005,
-            30706001
+            30706001,
+            40202001,
+            40202002,
+            40202003,
+            40202004
         ],
         "8": [
             81001,
@@ -111560,7 +112008,9 @@
             81006,
             81007,
             81008,
-            81009
+            81009,
+            40202005,
+            40202006
         ],
         "7": [
             71001,
@@ -111620,7 +112070,10 @@
             800046,
             800047,
             800048,
-            800049
+            800049,
+            800050,
+            800051,
+            800052
         ],
         "202": [
             60003,
@@ -112183,6 +112636,15 @@
         ]
     },
     "get_id_list_by_activity_id": {
+        "340047": [
+            40203001,
+            40203002,
+            40203003,
+            40203004
+        ],
+        "340046": [
+            40202004
+        ],
         "343501": [
             40201101,
             40201102,
@@ -112210,6 +112672,24 @@
             40201018
         ],
         "340001": [
+            31101801,
+            31101802,
+            31101803,
+            31101804,
+            31101805,
+            31101806,
+            31101807,
+            31101808,
+            31101809,
+            31101810,
+            31101811,
+            31101812,
+            31101813,
+            31101814,
+            31101815,
+            31101816,
+            31101817,
+            31101818,
             31101901,
             31101902,
             31101903,
@@ -114584,6 +115064,18 @@
             130001,
             130002
         ],
+        "340045": [
+            800052,
+            40202003
+        ],
+        "340044": [
+            800051,
+            40202002
+        ],
+        "340043": [
+            800050,
+            40202001
+        ],
         "3600416": [
             800049,
             30604005
@@ -116094,24 +116586,8 @@
             227010,
             227011,
             227012,
-            31101801,
-            31101802,
-            31101803,
-            31101804,
-            31101805,
-            31101806,
-            31101807,
-            31101808,
-            31101809,
-            31101810,
-            31101811,
-            31101812,
-            31101813,
-            31101814,
-            31101815,
-            31101816,
-            31101817,
-            31101818
+            40202005,
+            40202006
         ]
     },
     "all": [
@@ -116711,6 +117187,9 @@
         800047,
         800048,
         800049,
+        800050,
+        800051,
+        800052,
         71001,
         71002,
         71003,
@@ -119532,6 +120011,16 @@
         40201101,
         40201102,
         40201103,
-        40201104
+        40201104,
+        40202001,
+        40202002,
+        40202003,
+        40202004,
+        40202005,
+        40202006,
+        40203001,
+        40203002,
+        40203003,
+        40203004
     ]
 }

@@ -1,7 +1,7 @@
 {
     "101": {
         "id": 101,
-        "desc": "Translating:【activity_civilization_setting$101$desc$0】",
+        "desc": "Error! A <color=#E78300>Standoff</color> has appeared in the simulation. Please solve the problem with your skills.",
         "each_turn_num": 144,
         "type": 1,
         "hex": 0,
@@ -22,14 +22,14 @@
     },
     "102": {
         "id": 102,
-        "desc": "Translating:【activity_civilization_setting$102$desc$0】",
+        "desc": "Error! A <color=#E78300>Visbane</color> has appeared in the simulation. Please solve the problem with your skills.",
         "each_turn_num": 120,
         "type": 1,
         "hex": 1,
         "day": 2,
         "begin_time": 1440,
         "map_bigger": 0,
-        "note": "Translating:【activity_civilization_setting$102$note$0】",
+        "note": "The next day",
         "food_cost": 0,
         "cells_list": [
             0,
@@ -43,7 +43,7 @@
     },
     "103": {
         "id": 103,
-        "desc": "Translating:【activity_civilization_setting$103$desc$0】",
+        "desc": "Everything is normal in the simulation, and <color=#E78300>it is expanding</color>. Please accumulate more research progress.",
         "each_turn_num": 96,
         "type": 1,
         "hex": 0,
@@ -64,14 +64,14 @@
     },
     "104": {
         "id": 104,
-        "desc": "Translating:【activity_civilization_setting$104$desc$0】",
+        "desc": "Error! <color=#E78300>Resource consumption has increased</color> in the simulation. Please pay attention to the supply level.",
         "each_turn_num": 80,
         "type": 1,
         "hex": 1,
         "day": 4,
         "begin_time": 4320,
         "map_bigger": 1,
-        "note": "Translating:【activity_civilization_setting$104$note$0】",
+        "note": "Day 4",
         "food_cost": 0,
         "cells_list": [
             3,
@@ -85,14 +85,14 @@
     },
     "105": {
         "id": 105,
-        "desc": "Translating:【activity_civilization_setting$105$desc$0】",
+        "desc": "Everything is normal in the simulation. <color=#E78300>Traces of the Heavenly Father</color> have been detected. Please accumulate more research progress to make advance preparations.",
         "each_turn_num": 69,
         "type": 1,
         "hex": 0,
         "day": 5,
         "begin_time": 5760,
         "map_bigger": 0,
-        "note": "Translating:【activity_civilization_setting$105$note$0】",
+        "note": "Day 5",
         "food_cost": 1,
         "cells_list": [
             3,
@@ -106,14 +106,14 @@
     },
     "106": {
         "id": 106,
-        "desc": "Translating:【activity_civilization_setting$106$desc$0】",
+        "desc": "Error! A <color=#E78300>Restricted Area</color> has appeared in the simulation. Please solve the problem with your skills.",
         "each_turn_num": 58,
         "type": 1,
         "hex": 0,
         "day": 6,
         "begin_time": 7200,
         "map_bigger": 0,
-        "note": "Translating:【activity_civilization_setting$106$note$0】",
+        "note": "Day 6",
         "food_cost": 0,
         "cells_list": [
             0,
@@ -127,14 +127,14 @@
     },
     "107": {
         "id": 107,
-        "desc": "Translating:【activity_civilization_setting$107$desc$0】",
+        "desc": "Error! The <color=#E78300>Heavenly Father will soon appear</color> in the simulation. Prepare yourself now!",
         "each_turn_num": 51,
         "type": 1,
         "hex": 1,
         "day": 7,
         "begin_time": 8640,
         "map_bigger": 0,
-        "note": "Translating:【activity_civilization_setting$107$note$0】",
+        "note": "Day 7",
         "food_cost": 1,
         "cells_list": [
             3,
@@ -148,14 +148,14 @@
     },
     "108": {
         "id": 108,
-        "desc": "Translating:【activity_civilization_setting$108$desc$0】",
+        "desc": "Error! The simulation is about to time out. <color=#E78300>Defeat the Heavenly Father as quickly as possible</color>!",
         "each_turn_num": 46,
         "type": 1,
         "hex": 0,
         "day": 8,
         "begin_time": 10080,
         "map_bigger": 0,
-        "note": "Translating:【activity_civilization_setting$108$note$0】",
+        "note": "Day 8",
         "food_cost": 0,
         "cells_list": [
             3,
@@ -164,7 +164,7 @@
             -1,
             -1,
             0,
-            1
+            20
         ]
     },
     "109": {
@@ -176,7 +176,7 @@
         "day": 9,
         "begin_time": 11520,
         "map_bigger": 0,
-        "note": "Translating:【activity_civilization_setting$109$note$0】",
+        "note": "Ninth Day",
         "food_cost": 0,
         "cells_list": [
             3,
@@ -190,7 +190,7 @@
     },
     "201": {
         "id": 201,
-        "desc": "Translating:【activity_civilization_setting$201$desc$0】",
+        "desc": "Everything is normal in the simulation. Please accumulate more research progress.",
         "each_turn_num": 360,
         "type": 2,
         "hex": 0,
@@ -211,14 +211,14 @@
     },
     "202": {
         "id": 202,
-        "desc": "Translating:【activity_civilization_setting$202$desc$0】",
+        "desc": "Error! The Heavenly Father will soon appear in the simulation. Prepare yourself now!",
         "each_turn_num": 360,
         "type": 2,
         "hex": 1,
         "day": 2,
         "begin_time": 1440,
         "map_bigger": 0,
-        "note": "Translating:【activity_civilization_setting$202$note$0】",
+        "note": "The next day",
         "food_cost": 0,
         "cells_list": [
             0,

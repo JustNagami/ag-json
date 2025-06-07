@@ -1345,22 +1345,22 @@
     },
     "5250301": {
         "monster_level": 80,
-        "name": "Translating:【battle_activity_roulette$5250301$name$0】",
+        "name": "Abnormality",
         "ai_level": 4,
         "hero_list": "",
-        "drop_lib_id": 0,
+        "drop_lib_id": 12024582,
         "background_1": "I18c",
-        "tips": "Translating:【battle_activity_roulette$5250301$tips$0】",
+        "tips": "Abnormally low readings of life energy residue have been detected. Additional assistance: <color=#E78300>The enemy takes more Fire DMG</color> due to the effects of the environment.",
         "map": "5250301",
         "need_default_team": 1,
-        "user_exp": 0,
+        "user_exp": 30,
         "id": 5250301,
-        "hero_exp": 0,
+        "hero_exp": 60,
         "level": 1,
         "attribute_factor": [
             1000,
             1000,
-            50000
+            30000
         ],
         "team_type": [
             201,
@@ -1372,19 +1372,19 @@
         "name": "Warning",
         "ai_level": 4,
         "hero_list": "",
-        "drop_lib_id": 0,
+        "drop_lib_id": 12024583,
         "background_1": "I18c",
-        "tips": "Translating:【battle_activity_roulette$5250302$tips$0】",
+        "tips": "Something has caused the ground up ahead to collapse. Nearby residents are advised not to stay clear. Additional assistance: <color=#E78300>The Modifier's Divine Grace gain rate is increased</color> due to the environment.",
         "map": "5250302",
         "need_default_team": 1,
-        "user_exp": 0,
+        "user_exp": 30,
         "id": 5250302,
-        "hero_exp": 0,
+        "hero_exp": 60,
         "level": 1,
         "attribute_factor": [
             1000,
             1000,
-            25000
+            15000
         ],
         "team_type": [
             201,
@@ -1393,22 +1393,22 @@
     },
     "5250303": {
         "monster_level": 80,
-        "name": "Translating:【battle_activity_roulette$5250303$name$0】",
+        "name": "Blockade",
         "ai_level": 4,
         "hero_list": "",
-        "drop_lib_id": 0,
+        "drop_lib_id": 12024578,
         "background_1": "I18c",
-        "tips": "Translating:【battle_activity_roulette$5250303$tips$0】",
+        "tips": "The residents have been dispersed, and a blockade has been set up. Additional assistance: <color=#E78300>Asterism Mods deal more DMG and unleash an extra attack</color> due to the environment.",
         "map": "5250303",
         "need_default_team": 1,
-        "user_exp": 0,
+        "user_exp": 30,
         "id": 5250303,
-        "hero_exp": 0,
+        "hero_exp": 60,
         "level": 1,
         "attribute_factor": [
             1000,
             1000,
-            27000
+            17000
         ],
         "team_type": [
             201,
@@ -1417,12 +1417,12 @@
     },
     "5250304": {
         "monster_level": 80,
-        "name": "Translating:【battle_activity_roulette$5250304$name$0】",
+        "name": "Fall",
         "ai_level": 4,
         "hero_list": "",
-        "drop_lib_id": 0,
+        "drop_lib_id": 12024579,
         "background_1": "A07",
-        "tips": "Translating:【battle_activity_roulette$5250304$tips$0】",
+        "tips": "A massive shadow vaults over the hill and crashes down with earth-shaking force, making the ground wail as spider-web-like cracks spread.",
         "map": "5250304",
         "need_default_team": 1,
         "user_exp": 0,
@@ -1432,7 +1432,7 @@
         "attribute_factor": [
             1000,
             1000,
-            14500
+            8000
         ],
         "team_type": [
             201,

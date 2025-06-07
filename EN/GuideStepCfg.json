@@ -13228,7 +13228,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12101,
-        "talk_content": "Translating:【guide_step$12101$talk_content$0】",
+        "talk_content": "Admin, I believe you already know the situation concerning the Aragami. This temporary command room has been set up to deal with them.",
         "params": [],
         "guide_component": [
             "common",
@@ -13251,7 +13251,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12102,
-        "talk_content": "Translating:【guide_step$12102$talk_content$0】",
+        "talk_content": "This is where you can track the operation's progress in real time. More reward missions will be unlocked as the operation progresses.",
         "params": [],
         "guide_component": [
             "common",
@@ -13274,7 +13274,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12103,
-        "talk_content": "Translating:【guide_step$12103$talk_content$0】",
+        "talk_content": "Keep an eye on the terminal to respond to new reward missions.",
         "params": [],
         "guide_component": [
             "common",
@@ -13297,7 +13297,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12104,
-        "talk_content": "Translating:【guide_step$12104$talk_content$0】",
+        "talk_content": "We've already locked onto the coordinates of some Aragami. You can attack them at any time.",
         "params": [],
         "guide_component": [
             "common",
@@ -13321,7 +13321,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12105,
-        "talk_content": "Translating:【guide_step$12105$talk_content$0】",
+        "talk_content": "You can collect the supplies you find on the wasteland, but remember to keep an eye out for lurking Aragami nearby.",
         "params": [],
         "guide_component": [
             "common",
@@ -13344,7 +13344,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12106,
-        "talk_content": "Translating:【guide_step$12106$talk_content$0】",
+        "talk_content": "The Joint HQ is still trying to find a solution to the Aragami. Let's return when more progress has been made.",
         "params": [],
         "guide_component": [
             "common",
@@ -13367,7 +13367,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12107,
-        "talk_content": "Translating:【guide_step$12107$talk_content$0】",
+        "talk_content": "A God Eater has come to help you. Meet up with her now!",
         "params": [],
         "guide_component": [
             "common",
@@ -13376,7 +13376,14 @@
                 "giftBtn_"
             ]
         ],
-        "mask_component": [],
+        "mask_component": [
+            "common",
+            "ActivityGodEaterGameMainView",
+            [
+                "guideComponents",
+                "guide_6"
+            ]
+        ],
         "mask_scale": [],
         "talk_position": [
             743,
@@ -13389,7 +13396,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12201,
-        "talk_content": "Translating:【guide_step$12201$talk_content$0】",
+        "talk_content": "The wasteland is filled with danger. Please select a God Eater as your companion.",
         "params": [],
         "guide_component": [
             "common",
@@ -13411,7 +13418,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12202,
-        "talk_content": "Translating:【guide_step$12202$talk_content$0】",
+        "talk_content": "It looks like Alisa really wants to complete this mission with you. Let's choose her!",
         "params": [],
         "guide_component": [
             "common",
@@ -13434,7 +13441,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12301,
-        "talk_content": "Translating:【guide_step$12301$talk_content$0】",
+        "talk_content": "You'll be able to use God Eaters' skills once you have enough points.",
         "params": [],
         "guide_component": [
             "common",
@@ -13478,7 +13485,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12303,
-        "talk_content": "Translating:【guide_step$12303$talk_content$0】",
+        "talk_content": "If you catch something you don't want, you can blow it up with explosives to retract your hook quickly.",
         "params": [],
         "guide_component": [
             "common",
@@ -13493,29 +13500,6 @@
             0
         ]
     },
-    "12304": {
-        "talk_anchors": 0,
-        "type": "HighLight",
-        "talk_adapt": 0,
-        "mask_component": "",
-        "is_finish": false,
-        "id": 12304,
-        "talk_content": "Translating:【guide_step$12304$talk_content$0】",
-        "params": [],
-        "guide_component": [
-            "common",
-            "civilizationGameView",
-            [
-                "guideComponents",
-                "guide_introduce1"
-            ]
-        ],
-        "mask_scale": [],
-        "talk_position": [
-            -442.1,
-            -100.59
-        ]
-    },
     "12305": {
         "talk_anchors": 0,
         "type": "HighLight",
@@ -13523,7 +13507,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12305,
-        "talk_content": "Translating:【guide_step$12305$talk_content$0】",
+        "talk_content": "The green ones are <color=#E78300>Supply</color> Cells. Supplies are crucial for simulations and <color=#E78300>are consumed whenever an action is made</color>.",
         "params": [],
         "guide_component": [
             "common",
@@ -13546,7 +13530,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12306,
-        "talk_content": "Translating:【guide_step$12306$talk_content$0】",
+        "talk_content": "The yellow ones are <color=#E78300>Manpower</color> Cells. <color=#E78300>Casting skills consume Manpower</color>.",
         "params": [],
         "guide_component": [
             "common",
@@ -13569,7 +13553,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12307,
-        "talk_content": "Translating:【guide_step$12307$talk_content$0】",
+        "talk_content": "The blue ones are <color=#E78300>Oracle Factor</color> Cells. <color=#E78300>Collect them to boost the Processing Progress</color> and gain enhancement effects.",
         "params": [],
         "guide_component": [
             "common",
@@ -13585,52 +13569,6 @@
             86.59
         ]
     },
-    "12308": {
-        "talk_anchors": 1,
-        "type": "HighLight",
-        "talk_adapt": 0,
-        "mask_component": "",
-        "is_finish": false,
-        "id": 12308,
-        "talk_content": "Translating:【guide_step$12308$talk_content$0】",
-        "params": [],
-        "guide_component": [
-            "common",
-            "civilizationGameView",
-            [
-                "guideComponents",
-                "guide_introduce5"
-            ]
-        ],
-        "mask_scale": [],
-        "talk_position": [
-            907.51,
-            -274.1
-        ]
-    },
-    "12309": {
-        "talk_anchors": 0,
-        "type": "HighLight",
-        "talk_adapt": 0,
-        "mask_component": "",
-        "is_finish": false,
-        "id": 12309,
-        "talk_content": "Translating:【guide_step$12309$talk_content$0】",
-        "params": [],
-        "guide_component": [
-            "common",
-            "civilizationGameView",
-            [
-                "guideComponents",
-                "guide_introduce1"
-            ]
-        ],
-        "mask_scale": [],
-        "talk_position": [
-            -442.1,
-            -100.59
-        ]
-    },
     "12310": {
         "talk_anchors": 0,
         "type": "HighLight",
@@ -13638,7 +13576,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12310,
-        "talk_content": "Translating:【guide_step$12310$talk_content$0】",
+        "talk_content": "Drag cells to move them around. When 3 or more of the same cells are next to each other, they will be eliminated, and you will obtain the corresponding resource.",
         "params": [],
         "guide_component": [
             "common",
@@ -13661,7 +13599,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12311,
-        "talk_content": "Translating:【guide_step$12311$talk_content$0】",
+        "talk_content": "Let's try merging the Supplies once first.",
         "params": [],
         "guide_component": [
             "common",
@@ -13734,7 +13672,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12314,
-        "talk_content": "Translating:【guide_step$12314$talk_content$0】",
+        "talk_content": "<color=#E78300>Each action uses up some time</color>, and challenges will become more difficult as time passes.",
         "params": [],
         "guide_component": [
             "common",
@@ -13757,7 +13695,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12315,
-        "talk_content": "Translating:【guide_step$12315$talk_content$0】",
+        "talk_content": "Let's merge them one more time.",
         "params": [
             "pointerDown"
         ],
@@ -13782,7 +13720,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12316,
-        "talk_content": "Translating:【guide_step$12316$talk_content$0】",
+        "talk_content": "Let's merge them one more time.",
         "params": [
             "pointerUp"
         ],
@@ -13800,28 +13738,6 @@
             101.21
         ]
     },
-    "12317": {
-        "talk_anchors": 0,
-        "type": "HighLight",
-        "talk_adapt": 0,
-        "mask_component": "",
-        "is_finish": false,
-        "id": 12317,
-        "talk_content": "Translating:【guide_step$12317$talk_content$0】",
-        "params": [],
-        "guide_component": [
-            "common",
-            "civilizationGameChooseSkillView",
-            [
-                "gameObject_"
-            ]
-        ],
-        "mask_scale": [],
-        "talk_position": [
-            -611.64,
-            0
-        ]
-    },
     "12318": {
         "talk_anchors": 0,
         "type": "ClickButton",
@@ -13829,7 +13745,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12318,
-        "talk_content": "Translating:【guide_step$12318$talk_content$0】",
+        "talk_content": "You've accumulated enough Processing Progress to select one enhancement effect. Choose Basic Negotiation.",
         "params": [],
         "guide_component": [
             "common",
@@ -13853,7 +13769,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12319,
-        "talk_content": "Translating:【guide_step$12319$talk_content$0】",
+        "talk_content": "Tap here to confirm.",
         "params": [],
         "guide_component": [
             "common",
@@ -13865,7 +13781,7 @@
         "mask_scale": [],
         "talk_position": [
             -611.64,
-            115.98
+            -400
         ]
     },
     "12320": {
@@ -13875,7 +13791,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12320,
-        "talk_content": "Translating:【guide_step$12320$talk_content$0】",
+        "talk_content": "Manpower is consumed when you use skills. Let's try to merge Manpower once.",
         "params": [
             "pointerDown"
         ],
@@ -13900,7 +13816,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12321,
-        "talk_content": "Translating:【guide_step$12321$talk_content$0】",
+        "talk_content": "Manpower is consumed when you use skills. Let's try to merge Manpower once.",
         "params": [
             "pointerUp"
         ],
@@ -13925,7 +13841,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12322,
-        "talk_content": "Translating:【guide_step$12322$talk_content$0】",
+        "talk_content": "A Standoff has appeared here. It will occupy a cell and make it unmovable.",
         "params": [],
         "guide_component": [
             "common",
@@ -13948,7 +13864,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12323,
-        "talk_content": "Translating:【guide_step$12323$talk_content$0】",
+        "talk_content": "Use Basic Negotiation to remove the Standoff.",
         "params": [
             "skillSelected"
         ],
@@ -13997,7 +13913,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12401,
-        "talk_content": "Translating:【guide_step$12401$talk_content$0】",
+        "talk_content": "Those boxes loaded with supplies are worth a fair bit.",
         "params": [],
         "guide_component": [
             "common",
@@ -14020,7 +13936,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12402,
-        "talk_content": "Translating:【guide_step$12402$talk_content$0】",
+        "talk_content": "There are Aragami wandering in the wasteland. Catch them to get a considerable number of points.",
         "params": [],
         "guide_component": [
             "common",
@@ -14033,8 +13949,8 @@
         "mask_component": [],
         "mask_scale": [],
         "talk_position": [
-            -394.65,
-            -174.65
+            -480,
+            -175
         ]
     },
     "12403": {
@@ -14043,7 +13959,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12403,
-        "talk_content": "Translating:【guide_step$12403$talk_content$0】",
+        "talk_content": "You'll be able to use God Eaters' skills once you have enough points.",
         "params": [],
         "guide_component": [
             "common",
@@ -14056,7 +13972,7 @@
         "mask_scale": [],
         "talk_position": [
             56.3,
-            160
+            205
         ]
     },
     "12404": {
@@ -14065,7 +13981,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12404,
-        "talk_content": "Translating:【guide_step$12404$talk_content$0】",
+        "talk_content": "If you catch something you don't want, you can blow it up with explosives to retract your hook quickly.",
         "params": [],
         "guide_component": [
             "common",
@@ -14077,8 +13993,8 @@
         "mask_component": [],
         "mask_scale": [],
         "talk_position": [
-            521,
-            143.24
+            515,
+            167
         ]
     },
     "12405": {
@@ -14087,7 +14003,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12405,
-        "talk_content": "Translating:【guide_step$12405$talk_content$0】",
+        "talk_content": "Complete all the objectives before the time runs out!",
         "params": [],
         "guide_component": [
             "common",
@@ -14110,7 +14026,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12501,
-        "talk_content": "Translating:【guide_step$12501$talk_content$0】",
+        "talk_content": "In some parts of the wasteland, there are wanderers who covet the supplies you've collected.",
         "params": [],
         "guide_component": [
             "common",
@@ -14123,8 +14039,8 @@
         "mask_component": [],
         "mask_scale": [],
         "talk_position": [
-            -442.1,
-            -100.59
+            -484,
+            158
         ]
     },
     "12502": {
@@ -14133,7 +14049,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12502,
-        "talk_content": "Translating:【guide_step$12502$talk_content$0】",
+        "talk_content": "If a wanderer manages to steal your supplies, you can use the reflector plate to take them back.",
         "params": [],
         "guide_component": [
             "common",
@@ -14146,8 +14062,8 @@
         "mask_component": [],
         "mask_scale": [],
         "talk_position": [
-            -442.1,
-            -100.59
+            106,
+            117
         ]
     },
     "12601": {
@@ -14157,7 +14073,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12601,
-        "talk_content": "Translating:【guide_step$12601$talk_content$0】",
+        "talk_content": "The environment of the simulation will change to some extent after you enter a new stage.",
         "params": [],
         "guide_component": [
             "common",
@@ -14179,7 +14095,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12602,
-        "talk_content": "Translating:【guide_step$12602$talk_content$0】",
+        "talk_content": "Exclusive enhancements will be unlocked for Modifiers on Day 2, Day 4, and Day 7 of the simulation.",
         "params": [],
         "guide_component": [
             "common",
@@ -14196,24 +14112,18 @@
     },
     "12603": {
         "talk_anchors": 0,
-        "type": "HighLight",
+        "type": "CivilizationGameStep",
         "talk_adapt": 0,
-        "mask_component": "",
         "is_finish": false,
         "id": 12603,
-        "talk_content": "Translating:【guide_step$12603$talk_content$0】",
+        "talk_content": "\t",
         "params": [],
-        "guide_component": [
-            "common",
-            "civilizationGameChooseSkillView",
-            [
-                "itemContentTrs_"
-            ]
-        ],
+        "guide_component": [],
+        "mask_component": [],
         "mask_scale": [],
         "talk_position": [
-            -651.47,
-            -380.41
+            0,
+            0
         ]
     },
     "12604": {
@@ -14223,7 +14133,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12604,
-        "talk_content": "Translating:【guide_step$12604$talk_content$0】",
+        "talk_content": "In each stage, you can choose one of two exclusive enhancements. Try this one first.",
         "params": [],
         "guide_component": [
             "common",
@@ -14247,7 +14157,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12605,
-        "talk_content": "Translating:【guide_step$12605$talk_content$0】",
+        "talk_content": "Tap here to confirm.",
         "params": [],
         "guide_component": [
             "common",
@@ -14259,7 +14169,7 @@
         "mask_scale": [],
         "talk_position": [
             -611.64,
-            115.98
+            -400
         ]
     },
     "12606": {
@@ -14269,7 +14179,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12606,
-        "talk_content": "Translating:【guide_step$12606$talk_content$0】",
+        "talk_content": "The victory condition of the simulation is to <color=#E78300>defeat the final boss, Heavenly Father</color>. The Heavenly Father will appear on Day 8.",
         "params": [],
         "guide_component": [
             "common",
@@ -14292,7 +14202,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12607,
-        "talk_content": "Translating:【guide_step$12607$talk_content$0】",
+        "talk_content": "Last-minute adjustments were made to the basic simulation. The Heavenly Father will appear on Day 3.",
         "params": [],
         "guide_component": [
             "common",
@@ -14309,26 +14219,26 @@
         ]
     },
     "12608": {
-        "talk_anchors": 0,
+        "talk_anchors": 1,
         "type": "HighLight",
         "talk_adapt": 0,
         "mask_component": "",
         "is_finish": false,
         "id": 12608,
-        "talk_content": "Translating:【guide_step$12608$talk_content$0】",
+        "talk_content": "Keep <color=#E78300>accumulating the Processing Progress</color>. You'll be able to defeat the Heavenly Father after unlocking the skill: <color=#E78300>Settled Dust</color>!",
         "params": [],
         "guide_component": [
             "common",
             "civilizationGameView",
             [
                 "guideComponents",
-                "guide_introduce1"
+                "guide_introduce10"
             ]
         ],
         "mask_scale": [],
         "talk_position": [
-            -442.1,
-            -100.59
+            899.37,
+            -640.59
         ]
     },
     "12609": {
@@ -14337,7 +14247,7 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 12609,
-        "talk_content": "Translating:【guide_step$12609$talk_content$0】",
+        "talk_content": "\t",
         "params": [],
         "guide_component": [],
         "mask_component": [],
@@ -14922,12 +14832,9 @@
         12301,
         12302,
         12303,
-        12304,
         12305,
         12306,
         12307,
-        12308,
-        12309,
         12310,
         12311,
         12312,
@@ -14935,7 +14842,6 @@
         12314,
         12315,
         12316,
-        12317,
         12318,
         12319,
         12320,

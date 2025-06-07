@@ -2603,9 +2603,9 @@
             1075
         ],
         "hero_desc": [
-            "Translating:【recommand_team$917$hero_desc$1】",
-            "Translating:【recommand_team$917$hero_desc$2】",
-            "Translating:【recommand_team$917$hero_desc$3】"
+            "Main DPS",
+            "Secondary DPS",
+            "Universal Support"
         ],
         "hero_astrolabe": [
             [
@@ -2614,9 +2614,9 @@
                 10450023
             ],
             [
-                10460021,
-                10460022,
-                10460023
+                10460011,
+                10460012,
+                10460013
             ],
             [
                 10750021,
@@ -2636,6 +2636,50 @@
             [
                 42,
                 20
+            ]
+        ]
+    },
+    "918": {
+        "id": 918,
+        "hero_id": [
+            1046,
+            1045,
+            1055
+        ],
+        "hero_desc": [
+            "Main DPS",
+            "Secondary DPS",
+            "Stat Support"
+        ],
+        "hero_astrolabe": [
+            [
+                10460021,
+                10460022,
+                10460023
+            ],
+            [
+                10450021,
+                10450022,
+                10450023
+            ],
+            [
+                10550021,
+                10550022,
+                10550023
+            ]
+        ],
+        "hero_equip_suit": [
+            [
+                70,
+                71
+            ],
+            [
+                70,
+                71
+            ],
+            [
+                48,
+                32
             ]
         ]
     },
@@ -2699,6 +2743,7 @@
         902,
         903,
         904,
-        917
+        917,
+        918
     ]
 }

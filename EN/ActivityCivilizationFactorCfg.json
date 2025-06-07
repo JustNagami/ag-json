@@ -1,7 +1,7 @@
 {
     "1001": {
-        "description": "Translating:【activity_civilization_factor$1001$description$0】",
-        "name": "Translating:【activity_civilization_factor$1001$name$0】",
+        "description": "The skill cost of Inherent Supplies -1",
+        "name": "Inherent Supplies",
         "effect_type": 1,
         "id": 1001,
         "icon": "",
@@ -15,8 +15,8 @@
         ]
     },
     "1002": {
-        "description": "Translating:【activity_civilization_factor$1002$description$0】",
-        "name": "Translating:【activity_civilization_factor$1002$name$0】",
+        "description": "You can continue taking actions for 3 more rounds when the Supplies reach 0",
+        "name": "Low Cost",
         "effect_type": 2,
         "id": 1002,
         "icon": "combinegame_hero_skill_1",
@@ -27,8 +27,8 @@
         ]
     },
     "1003": {
-        "description": "Translating:【activity_civilization_factor$1003$description$0】",
-        "name": "Translating:【activity_civilization_factor$1003$name$0】",
+        "description": "There is a 30% chance to gain 1 additional Supply when obtaining Supplies",
+        "name": "Sustainability",
         "effect_type": 3,
         "id": 1003,
         "icon": "combinegame_hero_skill_2",
@@ -40,8 +40,8 @@
         ]
     },
     "1004": {
-        "description": "Translating:【activity_civilization_factor$1004$description$0】",
-        "name": "Translating:【activity_civilization_factor$1004$name$0】",
+        "description": "Alisa's next 3 skill casts do not consume Manpower",
+        "name": "Downscaling",
         "effect_type": 4,
         "id": 1004,
         "icon": "combinegame_hero_skill_3",
@@ -52,8 +52,8 @@
         ]
     },
     "1005": {
-        "description": "Translating:【activity_civilization_factor$1005$description$0】",
-        "name": "Permutation",
+        "description": "Gain Supplies equal to the current Manpower",
+        "name": "Conversion",
         "effect_type": 5,
         "id": 1005,
         "icon": "combinegame_hero_skill_4",
@@ -65,8 +65,8 @@
         ]
     },
     "1006": {
-        "description": "Translating:【activity_civilization_factor$1006$description$0】",
-        "name": "Translating:【activity_civilization_factor$1006$name$0】",
+        "description": "Alisa's next 6 skill casts do not consume Manpower",
+        "name": "Boost",
         "effect_type": 4,
         "id": 1006,
         "icon": "combinegame_hero_skill_5",
@@ -77,8 +77,8 @@
         ]
     },
     "1007": {
-        "description": "Translating:【activity_civilization_factor$1007$description$0】",
-        "name": "Translating:【activity_civilization_factor$1007$name$0】",
+        "description": "Gain 20 Processing Progress for every base station you own",
+        "name": "Back-Up Support",
         "effect_type": 6,
         "id": 1007,
         "icon": "combinegame_hero_skill_6",
@@ -90,8 +90,8 @@
         ]
     },
     "2001": {
-        "description": "Translating:【activity_civilization_factor$2001$description$0】",
-        "name": "Translating:【activity_civilization_factor$2001$name$0】",
+        "description": "The skill cost of Basic Negotiation -1",
+        "name": "Basic Negotiation",
         "effect_type": 1,
         "id": 2001,
         "icon": "",
@@ -105,8 +105,8 @@
         ]
     },
     "2002": {
-        "description": "Translating:【activity_civilization_factor$2002$description$0】",
-        "name": "Translating:【activity_civilization_factor$2002$name$0】",
+        "description": "The cost of all skills -1",
+        "name": "Seize the Opportunity to Attack",
         "effect_type": 15,
         "id": 2002,
         "icon": "combinegame_hero_skill_7",
@@ -117,8 +117,8 @@
         ]
     },
     "2003": {
-        "description": "Translating:【activity_civilization_factor$2003$description$0】",
-        "name": "Translating:【activity_civilization_factor$2003$name$0】",
+        "description": "The skills Transport Route and Skyrail no longer consume Manpower",
+        "name": "Planner",
         "effect_type": 8,
         "id": 2003,
         "icon": "combinegame_hero_skill_8",
@@ -130,8 +130,8 @@
         ]
     },
     "2004": {
-        "description": "Translating:【activity_civilization_factor$2004$description$0】",
-        "name": "Translating:【activity_civilization_factor$2004$name$0】",
+        "description": "+1 Movement Range when using the skills Transport Route and Skyrail",
+        "name": "Self Control",
         "effect_type": 9,
         "id": 2004,
         "icon": "combinegame_hero_skill_9",
@@ -142,8 +142,8 @@
         ]
     },
     "2005": {
-        "description": "Translating:【activity_civilization_factor$2005$description$0】",
-        "name": "Translating:【activity_civilization_factor$2005$name$0】",
+        "description": "Gain Manpower equal to the current Supplies",
+        "name": "Helpful Heart",
         "effect_type": 5,
         "id": 2005,
         "icon": "combinegame_hero_skill_10",
@@ -155,8 +155,8 @@
         ]
     },
     "2006": {
-        "description": "Translating:【activity_civilization_factor$2006$description$0】",
-        "name": "Translating:【activity_civilization_factor$2006$name$0】",
+        "description": "Removes 1 additional random Restricted Area when removing a Restricted Area",
+        "name": "Bullet Research",
         "effect_type": 10,
         "id": 2006,
         "icon": "combinegame_hero_skill_11",
@@ -167,8 +167,8 @@
         ]
     },
     "2007": {
-        "description": "Translating:【activity_civilization_factor$2007$description$0】",
-        "name": "Translating:【activity_civilization_factor$2007$name$0】",
+        "description": "Ciel's next 6 skill casts do not consume Manpower",
+        "name": "Discipline's Reward",
         "effect_type": 4,
         "id": 2007,
         "icon": "combinegame_hero_skill_12",
@@ -179,8 +179,8 @@
         ]
     },
     "3001": {
-        "description": "Translating:【activity_civilization_factor$3001$description$0】",
-        "name": "Translating:【activity_civilization_factor$3001$name$0】",
+        "description": "Unlocks Inherent Supplies\n\n<color=#F0C48F>Inherent Supplies: Deploys Lv. 1 Supplies at the designated location</color>",
+        "name": "Inherent Supplies",
         "effect_type": 11,
         "id": 3001,
         "icon": "combinegame_factor_1",
@@ -191,8 +191,8 @@
         ]
     },
     "3002": {
-        "description": "Translating:【activity_civilization_factor$3002$description$0】",
-        "name": "Translating:【activity_civilization_factor$3002$name$0】",
+        "description": "Unlocks Basic Negotiation\n\n<color=#F0C48F>Basic Negotiation: Removes a Standoff and grants 2 Supplies</color>",
+        "name": "Basic Negotiation",
         "effect_type": 11,
         "id": 3002,
         "icon": "combinegame_factor_2",
@@ -203,8 +203,8 @@
         ]
     },
     "3003": {
-        "description": "Translating:【activity_civilization_factor$3003$description$0】",
-        "name": "Translating:【activity_civilization_factor$3003$name$0】",
+        "description": "Unlocks Transport Route\n\n<color=#F0C48F>Transport Route: Moves a specified cell 4 tiles</color>",
+        "name": "Transport Route",
         "effect_type": 11,
         "id": 3003,
         "icon": "combinegame_factor_5",
@@ -215,8 +215,8 @@
         ]
     },
     "3004": {
-        "description": "Translating:【activity_civilization_factor$3004$description$0】",
-        "name": "Translating:【activity_civilization_factor$3004$name$0】",
+        "description": "Unlocks Lv. 3 Manpower",
+        "name": "Advanced Dispatch",
         "effect_type": 12,
         "id": 3004,
         "icon": "combinegame_factor_6",
@@ -228,8 +228,8 @@
         ]
     },
     "3005": {
-        "description": "Translating:【activity_civilization_factor$3005$description$0】",
-        "name": "Translating:【activity_civilization_factor$3005$name$0】",
+        "description": "Unlocks Base Station\n\n<color=#F0C48F>Base Station: Builds a Base Station that provides 1 Processing Progress per round on a specified empty space</color>",
+        "name": "Base Station",
         "effect_type": 11,
         "id": 3005,
         "icon": "combinegame_factor_7",
@@ -240,8 +240,8 @@
         ]
     },
     "3006": {
-        "description": "Translating:【activity_civilization_factor$3006$description$0】",
-        "name": "Translating:【activity_civilization_factor$3006$name$0】",
+        "description": "Unlocks Play by Ear\n\n<color=#F0C48F>Play by Ear: Upgrades a specified Lv. 1 cell to Lv. 2</color>",
+        "name": "Play by Ear",
         "effect_type": 11,
         "id": 3006,
         "icon": "combinegame_factor_8",
@@ -252,8 +252,8 @@
         ]
     },
     "3007": {
-        "description": "Translating:【activity_civilization_factor$3007$description$0】",
-        "name": "Translating:【activity_civilization_factor$3007$name$0】",
+        "description": "Unlocks Efficient Combat\n\n<color=#F0C48F>Efficient Combat: Reduces the duration of a Visbane by 6 rounds</color>",
+        "name": "Efficient Combat",
         "effect_type": 11,
         "id": 3007,
         "icon": "combinegame_factor_9",
@@ -264,8 +264,8 @@
         ]
     },
     "3008": {
-        "description": "Translating:【activity_civilization_factor$3008$description$0】",
-        "name": "Translating:【activity_civilization_factor$3008$name$0】",
+        "description": "Unlocks Lv. 3 Supplies",
+        "name": "Supply Aid",
         "effect_type": 12,
         "id": 3008,
         "icon": "combinegame_factor_10",
@@ -277,8 +277,8 @@
         ]
     },
     "3009": {
-        "description": "Translating:【activity_civilization_factor$3009$description$0】",
-        "name": "Translating:【activity_civilization_factor$3009$name$0】",
+        "description": "Unlocks Lv. 3 Research",
+        "name": "Experiment",
         "effect_type": 12,
         "id": 3009,
         "icon": "combinegame_factor_11",
@@ -290,8 +290,8 @@
         ]
     },
     "3010": {
-        "description": "Translating:【activity_civilization_factor$3010$description$0】",
-        "name": "Translating:【activity_civilization_factor$3010$name$0】",
+        "description": "Lv. 1 Manpower no longer generates naturally",
+        "name": "Human Resource Improvement",
         "effect_type": 13,
         "id": 3010,
         "icon": "combinegame_factor_12",
@@ -303,8 +303,8 @@
         ]
     },
     "3011": {
-        "description": "Translating:【activity_civilization_factor$3011$description$0】",
-        "name": "Translating:【activity_civilization_factor$3011$name$0】",
+        "description": "Lv. 1 Supplies no longer generate naturally",
+        "name": "Supply Storage",
         "effect_type": 13,
         "id": 3011,
         "icon": "combinegame_factor_13",
@@ -316,8 +316,8 @@
         ]
     },
     "3012": {
-        "description": "Translating:【activity_civilization_factor$3012$description$0】",
-        "name": "Translating:【activity_civilization_factor$3012$name$0】",
+        "description": "Lv. 1 Research no longer generates naturally",
+        "name": "Effective Means",
         "effect_type": 13,
         "id": 3012,
         "icon": "combinegame_factor_14",
@@ -329,8 +329,8 @@
         ]
     },
     "3013": {
-        "description": "Translating:【activity_civilization_factor$3013$description$0】",
-        "name": "Translating:【activity_civilization_factor$3013$name$0】",
+        "description": "Unlocks Improvision and unequips Play by Ear\n\n<color=#F0C48F>Improvision: Upgrades a specified Lv. 1 or Lv. 2 cell to Lv. 3</color>",
+        "name": "Improvision",
         "effect_type": 14,
         "id": 3013,
         "icon": "combinegame_factor_15",
@@ -342,8 +342,8 @@
         ]
     },
     "3014": {
-        "description": "Translating:【activity_civilization_factor$3014$description$0】",
-        "name": "Translating:【activity_civilization_factor$3014$name$0】",
+        "description": "Unlocks Supply Integration\n\n<color=#F0C48F>Supply Integration: Instantly gain all Supplies in a 3×3 area and remove all corresponding cells</color>",
+        "name": "Supply Integration",
         "effect_type": 11,
         "id": 3014,
         "icon": "combinegame_factor_16",
@@ -354,8 +354,8 @@
         ]
     },
     "3015": {
-        "description": "Translating:【activity_civilization_factor$3015$description$0】",
-        "name": "Translating:【activity_civilization_factor$3015$name$0】",
+        "description": "Unlocks Sound Argument and unequips Basic Negotiation\n\n<color=#F0C48F>Sound Argument: Removes all Standoffs in a 5×5 area and grants 2 Supplies for each one removed</color>",
+        "name": "Sound Argument",
         "effect_type": 14,
         "id": 3015,
         "icon": "combinegame_factor_17",
@@ -367,8 +367,8 @@
         ]
     },
     "3016": {
-        "description": "Translating:【activity_civilization_factor$3016$description$0】",
-        "name": "Translating:【activity_civilization_factor$3016$name$0】",
+        "description": "The cost of all skills -3",
+        "name": "Tactical Adjustment",
         "effect_type": 15,
         "id": 3016,
         "icon": "combinegame_factor_18",
@@ -379,8 +379,8 @@
         ]
     },
     "3017": {
-        "description": "Translating:【activity_civilization_factor$3017$description$0】",
-        "name": "Translating:【activity_civilization_factor$3017$name$0】",
+        "description": "Unlocks Lv. 4 Manpower",
+        "name": "Additional Dispatch",
         "effect_type": 12,
         "id": 3017,
         "icon": "combinegame_factor_19",
@@ -392,8 +392,8 @@
         ]
     },
     "3018": {
-        "description": "Translating:【activity_civilization_factor$3018$description$0】",
-        "name": "Translating:【activity_civilization_factor$3018$name$0】",
+        "description": "Unlocks Lv. 4 Research",
+        "name": "Data Verification",
         "effect_type": 12,
         "id": 3018,
         "icon": "combinegame_factor_20",
@@ -405,8 +405,8 @@
         ]
     },
     "3019": {
-        "description": "Translating:【activity_civilization_factor$3019$description$0】",
-        "name": "Translating:【activity_civilization_factor$3019$name$0】",
+        "description": "Unlocks Lv. 4 Supplies",
+        "name": "Supply Allocation",
         "effect_type": 12,
         "id": 3019,
         "icon": "combinegame_factor_21",
@@ -418,8 +418,8 @@
         ]
     },
     "3020": {
-        "description": "Translating:【activity_civilization_factor$3020$description$0】",
-        "name": "Translating:【activity_civilization_factor$3020$name$0】",
+        "description": "Unlocks Skyrail and unequips Transport Route\n\n<color=#F0C48F>Skyrail: Moves a specified cell 6 tiles</color>",
+        "name": "Skyrail",
         "effect_type": 14,
         "id": 3020,
         "icon": "combinegame_factor_22",
@@ -431,8 +431,8 @@
         ]
     },
     "3021": {
-        "description": "Translating:【activity_civilization_factor$3021$description$0】",
-        "name": "Translating:【activity_civilization_factor$3021$name$0】",
+        "description": "Standoffs no longer occur. Unequips Sound Argument",
+        "name": "Collaboration",
         "effect_type": 16,
         "id": 3021,
         "icon": "combinegame_factor_23",
@@ -441,8 +441,8 @@
         "effect": []
     },
     "3022": {
-        "description": "Translating:【activity_civilization_factor$3022$description$0】",
-        "name": "Translating:【activity_civilization_factor$3022$name$0】",
+        "description": "Unlocks Airdrop Supplies and unequips Inherent Supplies\n\n<color=#F0C48F>Airdrop Supplies: Deploys Lv. 3 Supplies at the designated location</color>",
+        "name": "Airdrop Supplies",
         "effect_type": 14,
         "id": 3022,
         "icon": "combinegame_factor_24",
@@ -454,8 +454,8 @@
         ]
     },
     "3023": {
-        "description": "Translating:【activity_civilization_factor$3023$description$0】",
-        "name": "Translating:【activity_civilization_factor$3023$name$0】",
+        "description": "Lv. 2 Manpower no longer generates naturally",
+        "name": "Human Resource Optimization",
         "effect_type": 13,
         "id": 3023,
         "icon": "combinegame_factor_25",
@@ -467,8 +467,8 @@
         ]
     },
     "3024": {
-        "description": "Translating:【activity_civilization_factor$3024$description$0】",
-        "name": "Translating:【activity_civilization_factor$3024$name$0】",
+        "description": "Unlocks Rapid Transfer\n\n<color=#F0C48F>Rapid Transfer: Moves a specified cell anywhere</color>",
+        "name": "Rapid Transfer",
         "effect_type": 11,
         "id": 3024,
         "icon": "combinegame_factor_26",
@@ -479,8 +479,8 @@
         ]
     },
     "3025": {
-        "description": "Translating:【activity_civilization_factor$3025$description$0】",
-        "name": "Translating:【activity_civilization_factor$3025$name$0】",
+        "description": "Lv. 2 Research no longer generates naturally",
+        "name": "Significant Results",
         "effect_type": 13,
         "id": 3025,
         "icon": "combinegame_factor_27",
@@ -492,8 +492,8 @@
         ]
     },
     "3026": {
-        "description": "Translating:【activity_civilization_factor$3026$description$0】",
-        "name": "Translating:【activity_civilization_factor$3026$name$0】",
+        "description": "Unlocks Strategic Planning and unequips Improvision\n\n<color=#F0C48F>Improvision: Upgrades a specified cell to Lv. 4</color>",
+        "name": "Strategic Planning",
         "effect_type": 14,
         "id": 3026,
         "icon": "combinegame_factor_28",
@@ -505,8 +505,8 @@
         ]
     },
     "3027": {
-        "description": "Translating:【activity_civilization_factor$3027$description$0】",
-        "name": "Translating:【activity_civilization_factor$3027$name$0】",
+        "description": "Unlocks Tactical Deployment\n\n<color=#F0C48F>Tactical Deployment: Instantly gain all Manpower in a 3×3 area and remove all corresponding cells</color>",
+        "name": "Tactical Dispatch",
         "effect_type": 11,
         "id": 3027,
         "icon": "combinegame_factor_29",
@@ -517,8 +517,8 @@
         ]
     },
     "3029": {
-        "description": "Translating:【activity_civilization_factor$3029$description$0】",
-        "name": "Translating:【activity_civilization_factor$3029$name$0】",
+        "description": "+1 Movement Range for all movable cells",
+        "name": "Exclusive Channel I",
         "effect_type": 17,
         "id": 3029,
         "icon": "combinegame_factor_31",
@@ -529,8 +529,8 @@
         ]
     },
     "3030": {
-        "description": "Translating:【activity_civilization_factor$3030$description$0】",
-        "name": "Translating:【activity_civilization_factor$3030$name$0】",
+        "description": "Lv. 2 Supplies no longer generate naturally",
+        "name": "Supply Collection",
         "effect_type": 13,
         "id": 3030,
         "icon": "combinegame_factor_32",
@@ -542,8 +542,8 @@
         ]
     },
     "3032": {
-        "description": "Translating:【activity_civilization_factor$3032$description$0】",
-        "name": "Translating:【activity_civilization_factor$3032$name$0】",
+        "description": "Unlocks Safety First\n\n<color=#F0C48F>Safety First: Unlocks 1 Restricted Area</color>",
+        "name": "Safety First",
         "effect_type": 11,
         "id": 3032,
         "icon": "combinegame_factor_34",
@@ -554,8 +554,8 @@
         ]
     },
     "3034": {
-        "description": "Translating:【activity_civilization_factor$3034$description$0】",
-        "name": "Translating:【activity_civilization_factor$3034$name$0】",
+        "description": "Unlocks Anchor Point Blockade\n\n<color=#F0C48F>Anchor Point Blockade: Connects a specified open space with a Blockade Anchor Point and grants 50 Processing Progress</color>",
+        "name": "Anchor Point Blockade",
         "effect_type": 11,
         "id": 3034,
         "icon": "combinegame_factor_36",
@@ -566,8 +566,8 @@
         ]
     },
     "3035": {
-        "description": "Translating:【activity_civilization_factor$3035$description$0】",
-        "name": "Translating:【activity_civilization_factor$3035$name$0】",
+        "description": "+1 additional Movement Range for all movable cells",
+        "name": "Exclusive Channel II",
         "effect_type": 17,
         "id": 3035,
         "icon": "combinegame_factor_31",
@@ -578,8 +578,8 @@
         ]
     },
     "3036": {
-        "description": "Translating:【activity_civilization_factor$3036$description$0】",
-        "name": "Translating:【activity_civilization_factor$3036$name$0】",
+        "description": "Unlocks Done Deal\n\n<color=#F0C48F>Done Deal: Eliminates the Heavenly Father and wins the game</color>",
+        "name": "Done Deal",
         "effect_type": 11,
         "id": 3036,
         "icon": "combinegame_factor_38",
@@ -590,8 +590,8 @@
         ]
     },
     "4001": {
-        "description": "Translating:【activity_civilization_factor$4001$description$0】",
-        "name": "Translating:【activity_civilization_factor$4001$name$0】",
+        "description": "Unlocks Lv. 2 Supplies",
+        "name": "Basic Supplies",
         "effect_type": 12,
         "id": 4001,
         "icon": "combinegame_factor_10",
@@ -603,8 +603,8 @@
         ]
     },
     "4002": {
-        "description": "Translating:【activity_civilization_factor$4002$description$0】",
-        "name": "Translating:【activity_civilization_factor$4002$name$0】",
+        "description": "Unlocks Lv. 2 Manpower",
+        "name": "Basic Dispatch",
         "effect_type": 12,
         "id": 4002,
         "icon": "combinegame_factor_3",
@@ -616,8 +616,8 @@
         ]
     },
     "4003": {
-        "description": "Translating:【activity_civilization_factor$4003$description$0】",
-        "name": "Translating:【activity_civilization_factor$4003$name$0】",
+        "description": "Unlocks Lv. 2 Research",
+        "name": "Special Project",
         "effect_type": 12,
         "id": 4003,
         "icon": "combinegame_factor_4",

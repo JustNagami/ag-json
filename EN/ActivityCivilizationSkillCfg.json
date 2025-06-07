@@ -1,135 +1,135 @@
 {
     "1001": {
-        "description": "Translating:【activity_civilization_skill$1001$description$0】",
-        "name": "Translating:【activity_civilization_skill$1001$name$0】",
+        "description": "Deploys Lv. 1 Supplies at the designated location",
+        "name": "Inherent Supplies",
         "cd": 0,
         "cost": 5,
         "id": 1001,
         "icon": "combinegame_factor_1"
     },
     "1002": {
-        "description": "Translating:【activity_civilization_skill$1002$description$0】",
-        "name": "Translating:【activity_civilization_skill$1002$name$0】",
+        "description": "Removes a Standoff and grants 2 Supplies",
+        "name": "Basic Negotiation",
         "cd": 0,
         "cost": 5,
         "id": 1002,
         "icon": "combinegame_factor_2"
     },
     "1003": {
-        "description": "Translating:【activity_civilization_skill$1003$description$0】",
-        "name": "Translating:【activity_civilization_skill$1003$name$0】",
+        "description": "Moves a specified cell 4 tiles",
+        "name": "Transport Route",
         "cd": 0,
         "cost": 3,
         "id": 1003,
         "icon": "combinegame_factor_5"
     },
     "1004": {
-        "description": "Translating:【activity_civilization_skill$1004$description$0】",
-        "name": "Translating:【activity_civilization_skill$1004$name$0】",
+        "description": "Builds a Base Station that provides 1 Processing Progress per turn on a specified empty space",
+        "name": "Base Station",
         "cd": 2,
         "cost": 45,
         "id": 1004,
         "icon": "combinegame_factor_7"
     },
     "1005": {
-        "description": "Translating:【activity_civilization_skill$1005$description$0】",
-        "name": "Translating:【activity_civilization_skill$1005$name$0】",
+        "description": "Upgrades a specified Lv. 1 cell to Lv. 2",
+        "name": "Play by Ear",
         "cd": 0,
         "cost": 5,
         "id": 1005,
         "icon": "combinegame_factor_8"
     },
     "1006": {
-        "description": "Translating:【activity_civilization_skill$1006$description$0】",
-        "name": "Translating:【activity_civilization_skill$1006$name$0】",
+        "description": "Reduces the duration of a Visbane by 6 rounds",
+        "name": "Efficient Combat",
         "cd": 0,
         "cost": 6,
         "id": 1006,
         "icon": "combinegame_factor_9"
     },
     "1007": {
-        "description": "Translating:【activity_civilization_skill$1007$description$0】",
-        "name": "Translating:【activity_civilization_skill$1007$name$0】",
+        "description": "Upgrades a specified Lv. 1 or Lv. 2 cell to Lv. 3",
+        "name": "Improvision",
         "cd": 0,
         "cost": 8,
         "id": 1007,
         "icon": "combinegame_factor_15"
     },
     "1008": {
-        "description": "Translating:【activity_civilization_skill$1008$description$0】",
-        "name": "Translating:【activity_civilization_skill$1008$name$0】",
+        "description": "Instantly gain all Supplies in a 3×3 area and remove all corresponding cells",
+        "name": "Supply Integration",
         "cd": 1,
         "cost": 6,
         "id": 1008,
         "icon": "combinegame_factor_16"
     },
     "1009": {
-        "description": "Translating:【activity_civilization_skill$1009$description$0】",
-        "name": "Translating:【activity_civilization_skill$1009$name$0】",
+        "description": "Removes all Standoffs in a 5×5 area and grants 2 Supplies for each one removed",
+        "name": "Sound Argument",
         "cd": 0,
         "cost": 5,
         "id": 1009,
         "icon": "combinegame_factor_17"
     },
     "1010": {
-        "description": "Translating:【activity_civilization_skill$1010$description$0】",
-        "name": "Translating:【activity_civilization_skill$1010$name$0】",
+        "description": "Moves a specified cell 6 tiles",
+        "name": "Skyrail",
         "cd": 1,
         "cost": 5,
         "id": 1010,
         "icon": "combinegame_factor_22"
     },
     "1011": {
-        "description": "Translating:【activity_civilization_skill$1011$description$0】",
-        "name": "Translating:【activity_civilization_skill$1011$name$0】",
+        "description": "Deploys Lv. 3 Supplies at the designated location",
+        "name": "Airdrop Supplies",
         "cd": 0,
         "cost": 5,
         "id": 1011,
         "icon": "combinegame_factor_24"
     },
     "1012": {
-        "description": "Translating:【activity_civilization_skill$1012$description$0】",
-        "name": "Translating:【activity_civilization_skill$1012$name$0】",
+        "description": "Moves a specified cell anywhere",
+        "name": "Rapid Transfer",
         "cd": 1,
         "cost": 5,
         "id": 1012,
         "icon": "combinegame_factor_26"
     },
     "1013": {
-        "description": "Translating:【activity_civilization_skill$1013$description$0】",
-        "name": "Translating:【activity_civilization_skill$1013$name$0】",
+        "description": "Upgrades a specified cell to Lv. 4",
+        "name": "Strategic Planning",
         "cd": 0,
         "cost": 5,
         "id": 1013,
         "icon": "combinegame_factor_28"
     },
     "1014": {
-        "description": "Translating:【activity_civilization_skill$1014$description$0】",
-        "name": "Translating:【activity_civilization_skill$1014$name$0】",
+        "description": "Instantly gain all Manpower in a 3×3 area and remove all corresponding cells",
+        "name": "Tactical Dispatch",
         "cd": 1,
         "cost": 5,
         "id": 1014,
         "icon": "combinegame_factor_29"
     },
     "1015": {
-        "description": "Translating:【activity_civilization_skill$1015$description$0】",
-        "name": "Translating:【activity_civilization_skill$1015$name$0】",
+        "description": "Unlocks 1 Restricted Area",
+        "name": "Safety First",
         "cd": 0,
         "cost": 5,
         "id": 1015,
         "icon": "combinegame_factor_34"
     },
     "1016": {
-        "description": "Translating:【activity_civilization_skill$1016$description$0】",
-        "name": "Translating:【activity_civilization_skill$1016$name$0】",
+        "description": "Connects a specified open space with a Blockade Anchor Point and grants 50 Processing Progress",
+        "name": "Anchor Point Blockade",
         "cd": 1,
         "cost": 50,
         "id": 1016,
         "icon": "combinegame_factor_36"
     },
     "1017": {
-        "description": "Translating:【activity_civilization_skill$1017$description$0】",
-        "name": "Translating:【activity_civilization_skill$1017$name$0】",
+        "description": "Eliminates the Heavenly Father and wins the game",
+        "name": "Done Deal",
         "cd": 0,
         "cost": 0,
         "id": 1017,

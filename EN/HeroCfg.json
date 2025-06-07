@@ -7108,13 +7108,13 @@
         ]
     },
     "1045": {
-        "name": "Translating:【hero$1045$name$0】",
+        "name": "Scarlet Echo",
         "rare": 3,
-        "hero_desc": "Translating:【hero$1045$hero_desc$0】",
+        "hero_desc": "A second-generation New-Type God Eater who is a member of the 1st Unit of the Fenrir Far East Branch and travels around the world to help people with their troubles. After accidentally arriving in Gaea, she contributes her strength to help the people in this world while searching for a way to return home.",
         "hide_info": 0,
         "star_up_skill_template": 2,
         "id": 1045,
-        "weapon_name": "Translating:【hero$1045$weapon_name$0】",
+        "weapon_name": "Avenger & Raging Roar",
         "race": 5,
         "hero_dorm_skill": 0,
         "unlock_star": 300,
@@ -7122,8 +7122,8 @@
         "private": 0,
         "impression": "",
         "trial_stage": 4091045,
-        "weapon_desc": "Translating:【hero$1045$weapon_desc$0】",
-        "suffix": "Translating:【hero$1045$suffix$0】",
+        "weapon_desc": "This second-generation God Arc used by Alisa consists of her long blade Avenger, assault gun Raging Roar, and buckler shield Brimstone. When used by a compatible God Eater, it can change forms freely to adapt to ranged and melee combat.",
+        "suffix": "Alisa",
         "skills": [
             1045101,
             1045201,
@@ -7415,26 +7415,27 @@
                 121
             ],
             [
-                112,
-                120
+                120,
+                126
             ],
             [
-                112,
-                120
+                120,
+                126
             ]
         ],
         "recommend_team": [
-            917
+            917,
+            918
         ]
     },
     "1046": {
-        "name": "Translating:【hero$1046$name$0】",
+        "name": "Blood Bullet",
         "rare": 3,
-        "hero_desc": "Translating:【hero$1046$hero_desc$0】",
+        "hero_desc": "Ciel Alencon is a member of the Blood special forces unit under Fenrir's extreme technology development bureau, as well as a third-generation God Eater.\nBorn into a military family, she received professional military training at the Magnolia Compass. To her, discipline is the most important thing in the world.",
         "hide_info": 0,
         "star_up_skill_template": 2,
         "id": 1046,
-        "weapon_name": "Translating:【hero$1046$weapon_name$0】",
+        "weapon_name": "Defiance & Apercevant",
         "race": 5,
         "hero_dorm_skill": 0,
         "unlock_star": 300,
@@ -7442,8 +7443,8 @@
         "private": 0,
         "impression": "",
         "trial_stage": 4091046,
-        "weapon_desc": "Translating:【hero$1046$weapon_desc$0】",
-        "suffix": "Translating:【hero$1046$suffix$0】",
+        "weapon_desc": "This third-generation God Arc used by Ciel consists of her short blade Defiance, sniper gun Apercevant, and buckler shield Petit Amour. When used by a compatible God Eater, it can change forms freely to adapt to ranged and melee combat.",
+        "suffix": "Ciel",
         "skills": [
             1046101,
             1046201,
@@ -7737,15 +7738,16 @@
                 121
             ],
             [
-                112,
-                120
+                120,
+                126
             ],
             [
-                112,
-                120
+                120,
+                126
             ]
         ],
         "recommend_team": [
+            918,
             917
         ]
     },

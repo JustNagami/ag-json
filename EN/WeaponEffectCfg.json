@@ -2735,7 +2735,7 @@
         ],
         "simple_strength_description": [
             107241,
-            "Translating:【weapon_effect$107201$simple_strength_description$2】"
+            "Equipping by Omnisight - Luliang grants the following effects:\nExtends the duration of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(107202)>Lucky Coin</material></color>.\nThe Wind RES debuff granted by a <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(107202)>Lucky Coin</material></color> joint attack can be stacked.\nWhen a <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(107202)>Lucky Coin</material></color> is following the Mod or a teammate, restores teammates' Ultimate Skill charge.\nWhen the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(107202)>Lucky Coin's </material></color> effect ends, an explosion detonates at the position where the Mod followed by the Lucky Coin is, dealing Wind DMG. Enemies hit by the explosion will also be inflicted with Armor Break.\nAfter using the Ultimate Skill or Ultimate Skillchain, the remaining CD of the Mod's Ultimate Skill will be reduced.\nGains <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(107201)>Fortune</material></color> when casting an Ultimate Skill or an Ultimate Skillchain.\nIncreases the Ultimate Skill charge speed."
         ]
     },
     "107401": {
@@ -3466,7 +3466,7 @@
         "simple_strength_description": []
     },
     "102001": {
-        "simple_description": "Grants the following effects when equipped by Trimūrti - Brahmā:\nIncreases Asterism Mod Final DMG.\nWhen <color=#297DE0>Suddhavasa - Annihilation</color> hits, deals additional DMG that ignores DEF depending on enemy's max HP. \nAether Code <color=#297DE0>God of Destruction - Rija </color> grants the following effect: While in <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102002)>Cataclysmic Destruction</material></color> state, normal enemies with less than a certain amount of HP will be immediately defeated when hit.\nAether Code <color=#297DE0>God of Creation - Hiranyagarbha</color> grants the following effects: Increases the ATK boost granted to all teammates and the All Attribute RES reduction inflicted on enemies.\nAether Code <color=#297DE0>Unified Triad - Ruination</color> grants an additional effect: Increases Independent DMG each time a form is switched.",
+        "simple_description": "Grants the following effects when equipped by Trimūrti - Brahmā:\nIncreases Asterism Mod Final DMG.\nWhen <color=#297DE0>Suddhavasa - Annihilation</color> hits, deals additional DMG that ignores DEF depending on enemy's max HP. \nAether Code <color=#297DE0>God of Destruction - Rija </color> grants the following effect: While in <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(102002)>Cataclysmic Destruction</material></color> state, normal enemies with less than a certain amount of HP will be immediately defeated when hit.\nAether Code <color=#297DE0>God of Creation - Hiranyagarbha</color> grants the following effects: Increases the ATK boost granted to all teammates and increases the All Attribute RES reduction inflicted on enemies.\nAether Code <color=#297DE0>Unified Triad - Ruination</color> grants an additional effect: Increases Independent DMG each time a form is switched.",
         "id": 102001,
         "description": [
             500102001
@@ -3543,7 +3543,7 @@
         "simple_strength_description": []
     },
     "115601": {
-        "simple_description": "Grants the following effects when equipped by Annihilator - Kali:\nUpon entering battle, grants all teammates with a shield equal to their Max HP.\nEach time <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115601)>Thunderous Splendor</material></color> is triggered, increases the ATK of all teammates by <color=#E78300>{1}%</color> for <color=#E78300>{2}</color>s.\nWhen the Modifier or a teammate unleashes an Ultimate Skill, gain increased Crit DMG.\nAfter each Normal attack or skill hits, grants different amounts of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115603)>Dazzling Squall</material></color> points. Unleashing a skill will expend different amounts of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115603)>Dazzling Squall </material></color> points and reset the skill's CD.",
+        "simple_description": "Grants the following effects when equipped by Annihilator - Kali:\nUpon entering battle, grants all teammates with a shield equal to their Max HP.\nEach time <color=#297DE0><material=underline c=#2380BF h=2 event=terminology args=(115601)>Thunderous Splendor</material></color> is triggered, increases the ATK of all teammates by <color=#E78300>{1}%</color> for <color=#E78300>{2}</color>s.\nWhen the Modifier or a teammate unleashes an Ultimate Skill, gain increased Crit DMG.\nAfter each nNormal attack or skill hits, grants different amounts of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115603)>Dazzling Squall</material></color> points. Unleashing a skill will expend different amounts of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(115603)>Dazzling Squall </material></color> points and reset the skill's CD.",
         "id": 115601,
         "description": [
             500115601
@@ -3634,28 +3634,28 @@
         "simple_strength_description": []
     },
     "104501": {
-        "simple_description": "Translating:【weapon_effect$104501$simple_description$0】",
+        "simple_description": "When Scarlet Echo - Alisa is equipped, gain the following effects.\nEach time you cast <color=#297DE0>\"Death Strike\"</color>, fire damage and Independent DMG increase.\nWhen the current <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104601)>\"Burst Index\"</material></color> exceeds a certain value, normal attack and skill damage increase.\nUpon entering the <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104503)>\"Divine Control\"</material></color> state, if not already in it, reset the remaining cooldown of <color=#297DE0>\"Death Strike\"</color>; for a period thereafter, casting <color=#297DE0>\"Death Strike\"</color> reduces its remaining cooldown and grants Divine Grace, and during this duration, if an attack is successfully blocked with <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104504)>\"Reset Stance\"</material></color>, the effect's duration resets.",
         "id": 104501,
         "description": [
             500104501
         ],
         "level_param": [
             [
-                100,
-                100,
-                100,
-                100,
-                100,
-                100,
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
                 100
             ],
             [
-                100,
-                100,
-                100,
-                100,
-                100,
-                100,
+                40,
+                50,
+                60,
+                70,
+                80,
+                90,
                 100
             ],
             [
@@ -3684,6 +3684,15 @@
                 50,
                 50,
                 50
+            ],
+            [
+                16,
+                20,
+                24,
+                28,
+                32,
+                36,
+                40
             ]
         ],
         "spec_char": [
@@ -3693,7 +3702,7 @@
         "simple_strength_description": []
     },
     "104601": {
-        "simple_description": "Translating:【weapon_effect$104601$simple_description$0】",
+        "simple_description": "When Blood Bullet - Ciel is equipped, gain the following effects.\nWhen <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104601)>“Liberation Index”</material></color> is not lower than a certain value, <color=#297DE0>“Penetration Bullets”</color> attacks will increase Crit Rate upon hit.\nDuring each attack of <color=#297DE0>“Spinning Throw”</color>, if <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104601)>“Liberation Index”</material></color> is not lower than a certain value, trigger a different number of <color=#297DE0>“Penetration Bullets”</color>.\nWhen successfully blocking enemy attacks, either yourself or a teammate triggers <color=#297DE0>“Penetration Bullets”</color> on the attacker; if <color=#297DE0>“Penetration Bullets”</color> is triggered again within a certain time after being triggered through this method, it will trigger an additional number of <color=#297DE0>“Penetration Bullets”</color> attacks.\n<color=#297DE0>“Penetration Bullets”</color> triggered through this exclusive key will deal Ice DMG.\nEach attack marked by consuming <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104603)>“Blood Point”</material></color> will apply <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104605)>“Blood Rage”</material></color> status to the hit enemy; based on the number of layers of <color=#297DE0><material=underline c=#297DE0 h=2 event=terminology args=(104605)>“Blood Rage”</material></color> status the enemy has, if your HP is not higher than a certain value, your attack's Independent DMG will increase upon hit.\nWhen HP reaches the minimum, gain an invincibility effect; while in the air, casting <color=#297DE0>“Blood Awakening”</color> or <color=#297DE0>“Blood Bullet”</color> will grant a brief invincibility effect; while in the air, after performing a Normal Attack followed by the falling attack of <color=#297DE0>“Bloody Blitz”</color>, gain a brief invincibility effect.",
         "id": 104601,
         "description": [
             500104601
@@ -3718,13 +3727,22 @@
                 1000
             ],
             [
-                120,
-                150,
-                180,
-                210,
-                240,
-                270,
-                300
+                280,
+                350,
+                420,
+                490,
+                560,
+                630,
+                700
+            ],
+            [
+                30,
+                30,
+                30,
+                30,
+                30,
+                30,
+                30
             ]
         ],
         "spec_char": [

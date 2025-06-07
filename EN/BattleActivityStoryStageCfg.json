@@ -12367,13 +12367,13 @@
     },
     "5250101": {
         "monster_level": 80,
-        "name": "Translating:【battle_activity_story_stage$5250101$name$0】",
+        "name": "Shadow in the Wilderness",
         "ai_level": 1,
         "map": "5250101",
         "background_1": "I18",
         "custom_lock_line": "",
         "line_text": "",
-        "tips": "Translating:【battle_activity_story_stage$5250101$tips$0】",
+        "tips": "Overcast by strange visitors and the rising darkness, the wind in the wilderness no longer seems peaceful.",
         "sub_type": 1,
         "custom_line": "",
         "tag": 0,
@@ -12397,9 +12397,9 @@
             5250102
         ],
         "attribute_factor": [
-            800,
+            200,
             1000,
-            5000
+            20000
         ],
         "drop_lib_id_list": [
             2000004,
@@ -12434,13 +12434,13 @@
     },
     "5250102": {
         "monster_level": 80,
-        "name": "Translating:【battle_activity_story_stage$5250102$name$0】",
+        "name": "Mysterious Trail",
         "ai_level": 1,
         "map": "5250102",
         "background_1": "I18",
         "custom_lock_line": "",
         "line_text": "",
-        "tips": "Translating:【battle_activity_story_stage$5250102$tips$0】",
+        "tips": "Traces of evil have appeared in this new world that should still be pure.",
         "sub_type": 1,
         "custom_line": "",
         "tag": 0,
@@ -12464,9 +12464,9 @@
             5250103
         ],
         "attribute_factor": [
-            800,
+            300,
             1000,
-            5000
+            20000
         ],
         "drop_lib_id_list": [
             2000004,
@@ -12501,13 +12501,13 @@
     },
     "5250103": {
         "monster_level": 80,
-        "name": "Translating:【battle_activity_story_stage$5250103$name$0】",
+        "name": "Shifting Clouds",
         "ai_level": 1,
         "map": "5250103",
         "background_1": "I18a",
         "custom_lock_line": "",
         "line_text": "",
-        "tips": "Translating:【battle_activity_story_stage$5250103$tips$0】",
+        "tips": "Those who claim to be gods devour the world, while those who devour gods fight for the future.",
         "sub_type": 1,
         "custom_line": "",
         "tag": 0,
@@ -12531,9 +12531,9 @@
             5250104
         ],
         "attribute_factor": [
-            800,
+            500,
             1000,
-            5000
+            12000
         ],
         "drop_lib_id_list": [
             2000004,
@@ -12568,14 +12568,14 @@
     },
     "5250104": {
         "monster_level": 80,
-        "name": "Translating:【battle_activity_story_stage$5250104$name$0】",
+        "name": "Meteor Across the Neon Sky",
         "ai_level": 1,
         "hero_list": "",
         "map": "",
-        "background_1": "",
+        "background_1": "ST03",
         "custom_lock_line": "",
         "line_text": "",
-        "tips": "Translating:【battle_activity_story_stage$5250104$tips$0】",
+        "tips": "Two worlds' fates click into gear as a girl comes streaking through the neon-lit city.",
         "sub_type": 1,
         "custom_line": "",
         "tag": 2,
@@ -12618,13 +12618,13 @@
     },
     "5250105": {
         "monster_level": 80,
-        "name": "Translating:【battle_activity_story_stage$5250105$name$0】",
+        "name": "Flickering Flames",
         "ai_level": 1,
         "map": "5250105",
         "background_1": "I05",
         "custom_lock_line": "",
         "line_text": "",
-        "tips": "Translating:【battle_activity_story_stage$5250105$tips$0】",
+        "tips": "I trust you with my back and my mission.",
         "sub_type": 1,
         "custom_line": "",
         "tag": 0,
@@ -12648,9 +12648,9 @@
             5250106
         ],
         "attribute_factor": [
-            800,
+            500,
             1000,
-            7000
+            15000
         ],
         "drop_lib_id_list": [
             2000004,
@@ -12685,13 +12685,13 @@
     },
     "5250106": {
         "monster_level": 80,
-        "name": "Translating:【battle_activity_story_stage$5250106$name$0】",
+        "name": "Smoldering Embers",
         "ai_level": 1,
         "map": "5250106",
         "background_1": "I18b",
         "custom_lock_line": "",
         "line_text": "",
-        "tips": "Translating:【battle_activity_story_stage$5250106$tips$0】",
+        "tips": "These smoldering embers foretell no triumph, only hellfire to come.",
         "sub_type": 1,
         "custom_line": "",
         "tag": 0,
@@ -12715,9 +12715,9 @@
             5250107
         ],
         "attribute_factor": [
-            800,
+            400,
             1000,
-            7000
+            15000
         ],
         "drop_lib_id_list": [
             2000004,
@@ -12752,13 +12752,13 @@
     },
     "5250107": {
         "monster_level": 80,
-        "name": "Translating:【battle_activity_story_stage$5250107$name$0】",
+        "name": "Siege at Dusk",
         "ai_level": 1,
         "map": "5250107",
         "background_1": "I18c",
         "custom_lock_line": "",
         "line_text": "",
-        "tips": "Translating:【battle_activity_story_stage$5250107$tips$0】",
+        "tips": "Though cities fall to dust, hope endures unbroken—a new path awaits this world.",
         "sub_type": 1,
         "custom_line": "",
         "tag": 0,
@@ -12782,9 +12782,9 @@
             5250108
         ],
         "attribute_factor": [
-            800,
+            200,
             1000,
-            7000
+            17000
         ],
         "drop_lib_id_list": [
             2000004,
@@ -12819,13 +12819,13 @@
     },
     "5250108": {
         "monster_level": 80,
-        "name": "Translating:【battle_activity_story_stage$5250108$name$0】",
+        "name": "Flames of Chaos",
         "ai_level": 1,
         "map": "5250108",
         "background_1": "I18d",
         "custom_lock_line": "",
         "line_text": "",
-        "tips": "Translating:【battle_activity_story_stage$5250108$tips$0】",
+        "tips": "The human-faced evil descends upon earth, while swords of defiance stand guard at our borders.",
         "sub_type": 1,
         "custom_line": "",
         "tag": 1,
@@ -12849,9 +12849,9 @@
             5250109
         ],
         "attribute_factor": [
-            800,
+            500,
             1000,
-            5000
+            80000
         ],
         "drop_lib_id_list": [
             2000004,
@@ -12886,13 +12886,13 @@
     },
     "5250109": {
         "monster_level": 80,
-        "name": "Translating:【battle_activity_story_stage$5250109$name$0】",
+        "name": "Glimmer of Hope",
         "ai_level": 1,
         "map": "5250109",
         "background_1": "I18d",
         "custom_lock_line": "",
         "line_text": "",
-        "tips": "Translating:【battle_activity_story_stage$5250109$tips$0】",
+        "tips": "With darkness banished by unyielding will, the warriors join hands to seize the glimmer of hope.",
         "sub_type": 1,
         "custom_line": "",
         "tag": 1,
@@ -12903,7 +12903,6 @@
         "recommend_level": 0,
         "can_switch_restrict_hero_list": "",
         "combo_skill_id": 0,
-        "chip_list": "",
         "auto_next_stage_group": 0,
         "line_text_position": "",
         "user_exp": 10,
@@ -12916,9 +12915,9 @@
             5250110
         ],
         "attribute_factor": [
-            800,
+            50,
             1000,
-            7000
+            35000
         ],
         "drop_lib_id_list": [
             2000004,
@@ -12946,6 +12945,11 @@
                 1
             ]
         ],
+        "chip_list": [
+            6,
+            104,
+            105
+        ],
         "team_type": [
             1,
             0
@@ -12953,14 +12957,14 @@
     },
     "5250110": {
         "monster_level": 80,
-        "name": "Translating:【battle_activity_story_stage$5250110$name$0】",
+        "name": "A New Dawn",
         "ai_level": 1,
         "hero_list": "",
         "map": "",
-        "background_1": "",
+        "background_1": "I03",
         "custom_lock_line": "",
         "line_text": "",
-        "tips": "Translating:【battle_activity_story_stage$5250110$tips$0】",
+        "tips": "The cycle of tragedy broken at last, the rescued world greets a new dawn.",
         "sub_type": 1,
         "custom_line": "",
         "tag": 2,

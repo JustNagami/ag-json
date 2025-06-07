@@ -1182,12 +1182,12 @@
     },
     "69": {
         "decompose_id": 0,
-        "name": "Translating:【item$69$name$0】",
+        "name": "Limited-Time Collab Scan Voucher",
         "compose_id": 0,
         "type": 1,
         "id": 69,
         "rare": 5,
-        "desc": "Translating:【item$69$desc$0】",
+        "desc": "A data card that allows access to Mimir's vibrant resonation. Used to scan for God Eaters and Special Collaborator Energy in a given area within a certain period of time. Administrators are requested to pay close attention to the available time window.\n—As resonation imprints require a large amount of computational power from the Mimir system, activation authority has to be strictly controlled.",
         "limit": 0,
         "sub_type": 1701,
         "littleicon": "69",
@@ -1267,11 +1267,11 @@
     },
     "74": {
         "decompose_id": 0,
-        "name": "Translating:【item$74$name$0】",
+        "name": "Joint Operation Progress",
         "type": 1,
         "compose_id": 0,
         "rare": 5,
-        "desc": "Translating:【item$74$desc$0】",
+        "desc": "Used to level up the Temporary Joint HQ in Wasteland Defense.",
         "id": 74,
         "sub_type": 0,
         "littleicon": "74",
@@ -1290,11 +1290,11 @@
     },
     "75": {
         "decompose_id": 0,
-        "name": "Translating:【item$75$name$0】",
+        "name": "Oracle Cell Sequence",
         "type": 1,
         "compose_id": 0,
         "rare": 5,
-        "desc": "Translating:【item$75$desc$0】",
+        "desc": "Can be used to redeem rewards in the Wasteland Defense event.\n—Currently known information: \"This is a highly active single-celled organism that can absorb all substances and evolve to gain properties similar to the absorbed substances.\"",
         "id": 75,
         "sub_type": 0,
         "littleicon": "75",
@@ -1313,12 +1313,12 @@
     },
     "78": {
         "decompose_id": 0,
-        "name": "Translating:【item$78$name$0】",
+        "name": "Limited-Time Special Scan Voucher",
         "display_rare": 5,
         "type": 1,
         "compose_id": 0,
         "limit": 0,
-        "desc": "Translating:【item$78$desc$0】",
+        "desc": "A data card that allows access to Mimir's vibrant resonation. Used to scan for God Eaters and Special Collaborator Energy in a given area within a certain period of time. Administrators are requested to pay close attention to the available time window.\n—As resonation imprints require a large amount of computational power from the Mimir system, activation authority has to be strictly controlled.",
         "sub_type": 1702,
         "icon": "69",
         "use": 0,
@@ -1917,7 +1917,7 @@
         "compose_id": 0,
         "rare": 5,
         "desc": "\"The survival of the world is at her whim.\"",
-        "desc_source": "Gain by finishing Cooperating Contract Vol.19",
+        "desc_source": "Gain by finishing Cooperating Contract Vol.18",
         "sub_type": 1201,
         "decompose_id": 0,
         "limit": 0,
@@ -1927,6 +1927,27 @@
         "max": 0,
         "param": [
             2031,
+            0
+        ],
+        "source": []
+    },
+    "2036": {
+        "name": "Wish and Determination",
+        "display_rare": 5,
+        "type": 12,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "\"I'll do my best to keep this world peaceful and beautiful.\"",
+        "desc_source": "Obtain by finishing Cooperating Contract Vol.19",
+        "sub_type": 1201,
+        "decompose_id": 0,
+        "limit": 0,
+        "id": 2036,
+        "icon": "2036",
+        "use": 0,
+        "max": 0,
+        "param": [
+            2036,
             0
         ],
         "source": []
@@ -2493,6 +2514,48 @@
         "max": 0,
         "param": [
             2916,
+            0
+        ],
+        "source": []
+    },
+    "2920": {
+        "name": "Dual Rings",
+        "display_rare": 5,
+        "type": 12,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "\"The things that have been recorded exist in a time loop, and our paths converge when we meet.\"\n—<color=#9A9A9A>Limited-time avatar frame. Expires 30d after being obtained.</color>",
+        "desc_source": "Obtain by participating in the Ancient Shadow event.",
+        "sub_type": 1204,
+        "decompose_id": 0,
+        "limit": 0,
+        "id": 2920,
+        "icon": "2920",
+        "use": 0,
+        "max": 0,
+        "param": [
+            2920,
+            30
+        ],
+        "source": []
+    },
+    "2923": {
+        "name": "Impression",
+        "display_rare": 5,
+        "type": 12,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "\"People become stronger by overcoming setbacks.\"",
+        "desc_source": "Obtain by participating in the Joint Operation Preparation event",
+        "sub_type": 1202,
+        "decompose_id": 0,
+        "limit": 0,
+        "id": 2923,
+        "icon": "2923",
+        "use": 0,
+        "max": 0,
+        "param": [
+            2923,
             0
         ],
         "source": []
@@ -3094,6 +3157,40 @@
         "max": 0,
         "source": []
     },
+    "3049": {
+        "decompose_id": 0,
+        "name": "Rift Predator",
+        "compose_id": 0,
+        "type": 13,
+        "id": 3049,
+        "rare": 5,
+        "desc": "A souvenir of times past which can be viewed in the Stickers page.\n—I shall gladly take up arms to protect this beauty.",
+        "desc_source": "Obtain by participating in the Wasteland Defense event.",
+        "sub_type": 1302,
+        "limit": 0,
+        "display_rare": 5,
+        "icon": "3049",
+        "use": 0,
+        "max": 0,
+        "source": []
+    },
+    "3050": {
+        "decompose_id": 0,
+        "name": "Wasteland Predator",
+        "compose_id": 0,
+        "type": 13,
+        "id": 3050,
+        "rare": 5,
+        "desc": "A souvenir of times past which can be viewed in the Stickers page.\n—Rather than praying cowardly, I prefer be a \"prey\" that takes up arms and fights back.",
+        "desc_source": "Obtain by participating in the Wasteland Defense event.",
+        "sub_type": 1302,
+        "limit": 0,
+        "display_rare": 5,
+        "icon": "3050",
+        "use": 0,
+        "max": 0,
+        "source": []
+    },
     "4001": {
         "decompose_id": 0,
         "name": "Time Spent Together",
@@ -3535,6 +3632,46 @@
         ],
         "source": []
     },
+    "6036": {
+        "name": "Midnight Monologues",
+        "display_rare": 5,
+        "type": 21,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "By the piano in the night, Ciel waits for you anxiously, as if she has something important to say.",
+        "decompose_id": 0,
+        "sub_type": 2101,
+        "littleicon": "6036",
+        "limit": 0,
+        "id": 6036,
+        "icon": "6036",
+        "use": 0,
+        "max": 0,
+        "param": [
+            6036
+        ],
+        "source": []
+    },
+    "6037": {
+        "name": "New Journey",
+        "display_rare": 5,
+        "type": 21,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "Alisa walks over gracefully, leaving behind the solemn weight of the battlefield. A new bond is formed the moment the two hands meet.",
+        "decompose_id": 0,
+        "sub_type": 2101,
+        "littleicon": "6037",
+        "limit": 0,
+        "id": 6037,
+        "icon": "6037",
+        "use": 0,
+        "max": 0,
+        "param": [
+            6037
+        ],
+        "source": []
+    },
     "6100": {
         "name": "Command Center Lobby",
         "id": 6100,
@@ -3890,6 +4027,27 @@
         ],
         "source": []
     },
+    "7017": {
+        "name": "Well-Prepared Witness",
+        "display_rare": 5,
+        "type": 22,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "Use to obtain the Well-Prepared Witness title.\n—I passed by, I participated, and I made a change.\n—<color=#9A9A9A>Limited-time title. Expires 30d after being obtained.</color>",
+        "desc_source": "Special Title",
+        "sub_type": 0,
+        "decompose_id": 0,
+        "limit": 0,
+        "id": 7017,
+        "icon": "7005",
+        "use": 0,
+        "max": 0,
+        "param": [
+            7017,
+            30
+        ],
+        "source": []
+    },
     "7100": {
         "name": "Shepherd of the Underworld",
         "display_rare": 5,
@@ -4226,6 +4384,48 @@
         ],
         "source": []
     },
+    "8008": {
+        "name": "Old Rain",
+        "display_rare": 5,
+        "type": 23,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "Used to obtain the Name Card background: Old Rain.\n—Not all reunions are joyful, but let's get wet in the rain together at this moment.\n—<color=#9A9A9A>Limited-time name card. Expires 30d after being obtained.</color>",
+        "desc_source": "Obtain by participating in the Ancient Shadow event.",
+        "sub_type": 0,
+        "decompose_id": 0,
+        "limit": 0,
+        "id": 8008,
+        "icon": "8008",
+        "use": 0,
+        "max": 0,
+        "param": [
+            8008,
+            30
+        ],
+        "source": []
+    },
+    "8010": {
+        "name": "Affiliated with Fenrir",
+        "display_rare": 5,
+        "type": 23,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "Used to obtain the Name Card background: Affiliated with Fenrir.\n—Proof of the joint operation between members of Fenrir and Aether Gazer.",
+        "desc_source": "Obtain by participating in the Wasteland Defense event.",
+        "sub_type": 0,
+        "decompose_id": 0,
+        "limit": 0,
+        "id": 8010,
+        "icon": "8010",
+        "use": 0,
+        "max": 0,
+        "param": [
+            8010,
+            0
+        ],
+        "source": []
+    },
     "9001": {
         "decompose_id": 0,
         "name": "Default Bubble",
@@ -4290,6 +4490,23 @@
         "limit": 0,
         "display_rare": 5,
         "icon": "9004",
+        "use": 2,
+        "max": 0,
+        "source": []
+    },
+    "9007": {
+        "decompose_id": 0,
+        "name": "Yearning",
+        "compose_id": 0,
+        "type": 26,
+        "id": 9007,
+        "rare": 5,
+        "desc": "Using it grants the chat box \"Aspiration\".\n—Let me be your Partner.",
+        "desc_source": "Obtain by participating in the Wasteland Defense event.",
+        "sub_type": 0,
+        "limit": 0,
+        "display_rare": 5,
+        "icon": "9007",
         "use": 2,
         "max": 0,
         "source": []
@@ -4380,7 +4597,7 @@
     },
     "10006": {
         "decompose_id": 0,
-        "name": "Translating:【item$10006$name$0】",
+        "name": "Pre-Registration Rewards",
         "compose_id": 0,
         "type": 6,
         "id": 10006,
@@ -4395,7 +4612,7 @@
     },
     "10007": {
         "decompose_id": 0,
-        "name": "Translating:【item$10007$name$0】",
+        "name": "Wish to Win",
         "compose_id": 0,
         "type": 6,
         "id": 10007,
@@ -5001,12 +5218,12 @@
         "source": []
     },
     "20024": {
-        "name": "Translating:【item$20024$name$0】",
+        "name": "Fenrir Custom Coolant",
         "id": 20024,
         "type": 4,
         "compose_id": 0,
         "rare": 4,
-        "desc": "Translating:【item$20024$desc$0】",
+        "desc": "Use to obtain 120 Swigs.\n—A special coolant used in the joint operation against the Aragami.",
         "decompose_id": 0,
         "sub_type": 401,
         "limit": 0,
@@ -6809,6 +7026,38 @@
         ],
         "source": []
     },
+    "30049": {
+        "name": "Intel Selection Box for Modifier",
+        "type": 5,
+        "id": 30049,
+        "rare": 5,
+        "desc": "You can choose one from the intel of the following S-rank Modifiers: \n<color=#9A9A9A>Akane Intel x30</color>, <color=#9A9A9A>Blood Bullet Intel x30</color>",
+        "compose_id": 0,
+        "sub_type": 508,
+        "decompose_id": 0,
+        "limit": 0,
+        "display_rare": 5,
+        "icon": "30049",
+        "use": 1,
+        "max": 0,
+        "param": [
+            [
+                11045,
+                30
+            ],
+            [
+                11046,
+                30
+            ]
+        ],
+        "source": [],
+        "time": [
+            1,
+            [
+                344011
+            ]
+        ]
+    },
     "30050": {
         "name": "Summer Supply Crate",
         "display_rare": 5,
@@ -6987,6 +7236,63 @@
                 1745236800
             ]
         ]
+    },
+    "30058": {
+        "name": "Special Protocol Selection Pack",
+        "display_rare": 5,
+        "type": 5,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "You can choose one of the following rewards: includes Elf - Celebrian, Pharaoh - Netjerykhet, Otherworlder - Hujiao 5-star Functor selection, Outfit Voucher x20.",
+        "decompose_id": 0,
+        "sub_type": 504,
+        "littleicon": "30058",
+        "limit": 0,
+        "id": 30058,
+        "icon": "30058",
+        "use": 1,
+        "max": 0,
+        "param": [
+            [
+                24,
+                20
+            ],
+            [
+                30059,
+                1
+            ]
+        ],
+        "source": []
+    },
+    "30059": {
+        "name": "5-Star Functor Selection",
+        "id": 30059,
+        "type": 5,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "Select 1 of the following 5-Star Functors:\n<color=#9A9A9A>Elf - Celebrian ×1</color>, <color=#9A9A9A>Pharaoh - Netjerykhet ×1</color>, or <color=#9A9A9A>Otherworlder - Hujiao ×1</color>",
+        "decompose_id": 0,
+        "sub_type": 504,
+        "limit": 0,
+        "display_rare": 5,
+        "icon": "30030",
+        "use": 1,
+        "max": 0,
+        "param": [
+            [
+                2540006,
+                1
+            ],
+            [
+                2520005,
+                1
+            ],
+            [
+                2590005,
+                1
+            ]
+        ],
+        "source": []
     },
     "30061": {
         "name": "Mod Growth Box",
@@ -7263,6 +7569,63 @@
             ],
             [
                 952231,
+                1
+            ]
+        ],
+        "source": []
+    },
+    "30078": {
+        "name": "Special Protocol Selection Pack",
+        "display_rare": 5,
+        "type": 5,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "Select 1 of the following rewards: 5-Star Functor Selection that contains Otherworlder - Bifang, Herald - Amphitrite, and Elf - Grey, or Outfit Voucher ×20",
+        "decompose_id": 0,
+        "sub_type": 504,
+        "littleicon": "30058",
+        "limit": 0,
+        "id": 30078,
+        "icon": "30058",
+        "use": 1,
+        "max": 0,
+        "param": [
+            [
+                24,
+                20
+            ],
+            [
+                30079,
+                1
+            ]
+        ],
+        "source": []
+    },
+    "30079": {
+        "name": "5-Star Functor Selection",
+        "id": 30079,
+        "type": 5,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "Select 1 of the following 5-Star Functors:\n<color=#9A9A9A>Otherworlder - Bifang ×1</color>, <color=#9A9A9A>Herald - Amphitrite ×1</color>, or <color=#9A9A9A>Elf - Grey ×1</color>",
+        "decompose_id": 0,
+        "sub_type": 504,
+        "limit": 0,
+        "display_rare": 5,
+        "icon": "30030",
+        "use": 1,
+        "max": 0,
+        "param": [
+            [
+                2590001,
+                1
+            ],
+            [
+                2510010,
+                1
+            ],
+            [
+                2540010,
                 1
             ]
         ],
@@ -17076,6 +17439,38 @@
         "max": 0,
         "source": []
     },
+    "50058": {
+        "decompose_id": 0,
+        "name": "Enamel Cookware",
+        "compose_id": 0,
+        "type": 10,
+        "id": 50058,
+        "rare": 4,
+        "desc": "A finely crafted saucepan with a glossy enamel layer inside and out, making it not only visually appealing but also durable and easy to clean. This would definitely be a great surprise for someone who is passionate about cooking.",
+        "limit": 0,
+        "sub_type": 1,
+        "display_rare": 4,
+        "icon": "50058",
+        "use": 0,
+        "max": 0,
+        "source": []
+    },
+    "50059": {
+        "decompose_id": 0,
+        "name": "Classic Romance Novel",
+        "compose_id": 0,
+        "type": 10,
+        "id": 50059,
+        "rare": 4,
+        "desc": "A bestselling romance novel whose iconic storylines have stood the test of time. This would definitely be a great surprise for someone who loves romance novels and has just arrived on Gaea.",
+        "limit": 0,
+        "sub_type": 1,
+        "display_rare": 4,
+        "icon": "50059",
+        "use": 0,
+        "max": 0,
+        "source": []
+    },
     "51009": {
         "decompose_id": 0,
         "name": "Duck Blood",
@@ -20326,12 +20721,12 @@
     },
     "53160": {
         "decompose_id": 0,
-        "name": "Translating:【item$53160$name$0】",
+        "name": "Coagulation Material",
         "compose_id": 0,
         "type": 6,
         "rare": 4,
         "id": 53160,
-        "desc": "Translating:【item$53160$desc$0】",
+        "desc": "Used to exchange for the required materials in the Cryptics Lab.\n—Materials mixed with the Bias Factor are the most important components of the barrier.",
         "sub_type": 0,
         "icon": "53155",
         "use": 0,
@@ -20358,7 +20753,7 @@
         "type": 6,
         "id": 53999,
         "rare": 5,
-        "desc": "A seal provided to administrators for the completion of Aether Gazer's advance dispatch work. Upon sending their report to the system, Aether Gazer will reward the administrators with supplies according to the number of seals provided. \n - Modification complete, the admin can use this seal to take a supply reward.",
+        "desc": "A seal provided to administrators for the completion of Aether Gazer's advance dispatch work. Upon sending their report to the system, Aether Gazer will reward the administrators with supplies according to the number of seals provided. \n- Modification complete, the admin can use this seal to take a supply reward.",
         "limit": 0,
         "sub_type": 0,
         "littleicon": "53999",
@@ -20470,7 +20865,7 @@
         "type": 6,
         "compose_id": 0,
         "rare": 4,
-        "desc": "Translating:【item$5311601$desc$0】",
+        "desc": "A positioning device that can correctly place puzzle pieces.\n—\"Lord Mimir has a hint for you, rookie.\"",
         "id": 5311601,
         "sub_type": 0,
         "littleicon": "53026",
@@ -22192,11 +22587,11 @@
     },
     "54085": {
         "decompose_id": 0,
-        "name": "Translating:【item$54085$name$0】",
+        "name": "Bias Factor Sequence",
         "type": 1,
         "compose_id": 0,
         "rare": 4,
-        "desc": "Translating:【item$54085$desc$0】",
+        "desc": "Used to activate the Cracked Wasteland difficulty stage in Beast's Struggle.\n—The substances extracted from Oracle Cells allow us to determine the devouring bias of the Oracle Cells.",
         "id": 54085,
         "sub_type": 0,
         "littleicon": "54085",
@@ -22219,7 +22614,7 @@
         "type": 1,
         "compose_id": 0,
         "rare": 4,
-        "desc": "Translating:【item$54086$desc$0】",
+        "desc": "\"As myself as your witness, rookie, I hereby declare that you have proven yourself! You deserve it.\"\n—Mimir.",
         "id": 54086,
         "sub_type": 0,
         "littleicon": "54015",
@@ -22357,7 +22752,7 @@
         "type": 1,
         "compose_id": 0,
         "rare": 4,
-        "desc": "Translating:【item$5406902$desc$0】",
+        "desc": "\"As myself as your witness, rookie, I hereby declare that you have proven yourself! You deserve it.\"\n—Mimir.",
         "id": 5406902,
         "sub_type": 0,
         "littleicon": "54015",
@@ -23341,12 +23736,12 @@
     },
     "81072": {
         "decompose_id": 0,
-        "name": "Translating:【item$81072$name$0】",
+        "name": "Archive: Omnisight",
         "compose_id": 0,
         "type": 6,
         "id": 81072,
         "rare": 4,
-        "desc": "Translating:【item$81072$desc$0】",
+        "desc": "Used to access Omnisight's dossier.\n—\"The weight of a coin is all that's necessary to keep a place ablaze with sparkling lights.",
         "limit": 0,
         "sub_type": 617,
         "display_rare": 4,
@@ -24830,6 +25225,82 @@
         "max": 0,
         "param": [
             217
+        ],
+        "source": []
+    },
+    "90131": {
+        "name": "Alisa, Sigh",
+        "id": 90131,
+        "type": 20,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "Unlock the emote \"Alisa's Sigh\" after use.",
+        "decompose_id": 0,
+        "sub_type": 0,
+        "limit": 0,
+        "display_rare": 5,
+        "icon": "90131",
+        "use": 2,
+        "max": 0,
+        "param": [
+            304
+        ],
+        "source": []
+    },
+    "90132": {
+        "name": "Alisa, the Thinker",
+        "id": 90132,
+        "type": 20,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "Unlock the emote \"Alisa - Thinking\" after use.",
+        "decompose_id": 0,
+        "sub_type": 0,
+        "limit": 0,
+        "display_rare": 5,
+        "icon": "90132",
+        "use": 2,
+        "max": 0,
+        "param": [
+            305
+        ],
+        "source": []
+    },
+    "90133": {
+        "name": "Ciel, the Peeker",
+        "id": 90133,
+        "type": 20,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "Unlock the emote \"Ciel Peeking\" after use.",
+        "decompose_id": 0,
+        "sub_type": 0,
+        "limit": 0,
+        "display_rare": 5,
+        "icon": "90133",
+        "use": 2,
+        "max": 0,
+        "param": [
+            306
+        ],
+        "source": []
+    },
+    "90134": {
+        "name": "Ciel, the Curious",
+        "id": 90134,
+        "type": 20,
+        "compose_id": 0,
+        "rare": 5,
+        "desc": "Unlocks the emote \"Ciel: Curious\" after use.",
+        "decompose_id": 0,
+        "sub_type": 0,
+        "limit": 0,
+        "display_rare": 5,
+        "icon": "90134",
+        "use": 2,
+        "max": 0,
+        "param": [
+            307
         ],
         "source": []
     },
@@ -99253,7 +99724,11 @@
         "icon": "52",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "310052": {
         "decompose_id": 0,
@@ -99269,7 +99744,11 @@
         "icon": "52",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "410052": {
         "decompose_id": 0,
@@ -99287,7 +99766,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99307,7 +99789,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000279
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99327,7 +99816,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000279
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99347,7 +99843,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000279
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99367,7 +99870,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000279
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99387,7 +99897,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000279
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99407,7 +99924,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000279
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99427,7 +99951,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000279
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99445,7 +99976,11 @@
         "icon": "52",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "320052": {
         "decompose_id": 0,
@@ -99461,7 +99996,11 @@
         "icon": "52",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "420052": {
         "decompose_id": 0,
@@ -99479,7 +100018,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99499,7 +100041,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000278
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99519,7 +100068,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000278
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99539,7 +100095,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000278
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99559,7 +100122,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000278
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99579,7 +100149,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000278
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99599,7 +100176,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000278
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99619,7 +100203,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000278
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99637,7 +100228,11 @@
         "icon": "52",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "330052": {
         "decompose_id": 0,
@@ -99653,7 +100248,11 @@
         "icon": "52",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "430052": {
         "decompose_id": 0,
@@ -99671,7 +100270,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99691,7 +100293,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000277
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99711,7 +100320,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000277
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99731,7 +100347,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000277
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99751,7 +100374,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000277
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99771,7 +100401,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000277
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99791,7 +100428,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000277
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99811,7 +100455,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000277
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99829,7 +100480,11 @@
         "icon": "52",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "340052": {
         "decompose_id": 0,
@@ -99845,7 +100500,11 @@
         "icon": "52",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "440052": {
         "decompose_id": 0,
@@ -99863,7 +100522,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99883,7 +100545,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000276
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99903,7 +100572,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000276
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99923,7 +100599,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000276
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99943,7 +100626,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000276
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99963,7 +100653,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000276
+            ],
+            [
+                507
             ]
         ]
     },
@@ -99983,7 +100680,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000276
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100003,7 +100707,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000276
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100021,7 +100732,11 @@
         "icon": "52",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "350052": {
         "decompose_id": 0,
@@ -100037,7 +100752,11 @@
         "icon": "52",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "450052": {
         "decompose_id": 0,
@@ -100055,7 +100774,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100075,7 +100797,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000275
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100095,7 +100824,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000275
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100115,7 +100851,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000275
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100135,7 +100878,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000275
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100155,7 +100905,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000275
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100175,7 +100932,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000275
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100195,7 +100959,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000275
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100213,7 +100984,11 @@
         "icon": "52",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "360052": {
         "decompose_id": 0,
@@ -100229,7 +101004,11 @@
         "icon": "52",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "460052": {
         "decompose_id": 0,
@@ -100247,7 +101026,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100267,7 +101049,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000274
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100287,7 +101076,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000274
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100307,7 +101103,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000274
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100327,7 +101130,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000274
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100347,7 +101157,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000274
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100367,7 +101184,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000274
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100387,7 +101211,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000274
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100405,7 +101236,11 @@
         "icon": "53",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "310053": {
         "decompose_id": 0,
@@ -100421,7 +101256,11 @@
         "icon": "53",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "410053": {
         "decompose_id": 0,
@@ -100439,7 +101278,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100459,7 +101301,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000285
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100479,7 +101328,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000285
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100499,7 +101355,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000285
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100519,7 +101382,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000285
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100539,7 +101409,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000285
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100559,7 +101436,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000285
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100579,7 +101463,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000285
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100597,7 +101488,11 @@
         "icon": "53",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "320053": {
         "decompose_id": 0,
@@ -100613,7 +101508,11 @@
         "icon": "53",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "420053": {
         "decompose_id": 0,
@@ -100631,7 +101530,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100651,7 +101553,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000284
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100671,7 +101580,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000284
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100691,7 +101607,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000284
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100711,7 +101634,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000284
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100731,7 +101661,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000284
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100751,7 +101688,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000284
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100771,7 +101715,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000284
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100789,7 +101740,11 @@
         "icon": "53",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "330053": {
         "decompose_id": 0,
@@ -100805,7 +101760,11 @@
         "icon": "53",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "430053": {
         "decompose_id": 0,
@@ -100823,7 +101782,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100843,7 +101805,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000283
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100863,7 +101832,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000283
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100883,7 +101859,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000283
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100903,7 +101886,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000283
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100923,7 +101913,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000283
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100943,7 +101940,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000283
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100963,7 +101967,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000283
+            ],
+            [
+                507
             ]
         ]
     },
@@ -100981,7 +101992,11 @@
         "icon": "53",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "340053": {
         "decompose_id": 0,
@@ -100997,7 +102012,11 @@
         "icon": "53",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "440053": {
         "decompose_id": 0,
@@ -101015,7 +102034,10 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                507
             ]
         ]
     },
@@ -101035,7 +102057,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000282
+            ],
+            [
+                507
             ]
         ]
     },
@@ -101055,7 +102084,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000282
+            ],
+            [
+                507
             ]
         ]
     },
@@ -101075,7 +102111,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000282
+            ],
+            [
+                507
             ]
         ]
     },
@@ -101095,7 +102138,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000282
+            ],
+            [
+                507
             ]
         ]
     },
@@ -101115,7 +102165,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000282
+            ],
+            [
+                507
             ]
         ]
     },
@@ -101135,7 +102192,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000282
+            ],
+            [
+                507
             ]
         ]
     },
@@ -101155,7 +102219,14 @@
         "max": 0,
         "source": [
             [
-                10001
+                317
+            ],
+            [
+                510,
+                32000282
+            ],
+            [
+                507
             ]
         ]
     },
@@ -101173,7 +102244,11 @@
         "icon": "53",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "350053": {
         "decompose_id": 0,
@@ -101189,7 +102264,11 @@
         "icon": "53",
         "use": 0,
         "max": 0,
-        "source": []
+        "source": [
+            [
+                317
+            ]
+        ]
     },
     "450053": {
         "decompose_id": 0,
@@ -101207,471 +102286,10 @@
         "max": 0,
         "source": [
             [
-                10001
-            ]
-        ]
-    },
-    "550053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅴ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 550053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
+                317
+            ],
             [
-                10001
-            ]
-        ]
-    },
-    "551053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅴ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 551053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "552053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅴ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 552053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "553053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅴ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 553053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "554053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅴ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 554053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "555053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅴ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 555053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "559053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅴ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 559053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "260053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅵ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 260053,
-        "rare": 2,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 2,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": []
-    },
-    "360053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅵ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 360053,
-        "rare": 3,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 3,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": []
-    },
-    "460053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅵ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 460053,
-        "rare": 4,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 4,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "560053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅵ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 560053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "561053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅵ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 561053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "562053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅵ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 562053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "563053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅵ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 563053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "564053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅵ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 564053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "565053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅵ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 565053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "569053": {
-        "decompose_id": 0,
-        "name": "Feathers in the Storm Ⅵ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 569053,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "53",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "210054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅰ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 210054,
-        "rare": 2,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 2,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": []
-    },
-    "310054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅰ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 310054,
-        "rare": 3,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 3,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": []
-    },
-    "410054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅰ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 410054,
-        "rare": 4,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 4,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "510054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅰ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 510054,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "511054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅰ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 511054,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "512054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅰ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 512054,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
-            ]
-        ]
-    },
-    "513054": {
-        "decompose_id": 0,
-        "name": "Battle Cry of the Wild Sands Ⅰ",
-        "compose_id": 0,
-        "type": 7,
-        "id": 513054,
-        "rare": 5,
-        "desc": "An emblem that gives the Mod various special powers.\n—Her breath shaped the desert, her battle cry resounded through the skies.",
-        "limit": 0,
-        "sub_type": 0,
-        "display_rare": 5,
-        "icon": "54",
-        "use": 0,
-        "max": 0,
-        "source": [
-            [
-                10001
+                507
             ]
         ]
     },
@@ -102252,6 +102870,8 @@
             950022,
             950023,
             950025,
+            950032,
+            950033,
             950901,
             950902,
             950903,
@@ -106427,6 +107047,10 @@
             90074,
             90075,
             90076,
+            90131,
+            90132,
+            90133,
+            90134,
             91001,
             91002,
             91003,
@@ -106513,7 +107137,9 @@
             50049,
             50050,
             50051,
-            50052
+            50052,
+            50058,
+            50059
         ],
         "5": [
             30002,
@@ -106547,16 +107173,21 @@
             30043,
             30044,
             30046,
+            30049,
             30050,
             30051,
             30052,
             30053,
             30054,
             30055,
+            30058,
+            30059,
             30061,
             30062,
             30063,
             30064,
+            30078,
+            30079,
             30091,
             30092,
             30093,
@@ -106997,7 +107628,13 @@
             850061,
             830062,
             840062,
-            850062
+            850062,
+            830070,
+            840070,
+            850070,
+            830071,
+            840071,
+            850071
         ],
         "4": [
             20001,
@@ -107291,7 +107928,8 @@
             9001,
             9002,
             9003,
-            9004
+            9004,
+            9007
         ],
         "23": [
             8001,
@@ -107299,7 +107937,9 @@
             8003,
             8004,
             8005,
-            8006
+            8006,
+            8008,
+            8010
         ],
         "22": [
             7001,
@@ -107318,6 +107958,7 @@
             7014,
             7015,
             7016,
+            7017,
             7100,
             7101,
             7102,
@@ -107347,6 +107988,8 @@
             6014,
             6015,
             6016,
+            6036,
+            6037,
             6100,
             4600703,
             4600803,
@@ -107412,7 +108055,9 @@
             3036,
             3037,
             3038,
-            3039
+            3039,
+            3049,
+            3050
         ],
         "12": [
             2001,
@@ -107443,6 +108088,7 @@
             2029,
             2030,
             2031,
+            2036,
             2401,
             2701,
             2702,
@@ -107469,7 +108115,9 @@
             2913,
             2914,
             2915,
-            2916
+            2916,
+            2920,
+            2923
         ],
         "1": [
             1,
@@ -107869,6 +108517,8 @@
             50050,
             50051,
             50052,
+            50058,
+            50059,
             2110841,
             2110842,
             2110843,
@@ -108543,7 +109193,13 @@
             850061,
             830062,
             840062,
-            850062
+            850062,
+            830070,
+            840070,
+            850070,
+            830071,
+            840071,
+            850071
         ],
         "507": [
             30031,
@@ -108570,7 +109226,11 @@
             30044,
             30046,
             30053,
-            30054
+            30054,
+            30058,
+            30059,
+            30078,
+            30079
         ],
         "2": [
             30012,
@@ -108581,6 +109241,7 @@
         "508": [
             30009,
             30026,
+            30049,
             30091,
             30092,
             30093,
@@ -108653,6 +109314,8 @@
             6014,
             6015,
             6016,
+            6036,
+            6037,
             6100,
             4600703,
             4600803,
@@ -108682,7 +109345,9 @@
         ],
         "1302": [
             3017,
-            3019
+            3019,
+            3049,
+            3050
         ],
         "1301": [
             3002,
@@ -108724,7 +109389,8 @@
             2911,
             2912,
             2913,
-            2914
+            2914,
+            2920
         ],
         "1203": [
             2801,
@@ -108750,7 +109416,8 @@
             2714,
             2715,
             2716,
-            2901
+            2901,
+            2923
         ],
         "1201": [
             2001,
@@ -108779,6 +109446,7 @@
             2029,
             2030,
             2031,
+            2036,
             2915,
             2916
         ],
@@ -108877,6 +109545,7 @@
             7014,
             7015,
             7016,
+            7017,
             7100,
             7101,
             7102,
@@ -108893,10 +109562,13 @@
             8004,
             8005,
             8006,
+            8008,
+            8010,
             9001,
             9002,
             9003,
             9004,
+            9007,
             10001,
             10002,
             10003,
@@ -109175,6 +109847,10 @@
             90074,
             90075,
             90076,
+            90131,
+            90132,
+            90133,
+            90134,
             91001,
             91002,
             91003,
@@ -113045,6 +113721,8 @@
             950022,
             950023,
             950025,
+            950032,
+            950033,
             950901,
             950902,
             950903,
@@ -113759,6 +114437,7 @@
         2029,
         2030,
         2031,
+        2036,
         2401,
         2701,
         2702,
@@ -113786,6 +114465,8 @@
         2914,
         2915,
         2916,
+        2920,
+        2923,
         3002,
         3003,
         3004,
@@ -113821,6 +114502,8 @@
         3037,
         3038,
         3039,
+        3049,
+        3050,
         4001,
         4002,
         4003,
@@ -113843,6 +114526,8 @@
         6014,
         6015,
         6016,
+        6036,
+        6037,
         6100,
         7001,
         7002,
@@ -113860,6 +114545,7 @@
         7014,
         7015,
         7016,
+        7017,
         7100,
         7101,
         7102,
@@ -113876,10 +114562,13 @@
         8004,
         8005,
         8006,
+        8008,
+        8010,
         9001,
         9002,
         9003,
         9004,
+        9007,
         10001,
         10002,
         10003,
@@ -113947,16 +114636,21 @@
         30043,
         30044,
         30046,
+        30049,
         30050,
         30051,
         30052,
         30053,
         30054,
         30055,
+        30058,
+        30059,
         30061,
         30062,
         30063,
         30064,
+        30078,
+        30079,
         30091,
         30092,
         30093,
@@ -114309,6 +115003,8 @@
         50050,
         50051,
         50052,
+        50058,
+        50059,
         51009,
         51010,
         51011,
@@ -114668,6 +115364,10 @@
         90074,
         90075,
         90076,
+        90131,
+        90132,
+        90133,
+        90134,
         91001,
         91002,
         91003,
@@ -118700,6 +119400,12 @@
         830062,
         840062,
         850062,
+        830070,
+        840070,
+        850070,
+        830071,
+        840071,
+        850071,
         941001,
         941002,
         941003,
@@ -118736,6 +119442,8 @@
         950022,
         950023,
         950025,
+        950032,
+        950033,
         950901,
         950902,
         950903,

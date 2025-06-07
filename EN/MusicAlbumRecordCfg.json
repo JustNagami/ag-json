@@ -119,6 +119,18 @@
         "albumName": "Chords Before Aurora",
         "verName": "Sword Song"
     },
+    "21": {
+        "id": 21,
+        "cover": "icon_CD_21",
+        "albumName": "Sarvaloka",
+        "verName": "The High Wall"
+    },
+    "27": {
+        "id": 27,
+        "cover": "icon_CD_27",
+        "albumName": "Ender Oracle",
+        "verName": "Oracle's Lost Music"
+    },
     "all": [
         1,
         2,
@@ -139,6 +151,8 @@
         17,
         18,
         19,
-        20
+        20,
+        21,
+        27
     ]
 }

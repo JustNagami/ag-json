@@ -239,6 +239,41 @@
         "word": "Darksea",
         "desc": "A status that inflicts continuous DMG to the enemy for as long as Leuce sustains her Skill 2: Puppet Show: Prelude attack."
     },
+    "104503": {
+        "id": 104503,
+        "word": "God Arc Controlled",
+        "desc": "State entered after \"IE Infernal Calamity\" through \"Reset Stance\"."
+    },
+    "104504": {
+        "id": 104504,
+        "word": "Zero Stance",
+        "desc": "A status granted by God Arc Controlled's Purgatory Flames."
+    },
+    "104601": {
+        "id": 104601,
+        "word": "Liberation Index",
+        "desc": "Status points obtained through various means."
+    },
+    "104602": {
+        "id": 104602,
+        "word": "Liberation Stage",
+        "desc": "Status layers obtained through various means."
+    },
+    "104603": {
+        "id": 104603,
+        "word": "Blood Point",
+        "desc": "After dealing a certain number of Crits, obtain the Mark through the Aether Code \"Masterful Technique: Combo\"."
+    },
+    "104604": {
+        "id": 104604,
+        "word": "Liberation State",
+        "desc": "State entered via Normal Attack in \"Gun Mode\" when the \"Burst Index\" and \"Burst Phase\" are full."
+    },
+    "104605": {
+        "id": 104605,
+        "word": "Blood Rage",
+        "desc": "Add a status to the enemy by consuming \"Blood Marks\" to mark them."
+    },
     "104901": {
         "id": 104901,
         "word": "Ice Mirror",
@@ -903,6 +938,13 @@
         104203,
         104204,
         104205,
+        104503,
+        104504,
+        104601,
+        104602,
+        104603,
+        104604,
+        104605,
         104901,
         104902,
         104903,

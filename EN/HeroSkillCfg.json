@@ -574,10 +574,10 @@
         ]
     },
     "1045101": {
-        "name": "Translating:【skill$1045101$name$0】",
+        "name": "Corroding Rend",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1045101$simpleDesc$0】",
+        "simpleDesc": "Initiate a 4-hit ground combo, dealing Fire DMG. Continuing with a fifth Normal Attack launches Alisa into the air. While airborne, Alisa gains Unyielding and can perform the fifth and sixth Normal Attacks, both dealing Fire DMG. If the fifth strike is a hit, the Divine Grace charge speed increases.\nIn Gun Mode, attacks deal Fire DMG.\n\n<color=#297DE0>Divine Grace:</color> In Slash Mode, Normal Attacks grant Divine Grace on hit.",
         "MaxUseCount": 0,
         "id": 1045101,
         "EnergyChange": 0,
@@ -592,10 +592,10 @@
         ]
     },
     "1045201": {
-        "name": "Translating:【skill$1045201$name$0】",
+        "name": "Death Strike",
         "cd": 6000,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1045201$simpleDesc$0】",
+        "simpleDesc": "While on the ground: Alisa deals Fire DMG. If followed by a Normal Attack, the combo continues from the fourth strike.\nWhile airborne: Alisa deals Fire DMG. If Alisa hits with increased Divine Grace charge speed from Normal Attacks, the charge speed increases further and the next strike continues from the sixth Normal Attack.\nEruption: Alisa consumes Divine Grace to fire bullets and deal Fire DMG.",
         "MaxUseCount": 0,
         "id": 1045201,
         "EnergyChange": 0,
@@ -611,10 +611,10 @@
         ]
     },
     "1045202": {
-        "name": "Translating:【skill$1045202$name$0】",
+        "name": "Body Devouring Rage",
         "cd": 3000,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1045202$simpleDesc$0】",
+        "simpleDesc": "When on the ground, God Arc switches to Predator Form, dealing Fire DMG and gaining <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> points.\nWhen airborne, full Divine Grace is required to activate; consuming all Divine Grace, God Arc switches to Predator Form, dealing Fire DMG and gaining <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> points.\nWhile dodging on the move, it can be chained; God Arc switches to Predator Form, dealing Fire DMG and gaining <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> points based on impact distance.\nEach time <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> is full, <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> increases; ATK is boosted based on your current <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> level.\n\nWhen God Arc in Predator Form hits special enemies, different bullets are acquired; upon entering \"Gun Mode\", this skill is replaced with \"Wasteland Bullet\", dealing different DMG:\nOgretail: deals Physical DMG;\nKongou: deals Wind DMG;\nFather Di Ausu: deals Thunder DMG.",
         "MaxUseCount": 0,
         "id": 1045202,
         "EnergyChange": 0,
@@ -629,10 +629,10 @@
         ]
     },
     "1045203": {
-        "name": "Translating:【skill$1045203$name$0】",
+        "name": "Star Pulse",
         "cd": 500,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1045203$simpleDesc$0】",
+        "simpleDesc": "Grounded startup move \"Zero Stance\" interrupts ground-based Normal Attack, Skills, and Dodge actions, and does not break the first three links of a Normal Attack combo.\n \"Zero Stance\" provides defense; upon successfully blocking an attack, gain Liberation Index points and grant invincibility.\n For a brief period after casting \"Zero Stance\", \"Fatal Onslaught\" is replaced by \"IE Blade Cannon Explosion\", and \"Self-Consuming Fury\" is replaced by \"IE Purgatory Flames\"; \"Zero Stance\" can chain into casting \"IE Blade Cannon Explosion\", and \"Zero Stance\" and \"IE Blade Cannon Explosion\" can chain into casting \"IE Purgatory Flames\".\n \"IE Blade Cannon Explosion\": Deals fire DMG, with increased skill DMG during casting.\n \"IE Purgatory Flames\": Consumes all Divine Grace, deals fire DMG, and grants the \"God Arc Controlled\" state upon casting; this skill consumes Divine Grace and boosts critical DMG, with additional critical DMG increase determined by the level of the \"Liberation Stage\".\n \"God Arc Controlled\": Based on the \"Liberation Stage\" at acquisition, if the \"Liberation Stage\" is not Lv.3, periodically gain Liberation Index points; if the \"Liberation Stage\" is Lv.3, periodically consume Liberation Index points; the state ends when the \"Liberation Stage\" is increased or decreased.",
         "MaxUseCount": 0,
         "abilities": "",
         "id": 1045203,
@@ -645,10 +645,10 @@
         ]
     },
     "1045209": {
-        "name": "Translating:【skill$1045209$name$0】",
+        "name": "Godslayer: Massacre",
         "cd": 20000,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1045209$simpleDesc$0】",
+        "simpleDesc": "Deals Fire DMG; Increases own Fire DMG when cast; if in \"Gun Mode\", exit \"Gun Mode\".\n\nWhen self or a teammate triggers Zero Time and obtains <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material>, gains Ultimate Skill charge.",
         "MaxUseCount": 0,
         "id": 1045209,
         "EnergyChange": 0,
@@ -663,10 +663,10 @@
         ]
     },
     "1045305": {
-        "name": "Translating:【skill$1045305$name$0】",
+        "name": "Nimble Stance",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1045305$simpleDesc$0】",
+        "simpleDesc": "While in \"Slash Mode\", if not performing a movement dodge, you block incoming attacks. Successful blocks grant you <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> points and invincibility.\nWhile in \"Slash Mode\", when long-pressing a movement dodge, you enter \"Gun Mode\": you gain a stagger effect, Normal Attack changes its attack mode, \"Death Strike\" is replaced by \"Burst Eruption\", and \"Star Pulse\" is replaced by \"Slash Mode\". You can exit \"Gun Mode\" using the replacement skill.\nMovement dodges in \"Slash Mode\" and dodges in \"Gun Mode\" allow you to evade enemy attacks, with Extremity Dodge triggering the Dodge effect.\nDodge effect: Zero Time.",
         "MaxUseCount": 2,
         "abilities": "",
         "id": 1045305,
@@ -679,10 +679,10 @@
         ]
     },
     "1046101": {
-        "name": "Translating:【skill$1046101$name$0】",
+        "name": "Swift Harvest",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1046101$simpleDesc$0】",
+        "simpleDesc": "Deals Ice DMG.\nAfter dealing Crit a certain number of times, gain <material=underline c=#FFFFFF h=2 event=terminology args=(104603)>\"Blood Point\"</material> Mark.\nWhile on the ground, holding the Normal Attack will consume <material=underline c=#FFFFFF h=2 event=terminology args=(104603)>\"Blood Point\"</material> Mark to unleash the enhanced Normal Attack \"Blood Rage Devour\".\n\"Blood Rage Devour\": Continuously deals DMG to yourself and enemies, inflicting Ice DMG. After each hit, the DMG dealt to yourself increases, and the DMG to enemies rises. The final hit will trigger an explosive attack, dealing Ice DMG and increasing the DMG based on the current lost HP. Upon hitting, it restores HP; this attack will not interrupt the combo of Normal Attacks.\n\nIn \"Gun Mode\", deals Ice DMG.\n\nIn the air, deals Ice DMG, then automatically transitions to the falling attack \"Blood's Swift Strike\".\n\n<color=#297DE0>Divine Grace:</color> When not in \"Gun Mode\", landing a Normal Attack on the ground will grant Divine Grace.",
         "MaxUseCount": 0,
         "id": 1046101,
         "EnergyChange": 0,
@@ -697,10 +697,10 @@
         ]
     },
     "1046201": {
-        "name": "Translating:【skill$1046201$name$0】",
+        "name": "Bloody Blitz",
         "cd": 6000,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1046201$simpleDesc$0】",
+        "simpleDesc": "When on the ground, deals Ice DMG. Leaps into the air when attacking and automatically follows up the attack with a falling attack, dealing Ice DMG. Gains Unyielding when in the air. When in the air, the skill can be launched early and will be instantly followed up with a falling attack.\nSpinning Throw: Expends Divine Grace, dealing Ice DMG.",
         "MaxUseCount": 0,
         "id": 1046201,
         "EnergyChange": 0,
@@ -715,10 +715,10 @@
         ]
     },
     "1046202": {
-        "name": "Translating:【skill$1046202$name$0】",
-        "cd": 0,
+        "name": "Blood Awakening",
+        "cd": 2000,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1046202$simpleDesc$0】",
+        "simpleDesc": "When entering the field, if the Crit Rate increases to a certain value, the Crit Rate will decrease. Based on the decrease in Crit Rate, the acquisition rate of <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> increases.\nConsume all Divine Grace to enter a storage state. Based on the consumed Divine Grace, gain <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> points; reaching the storage time limit will trigger a predatory attack. During storage, clicking again will immediately perform a predatory attack, dealing Ice DMG. Depending on the storage time, additional <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> points will be gained upon hit; during casting, gain a stiffening effect, reducing DMG taken.\nEach time <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> is full, <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> increases; based on the level of <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material>, the Crit Rate increases.\nWhen <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> and <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material> are full, performing a Normal Attack in \"Gun Mode\" will enter <material=underline c=#FFFFFF h=2 event=terminology args=(104604)>\"Liberation State\"</material>.\n<material=underline c=#FFFFFF h=2 event=terminology args=(104604)>\"Liberation State\"</material>: Upon entering, consume <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> to deal Ice DMG, then intermittently consume <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> points, increasing effects based on the level of <material=underline c=#FFFFFF h=2 event=terminology args=(104602)>\"Liberation Stage\"</material>.\n\nWhen the God Arc's predatory form hits special enemies, different bullets will be obtained; when entering \"Gun Mode,\" this skill will be replaced by \"Aragami Bullet,\" dealing different DMG:\nOgretail: Deals Physical DMG;\nVajra: Deals Wind DMG;\nFather Dios: Deals Thunder DMG.\n\nWhile in the air, consume <material=underline c=#FFFFFF h=2 event=terminology args=(104603)>\"Blood Points\"</material> mark to deal Ice DMG.",
         "MaxUseCount": 0,
         "abilities": "",
         "id": 1046202,
@@ -731,10 +731,10 @@
         ]
     },
     "1046203": {
-        "name": "Translating:【skill$1046203$name$0】",
+        "name": "Blood Bullet",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1046203$simpleDesc$0】",
+        "simpleDesc": "While on the ground, enter \"Gun Mode,\" gain a stagger effect, Normal Attack changes attack mode, \"Bloody Blitz\" is replaced by \"Spinning Throw,\" \"Blood Awakening\" is replaced by \"Aragami Bullet,\" \"Blood Bullet\" is replaced by \"Transformation,\" and you can exit \"Gun Mode\" through this replacement skill.\n\nWhile in the air, deal Ice DMG; when cast, reset the remaining CD of \"Bloody Blitz.\"",
         "MaxUseCount": 0,
         "abilities": "",
         "id": 1046203,
@@ -747,10 +747,10 @@
         ]
     },
     "1046209": {
-        "name": "Translating:【skill$1046209$name$0】",
+        "name": "Godslayer: Bloody Dance",
         "cd": 20000,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1046209$simpleDesc$0】",
+        "simpleDesc": "Deals Ice DMG; Increases own Ice DMG when cast; Exit \"Gun Mode\" if in \"Gun Mode\".\n\n Gain Ultimate Skill charge when self or ally triggers Zero Time.",
         "MaxUseCount": 0,
         "id": 1046209,
         "EnergyChange": 0,
@@ -765,10 +765,10 @@
         ]
     },
     "1046305": {
-        "name": "Translating:【skill$1046305$name$0】",
+        "name": "Dexterous Stance",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "Translating:【skill$1046305$simpleDesc$0】",
+        "simpleDesc": "When not moving to dodge, defense is performed, and upon successfully blocking an attack, you gain <material=underline c=#FFFFFF h=2 event=terminology args=(104601)>\"Liberation Index\"</material> points.\nDodge effect: Zero Time.",
         "MaxUseCount": 2,
         "abilities": "",
         "id": 1046305,
@@ -8053,7 +8053,7 @@
         "name": "Age of Creation and Age of Destruction",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state:\nDeals Wind DMG and grants <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Nirvana</material> each time an attack hits.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Age of Destruction</material> state:\n Deals Wind DMG and grants <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> each time an attack hits.\n\nPassive:\n In <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Catacylsmic Destruction</material> state, grants Super Armor, dealing Wind DMG to all enemies every second.\nIn <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material> state, Mahêśvara - Reveal, Mahêśvara - Annihilation, Suddhavasa - Reveal, Suddhavasa - Annihilation, and the Just Me Ultimate Skills will instantly defeat an enemy struck if its HP is under a certain amount.\n\n<color=#297DE0>Aether Code:</color> Grants Divine Grace after a normal attack hits.",
+        "simpleDesc": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state:\nDeals Wind DMG and grants <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Nirvana</material> each time an attack hits.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Age of Destruction</material> state:\nDeals Wind DMG and grants <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> each time an attack hits.\n\nPassive:\n In <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Catacylsmic Destruction</material> state, grants Super Armor, dealing Wind DMG to all enemies every second.\nIn <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material> state, Mahêśvara - Reveal, Mahêśvara - Annihilation, Suddhavasa - Reveal, Suddhavasa - Annihilation, and the Just Me Ultimate Skills will instantly defeat an enemy struck if its HP is under a certain amount.\n\n<color=#297DE0>Aether Code:</color> Grants Divine Grace after a normal attack hits.",
         "MaxUseCount": 0,
         "id": 1020101,
         "EnergyChange": 0,
@@ -8071,7 +8071,7 @@
         "name": "Mahêśvara",
         "cd": 12000,
         "strengthen_desc": "",
-        "simpleDesc": "In <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state:\nMahêśvara - Genesis: When <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> is full, the total amount will be expended to unleash this skill, dealing Wind DMG. A short time after unleashing this skill, it will be replaced with Mahêśvara - Reveal, which can only be used after Mahêśvara - Genesis.\nMahêśvara - Reveal: Deals Wind DMG.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Catacylsmic Destruction</material> state:\nMahêśvara - Disintegration: When <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> is full, the total amount will be expended to unleash this skill, dealing Wind DMG. A short time after unleashing this skill, it will be replaced with Mahêśvara - Annihilation, which can only be used after Mahêśvara - Disintegration.\nMahêśvara - Annihilation: Deals Wind DMG.\n\n<color=#297DE0>Aether Code: </color>Grants Divine Grace after a skill hits.",
+        "simpleDesc": "In <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state:\n Mahêśvara - Genesis: When <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> is full, the total amount will be expended to unleash this skill, dealing Wind DMG. A short time after unleashing this skill, it will be replaced with Mahêśvara - Reveal, which can only be used after Mahêśvara - Genesis.\nMahêśvara - Reveal: Deals Wind DMG.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Catacylsmic Destruction</material> state:\nMahêśvara - Disintegration: When <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> is full, the total amount will be expended to unleash this skill, dealing Wind DMG. A short time after unleashing this skill, it will be replaced with Mahêśvara - Annihilation, which can only be used after Mahêśvara - Disintegration.\nMahêśvara - Annihilation: Deals Wind DMG.\n\n<color=#297DE0>Aether Code: </color>Grants Divine Grace after a skill hits.",
         "MaxUseCount": 0,
         "id": 1020201,
         "EnergyChange": 0,
@@ -8123,7 +8123,7 @@
         "name": "Just Me",
         "cd": 20000,
         "strengthen_desc": "",
-        "simpleDesc": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state:\nDeals Wind DMG and switches the Modifier to <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Catacylsmic Destruction</material> state.\nWhen switching to <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Catacylsmic Destruction</material> state, <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> and Ultimate Skill CD both reset and the Ultimate Skillchain is cancelled.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material> state:\nDeals Wind DMG and switches the  Modifier to <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state.\nWhen switching to <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state, <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material>, Dodge effect CD, the Ultimate Skill Charge of the Mod and other Mods with whom the Mod has a preset Ultimate Skillchain. The Ultimate Skill CD are all reset, and the Ultimate Skillchain is restored.\n\nAfter an Asterism Mod attack hits, grants different Ultimate Skill charges depending on the number of current Asterism Mods on the team.",
+        "simpleDesc": "<material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state:\nDeals Wind DMG and switches the Modifier to <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Catacylsmic Destruction</material> state.\nWhen switching to <material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Catacylsmic Destruction</material> state, <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material> and Ultimate Skill CD both reset and the Ultimate Skillchain is cancelled.\n\n<material=underline c=#FFFFFF h=2 event=terminology args=(102002)>Cataclysmic Destruction</material> state:\nDeals Wind DMG and switches the Mod to <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state.\nWhen switching to <material=underline c=#FFFFFF h=2 event=terminology args=(102001)>Age of Creation</material> state, <material=underline c=#FFFFFF h=2 event=terminology args=(102003)>Brahman</material>, Dodge effect CD, the Ultimate Skill Charge of the Mod and other Mods with whom the Mod has a preset Ultimate Skillchain. The Ultimate Skill CD are all reset, and the Ultimate Skillchain is restored.\n\nAfter an Asterism Mod attack hits, grants different Ultimate Skill charges depending on the number of current Asterism Mods on the team.",
         "MaxUseCount": 0,
         "abilities": "",
         "id": 1020209,
@@ -9815,7 +9815,7 @@
     },
     "1045208": {
         "element_type": "",
-        "name": "Translating:【skill$1045208$name$0】",
+        "name": "Joint Explosion",
         "cd": 0,
         "strengthen_desc": "",
         "simpleDesc": "",
@@ -9829,7 +9829,7 @@
     },
     "1089281": {
         "element_type": "",
-        "name": "Imprint of Flame Energy",
+        "name": "Blazing Resonance",
         "cd": 0,
         "strengthen_desc": "",
         "simpleDesc": "",

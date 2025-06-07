@@ -6726,11 +6726,11 @@
     },
     "18101": {
         "affix_user": 3,
-        "name": "Translating:【activity_talent$18101$name$0】",
+        "name": "Roaring Flames",
         "type": 2,
         "max_level": 1,
         "affix_id": 18101,
-        "desc": "Significantly increases the speed of normal attacks.",
+        "desc": "Fire DMG +20%",
         "race": 0,
         "activity_id": 343751,
         "index": 0,
@@ -6742,47 +6742,47 @@
     },
     "18102": {
         "affix_user": 3,
-        "name": "Translating:【activity_talent$18102$name$0】",
+        "name": "Oracle Amplification",
         "type": 2,
         "max_level": 1,
         "affix_id": 18102,
-        "desc": "Normal attacks restore HP.",
+        "desc": "Divine Grace Charge Speed +100%",
         "race": 0,
         "activity_id": 343751,
         "index": 0,
         "id": 18102,
         "stage": 1,
         "unlock_condition": [
-            1210101
+            1210301
         ],
         "cost": [],
         "formula_condition": []
     },
     "18103": {
         "affix_user": 3,
-        "name": "Translating:【activity_talent$18103$name$0】",
+        "name": "The Chosen One",
         "type": 2,
         "max_level": 1,
         "affix_id": 18103,
-        "desc": "Normal Attack DMG +",
+        "desc": "Each time you cast \"IE Blade Cannon Explosion\", gain 10 Erupt points",
         "race": 0,
         "activity_id": 343751,
         "index": 0,
         "id": 18103,
         "stage": 1,
         "unlock_condition": [
-            1210102
+            1210302
         ],
         "cost": [],
         "formula_condition": []
     },
     "18104": {
         "affix_user": 3,
-        "name": "Translating:【activity_talent$18104$name$0】",
+        "name": "Dodge Counterattack",
         "type": 2,
         "max_level": 1,
         "affix_id": 18104,
-        "desc": "Significantly increases the speed of normal attacks.",
+        "desc": "Upon triggering the block effect of Zero Stance or non-mobile dodge, automatically triggers a counterattack and resets the remaining CD of all skills.",
         "race": 0,
         "activity_id": 343751,
         "index": 0,
@@ -6794,47 +6794,47 @@
     },
     "18105": {
         "affix_user": 3,
-        "name": "Translating:【activity_talent$18105$name$0】",
+        "name": "Tenacious Heart",
         "type": 2,
         "max_level": 1,
         "affix_id": 18105,
-        "desc": "Normal attacks restore HP.",
+        "desc": "The Normal Attack in \"Slash Mode\" retains only the last three segments, triggering additional attacks when casting aerial skills and performing downward attacks.",
         "race": 0,
         "activity_id": 343751,
         "index": 0,
         "id": 18105,
         "stage": 1,
         "unlock_condition": [
-            1210101
+            1210301
         ],
         "cost": [],
         "formula_condition": []
     },
     "18106": {
         "affix_user": 3,
-        "name": "Translating:【activity_talent$18106$name$0】",
+        "name": "Tactical Harvest",
         "type": 2,
         "max_level": 1,
         "affix_id": 18106,
-        "desc": "Normal Attack DMG +",
+        "desc": "Casting \"Zero Stance\" grants Super Armor for 5 sec; \"IE Blade Cannon Explosion\" and \"IE Purgatory Flames\" have 2 additional attack projectiles",
         "race": 0,
         "activity_id": 343751,
         "index": 0,
         "id": 18106,
         "stage": 1,
         "unlock_condition": [
-            1210102
+            1210302
         ],
         "cost": [],
         "formula_condition": []
     },
     "18201": {
         "affix_user": 3,
-        "name": "Translating:【activity_talent$18201$name$0】",
+        "name": "Ice Resonance",
         "type": 2,
         "max_level": 1,
         "affix_id": 18201,
-        "desc": "Significantly increases the speed of normal attacks.",
+        "desc": "Ice DMG +20%",
         "race": 0,
         "activity_id": 343751,
         "index": 0,
@@ -6846,47 +6846,47 @@
     },
     "18202": {
         "affix_user": 3,
-        "name": "Translating:【activity_talent$18202$name$0】",
+        "name": "Oracle Blessing",
         "type": 2,
         "max_level": 1,
         "affix_id": 18202,
-        "desc": "Normal attacks restore HP.",
+        "desc": "Grants 1 Blood Mark every 8s.",
         "race": 0,
         "activity_id": 343751,
         "index": 0,
         "id": 18202,
         "stage": 1,
         "unlock_condition": [
-            1210101
+            1210301
         ],
         "cost": [],
         "formula_condition": []
     },
     "18203": {
         "affix_user": 3,
-        "name": "Translating:【activity_talent$18203$name$0】",
+        "name": "Heavy Firepower",
         "type": 2,
         "max_level": 1,
         "affix_id": 18203,
-        "desc": "Normal Attack DMG +",
+        "desc": "Increases the DMG of all falling attacks by 100% for 2s.",
         "race": 0,
         "activity_id": 343751,
         "index": 0,
         "id": 18203,
         "stage": 1,
         "unlock_condition": [
-            1210102
+            1210302
         ],
         "cost": [],
         "formula_condition": []
     },
     "18204": {
         "affix_user": 3,
-        "name": "Translating:【activity_talent$18204$name$0】",
+        "name": "All-Out Attack",
         "type": 2,
         "max_level": 1,
         "affix_id": 18204,
-        "desc": "Significantly increases the speed of normal attacks.",
+        "desc": "When not in \"Gun Mode\", performing a Normal Attack or using Skills triggers an additional attack.",
         "race": 0,
         "activity_id": 343751,
         "index": 0,
@@ -6898,36 +6898,36 @@
     },
     "18205": {
         "affix_user": 3,
-        "name": "Translating:【activity_talent$18205$name$0】",
+        "name": "Vengeful Predation",
         "type": 2,
         "max_level": 1,
         "affix_id": 18205,
-        "desc": "Normal attacks restore HP.",
+        "desc": "Blood Rage Devouring triggers additional attacks. When used, it gathers nearby enemies and grants a shield equal to 300% of the Mod's Max HP.",
         "race": 0,
         "activity_id": 343751,
         "index": 0,
         "id": 18205,
         "stage": 1,
         "unlock_condition": [
-            1210101
+            1210301
         ],
         "cost": [],
         "formula_condition": []
     },
     "18206": {
         "affix_user": 3,
-        "name": "Translating:【activity_talent$18206$name$0】",
+        "name": "Flexible Dispatch",
         "type": 2,
         "max_level": 1,
         "affix_id": 18206,
-        "desc": "Normal Attack DMG +",
+        "desc": "After using Bloody Blitz and leaping into the air, resets the remaining CD of all skills if the next falling attack used is different from the previous one.",
         "race": 0,
         "activity_id": 343751,
         "index": 0,
         "id": 18206,
         "stage": 1,
         "unlock_condition": [
-            1210102
+            1210302
         ],
         "cost": [],
         "formula_condition": []

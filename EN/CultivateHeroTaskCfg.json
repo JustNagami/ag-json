@@ -17555,11 +17555,11 @@
             ]
         ]
     },
-    "34189133": {
-        "group_id": 3403,
+    "34189153": {
+        "group_id": 3405,
         "type": 1,
-        "id": 34189133,
-        "hero": 1111,
+        "id": 34189153,
+        "hero": 1061,
         "condition": 40,
         "desc": "Modifier reaches Lv. 40.",
         "reward": [
@@ -17569,11 +17569,11 @@
             ]
         ]
     },
-    "34189134": {
-        "group_id": 3403,
+    "34189154": {
+        "group_id": 3405,
         "type": 1,
-        "id": 34189134,
-        "hero": 1111,
+        "id": 34189154,
+        "hero": 1061,
         "condition": 50,
         "desc": "Modifier reaches Lv. 50.",
         "reward": [
@@ -17583,11 +17583,11 @@
             ]
         ]
     },
-    "34189135": {
-        "group_id": 3403,
+    "34189155": {
+        "group_id": 3405,
         "type": 1,
-        "id": 34189135,
-        "hero": 1111,
+        "id": 34189155,
+        "hero": 1061,
         "condition": 60,
         "desc": "Modifier reaches Lv. 60.",
         "reward": [
@@ -17597,11 +17597,11 @@
             ]
         ]
     },
-    "34189136": {
-        "group_id": 3403,
+    "34189156": {
+        "group_id": 3405,
         "type": 1,
-        "id": 34189136,
-        "hero": 1111,
+        "id": 34189156,
+        "hero": 1061,
         "condition": 70,
         "desc": "Modifier reaches Lv. 70.",
         "reward": [
@@ -17611,11 +17611,11 @@
             ]
         ]
     },
-    "34189137": {
-        "group_id": 3403,
+    "34189157": {
+        "group_id": 3405,
         "type": 2,
-        "id": 34189137,
-        "hero": 1111,
+        "id": 34189157,
+        "hero": 1061,
         "condition": 20,
         "desc": "Access Key reaches Lv.20.",
         "reward": [
@@ -17625,11 +17625,11 @@
             ]
         ]
     },
-    "34189138": {
-        "group_id": 3403,
+    "34189158": {
+        "group_id": 3405,
         "type": 2,
-        "id": 34189138,
-        "hero": 1111,
+        "id": 34189158,
+        "hero": 1061,
         "condition": 40,
         "desc": "Access Key reaches Lv.40.",
         "reward": [
@@ -17639,11 +17639,11 @@
             ]
         ]
     },
-    "34189139": {
-        "group_id": 3403,
+    "34189159": {
+        "group_id": 3405,
         "type": 2,
-        "id": 34189139,
-        "hero": 1111,
+        "id": 34189159,
+        "hero": 1061,
         "condition": 50,
         "desc": "Access Key reaches Lv.50.",
         "reward": [
@@ -17653,11 +17653,11 @@
             ]
         ]
     },
-    "34189140": {
-        "group_id": 3403,
+    "34189160": {
+        "group_id": 3405,
         "type": 3,
-        "id": 34189140,
-        "hero": 1111,
+        "id": 34189160,
+        "hero": 1061,
         "condition": 50,
         "desc": "Total Skill Level reaches 50 (Excluding Warp Skills).",
         "reward": [
@@ -17667,11 +17667,11 @@
             ]
         ]
     },
-    "34189141": {
-        "group_id": 3403,
+    "34189161": {
+        "group_id": 3405,
         "type": 3,
-        "id": 34189141,
-        "hero": 1111,
+        "id": 34189161,
+        "hero": 1061,
         "condition": 100,
         "desc": "Total Skill Level reaches 100 (Excluding Warp Skills).",
         "reward": [
@@ -17681,11 +17681,151 @@
             ]
         ]
     },
-    "34189142": {
-        "group_id": 3403,
+    "34189162": {
+        "group_id": 3405,
         "type": 3,
-        "id": 34189142,
-        "hero": 1111,
+        "id": 34189162,
+        "hero": 1061,
+        "condition": 150,
+        "desc": "Total Skill Level reaches 150 (Excluding Warp Skills).",
+        "reward": [
+            [
+                54086,
+                3
+            ]
+        ]
+    },
+    "34189163": {
+        "group_id": 3406,
+        "type": 1,
+        "id": 34189163,
+        "hero": 1070,
+        "condition": 40,
+        "desc": "Modifier reaches Lv. 40.",
+        "reward": [
+            [
+                54086,
+                3
+            ]
+        ]
+    },
+    "34189164": {
+        "group_id": 3406,
+        "type": 1,
+        "id": 34189164,
+        "hero": 1070,
+        "condition": 50,
+        "desc": "Modifier reaches Lv. 50.",
+        "reward": [
+            [
+                54086,
+                3
+            ]
+        ]
+    },
+    "34189165": {
+        "group_id": 3406,
+        "type": 1,
+        "id": 34189165,
+        "hero": 1070,
+        "condition": 60,
+        "desc": "Modifier reaches Lv. 60.",
+        "reward": [
+            [
+                54086,
+                3
+            ]
+        ]
+    },
+    "34189166": {
+        "group_id": 3406,
+        "type": 1,
+        "id": 34189166,
+        "hero": 1070,
+        "condition": 70,
+        "desc": "Modifier reaches Lv. 70.",
+        "reward": [
+            [
+                54086,
+                3
+            ]
+        ]
+    },
+    "34189167": {
+        "group_id": 3406,
+        "type": 2,
+        "id": 34189167,
+        "hero": 1070,
+        "condition": 20,
+        "desc": "Access Key reaches Lv.20.",
+        "reward": [
+            [
+                54086,
+                3
+            ]
+        ]
+    },
+    "34189168": {
+        "group_id": 3406,
+        "type": 2,
+        "id": 34189168,
+        "hero": 1070,
+        "condition": 40,
+        "desc": "Access Key reaches Lv.40.",
+        "reward": [
+            [
+                54086,
+                3
+            ]
+        ]
+    },
+    "34189169": {
+        "group_id": 3406,
+        "type": 2,
+        "id": 34189169,
+        "hero": 1070,
+        "condition": 50,
+        "desc": "Access Key reaches Lv.50.",
+        "reward": [
+            [
+                54086,
+                3
+            ]
+        ]
+    },
+    "34189170": {
+        "group_id": 3406,
+        "type": 3,
+        "id": 34189170,
+        "hero": 1070,
+        "condition": 50,
+        "desc": "Total Skill Level reaches 50 (Excluding Warp Skills).",
+        "reward": [
+            [
+                54086,
+                3
+            ]
+        ]
+    },
+    "34189171": {
+        "group_id": 3406,
+        "type": 3,
+        "id": 34189171,
+        "hero": 1070,
+        "condition": 100,
+        "desc": "Total Skill Level reaches 100 (Excluding Warp Skills).",
+        "reward": [
+            [
+                54086,
+                3
+            ]
+        ]
+    },
+    "34189172": {
+        "group_id": 3406,
+        "type": 3,
+        "id": 34189172,
+        "hero": 1070,
         "condition": 150,
         "desc": "Total Skill Level reaches 150 (Excluding Warp Skills).",
         "reward": [
@@ -19092,17 +19232,29 @@
             28189315,
             28189316
         ],
-        "3403": [
-            34189133,
-            34189134,
-            34189135,
-            34189136,
-            34189137,
-            34189138,
-            34189139,
-            34189140,
-            34189141,
-            34189142
+        "3406": [
+            34189163,
+            34189164,
+            34189165,
+            34189166,
+            34189167,
+            34189168,
+            34189169,
+            34189170,
+            34189171,
+            34189172
+        ],
+        "3405": [
+            34189153,
+            34189154,
+            34189155,
+            34189156,
+            34189157,
+            34189158,
+            34189159,
+            34189160,
+            34189161,
+            34189162
         ],
         "3402": [
             34189117,
@@ -21828,16 +21980,26 @@
         34189130,
         34189131,
         34189132,
-        34189133,
-        34189134,
-        34189135,
-        34189136,
-        34189137,
-        34189138,
-        34189139,
-        34189140,
-        34189141,
-        34189142,
+        34189153,
+        34189154,
+        34189155,
+        34189156,
+        34189157,
+        34189158,
+        34189159,
+        34189160,
+        34189161,
+        34189162,
+        34189163,
+        34189164,
+        34189165,
+        34189166,
+        34189167,
+        34189168,
+        34189169,
+        34189170,
+        34189171,
+        34189172,
         28189301,
         28189302,
         28189303,

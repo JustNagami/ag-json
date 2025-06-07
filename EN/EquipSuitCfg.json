@@ -818,7 +818,7 @@
     "52": {
         "name": "Undercurrent of the Depths",
         "equip_skill_icon": "52",
-        "stage_up_list": 0,
+        "stage_up_list": 1,
         "power_score": 10,
         "desc": "\"As the wheel of the world turns, all things pass away in time.\"",
         "need": 3,
@@ -834,7 +834,7 @@
     "53": {
         "name": "Feathers in the Storm",
         "equip_skill_icon": "53",
-        "stage_up_list": 0,
+        "stage_up_list": 1,
         "power_score": 10,
         "desc": "\"Cicadas trill in the valley as the storm rumbles. The crow flies and the tengu roams under the sinking moon.\"",
         "need": 3,
@@ -992,11 +992,11 @@
         ]
     },
     "70": {
-        "name": "Translating:【equip_suit$70$name$0】",
+        "name": "Warriors' Blessing",
         "equip_skill_icon": "70",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "Translating:【equip_suit$70$desc$0】",
+        "desc": "\"I wield my blade and gun to protect everything precious to me.\"",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,
@@ -1008,11 +1008,11 @@
         ]
     },
     "71": {
-        "name": "Translating:【equip_suit$71$name$0】",
+        "name": "Bloody Bullet Marks",
         "equip_skill_icon": "71",
         "stage_up_list": 0,
         "power_score": 10,
-        "desc": "Translating:【equip_suit$71$desc$0】",
+        "desc": "\"These red ripples are formed from my bonds, and the bullets born within them shall shatter all obstacles in my way.\"",
         "need": 3,
         "inherit_cost_type": 1,
         "equip_type": 0,

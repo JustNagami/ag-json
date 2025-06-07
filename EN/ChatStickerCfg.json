@@ -1871,7 +1871,49 @@
         "icon": "10283",
         "type": 1
     },
+    "304": {
+        "desc_source": "Participate in the H5 event \"Joint Action Preparedness\" to obtain",
+        "name": "Alisa, the Sigh",
+        "free": 0,
+        "category": 23,
+        "id": 304,
+        "icon": "10304",
+        "type": 1
+    },
+    "305": {
+        "desc_source": "Participate in the H5 event \"Joint Action Preparedness\" to obtain",
+        "name": "Alisa, the Thinker",
+        "free": 0,
+        "category": 23,
+        "id": 305,
+        "icon": "10305",
+        "type": 1
+    },
+    "306": {
+        "desc_source": "Participate in the H5 event \"Joint Action Preparedness\" to obtain",
+        "name": "Ciel, the Peeping",
+        "free": 0,
+        "category": 23,
+        "id": 306,
+        "icon": "10306",
+        "type": 1
+    },
+    "307": {
+        "desc_source": "Participate in the H5 event \"Joint Action Preparedness\" to obtain",
+        "name": "Ciel, the Curious",
+        "free": 0,
+        "category": 23,
+        "id": 307,
+        "icon": "10307",
+        "type": 1
+    },
     "get_id_list_by_category": {
+        "23": [
+            304,
+            305,
+            306,
+            307
+        ],
         "22": [
             281,
             282,
@@ -2325,6 +2367,10 @@
         211,
         281,
         282,
-        283
+        283,
+        304,
+        305,
+        306,
+        307
     ]
 }
