@@ -1,0 +1,76 @@
+{
+    "1": {
+        "id": 1,
+        "key": "CORE_VERIFICATION_CL_MODE1_INTRO_TIPS",
+        "type": 1,
+        "routes_id": "coreVerificationEnterStageView"
+    },
+    "2": {
+        "id": 2,
+        "key": "CORE_VERIFICATION_CL_BADGE_INTRO_TIPS",
+        "type": 1,
+        "routes_id": "coreVerificationChallengeIllustratedView"
+    },
+    "3": {
+        "id": 3,
+        "key": "CORE_VERIFICATION_CL_RANK_INTRO_TIPS",
+        "type": 1,
+        "routes_id": "coreVerificationChallengeRankView"
+    },
+    "4": {
+        "id": 4,
+        "key": "CORE_VERIFICATION_DES_2",
+        "type": 1,
+        "routes_id": "coreVerificationMain"
+    },
+    "5": {
+        "id": 5,
+        "key": "CORE_VERIFICATION_DES",
+        "type": 1,
+        "routes_id": "coreVerificationInfo"
+    },
+    "6": {
+        "id": 6,
+        "key": "CORE_VERIFICATION_CL_MODE1_INTRO_TIPS",
+        "type": 1,
+        "routes_id": "coreVerificationCommonStageView"
+    },
+    "7": {
+        "id": 7,
+        "key": "CORE_VERIFICATION_CL_MODE1_INTRO_TIPS",
+        "type": 1,
+        "routes_id": "coreVerificationChallengeStageView"
+    },
+    "get_id_list_by_routes_id": {
+        "coreVerificationChallengeStageView": [
+            7
+        ],
+        "coreVerificationCommonStageView": [
+            6
+        ],
+        "coreVerificationInfo": [
+            5
+        ],
+        "coreVerificationMain": [
+            4
+        ],
+        "coreVerificationChallengeRankView": [
+            3
+        ],
+        "coreVerificationChallengeIllustratedView": [
+            2
+        ],
+        "coreVerificationEnterStageView": [
+            1
+        ]
+    },
+    "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+    ]
+}

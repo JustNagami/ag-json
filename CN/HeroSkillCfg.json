@@ -632,7 +632,7 @@
         "name": "贯星脉冲",
         "cd": 500,
         "strengthen_desc": "",
-        "simpleDesc": "处于地面的起手动作<material=underline c=#FFFFFF h=2 event=terminology args=(104504)>「归零架势」</material>会打断处于地面的普通攻击、技能、闪避的动作，并且不会打断普通攻击前三段的连段。\n<material=underline c=#FFFFFF h=2 event=terminology args=(104504)>「归零架势」</material>会进行防御，成功格挡攻击时，获得<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>点数，获得无敌效果。\n施放<material=underline c=#FFFFFF h=2 event=terminology args=(104504)>「归零架势」</material>后的短暂时间内，「斩命掠袭」替换为「IE刃炮连爆」，「噬身怒涛」替换为「IE炼狱劫火」；<material=underline c=#FFFFFF h=2 event=terminology args=(104504)>「归零架势」</material>可以衔接施放「IE刃炮连爆」，<material=underline c=#FFFFFF h=2 event=terminology args=(104504)>「归零架势」</material>、「IE刃炮连爆」可以衔接施放「IE炼狱劫火」。\n「IE刃炮连爆」：造成火属性伤害，施放时技能伤害提高。\n「IE炼狱劫火」：消耗全部神能，造成火属性伤害，施放时获得<material=underline c=#FFFFFF h=2 event=terminology args=(104503)>「神机受控」</material>状态；该技能消耗神能，会心伤害提高，获得该会心伤害提高效果时，根据<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>的等级，该会心伤害额外提高。\n<material=underline c=#FFFFFF h=2 event=terminology args=(104503)>「神机受控」</material>：根据获得该状态时的<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>，若<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>不为三级，则间歇获得<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>点数，若<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>为三级，则间歇消耗<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>点数；<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>提升或降低时退出该状态。",
+        "simpleDesc": "处于地面的起手动作<material=underline c=#FFFFFF h=2 event=terminology args=(104504)>「归零架势」</material>会打断「斩击模式」的处于地面的普通攻击、技能、闪避的动作，并且不会打断普通攻击前三段的连段。\n<material=underline c=#FFFFFF h=2 event=terminology args=(104504)>「归零架势」</material>会进行防御，成功格挡攻击时，获得<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>点数，获得无敌效果。\n施放<material=underline c=#FFFFFF h=2 event=terminology args=(104504)>「归零架势」</material>后的短暂时间内，「斩命掠袭」替换为「IE刃炮连爆」，「噬身怒涛」替换为「IE炼狱劫火」；<material=underline c=#FFFFFF h=2 event=terminology args=(104504)>「归零架势」</material>可以衔接施放「IE刃炮连爆」，<material=underline c=#FFFFFF h=2 event=terminology args=(104504)>「归零架势」</material>、「IE刃炮连爆」可以衔接施放「IE炼狱劫火」。\n「IE刃炮连爆」：造成火属性伤害，施放时技能伤害提高。\n「IE炼狱劫火」：消耗全部神能，造成火属性伤害，施放时获得<material=underline c=#FFFFFF h=2 event=terminology args=(104503)>「神机受控」</material>状态；该技能消耗神能，会心伤害提高，获得该会心伤害提高效果时，根据<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>的等级，该会心伤害额外提高。\n<material=underline c=#FFFFFF h=2 event=terminology args=(104503)>「神机受控」</material>：根据获得该状态时的<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>，若<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>不为三级，则间歇获得<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>点数，若<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>为三级，则间歇消耗<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>点数；<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>提升或降低时退出该状态。",
         "MaxUseCount": 0,
         "abilities": "",
         "id": 1045203,
@@ -682,7 +682,7 @@
         "name": "迅捷收割",
         "cd": 0,
         "strengthen_desc": "",
-        "simpleDesc": "造成冰属性伤害。\n自身造成会心一定次数后，获得<material=underline c=#FFFFFF h=2 event=terminology args=(104603)>「血点」</material>标记。\n处于地面施放普通攻击时可长按消耗<material=underline c=#FFFFFF h=2 event=terminology args=(104603)>「血点」</material>标记施放强化普通攻击「血怒吞噬」。\n「血怒吞噬」：持续对自身和敌人造成伤害，造成冰属性伤害，每次命中后，对自身造成的伤害增加，对敌人伤害提高，攻击最后一段会产生爆炸攻击，造成冰属性伤害，并根据当前损失的生命值，爆炸攻击命中瞬间伤害提高、命中后恢复生命值；该攻击不会打断普通攻击的连段。\n\n处于「枪械模式」时，造成冰属性伤害。\n\n处于空中时，造成冰属性伤害，之后会自动衔接「血之迅击」的下落攻击。\n\n<color=#297DE0>神能：</color>不处于「枪械模式」时，处于地面的普通攻击命中后会获得神能。",
+        "simpleDesc": "造成冰属性伤害。\n自身造成会心一定次数后，获得<material=underline c=#FFFFFF h=2 event=terminology args=(104603)>「血点」</material>标记。\n处于地面施放普通攻击时可长按消耗<material=underline c=#FFFFFF h=2 event=terminology args=(104603)>「血点」</material>标记施放强化普通攻击「血怒吞噬」。\n「血怒吞噬」：持续对自身和敌人造成伤害，造成冰属性伤害；每次命中后，对自身造成的伤害增加，对敌人伤害提高，攻击最后一段会产生爆炸攻击，造成冰属性伤害，并根据当前损失的生命值，爆炸攻击命中瞬间伤害提高、命中后恢复生命值；该攻击不会打断普通攻击的连段。\n\n处于「枪械模式」时，造成冰属性伤害。\n\n处于空中时，造成冰属性伤害，之后会自动衔接「血之迅击」的下落攻击。\n\n<color=#297DE0>神能：</color>不处于「枪械模式」时，处于地面的普通攻击命中后会获得神能。",
         "MaxUseCount": 0,
         "id": 1046101,
         "EnergyChange": 0,
@@ -718,7 +718,7 @@
         "name": "血之觉醒",
         "cd": 2000,
         "strengthen_desc": "",
-        "simpleDesc": "出场时，自身会心率提高不低于一定值时，会心率降低，根据会心率降低，<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>获得率提高。\n消耗全部神能进入积蓄状态，根据消耗的神能，获得<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>点数；达到积蓄时间上限会进行捕食攻击，积蓄时可再次点击立即进行捕食攻击，造成冰属性伤害，根据积蓄时间，命中后额外获得<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>点数；施放期间获得硬直效果，受到的伤害降低。\n每次<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>为满时，<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>提高；根据<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>的等级，自身会心率提高。\n<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>、<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>为满时，施放「枪械模式」的普通攻击时，会进入<material=underline c=#FFFFFF h=2 event=terminology args=(104604)>「爆发状态」</material>。\n<material=underline c=#FFFFFF h=2 event=terminology args=(104604)>「爆发状态」</material>：进入时，消耗<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>，造成冰属性伤害，之后间歇消耗<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>点数，自身根据<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>的等级的增益效果提高。\n\n神机捕食形态命中特殊的敌人时，会获得不同的子弹；进入「枪械模式」时，该技能会替换为「荒神枪弹」，造成不同的伤害：\n鬼面巨尾：造成物理属性伤害；\n金刚：造成风属性伤害；\n天父·狄阿乌斯：造成雷属性伤害。\n\n处于空中时，消耗<material=underline c=#FFFFFF h=2 event=terminology args=(104603)>「血点」</material>标记，造成冰属性伤害。",
+        "simpleDesc": "出场时，自身会心率高于一定值时，会心率降低，会心率降低越多<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>获得率提高越高。\n消耗全部神能进入积蓄状态，根据消耗的神能，获得<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>点数；达到积蓄时间上限会进行捕食攻击，积蓄时可再次点击立即进行捕食攻击，造成冰属性伤害，根据积蓄时间，捕食成功后额外获得<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>点数；施放期间获得硬直效果，受到的伤害降低。\n每次<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>为满时，<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>提高；根据<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>的等级，自身会心率提高。\n<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>、<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>为满时，施放「枪械模式」的普通攻击时，会进入<material=underline c=#FFFFFF h=2 event=terminology args=(104604)>「爆发状态」</material>。\n<material=underline c=#FFFFFF h=2 event=terminology args=(104604)>「爆发状态」</material>：进入时，消耗<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>，造成冰属性伤害，之后间歇消耗<material=underline c=#FFFFFF h=2 event=terminology args=(104601)>「爆发指数」</material>点数，自身根据<material=underline c=#FFFFFF h=2 event=terminology args=(104602)>「爆发阶段」</material>的等级的增益效果提高。\n\n神机捕食形态命中特殊的敌人时，会获得不同的子弹；进入「枪械模式」时，该技能会替换为「荒神枪弹」，造成不同的伤害：\n鬼面巨尾：造成物理属性伤害；\n金刚：造成风属性伤害；\n天父·狄阿乌斯：造成雷属性伤害。\n\n处于空中时，消耗<material=underline c=#FFFFFF h=2 event=terminology args=(104603)>「血点」</material>标记，造成冰属性伤害。",
         "MaxUseCount": 0,
         "abilities": "",
         "id": 1046202,
@@ -9140,6 +9140,112 @@
             12
         ]
     },
+    "1047101": {
+        "name": "潜袭的锋刃",
+        "cd": 0,
+        "strengthen_desc": "",
+        "simpleDesc": "造成暗属性伤害，普通攻击最后一段命中后，获得<material=underline c=#FFFFFF h=2 event=terminology args=(104701)>「蛰影·幽遁」</material>标记。\n「潜袭的伏杀」：消耗<material=underline c=#FFFFFF h=2 event=terminology args=(104702)>「蛰影·游铩」</material>标记，造成暗属性伤害，命中后获得<material=underline c=#FFFFFF h=2 event=terminology args=(104701)>「蛰影·幽遁」</material>标记；该攻击可施放时，长按普通攻击会自动连续施放。\n\n被动：<material=underline c=#FFFFFF h=2 event=terminology args=(104701)>「蛰影·幽遁」</material>标记为满时，进入<material=underline c=#FFFFFF h=2 event=terminology args=(104703)>「幻形」</material>状态；拥有<material=underline c=#FFFFFF h=2 event=terminology args=(104702)>「蛰影·游铩」</material>标记时，普通攻击替换为「潜袭的伏杀」。\n<material=underline c=#FFFFFF h=2 event=terminology args=(104703)>「幻形」</material>：状态期间内不会获得或消耗<material=underline c=#FFFFFF h=2 event=terminology args=(104701)>「蛰影·幽遁」</material>、<material=underline c=#FFFFFF h=2 event=terminology args=(104702)>「蛰影·游铩」</material>标记，不会被敌人攻击命中，普通攻击替换为「潜袭的伏杀」，施放一定次数「潜袭的伏杀」命中后退出该状态；退出该状态时会消耗全部<material=underline c=#FFFFFF h=2 event=terminology args=(104701)>「蛰影·幽遁」</material>标记。\n\n<color=#297DE0>神能：</color>施放每段普通攻击时会获得神能；「潜袭的伏杀」命中后会获得神能。",
+        "MaxUseCount": 0,
+        "id": 1047101,
+        "EnergyChange": 0,
+        "desc": [
+            101047101
+        ],
+        "element_type": [
+            10
+        ],
+        "abilities": [
+            1047101
+        ]
+    },
+    "1047201": {
+        "name": "无踪的尖刺",
+        "cd": 13000,
+        "strengthen_desc": "",
+        "simpleDesc": "连续点按施放四段攻击，消耗神能，造成暗属性伤害，施放该第三、四段攻击时，分别获得<material=underline c=#FFFFFF h=2 event=terminology args=(104702)>「蛰影·游铩」</material>标记。",
+        "MaxUseCount": 0,
+        "id": 1047201,
+        "EnergyChange": -10,
+        "desc": [
+            101047201
+        ],
+        "element_type": [
+            10
+        ],
+        "abilities": [
+            1047201
+        ]
+    },
+    "1047202": {
+        "name": "追猎的影迹",
+        "cd": 1500,
+        "strengthen_desc": "",
+        "simpleDesc": "造成暗属性伤害，「追猎的影迹」不会打断普通攻击的连段。\n每施放一定次数的「追猎的影迹」，「追猎的影迹」替换为「追猎的罗网」。\n「追猎的罗网」：造成暗属性伤害，技能替换回「追猎的影迹」，每次命中后获得<material=underline c=#FFFFFF h=2 event=terminology args=(104702)>「蛰影·游铩」</material>标记。",
+        "MaxUseCount": 0,
+        "id": 1047202,
+        "EnergyChange": 0,
+        "desc": [
+            101047202
+        ],
+        "element_type": [
+            10
+        ],
+        "abilities": [
+            1047202
+        ]
+    },
+    "1047203": {
+        "name": "行刑的轮舞",
+        "cd": 0,
+        "strengthen_desc": "",
+        "simpleDesc": "退出<material=underline c=#FFFFFF h=2 event=terminology args=(104703)>「幻形」</material>状态后一定时间内才可施放，造成暗属性伤害，对命中的敌人附加<material=underline c=#FFFFFF h=2 event=terminology args=(104704)>「附骨之诅」</material>状态。\n<material=underline c=#FFFFFF h=2 event=terminology args=(104704)>「附骨之诅」</material>：附加暗属性抗性降低；附加衰变状态。",
+        "MaxUseCount": 0,
+        "id": 1047203,
+        "EnergyChange": 0,
+        "desc": [
+            101047203
+        ],
+        "element_type": [
+            10
+        ],
+        "abilities": [
+            1047203
+        ]
+    },
+    "1047209": {
+        "name": "饮血的盛宴",
+        "cd": 20000,
+        "strengthen_desc": "",
+        "simpleDesc": "进入<material=underline c=#FFFFFF h=2 event=terminology args=(104705)>「阴影帷幕」</material>状态；对全场敌人附加<material=underline c=#FFFFFF h=2 event=terminology args=(104704)>「附骨之诅」</material>状态。\n<material=underline c=#FFFFFF h=2 event=terminology args=(104705)>「阴影帷幕」</material>：状态期间内禁用技能、闪避和自身奥义，进入<material=underline c=#FFFFFF h=2 event=terminology args=(104703)>「幻形」</material>状态并且仅施放一定次数「潜袭的伏杀」命中后才会退出该状态；状态期间内不会再次进入<material=underline c=#FFFFFF h=2 event=terminology args=(104705)>「阴影帷幕」</material>或<material=underline c=#FFFFFF h=2 event=terminology args=(104703)>「幻形」</material>状态，退出状态后也不可施放「行刑的轮舞」。\n退出<material=underline c=#FFFFFF h=2 event=terminology args=(104705)>「阴影帷幕」</material>状态时会施放攻击，造成暗属性伤害，该攻击不会打断普通攻击的连段。\n\n自身或者队友触发闪避效果时，获得奥义值。",
+        "MaxUseCount": 0,
+        "id": 1047209,
+        "EnergyChange": 0,
+        "desc": [
+            101047209
+        ],
+        "element_type": [
+            10
+        ],
+        "abilities": [
+            1047209
+        ]
+    },
+    "1047305": {
+        "name": "夜雾余痕",
+        "cd": 0,
+        "strengthen_desc": "",
+        "simpleDesc": "极限闪避时，获得<material=underline c=#FFFFFF h=2 event=terminology args=(104702)>「蛰影·游铩」</material>标记。\n闪避效果：进入<material=underline c=#FFFFFF h=2 event=terminology args=(104703)>「幻形」</material>状态。",
+        "MaxUseCount": 0,
+        "abilities": "",
+        "id": 1047305,
+        "EnergyChange": 0,
+        "desc": [
+            101047305
+        ],
+        "element_type": [
+            10
+        ]
+    },
     "6087101": {
         "element_type": "",
         "name": "射击",
@@ -10846,6 +10952,20 @@
             101089281
         ]
     },
+    "1047208": {
+        "element_type": "",
+        "name": "裁暗乐章",
+        "cd": 0,
+        "strengthen_desc": "",
+        "simpleDesc": "",
+        "MaxUseCount": 0,
+        "abilities": "",
+        "id": 1047208,
+        "EnergyChange": 0,
+        "desc": [
+            101047208
+        ]
+    },
     "all": [
         1050101,
         1050201,
@@ -11311,6 +11431,12 @@
         1211203,
         1211209,
         1211305,
+        1047101,
+        1047201,
+        1047202,
+        1047203,
+        1047209,
+        1047305,
         6087101,
         6087201,
         6087202,
@@ -11428,6 +11554,7 @@
         1073208,
         1248281,
         1211208,
-        1089281
+        1089281,
+        1047208
     ]
 }

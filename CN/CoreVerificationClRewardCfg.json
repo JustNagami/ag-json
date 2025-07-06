@@ -1,0 +1,167 @@
+{
+    "40301": {
+        "activity_id": 3539501,
+        "reward_type": 1,
+        "task_id": 40301,
+        "condition": 1440304,
+        "reward_desc": "",
+        "reward_rank": [],
+        "reward": [
+            [
+                1,
+                100
+            ]
+        ]
+    },
+    "40302": {
+        "activity_id": 3539501,
+        "reward_type": 1,
+        "task_id": 40302,
+        "condition": 1440305,
+        "reward_desc": "",
+        "reward_rank": [],
+        "reward": [
+            [
+                1,
+                100
+            ]
+        ]
+    },
+    "40303": {
+        "activity_id": 3539501,
+        "reward_type": 1,
+        "task_id": 40303,
+        "condition": 1440307,
+        "reward_desc": "",
+        "reward_rank": [],
+        "reward": [
+            [
+                1,
+                100
+            ]
+        ]
+    },
+    "40306": {
+        "activity_id": 3539501,
+        "reward_type": 1,
+        "task_id": 40306,
+        "condition": 1440310,
+        "reward_desc": "",
+        "reward_rank": [],
+        "reward": [
+            [
+                40603,
+                60
+            ],
+            [
+                2,
+                40000
+            ]
+        ]
+    },
+    "40307": {
+        "activity_id": 3539501,
+        "reward_type": 1,
+        "task_id": 40307,
+        "condition": 1440311,
+        "reward_desc": "",
+        "reward_rank": [],
+        "reward": [
+            [
+                40603,
+                40
+            ],
+            [
+                2,
+                20000
+            ]
+        ]
+    },
+    "40309": {
+        "activity_id": 3539501,
+        "reward_type": 0,
+        "task_id": 40309,
+        "condition": 0,
+        "reward_desc": "结算时排名处于第%s名至第%s名",
+        "reward_rank": [
+            1,
+            10
+        ],
+        "reward": [
+            [
+                2200008,
+                1
+            ]
+        ]
+    },
+    "40310": {
+        "activity_id": 3539501,
+        "reward_type": 0,
+        "task_id": 40310,
+        "condition": 0,
+        "reward_desc": "结算时排名处于第%s名至第%s名",
+        "reward_rank": [
+            11,
+            50
+        ],
+        "reward": [
+            [
+                2200009,
+                1
+            ]
+        ]
+    },
+    "40311": {
+        "activity_id": 3539501,
+        "reward_type": 0,
+        "task_id": 40311,
+        "condition": 0,
+        "reward_desc": "结算时排名处于第%s名至第%s名",
+        "reward_rank": [
+            51,
+            100
+        ],
+        "reward": [
+            [
+                2200010,
+                1
+            ]
+        ]
+    },
+    "get_id_list_by_activity_id": {
+        "3539501": [
+            40301,
+            40302,
+            40303,
+            40306,
+            40307,
+            40309,
+            40310,
+            40311
+        ]
+    },
+    "get_id_list_by_reward_type": {
+        "0": [
+            40309,
+            40310,
+            40311
+        ],
+        "1": [
+            40301,
+            40302,
+            40303,
+            40306,
+            40307
+        ]
+    },
+    "all": [
+        40301,
+        40302,
+        40303,
+        40306,
+        40307,
+        40309,
+        40310,
+        40311
+    ]
+}

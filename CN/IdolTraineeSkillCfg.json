@@ -632,7 +632,7 @@
         "action": "",
         "type": 1,
         "id": 104501,
-        "icon": "1_1",
+        "icon": "8_1",
         "counter_action": "",
         "skill_effect": [
             10450101,
@@ -659,7 +659,7 @@
         "action": "",
         "type": 1,
         "id": 104601,
-        "icon": "1_1",
+        "icon": "9_1",
         "counter_action": "",
         "skill_effect": [
             10460101,
@@ -673,11 +673,36 @@
         "action": "",
         "type": 0,
         "id": 104602,
-        "icon": "1_1",
+        "icon": "4_2",
         "counter_action": "",
         "skill_effect": [
             10460201,
             10460202
+        ]
+    },
+    "104701": {
+        "name": "能言会道",
+        "action": "",
+        "type": 1,
+        "id": 104701,
+        "icon": "8_2",
+        "counter_action": "",
+        "skill_effect": [
+            10470101,
+            10470102
+        ]
+    },
+    "104702": {
+        "name": "八面玲珑",
+        "action": "",
+        "type": 0,
+        "id": 104702,
+        "icon": "8_1",
+        "counter_action": "",
+        "skill_effect": [
+            10470201,
+            10470202,
+            10470203
         ]
     },
     "all": [
@@ -733,6 +758,8 @@
         104501,
         104502,
         104601,
-        104602
+        104602,
+        104701,
+        104702
     ]
 }

@@ -139,7 +139,84 @@
             3
         ]
     },
+    "11": {
+        "clue_pool": 2003,
+        "name": "治安警徽",
+        "icon_path_2": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/01_2",
+        "icon_path_1": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/01_1",
+        "id": 11,
+        "icon_path_3": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/01_3",
+        "desc": "不知来处的牛仔，捡到象征正义的徽章那刻，遗忘的记忆被责任填满。",
+        "level": [
+            1,
+            2,
+            3
+        ]
+    },
+    "12": {
+        "clue_pool": 2003,
+        "name": "磨损的枪套",
+        "icon_path_2": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/02_2",
+        "icon_path_1": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/02_1",
+        "id": 12,
+        "icon_path_3": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/02_3",
+        "desc": "雨滴沿着帽檐从眼前滴落，握在枪套上的手微微颤抖，那是牛仔骨子里无法抑制的兴奋。",
+        "level": [
+            1,
+            2,
+            3
+        ]
+    },
+    "13": {
+        "clue_pool": 2003,
+        "name": "牛仔帽",
+        "icon_path_2": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/03_2",
+        "icon_path_1": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/03_1",
+        "id": 13,
+        "icon_path_3": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/03_3",
+        "desc": "牛仔将冒着硝烟的枪口轻轻一吹，耍了个漂亮的枪花，重新将左轮收好，迈开脚步，走向一望无际的荒原。",
+        "level": [
+            1,
+            2,
+            3
+        ]
+    },
+    "14": {
+        "clue_pool": 2003,
+        "name": "《荒原往事》",
+        "icon_path_2": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/04_2",
+        "icon_path_1": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/04_1",
+        "id": 14,
+        "icon_path_3": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/04_3",
+        "desc": "「你们来错地方了，荒原不会接纳你们。」",
+        "level": [
+            1,
+            2,
+            3
+        ]
+    },
+    "15": {
+        "clue_pool": 2003,
+        "name": "珍酿馆",
+        "icon_path_2": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/05_2",
+        "icon_path_1": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/05_1",
+        "id": 15,
+        "icon_path_3": "TextureConfig/VersionUI/V4_3_SummerPub/V4_3_SummerPub_PreheatUI/05_3",
+        "desc": "在珍酿馆无法得到不限量珍酿的人，因为她喝醉后会在吧台桌面跳踢踏舞。",
+        "level": [
+            1,
+            2,
+            3
+        ]
+    },
     "get_id_list_by_clue_pool": {
+        "2003": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
         "2002": [
             6,
             7,
@@ -165,6 +242,11 @@
         7,
         8,
         9,
-        10
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
     ]
 }

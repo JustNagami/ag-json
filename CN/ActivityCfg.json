@@ -222,7 +222,9 @@
         "remark": "迭代校验",
         "activity_theme": 0,
         "activity_template": 74,
-        "sub_activity_list": []
+        "sub_activity_list": [
+            3539301
+        ]
     },
     "112": {
         "id": 112,
@@ -28926,7 +28928,916 @@
         "activity_template": 225,
         "sub_activity_list": []
     },
+    "3510001": {
+        "id": 3510001,
+        "name": "4.3版本入口",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3版本入口",
+        "activity_theme": 35,
+        "activity_template": 100,
+        "sub_activity_list": [
+            3539101,
+            3522101,
+            3530901,
+            3512001,
+            3524501,
+            3500301,
+            3500302,
+            3500303,
+            3500304,
+            3500305,
+            3500101,
+            3510701,
+            3513101,
+            3518901,
+            3524301,
+            3535001,
+            3521301
+        ]
+    },
+    "3539101": {
+        "id": 3539101,
+        "name": "4.3夏活版本主题活动",
+        "unlock_condition": "",
+        "remark": "食与异世界",
+        "activity_theme": 35,
+        "activity_template": 391,
+        "sub_activity_list": [
+            3500401,
+            3500407
+        ],
+        "reward_show": [
+            106103,
+            6039,
+            1,
+            2200103,
+            2929,
+            9009,
+            8014,
+            7021,
+            3057,
+            91025
+        ],
+        "reward_show_permanent": [
+            1,
+            9010,
+            40104,
+            7021,
+            7022,
+            2
+        ]
+    },
+    "3500401": {
+        "id": 3500401,
+        "name": "4.3主题活动限时任务-主进度任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "冒险进程",
+        "activity_theme": 35,
+        "activity_template": 4,
+        "sub_activity_list": [
+            3500402,
+            3500403,
+            3500404,
+            3500405
+        ]
+    },
+    "3500402": {
+        "id": 3500402,
+        "name": "4.3主题活动限时任务-探险关任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "孤岛探秘",
+        "activity_theme": 35,
+        "activity_template": 4,
+        "sub_activity_list": []
+    },
+    "3500403": {
+        "id": 3500403,
+        "name": "4.3主题活动限时任务-弹珠关挑战难度任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "泳者之旅",
+        "activity_theme": 35,
+        "activity_template": 4,
+        "sub_activity_list": []
+    },
+    "3500404": {
+        "id": 3500404,
+        "name": "4.3主题活动限时任务-料理关卡任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "料理研发",
+        "activity_theme": 35,
+        "activity_template": 4,
+        "sub_activity_list": []
+    },
+    "3500405": {
+        "id": 3500405,
+        "name": "4.3主题活动限时任务-招募任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "成员招募",
+        "activity_theme": 35,
+        "activity_template": 4,
+        "sub_activity_list": []
+    },
+    "3522101": {
+        "id": 3522101,
+        "name": "4.3复刻-托特皮肤抽取活动",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "观星手记",
+        "activity_theme": 35,
+        "activity_template": 221,
+        "sub_activity_list": [
+            3522201,
+            3522202,
+            3522203,
+            3522301,
+            3500406,
+            3514601
+        ]
+    },
+    "3522201": {
+        "id": 3522201,
+        "name": "4.3复刻-托特皮肤抽取-卡池",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "观星手记-换装卡池",
+        "activity_theme": 35,
+        "activity_template": 222,
+        "sub_activity_list": []
+    },
+    "3522202": {
+        "id": 3522202,
+        "name": "4.3复刻-托特背景抽取-卡池1",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "观星手记-场景卡池（日）",
+        "activity_theme": 35,
+        "activity_template": 222,
+        "sub_activity_list": []
+    },
+    "3522203": {
+        "id": 3522203,
+        "name": "4.3复刻-托特背景抽取-卡池2",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "观星手记-场景卡池（夜）",
+        "activity_theme": 35,
+        "activity_template": 222,
+        "sub_activity_list": []
+    },
+    "3522301": {
+        "id": 3522301,
+        "name": "4.3复刻-托特皮肤抽取-背景剧情1",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "观星手记-剧情1",
+        "activity_theme": 35,
+        "activity_template": 223,
+        "sub_activity_list": []
+    },
+    "3500406": {
+        "id": 3500406,
+        "name": "4.3复刻-托特皮肤抽取-皮肤任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "观星手记-见闻任务",
+        "activity_theme": 35,
+        "activity_template": 4,
+        "sub_activity_list": []
+    },
+    "3514601": {
+        "id": 3514601,
+        "name": "4.3复刻-托特皮肤抽取-皮肤商店",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "观星手记-换装商店",
+        "activity_theme": 35,
+        "activity_template": 146,
+        "sub_activity_list": []
+    },
+    "3500407": {
+        "id": 3500407,
+        "name": "4.3-送执明皮肤活动",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3-送执明皮肤活动",
+        "activity_theme": 35,
+        "activity_template": 4,
+        "sub_activity_list": []
+    },
+    "3500101": {
+        "id": 3500101,
+        "name": "4.3限时签到",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3限时签到",
+        "activity_theme": 35,
+        "activity_template": 1,
+        "sub_activity_list": []
+    },
+    "3530901": {
+        "id": 3530901,
+        "name": "点水泡-主玩法",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "remark": "泡泡危机-4.3-主玩法",
+        "activity_theme": 35,
+        "activity_template": 309,
+        "sub_activity_list": [
+            3531001,
+            3531002
+        ],
+        "reward_show": [
+            2038,
+            2200104,
+            1,
+            22003,
+            40503,
+            40413,
+            40203,
+            40603,
+            40103,
+            40301
+        ]
+    },
+    "3531001": {
+        "id": 3531001,
+        "name": "点水泡-上半关卡",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "泡泡危机-4.3-上半关卡",
+        "activity_theme": 35,
+        "activity_template": 310,
+        "sub_activity_list": []
+    },
+    "3531002": {
+        "id": 3531002,
+        "name": "点水泡-下半关卡",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "泡泡危机-4.3-下半关卡",
+        "activity_theme": 35,
+        "activity_template": 310,
+        "sub_activity_list": []
+    },
+    "3500001": {
+        "id": 3500001,
+        "name": "点水泡-限时任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "泡泡危机-4.3任务",
+        "activity_theme": 35,
+        "activity_template": 0,
+        "sub_activity_list": [
+            3500408,
+            3500409
+        ]
+    },
+    "3500408": {
+        "id": 3500408,
+        "name": "点水泡-上半限时任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "泡泡危机-上半限时任务",
+        "activity_theme": 35,
+        "activity_template": 4,
+        "sub_activity_list": []
+    },
+    "3500409": {
+        "id": 3500409,
+        "name": "点水泡-下半限时任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "泡泡危机-下半限时任务",
+        "activity_theme": 35,
+        "activity_template": 4,
+        "sub_activity_list": []
+    },
+    "3521001": {
+        "id": 3521001,
+        "name": "4.3支线拍脸图",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3支线拍脸图",
+        "activity_theme": 35,
+        "activity_template": 210,
+        "sub_activity_list": []
+    },
+    "3521002": {
+        "id": 3521002,
+        "name": "4.3暗耀·薇儿丹蒂、塞尔凯特皮肤拍脸图",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3暗耀·薇儿丹蒂、塞尔凯特皮肤拍脸图",
+        "activity_theme": 35,
+        "activity_template": 210,
+        "sub_activity_list": []
+    },
+    "3521003": {
+        "id": 3521003,
+        "name": "4.3托特T0皮肤拍脸图",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3托特T0皮肤拍脸图",
+        "activity_theme": 35,
+        "activity_template": 210,
+        "sub_activity_list": []
+    },
+    "3512001": {
+        "id": 3512001,
+        "name": "浪游迷城-活动",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "浪游迷城-活动",
+        "activity_theme": 35,
+        "activity_template": 120,
+        "sub_activity_list": [
+            3517001
+        ]
+    },
+    "3517001": {
+        "id": 3517001,
+        "name": "浪游迷城-支线",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "浪游迷城-支线",
+        "activity_theme": 35,
+        "activity_template": 170,
+        "sub_activity_list": []
+    },
+    "3539301": {
+        "id": 3539301,
+        "name": "迭代校验挑战关-第一期-主活动",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "奇点演算·隐蛇之祸",
+        "activity_theme": 35,
+        "activity_template": 393,
+        "sub_activity_list": [
+            3539401,
+            3539501
+        ]
+    },
+    "3539401": {
+        "id": 3539401,
+        "name": "迭代校验挑战关-第一期-模板1-排行榜",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "「奇点演算·隐蛇之祸」排行榜",
+        "activity_theme": 35,
+        "activity_template": 394,
+        "sub_activity_list": []
+    },
+    "3539501": {
+        "id": 3539501,
+        "name": "迭代校验挑战关-第一期-模板1-关卡",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "迭代校验挑战关-第一期-模板1-关卡",
+        "activity_theme": 35,
+        "activity_template": 395,
+        "sub_activity_list": []
+    },
+    "3535001": {
+        "id": 3535001,
+        "name": "古远虚影",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "remark": "古远虚影",
+        "activity_theme": 35,
+        "activity_template": 350,
+        "sub_activity_list": [],
+        "reward_show": [
+            1,
+            40104,
+            40603,
+            22003,
+            2
+        ]
+    },
+    "3524301": {
+        "id": 3524301,
+        "name": "联防协议·α",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "联防协议·α",
+        "activity_theme": 35,
+        "activity_template": 243,
+        "sub_activity_list": [
+            3514602,
+            3524401,
+            3500410
+        ]
+    },
+    "3514602": {
+        "id": 3514602,
+        "name": "后勤补给点",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "后勤补给点",
+        "activity_theme": 35,
+        "activity_template": 146,
+        "sub_activity_list": []
+    },
+    "3524401": {
+        "id": 3524401,
+        "name": "联防协议·α-关卡",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "联防协议·α-关卡",
+        "activity_theme": 35,
+        "activity_template": 244,
+        "sub_activity_list": []
+    },
+    "3500410": {
+        "id": 3500410,
+        "name": "联防协议·α-任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "联防协议·α-任务",
+        "activity_theme": 35,
+        "activity_template": 4,
+        "sub_activity_list": []
+    },
+    "3524501": {
+        "id": 3524501,
+        "name": "埃克什瓦-角色预热活动",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "雨夜时分-角色预热",
+        "activity_theme": 35,
+        "activity_template": 245,
+        "sub_activity_list": [
+            3500411,
+            3500412
+        ]
+    },
+    "3500411": {
+        "id": 3500411,
+        "name": "埃克什瓦-角色预热活动任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "雨夜时分-角色预热-活动任务",
+        "activity_theme": 35,
+        "activity_template": 4,
+        "sub_activity_list": []
+    },
+    "3500412": {
+        "id": 3500412,
+        "name": "埃克什瓦-角色预热活动奖励任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "雨夜时分-角色预热-奖励任务",
+        "activity_theme": 35,
+        "activity_template": 4,
+        "sub_activity_list": []
+    },
+    "3500301": {
+        "id": 3500301,
+        "name": "4.3版本-裁暗之锋·塞尔凯特必中池",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3版本-裁暗之锋·塞尔凯特必中池",
+        "activity_theme": 35,
+        "activity_template": 3,
+        "sub_activity_list": []
+    },
+    "3500302": {
+        "id": 3500302,
+        "name": "4.3版本-裁暗之锋·塞尔凯特精准池",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3版本-裁暗之锋·塞尔凯特精准池",
+        "activity_theme": 35,
+        "activity_template": 3,
+        "sub_activity_list": []
+    },
+    "3500303": {
+        "id": 3500303,
+        "name": "4.3版本-暗耀·薇儿丹蒂精准池",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3版本-暗耀·薇儿丹蒂精准池",
+        "activity_theme": 35,
+        "activity_template": 3,
+        "sub_activity_list": []
+    },
+    "3500304": {
+        "id": 3500304,
+        "name": "4.3版本-苍鹭·托特精准池",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3版本-苍鹭·托特精准池",
+        "activity_theme": 35,
+        "activity_template": 3,
+        "sub_activity_list": []
+    },
+    "3500305": {
+        "id": 3500305,
+        "name": "4.3版本-暗星·海拉/十曜·金乌/黎幻·赫拉常驻池",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3版本-暗星·海拉/十曜·金乌/黎幻·赫拉常驻池",
+        "activity_theme": 35,
+        "activity_template": 3,
+        "sub_activity_list": []
+    },
+    "3510701": {
+        "id": 3510701,
+        "name": "角色试用",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "角色试用",
+        "activity_theme": 35,
+        "activity_template": 107,
+        "sub_activity_list": [
+            3532201,
+            3532202,
+            3532203,
+            3532204,
+            3532205,
+            3532206
+        ]
+    },
+    "3532201": {
+        "id": 3532201,
+        "name": "角色试用关-裁暗之锋·塞尔凯特裁暗之锋·塞尔凯特",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "角色试用关-裁暗之锋·塞尔凯特",
+        "activity_theme": 35,
+        "activity_template": 322,
+        "sub_activity_list": []
+    },
+    "3532202": {
+        "id": 3532202,
+        "name": "角色试用关-暗耀·薇儿丹蒂黯耀·薇儿丹蒂",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "角色试用关-暗耀·薇儿丹蒂",
+        "activity_theme": 35,
+        "activity_template": 322,
+        "sub_activity_list": []
+    },
+    "3532203": {
+        "id": 3532203,
+        "name": "角色试用关-苍鹭·托特苍鹭·托特",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "角色试用关-苍鹭·托特",
+        "activity_theme": 35,
+        "activity_template": 322,
+        "sub_activity_list": []
+    },
+    "3532204": {
+        "id": 3532204,
+        "name": "角色试用关-暗星·海拉暗星·海拉",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "角色试用关-暗星·海拉",
+        "activity_theme": 35,
+        "activity_template": 322,
+        "sub_activity_list": []
+    },
+    "3532205": {
+        "id": 3532205,
+        "name": "角色试用关-十曜·金乌十曜·金乌",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "角色试用关-十曜·金乌",
+        "activity_theme": 35,
+        "activity_template": 322,
+        "sub_activity_list": []
+    },
+    "3532206": {
+        "id": 3532206,
+        "name": "角色试用关-黎幻·赫拉黎幻·赫拉",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "角色试用关-黎幻·赫拉",
+        "activity_theme": 35,
+        "activity_template": 322,
+        "sub_activity_list": []
+    },
+    "3518901": {
+        "id": 3518901,
+        "name": "4.3限期委培",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3限期委培",
+        "activity_theme": 35,
+        "activity_template": 189,
+        "sub_activity_list": []
+    },
+    "3513101": {
+        "id": 3513101,
+        "name": "4.3换装试用",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3换装试用",
+        "activity_theme": 35,
+        "activity_template": 131,
+        "sub_activity_list": [
+            3511101,
+            3511102,
+            3511103,
+            3511104
+        ]
+    },
+    "3511101": {
+        "id": 3511101,
+        "name": "4.3换装试用关1-裁暗之锋·塞尔凯特",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3换装试用关1-裁暗之锋·塞尔凯特",
+        "activity_theme": 35,
+        "activity_template": 111,
+        "sub_activity_list": []
+    },
+    "3511102": {
+        "id": 3511102,
+        "name": "4.3换装试用关2-暗耀·薇儿丹蒂",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3换装试用关2-暗耀·薇儿丹蒂",
+        "activity_theme": 35,
+        "activity_template": 111,
+        "sub_activity_list": []
+    },
+    "3511103": {
+        "id": 3511103,
+        "name": "4.3换装试用关3-玄机·执明",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3换装试用关3-玄机·执明",
+        "activity_theme": 35,
+        "activity_template": 111,
+        "sub_activity_list": []
+    },
+    "3511104": {
+        "id": 3511104,
+        "name": "4.3换装试用关4-苍鹭·托特",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3换装试用关4-苍鹭·托特",
+        "activity_theme": 35,
+        "activity_template": 111,
+        "sub_activity_list": []
+    },
+    "3521301": {
+        "id": 3521301,
+        "name": "角色宣传页（裁暗之锋·塞尔凯特）",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "角色宣传页（裁暗之锋·塞尔凯特）",
+        "activity_theme": 35,
+        "activity_template": 213,
+        "sub_activity_list": []
+    },
+    "3500413": {
+        "id": 3500413,
+        "name": "4.3-通行证任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3-通行证任务",
+        "activity_theme": 35,
+        "activity_template": 4,
+        "sub_activity_list": []
+    },
+    "3507301": {
+        "id": 3507301,
+        "name": "多维变量4.3赛季",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "多维变量4.3赛季",
+        "activity_theme": 35,
+        "activity_template": 73,
+        "sub_activity_list": []
+    },
+    "3520001": {
+        "id": 3520001,
+        "name": "4.3版本-先遣服任务",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3版本-先遣服任务",
+        "activity_theme": 0,
+        "activity_template": 200,
+        "sub_activity_list": []
+    },
+    "3522401": {
+        "id": 3522401,
+        "name": "4.3-先遣服挑战（裁暗之锋·塞尔凯特）-第一期",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3-先遣服挑战（裁暗之锋·塞尔凯特）-第一期",
+        "activity_theme": 0,
+        "activity_template": 224,
+        "sub_activity_list": [
+            3522501,
+            3522502,
+            3522503
+        ]
+    },
+    "3522402": {
+        "id": 3522402,
+        "name": "4.3-先遣服挑战（裁暗之锋·塞尔凯特）-第二期",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3-先遣服挑战（裁暗之锋·塞尔凯特）-第二期",
+        "activity_theme": 0,
+        "activity_template": 224,
+        "sub_activity_list": [
+            3522501,
+            3522502,
+            3522503
+        ]
+    },
+    "3522403": {
+        "id": 3522403,
+        "name": "4.3-先遣服挑战（裁暗之锋·塞尔凯特）-第三期",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3-先遣服挑战（裁暗之锋·塞尔凯特）-第三期",
+        "activity_theme": 0,
+        "activity_template": 224,
+        "sub_activity_list": [
+            3522501,
+            3522502,
+            3522503
+        ]
+    },
+    "3522501": {
+        "id": 3522501,
+        "name": "4.3-先遣服挑战（裁暗之锋·塞尔凯特）-排行榜1",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3-先遣服挑战（裁暗之锋·塞尔凯特）-排行榜1",
+        "activity_theme": 0,
+        "activity_template": 225,
+        "sub_activity_list": []
+    },
+    "3522502": {
+        "id": 3522502,
+        "name": "4.3-先遣服挑战（裁暗之锋·塞尔凯特）-排行榜2",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3-先遣服挑战（裁暗之锋·塞尔凯特）-排行榜2",
+        "activity_theme": 0,
+        "activity_template": 225,
+        "sub_activity_list": []
+    },
+    "3522503": {
+        "id": 3522503,
+        "name": "4.3-先遣服挑战（裁暗之锋·塞尔凯特）-排行榜3",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3-先遣服挑战（裁暗之锋·塞尔凯特）-排行榜3",
+        "activity_theme": 0,
+        "activity_template": 225,
+        "sub_activity_list": []
+    },
+    "3511601": {
+        "id": 3511601,
+        "name": "4.3试用角色池",
+        "reward_show_permanent": "",
+        "unlock_condition": "",
+        "reward_show": "",
+        "remark": "4.3试用角色池",
+        "activity_theme": 35,
+        "activity_template": 116,
+        "sub_activity_list": []
+    },
     "get_id_list_by_activity_theme": {
+        "35": [
+            3510001,
+            3539101,
+            3500401,
+            3500402,
+            3500403,
+            3500404,
+            3500405,
+            3522101,
+            3522201,
+            3522202,
+            3522203,
+            3522301,
+            3500406,
+            3514601,
+            3500407,
+            3500101,
+            3530901,
+            3531001,
+            3531002,
+            3500001,
+            3500408,
+            3500409,
+            3521001,
+            3521002,
+            3521003,
+            3512001,
+            3517001,
+            3539301,
+            3539401,
+            3539501,
+            3535001,
+            3524301,
+            3514602,
+            3524401,
+            3500410,
+            3524501,
+            3500411,
+            3500412,
+            3500301,
+            3500302,
+            3500303,
+            3500304,
+            3500305,
+            3510701,
+            3532201,
+            3532202,
+            3532203,
+            3532204,
+            3532205,
+            3532206,
+            3518901,
+            3513101,
+            3511101,
+            3511102,
+            3511103,
+            3511104,
+            3521301,
+            3500413,
+            3507301,
+            3511601
+        ],
         "34": [
             340001,
             343691,
@@ -31363,10 +32274,29 @@
             342256,
             342257,
             342258,
-            342259
+            342259,
+            3520001,
+            3522401,
+            3522402,
+            3522403,
+            3522501,
+            3522502,
+            3522503
         ]
     },
     "get_id_list_by_activity_template": {
+        "395": [
+            3539501
+        ],
+        "394": [
+            3539401
+        ],
+        "393": [
+            3539301
+        ],
+        "391": [
+            3539101
+        ],
         "401": [
             344011
         ],
@@ -31535,7 +32465,8 @@
             313502,
             323501,
             333501,
-            343501
+            343501,
+            3535001
         ],
         "347": [
             293471,
@@ -31668,10 +32599,13 @@
         ],
         "310": [
             283101,
-            283102
+            283102,
+            3531001,
+            3531002
         ],
         "309": [
-            283091
+            283091,
+            3530901
         ],
         "307": [
             283071
@@ -31819,7 +32753,13 @@
             343224,
             343225,
             343226,
-            343227
+            343227,
+            3532201,
+            3532202,
+            3532203,
+            3532204,
+            3532205,
+            3532206
         ],
         "294": [
             262941
@@ -32025,7 +32965,8 @@
         ],
         "245": [
             202451,
-            292451
+            292451,
+            3524501
         ],
         "242": [
             202421
@@ -32082,7 +33023,8 @@
             312442,
             322441,
             332441,
-            342441
+            342441,
+            3524401
         ],
         "243": [
             202432,
@@ -32104,7 +33046,8 @@
             312432,
             322431,
             332431,
-            342431
+            342431,
+            3524301
         ],
         "230": [
             192301,
@@ -32256,7 +33199,10 @@
             342256,
             342257,
             342258,
-            342259
+            342259,
+            3522501,
+            3522502,
+            3522503
         ],
         "224": [
             182241,
@@ -32340,7 +33286,10 @@
             342246,
             342247,
             342248,
-            342249
+            342249,
+            3522401,
+            3522402,
+            3522403
         ],
         "231": [
             182311
@@ -32353,7 +33302,8 @@
             292231,
             312231,
             312233,
-            332231
+            332231,
+            3522301
         ],
         "222": [
             182221,
@@ -32366,14 +33316,18 @@
             312221,
             312222,
             332221,
-            332222
+            332222,
+            3522201,
+            3522202,
+            3522203
         ],
         "221": [
             182211,
             272211,
             292211,
             312211,
-            332211
+            332211,
+            3522101
         ],
         "220": [
             182201,
@@ -32442,7 +33396,8 @@
             322122,
             332131,
             342131,
-            342132
+            342132,
+            3521301
         ],
         "212": [
             172121,
@@ -32488,7 +33443,8 @@
             300731,
             310731,
             320731,
-            330731
+            330731,
+            3507301
         ],
         "203": [
             152031
@@ -32612,7 +33568,8 @@
             311892,
             321891,
             331891,
-            341891
+            341891,
+            3518901
         ],
         "187": [
             131871,
@@ -32681,7 +33638,8 @@
             312001,
             312002,
             322001,
-            332001
+            332001,
+            3520001
         ],
         "180": [
             121801
@@ -32890,7 +33848,8 @@
             301702,
             311701,
             311702,
-            341021
+            341021,
+            3517001
         ],
         "156": [
             91561
@@ -33000,7 +33959,10 @@
             332102,
             332103,
             342101,
-            342102
+            342102,
+            3521001,
+            3521002,
+            3521003
         ],
         "144": [
             81441
@@ -33103,7 +34065,9 @@
             321463,
             331461,
             331462,
-            341461
+            341461,
+            3514601,
+            3514602
         ],
         "145": [
             71451,
@@ -33338,7 +34302,8 @@
             311163,
             321161,
             331161,
-            341161
+            341161,
+            3511601
         ],
         "110": [
             61101,
@@ -33380,7 +34345,8 @@
             301201,
             311201,
             321202,
-            331201
+            331201,
+            3512001
         ],
         "84": [
             1103,
@@ -33507,7 +34473,11 @@
             331111,
             331112,
             341111,
-            341112
+            341112,
+            3511101,
+            3511102,
+            3511103,
+            3511104
         ],
         "131": [
             526,
@@ -33549,7 +34519,8 @@
             311312,
             321311,
             331311,
-            341311
+            341311,
+            3513101
         ],
         "127": [
             521,
@@ -33719,7 +34690,8 @@
             311071,
             321071,
             331071,
-            341071
+            341071,
+            3510701
         ],
         "106": [
             505,
@@ -33788,7 +34760,8 @@
             311001,
             321001,
             331001,
-            341001
+            341001,
+            3510001
         ],
         "5": [
             301
@@ -34037,7 +35010,20 @@
             340044,
             340045,
             340046,
-            340047
+            340047,
+            3500401,
+            3500402,
+            3500403,
+            3500404,
+            3500405,
+            3500406,
+            3500407,
+            3500408,
+            3500409,
+            3500410,
+            3500411,
+            3500412,
+            3500413
         ],
         "72": [
             201
@@ -34132,7 +35118,8 @@
             313421,
             313422,
             313423,
-            313424
+            313424,
+            3500001
         ],
         "2": [
             3
@@ -34290,7 +35277,12 @@
             340035,
             340036,
             340037,
-            340038
+            340038,
+            3500301,
+            3500302,
+            3500303,
+            3500304,
+            3500305
         ],
         "1": [
             1,
@@ -34333,10 +35325,179 @@
             310012,
             320012,
             330011,
-            340011
+            340011,
+            3500101
         ]
     },
     "get_id_list_by_sub_activity_list": {
+        "3522503": [
+            3522401,
+            3522402,
+            3522403
+        ],
+        "3522502": [
+            3522401,
+            3522402,
+            3522403
+        ],
+        "3522501": [
+            3522401,
+            3522402,
+            3522403
+        ],
+        "3511104": [
+            3513101
+        ],
+        "3511103": [
+            3513101
+        ],
+        "3511102": [
+            3513101
+        ],
+        "3511101": [
+            3513101
+        ],
+        "3532206": [
+            3510701
+        ],
+        "3532205": [
+            3510701
+        ],
+        "3532204": [
+            3510701
+        ],
+        "3532203": [
+            3510701
+        ],
+        "3532202": [
+            3510701
+        ],
+        "3532201": [
+            3510701
+        ],
+        "3500412": [
+            3524501
+        ],
+        "3500411": [
+            3524501
+        ],
+        "3500410": [
+            3524301
+        ],
+        "3524401": [
+            3524301
+        ],
+        "3514602": [
+            3524301
+        ],
+        "3539501": [
+            3539301
+        ],
+        "3539401": [
+            3539301
+        ],
+        "3517001": [
+            3512001
+        ],
+        "3500409": [
+            3500001
+        ],
+        "3500408": [
+            3500001
+        ],
+        "3531002": [
+            3530901
+        ],
+        "3531001": [
+            3530901
+        ],
+        "3514601": [
+            3522101
+        ],
+        "3500406": [
+            3522101
+        ],
+        "3522301": [
+            3522101
+        ],
+        "3522203": [
+            3522101
+        ],
+        "3522202": [
+            3522101
+        ],
+        "3522201": [
+            3522101
+        ],
+        "3500405": [
+            3500401
+        ],
+        "3500404": [
+            3500401
+        ],
+        "3500403": [
+            3500401
+        ],
+        "3500402": [
+            3500401
+        ],
+        "3500407": [
+            3539101
+        ],
+        "3500401": [
+            3539101
+        ],
+        "3521301": [
+            3510001
+        ],
+        "3535001": [
+            3510001
+        ],
+        "3524301": [
+            3510001
+        ],
+        "3518901": [
+            3510001
+        ],
+        "3513101": [
+            3510001
+        ],
+        "3510701": [
+            3510001
+        ],
+        "3500101": [
+            3510001
+        ],
+        "3500305": [
+            3510001
+        ],
+        "3500304": [
+            3510001
+        ],
+        "3500303": [
+            3510001
+        ],
+        "3500302": [
+            3510001
+        ],
+        "3500301": [
+            3510001
+        ],
+        "3524501": [
+            3510001
+        ],
+        "3512001": [
+            3510001
+        ],
+        "3530901": [
+            3510001
+        ],
+        "3522101": [
+            3510001
+        ],
+        "3539101": [
+            3510001
+        ],
         "342259": [
             342249
         ],
@@ -39962,6 +41123,9 @@
         "501": [
             500
         ],
+        "3539301": [
+            111
+        ],
         "107": [
             108
         ],
@@ -42353,6 +43517,73 @@
         342256,
         342257,
         342258,
-        342259
+        342259,
+        3510001,
+        3539101,
+        3500401,
+        3500402,
+        3500403,
+        3500404,
+        3500405,
+        3522101,
+        3522201,
+        3522202,
+        3522203,
+        3522301,
+        3500406,
+        3514601,
+        3500407,
+        3500101,
+        3530901,
+        3531001,
+        3531002,
+        3500001,
+        3500408,
+        3500409,
+        3521001,
+        3521002,
+        3521003,
+        3512001,
+        3517001,
+        3539301,
+        3539401,
+        3539501,
+        3535001,
+        3524301,
+        3514602,
+        3524401,
+        3500410,
+        3524501,
+        3500411,
+        3500412,
+        3500301,
+        3500302,
+        3500303,
+        3500304,
+        3500305,
+        3510701,
+        3532201,
+        3532202,
+        3532203,
+        3532204,
+        3532205,
+        3532206,
+        3518901,
+        3513101,
+        3511101,
+        3511102,
+        3511103,
+        3511104,
+        3521301,
+        3500413,
+        3507301,
+        3520001,
+        3522401,
+        3522402,
+        3522403,
+        3522501,
+        3522502,
+        3522503,
+        3511601
     ]
 }

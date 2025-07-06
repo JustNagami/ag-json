@@ -740,7 +740,7 @@
         "battlepass_type": 14,
         "activity_id": 211001,
         "id": 20014,
-        "slogan_ui": "I18NImg/%s/Passport/passpory_copy_00053",
+        "slogan_ui": "I18NImg/Passport/passpory_copy_00053",
         "extra_reward_01": [],
         "extra_reward_02": [
             [
@@ -802,7 +802,7 @@
         "battlepass_type": 15,
         "activity_id": 231001,
         "id": 20015,
-        "slogan_ui": "I18NImg/%s/Passport/passpory_copy_00054",
+        "slogan_ui": "I18NImg/Passport/passpory_copy_00054",
         "extra_reward_01": [],
         "extra_reward_02": [
             [
@@ -864,7 +864,7 @@
         "battlepass_type": 16,
         "activity_id": 241001,
         "id": 20016,
-        "slogan_ui": "I18NImg/%s/Passport/passpory_copy_00055",
+        "slogan_ui": "I18NImg/Passport/passpory_copy_00055",
         "extra_reward_01": [],
         "extra_reward_02": [
             [
@@ -925,7 +925,7 @@
         "battlepass_type": 17,
         "activity_id": 271001,
         "id": 20017,
-        "slogan_ui": "I18NImg/%s/Passport/passpory_copy_00055",
+        "slogan_ui": "I18NImg/Passport/passpory_copy_00055",
         "extra_reward_01": [],
         "extra_reward_02": [
             [
@@ -994,7 +994,7 @@
         "battlepass_type": 18,
         "activity_id": 281001,
         "id": 20018,
-        "slogan_ui": "I18NImg/%s/Passport/passpory_copy_00055",
+        "slogan_ui": "I18NImg/Passport/passpory_copy_00055",
         "extra_reward_01": [],
         "extra_reward_02": [
             [
@@ -1063,7 +1063,7 @@
         "battlepass_type": 19,
         "activity_id": 291001,
         "id": 20019,
-        "slogan_ui": "I18NImg/%s/Passport/passpory_copy_00055",
+        "slogan_ui": "I18NImg/Passport/passpory_copy_00055",
         "extra_reward_01": [],
         "extra_reward_02": [
             [
@@ -1132,7 +1132,7 @@
         "battlepass_type": 20,
         "activity_id": 301001,
         "id": 20020,
-        "slogan_ui": "I18NImg/%s/Passport/passpory_copy_00055",
+        "slogan_ui": "I18NImg/Passport/passpory_copy_00055",
         "extra_reward_01": [],
         "extra_reward_02": [
             [
@@ -1201,7 +1201,7 @@
         "battlepass_type": 21,
         "activity_id": 311001,
         "id": 20021,
-        "slogan_ui": "I18NImg/%s/Passport/passpory_copy_00055",
+        "slogan_ui": "I18NImg/Passport/passpory_copy_00055",
         "extra_reward_01": [],
         "extra_reward_02": [
             [
@@ -1270,7 +1270,7 @@
         "battlepass_type": 22,
         "activity_id": 321001,
         "id": 20022,
-        "slogan_ui": "I18NImg/%s/Passport/passpory_copy_00055",
+        "slogan_ui": "I18NImg/Passport/passpory_copy_00055",
         "extra_reward_01": [],
         "extra_reward_02": [
             [
@@ -1339,7 +1339,7 @@
         "battlepass_type": 23,
         "activity_id": 341001,
         "id": 20023,
-        "slogan_ui": "I18NImg/%s/Passport/passpory_copy_00055",
+        "slogan_ui": "I18NImg/Passport/passpory_copy_00055",
         "extra_reward_01": [],
         "extra_reward_02": [
             [
@@ -1399,6 +1399,75 @@
             2590005
         ]
     },
+    "20024": {
+        "prefab_path": "Widget/System/Passport/bg/passportBg_00066",
+        "poster_ui": "TextureConfig/Passport/hero_s/Passport_icon_00066",
+        "battlepass_type": 24,
+        "activity_id": 3510001,
+        "id": 20024,
+        "slogan_ui": "I18NImg/Passport/passpory_copy_00055",
+        "extra_reward_01": [],
+        "extra_reward_02": [
+            [
+                14,
+                10000
+            ],
+            [
+                2037,
+                1
+            ],
+            [
+                41201,
+                10
+            ]
+        ],
+        "display_reward_01": [
+            [
+                38,
+                7
+            ],
+            [
+                40415,
+                40
+            ],
+            [
+                41201,
+                11
+            ],
+            [
+                40604,
+                4
+            ]
+        ],
+        "display_reward_02": [
+            [
+                2037,
+                1
+            ],
+            [
+                41201,
+                10
+            ]
+        ],
+        "poster_reward": [
+            [
+                2037,
+                1
+            ],
+            [
+                1,
+                1000
+            ]
+        ],
+        "servant_list": [
+            2540003,
+            2590001,
+            2510009,
+            2550002,
+            2520006,
+            2540011
+        ]
+    },
     "99998": {
         "prefab_path": "",
         "poster_ui": "",
@@ -1452,6 +1521,72 @@
         ],
         "poster_reward": []
     },
+    "21000": {
+        "prefab_path": "Widget/System/Passport/bg/passportBg_00065",
+        "poster_ui": "TextureConfig/Passport/hero_s/Passport_icon_00065",
+        "battlepass_type": 1000,
+        "activity_id": 291001,
+        "id": 21000,
+        "slogan_ui": "I18NImg/Passport/passpory_copy_00055",
+        "extra_reward_01": [],
+        "extra_reward_02": [
+            [
+                14,
+                10000
+            ],
+            [
+                2038,
+                1
+            ],
+            [
+                41201,
+                10
+            ]
+        ],
+        "display_reward_01": [
+            [
+                38,
+                7
+            ],
+            [
+                40415,
+                40
+            ],
+            [
+                41201,
+                11
+            ],
+            [
+                40604,
+                4
+            ]
+        ],
+        "display_reward_02": [
+            [
+                2038,
+                1
+            ],
+            [
+                41201,
+                10
+            ]
+        ],
+        "poster_reward": [
+            [
+                2038,
+                1
+            ],
+            [
+                1,
+                1000
+            ]
+        ],
+        "servant_list": [
+            2520005,
+            2520003,
+            2550009
+        ]
+    },
     "all": [
         20001,
         20002,
@@ -1476,6 +1611,8 @@
         20021,
         20022,
         20023,
-        99998
+        20024,
+        99998,
+        21000
     ]
 }

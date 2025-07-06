@@ -10334,6 +10334,106 @@
             10460013
         ]
     },
+    "104701": {
+        "star_lv": 600,
+        "skill_lv": 25,
+        "weapon_break": 4,
+        "hero_desc": "",
+        "equip_lv": 1,
+        "skin_id": 1047,
+        "id": 104701,
+        "weapon_level": 60,
+        "weapon_stage": 1,
+        "hero_id": 1047,
+        "equip_exclusive_id_list": "",
+        "astrolabe_id": "",
+        "weapon_module_level": 0,
+        "equip_exclusive_lv_list": "",
+        "astrolabe_suit_id": 0,
+        "weapon_key": 0,
+        "hero_break": 6,
+        "hero_attrib": "",
+        "hero_lv": 80,
+        "break_lv": 1,
+        "using_hero_chip": "",
+        "equip_list": [],
+        "equip_pool_list": [],
+        "skill_element": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "104702": {
+        "star_lv": 500,
+        "skill_lv": 35,
+        "weapon_break": 4,
+        "hero_desc": "",
+        "equip_lv": 60,
+        "skin_id": 1047,
+        "id": 104702,
+        "weapon_level": 60,
+        "weapon_stage": 1,
+        "hero_id": 1047,
+        "equip_exclusive_id_list": "",
+        "weapon_module_level": 0,
+        "equip_exclusive_lv_list": "",
+        "astrolabe_suit_id": 1047002,
+        "weapon_key": 2520012,
+        "hero_break": 6,
+        "hero_attrib": "",
+        "hero_lv": 80,
+        "break_lv": 6,
+        "using_hero_chip": "",
+        "equip_list": [
+            512072,
+            522034,
+            532072,
+            542034,
+            552072,
+            562034
+        ],
+        "equip_pool_list": [
+            [
+                10001,
+                10001
+            ],
+            [
+                10009,
+                10009
+            ],
+            [
+                10017,
+                10017
+            ],
+            [
+                10720,
+                10721
+            ],
+            [
+                10722,
+                10723
+            ],
+            [
+                10710,
+                10711
+            ]
+        ],
+        "skill_element": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "astrolabe_id": [
+            10470021,
+            10470022,
+            10470023
+        ]
+    },
     "104801": {
         "star_lv": 600,
         "skill_lv": 25,
@@ -30979,6 +31079,414 @@
             12840023
         ]
     },
+    "228": {
+        "star_lv": 500,
+        "skill_lv": 35,
+        "weapon_break": 4,
+        "hero_desc": "",
+        "equip_lv": 60,
+        "skin_id": 104701,
+        "id": 228,
+        "weapon_level": 60,
+        "weapon_stage": 1,
+        "hero_id": 1047,
+        "equip_exclusive_id_list": "",
+        "weapon_module_level": 0,
+        "equip_exclusive_lv_list": "",
+        "astrolabe_suit_id": 1047002,
+        "weapon_key": 2520012,
+        "hero_break": 6,
+        "hero_attrib": "",
+        "hero_lv": 80,
+        "break_lv": 6,
+        "using_hero_chip": "",
+        "equip_list": [
+            512072,
+            522034,
+            532072,
+            542034,
+            552072,
+            562034
+        ],
+        "equip_pool_list": [
+            [
+                10001,
+                10001
+            ],
+            [
+                10009,
+                10009
+            ],
+            [
+                10017,
+                10017
+            ],
+            [
+                10720,
+                10721
+            ],
+            [
+                10722,
+                10723
+            ],
+            [
+                10710,
+                10711
+            ]
+        ],
+        "skill_element": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "astrolabe_id": [
+            10470021,
+            10470022,
+            10470023
+        ]
+    },
+    "229": {
+        "star_lv": 500,
+        "skill_lv": 35,
+        "weapon_break": 4,
+        "hero_desc": "",
+        "equip_lv": 60,
+        "skin_id": 128404,
+        "id": 229,
+        "weapon_level": 60,
+        "weapon_stage": 1,
+        "hero_id": 1284,
+        "equip_exclusive_id_list": "",
+        "weapon_module_level": 0,
+        "equip_exclusive_lv_list": "",
+        "astrolabe_suit_id": 1284002,
+        "weapon_key": 2540012,
+        "hero_break": 6,
+        "hero_attrib": "",
+        "hero_lv": 80,
+        "break_lv": 6,
+        "using_hero_chip": "",
+        "equip_list": [
+            514051,
+            524036,
+            534051,
+            544036,
+            554051,
+            564036
+        ],
+        "equip_pool_list": [
+            [
+                10001,
+                10001
+            ],
+            [
+                10009,
+                10009
+            ],
+            [
+                10017,
+                10017
+            ],
+            [
+                10720,
+                10721
+            ],
+            [
+                10722,
+                10723
+            ],
+            [
+                10710,
+                10711
+            ]
+        ],
+        "skill_element": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "astrolabe_id": [
+            12840021,
+            12840022,
+            12840023
+        ]
+    },
+    "230": {
+        "star_lv": 500,
+        "skill_lv": 35,
+        "weapon_break": 4,
+        "hero_desc": "",
+        "equip_lv": 60,
+        "skin_id": 106103,
+        "id": 230,
+        "weapon_level": 60,
+        "weapon_stage": 1,
+        "hero_id": 1061,
+        "equip_exclusive_id_list": "",
+        "weapon_module_level": 0,
+        "equip_exclusive_lv_list": "",
+        "astrolabe_suit_id": 1061002,
+        "weapon_key": 2590009,
+        "hero_break": 6,
+        "hero_attrib": "",
+        "hero_lv": 80,
+        "break_lv": 6,
+        "using_hero_chip": "",
+        "equip_list": [
+            519052,
+            529034,
+            539052,
+            549034,
+            559052,
+            569034
+        ],
+        "equip_pool_list": [
+            [
+                10001,
+                10001
+            ],
+            [
+                10009,
+                10009
+            ],
+            [
+                10017,
+                10017
+            ],
+            [
+                10720,
+                10721
+            ],
+            [
+                10722,
+                10723
+            ],
+            [
+                10710,
+                10711
+            ]
+        ],
+        "skill_element": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "astrolabe_id": [
+            10610021,
+            10610022,
+            10610023
+        ]
+    },
+    "231": {
+        "star_lv": 500,
+        "skill_lv": 35,
+        "weapon_break": 4,
+        "hero_desc": "",
+        "equip_lv": 60,
+        "skin_id": 1047,
+        "id": 231,
+        "weapon_level": 60,
+        "weapon_stage": 1,
+        "hero_id": 1047,
+        "equip_exclusive_id_list": "",
+        "weapon_module_level": 0,
+        "equip_exclusive_lv_list": "",
+        "astrolabe_suit_id": 1047002,
+        "weapon_key": 2520012,
+        "hero_break": 6,
+        "hero_attrib": "",
+        "hero_lv": 80,
+        "break_lv": 6,
+        "using_hero_chip": "",
+        "equip_list": [
+            512072,
+            522034,
+            532072,
+            542034,
+            552072,
+            562034
+        ],
+        "equip_pool_list": [
+            [
+                10001,
+                10001
+            ],
+            [
+                10009,
+                10009
+            ],
+            [
+                10017,
+                10017
+            ],
+            [
+                10720,
+                10721
+            ],
+            [
+                10722,
+                10723
+            ],
+            [
+                10710,
+                10711
+            ]
+        ],
+        "skill_element": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "astrolabe_id": [
+            10470021,
+            10470022,
+            10470023
+        ]
+    },
+    "232": {
+        "star_lv": 500,
+        "skill_lv": 35,
+        "weapon_break": 4,
+        "hero_desc": "",
+        "equip_lv": 60,
+        "skin_id": 1284,
+        "id": 232,
+        "weapon_level": 60,
+        "weapon_stage": 1,
+        "hero_id": 1284,
+        "equip_exclusive_id_list": "",
+        "weapon_module_level": 0,
+        "equip_exclusive_lv_list": "",
+        "astrolabe_suit_id": 1284002,
+        "weapon_key": 2540012,
+        "hero_break": 6,
+        "hero_attrib": "",
+        "hero_lv": 80,
+        "break_lv": 6,
+        "using_hero_chip": "",
+        "equip_list": [
+            514051,
+            524036,
+            534051,
+            544036,
+            554051,
+            564036
+        ],
+        "equip_pool_list": [
+            [
+                10001,
+                10001
+            ],
+            [
+                10009,
+                10009
+            ],
+            [
+                10017,
+                10017
+            ],
+            [
+                10720,
+                10721
+            ],
+            [
+                10722,
+                10723
+            ],
+            [
+                10710,
+                10711
+            ]
+        ],
+        "skill_element": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "astrolabe_id": [
+            12840021,
+            12840022,
+            12840023
+        ]
+    },
+    "233": {
+        "star_lv": 500,
+        "skill_lv": 35,
+        "weapon_break": 4,
+        "hero_desc": "",
+        "equip_lv": 60,
+        "skin_id": 106603,
+        "id": 233,
+        "weapon_level": 60,
+        "weapon_stage": 1,
+        "hero_id": 1066,
+        "equip_exclusive_id_list": "",
+        "weapon_module_level": 3,
+        "equip_exclusive_lv_list": "",
+        "astrolabe_suit_id": 1066001,
+        "weapon_key": 2530003,
+        "hero_break": 6,
+        "hero_attrib": "",
+        "hero_lv": 80,
+        "break_lv": 6,
+        "using_hero_chip": "",
+        "equip_list": [
+            513008,
+            523026,
+            533008,
+            543026,
+            553008,
+            563026
+        ],
+        "equip_pool_list": [
+            [
+                10001,
+                10001
+            ],
+            [
+                10009,
+                10009
+            ],
+            [
+                10017,
+                10017
+            ],
+            [
+                10720,
+                10721
+            ],
+            [
+                10722,
+                10723
+            ],
+            [
+                10710,
+                10711
+            ]
+        ],
+        "skill_element": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "astrolabe_id": [
+            10660011,
+            10660012,
+            10660013
+        ]
+    },
     "610301": {
         "star_lv": 600,
         "skill_lv": 1,
@@ -37734,6 +38242,210 @@
             10460011,
             10460012,
             10460013
+        ]
+    },
+    "12840401": {
+        "star_lv": 500,
+        "skill_lv": 35,
+        "weapon_break": 4,
+        "hero_desc": "",
+        "equip_lv": 60,
+        "skin_id": 128404,
+        "id": 12840401,
+        "weapon_level": 60,
+        "weapon_stage": 1,
+        "hero_id": 1284,
+        "equip_exclusive_id_list": "",
+        "weapon_module_level": 0,
+        "equip_exclusive_lv_list": "",
+        "astrolabe_suit_id": 1284001,
+        "weapon_key": 2540012,
+        "hero_break": 6,
+        "hero_attrib": "",
+        "hero_lv": 80,
+        "break_lv": 6,
+        "using_hero_chip": "",
+        "equip_list": [
+            514051,
+            524056,
+            534051,
+            544056,
+            554051,
+            564056
+        ],
+        "equip_pool_list": [
+            [
+                10001,
+                10001
+            ],
+            [
+                10009,
+                10009
+            ],
+            [
+                10017,
+                10017
+            ],
+            [
+                10720,
+                10721
+            ],
+            [
+                10722,
+                10723
+            ],
+            [
+                10710,
+                10711
+            ]
+        ],
+        "skill_element": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "astrolabe_id": [
+            12840011,
+            12840012,
+            12840013
+        ]
+    },
+    "10610301": {
+        "star_lv": 500,
+        "skill_lv": 35,
+        "weapon_break": 4,
+        "hero_desc": "",
+        "equip_lv": 60,
+        "skin_id": 106103,
+        "id": 10610301,
+        "weapon_level": 60,
+        "weapon_stage": 1,
+        "hero_id": 1061,
+        "equip_exclusive_id_list": "",
+        "weapon_module_level": 0,
+        "equip_exclusive_lv_list": "",
+        "astrolabe_suit_id": 1061002,
+        "weapon_key": 2590009,
+        "hero_break": 6,
+        "hero_attrib": "",
+        "hero_lv": 80,
+        "break_lv": 6,
+        "using_hero_chip": "",
+        "equip_list": [
+            519052,
+            529034,
+            539052,
+            549034,
+            559052,
+            569034
+        ],
+        "equip_pool_list": [
+            [
+                10001,
+                10001
+            ],
+            [
+                10009,
+                10009
+            ],
+            [
+                10017,
+                10017
+            ],
+            [
+                10720,
+                10721
+            ],
+            [
+                10722,
+                10723
+            ],
+            [
+                10710,
+                10711
+            ]
+        ],
+        "skill_element": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "astrolabe_id": [
+            10610021,
+            10610022,
+            10610023
+        ]
+    },
+    "10470101": {
+        "star_lv": 500,
+        "skill_lv": 35,
+        "weapon_break": 4,
+        "hero_desc": "",
+        "equip_lv": 60,
+        "skin_id": 104701,
+        "id": 10470101,
+        "weapon_level": 60,
+        "weapon_stage": 1,
+        "hero_id": 1047,
+        "equip_exclusive_id_list": "",
+        "weapon_module_level": 3,
+        "equip_exclusive_lv_list": "",
+        "astrolabe_suit_id": 1047002,
+        "weapon_key": 2520012,
+        "hero_break": 6,
+        "hero_attrib": "",
+        "hero_lv": 80,
+        "break_lv": 6,
+        "using_hero_chip": "",
+        "equip_list": [
+            512072,
+            522034,
+            532072,
+            542034,
+            552072,
+            562034
+        ],
+        "equip_pool_list": [
+            [
+                10001,
+                10001
+            ],
+            [
+                10009,
+                10009
+            ],
+            [
+                10017,
+                10017
+            ],
+            [
+                10720,
+                10721
+            ],
+            [
+                10722,
+                10723
+            ],
+            [
+                10710,
+                10711
+            ]
+        ],
+        "skill_element": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "astrolabe_id": [
+            10470021,
+            10470022,
+            10470023
         ]
     },
     "3031184": {
@@ -89861,6 +90573,8 @@
         104601,
         104602,
         104603,
+        104701,
+        104702,
         104801,
         104802,
         104803,
@@ -90217,6 +90931,12 @@
         225,
         226,
         227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
         610301,
         610401,
         301,
@@ -90327,6 +91047,9 @@
         10200301,
         10450101,
         10460101,
+        12840401,
+        10610301,
+        10470101,
         3031184,
         3031027,
         3031093,

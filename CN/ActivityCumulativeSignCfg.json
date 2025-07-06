@@ -941,6 +941,24 @@
             7507
         ]
     },
+    "3500101": {
+        "cost_item_list": "",
+        "gift_item_list": "",
+        "type": 0,
+        "id": 3500101,
+        "title": "限时签到",
+        "ui_path": "Widget/Version/V4_3_SummerPub/V4_3_SummerPub_SevenDaySignUI/V4_3_SummerPub_SevenDaySignUI",
+        "limit_level": 0,
+        "config_list": [
+            7501,
+            7502,
+            7503,
+            7504,
+            7505,
+            7506,
+            7507
+        ]
+    },
     "all": [
         1,
         60011,
@@ -990,6 +1008,7 @@
         320012,
         323861,
         330011,
-        340011
+        340011,
+        3500101
     ]
 }

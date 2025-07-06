@@ -978,7 +978,7 @@
     "62": {
         "name": "雪域之拥",
         "equip_skill_icon": "62",
-        "stage_up_list": 0,
+        "stage_up_list": 1,
         "power_score": 10,
         "desc": "「慈爱与暴戾于此共存，圣洁的白雪包容着山间万物。」",
         "need": 3,
@@ -1133,6 +1133,22 @@
         "suit": 71,
         "suit_effect": [
             71
+        ]
+    },
+    "72": {
+        "name": "消散的真意",
+        "equip_skill_icon": "72",
+        "stage_up_list": 0,
+        "power_score": 10,
+        "desc": "「被毒液封闭的喉舌之中，蝎神的真意无人知晓。」",
+        "need": 3,
+        "inherit_cost_type": 1,
+        "equip_type": 1,
+        "id": 72,
+        "icon": "72",
+        "suit": 72,
+        "suit_effect": [
+            72
         ]
     },
     "get_id_list_by_suit": [
@@ -1348,6 +1364,9 @@
         ],
         [
             71
+        ],
+        [
+            72
         ]
     ],
     "get_id_list_by_equip_type": {
@@ -1398,7 +1417,8 @@
             61,
             62,
             64,
-            69
+            69,
+            72
         ],
         "0": [
             1,
@@ -1500,6 +1520,7 @@
         68,
         69,
         70,
-        71
+        71,
+        72
     ]
 }

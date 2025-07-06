@@ -2488,6 +2488,139 @@
             6.977
         ]
     },
+    "tastefood": {
+        "type": "tastefood",
+        "name": "tastefood",
+        "pictureName": "",
+        "multiscene": 0,
+        "fieldOfView": 40,
+        "desc": "品菜环节",
+        "sceneName": "X110",
+        "position": [
+            1.06,
+            0,
+            -16
+        ],
+        "rotate": [
+            0,
+            0,
+            0
+        ]
+    },
+    "chat_6039": {
+        "type": "chat",
+        "name": "chat_6039",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6039聊天",
+        "sceneName": "",
+        "position": [
+            -2.56,
+            1.84,
+            0.3
+        ],
+        "rotate": [
+            23.065,
+            87.662,
+            -15.476
+        ]
+    },
+    "playerInfo_6039": {
+        "type": "playerInfo",
+        "name": "playerInfo_6039",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6039玩家信息界面",
+        "sceneName": "",
+        "position": [
+            -2.054,
+            1.142,
+            0.551
+        ],
+        "rotate": [
+            12.394,
+            100.101,
+            6.309
+        ]
+    },
+    "chat_6040": {
+        "type": "chat",
+        "name": "chat_6040",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6040聊天",
+        "sceneName": "",
+        "position": [
+            -1.8,
+            2.969,
+            1.763
+        ],
+        "rotate": [
+            27.997,
+            128.651,
+            -15.544
+        ]
+    },
+    "playerInfo_6040": {
+        "type": "playerInfo",
+        "name": "playerInfo_6040",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6040玩家信息界面",
+        "sceneName": "",
+        "position": [
+            -1.275,
+            2.707,
+            1.95
+        ],
+        "rotate": [
+            26.162,
+            140.467,
+            -7.586
+        ]
+    },
+    "chat_6038": {
+        "type": "chat",
+        "name": "chat_6038",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6038聊天",
+        "sceneName": "",
+        "position": [
+            2.87,
+            1.4,
+            0.78
+        ],
+        "rotate": [
+            17.224,
+            240.3,
+            7.079
+        ]
+    },
+    "playerInfo_6038": {
+        "type": "playerInfo",
+        "name": "playerInfo_6038",
+        "pictureName": "",
+        "multiscene": 1,
+        "fieldOfView": 27,
+        "desc": "6038玩家信息界面",
+        "sceneName": "",
+        "position": [
+            1.964,
+            1.628,
+            1.016
+        ],
+        "rotate": [
+            24.826,
+            228.123,
+            4.78
+        ]
+    },
     "get_id_list_by_fieldOfView": {
         "26": [
             "barbecue"
@@ -2512,7 +2645,8 @@
         ],
         "40": [
             "lianliankan",
-            "flipcard"
+            "flipcard",
+            "tastefood"
         ],
         "10": [
             "weapon"
@@ -2644,7 +2778,13 @@
             "chat_6036",
             "playerInfo_6036",
             "chat_6037",
-            "playerInfo_6037"
+            "playerInfo_6037",
+            "chat_6039",
+            "playerInfo_6039",
+            "chat_6040",
+            "playerInfo_6040",
+            "chat_6038",
+            "playerInfo_6038"
         ]
     }
 }

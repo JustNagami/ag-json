@@ -16031,6 +16031,716 @@
             0
         ]
     },
+    "5270101": {
+        "monster_level": 80,
+        "name": "娱乐之都与赌局",
+        "ai_level": 1,
+        "hero_list": "",
+        "map": "",
+        "background_1": "ST0109",
+        "custom_lock_line": "",
+        "line_text": "",
+        "tips": "「欢迎来到浪游城——人类用黄金、胶片与骰子搭建的终极游乐场。」",
+        "sub_type": 1,
+        "custom_line": "",
+        "tag": 2,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "extra_cost": "",
+        "recommend_level": 0,
+        "can_switch_restrict_hero_list": "",
+        "combo_skill_id": 0,
+        "chip_list": "",
+        "auto_next_stage_group": 0,
+        "line_text_position": "",
+        "user_exp": 0,
+        "id": 5270101,
+        "attribute_factor": "",
+        "need_default_team": 1,
+        "next_show_id_list": [
+            5270102
+        ],
+        "next_unlock_id_list": [
+            5270102
+        ],
+        "drop_lib_id_list": [
+            2000004,
+            2000004
+        ],
+        "position": [
+            250,
+            -134
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5270102": {
+        "monster_level": 80,
+        "name": "暗号与女仆",
+        "ai_level": 1,
+        "hero_list": "",
+        "map": "",
+        "background_1": "ST2105",
+        "custom_lock_line": "",
+        "line_text": "",
+        "tips": "茶具、茶叶，几句简单的暗号，整个城市的消息便会在这间老旧的俱乐部中流动。",
+        "sub_type": 1,
+        "custom_line": "",
+        "tag": 2,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "extra_cost": "",
+        "recommend_level": 0,
+        "can_switch_restrict_hero_list": "",
+        "combo_skill_id": 0,
+        "chip_list": "",
+        "auto_next_stage_group": 0,
+        "line_text_position": "",
+        "user_exp": 0,
+        "id": 5270102,
+        "attribute_factor": "",
+        "need_default_team": 1,
+        "next_show_id_list": [
+            5270103
+        ],
+        "next_unlock_id_list": [
+            5270103
+        ],
+        "drop_lib_id_list": [
+            2000004,
+            2000004
+        ],
+        "position": [
+            607,
+            35
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5270103": {
+        "monster_level": 80,
+        "name": "红石河与过去",
+        "ai_level": 1,
+        "map": "5270103",
+        "background_1": "I11o",
+        "custom_lock_line": "",
+        "line_text": "",
+        "tips": "或许每个人都有着一段不为人知的过去，而那份过去正是塑造现在的基石。",
+        "sub_type": 1,
+        "custom_line": "",
+        "tag": 0,
+        "hero_exp": 20,
+        "level": 1,
+        "cost": 10,
+        "extra_cost": "",
+        "recommend_level": 0,
+        "combo_skill_id": 0,
+        "chip_list": "",
+        "auto_next_stage_group": 0,
+        "line_text_position": "",
+        "user_exp": 10,
+        "id": 5270103,
+        "need_default_team": 1,
+        "next_show_id_list": [
+            5270104
+        ],
+        "next_unlock_id_list": [
+            5270104
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            18000
+        ],
+        "drop_lib_id_list": [
+            2000004,
+            2000004
+        ],
+        "position": [
+            1000,
+            37
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                1047,
+                231
+            ],
+            [
+                1284,
+                232
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            1,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5270104": {
+        "monster_level": 80,
+        "name": "好消息与坏消息",
+        "ai_level": 1,
+        "map": "5270104",
+        "background_1": "I11i",
+        "custom_lock_line": "",
+        "line_text": "",
+        "tips": "救下了被追捕的猎物，可这究竟是好事还是坏事？没人说得清楚。",
+        "sub_type": 1,
+        "custom_line": "",
+        "tag": 0,
+        "hero_exp": 20,
+        "level": 1,
+        "cost": 10,
+        "extra_cost": "",
+        "recommend_level": 0,
+        "combo_skill_id": 0,
+        "chip_list": "",
+        "auto_next_stage_group": 0,
+        "line_text_position": "",
+        "user_exp": 10,
+        "id": 5270104,
+        "need_default_team": 1,
+        "next_show_id_list": [
+            5270105
+        ],
+        "next_unlock_id_list": [
+            5270105
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            15000
+        ],
+        "drop_lib_id_list": [
+            2000004,
+            2000004
+        ],
+        "position": [
+            1400,
+            -46
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                1047,
+                231
+            ],
+            [
+                1284,
+                232
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            1,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5270105": {
+        "monster_level": 80,
+        "name": "隐居者与真相",
+        "ai_level": 1,
+        "map": "5270105",
+        "background_1": "B10a",
+        "custom_lock_line": "",
+        "line_text": "",
+        "tips": "真相逐渐被剥开，可即便凶手呼之欲出，能破局的也唯有她的决断。",
+        "sub_type": 1,
+        "custom_line": "",
+        "tag": 0,
+        "hero_exp": 20,
+        "level": 1,
+        "cost": 10,
+        "extra_cost": "",
+        "recommend_level": 0,
+        "combo_skill_id": 0,
+        "chip_list": "",
+        "auto_next_stage_group": 0,
+        "line_text_position": "",
+        "user_exp": 10,
+        "id": 5270105,
+        "need_default_team": 1,
+        "next_show_id_list": [
+            5270106
+        ],
+        "next_unlock_id_list": [
+            5270106
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            20000
+        ],
+        "drop_lib_id_list": [
+            2000004,
+            2000004
+        ],
+        "position": [
+            1779,
+            -46
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                1047,
+                231
+            ],
+            [
+                1284,
+                232
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            1,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5270106": {
+        "monster_level": 80,
+        "name": "谈判与毒刺",
+        "ai_level": 1,
+        "map": "5270106",
+        "background_1": "ST21",
+        "custom_lock_line": "",
+        "line_text": "",
+        "tips": "方寸的会客室之间，谎言的毒刺深深扎入喉头。",
+        "sub_type": 1,
+        "custom_line": "",
+        "tag": 0,
+        "hero_exp": 20,
+        "level": 1,
+        "cost": 10,
+        "extra_cost": "",
+        "recommend_level": 0,
+        "combo_skill_id": 0,
+        "chip_list": "",
+        "auto_next_stage_group": 0,
+        "line_text_position": "",
+        "user_exp": 10,
+        "id": 5270106,
+        "need_default_team": 1,
+        "next_show_id_list": [
+            5270107
+        ],
+        "next_unlock_id_list": [
+            5270107
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            17500
+        ],
+        "drop_lib_id_list": [
+            2000004,
+            2000004
+        ],
+        "position": [
+            2172,
+            -136
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                1047,
+                231
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            0,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5270107": {
+        "monster_level": 80,
+        "name": "破局与拯救",
+        "ai_level": 1,
+        "map": "5270107",
+        "background_1": "D10",
+        "custom_lock_line": "",
+        "line_text": "",
+        "tips": "囚徒安坐于地下室之中，未曾料想的拯救却悄然而至。",
+        "sub_type": 1,
+        "custom_line": "",
+        "tag": 1,
+        "hero_exp": 20,
+        "level": 1,
+        "cost": 10,
+        "extra_cost": "",
+        "recommend_level": 0,
+        "combo_skill_id": 0,
+        "chip_list": "",
+        "auto_next_stage_group": 0,
+        "line_text_position": "",
+        "user_exp": 10,
+        "id": 5270107,
+        "need_default_team": 1,
+        "next_show_id_list": [
+            5270108
+        ],
+        "next_unlock_id_list": [
+            5270108
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            35000
+        ],
+        "drop_lib_id_list": [
+            2000004,
+            2000004
+        ],
+        "position": [
+            2514,
+            35
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                1047,
+                231
+            ],
+            [
+                1284,
+                232
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            1,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5270108": {
+        "monster_level": 80,
+        "name": "过往与背叛",
+        "ai_level": 1,
+        "map": "5270108",
+        "background_1": "I08",
+        "custom_lock_line": "",
+        "line_text": "",
+        "tips": "终于救出了老狮子，众人欢欣雀跃……可是，真的结束了吗？",
+        "sub_type": 1,
+        "custom_line": "",
+        "tag": 0,
+        "hero_exp": 20,
+        "level": 1,
+        "cost": 10,
+        "extra_cost": "",
+        "recommend_level": 0,
+        "combo_skill_id": 0,
+        "chip_list": "",
+        "auto_next_stage_group": 0,
+        "line_text_position": "",
+        "user_exp": 10,
+        "id": 5270108,
+        "need_default_team": 1,
+        "next_show_id_list": [
+            5270109
+        ],
+        "next_unlock_id_list": [
+            5270109
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            15000
+        ],
+        "drop_lib_id_list": [
+            2000004,
+            2000004
+        ],
+        "position": [
+            2916,
+            35
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                1047,
+                231
+            ],
+            [
+                1284,
+                232
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            1,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5270109": {
+        "monster_level": 80,
+        "name": "生还与抉择",
+        "ai_level": 1,
+        "map": "5270109",
+        "background_1": "D12a",
+        "custom_lock_line": "",
+        "line_text": "",
+        "tips": "虚假的背叛，与伪造的忠诚，一切又再度回归原点。",
+        "sub_type": 1,
+        "custom_line": "",
+        "tag": 0,
+        "hero_exp": 20,
+        "level": 1,
+        "cost": 10,
+        "extra_cost": "",
+        "recommend_level": 0,
+        "combo_skill_id": 0,
+        "chip_list": "",
+        "auto_next_stage_group": 0,
+        "line_text_position": "",
+        "user_exp": 10,
+        "id": 5270109,
+        "need_default_team": 1,
+        "next_show_id_list": [
+            5270110
+        ],
+        "next_unlock_id_list": [
+            5270110
+        ],
+        "attribute_factor": [
+            1000,
+            1000,
+            15000
+        ],
+        "drop_lib_id_list": [
+            2000004,
+            2000004
+        ],
+        "position": [
+            3309,
+            -134
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                1047,
+                231
+            ],
+            [
+                1284,
+                232
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "can_switch_restrict_hero_list": [
+            1,
+            1,
+            0
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5270110": {
+        "monster_level": 80,
+        "name": "宝库与代价",
+        "ai_level": 1,
+        "map": "5270110",
+        "background_1": "I23f",
+        "custom_lock_line": "",
+        "line_text": "",
+        "tips": "三人生还，一人失踪。又或者说，这是新的背叛呢？",
+        "sub_type": 1,
+        "custom_line": "",
+        "tag": 1,
+        "hero_exp": 20,
+        "level": 1,
+        "cost": 10,
+        "extra_cost": "",
+        "recommend_level": 0,
+        "can_switch_restrict_hero_list": "",
+        "combo_skill_id": 0,
+        "chip_list": "",
+        "auto_next_stage_group": 0,
+        "line_text_position": "",
+        "user_exp": 10,
+        "id": 5270110,
+        "need_default_team": 1,
+        "next_show_id_list": [
+            5270111
+        ],
+        "next_unlock_id_list": [
+            5270111
+        ],
+        "attribute_factor": [
+            500,
+            1000,
+            40000
+        ],
+        "drop_lib_id_list": [
+            2000004,
+            2000004
+        ],
+        "position": [
+            3651,
+            35
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "hero_list": [
+            [
+                1047,
+                231
+            ],
+            [
+                0,
+                1
+            ],
+            [
+                0,
+                1
+            ]
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
+    "5270111": {
+        "monster_level": 80,
+        "name": "夜尽与归途",
+        "ai_level": 1,
+        "hero_list": "",
+        "map": "",
+        "background_1": "ST0110a",
+        "custom_lock_line": "",
+        "line_text": "",
+        "tips": "豺狼捡起了权杖，宝库的门扉随之开启……但迎接他的却不是财宝，而是「代价」。",
+        "sub_type": 1,
+        "custom_line": "",
+        "tag": 2,
+        "hero_exp": 0,
+        "level": 1,
+        "cost": 0,
+        "extra_cost": "",
+        "recommend_level": 0,
+        "next_show_id_list": "",
+        "can_switch_restrict_hero_list": "",
+        "combo_skill_id": 0,
+        "chip_list": "",
+        "auto_next_stage_group": 0,
+        "line_text_position": "",
+        "next_unlock_id_list": "",
+        "user_exp": 0,
+        "id": 5270111,
+        "attribute_factor": "",
+        "need_default_team": 1,
+        "drop_lib_id_list": [
+            2000004,
+            2000004
+        ],
+        "position": [
+            4044,
+            37
+        ],
+        "is_revive": [
+            2,
+            100
+        ],
+        "team_type": [
+            1,
+            -1
+        ]
+    },
     "all": [
         5010101,
         5010102,
@@ -16313,6 +17023,17 @@
         5250107,
         5250108,
         5250109,
-        5250110
+        5250110,
+        5270101,
+        5270102,
+        5270103,
+        5270104,
+        5270105,
+        5270106,
+        5270107,
+        5270108,
+        5270109,
+        5270110,
+        5270111
     ]
 }

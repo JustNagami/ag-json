@@ -255,7 +255,40 @@
         "start_path": "SofdecAsset/function/dlc/104501_login.usm",
         "skin_id": 104501
     },
+    "106103": {
+        "special_scene_id_2": 0,
+        "special_action_2": "",
+        "special_scene_id": 6039,
+        "special_action": "106103ui_custom",
+        "start_path": "SofdecAsset/function/dlc/106103_login.usm",
+        "skin_id": 106103
+    },
+    "104701": {
+        "special_scene_id_2": 0,
+        "special_action_2": "",
+        "special_scene_id": 6040,
+        "special_action": "104701ui_custom",
+        "start_path": "SofdecAsset/function/dlc/104701_login.usm",
+        "skin_id": 104701
+    },
+    "128404": {
+        "special_scene_id_2": 0,
+        "special_action_2": "",
+        "special_scene_id": 6038,
+        "special_action": "128404ui_custom",
+        "start_path": "SofdecAsset/function/dlc/128404_login.usm",
+        "skin_id": 128404
+    },
     "get_id_list_by_special_scene_id": {
+        "6038": [
+            128404
+        ],
+        "6040": [
+            104701
+        ],
+        "6039": [
+            106103
+        ],
         "6037": [
             104501
         ],
@@ -385,6 +418,9 @@
         102003,
         121101,
         104601,
-        104501
+        104501,
+        106103,
+        104701,
+        128404
     ]
 }

@@ -5257,6 +5257,7 @@
             4031042,
             4031045,
             4031046,
+            4031047,
             4031048,
             4031049,
             4031050,
@@ -8931,6 +8932,95 @@
             217
         ]
     },
+    "6010130": {
+        "english": "",
+        "type": 601,
+        "group": 31,
+        "level": 1,
+        "cost_exchange_id": 0,
+        "activity_id": 3517001,
+        "second_reward": "",
+        "sub_type": 1,
+        "first_reward": "",
+        "cue_name": "bgm_activity_4_3_selket_ui",
+        "drag_follow": 0,
+        "line_type": 0,
+        "difficulty": 0,
+        "star_need": "",
+        "unlock_activity_id": 0,
+        "switch_bg_index": 0,
+        "max_width": 0,
+        "unlock_scroll_rate": "",
+        "subhead": "浪游迷城",
+        "bg": "TextureBg/Background/V4_3_SummerPub_00001",
+        "cue_sheet": "bgm_activity_4_3_selket_ui",
+        "third_reward": "",
+        "attach_prefab": "",
+        "awb": "bgm_activity_4_3_selket_ui",
+        "id": 6010130,
+        "section_id_list": [
+            5270101,
+            5270102,
+            5270103,
+            5270104,
+            5270105,
+            5270106,
+            5270107,
+            5270108,
+            5270109,
+            5270110,
+            5270111
+        ],
+        "pre_chapter": [],
+        "trial_list": [
+            231,
+            232
+        ]
+    },
+    "6010131": {
+        "english": "",
+        "type": 87,
+        "group": 30,
+        "level": 1,
+        "cost_exchange_id": 0,
+        "activity_id": 3539101,
+        "second_reward": "",
+        "sub_type": 1,
+        "first_reward": "",
+        "cue_name": "bgm_activity_4_3_story_tavern",
+        "drag_follow": 0,
+        "line_type": 0,
+        "difficulty": 0,
+        "star_need": "",
+        "unlock_activity_id": 0,
+        "switch_bg_index": 0,
+        "max_width": 0,
+        "unlock_scroll_rate": "",
+        "subhead": "食与异世界",
+        "bg": "",
+        "cue_sheet": "bgm_activity_4_3_story_tavern",
+        "third_reward": "",
+        "attach_prefab": "",
+        "awb": "bgm_activity_4_3_story_tavern",
+        "id": 6010131,
+        "section_id_list": [
+            5270201,
+            5270202,
+            5270203,
+            5270204,
+            5270205,
+            5270206,
+            5270207,
+            5270208,
+            5270209
+        ],
+        "pre_chapter": [],
+        "trial_list": [
+            228,
+            229,
+            230
+        ]
+    },
     "701": {
         "trial_list": "",
         "english": "",
@@ -9049,6 +9139,9 @@
             702,
             703
         ],
+        "87": [
+            6010131
+        ],
         "602": [
             6010128
         ],
@@ -9080,7 +9173,8 @@
             6010125,
             6010126,
             6010127,
-            6010129
+            6010129,
+            6010130
         ],
         "20": [
             505
@@ -9415,6 +9509,8 @@
         6010127,
         6010128,
         6010129,
+        6010130,
+        6010131,
         701,
         702,
         703

@@ -337,6 +337,9 @@
             [
                 "uiName",
                 "newHero"
+            ],
+            [
+                "anyComboSkill"
             ]
         ],
         "skipcondition": [
@@ -368,6 +371,9 @@
             [
                 "uiName",
                 "comboSkillInfo"
+            ],
+            [
+                "anyComboSkill"
             ]
         ],
         "skipcondition": [
@@ -399,6 +405,9 @@
             [
                 "uiName",
                 "heroPreviewChange"
+            ],
+            [
+                "anyComboSkill"
             ]
         ],
         "skipcondition": [
@@ -432,6 +441,9 @@
             [
                 "uiName",
                 "heroPreviewMain"
+            ],
+            [
+                "anyComboSkill"
             ]
         ],
         "skipcondition": [
@@ -808,7 +820,47 @@
             -133
         ]
     },
+    "2301": {
+        "closetime": 5,
+        "priority": 1,
+        "talk_adapt": 0,
+        "talk_anchors": 0,
+        "name": "summerPubEnterView",
+        "narrator_icon": "10144_split_1",
+        "id": 2301,
+        "talk_content": "来不及解释了，快继续探险吧！",
+        "narrator_name": "尼娅",
+        "guide_component": [
+            "exploreBtn_"
+        ],
+        "mask_component": [
+            "guideComponents",
+            "guide_Explore"
+        ],
+        "opencondition": [
+            [
+                "uiName",
+                "summerPubEnterView"
+            ],
+            [
+                "guide",
+                140
+            ],
+            [
+                "cookid",
+                4030001
+            ]
+        ],
+        "skipcondition": [],
+        "talk_position": [
+            -55,
+            -319.5
+        ]
+    },
     "get_id_list_by_name": {
+        "summerPubEnterView": [
+            2301
+        ],
         "tetrisGameStageView": [
             2201,
             2202
@@ -892,6 +944,7 @@
         2102,
         2103,
         2201,
-        2202
+        2202,
+        2301
     ]
 }

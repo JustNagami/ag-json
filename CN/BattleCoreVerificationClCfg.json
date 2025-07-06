@@ -1,0 +1,74 @@
+{
+    "3092001": {
+        "tips": "",
+        "name": "原点试验区·I",
+        "ai_level": 4,
+        "type": 88,
+        "monster_level": 80,
+        "map": "3092001",
+        "need_default_team": 0,
+        "id": 3092001,
+        "attribute_factor": [
+            1000,
+            1000,
+            23050
+        ],
+        "team_type": [
+            431,
+            1
+        ],
+        "recommend_team": [
+            1
+        ]
+    },
+    "3092002": {
+        "tips": "",
+        "name": "原点试验区·II",
+        "ai_level": 4,
+        "type": 88,
+        "monster_level": 80,
+        "map": "3092002",
+        "need_default_team": 0,
+        "id": 3092002,
+        "attribute_factor": [
+            1000,
+            1000,
+            18000
+        ],
+        "team_type": [
+            431,
+            2
+        ],
+        "recommend_team": [
+            3
+        ]
+    },
+    "3093001": {
+        "tips": "",
+        "name": "奇点递归·隐蛇之祸",
+        "ai_level": 4,
+        "type": 88,
+        "monster_level": 80,
+        "map": "3093001",
+        "need_default_team": 0,
+        "id": 3093001,
+        "attribute_factor": [
+            1000,
+            1000,
+            110670
+        ],
+        "team_type": [
+            431,
+            4
+        ],
+        "recommend_team": [
+            3,
+            5
+        ]
+    },
+    "all": [
+        3092001,
+        3092002,
+        3093001
+    ]
+}

@@ -690,6 +690,15 @@
         ],
         "spec_char": []
     },
+    "72": {
+        "param": "",
+        "id": 72,
+        "flow_name": "FlowScript/Equips/Equip72.asset",
+        "desc": [
+            600000072
+        ],
+        "spec_char": []
+    },
     "101": {
         "param": "",
         "id": 101,
@@ -958,6 +967,7 @@
         69,
         70,
         71,
+        72,
         101,
         103,
         104,

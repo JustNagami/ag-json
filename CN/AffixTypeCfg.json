@@ -15335,13 +15335,30 @@
         ]
     },
     "9692": {
-        "name": "神能强化",
+        "name": "输出强化",
         "affix_buff_id": 9692,
         "max_level": 1,
         "extra_description": "AFFIX_9692",
         "id": 9692,
         "description": [
             700009692
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "9693": {
+        "name": "输出强化",
+        "affix_buff_id": 9693,
+        "max_level": 1,
+        "extra_description": "AFFIX_9693",
+        "id": 9693,
+        "description": [
+            700009693
         ],
         "buffid": [],
         "base": [
@@ -17852,6 +17869,23 @@
             0
         ]
     },
+    "9950": {
+        "name": "破防",
+        "affix_buff_id": 9950,
+        "max_level": 3,
+        "extra_description": "AFFIX_9950",
+        "id": 9950,
+        "description": [
+            700009950
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
     "9961": {
         "name": "凝冰",
         "affix_buff_id": 9961,
@@ -17996,6 +18030,159 @@
         "id": 9969,
         "description": [
             700009969
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "9980": {
+        "name": "选项",
+        "affix_buff_id": 9980,
+        "max_level": 8,
+        "extra_description": "AFFIX_9980",
+        "id": 9980,
+        "description": [
+            700009980
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "9981": {
+        "name": "物耐性",
+        "affix_buff_id": 9981,
+        "max_level": 1,
+        "extra_description": "AFFIX_9981",
+        "id": 9981,
+        "description": [
+            700009981
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "9982": {
+        "name": "风耐性",
+        "affix_buff_id": 9982,
+        "max_level": 1,
+        "extra_description": "AFFIX_9982",
+        "id": 9982,
+        "description": [
+            700009982
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "9983": {
+        "name": "火耐性",
+        "affix_buff_id": 9983,
+        "max_level": 1,
+        "extra_description": "AFFIX_9983",
+        "id": 9983,
+        "description": [
+            700009983
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "9984": {
+        "name": "冰耐性",
+        "affix_buff_id": 9984,
+        "max_level": 1,
+        "extra_description": "AFFIX_9984",
+        "id": 9984,
+        "description": [
+            700009984
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "9985": {
+        "name": "水耐性",
+        "affix_buff_id": 9985,
+        "max_level": 1,
+        "extra_description": "AFFIX_9985",
+        "id": 9985,
+        "description": [
+            700009985
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "9986": {
+        "name": "暗耐性",
+        "affix_buff_id": 9986,
+        "max_level": 1,
+        "extra_description": "AFFIX_9986",
+        "id": 9986,
+        "description": [
+            700009986
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "9987": {
+        "name": "光耐性",
+        "affix_buff_id": 9987,
+        "max_level": 1,
+        "extra_description": "AFFIX_9987",
+        "id": 9987,
+        "description": [
+            700009987
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "9988": {
+        "name": "雷耐性",
+        "affix_buff_id": 9988,
+        "max_level": 1,
+        "extra_description": "AFFIX_9988",
+        "id": 9988,
+        "description": [
+            700009988
         ],
         "buffid": [],
         "base": [
@@ -21767,6 +21954,147 @@
             0
         ],
         "factor": [
+            0
+        ]
+    },
+    "70241": {
+        "name": "厚重的票夹",
+        "affix_buff_id": 70241,
+        "max_level": 1,
+        "extra_description": "AFFIX_70241",
+        "id": 70241,
+        "description": [
+            700070241
+        ],
+        "buffid": [
+            702411
+        ],
+        "base": [
+            0,
+            0,
+            0,
+            1000,
+            80,
+            0
+        ],
+        "factor": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "70242": {
+        "name": "工作时间表",
+        "affix_buff_id": 70242,
+        "max_level": 1,
+        "extra_description": "AFFIX_70242",
+        "id": 70242,
+        "description": [
+            700070242
+        ],
+        "buffid": [],
+        "base": [
+            0,
+            0,
+            0,
+            10000,
+            5,
+            0
+        ],
+        "factor": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "70243": {
+        "name": "金顶徽章",
+        "affix_buff_id": 70243,
+        "max_level": 1,
+        "extra_description": "AFFIX_70243",
+        "id": 70243,
+        "description": [
+            700070243
+        ],
+        "buffid": [
+            702431
+        ],
+        "base": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "factor": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "70244": {
+        "name": "景点明信片",
+        "affix_buff_id": 70244,
+        "max_level": 1,
+        "extra_description": "AFFIX_70244",
+        "id": 70244,
+        "description": [
+            700070244
+        ],
+        "buffid": [],
+        "base": [
+            0,
+            0,
+            0,
+            2000,
+            0,
+            0
+        ],
+        "factor": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "70245": {
+        "name": "多功能平光眼镜",
+        "affix_buff_id": 70245,
+        "max_level": 1,
+        "extra_description": "AFFIX_70245",
+        "id": 70245,
+        "description": [
+            700070245
+        ],
+        "buffid": [
+            702451
+        ],
+        "base": [
+            0,
+            0,
+            20000,
+            0,
+            0,
+            0
+        ],
+        "factor": [
+            0,
+            0,
+            0,
+            0,
+            0,
             0
         ]
     },
@@ -27879,6 +28207,237 @@
             0
         ]
     },
+    "72001": {
+        "name": "演算条约",
+        "affix_buff_id": 72001,
+        "max_level": 1,
+        "extra_description": "AFFIX_CORE_SEASON",
+        "id": 72001,
+        "description": [
+            700072001
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "72051": {
+        "name": "水穿透强化",
+        "affix_buff_id": 72051,
+        "max_level": 1,
+        "extra_description": "AFFIX_CORE_LEVEL",
+        "id": 72051,
+        "description": [
+            700072051
+        ],
+        "buffid": [
+            720511
+        ],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "72052": {
+        "name": "光穿透强化",
+        "affix_buff_id": 72052,
+        "max_level": 1,
+        "extra_description": "AFFIX_CORE_LEVEL",
+        "id": 72052,
+        "description": [
+            700072052
+        ],
+        "buffid": [
+            720521
+        ],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "72053": {
+        "name": "暗穿透强化",
+        "affix_buff_id": 72053,
+        "max_level": 1,
+        "extra_description": "AFFIX_CORE_LEVEL",
+        "id": 72053,
+        "description": [
+            700072053
+        ],
+        "buffid": [
+            720531
+        ],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "72151": {
+        "name": "破甲有利",
+        "affix_buff_id": 72151,
+        "max_level": 10,
+        "extra_description": "AFFIX_CORE_BUFF",
+        "id": 72151,
+        "description": [
+            700072151
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "72152": {
+        "name": "增伤强化",
+        "affix_buff_id": 72152,
+        "max_level": 10,
+        "extra_description": "AFFIX_CORE_BUFF",
+        "id": 72152,
+        "description": [
+            700072152
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "72153": {
+        "name": "神能有利",
+        "affix_buff_id": 72153,
+        "max_level": 10,
+        "extra_description": "AFFIX_CORE_BUFF",
+        "id": 72153,
+        "description": [
+            700072153
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "72154": {
+        "name": "普攻强化",
+        "affix_buff_id": 72154,
+        "max_level": 10,
+        "extra_description": "AFFIX_CORE_BUFF",
+        "id": 72154,
+        "description": [
+            700072154
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "72155": {
+        "name": "吞噬",
+        "affix_buff_id": 72155,
+        "max_level": 1,
+        "extra_description": "AFFIX_CORE_BUFF",
+        "id": 72155,
+        "description": [
+            700072155
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "72301": {
+        "name": "强化防御",
+        "affix_buff_id": 72301,
+        "max_level": 50,
+        "extra_description": "AFFIX_CORE_DEBUFF",
+        "id": 72301,
+        "description": [
+            700072301
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "72302": {
+        "name": "强化回复",
+        "affix_buff_id": 72302,
+        "max_level": 50,
+        "extra_description": "AFFIX_CORE_DEBUFF",
+        "id": 72302,
+        "description": [
+            700072302
+        ],
+        "buffid": [],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "72303": {
+        "name": "强化生命",
+        "affix_buff_id": 72303,
+        "max_level": 50,
+        "extra_description": "AFFIX_CORE_DEBUFF",
+        "id": 72303,
+        "description": [
+            700072303
+        ],
+        "buffid": [
+            723031
+        ],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
+    "72304": {
+        "name": "强化免伤",
+        "affix_buff_id": 72304,
+        "max_level": 50,
+        "extra_description": "AFFIX_CORE_DEBUFF",
+        "id": 72304,
+        "description": [
+            700072304
+        ],
+        "buffid": [
+            723041
+        ],
+        "base": [
+            0
+        ],
+        "factor": [
+            0
+        ]
+    },
     "all": [
         101,
         102,
@@ -28710,6 +29269,7 @@
         9686,
         9691,
         9692,
+        9693,
         9701,
         9702,
         9703,
@@ -28855,6 +29415,7 @@
         9946,
         9947,
         9948,
+        9950,
         9961,
         9962,
         9963,
@@ -28864,6 +29425,15 @@
         9967,
         9968,
         9969,
+        9980,
+        9981,
+        9982,
+        9983,
+        9984,
+        9985,
+        9986,
+        9987,
+        9988,
         18101,
         18102,
         18103,
@@ -29078,6 +29648,11 @@
         70238,
         70239,
         70240,
+        70241,
+        70242,
+        70243,
+        70244,
+        70245,
         70501,
         70502,
         70503,
@@ -29344,6 +29919,19 @@
         71436,
         71445,
         71446,
-        71456
+        71456,
+        72001,
+        72051,
+        72052,
+        72053,
+        72151,
+        72152,
+        72153,
+        72154,
+        72155,
+        72301,
+        72302,
+        72303,
+        72304
     ]
 }

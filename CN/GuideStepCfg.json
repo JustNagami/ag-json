@@ -11440,65 +11440,12 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 7201,
-        "talk_content": "「现时无返之途」活动已开启，管理员可在「终端笔记」自行制定当日日程。",
+        "talk_content": "「现时无返之途」活动已开启，参与活动可获取修正者「暗耀·薇儿丹蒂」及其钥从「妖精·洁萝露儿」。",
         "params": [],
         "guide_component": [
             "common",
             "spHeroChallengeMainView",
             [
-                "scheduleBtn_"
-            ]
-        ],
-        "mask_component": [],
-        "drag_guide_component": [],
-        "drag_mask_component": [],
-        "mask_scale": [
-            0.8,
-            0.8
-        ],
-        "talk_position": [
-            213,
-            -6
-        ]
-    },
-    "7202": {
-        "talk_anchors": 0,
-        "type": "ClickButton",
-        "talk_adapt": 0,
-        "is_finish": false,
-        "id": 7202,
-        "talk_content": "点击前往「终端笔记」，选择当日日程任务。",
-        "params": [],
-        "guide_component": [
-            "common",
-            "spHeroChallengeMainView",
-            [
-                "scheduleitem1Btn_"
-            ]
-        ],
-        "mask_component": [],
-        "drag_guide_component": [],
-        "drag_mask_component": [],
-        "mask_scale": [],
-        "talk_position": [
-            73,
-            398
-        ]
-    },
-    "7203": {
-        "talk_anchors": 0,
-        "type": "HighLight",
-        "talk_adapt": 0,
-        "is_finish": false,
-        "id": 7203,
-        "talk_content": "训练日程中显示了当前可供选择的日程任务，必须选择4项，需注意「协调训练」、「演绎行乐」中的关卡需要选择对应日程任务才能获取挑战次数。",
-        "params": [],
-        "guide_component": [
-            "common",
-            "spHeroChallengeScheduleView",
-            [
-                "scheduleTypePool",
-                1,
                 "gameObject_"
             ]
         ],
@@ -11507,23 +11454,78 @@
         "drag_mask_component": [],
         "mask_scale": [],
         "talk_position": [
-            -596,
-            -14
+            213,
+            -6
+        ]
+    },
+    "7202": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 7202,
+        "talk_content": "活动分为4个模块。在「故地重游」中，管理员可消耗指定道具接取委托获得「墨兰德流行纪念品」。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "spHeroChallengeMainView",
+            [
+                "entrustBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [
+            1.2,
+            1.2
+        ],
+        "talk_position": [
+            -151.7,
+            -56.8
+        ]
+    },
+    "7203": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 7203,
+        "talk_content": "在「演绎行乐」中，首次完成关卡挑战可获得一定数量的「墨兰德流行纪念品」。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "spHeroChallengeMainView",
+            [
+                "mysteryBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [
+            1.2,
+            1.2
+        ],
+        "talk_position": [
+            -151.7,
+            -56.8
         ]
     },
     "7204": {
         "talk_anchors": 0,
-        "type": "ClickButton",
+        "type": "HighLight",
         "talk_adapt": 0,
         "is_finish": false,
         "id": 7204,
-        "talk_content": "管理员也可以选择默认的日程安排。",
+        "talk_content": "在「闲暇时刻」中，每日参与小游戏可获得「墨兰德流行纪念品」与「砂之时」。",
         "params": [],
         "guide_component": [
             "common",
-            "spHeroChallengeScheduleView",
+            "spHeroChallengeMainView",
             [
-                "autoBtn_"
+                "guideComponents",
+                "guide_step1"
             ]
         ],
         "mask_component": [],
@@ -11532,7 +11534,7 @@
         "mask_scale": [],
         "talk_position": [
             556,
-            -236
+            -78.3
         ]
     },
     "7205": {
@@ -11541,37 +11543,40 @@
         "talk_adapt": 0,
         "is_finish": false,
         "id": 7205,
-        "talk_content": "全部日程任务完成后可获得额外的「墨兰德流行纪念品」。",
+        "talk_content": "在「协调训练」中，使用薇儿丹蒂进行战斗也可获得「墨兰德流行纪念品」。",
         "params": [],
         "guide_component": [
             "common",
-            "spHeroChallengeScheduleView",
+            "spHeroChallengeMainView",
             [
-                "commonitemGo_1"
+                "trainBtn_"
             ]
         ],
         "mask_component": [],
         "drag_guide_component": [],
         "drag_mask_component": [],
-        "mask_scale": [],
+        "mask_scale": [
+            1.2,
+            1.2
+        ],
         "talk_position": [
-            -323,
-            -182
+            188.9,
+            -100.2
         ]
     },
     "7206": {
         "talk_anchors": 0,
-        "type": "ClickButton",
+        "type": "HighLight",
         "talk_adapt": 0,
         "is_finish": false,
         "id": 7206,
-        "talk_content": "点击确认当日日程。",
+        "talk_content": "收集足够的「墨兰德流行纪念品」后，即可在「旧时墨兰德」中兑换钥从「妖精·洁萝露儿」等奖励。",
         "params": [],
         "guide_component": [
             "common",
-            "spHeroChallengeScheduleView",
+            "spHeroChallengeMainView",
             [
-                "confirmBtn_"
+                "shopBtn_"
             ]
         ],
         "mask_component": [],
@@ -11579,51 +11584,23 @@
         "drag_mask_component": [],
         "mask_scale": [],
         "talk_position": [
-            556,
-            -236
+            -313.5,
+            -299.2
         ]
     },
     "7207": {
         "talk_anchors": 0,
-        "type": "ClickButton",
-        "talk_adapt": 0,
-        "is_finish": false,
-        "id": 7207,
-        "talk_content": "点击「城间漫步」可切换至玩法入口列表。",
-        "params": [],
-        "guide_component": [
-            "common",
-            "spHeroChallengeMainView",
-            [
-                "miniGameBtn_"
-            ]
-        ],
-        "mask_component": [],
-        "drag_guide_component": [],
-        "drag_mask_component": [],
-        "mask_scale": [
-            0.8,
-            0.8
-        ],
-        "talk_position": [
-            -257,
-            -9
-        ]
-    },
-    "7208": {
-        "talk_anchors": 0,
         "type": "HighLight",
         "talk_adapt": 0,
         "is_finish": false,
-        "id": 7208,
-        "talk_content": "管理员可自行探索「城间漫步」中各个玩法。",
+        "id": 7207,
+        "talk_content": "完成「来时路」中的所有任务目标后，即可领取S级修正者「暗耀·薇儿丹蒂」。",
         "params": [],
         "guide_component": [
             "common",
             "spHeroChallengeMainView",
             [
-                "guideComponents",
-                "guide_7"
+                "heroChipBtn_"
             ]
         ],
         "mask_component": [],
@@ -11631,44 +11608,17 @@
         "drag_mask_component": [],
         "mask_scale": [],
         "talk_position": [
-            -28,
-            -17
+            516.81,
+            -281.6
         ]
     },
-    "7209": {
+    "7208": {
         "talk_anchors": 0,
         "type": "ClickButton",
         "talk_adapt": 0,
         "is_finish": false,
-        "id": 7209,
-        "talk_content": "点击返回「终端笔记」，完成当日日程任务。",
-        "params": [],
-        "guide_component": [
-            "common",
-            "spHeroChallengeMainView",
-            [
-                "scheduleBtn_"
-            ]
-        ],
-        "mask_component": [],
-        "drag_guide_component": [],
-        "drag_mask_component": [],
-        "mask_scale": [
-            0.8,
-            0.8
-        ],
-        "talk_position": [
-            -257,
-            -9
-        ]
-    },
-    "7210": {
-        "talk_anchors": 1,
-        "type": "ClickButton",
-        "talk_adapt": 1,
-        "is_finish": false,
-        "id": 7210,
-        "talk_content": "若是想了解更多关于「现时无返之途」相关的信息，就点开这里的说明手册进行查看吧。",
+        "id": 7208,
+        "talk_content": "点更详细的活动说明可以在这里查看。",
         "params": [],
         "guide_component": [
             "windowBar",
@@ -11679,8 +11629,8 @@
         "drag_mask_component": [],
         "mask_scale": [],
         "talk_position": [
-            692,
-            -218
+            -388.1,
+            294.2
         ]
     },
     "7301": {
@@ -17042,7 +16992,7 @@
         "mask_component": "",
         "is_finish": false,
         "id": 12318,
-        "talk_content": "积累了足够的处理进程，可以一项强化效果，先选择「初级交涉」吧。",
+        "talk_content": "积累了足够的处理进程，可以选择一项强化效果，先选择「初级交涉」吧。",
         "params": [],
         "guide_component": [
             "common",
@@ -17600,6 +17550,951 @@
             0
         ]
     },
+    "13901": {
+        "talk_anchors": 0,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 13901,
+        "talk_content": "刚刚的火球好像是来自这个方向……",
+        "params": [],
+        "guide_component": [
+            "common",
+            "summerPubStageView",
+            [
+                "stageItemList_",
+                1,
+                2,
+                "btn_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            340,
+            198
+        ]
+    },
+    "13902": {
+        "talk_anchors": 3,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 13902,
+        "talk_content": "啊！好像有一个女孩子，先找她问问情况吧。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "summerPubStageSectionView",
+            [
+                "battleBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -367,
+            234
+        ]
+    },
+    "14001": {
+        "talk_anchors": 0,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14001,
+        "talk_content": "管理员，看这边看这边！厨房在这里~",
+        "params": [],
+        "guide_component": [
+            "common",
+            "summerPubEnterView",
+            [
+                "cookBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -38,
+            -30.5
+        ]
+    },
+    "14002": {
+        "talk_anchors": 0,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14002,
+        "talk_content": "虽然不知道你打算做什么，不过食材和厨具我都帮你准备好了，尽情施展拳脚吧~",
+        "params": [],
+        "guide_component": [
+            "common",
+            "summerCookMenuView",
+            [
+                "btnStart_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            339.5,
+            -105
+        ]
+    },
+    "14101": {
+        "talk_anchors": 4,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14101,
+        "talk_content": "制作新料理需要收集食材，<color=#E78300>击败魔物们可以获得食材</color>。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "transform_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            682.8,
+            148.3
+        ]
+    },
+    "14102": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14102,
+        "talk_content": "控制泳者进行<color=#E78300>弹射碰撞</color>击败魔物吧！",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "guideComponents",
+                "guide_step_1"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            0
+        ]
+    },
+    "14103": {
+        "talk_anchors": 0,
+        "type": "BilliardGameDragStep",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14103,
+        "talk_content": "首先<color=#E78300>拖动</color>薇儿丹蒂发起攻击。",
+        "params": [
+            1,
+            -1
+        ],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "guideComponents",
+                "guide_step_6"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "guideComponents",
+                "guide_step_6"
+            ]
+        ],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            0
+        ]
+    },
+    "14104": {
+        "talk_anchors": 4,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14104,
+        "talk_content": "刚才碰撞过程中的<color=#E78300>爆炸效果</color>是薇儿丹蒂的<color=#E78300>被动技能</color>。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "transform_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            682.8,
+            148.3
+        ]
+    },
+    "14105": {
+        "talk_anchors": 4,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14105,
+        "talk_content": "每位泳者都拥有独特的技能效果。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "transform_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            682.8,
+            148.3
+        ]
+    },
+    "14106": {
+        "talk_anchors": 2,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14106,
+        "talk_content": "泳者们除了<color=#E78300>被动技能</color>外还拥有<color=#E78300>主动技能</color>。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "heroModuleObj1_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -679.4,
+            -372.5
+        ]
+    },
+    "14107": {
+        "talk_anchors": 2,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14107,
+        "talk_content": "主动技能效果更强，但也需要消耗泳者们的体力。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "guideComponents",
+                "guide_step_3"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -679.4,
+            -372.5
+        ]
+    },
+    "14108": {
+        "talk_anchors": 2,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14108,
+        "talk_content": "需要有足够的<color=#E78300>食物</color>才能释放主动技能。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "hungryModuleObj_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -679.4,
+            -314.6
+        ]
+    },
+    "14109": {
+        "talk_anchors": 2,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14109,
+        "talk_content": "每个回合开始时都会补充新的食物。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "hungryModuleObj_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -679.4,
+            -314.6
+        ]
+    },
+    "14110": {
+        "talk_anchors": 2,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14110,
+        "talk_content": "<color=#E78300>长按头像</color>可以查看泳者的技能。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "heroModuleObj1_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -679.4,
+            -372.5
+        ]
+    },
+    "14111": {
+        "talk_anchors": 2,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14111,
+        "talk_content": "点击泳者头像就可以发动主动技能啦！",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "guideComponents",
+                "guide_step_5"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -679.4,
+            -802.7
+        ]
+    },
+    "14201": {
+        "talk_anchors": 4,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14201,
+        "talk_content": "关卡中往往有<color=#E78300>不止一波魔物</color>。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "transform_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            682.8,
+            148.3
+        ]
+    },
+    "14202": {
+        "talk_anchors": 4,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14202,
+        "talk_content": "新的回合开始时，会出现新波次的魔物。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "transform_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            682.8,
+            148.3
+        ]
+    },
+    "14203": {
+        "talk_anchors": 4,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14203,
+        "talk_content": "<color=#E78300>消灭所有魔物</color>后即可取的胜利。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "transform_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            682.8,
+            148.3
+        ]
+    },
+    "14204": {
+        "talk_anchors": 1,
+        "type": "ClickButton",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14204,
+        "talk_content": "点击这里可以查看关卡的胜利目标。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "questModule_",
+                "lookBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            444.98,
+            -499
+        ]
+    },
+    "14205": {
+        "talk_anchors": 1,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14205,
+        "talk_content": "如果<color=#E78300>所有泳者都被击败</color>，战斗就会失败。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "questModule_",
+                "gameObject_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            444.98,
+            -499
+        ]
+    },
+    "14206": {
+        "talk_anchors": 4,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14206,
+        "talk_content": "下面请管理员指挥泳者消灭所有魔物取得胜利吧！",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "transform_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            682.8,
+            148.3
+        ]
+    },
+    "14301": {
+        "talk_anchors": 1,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14301,
+        "talk_content": "这次<color=#E78300>关卡目标</color>和之前的有点不太一样。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "questModule_",
+                "gameObject_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            444.98,
+            -499
+        ]
+    },
+    "14302": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14302,
+        "talk_content": "泳者们需要<color=#E78300>保护「力量源泉！」4个回合</color>。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "guideComponents",
+                "guide_step_4"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            111.86,
+            -21.49
+        ]
+    },
+    "14303": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14303,
+        "talk_content": "在此期间，魔物们会源源不断地发起进攻。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "guideComponents",
+                "guide_step_4"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            111.86,
+            -21.49
+        ]
+    },
+    "14304": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14304,
+        "talk_content": "如果<color=#E78300>「力量源泉！」被魔物们摧毁</color>，战斗就会失败。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "guideComponents",
+                "guide_step_4"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            111.86,
+            -21.49
+        ]
+    },
+    "14305": {
+        "talk_anchors": 4,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14305,
+        "talk_content": "请管理员指挥泳者消灭魔物，保护「力量源泉！」吧！",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "transform_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            682.8,
+            148.3
+        ]
+    },
+    "14401": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14401,
+        "talk_content": "「力量源泉！」<color=#E78300>每隔3回合</color>会为泳者们提供强力的<color=#E78300>增益效果</color>。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "guideComponents",
+                "guide_step_4"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            111.86,
+            -21.49
+        ]
+    },
+    "14402": {
+        "talk_anchors": 2,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14402,
+        "talk_content": "泳者们的属性将获得提升。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "guideComponents",
+                "guide_step_5"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -730.58,
+            -540
+        ]
+    },
+    "14403": {
+        "talk_anchors": 2,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14403,
+        "talk_content": "同时可以不消耗食物释放一次主动技能。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "guideComponents",
+                "guide_step_5"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -730.58,
+            -540
+        ]
+    },
+    "14404": {
+        "talk_anchors": 4,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14404,
+        "talk_content": "利用这个时机对魔物们发起反击吧！",
+        "params": [],
+        "guide_component": [
+            "common",
+            "billiardGameMainView",
+            [
+                "transform_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            682.8,
+            148.3
+        ]
+    },
+    "14501": {
+        "talk_anchors": 1,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14501,
+        "talk_content": "管理员，新的测试也要拜托你了。这次测试有新的规则，将对所有测试内容生效。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "coreVerificationEnterStageView",
+            [
+                "seasonBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            498.9423,
+            -351
+        ]
+    },
+    "14502": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14502,
+        "talk_content": "完成原点试验区之后我会调整参数，增强你的队伍。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "coreVerificationEnterStageView",
+            [
+                "commonItems",
+                1,
+                "btn_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -374,
+            -241
+        ]
+    },
+    "14503": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14503,
+        "talk_content": "调整参数之后的队伍可以在奇点递归中完成更多挑战，拿到更高分数。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "coreVerificationEnterStageView",
+            [
+                "guideComponents",
+                "guide_introduce1"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            0,
+            -360
+        ]
+    },
+    "14504": {
+        "talk_anchors": 3,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14504,
+        "talk_content": "我会把已完成的特殊挑战成就放在这里，算是作为一个记录吧。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "coreVerificationEnterStageView",
+            [
+                "illustratedBtn_"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            -379,
+            243
+        ]
+    },
+    "14601": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14601,
+        "talk_content": "补充说明一下，这些测试词缀可以在关卡内提升等级。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "coreVerificationCommonStageView",
+            [
+                "guideComponents",
+                "guide_introduce1"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            32,
+            -200
+        ]
+    },
+    "14602": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14602,
+        "talk_content": "原点试验区的词缀效果会在关卡内生效，通关后可以在奇点递归中使用。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "coreVerificationCommonStageView",
+            [
+                "guideComponents",
+                "guide_introduce2"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            32,
+            -200
+        ]
+    },
+    "14701": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14701,
+        "talk_content": "奇点递归中的测试词缀需要通关原点试验区解锁，增益词缀的等级可以通过原点试验区进行升级。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "coreVerificationChallengeStageView",
+            [
+                "guideComponents",
+                "guide_introduce1"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            30,
+            -430
+        ]
+    },
+    "14702": {
+        "talk_anchors": 0,
+        "type": "HighLight",
+        "talk_adapt": 0,
+        "is_finish": false,
+        "id": 14702,
+        "talk_content": "选择不同的词缀会改变积分效率，积分词缀中的环境是挑战目标，会给你更高的分数。一切就拜托你了。",
+        "params": [],
+        "guide_component": [
+            "common",
+            "coreVerificationChallengeStageView",
+            [
+                "guideComponents",
+                "guide_introduce2"
+            ]
+        ],
+        "mask_component": [],
+        "drag_guide_component": [],
+        "drag_mask_component": [],
+        "mask_scale": [],
+        "talk_position": [
+            450,
+            -324
+        ]
+    },
     "all": [
         101,
         102,
@@ -18056,8 +18951,6 @@
         7206,
         7207,
         7208,
-        7209,
-        7210,
         7301,
         7302,
         7303,
@@ -18290,6 +19183,44 @@
         12606,
         12607,
         12608,
-        12609
+        12609,
+        13901,
+        13902,
+        14001,
+        14002,
+        14101,
+        14102,
+        14103,
+        14104,
+        14105,
+        14106,
+        14107,
+        14108,
+        14109,
+        14110,
+        14111,
+        14201,
+        14202,
+        14203,
+        14204,
+        14205,
+        14206,
+        14301,
+        14302,
+        14303,
+        14304,
+        14305,
+        14401,
+        14402,
+        14403,
+        14404,
+        14501,
+        14502,
+        14503,
+        14504,
+        14601,
+        14602,
+        14701,
+        14702
     ]
 }

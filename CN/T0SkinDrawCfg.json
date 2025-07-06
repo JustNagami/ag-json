@@ -120,11 +120,37 @@
             "Widget/Version/T0_102003/T0_102003_SkinPoolSingle/T0_102003_SkinPoolSingle_movie"
         ]
     },
+    "3522101": {
+        "taskUI": "Widget/Version/T0_109502/T0_109502_SkinPoolDuty",
+        "taskCurrency": 53183,
+        "activityTaskId": 3500406,
+        "drawPopSingleUI": "Widget/Version/T0_109502/T0_109502_SkinPoolSingle/T0_109502_SkinPoolSingle",
+        "drawEndUI": "Widget/Version/T0_109502/T0_109502_SkinPoolTenTimes",
+        "drawInfoUI": "Widget/System/Pool/PoolInfoPopUI",
+        "enterItem": "Widget/Version/T0_109502/T0_109502_SkinPoolEnter",
+        "drawStartUI": "Widget/Version/T0_109502/T0_109502_SkinPoolDrawCards/T0_109502_SkinPoolDrawCards",
+        "exchangeUI": "Widget/Version/T0_109502/T0_109502_SkinPoolExchangePop",
+        "mainUI": "Widget/Version/T0_109502/T0_109502_SkinPoolMain",
+        "activityId": 3522101,
+        "poolList": [
+            1012,
+            1013,
+            1014
+        ],
+        "drawEffectUI": [
+            "Widget/Version/T0_109502/T0_109502_SkinPoolSingle/T0_109502_SkinPoolSingle_blue",
+            "Widget/Version/T0_109502/T0_109502_SkinPoolSingle/T0_109502_SkinPoolSingle_purple",
+            "Widget/Version/T0_109502/T0_109502_SkinPoolSingle/T0_109502_SkinPoolSingle_golden",
+            "Widget/Version/T0_109502/T0_109502_SkinPoolSingle/T0_109502_SkinPoolSingle_special",
+            "Widget/Version/T0_109502/T0_109502_SkinPoolSingle/T0_109502_SkinPoolSingle_movie"
+        ]
+    },
     "all": [
         182211,
         272211,
         292211,
         312211,
-        332211
+        332211,
+        3522101
     ]
 }

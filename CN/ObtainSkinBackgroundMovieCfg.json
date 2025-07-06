@@ -54,6 +54,25 @@
             "SofdecAsset/activity/activity_102003_idle_loop02.usm"
         ]
     },
+    "3522201": {
+        "id": 3522201,
+        "start_path": [
+            "SofdecAsset/activity/activity_109502_day_loop.usm",
+            "SofdecAsset/activity/activity_109502_night_loop.usm"
+        ]
+    },
+    "3522202": {
+        "id": 3522202,
+        "start_path": [
+            "SofdecAsset/activity/activity_109502_day_loop.usm"
+        ]
+    },
+    "3522203": {
+        "id": 3522203,
+        "start_path": [
+            "SofdecAsset/activity/activity_109502_night_loop.usm"
+        ]
+    },
     "all": [
         182211,
         272211,
@@ -62,6 +81,9 @@
         292223,
         312211,
         332221,
-        332222
+        332222,
+        3522201,
+        3522202,
+        3522203
     ]
 }

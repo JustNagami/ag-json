@@ -759,6 +759,46 @@
             0.66
         ]
     },
+    "1047": {
+        "hero_view_height": 5,
+        "offset": -1.24,
+        "id": 1047,
+        "position_main": [
+            -2.175,
+            0,
+            12.235
+        ],
+        "rotation_main": [
+            0,
+            0,
+            0
+        ],
+        "scale_main": [
+            1,
+            1,
+            1
+        ],
+        "position_chat": [
+            -2.46,
+            0,
+            12.235
+        ],
+        "position_playerInfo": [
+            -2.46,
+            0,
+            12.235
+        ],
+        "position_scene_6100": [
+            -2.767,
+            1.145,
+            14.844
+        ],
+        "rotation_scene_6100": [
+            3.811,
+            -11.247,
+            0.877
+        ]
+    },
     "1048": {
         "hero_view_height": 2,
         "offset": -1.24,
@@ -4639,6 +4679,126 @@
             0
         ]
     },
+    "10610300": {
+        "hero_view_height": 0,
+        "offset": 0,
+        "id": 10610300,
+        "position_main": [
+            0,
+            0,
+            0
+        ],
+        "rotation_main": [
+            0,
+            0,
+            0
+        ],
+        "scale_main": [
+            1,
+            1,
+            1
+        ],
+        "position_chat": [
+            0,
+            0,
+            0
+        ],
+        "position_playerInfo": [
+            0,
+            0,
+            0
+        ],
+        "position_scene_6100": [
+            0,
+            0,
+            0
+        ],
+        "rotation_scene_6100": [
+            0,
+            0,
+            0
+        ]
+    },
+    "10470100": {
+        "hero_view_height": 0,
+        "offset": 0,
+        "id": 10470100,
+        "position_main": [
+            0,
+            0,
+            0
+        ],
+        "rotation_main": [
+            0,
+            0,
+            0
+        ],
+        "scale_main": [
+            1,
+            1,
+            1
+        ],
+        "position_chat": [
+            0,
+            0,
+            0
+        ],
+        "position_playerInfo": [
+            0,
+            0,
+            0
+        ],
+        "position_scene_6100": [
+            0,
+            0,
+            0
+        ],
+        "rotation_scene_6100": [
+            0,
+            0,
+            0
+        ]
+    },
+    "12840400": {
+        "hero_view_height": 0,
+        "offset": 0,
+        "id": 12840400,
+        "position_main": [
+            0,
+            0,
+            0
+        ],
+        "rotation_main": [
+            0,
+            0,
+            0
+        ],
+        "scale_main": [
+            1,
+            1,
+            1
+        ],
+        "position_chat": [
+            0,
+            0,
+            0
+        ],
+        "position_playerInfo": [
+            0,
+            0,
+            0
+        ],
+        "position_scene_6100": [
+            0,
+            0,
+            0
+        ],
+        "rotation_scene_6100": [
+            0,
+            0,
+            0
+        ]
+    },
     "all": [
         1011,
         1012,
@@ -4659,6 +4819,7 @@
         1039,
         1041,
         1042,
+        1047,
         1048,
         1049,
         1050,
@@ -4755,6 +4916,9 @@
         1045,
         1046,
         10460100,
-        10450100
+        10450100,
+        10610300,
+        10470100,
+        12840400
     ]
 }

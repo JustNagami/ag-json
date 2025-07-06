@@ -23,10 +23,45 @@
         "name": "战术应用",
         "type": 2
     },
+    "3500401": {
+        "icon": "",
+        "activity_id": 3500401,
+        "name": "冒险进程",
+        "type": 1
+    },
+    "3500402": {
+        "icon": "TextureConfig/Activity_SummerPub/tabicon/SummerPub_tabicon_00001",
+        "activity_id": 3500402,
+        "name": "孤岛探秘",
+        "type": 2
+    },
+    "3500403": {
+        "icon": "TextureConfig/Activity_SummerPub/tabicon/SummerPub_tabicon_00002",
+        "activity_id": 3500403,
+        "name": "泳者之旅",
+        "type": 2
+    },
+    "3500404": {
+        "icon": "TextureConfig/Activity_SummerPub/tabicon/SummerPub_tabicon_00003",
+        "activity_id": 3500404,
+        "name": "料理研发",
+        "type": 2
+    },
+    "3500405": {
+        "icon": "TextureConfig/Activity_SummerPub/tabicon/SummerPub_tabicon_00004",
+        "activity_id": 3500405,
+        "name": "成员招募",
+        "type": 2
+    },
     "all": [
         330043,
         330044,
         330045,
-        330046
+        330046,
+        3500401,
+        3500402,
+        3500403,
+        3500404,
+        3500405
     ]
 }

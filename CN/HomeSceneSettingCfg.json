@@ -825,6 +825,75 @@
         ],
         "obtain_way": []
     },
+    "6038": {
+        "action_suffix": "",
+        "title": "夏月夜",
+        "desc": "夜晚的海风逐渐吹去了日间的燥热，在星空之下的沙滩，薇儿看向你时眼中的光比星星更加耀眼。",
+        "obtain_word": "",
+        "scene_trial": 0,
+        "limit_display": 0,
+        "prefix_dlc": "",
+        "can_interrupt_current_anim_switch_camera": 0,
+        "light_effect": "",
+        "unlock_description": "",
+        "prefix": "X331",
+        "light_effect_delay": "",
+        "id": 6038,
+        "default_music": 0,
+        "can_loop_switch_camera": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [
+            1
+        ],
+        "obtain_way": []
+    },
+    "6039": {
+        "action_suffix": "",
+        "title": "悠闲盛夏",
+        "desc": "在游艇上和执明随波晃荡度过一天，除了不知何时会咬钩的鱼之外，难得没有任何事情需要担心。",
+        "obtain_word": "",
+        "scene_trial": 0,
+        "limit_display": 0,
+        "prefix_dlc": "",
+        "can_interrupt_current_anim_switch_camera": 0,
+        "light_effect": "",
+        "unlock_description": "",
+        "prefix": "X332",
+        "light_effect_delay": "",
+        "id": 6039,
+        "default_music": 0,
+        "can_loop_switch_camera": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [
+            1
+        ],
+        "obtain_way": []
+    },
+    "6040": {
+        "action_suffix": "",
+        "title": "吸引力法则",
+        "desc": "冰块在玻璃杯中碰撞发出的声响，沿着皮肤落下的水珠，坐在泳池边的塞尔凯特和你目光交汇了。",
+        "obtain_word": "",
+        "scene_trial": 0,
+        "limit_display": 0,
+        "prefix_dlc": "",
+        "can_interrupt_current_anim_switch_camera": 0,
+        "light_effect": "",
+        "unlock_description": "",
+        "prefix": "X333",
+        "light_effect_delay": "",
+        "id": 6040,
+        "default_music": 0,
+        "can_loop_switch_camera": 0,
+        "impact": [],
+        "scene_tag": [],
+        "scene_setting": [
+            1
+        ],
+        "obtain_way": []
+    },
     "6100": {
         "action_suffix": "",
         "title": "作战中心大厅",
@@ -878,7 +947,10 @@
             6033,
             6034,
             6036,
-            6037
+            6037,
+            6038,
+            6039,
+            6040
         ],
         "1": [
             6000,
@@ -924,6 +996,9 @@
         6034,
         6036,
         6037,
+        6038,
+        6039,
+        6040,
         6100
     ]
 }

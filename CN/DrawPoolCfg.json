@@ -177,7 +177,8 @@
             3001353,
             3001366,
             3001375,
-            3001385
+            3001385,
+            3001396
         ],
         "cost_once": [
             19,
@@ -3667,7 +3668,9 @@
             3001367,
             3001368,
             3001376,
-            3001377
+            3001377,
+            3001397,
+            3001398
         ],
         "cost_once": [
             5,
@@ -6946,7 +6949,20 @@
             3001371,
             3001372,
             3001373,
-            3001374
+            3001374,
+            3001379,
+            3001380,
+            3001381,
+            3001382,
+            3001383,
+            3001384,
+            3001389,
+            3001390,
+            3001391,
+            3001392,
+            3001393,
+            3001394,
+            3001395
         ],
         "cost_once": [
             38,
@@ -8112,6 +8128,275 @@
             10
         ]
     },
+    "4030601": {
+        "pool_change": 0,
+        "optional_lists": "",
+        "pool_type": 6,
+        "optional_detail": "",
+        "is_grid_select": 0,
+        "pool_draw_range_type": 6,
+        "optional_lists_a": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_9",
+        "detail_note": "",
+        "pool_show_type": 6,
+        "order": 1,
+        "name": "洞穿谎言之刃",
+        "pool_selected_type": 3,
+        "exchange_id": 6000003,
+        "optional_lists_poolId": "",
+        "discount": 100,
+        "id": 4030601,
+        "unoption_up_items": [
+            [
+                1047
+            ],
+            []
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001389,
+            3001390,
+            3001391,
+            3001392,
+            3001393,
+            3001394,
+            3001395
+        ],
+        "cost_once": [
+            38,
+            1
+        ],
+        "cost_ten_times": [
+            38,
+            10
+        ],
+        "cost_once_activity_material": [
+            62,
+            1
+        ],
+        "cost_ten_times_activity_material": [
+            62,
+            10
+        ]
+    },
+    "4030301": {
+        "pool_change": 0,
+        "optional_lists": "",
+        "pool_type": 3,
+        "optional_detail": "",
+        "is_grid_select": 0,
+        "pool_draw_range_type": 3,
+        "optional_lists_a": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_8",
+        "detail_note": "",
+        "pool_show_type": 3,
+        "order": 1,
+        "name": "洞穿谎言之刃",
+        "pool_selected_type": 1,
+        "exchange_id": 6000003,
+        "optional_lists_poolId": "",
+        "discount": 100,
+        "id": 4030301,
+        "unoption_up_items": [
+            [
+                1047
+            ],
+            []
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001389,
+            3001390,
+            3001391,
+            3001392,
+            3001393,
+            3001394,
+            3001395
+        ],
+        "cost_once": [
+            38,
+            1
+        ],
+        "cost_ten_times": [
+            38,
+            10
+        ],
+        "cost_once_activity_material": [
+            62,
+            1
+        ],
+        "cost_ten_times_activity_material": [
+            62,
+            10
+        ]
+    },
+    "4030302": {
+        "pool_change": 0,
+        "optional_lists": "",
+        "pool_type": 3,
+        "optional_detail": "",
+        "is_grid_select": 0,
+        "pool_draw_range_type": 3,
+        "optional_lists_a": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_8",
+        "detail_note": "",
+        "pool_show_type": 3,
+        "order": 2,
+        "name": "致现在的你",
+        "pool_selected_type": 1,
+        "exchange_id": 6000003,
+        "optional_lists_poolId": "",
+        "discount": 100,
+        "id": 4030302,
+        "unoption_up_items": [
+            [
+                1284
+            ],
+            []
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001389,
+            3001390,
+            3001391,
+            3001392,
+            3001393,
+            3001394,
+            3001395
+        ],
+        "cost_once": [
+            38,
+            1
+        ],
+        "cost_ten_times": [
+            38,
+            10
+        ],
+        "cost_once_activity_material": [
+            62,
+            1
+        ],
+        "cost_ten_times_activity_material": [
+            62,
+            10
+        ]
+    },
+    "4030303": {
+        "pool_change": 0,
+        "optional_lists": "",
+        "pool_type": 3,
+        "optional_detail": "",
+        "is_grid_select": 0,
+        "pool_draw_range_type": 3,
+        "optional_lists_a": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_8",
+        "detail_note": "",
+        "pool_show_type": 3,
+        "order": 2,
+        "name": "丝与刃之歌",
+        "pool_selected_type": 1,
+        "exchange_id": 6000003,
+        "optional_lists_poolId": "",
+        "discount": 100,
+        "id": 4030303,
+        "unoption_up_items": [
+            [
+                1095
+            ],
+            []
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001389,
+            3001390,
+            3001391,
+            3001392,
+            3001393,
+            3001394,
+            3001395
+        ],
+        "cost_once": [
+            38,
+            1
+        ],
+        "cost_ten_times": [
+            38,
+            10
+        ],
+        "cost_once_activity_material": [
+            62,
+            1
+        ],
+        "cost_ten_times_activity_material": [
+            62,
+            10
+        ]
+    },
+    "4030101": {
+        "pool_change": 0,
+        "pool_type": 1,
+        "is_grid_select": 0,
+        "pool_draw_range_type": 1,
+        "optional_lists_a": "",
+        "draw_pool_desc": "DRAW_POOL_DESC_TEMP_11",
+        "detail_note": "",
+        "pool_show_type": 1,
+        "order": 3,
+        "name": "选择修正者",
+        "pool_selected_type": 2,
+        "exchange_id": 6000001,
+        "discount": 100,
+        "id": 4030101,
+        "unoption_up_items": [
+            [],
+            []
+        ],
+        "optional_detail": [
+            1094,
+            1070,
+            1138
+        ],
+        "optional_lists_poolId": [
+            1094,
+            1070,
+            1138
+        ],
+        "optional_lists": [
+            1094,
+            1070,
+            1138
+        ],
+        "excluded_group": [
+            [],
+            []
+        ],
+        "recharge_shop_list": [
+            3001397,
+            3001398
+        ],
+        "cost_once": [
+            5,
+            1
+        ],
+        "cost_ten_times": [
+            5,
+            10
+        ],
+        "cost_once_activity_material": [],
+        "cost_ten_times_activity_material": []
+    },
     "all": [
         10000,
         2060604,
@@ -8163,6 +8448,8 @@
         4020301,
         4020601,
         4020101,
+        4030601,
+        4030301,
         10003,
         10013,
         10023,
@@ -8208,6 +8495,8 @@
         4010303,
         4020302,
         4020602,
+        4030302,
+        4030303,
         10001,
         10011,
         10021,
@@ -8247,6 +8536,7 @@
         3110303,
         4000303,
         4020303,
+        4030101,
         10121,
         10131,
         10181,

@@ -428,6 +428,21 @@
             341001
         ]
     },
+    "3510001": {
+        "story_id": 0,
+        "id": 3510001,
+        "reprint_field": "",
+        "prefab_path": "Widget/System/Activity_Resident/Activity_MainUI",
+        "theme": 35,
+        "day_list": [],
+        "icon_list": [
+            "but_Internal_guitu"
+        ],
+        "jump_system": [
+            19001,
+            3510001
+        ]
+    },
     "get_id_list_by_theme": {
         "5": [
             500
@@ -507,6 +522,9 @@
         "34": [
             341001
         ],
+        "35": [
+            3510001
+        ],
         "106": [
             1061001
         ]
@@ -538,6 +556,7 @@
         311001,
         321001,
         331001,
-        341001
+        341001,
+        3510001
     ]
 }

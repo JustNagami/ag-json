@@ -79,6 +79,11 @@
         "reward_ui_path": "Widget/System/Activity_Resident/ActivityReceivedUI/ActivityReceivedPopUI",
         "main_ui_path": "Widget/System/Activity_Resident/ActivityReceivedUI/ActivityReceivedUI"
     },
+    "35": {
+        "activity_theme": 35,
+        "reward_ui_path": "Widget/System/Activity_Resident/ActivityReceivedUI/ActivityReceivedPopUI",
+        "main_ui_path": "Widget/System/Activity_Resident/ActivityReceivedUI/ActivityReceivedUI"
+    },
     "all": [
         14,
         17,
@@ -95,6 +100,7 @@
         31,
         32,
         33,
-        34
+        34,
+        35
     ]
 }

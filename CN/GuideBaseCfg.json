@@ -1443,103 +1443,6 @@
         "ignore_group_condition": [],
         "leaps": []
     },
-    "57": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 57,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            5701,
-            5702,
-            5703,
-            5704,
-            5705,
-            5706,
-            5707,
-            5708
-        ],
-        "open_condition": [
-            [
-                "uiNameList",
-                [
-                    "strongholdMain"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "59": {
-        "narrator_name": "禄良",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 59,
-        "narrator_icon": "1072",
-        "is_no_home": false,
-        "steps": [
-            5901,
-            5902,
-            5903,
-            5904,
-            5905,
-            5906,
-            5907,
-            5908,
-            5909,
-            5910,
-            5911,
-            5912,
-            5913,
-            5914,
-            5915,
-            5916,
-            5917,
-            5918,
-            5919,
-            5920,
-            5921,
-            5922,
-            5923,
-            5924,
-            5925,
-            5926,
-            5927,
-            5928,
-            5929,
-            5930,
-            5931,
-            5932,
-            5933,
-            5934,
-            5935,
-            5936,
-            5937,
-            5938,
-            5939,
-            5940,
-            5941,
-            5942,
-            5943
-        ],
-        "open_condition": [
-            [
-                "activityId",
-                222661
-            ],
-            [
-                "uiNameList",
-                [
-                    "CombineGameMainView"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
     "60": {
         "narrator_name": "弥弥尔",
         "group": 0,
@@ -1784,60 +1687,6 @@
         "ignore_group_condition": [],
         "leaps": []
     },
-    "67": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 67,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            6701,
-            6702,
-            6703
-        ],
-        "open_condition": [
-            [
-                "uiNameList",
-                [
-                    "activityReforgeChapterView"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "68": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 68,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            6801,
-            6802,
-            6803,
-            6804,
-            6805,
-            6806,
-            6807,
-            6808,
-            6809
-        ],
-        "open_condition": [
-            [
-                "uiNameList",
-                [
-                    "activityReforgeWaveView"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
     "70": {
         "narrator_name": "弥弥尔",
         "group": 0,
@@ -1917,9 +1766,7 @@
             7205,
             7206,
             7207,
-            7208,
-            7209,
-            7210
+            7208
         ],
         "open_condition": [
             [
@@ -2052,217 +1899,6 @@
         "ignore_group_condition": [],
         "leaps": []
     },
-    "77": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 77,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            7701,
-            7702,
-            7703,
-            7704,
-            7705,
-            7706,
-            7707,
-            7708,
-            7709,
-            7710,
-            7711,
-            7712,
-            7713,
-            7714,
-            7715,
-            7716,
-            7717
-        ],
-        "open_condition": [
-            [
-                "activityId",
-                283181
-            ],
-            [
-                "uiNameList",
-                [
-                    "activitySummerSimBusinessMain"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "78": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 78,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            7801,
-            7802,
-            7803,
-            7804,
-            7805,
-            7806,
-            7807,
-            7808,
-            7809,
-            7810
-        ],
-        "open_condition": [
-            [
-                "activityId",
-                283181
-            ],
-            [
-                "uiName",
-                "activitySummerSimBusinessMain"
-            ],
-            [
-                "uiParam",
-                "stageID",
-                107
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "79": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 79,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            7901,
-            7902,
-            7903,
-            7904,
-            7905,
-            7906,
-            7907
-        ],
-        "open_condition": [
-            [
-                "activityId",
-                283181
-            ],
-            [
-                "uiName",
-                "activitySummerSimBusinessMain"
-            ],
-            [
-                "uiParam",
-                "stageID",
-                103
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "80": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 80,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            8001,
-            8002,
-            8003,
-            8004,
-            8005,
-            8006
-        ],
-        "open_condition": [
-            [
-                "activityId",
-                283181
-            ],
-            [
-                "uiName",
-                "activitySummerSimBusinessMain"
-            ],
-            [
-                "uiParam",
-                "stageID",
-                106
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "81": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 81,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            8101,
-            8102,
-            8103,
-            8104,
-            8105
-        ],
-        "open_condition": [
-            [
-                "activityId",
-                283181
-            ],
-            [
-                "uiName",
-                "activitySummerSimBusinessMain"
-            ],
-            [
-                "uiParam",
-                "stageID",
-                108
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "82": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 82,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            8201,
-            8202,
-            8203,
-            8204
-        ],
-        "open_condition": [
-            [
-                "activityId",
-                293231
-            ],
-            [
-                "uiNameList",
-                [
-                    "tetrisGameMainView"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
     "83": {
         "narrator_name": "弥弥尔",
         "group": 0,
@@ -2285,56 +1921,6 @@
             ],
             [
                 "selfSticker"
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "84": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 84,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            8401,
-            8402,
-            8403
-        ],
-        "open_condition": [
-            [
-                "idolCompetition"
-            ],
-            [
-                "uiNameList",
-                [
-                    "idolCompetitionMain"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "85": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 85,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            8501,
-            8502
-        ],
-        "open_condition": [
-            [
-                "uiNameList",
-                [
-                    "idolCompetitionSign"
-                ]
             ]
         ],
         "skip_condition": [],
@@ -2575,42 +2161,6 @@
             ]
         ]
     },
-    "100": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 100,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            10001,
-            10002,
-            10003,
-            10004,
-            10005,
-            10006,
-            10007,
-            10008,
-            10009,
-            10010,
-            10011
-        ],
-        "open_condition": [
-            [
-                "activityId",
-                293425
-            ],
-            [
-                "uiNameList",
-                [
-                    "AreaBattleMapView"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
     "101": {
         "narrator_name": "弥弥尔",
         "group": 0,
@@ -2704,251 +2254,6 @@
         "ignore_group_condition": [],
         "leaps": []
     },
-    "105": {
-        "narrator_name": "禄良",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 105,
-        "narrator_icon": "1072",
-        "is_no_home": false,
-        "steps": [
-            10501,
-            10502
-        ],
-        "open_condition": [
-            [
-                "qworldFunction",
-                31146101
-            ],
-            [
-                "uiNameList",
-                [
-                    "qworldMainHome"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "106": {
-        "narrator_name": "孟章",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 106,
-        "narrator_icon": "1071",
-        "is_no_home": false,
-        "steps": [
-            10601,
-            10602,
-            10603
-        ],
-        "open_condition": [
-            [
-                "playerLevel",
-                35
-            ],
-            [
-                "uiNameList",
-                [
-                    "activityAutoCookMainView"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "107": {
-        "narrator_name": "金乌",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 107,
-        "narrator_icon": "1070",
-        "is_no_home": false,
-        "steps": [
-            10701,
-            10702
-        ],
-        "open_condition": [
-            [
-                "qworldFunction",
-                31361101
-            ],
-            [
-                "uiNameList",
-                [
-                    "qworldMainHome"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "108": {
-        "narrator_name": "桌游店店长",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 108,
-        "narrator_icon": "9508",
-        "is_no_home": false,
-        "steps": [
-            10802,
-            10803,
-            10804,
-            10805,
-            10806,
-            10807,
-            10808,
-            10809,
-            10810,
-            10811,
-            10812,
-            10813
-        ],
-        "open_condition": [
-            [
-                "playerLevel",
-                35
-            ],
-            [
-                "uiNameList",
-                [
-                    "bloodCardGame"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "109": {
-        "narrator_name": "桌游店店长",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 109,
-        "narrator_icon": "9508",
-        "is_no_home": false,
-        "steps": [
-            10901,
-            10902
-        ],
-        "open_condition": [
-            [
-                "playerLevel",
-                35
-            ],
-            [
-                "uiNameList",
-                [
-                    "bloodCardGame"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "110": {
-        "narrator_name": "桌游店店长",
-        "group": 0,
-        "not_skip_guide": 1,
-        "id": 110,
-        "narrator_icon": "9508",
-        "is_no_home": false,
-        "steps": [
-            11001,
-            11002,
-            11003,
-            11004,
-            11005,
-            11006,
-            11007
-        ],
-        "open_condition": [
-            [
-                "playerLevel",
-                35
-            ],
-            [
-                "uiNameList",
-                [
-                    "bloodCardBuild"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "111": {
-        "narrator_name": "桌游店店长",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 111,
-        "narrator_icon": "9508",
-        "is_no_home": false,
-        "steps": [
-            11101
-        ],
-        "open_condition": [
-            [
-                "playerLevel",
-                35
-            ],
-            [
-                "uiNameList",
-                [
-                    "bloodCardGame"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "112": {
-        "narrator_name": "桌游店店长",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 112,
-        "narrator_icon": "9508",
-        "is_no_home": false,
-        "steps": [
-            11201,
-            11202
-        ],
-        "open_condition": [
-            [
-                "bloodCardFunction",
-                1803
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "113": {
-        "narrator_name": "桌游店店长",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 113,
-        "narrator_icon": "9508",
-        "is_no_home": false,
-        "steps": [
-            11301
-        ],
-        "open_condition": [
-            [
-                "bloodCardFunction",
-                1805
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
     "114": {
         "narrator_name": "诗蔻蒂",
         "group": 0,
@@ -2966,56 +2271,6 @@
                 "uiNameList",
                 [
                     "skuldPuzzleGameView"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "115": {
-        "narrator_name": "金乌",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 115,
-        "narrator_icon": "1070",
-        "is_no_home": false,
-        "steps": [
-            11501,
-            11502
-        ],
-        "open_condition": [
-            [
-                "qworldFunction",
-                31364103
-            ],
-            [
-                "uiNameList",
-                [
-                    "qworldMainHome"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "116": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 116,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            11601,
-            11602
-        ],
-        "open_condition": [
-            [
-                "uiNameList",
-                [
-                    "springFestivalZumaMainView"
                 ]
             ]
         ],
@@ -3104,171 +2359,6 @@
                 ]
             ]
         ],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "121": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 121,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            12101,
-            12102,
-            12103,
-            12104,
-            12105,
-            12106,
-            12107
-        ],
-        "open_condition": [
-            [
-                "uiNameList",
-                [
-                    "ActivityGodEaterGameMainView"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "122": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 122,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            12201,
-            12202
-        ],
-        "open_condition": [
-            [
-                "uiNameList",
-                [
-                    "goldMinerSelectLevelView"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "123": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 123,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            12301,
-            12302,
-            12303,
-            12305,
-            12306,
-            12307,
-            12310,
-            12311,
-            12312,
-            12313,
-            12314,
-            12315,
-            12316,
-            12318,
-            12319,
-            12320,
-            12321,
-            12322,
-            12323,
-            12324
-        ],
-        "open_condition": [
-            [
-                "uiNameList",
-                [
-                    "civilizationGameMainView"
-                ]
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "124": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 124,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            12401,
-            12402,
-            12403,
-            12404,
-            12405
-        ],
-        "open_condition": [
-            [
-                "goldMiner",
-                343701
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "125": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 125,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            12501,
-            12502
-        ],
-        "open_condition": [
-            [
-                "goldMiner",
-                343706
-            ]
-        ],
-        "skip_condition": [],
-        "ignore_group_condition": [],
-        "leaps": []
-    },
-    "126": {
-        "narrator_name": "弥弥尔",
-        "group": 0,
-        "not_skip_guide": 0,
-        "id": 126,
-        "narrator_icon": "mmr",
-        "is_no_home": false,
-        "steps": [
-            12601,
-            12602,
-            12603,
-            12604,
-            12605,
-            12606,
-            12607,
-            12608,
-            12609
-        ],
-        "open_condition": [
-            [
-                "civilizationGame",
-                2
-            ]
-        ],
-        "skip_condition": [],
         "ignore_group_condition": [],
         "leaps": []
     },
@@ -3377,214 +2467,219 @@
         "ignore_group_condition": [],
         "leaps": []
     },
-    "131": {
-        "narrator_name": "弥弥尔",
+    "139": {
+        "narrator_name": "薇儿丹蒂",
         "group": 0,
         "not_skip_guide": 0,
-        "id": 131,
-        "narrator_icon": "mmr",
+        "id": 139,
+        "narrator_icon": "128404",
         "is_no_home": false,
         "steps": [
-            13101,
-            13102,
-            13103,
-            13104,
-            13105
+            13901,
+            13902
         ],
         "open_condition": [
             [
                 "uiNameList",
                 [
-                    "tetrisGameStageView"
+                    "summerPubStageView",
+                    "summerPubStageSectionView"
                 ]
-            ],
-            [
-                "tetris",
-                "tetrisStage",
-                40103
             ]
         ],
         "skip_condition": [],
         "ignore_group_condition": [],
         "leaps": []
     },
-    "132": {
-        "narrator_name": "弥弥尔",
+    "140": {
+        "narrator_name": "尼娅",
         "group": 0,
         "not_skip_guide": 0,
-        "id": 132,
-        "narrator_icon": "mmr",
+        "id": 140,
+        "narrator_icon": "10144_split_1",
         "is_no_home": false,
         "steps": [
-            13201
+            14001,
+            14002
         ],
         "open_condition": [
             [
                 "uiNameList",
                 [
-                    "tetrisGameStageView"
+                    "summerPubEnterView",
+                    "summerCookMenuView"
                 ]
-            ],
-            [
-                "tetris",
-                "tetrisSkill"
-            ],
-            [
-                "tetris",
-                "tetrisStage",
-                40101
             ]
         ],
         "skip_condition": [],
         "ignore_group_condition": [],
         "leaps": []
     },
-    "133": {
-        "narrator_name": "弥弥尔",
+    "141": {
+        "narrator_name": "尼娅",
         "group": 0,
         "not_skip_guide": 0,
-        "id": 133,
-        "narrator_icon": "mmr",
+        "id": 141,
+        "narrator_icon": "10144_split_1",
         "is_no_home": false,
         "steps": [
-            13301,
-            13302
+            14101,
+            14102,
+            14103,
+            14104,
+            14105,
+            14106,
+            14107,
+            14108,
+            14109,
+            14110,
+            14111
         ],
         "open_condition": [
             [
-                "uiNameList",
-                [
-                    "tetrisGameStageView"
-                ]
-            ],
-            [
-                "tetris",
-                "tetrisLock"
-            ],
-            [
-                "tetris",
-                "tetrisStage",
-                40105
+                "billiardGame",
+                40301,
+                1
             ]
         ],
         "skip_condition": [],
         "ignore_group_condition": [],
         "leaps": []
     },
-    "135": {
-        "narrator_name": "弥弥尔",
+    "142": {
+        "narrator_name": "尼娅",
         "group": 0,
         "not_skip_guide": 0,
-        "id": 135,
-        "narrator_icon": "mmr",
+        "id": 142,
+        "narrator_icon": "10144_split_1",
         "is_no_home": false,
         "steps": [
-            13501,
-            13502
+            14201,
+            14202,
+            14203,
+            14204,
+            14205,
+            14206
         ],
         "open_condition": [
             [
-                "uiNameList",
-                [
-                    "tetrisGameStageView"
-                ]
-            ],
-            [
-                "tetris",
-                "tetrisBubble"
-            ],
-            [
-                "tetris",
-                "tetrisStage",
-                40106
+                "billiardGame",
+                40301,
+                2
             ]
         ],
         "skip_condition": [],
         "ignore_group_condition": [],
         "leaps": []
     },
-    "136": {
-        "narrator_name": "弥弥尔",
+    "143": {
+        "narrator_name": "尼娅",
         "group": 0,
         "not_skip_guide": 0,
-        "id": 136,
-        "narrator_icon": "mmr",
+        "id": 143,
+        "narrator_icon": "10144_split_1",
         "is_no_home": false,
         "steps": [
-            13601,
-            13602
+            14301,
+            14302,
+            14303,
+            14304,
+            14305
         ],
         "open_condition": [
             [
-                "uiNameList",
-                [
-                    "tetrisGameStageView"
-                ]
-            ],
-            [
-                "tetris",
-                "tetrisStage",
-                40108
+                "billiardGame",
+                40304,
+                1
             ]
         ],
         "skip_condition": [],
         "ignore_group_condition": [],
         "leaps": []
     },
-    "137": {
-        "narrator_name": "弥弥尔",
+    "144": {
+        "narrator_name": "尼娅",
         "group": 0,
         "not_skip_guide": 0,
-        "id": 137,
-        "narrator_icon": "mmr",
+        "id": 144,
+        "narrator_icon": "10144_split_1",
         "is_no_home": false,
         "steps": [
-            13701,
-            13702,
-            13703
+            14401,
+            14402,
+            14403,
+            14404
         ],
         "open_condition": [
             [
-                "uiNameList",
-                [
-                    "tetrisGameStageView"
-                ]
-            ],
-            [
-                "tetris",
-                "tetrisStage",
-                40102
+                "billiardGame",
+                40304,
+                3
             ]
         ],
         "skip_condition": [],
         "ignore_group_condition": [],
         "leaps": []
     },
-    "138": {
-        "narrator_name": "弥弥尔",
+    "145": {
+        "narrator_name": "大国主",
         "group": 0,
         "not_skip_guide": 0,
-        "id": 138,
-        "narrator_icon": "mmr",
+        "id": 145,
+        "narrator_icon": "1066",
         "is_no_home": false,
         "steps": [
-            13801
+            14501,
+            14502,
+            14503,
+            14504
         ],
         "open_condition": [
             [
-                "uiNameList",
-                [
-                    "tetrisGameStageView"
-                ]
-            ],
+                "uiName",
+                "coreVerificationEnterStageView"
+            ]
+        ],
+        "skip_condition": [],
+        "ignore_group_condition": [],
+        "leaps": []
+    },
+    "146": {
+        "narrator_name": "大国主",
+        "group": 0,
+        "not_skip_guide": 0,
+        "id": 146,
+        "narrator_icon": "1066",
+        "is_no_home": false,
+        "steps": [
+            14601,
+            14602
+        ],
+        "open_condition": [
             [
-                "tetris",
-                "tetrisLock"
-            ],
+                "uiName",
+                "coreVerificationCommonStageView"
+            ]
+        ],
+        "skip_condition": [],
+        "ignore_group_condition": [],
+        "leaps": []
+    },
+    "147": {
+        "narrator_name": "大国主",
+        "group": 0,
+        "not_skip_guide": 0,
+        "id": 147,
+        "narrator_icon": "1066",
+        "is_no_home": false,
+        "steps": [
+            14701,
+            14702
+        ],
+        "open_condition": [
             [
-                "tetris",
-                "tetrisStage",
-                40109
+                "uiName",
+                "coreVerificationChallengeStageView"
             ]
         ],
         "skip_condition": [],
@@ -3634,8 +2729,6 @@
             54,
             55,
             56,
-            57,
-            59,
             61,
             62,
             63,
@@ -3643,8 +2736,6 @@
             65,
             66,
             6601,
-            67,
-            68,
             70,
             71,
             72,
@@ -3652,15 +2743,7 @@
             74,
             75,
             76,
-            77,
-            78,
-            79,
-            80,
-            81,
-            82,
             83,
-            84,
-            85,
             90,
             91,
             92,
@@ -3670,42 +2753,27 @@
             97,
             98,
             99,
-            100,
             101,
             102,
             103,
             104,
-            105,
-            106,
-            107,
-            108,
-            109,
-            111,
-            112,
-            113,
             114,
-            115,
-            116,
             117,
             119,
             120,
-            121,
-            122,
-            123,
-            124,
-            125,
-            126,
             127,
             128,
             129,
             130,
-            131,
-            132,
-            133,
-            135,
-            136,
-            137,
-            138
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147
         ],
         "1": [
             1,
@@ -3715,8 +2783,7 @@
             3,
             6,
             8,
-            60,
-            110
+            60
         ]
     },
     "all": [
@@ -3768,8 +2835,6 @@
         54,
         55,
         56,
-        57,
-        59,
         60,
         61,
         62,
@@ -3778,8 +2843,6 @@
         65,
         66,
         6601,
-        67,
-        68,
         70,
         71,
         72,
@@ -3787,15 +2850,7 @@
         74,
         75,
         76,
-        77,
-        78,
-        79,
-        80,
-        81,
-        82,
         83,
-        84,
-        85,
         90,
         91,
         92,
@@ -3805,42 +2860,26 @@
         97,
         98,
         99,
-        100,
         101,
         102,
         103,
         104,
-        105,
-        106,
-        107,
-        108,
-        109,
-        110,
-        111,
-        112,
-        113,
         114,
-        115,
-        116,
         117,
         119,
         120,
-        121,
-        122,
-        123,
-        124,
-        125,
-        126,
         127,
         128,
         129,
         130,
-        131,
-        132,
-        133,
-        135,
-        136,
-        137,
-        138
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147
     ]
 }

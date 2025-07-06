@@ -214,6 +214,45 @@
             "Widget/System/BossTestUI/popUI/60530510"
         ]
     },
+    "30530": {
+        "stage_id": 60530530,
+        "type": 1,
+        "base_point": 1000,
+        "activity_id": 30530,
+        "order": 2,
+        "boss_list": [
+            3053
+        ],
+        "pool": [],
+        "multiple_affix": [],
+        "level_describe": [
+            "Widget/System/BossTestUI/popUI/60530530"
+        ]
+    },
+    "21500": {
+        "stage_id": 60521500,
+        "type": 1,
+        "base_point": 1000,
+        "activity_id": 21500,
+        "order": 3,
+        "boss_list": [
+            2150
+        ],
+        "pool": [
+            99801,
+            99802,
+            99803,
+            99804,
+            99805,
+            99806,
+            99807,
+            99808
+        ],
+        "multiple_affix": [],
+        "level_describe": [
+            "Widget/System/BossTestUI/popUI/60521500"
+        ]
+    },
     "1032012": {
         "stage_id": 60500001,
         "type": 0,
@@ -307,7 +346,7 @@
     "1032129": {
         "level_describe": "",
         "stage_id": 60500007,
-        "type": 1,
+        "type": 0,
         "base_point": 1000,
         "activity_id": 1032129,
         "order": 1032129,
@@ -320,7 +359,7 @@
     "1032133": {
         "level_describe": "",
         "stage_id": 60500008,
-        "type": 1,
+        "type": 0,
         "base_point": 1000,
         "activity_id": 1032133,
         "order": 1032133,
@@ -333,7 +372,7 @@
     "1032138": {
         "level_describe": "",
         "stage_id": 60500009,
-        "type": 1,
+        "type": 0,
         "base_point": 1000,
         "activity_id": 1032138,
         "order": 1032138,
@@ -343,11 +382,26 @@
         "pool": [],
         "multiple_affix": []
     },
+    "5270110": {
+        "stage_id": 60500010,
+        "type": 1,
+        "base_point": 1000,
+        "activity_id": 5270110,
+        "order": 1,
+        "boss_list": [
+            1032113
+        ],
+        "pool": [],
+        "multiple_affix": [],
+        "level_describe": [
+            "Widget/System/BossTestUI/popUI/60500010"
+        ]
+    },
     "get_id_list_by_type": {
         "1": [
-            1032129,
-            1032133,
-            1032138
+            30530,
+            21500,
+            5270110
         ],
         "0": [
             50950,
@@ -370,7 +424,10 @@
             5230124,
             1032123,
             1032125,
-            1032113
+            1032113,
+            1032129,
+            1032133,
+            1032138
         ]
     },
     "all": [
@@ -389,6 +446,8 @@
         40460,
         30490,
         30510,
+        30530,
+        21500,
         1032012,
         5230111,
         5230124,
@@ -397,6 +456,7 @@
         1032113,
         1032129,
         1032133,
-        1032138
+        1032138,
+        5270110
     ]
 }

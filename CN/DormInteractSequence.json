@@ -1082,6 +1082,41 @@
         "name": "HZ05_zhuanshu_haimudaer1_jingzi",
         "next_action": []
     },
+    "95003701": {
+        "id": 95003701,
+        "name": "HZ05_zhuanshu_tuote",
+        "next_action": []
+    },
+    "95270501": {
+        "id": 95270501,
+        "name": "HZ05_xiahuo_qishi",
+        "next_action": []
+    },
+    "95271401": {
+        "id": 95271401,
+        "name": "HZ05_xiahuo_liaoliguo",
+        "next_action": []
+    },
+    "95271101": {
+        "id": 95271101,
+        "name": "HZ05_xiahuo_baoxiang",
+        "next_action": [
+            [
+                95271102,
+                0
+            ]
+        ]
+    },
+    "95271102": {
+        "id": 95271102,
+        "name": "HZ05_xiahuo_baoxiang_loop",
+        "next_action": [
+            [
+                95271102,
+                0
+            ]
+        ]
+    },
     "20100101": {
         "id": 20100101,
         "name": "props_small_chair_sit",
@@ -1777,6 +1812,11 @@
         95003601,
         95003501,
         95003401,
+        95003701,
+        95270501,
+        95271401,
+        95271101,
+        95271102,
         20100101,
         20100102,
         20100103,

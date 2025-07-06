@@ -2047,6 +2047,69 @@
         ],
         "time": []
     },
+    "40301": {
+        "id": 40301,
+        "hide_condition": "",
+        "type": 1,
+        "picture": "activity_1047",
+        "activityId": 3500302,
+        "order": 80,
+        "parameter": [
+            404,
+            4030301
+        ],
+        "time": []
+    },
+    "40302": {
+        "id": 40302,
+        "hide_condition": "",
+        "type": 1,
+        "picture": "activity151",
+        "activityId": 0,
+        "order": 85,
+        "parameter": [
+            2513,
+            51
+        ],
+        "time": [
+            [
+                [
+                    2025,
+                    7,
+                    3
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2025,
+                    8,
+                    14
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ]
+    },
+    "40303": {
+        "id": 40303,
+        "hide_condition": "",
+        "type": 1,
+        "picture": "activity_128404_104701",
+        "activityId": 3511101,
+        "order": 90,
+        "parameter": [
+            525
+        ],
+        "time": []
+    },
     "all": [
         1,
         7,
@@ -2192,6 +2255,9 @@
         40102,
         40103,
         31000,
-        31001
+        31001,
+        40301,
+        40302,
+        40303
     ]
 }

@@ -1389,7 +1389,74 @@
             ]
         ]
     },
+    "109501": {
+        "story_id": 0,
+        "id": 109501,
+        "story_reward": "",
+        "story_condtion_id": 0,
+        "relate_hero_id": 1084,
+        "relation_des": "相识",
+        "main_hero_id": 1095
+    },
+    "109502": {
+        "story_id": 710950103,
+        "id": 109502,
+        "story_condtion_id": 0,
+        "relate_hero_id": 1020,
+        "relation_des": "相识",
+        "main_hero_id": 1095,
+        "story_reward": [
+            [
+                1,
+                30
+            ]
+        ]
+    },
+    "109503": {
+        "story_id": 710950102,
+        "id": 109503,
+        "story_condtion_id": 0,
+        "relate_hero_id": 1012,
+        "relation_des": "同事",
+        "main_hero_id": 1095,
+        "story_reward": [
+            [
+                1,
+                30
+            ]
+        ]
+    },
+    "109504": {
+        "story_id": 0,
+        "id": 109504,
+        "story_reward": "",
+        "story_condtion_id": 0,
+        "relate_hero_id": 1034,
+        "relation_des": "同事",
+        "main_hero_id": 1095
+    },
+    "109505": {
+        "story_id": 710950101,
+        "id": 109505,
+        "story_condtion_id": 0,
+        "relate_hero_id": 1015,
+        "relation_des": "同事",
+        "main_hero_id": 1095,
+        "story_reward": [
+            [
+                1,
+                30
+            ]
+        ]
+    },
     "get_id_list_by_main_hero_id": {
+        "1095": [
+            109501,
+            109502,
+            109503,
+            109504,
+            109505
+        ],
         "1033": [
             103301,
             103302,
@@ -1675,6 +1742,11 @@
         103302,
         103303,
         103304,
-        103305
+        103305,
+        109501,
+        109502,
+        109503,
+        109504,
+        109505
     ]
 }

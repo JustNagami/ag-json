@@ -5775,6 +5775,263 @@
         "icon": "",
         "buff_ticktime": 9999999
     },
+    "104701": {
+        "buffparam_base": "",
+        "buff_class_id": 111,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 104701,
+        "icon": "",
+        "buff_ticktime": 9999999
+    },
+    "104702": {
+        "buffparam_base": "",
+        "buff_class_id": 104720303,
+        "max_level": 10,
+        "buffparam_factor": "",
+        "ID": 104702,
+        "icon": "",
+        "buff_ticktime": 9999999
+    },
+    "104703": {
+        "buff_class_id": 306,
+        "max_level": 1,
+        "ID": 104703,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            0
+        ],
+        "buffparam_factor": [
+            0
+        ]
+    },
+    "104704": {
+        "buff_class_id": 202,
+        "max_level": 1,
+        "ID": 104704,
+        "icon": "BUFF_DOT_DARK_1",
+        "buff_ticktime": 3000,
+        "buffparam_base": [
+            200
+        ],
+        "buffparam_factor": [
+            0
+        ]
+    },
+    "104705": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 104705,
+        "icon": "BUFF_DEFENSE_DOWN",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            166,
+            -50
+        ],
+        "buffparam_factor": [
+            0,
+            -50
+        ]
+    },
+    "104706": {
+        "buff_class_id": 202,
+        "max_level": 1,
+        "ID": 104706,
+        "icon": "BUFF_DOT_DARK_1",
+        "buff_ticktime": 2000,
+        "buffparam_base": [
+            250
+        ],
+        "buffparam_factor": [
+            250
+        ]
+    },
+    "104707": {
+        "buff_class_id": 202,
+        "max_level": 1,
+        "ID": 104707,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            250
+        ],
+        "buffparam_factor": [
+            250
+        ]
+    },
+    "104708": {
+        "buff_class_id": 202,
+        "max_level": 1,
+        "ID": 104708,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            250
+        ],
+        "buffparam_factor": [
+            250
+        ]
+    },
+    "104709": {
+        "buff_class_id": 2,
+        "max_level": 1,
+        "ID": 104709,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            81,
+            150
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "104710": {
+        "buff_class_id": 15,
+        "max_level": 9,
+        "ID": 104710,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            450,
+            90
+        ],
+        "buffparam_factor": [
+            0,
+            90
+        ]
+    },
+    "104711": {
+        "buff_class_id": 2,
+        "max_level": 1,
+        "ID": 104711,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            82,
+            900
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "104712": {
+        "buff_class_id": 2,
+        "max_level": 12,
+        "ID": 104712,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            302,
+            90
+        ],
+        "buffparam_factor": [
+            0,
+            90
+        ]
+    },
+    "104713": {
+        "buff_class_id": 2,
+        "max_level": 1,
+        "ID": 104713,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            52,
+            1000
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "104714": {
+        "buff_class_id": 2,
+        "max_level": 1,
+        "ID": 104714,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            81,
+            150
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "104715": {
+        "buff_class_id": 14,
+        "max_level": 9,
+        "ID": 104715,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            450,
+            90
+        ],
+        "buffparam_factor": [
+            0,
+            90
+        ]
+    },
+    "104716": {
+        "buff_class_id": 2,
+        "max_level": 1,
+        "ID": 104716,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            302,
+            900
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "104717": {
+        "buff_class_id": 14,
+        "max_level": 7,
+        "ID": 104717,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            450,
+            1
+        ],
+        "buffparam_factor": [
+            0,
+            1
+        ]
+    },
+    "104718": {
+        "buff_class_id": 1,
+        "max_level": 7,
+        "ID": 104718,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            53,
+            1
+        ],
+        "buffparam_factor": [
+            0,
+            1
+        ]
+    },
+    "104719": {
+        "buffparam_base": "",
+        "buff_class_id": 104700321,
+        "max_level": 9,
+        "buffparam_factor": "",
+        "ID": 104719,
+        "icon": "",
+        "buff_ticktime": 9999999
+    },
     "104806": {
         "buffparam_base": "",
         "buff_class_id": 301,
@@ -10621,30 +10878,6 @@
         "icon": "",
         "buff_ticktime": 9999999
     },
-    "107421": {
-        "buffparam_base": "",
-        "buff_class_id": 101,
-        "max_level": 1,
-        "buffparam_factor": "",
-        "ID": 107421,
-        "icon": "BUFF_TYPE_STOIC",
-        "buff_ticktime": 9999999
-    },
-    "107422": {
-        "buff_class_id": 204,
-        "max_level": 1,
-        "ID": 107422,
-        "icon": "",
-        "buff_ticktime": 1000,
-        "buffparam_base": [
-            200,
-            0
-        ],
-        "buffparam_factor": [
-            0,
-            0
-        ]
-    },
     "107416": {
         "buff_class_id": 7,
         "max_level": 1,
@@ -10683,6 +10916,30 @@
         "ID": 107418,
         "icon": "",
         "buff_ticktime": 9999999
+    },
+    "107421": {
+        "buffparam_base": "",
+        "buff_class_id": 101,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 107421,
+        "icon": "BUFF_TYPE_STOIC",
+        "buff_ticktime": 9999999
+    },
+    "107422": {
+        "buff_class_id": 204,
+        "max_level": 1,
+        "ID": 107422,
+        "icon": "",
+        "buff_ticktime": 1000,
+        "buffparam_base": [
+            200,
+            0
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
     },
     "107501": {
         "buff_class_id": 2,
@@ -19360,6 +19617,51 @@
             0
         ]
     },
+    "102223": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 102223,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            302,
+            150
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "102224": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 102224,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            81,
+            180
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "102225": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 102225,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            701,
+            120
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
     "102001": {
         "buff_class_id": 1,
         "max_level": 1,
@@ -24135,6 +24437,126 @@
         "ID": 211902,
         "icon": "",
         "buff_ticktime": 1
+    },
+    "215001": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 215001,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            181,
+            1000
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "215002": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 215002,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            182,
+            1000
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "215003": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 215003,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            183,
+            1000
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "215004": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 215004,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            184,
+            1000
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "215005": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 215005,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            185,
+            1000
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "215006": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 215006,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            186,
+            1000
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "215007": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 215007,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            187,
+            1000
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "215008": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 215008,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            188,
+            1000
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
     },
     "300501": {
         "buff_class_id": 1,
@@ -29030,6 +29452,51 @@
         "buffparam_factor": [
             0,
             0
+        ]
+    },
+    "10721": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 10721,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            156,
+            100
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "10722": {
+        "buff_class_id": 2,
+        "max_level": 1,
+        "ID": 10722,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            301,
+            250
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "10723": {
+        "buff_class_id": 1,
+        "max_level": 3,
+        "ID": 10723,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            11,
+            60
+        ],
+        "buffparam_factor": [
+            0,
+            60
         ]
     },
     "14011": {
@@ -46721,12 +47188,51 @@
     },
     "9692": {
         "buffparam_base": "",
-        "buff_class_id": 9691,
+        "buff_class_id": 9692,
         "max_level": 1,
         "buffparam_factor": "",
         "ID": 9692,
-        "icon": "AFFIX_BUFF_CD_DOWN",
+        "icon": "AFFIX_BUFF_DAMAGE_UP",
         "buff_ticktime": 9999999
+    },
+    "96921": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 96921,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            401,
+            250
+        ],
+        "buffparam_factor": [
+            0,
+            250
+        ]
+    },
+    "9693": {
+        "buffparam_base": "",
+        "buff_class_id": 9693,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 9693,
+        "icon": "AFFIX_BUFF_DAMAGE_UP",
+        "buff_ticktime": 9999999
+    },
+    "96931": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 96931,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            401,
+            250
+        ],
+        "buffparam_factor": [
+            0,
+            250
+        ]
     },
     "97001": {
         "buff_class_id": 10,
@@ -49223,6 +49729,15 @@
             60
         ]
     },
+    "9950": {
+        "buffparam_base": "",
+        "buff_class_id": 99500,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 9950,
+        "icon": "AFFIX_9950",
+        "buff_ticktime": 9999999
+    },
     "9961": {
         "buffparam_base": "",
         "buff_class_id": 9961,
@@ -49601,6 +50116,87 @@
             0,
             -1000
         ]
+    },
+    "9980": {
+        "buffparam_base": "",
+        "buff_class_id": 9980,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 9980,
+        "icon": "AFFIX_BUFF_MELEEMITIGATE_UP",
+        "buff_ticktime": 9999999
+    },
+    "9981": {
+        "buffparam_base": "",
+        "buff_class_id": 215000,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 9981,
+        "icon": "AFFIX_9981",
+        "buff_ticktime": 9999999
+    },
+    "9982": {
+        "buffparam_base": "",
+        "buff_class_id": 215000,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 9982,
+        "icon": "AFFIX_9982",
+        "buff_ticktime": 9999999
+    },
+    "9983": {
+        "buffparam_base": "",
+        "buff_class_id": 215000,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 9983,
+        "icon": "AFFIX_9983",
+        "buff_ticktime": 9999999
+    },
+    "9984": {
+        "buffparam_base": "",
+        "buff_class_id": 215000,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 9984,
+        "icon": "AFFIX_9984",
+        "buff_ticktime": 9999999
+    },
+    "9985": {
+        "buffparam_base": "",
+        "buff_class_id": 215000,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 9985,
+        "icon": "AFFIX_9985",
+        "buff_ticktime": 9999999
+    },
+    "9986": {
+        "buffparam_base": "",
+        "buff_class_id": 215000,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 9986,
+        "icon": "AFFIX_9986",
+        "buff_ticktime": 9999999
+    },
+    "9987": {
+        "buffparam_base": "",
+        "buff_class_id": 215000,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 9987,
+        "icon": "AFFIX_9987",
+        "buff_ticktime": 9999999
+    },
+    "9988": {
+        "buffparam_base": "",
+        "buff_class_id": 215000,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 9988,
+        "icon": "AFFIX_9988",
+        "buff_ticktime": 9999999
     },
     "9138": {
         "buffparam_base": "",
@@ -55060,6 +55656,94 @@
             0
         ]
     },
+    "70241": {
+        "buffparam_base": "",
+        "buff_class_id": 702410,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 70241,
+        "icon": "",
+        "buff_ticktime": 9999999
+    },
+    "702411": {
+        "buff_class_id": 205,
+        "max_level": 1,
+        "ID": 702411,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            10
+        ],
+        "buffparam_factor": [
+            0
+        ]
+    },
+    "70242": {
+        "buffparam_base": "",
+        "buff_class_id": 702420,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 70242,
+        "icon": "",
+        "buff_ticktime": 9999999
+    },
+    "70243": {
+        "buffparam_base": "",
+        "buff_class_id": 702430,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 70243,
+        "icon": "",
+        "buff_ticktime": 9999999
+    },
+    "702431": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 702431,
+        "icon": "BUFF_DEFENSE_DOWN",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            402,
+            200
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "70244": {
+        "buffparam_base": "",
+        "buff_class_id": 702440,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 70244,
+        "icon": "",
+        "buff_ticktime": 9999999
+    },
+    "70245": {
+        "buffparam_base": "",
+        "buff_class_id": 702450,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 70245,
+        "icon": "",
+        "buff_ticktime": 9999999
+    },
+    "702451": {
+        "buff_class_id": 2,
+        "max_level": 100,
+        "ID": 702451,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            302,
+            50
+        ],
+        "buffparam_factor": [
+            0,
+            50
+        ]
+    },
     "70501": {
         "buffparam_base": "",
         "buff_class_id": 705010,
@@ -59507,6 +60191,348 @@
         "icon": "BUFF_STRONG_CONTROL_ICE",
         "buff_ticktime": 1
     },
+    "72001": {
+        "buffparam_base": "",
+        "buff_class_id": 720010,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 72001,
+        "icon": "AFFIX_9076",
+        "buff_ticktime": 9999999
+    },
+    "720011": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 720011,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            189,
+            800
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "720012": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 720012,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            402,
+            500
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "720013": {
+        "buff_class_id": 15,
+        "max_level": 1,
+        "ID": 720013,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            450,
+            500
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "720014": {
+        "buff_class_id": 204,
+        "max_level": 10000,
+        "ID": 720014,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            1,
+            0
+        ],
+        "buffparam_factor": [
+            1,
+            0
+        ]
+    },
+    "72051": {
+        "buffparam_base": "",
+        "buff_class_id": 1010,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 72051,
+        "icon": "AFFIX_BUFF_WATERALLRES_UP",
+        "buff_ticktime": 9999999
+    },
+    "720511": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 720511,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            175,
+            300
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "72052": {
+        "buffparam_base": "",
+        "buff_class_id": 1010,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 72052,
+        "icon": "AFFIX_BUFF_LIGHTALLRES_UP",
+        "buff_ticktime": 9999999
+    },
+    "720521": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 720521,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            177,
+            300
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "72053": {
+        "buffparam_base": "",
+        "buff_class_id": 1010,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 72053,
+        "icon": "AFFIX_BUFF_THUNDERALLRES_UP",
+        "buff_ticktime": 9999999
+    },
+    "720531": {
+        "buff_class_id": 1,
+        "max_level": 1,
+        "ID": 720531,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            176,
+            300
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "72151": {
+        "buffparam_base": "",
+        "buff_class_id": 721510,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 72151,
+        "icon": "AFFIX_BUFF_RAGEDAMAGE_UP",
+        "buff_ticktime": 9999999
+    },
+    "721511": {
+        "buff_class_id": 2,
+        "max_level": 10,
+        "ID": 721511,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            11,
+            80
+        ],
+        "buffparam_factor": [
+            0,
+            80
+        ]
+    },
+    "72152": {
+        "buffparam_base": "",
+        "buff_class_id": 721520,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 72152,
+        "icon": "AFFIX_BUFF_ALLDAMAGE_UP",
+        "buff_ticktime": 9999999
+    },
+    "721521": {
+        "buff_class_id": 1,
+        "max_level": 20,
+        "ID": 721521,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            401,
+            60
+        ],
+        "buffparam_factor": [
+            0,
+            60
+        ]
+    },
+    "72153": {
+        "buffparam_base": "",
+        "buff_class_id": 721530,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 72153,
+        "icon": "AFFIX_BUFF_PHYSICVULNER_DOWN",
+        "buff_ticktime": 9999999
+    },
+    "721531": {
+        "buff_class_id": 1,
+        "max_level": 10,
+        "ID": 721531,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            312,
+            90
+        ],
+        "buffparam_factor": [
+            0,
+            90
+        ]
+    },
+    "72154": {
+        "buffparam_base": "",
+        "buff_class_id": 721540,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 72154,
+        "icon": "AFFIX_BUFF_CD_UP",
+        "buff_ticktime": 9999999
+    },
+    "721541": {
+        "buff_class_id": 1,
+        "max_level": 10,
+        "ID": 721541,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            301,
+            300
+        ],
+        "buffparam_factor": [
+            0,
+            300
+        ]
+    },
+    "72155": {
+        "buffparam_base": "",
+        "buff_class_id": 721540,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 72155,
+        "icon": "AFFIX_299",
+        "buff_ticktime": 9999999
+    },
+    "72301": {
+        "buffparam_base": "",
+        "buff_class_id": 723010,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 72301,
+        "icon": "AFFIX_BUFF_RAGEDAMAGE_DOWN",
+        "buff_ticktime": 9999999
+    },
+    "72302": {
+        "buffparam_base": "",
+        "buff_class_id": 1210,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 72302,
+        "icon": "AFFIX_BUFF_ALLDAMAGE_DOWN",
+        "buff_ticktime": 9999999
+    },
+    "723021": {
+        "buff_class_id": 204,
+        "max_level": 1,
+        "ID": 723021,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            50,
+            0
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "723022": {
+        "buff_class_id": 10,
+        "max_level": 1,
+        "ID": 723022,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            31,
+            800
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "72303": {
+        "buffparam_base": "",
+        "buff_class_id": 1010,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 72303,
+        "icon": "AFFIX_BUFF_PHYSICVULNER_UP",
+        "buff_ticktime": 9999999
+    },
+    "723031": {
+        "buff_class_id": 10,
+        "max_level": 1,
+        "ID": 723031,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            31,
+            1500
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
+    "72304": {
+        "buffparam_base": "",
+        "buff_class_id": 1010,
+        "max_level": 1,
+        "buffparam_factor": "",
+        "ID": 72304,
+        "icon": "AFFIX_BUFF_CD_DOWN",
+        "buff_ticktime": 9999999
+    },
+    "723041": {
+        "buff_class_id": 7,
+        "max_level": 1,
+        "ID": 723041,
+        "icon": "",
+        "buff_ticktime": 9999999,
+        "buffparam_base": [
+            500,
+            550
+        ],
+        "buffparam_factor": [
+            0,
+            0
+        ]
+    },
     "94001": {
         "buff_class_id": 201,
         "max_level": 10,
@@ -62205,6 +63231,25 @@
         104616,
         104617,
         104618,
+        104701,
+        104702,
+        104703,
+        104704,
+        104705,
+        104706,
+        104707,
+        104708,
+        104709,
+        104710,
+        104711,
+        104712,
+        104713,
+        104714,
+        104715,
+        104716,
+        104717,
+        104718,
+        104719,
         104806,
         104808,
         104810,
@@ -62547,11 +63592,11 @@
         107413,
         107414,
         107415,
-        107421,
-        107422,
         107416,
         107417,
         107418,
+        107421,
+        107422,
         107501,
         107502,
         107503,
@@ -63162,6 +64207,9 @@
         102220,
         102221,
         102222,
+        102223,
+        102224,
+        102225,
         102001,
         102002,
         102003,
@@ -63504,6 +64552,14 @@
         211303,
         211901,
         211902,
+        215001,
+        215002,
+        215003,
+        215004,
+        215005,
+        215006,
+        215007,
+        215008,
         300501,
         300601,
         300701,
@@ -63860,6 +64916,9 @@
         10712,
         10713,
         10714,
+        10721,
+        10722,
+        10723,
         14011,
         14021,
         14031,
@@ -65366,6 +66425,9 @@
         96861,
         9691,
         9692,
+        96921,
+        9693,
+        96931,
         97001,
         97002,
         97003,
@@ -65591,6 +66653,7 @@
         99471,
         9948,
         99481,
+        9950,
         9961,
         99611,
         9962,
@@ -65620,6 +66683,15 @@
         9969,
         99675,
         99685,
+        9980,
+        9981,
+        9982,
+        9983,
+        9984,
+        9985,
+        9986,
+        9987,
+        9988,
         9138,
         9139,
         91391,
@@ -66098,6 +67170,14 @@
         70239,
         70240,
         702401,
+        70241,
+        702411,
+        70242,
+        70243,
+        702431,
+        70244,
+        70245,
+        702451,
         70501,
         70502,
         705021,
@@ -66507,6 +67587,34 @@
         71446,
         71456,
         714561,
+        72001,
+        720011,
+        720012,
+        720013,
+        720014,
+        72051,
+        720511,
+        72052,
+        720521,
+        72053,
+        720531,
+        72151,
+        721511,
+        72152,
+        721521,
+        72153,
+        721531,
+        72154,
+        721541,
+        72155,
+        72301,
+        72302,
+        723021,
+        723022,
+        72303,
+        723031,
+        72304,
+        723041,
         94001,
         94002,
         94003,

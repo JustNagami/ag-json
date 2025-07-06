@@ -119,6 +119,12 @@
         "prefab_path": "Widget/Version/V4_2_GodEaterUI/V4_2_GodEaterUI_Plot/V4_2_GodEaterUI_PlotUI",
         "id": 341021
     },
+    "3512001": {
+        "chapter_type": 2,
+        "chapter_client_id": 6010030,
+        "prefab_path": "Widget/Version/V4_3_SummerPub/V4_3_SummerPub_PlotUI/V4_3_SummerPub_PlotUI",
+        "id": 3512001
+    },
     "all": [
         141200,
         141204,
@@ -139,6 +145,7 @@
         311201,
         321202,
         331201,
-        341021
+        341021,
+        3512001
     ]
 }

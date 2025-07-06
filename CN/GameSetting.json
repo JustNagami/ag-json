@@ -1080,6 +1080,78 @@
             ]
         ]
     },
+    "monthlycard_sale": {
+        "id": "monthlycard_sale",
+        "value2": "",
+        "value": [
+            [
+                1,
+                241
+            ],
+            [
+                2,
+                242
+            ],
+            [
+                3,
+                243
+            ]
+        ]
+    },
+    "battlepass_sale": {
+        "id": "battlepass_sale",
+        "value2": "",
+        "value": [
+            [
+                1,
+                251
+            ],
+            [
+                2,
+                252
+            ],
+            [
+                3,
+                253
+            ]
+        ]
+    },
+    "battlepass_highlevel_sale": {
+        "id": "battlepass_highlevel_sale",
+        "value2": "",
+        "value": [
+            [
+                1,
+                261
+            ],
+            [
+                2,
+                262
+            ],
+            [
+                3,
+                263
+            ]
+        ]
+    },
+    "battlepass_upgrade_sale": {
+        "id": "battlepass_upgrade_sale",
+        "value2": "",
+        "value": [
+            [
+                1,
+                271
+            ],
+            [
+                2,
+                272
+            ],
+            [
+                3,
+                273
+            ]
+        ]
+    },
     "monthly_card_reward_direct": {
         "id": "monthly_card_reward_direct",
         "value2": "",
@@ -1116,6 +1188,16 @@
         "value": [
             1,
             150
+        ]
+    },
+    "battlepass_level_noti": {
+        "id": "battlepass_level_noti",
+        "value2": "",
+        "value": [
+            6,
+            12,
+            30,
+            70
         ]
     },
     "preset_max": {
@@ -6668,14 +6750,14 @@
         "id": "activity_hero_challenge_barbecue_coin_limit",
         "value2": "",
         "value": [
-            30
+            200
         ]
     },
     "activity_hero_challenge_barbecue_ticket_limit": {
         "id": "activity_hero_challenge_barbecue_ticket_limit",
         "value2": "",
         "value": [
-            4
+            16
         ]
     },
     "activity_hero_challenge_boss_basescore": {
@@ -6709,15 +6791,15 @@
         "value": [
             [
                 1000,
-                300
+                500
             ],
             [
                 2000,
-                150
+                250
             ],
             [
                 3000,
-                120
+                200
             ]
         ]
     },
@@ -6727,15 +6809,15 @@
         "value": [
             [
                 1000,
-                300
+                500
             ],
             [
                 2000,
-                300
+                500
             ],
             [
                 3000,
-                150
+                250
             ]
         ]
     },
@@ -6745,15 +6827,15 @@
         "value": [
             [
                 1000,
-                300
+                500
             ],
             [
                 2000,
-                300
+                500
             ],
             [
                 3000,
-                300
+                500
             ]
         ]
     },
@@ -6768,7 +6850,7 @@
         "id": "activity_hero_challenge_base_num",
         "value2": "",
         "value": [
-            300
+            500
         ]
     },
     "hero_challenge_game_describe1": {
@@ -6777,6 +6859,13 @@
         "value": [
             "Widget/System/SPHeroChallenge/SPHeroChallengeDescription_01",
             "Widget/System/SPHeroChallenge/SPHeroChallengeDescription_02"
+        ]
+    },
+    "activity_hero_challenge_max_num": {
+        "id": "activity_hero_challenge_max_num",
+        "value2": "",
+        "value": [
+            4
         ]
     },
     "core_verification_boss_hero_num": {
@@ -7215,6 +7304,21 @@
         "value2": "",
         "value": [
             "Widget/System/Summer2024/Summer2024_BlisterGame/BlisterGameUI_Description_03"
+        ]
+    },
+    "blister_game_4_3_describe_normal": {
+        "id": "blister_game_4_3_describe_normal",
+        "value2": "",
+        "value": [
+            "Widget/Version/Alone_Summer2024_BlisterGame/Alone_BlisterGameUI_Description_01",
+            "Widget/Version/Alone_Summer2024_BlisterGame/Alone_BlisterGameUI_Description_02"
+        ]
+    },
+    "blister_game_4_3_describe_special": {
+        "id": "blister_game_4_3_describe_special",
+        "value2": "",
+        "value": [
+            "Widget/Version/Alone_Summer2024_BlisterGame/Alone_BlisterGameUI_Description_04"
         ]
     },
     "skin_tryout_exchange": {
@@ -8181,6 +8285,57 @@
                     2
                 ]
             ]
+        ]
+    },
+    "nya_summer_pinball_initial_energy": {
+        "id": "nya_summer_pinball_initial_energy",
+        "value2": "",
+        "value": [
+            3
+        ]
+    },
+    "nya_summer_taste_typespeed": {
+        "id": "nya_summer_taste_typespeed",
+        "value2": "",
+        "value": [
+            40
+        ]
+    },
+    "nya_summer_pinball_critical_speed": {
+        "id": "nya_summer_pinball_critical_speed",
+        "value2": "",
+        "value": [
+            0.4,
+            4,
+            1.6,
+            2
+        ]
+    },
+    "core_verification_cl_score": {
+        "id": "core_verification_cl_score",
+        "value2": "",
+        "value": [
+            15000,
+            450,
+            5000
+        ]
+    },
+    "summer_pub_skin_dlc_hero_image": {
+        "id": "summer_pub_skin_dlc_hero_image",
+        "value2": "",
+        "value": [
+            "TextureConfig/VersionUI/V4_3_SummerPub/106103"
+        ]
+    },
+    "language_separator": {
+        "id": "language_separator",
+        "value2": "",
+        "value": [
+            "、",
+            "、",
+            "、",
+            "，",
+            "，"
         ]
     }
 }

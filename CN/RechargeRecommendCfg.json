@@ -2,7 +2,7 @@
     "100001": {
         "jump2": "",
         "new_recommend": 0,
-        "prefab": "recommend_100000",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100001,
         "info_desc": "",
@@ -12,6 +12,7 @@
         "show_time": "",
         "params": "",
         "icon": "100001",
+        "prefab": "recommend_100000",
         "order": 999,
         "jump": [
             524
@@ -20,7 +21,7 @@
     },
     "100002": {
         "new_recommend": 1,
-        "prefab": "recommend_109404",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100002,
         "info_desc": "",
@@ -30,6 +31,7 @@
         "show_time": "2023.6.20-2023.7.20",
         "params": "",
         "icon": "100002",
+        "prefab": "recommend_109404",
         "order": 1,
         "jump": [
             528
@@ -70,7 +72,7 @@
     },
     "100003": {
         "new_recommend": 0,
-        "prefab": "recommend_107601",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100003,
         "info_desc": "",
@@ -80,6 +82,7 @@
         "show_time": "2023.5.25-2023.6.20",
         "params": "",
         "icon": "100003",
+        "prefab": "recommend_107601",
         "order": 2,
         "jump": [
             528
@@ -120,7 +123,7 @@
     },
     "100004": {
         "new_recommend": 1,
-        "prefab": "recommend_107201",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100004,
         "info_desc": "",
@@ -130,6 +133,7 @@
         "show_time": "2023.6.20-2023.7.20",
         "params": "",
         "icon": "100004",
+        "prefab": "recommend_107201",
         "order": 3,
         "jump": [
             528
@@ -170,7 +174,7 @@
     },
     "100005": {
         "new_recommend": 0,
-        "prefab": "recommend_107401",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100005,
         "info_desc": "",
@@ -180,6 +184,7 @@
         "show_time": "2023.7.20-2023.8.17",
         "params": "",
         "icon": "100005",
+        "prefab": "recommend_107401",
         "order": 2,
         "jump": [
             525
@@ -220,7 +225,7 @@
     },
     "100006": {
         "new_recommend": 0,
-        "prefab": "recommend_107001",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100006,
         "info_desc": "",
@@ -230,6 +235,7 @@
         "show_time": "2023.7.20-2023.8.17",
         "params": "",
         "icon": "100006",
+        "prefab": "recommend_107001",
         "order": 1,
         "jump": [
             525
@@ -271,7 +277,7 @@
     "100007": {
         "jump2": "",
         "new_recommend": 0,
-        "prefab": "recommend_100007",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100007,
         "info_desc": "",
@@ -281,6 +287,7 @@
         "show_time": "",
         "params": "",
         "icon": "100007",
+        "prefab": "recommend_100007",
         "order": 998,
         "jump": [
             902
@@ -290,7 +297,7 @@
     "100008": {
         "jump2": "",
         "new_recommend": 0,
-        "prefab": "recommend_107602",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100008,
         "info_desc": "",
@@ -300,6 +307,7 @@
         "show_time": "2024.7.4-2024.7.11",
         "params": "",
         "icon": "100008",
+        "prefab": "recommend_107602",
         "order": 4,
         "jump": [
             2901,
@@ -334,7 +342,7 @@
     },
     "100009": {
         "new_recommend": 0,
-        "prefab": "recommend_105501",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100009,
         "info_desc": "",
@@ -344,6 +352,7 @@
         "show_time": "",
         "params": "",
         "icon": "100010",
+        "prefab": "recommend_105501",
         "order": 1,
         "jump": [
             525
@@ -384,7 +393,7 @@
     },
     "100010": {
         "new_recommend": 0,
-        "prefab": "recommend_119904",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100010,
         "info_desc": "",
@@ -394,6 +403,7 @@
         "show_time": "",
         "params": "",
         "icon": "100011",
+        "prefab": "recommend_119904",
         "order": 2,
         "jump": [
             525
@@ -434,7 +444,7 @@
     },
     "100011": {
         "new_recommend": 0,
-        "prefab": "recommend_109304",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100011,
         "info_desc": "",
@@ -444,6 +454,7 @@
         "show_time": "",
         "params": "",
         "icon": "100009",
+        "prefab": "recommend_109304",
         "order": 4,
         "jump": [
             525
@@ -484,7 +495,7 @@
     },
     "100012": {
         "new_recommend": 1,
-        "prefab": "recommend_104901",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100012,
         "info_desc": "",
@@ -494,6 +505,7 @@
         "show_time": "2023.11.9-2023.12.7",
         "params": "",
         "icon": "100012",
+        "prefab": "recommend_104901",
         "order": 2,
         "jump": [
             525
@@ -534,7 +546,7 @@
     },
     "100013": {
         "new_recommend": 1,
-        "prefab": "recommend_107501",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100013,
         "info_desc": "",
@@ -544,6 +556,7 @@
         "show_time": "",
         "params": "",
         "icon": "100013",
+        "prefab": "recommend_107501",
         "order": 3,
         "jump": [
             525
@@ -584,7 +597,7 @@
     },
     "100014": {
         "new_recommend": 1,
-        "prefab": "recommend_113803",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100014,
         "info_desc": "",
@@ -594,6 +607,7 @@
         "show_time": "2023.12.7-2024.1.4",
         "params": "",
         "icon": "100014",
+        "prefab": "recommend_113803",
         "order": 1,
         "jump": [
             525
@@ -634,7 +648,7 @@
     },
     "100015": {
         "new_recommend": 1,
-        "prefab": "recommend_100011",
+        "new_currency_dlc_icon": "",
         "show_type": 1,
         "goods_id": 100015,
         "info_desc": "",
@@ -643,6 +657,7 @@
         "free_dlc_icon": "",
         "show_time": "2023.11.9-2023.12.7",
         "icon": "100015",
+        "prefab": "recommend_100011",
         "order": 1,
         "jump": [
             527
@@ -685,7 +700,7 @@
     "100016": {
         "jump2": "",
         "new_recommend": 1,
-        "prefab": "recommend_102801",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100016,
         "info_desc": "",
@@ -695,6 +710,7 @@
         "show_time": "2023.12.7-2024.1.4",
         "params": "",
         "icon": "100016",
+        "prefab": "recommend_102801",
         "order": 1,
         "jump": [
             528
@@ -728,7 +744,7 @@
     },
     "100017": {
         "new_recommend": 1,
-        "prefab": "recommend_111102",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100017,
         "info_desc": "",
@@ -738,6 +754,7 @@
         "show_time": "2024.2.1-2024.2.29",
         "params": "",
         "icon": "100019",
+        "prefab": "recommend_111102",
         "order": 1,
         "jump": [
             525
@@ -778,7 +795,7 @@
     },
     "100018": {
         "new_recommend": 1,
-        "prefab": "recommend_106101",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100018,
         "info_desc": "",
@@ -788,6 +805,7 @@
         "show_time": "2024.2.1-2024.2.29",
         "params": "",
         "icon": "100018",
+        "prefab": "recommend_106101",
         "order": 2,
         "jump": [
             525
@@ -828,7 +846,7 @@
     },
     "100019": {
         "new_recommend": 1,
-        "prefab": "recommend_104103",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100019,
         "info_desc": "",
@@ -838,6 +856,7 @@
         "show_time": "2024.2.1-2024.2.29",
         "params": "",
         "icon": "100017",
+        "prefab": "recommend_104103",
         "order": 3,
         "jump": [
             527
@@ -877,7 +896,7 @@
     "100020": {
         "jump2": "",
         "new_recommend": 0,
-        "prefab": "recommend_111101",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100020,
         "info_desc": "",
@@ -887,6 +906,7 @@
         "show_time": "2024.2.1-2024.2.29",
         "params": "",
         "icon": "100016",
+        "prefab": "recommend_111101",
         "order": 4,
         "jump": [
             528
@@ -920,7 +940,7 @@
     },
     "100021": {
         "new_recommend": 1,
-        "prefab": "recommend_115001",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100021,
         "info_desc": "",
@@ -930,6 +950,7 @@
         "show_time": "",
         "params": "",
         "icon": "100020",
+        "prefab": "recommend_115001",
         "order": 1,
         "jump": [
             525
@@ -970,7 +991,7 @@
     },
     "100022": {
         "new_recommend": 1,
-        "prefab": "recommend_101501",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100022,
         "info_desc": "",
@@ -980,6 +1001,7 @@
         "show_time": "",
         "params": "",
         "icon": "100021",
+        "prefab": "recommend_101501",
         "order": 2,
         "jump": [
             525
@@ -1020,7 +1042,7 @@
     },
     "100023": {
         "new_recommend": 1,
-        "prefab": "recommend_100001",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100023,
         "title": "周年季卡",
@@ -1029,6 +1051,7 @@
         "show_time": "2024.4.11-2024.5.16",
         "params": "",
         "icon": "100027",
+        "prefab": "recommend_100001",
         "order": 1,
         "jump": [
             525
@@ -1071,7 +1094,7 @@
     },
     "100024": {
         "new_recommend": 1,
-        "prefab": "recommend_109501",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100024,
         "info_desc": "",
@@ -1081,6 +1104,7 @@
         "show_time": "",
         "params": "",
         "icon": "100022",
+        "prefab": "recommend_109501",
         "order": 2,
         "jump": [
             525
@@ -1121,7 +1145,7 @@
     },
     "100025": {
         "new_recommend": 1,
-        "prefab": "recommend_107502",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100025,
         "info_desc": "",
@@ -1131,6 +1155,7 @@
         "show_time": "2024.4.11-2024.4.30",
         "params": "",
         "icon": "100024",
+        "prefab": "recommend_107502",
         "order": 3,
         "jump": [
             525
@@ -1171,7 +1196,7 @@
     },
     "100026": {
         "new_recommend": 1,
-        "prefab": "recommend_1076011",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100026,
         "info_desc": "",
@@ -1181,6 +1206,7 @@
         "show_time": "",
         "params": "",
         "icon": "100023",
+        "prefab": "recommend_1076011",
         "order": 4,
         "jump": [
             525
@@ -1221,7 +1247,7 @@
     },
     "100027": {
         "new_recommend": 1,
-        "prefab": "recommend_107402",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100027,
         "info_desc": "",
@@ -1231,6 +1257,7 @@
         "show_time": "2024.5.16-2024.6.20",
         "params": "",
         "icon": "100025",
+        "prefab": "recommend_107402",
         "order": 1,
         "jump": [
             525
@@ -1271,7 +1298,7 @@
     },
     "100028": {
         "new_recommend": 1,
-        "prefab": "recommend_128401",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100028,
         "info_desc": "",
@@ -1281,6 +1308,7 @@
         "show_time": "",
         "params": "",
         "icon": "100026",
+        "prefab": "recommend_128401",
         "order": 2,
         "jump": [
             525
@@ -1321,7 +1349,7 @@
     },
     "100029": {
         "new_recommend": 1,
-        "prefab": "recommend_119701",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100029,
         "info_desc": "",
@@ -1331,6 +1359,7 @@
         "show_time": "",
         "params": "",
         "icon": "100028",
+        "prefab": "recommend_119701",
         "order": 1,
         "jump": [
             525
@@ -1371,7 +1400,7 @@
     },
     "100030": {
         "new_recommend": 1,
-        "prefab": "recommend_109303",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100030,
         "info_desc": "",
@@ -1381,6 +1410,7 @@
         "show_time": "2024.7.4-2024.7.18",
         "params": "",
         "icon": "100028",
+        "prefab": "recommend_109303",
         "order": 3,
         "jump": [
             525
@@ -1421,7 +1451,7 @@
     },
     "100031": {
         "new_recommend": 1,
-        "prefab": "recommend_104204",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100031,
         "info_desc": "",
@@ -1431,6 +1461,7 @@
         "show_time": "2024.6.20-2024.7.18",
         "params": "",
         "icon": "100030",
+        "prefab": "recommend_104204",
         "order": 2,
         "jump": [
             525
@@ -1469,7 +1500,7 @@
     },
     "100032": {
         "new_recommend": 1,
-        "prefab": "recommend_104902",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100032,
         "info_desc": "",
@@ -1479,6 +1510,7 @@
         "show_time": "2024.7.18-2024.8.22",
         "params": "",
         "icon": "icon_104902",
+        "prefab": "recommend_104902",
         "order": 1,
         "jump": [
             525
@@ -1519,7 +1551,7 @@
     },
     "100033": {
         "new_recommend": 1,
-        "prefab": "recommend_102201",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100033,
         "info_desc": "",
@@ -1529,6 +1561,7 @@
         "show_time": "2024.7.18-2024.8.22",
         "params": "",
         "icon": "icon_102201",
+        "prefab": "recommend_102201",
         "order": 2,
         "jump": [
             525
@@ -1569,7 +1602,7 @@
     },
     "100034": {
         "new_recommend": 1,
-        "prefab": "recommend_102101",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100034,
         "info_desc": "",
@@ -1579,6 +1612,7 @@
         "show_time": "2024.8.22-2024.9.26",
         "params": "",
         "icon": "icon_102101",
+        "prefab": "recommend_102101",
         "order": 3,
         "jump": [
             525
@@ -1620,7 +1654,7 @@
     "100035": {
         "jump2": "",
         "new_recommend": 1,
-        "prefab": "recommend_107001_107401",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100035,
         "info_desc": "",
@@ -1630,6 +1664,7 @@
         "show_time": "2024.8.22-2024.9.26",
         "params": "",
         "icon": "100016",
+        "prefab": "recommend_107001_107401",
         "order": 4,
         "jump": [
             525
@@ -1663,7 +1698,7 @@
     },
     "100036": {
         "new_recommend": 1,
-        "prefab": "recommend_102001",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100036,
         "info_desc": "",
@@ -1673,6 +1708,7 @@
         "show_time": "2024.9.26-2024.10.24",
         "params": "",
         "icon": "icon_102001",
+        "prefab": "recommend_102001",
         "order": 1,
         "jump": [
             525
@@ -1713,7 +1749,7 @@
     },
     "100037": {
         "new_recommend": 1,
-        "prefab": "recommend_108901",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100037,
         "info_desc": "",
@@ -1723,6 +1759,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_108901",
+        "prefab": "recommend_108901",
         "order": 2,
         "jump": [
             525
@@ -1764,27 +1801,28 @@
     "100038": {
         "jump2": "",
         "new_recommend": 1,
-        "prefab": "recommend_109502",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100038,
         "info_desc": "",
         "title": "绘夜之诗",
         "sub_title": "苍鹭·托特",
         "free_dlc_icon": "",
-        "show_time": "2024.10.24-2024.11.21",
+        "show_time": "2025.7.3-2025.8.14",
         "params": "",
         "icon": "icon_109502",
-        "order": 1,
+        "prefab": "recommend_109502",
+        "order": 3,
         "jump": [
             2901,
-            292211
+            3522101
         ],
         "time": [
             [
                 [
-                    2024,
-                    10,
-                    24
+                    2025,
+                    7,
+                    3
                 ],
                 [
                     5,
@@ -1794,9 +1832,9 @@
             ],
             [
                 [
-                    2024,
-                    11,
-                    21
+                    2025,
+                    8,
+                    14
                 ],
                 [
                     5,
@@ -1808,7 +1846,7 @@
     },
     "100039": {
         "new_recommend": 1,
-        "prefab": "recommend_107402",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100039,
         "info_desc": "",
@@ -1818,6 +1856,7 @@
         "show_time": "2024.9.26-2024.10.24",
         "params": "",
         "icon": "100025",
+        "prefab": "recommend_107402",
         "order": 2,
         "jump": [
             525
@@ -1858,7 +1897,7 @@
     },
     "100040": {
         "new_recommend": 1,
-        "prefab": "recommend_100011",
+        "new_currency_dlc_icon": "",
         "show_type": 1,
         "goods_id": 100040,
         "info_desc": "",
@@ -1867,6 +1906,7 @@
         "free_dlc_icon": "",
         "show_time": "2024.9.26-2024.10.24",
         "icon": "100015",
+        "prefab": "recommend_100011",
         "order": 3,
         "jump": [
             527
@@ -1908,7 +1948,7 @@
     },
     "100041": {
         "new_recommend": 1,
-        "prefab": "recommend_128402",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100041,
         "info_desc": "",
@@ -1917,6 +1957,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_128402",
+        "prefab": "recommend_128402",
         "order": 1,
         "jump": [
             525
@@ -1960,7 +2001,7 @@
     },
     "100042": {
         "new_recommend": 1,
-        "prefab": "recommend_115002",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100042,
         "info_desc": "",
@@ -1970,6 +2011,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_115002",
+        "prefab": "recommend_115002",
         "order": 2,
         "jump": [
             525
@@ -2010,7 +2052,7 @@
     },
     "100043": {
         "new_recommend": 1,
-        "prefab": "recommend_106102",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100043,
         "info_desc": "",
@@ -2020,6 +2062,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_106102",
+        "prefab": "recommend_106102",
         "order": 1,
         "jump": [
             525
@@ -2060,7 +2103,7 @@
     },
     "100044": {
         "new_recommend": 1,
-        "prefab": "recommend_113301",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100044,
         "info_desc": "",
@@ -2070,6 +2113,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_113301",
+        "prefab": "recommend_113301",
         "order": 2,
         "jump": [
             525
@@ -2111,7 +2155,7 @@
     "100045": {
         "jump2": "",
         "new_recommend": 1,
-        "prefab": "recommend_113803_113903",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100045,
         "info_desc": "",
@@ -2121,6 +2165,7 @@
         "show_time": "2024.12.19-2025.1.16",
         "params": "",
         "icon": "100016",
+        "prefab": "recommend_113803_113903",
         "order": 3,
         "jump": [
             525
@@ -2154,7 +2199,7 @@
     },
     "100046": {
         "new_recommend": 1,
-        "prefab": "recommend_103401",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100046,
         "info_desc": "",
@@ -2164,6 +2209,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_103401",
+        "prefab": "recommend_103401",
         "order": 3,
         "jump": [
             525
@@ -2204,7 +2250,7 @@
     },
     "100047": {
         "new_recommend": 1,
-        "prefab": "recommend_102202",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100047,
         "info_desc": "",
@@ -2214,6 +2260,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_102202",
+        "prefab": "recommend_102202",
         "order": 1,
         "jump": [
             525
@@ -2254,7 +2301,7 @@
     },
     "100048": {
         "new_recommend": 1,
-        "prefab": "recommend_101502",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100048,
         "info_desc": "",
@@ -2264,6 +2311,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_101502",
+        "prefab": "recommend_101502",
         "order": 2,
         "jump": [
             525
@@ -2305,7 +2353,7 @@
     "100049": {
         "jump2": "",
         "new_recommend": 1,
-        "prefab": "recommend_102003",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100049,
         "info_desc": "",
@@ -2315,6 +2363,7 @@
         "show_time": "2025.5.8-2025.6.5",
         "params": "",
         "icon": "icon_102003",
+        "prefab": "recommend_102003",
         "order": 1,
         "jump": [
             2901,
@@ -2349,7 +2398,7 @@
     },
     "100050": {
         "new_recommend": 1,
-        "prefab": "recommend_101201",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100050,
         "info_desc": "",
@@ -2359,6 +2408,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_101201",
+        "prefab": "recommend_101201",
         "order": 2,
         "jump": [
             525
@@ -2399,7 +2449,7 @@
     },
     "100051": {
         "new_recommend": 1,
-        "prefab": "recommend_107503",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100051,
         "info_desc": "",
@@ -2409,6 +2459,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_107503",
+        "prefab": "recommend_107503",
         "order": 1,
         "jump": [
             525
@@ -2449,7 +2500,7 @@
     },
     "100052": {
         "new_recommend": 1,
-        "prefab": "recommend_102802",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100052,
         "info_desc": "",
@@ -2459,6 +2510,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_102802",
+        "prefab": "recommend_102802",
         "order": 3,
         "jump": [
             525
@@ -2499,7 +2551,7 @@
     },
     "100053": {
         "new_recommend": 1,
-        "prefab": "recommend_105502",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100053,
         "info_desc": "",
@@ -2509,6 +2561,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_105502",
+        "prefab": "recommend_105502",
         "order": 2,
         "jump": [
             525
@@ -2550,7 +2603,7 @@
     "100054": {
         "jump2": "",
         "new_recommend": 1,
-        "prefab": "recommend_107301",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100054,
         "info_desc": "",
@@ -2560,6 +2613,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_107301",
+        "prefab": "recommend_107301",
         "order": 3,
         "jump": [
             537
@@ -2593,7 +2647,7 @@
     },
     "100057": {
         "new_recommend": 1,
-        "prefab": "recommend_121101",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100057,
         "info_desc": "",
@@ -2603,6 +2657,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_121101",
+        "prefab": "recommend_121101",
         "order": 2,
         "jump": [
             525
@@ -2644,7 +2699,7 @@
     "100058": {
         "jump2": "",
         "new_recommend": 1,
-        "prefab": "recommend_shouchong",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100058,
         "info_desc": "",
@@ -2654,6 +2709,7 @@
         "show_time": "",
         "params": "",
         "icon": "icon_shouchong",
+        "prefab": "recommend_shouchong",
         "order": 1,
         "jump": [
             536
@@ -2687,7 +2743,7 @@
     },
     "100055": {
         "new_recommend": 1,
-        "prefab": "recommend_104601",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100055,
         "info_desc": "",
@@ -2697,6 +2753,7 @@
         "show_time": "2025.6.5-2025.7.3",
         "params": "",
         "icon": "icon_104601",
+        "prefab": "recommend_104601",
         "order": 2,
         "jump": [
             525
@@ -2737,7 +2794,7 @@
     },
     "100056": {
         "new_recommend": 1,
-        "prefab": "recommend_104501",
+        "new_currency_dlc_icon": "",
         "show_type": 0,
         "goods_id": 100056,
         "info_desc": "",
@@ -2747,6 +2804,7 @@
         "show_time": "2025.6.5-2025.7.3",
         "params": "",
         "icon": "icon_104501",
+        "prefab": "recommend_104501",
         "order": 2,
         "jump": [
             525
@@ -2783,6 +2841,114 @@
                     0
                 ]
             ]
+        ]
+    },
+    "100059": {
+        "new_recommend": 1,
+        "show_type": 0,
+        "goods_id": 100059,
+        "info_desc": "",
+        "title": "午夜沉沦",
+        "sub_title": "裁暗之锋·塞尔凯特",
+        "free_dlc_icon": "",
+        "show_time": "2025.7.3-2025.8.14",
+        "params": "",
+        "icon": "icon_104701",
+        "prefab": "recommend_104701",
+        "order": 2,
+        "jump": [
+            525
+        ],
+        "jump2": [
+            531,
+            15000039,
+            1047,
+            104701,
+            15
+        ],
+        "time": [
+            [
+                [
+                    2025,
+                    7,
+                    3
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2025,
+                    8,
+                    14
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ],
+        "new_currency_dlc_icon": [
+            6040,
+            1
+        ]
+    },
+    "100060": {
+        "new_recommend": 1,
+        "show_type": 0,
+        "goods_id": 100060,
+        "info_desc": "",
+        "title": "粉珊瑚狂热",
+        "sub_title": "黯耀·薇儿丹蒂",
+        "free_dlc_icon": "",
+        "show_time": "2025.7.3-2025.8.14",
+        "params": "",
+        "icon": "icon_128404",
+        "prefab": "recommend_128404",
+        "order": 1,
+        "jump": [
+            525
+        ],
+        "jump2": [
+            531,
+            15000040,
+            1284,
+            128404,
+            15
+        ],
+        "time": [
+            [
+                [
+                    2025,
+                    7,
+                    3
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ],
+            [
+                [
+                    2025,
+                    8,
+                    14
+                ],
+                [
+                    5,
+                    0,
+                    0
+                ]
+            ]
+        ],
+        "new_currency_dlc_icon": [
+            6038,
+            1
         ]
     },
     "all": [
@@ -2843,6 +3009,8 @@
         100057,
         100058,
         100055,
-        100056
+        100056,
+        100059,
+        100060
     ]
 }
